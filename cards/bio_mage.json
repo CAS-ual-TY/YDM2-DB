@@ -1,0 +1,17 @@
+{
+  "id": 58696829,
+  "name": "Bio-Mage",
+  "is_illegal": false,
+  "text": "A mysterious priest created as a result of the latest advances in biotechnology.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1150,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

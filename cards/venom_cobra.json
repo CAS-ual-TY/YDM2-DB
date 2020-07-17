@@ -1,0 +1,17 @@
+{
+  "id": 22499463,
+  "name": "Venom Cobra",
+  "is_illegal": false,
+  "text": "Hard scales cover all parts of this gigantic cobra. It hunts by shooting out massive amounts of venom, but because of its large size, its attack pattern is easily predicted.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

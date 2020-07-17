@@ -1,0 +1,17 @@
+{
+  "id": 7409792,
+  "name": "Dynatherium",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand). You can only Special Summon \"Dynatherium\" once per turn this way. When Summoned this way: Your opponent can target 1 Level 4 monster in either player\u0027s Graveyard; they Special Summon that target to their side of the field.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 25034083,
+  "name": "Decoyroid",
+  "is_illegal": false,
+  "text": "While this card is face-up on your side of the field, your opponent cannot select a face-up monster as an attack target except \"Decoyroid\".",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

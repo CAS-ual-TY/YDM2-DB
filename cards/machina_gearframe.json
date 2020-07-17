@@ -1,0 +1,17 @@
+{
+  "id": 42940404,
+  "name": "Machina Gearframe",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Machina\" monster from your Deck to your hand, except \"Machina Gearframe\". Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Union",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 33734439,
+  "name": "Three-Legged Zombies",
+  "is_illegal": false,
+  "text": "A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1100,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

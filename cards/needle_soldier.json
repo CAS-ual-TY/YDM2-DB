@@ -1,0 +1,17 @@
+{
+  "id": 17841097,
+  "name": "Needle Soldier",
+  "is_illegal": false,
+  "text": "If this card is used as a Synchro Material Monster for a Synchro Monster, during battle between that Synchro Monster and a Defense Position monster whose DEF is lower than the ATK of that Synchro Monster, inflict the difference as Battle Damage to your opponent.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

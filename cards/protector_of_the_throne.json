@@ -1,0 +1,17 @@
+{
+  "id": 10071456,
+  "name": "Protector of the Throne",
+  "is_illegal": false,
+  "text": "While the king is away, this queen protects his throne with a mighty defense.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

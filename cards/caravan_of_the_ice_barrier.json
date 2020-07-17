@@ -1,0 +1,17 @@
+{
+  "id": 37806313,
+  "name": "Caravan of the Ice Barrier",
+  "is_illegal": false,
+  "text": "Once per turn, you can select 2 \"Ice Barrier\" monsters in your Graveyard. Return the selected monsters to the Deck and each player draws 1 card.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

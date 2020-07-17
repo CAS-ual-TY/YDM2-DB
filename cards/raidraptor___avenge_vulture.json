@@ -1,0 +1,17 @@
+{
+  "id": 10194329,
+  "name": "Raidraptor - Avenge Vulture",
+  "is_illegal": false,
+  "text": "If you take damage: You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Raidraptor\" monsters.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
+}

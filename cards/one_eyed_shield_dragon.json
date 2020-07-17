@@ -1,0 +1,17 @@
+{
+  "id": 33064647,
+  "name": "One-Eyed Shield Dragon",
+  "is_illegal": false,
+  "text": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 700,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
+}

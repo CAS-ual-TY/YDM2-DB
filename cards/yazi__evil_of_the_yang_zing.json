@@ -1,0 +1,17 @@
+{
+  "id": 43202238,
+  "name": "Yazi, Evil of the Yang Zing",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nCannot be targeted by an opponent\u0027s card effects. You can only use each of these effects of \"Yazi, Evil of the Yang Zing\" once per turn.\n? You can target 1 \"Yang Zing\" monster you control and 1 card your opponent controls; destroy them.\n? When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 Wyrm-Type monster from your Deck in Defense Position.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Wyrm",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
+}

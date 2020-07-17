@@ -1,0 +1,17 @@
+{
+  "id": 32539892,
+  "name": "Minar",
+  "is_illegal": false,
+  "text": "When this card is discarded directly from your hand to the Graveyard by an effect of a card controlled by your opponent, inflict 1000 points of damage to your opponent\u0027s Life Points.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 850,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 750,
+  "level": 3,
+  "is_tuner": false
+}

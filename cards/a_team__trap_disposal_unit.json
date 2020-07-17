@@ -1,0 +1,17 @@
+{
+  "id": 13026402,
+  "name": "A-Team: Trap Disposal Unit",
+  "is_illegal": false,
+  "text": "This effect can be used during either player\u0027s turn. When your opponent activates a Trap Card, Tribute this face-up card to negate the activation of the Trap Card and destroy it.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

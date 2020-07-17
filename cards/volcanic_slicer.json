@@ -1,0 +1,17 @@
+{
+  "id": 17415895,
+  "name": "Volcanic Slicer",
+  "is_illegal": false,
+  "text": "Once per turn, you can inflict 500 damage to your opponent. If you activate this effect, this card cannot attack during this turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45871897,
+  "name": "Lost Guardian",
+  "is_illegal": false,
+  "text": "The original DEF of this card equals the number of your banished Rock-Type monsters × 700.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

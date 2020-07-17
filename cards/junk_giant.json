@@ -1,0 +1,17 @@
+{
+  "id": 34492631,
+  "name": "Junk Giant",
+  "is_illegal": false,
+  "text": "If your opponent controls a Level 5 or higher monster, you can Special Summon this card (from your hand). A Synchro Summon using this card as a Material cannot be negated. If a player Synchro Summons using this card as a Material, the other player cannot activate cards or effects when that monster is Synchro Summoned.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

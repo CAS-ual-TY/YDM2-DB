@@ -1,0 +1,17 @@
+{
+  "id": 22093873,
+  "name": "Masked HERO Divine Wind",
+  "is_illegal": false,
+  "text": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Cannot be destroyed by battle. Your opponent can attack with only 1 monster during each Battle Phase. When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: You can draw 1 card.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2700,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 8,
+  "is_tuner": false
+}

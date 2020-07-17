@@ -1,0 +1,17 @@
+{
+  "id": 70345785,
+  "name": "Yamadron",
+  "is_illegal": false,
+  "text": "This monster has three fire-breathing heads and can form a sea of blazing flames.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

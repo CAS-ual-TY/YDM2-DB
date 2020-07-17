@@ -1,0 +1,17 @@
+{
+  "id": 89621922,
+  "name": "Neo-Spacian Flare Scarab",
+  "is_illegal": false,
+  "text": "Gains 400 ATK for each Spell/Trap your opponent controls.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 67218327,
+  "name": "SIMM Tablir",
+  "is_illegal": false,
+  "text": "You can reveal this card in your hand, then target 1 Level 4 Cyberse monster in your GY; Special Summon this card from your hand to your zone a linked Link Monster you control points to, and if you do, return the targeted monster to the hand. You can only use this effect of \"SIMM Tablir\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

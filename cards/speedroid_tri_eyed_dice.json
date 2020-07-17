@@ -1,0 +1,17 @@
+{
+  "id": 27660735,
+  "name": "Speedroid Tri-Eyed Dice",
+  "is_illegal": false,
+  "text": "During your opponent\u0027s turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": true
+}

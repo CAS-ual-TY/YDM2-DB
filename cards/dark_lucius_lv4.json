@@ -1,0 +1,17 @@
+{
+  "id": 85313220,
+  "name": "Dark Lucius LV4",
+  "is_illegal": false,
+  "text": "Negate the effects of your opponent\u0027s monsters destroyed by battle with this card. Once per turn, during the Standby Phase of your next turn after this card has destroyed a monster by battle: You can send this card to the GY; Special Summon 1 \"Dark Lucius LV6\" from your hand or Deck.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
+}

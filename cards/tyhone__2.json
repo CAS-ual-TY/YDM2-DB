@@ -1,0 +1,17 @@
+{
+  "id": 56789759,
+  "name": "Tyhone #2",
+  "is_illegal": false,
+  "text": "A crimson dragon that spits fireballs to create a blazing sea of fire.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1700,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
+}

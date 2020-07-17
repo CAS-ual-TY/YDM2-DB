@@ -1,0 +1,17 @@
+{
+  "id": 61679541,
+  "name": "Battlin\u0027 Boxer Rabbit Puncher",
+  "is_illegal": false,
+  "text": "At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 91123920,
+  "name": "The Agent of Force - Mars",
+  "is_illegal": false,
+  "text": "This card is unaffected by any Spell Cards. While you control a face-up \"The Sanctuary in the Sky\" and your Life Points are higher than your opponent\u0027s, this card gains ATK and DEF by the difference between your and your opponent\u0027s Life Points.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

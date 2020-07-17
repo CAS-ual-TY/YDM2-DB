@@ -1,0 +1,17 @@
+{
+  "id": 4130270,
+  "name": "G.B. Hunter",
+  "is_illegal": false,
+  "text": "Cards on the field cannot be returned to the Deck.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

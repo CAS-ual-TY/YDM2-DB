@@ -1,0 +1,17 @@
+{
+  "id": 38109772,
+  "name": "Dragonic Knight",
+  "is_illegal": false,
+  "text": "When the effect of an opponent\u0027s monster is activated that targets and destroys a card(s) you control, you can send the targeted card(s) to the Graveyard to Special Summon this card from your hand.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2800,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
+}

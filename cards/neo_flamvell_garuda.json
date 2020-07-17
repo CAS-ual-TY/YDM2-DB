@@ -1,0 +1,17 @@
+{
+  "id": 65156847,
+  "name": "Neo Flamvell Garuda",
+  "is_illegal": false,
+  "text": "During your End Phase, if you control another face-up \"Flamvell\" monster, select 1 card in your opponent\u0027s Graveyard and remove it from play.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1200,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

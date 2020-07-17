@@ -1,0 +1,16 @@
+{
+  "id": 41248270,
+  "name": "Traffic Ghost",
+  "is_illegal": false,
+  "text": "3 monsters",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "link_rating": 3,
+  "link_arrows": 112
+}

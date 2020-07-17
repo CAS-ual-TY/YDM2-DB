@@ -1,0 +1,17 @@
+{
+  "id": 44009443,
+  "name": "Orbital Hydralander",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 5 or more monsters in your GY, and no monsters in your GY with the same name. Once per turn (Quick Effect): You can send the top 3 cards of your Deck to the GY; destroy 1 card on the field. You must have at least 2 monsters in your GY, and no monsters in your GY with the same name, to activate and to resolve this effect.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

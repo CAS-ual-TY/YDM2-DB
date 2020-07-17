@@ -1,0 +1,17 @@
+{
+  "id": 54455664,
+  "name": "Dragunity Brandistock",
+  "is_illegal": false,
+  "text": "While this card is equipped to a monster, that monster can attack twice during each Battle Phase.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 1,
+  "is_tuner": true
+}

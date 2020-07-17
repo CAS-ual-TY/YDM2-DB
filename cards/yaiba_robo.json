@@ -1,0 +1,17 @@
+{
+  "id": 10315429,
+  "name": "Yaiba Robo",
+  "is_illegal": false,
+  "text": "A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

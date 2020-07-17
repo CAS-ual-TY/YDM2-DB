@@ -1,0 +1,17 @@
+{
+  "id": 1596508,
+  "name": "Dimension Fortress Weapon",
+  "is_illegal": false,
+  "text": "Cards cannot be sent from the Deck to the Graveyard.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

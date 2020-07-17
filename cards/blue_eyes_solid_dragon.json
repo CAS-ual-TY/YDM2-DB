@@ -1,0 +1,17 @@
+{
+  "id": 57043986,
+  "name": "Blue-Eyes Solid Dragon",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; negate its effects. When your opponent activates a card or effect (Quick Effect): You can shuffle this card from the field into the Deck, and if you do, Special Summon 1 \"Blue-Eyes White Dragon\" from your Deck. You can only use each effect of \"Blue-Eyes Solid Dragon\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

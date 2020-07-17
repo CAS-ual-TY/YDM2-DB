@@ -1,0 +1,17 @@
+{
+  "id": 7902349,
+  "name": "Left Arm of the Forbidden One",
+  "is_illegal": false,
+  "text": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

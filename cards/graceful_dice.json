@@ -1,0 +1,8 @@
+{
+  "id": 74137509,
+  "name": "Graceful Dice",
+  "is_illegal": false,
+  "text": "Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.",
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

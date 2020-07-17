@@ -1,0 +1,17 @@
+{
+  "id": 69893315,
+  "name": "Dice Armadillo",
+  "is_illegal": false,
+  "text": "An armadillo monster that rolls up to form a dice-like shape.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1650,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

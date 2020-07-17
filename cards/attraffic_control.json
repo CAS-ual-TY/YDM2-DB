@@ -1,0 +1,8 @@
+{
+  "id": 46083380,
+  "name": "Attraffic Control",
+  "is_illegal": false,
+  "text": "If your opponent controls 3 or more monsters, they cannot declare an attack.",
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

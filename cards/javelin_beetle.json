@@ -1,0 +1,17 @@
+{
+  "id": 26932788,
+  "name": "Javelin Beetle",
+  "is_illegal": false,
+  "text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Javelin Beetle Pact\".",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2450,
+  "species": "Insect",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2550,
+  "level": 8,
+  "is_tuner": false
+}

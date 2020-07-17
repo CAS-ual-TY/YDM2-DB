@@ -1,0 +1,17 @@
+{
+  "id": 53797637,
+  "name": "Burner, Dragon Ruler of Sparks",
+  "is_illegal": false,
+  "text": "You can discard this card AND 1 Dragon-Type or FIRE monster; Special Summon 1 \"Blaster, Dragon Ruler of Infernos\" from your Deck. It cannot attack this turn. You can only use the effect of \"Burner, Dragon Ruler of Sparks\" once per turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 3,
+  "is_tuner": false
+}

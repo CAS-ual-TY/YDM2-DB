@@ -1,0 +1,17 @@
+{
+  "id": 43500484,
+  "name": "Darkworld Thorns",
+  "is_illegal": false,
+  "text": "A thorny plant found in the darklands that wraps itself around any unwary traveler.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 86229493,
+  "name": "Umbral Soul",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-DARK monsters.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
+}

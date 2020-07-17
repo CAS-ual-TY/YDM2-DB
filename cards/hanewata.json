@@ -1,0 +1,17 @@
+{
+  "id": 20450925,
+  "name": "Hanewata",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 200,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 1,
+  "is_tuner": true
+}

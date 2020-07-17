@@ -1,0 +1,17 @@
+{
+  "id": 38289717,
+  "name": "Crawling Dragon #2",
+  "is_illegal": false,
+  "text": "A powerful dragon with teeth that can grind almost anything to dust.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

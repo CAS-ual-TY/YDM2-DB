@@ -1,0 +1,17 @@
+{
+  "id": 83903521,
+  "name": "Beast of the Pharaoh",
+  "is_illegal": false,
+  "text": "If this card is sent to the GY for a Synchro Summon: You can target 1 Level 4 or lower Zombie monster in your GY; Special Summon that target.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

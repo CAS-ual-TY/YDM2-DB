@@ -1,0 +1,16 @@
+{
+  "id": 34472920,
+  "name": "Honeybot",
+  "is_illegal": false,
+  "text": "2 Cyberse monsters\nNeither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1900,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 136
+}

@@ -1,0 +1,17 @@
+{
+  "id": 22386234,
+  "name": "Aurora Paragon",
+  "is_illegal": false,
+  "text": "Neither player can Special Summon monsters. When another monster is Normal Summoned to either player\u0027s side of the field, destroy this card.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

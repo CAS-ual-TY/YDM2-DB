@@ -1,0 +1,17 @@
+{
+  "id": 63941210,
+  "name": "Jizukiru, the Star Destroying Kaiju",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) to your opponent\u0027s field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When a card or effect is activated that targets exactly 1 card (and no other cards) (Quick Effect): You can remove 3 Kaiju Counters from anywhere on the field; negate that effect, and if you do, you can destroy 1 card on the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 10,
+  "is_tuner": false
+}

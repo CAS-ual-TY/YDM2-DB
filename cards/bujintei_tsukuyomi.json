@@ -1,0 +1,16 @@
+{
+  "id": 73289035,
+  "name": "Bujintei Tsukuyomi",
+  "is_illegal": false,
+  "text": "2 Level 4 LIGHT monsters\nOnce per turn: You can detach 1 material from this card; send your entire hand to the GY (min. 1), and if you do, draw 2 cards. When this card you controlled while face-up leaves the field because of an opponent\u0027s card effect: You can target Level 4 Beast-Warrior \"Bujin\" monsters in your GY, up to the number of Xyz Materials this card had on the field; Special Summon those targets. You can only control 1 \"Bujintei Tsukuyomi\".",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Beast-Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "rank": 4
+}

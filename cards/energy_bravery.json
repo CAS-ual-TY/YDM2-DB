@@ -1,0 +1,17 @@
+{
+  "id": 72631243,
+  "name": "Energy Bravery",
+  "is_illegal": false,
+  "text": "Gemini Monsters you control that are being treated as Effect Monsters cannot be destroyed by card effects.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 69946549,
+  "name": "Predaplant Dragostapelia",
+  "is_illegal": false,
+  "text": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. Negate the activated effects of your opponent\u0027s monsters that have Predator Counters.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Plant",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 8,
+  "is_tuner": false
+}

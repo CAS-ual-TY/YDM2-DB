@@ -1,0 +1,17 @@
+{
+  "id": 84794011,
+  "name": "Solitude",
+  "is_illegal": false,
+  "text": "This beast-warrior swings a massive scythe that feeds on the souls of the slain.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1050,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

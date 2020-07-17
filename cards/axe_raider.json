@@ -1,0 +1,17 @@
+{
+  "id": 48305365,
+  "name": "Axe Raider",
+  "is_illegal": false,
+  "text": "An axe-wielding monster of tremendous strength and agility.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1150,
+  "level": 4,
+  "is_tuner": false
+}

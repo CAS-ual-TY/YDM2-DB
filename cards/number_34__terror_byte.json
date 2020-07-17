@@ -1,0 +1,16 @@
+{
+  "id": 32003338,
+  "name": "Number 34: Terror-Byte",
+  "is_illegal": false,
+  "text": "3 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 Level 4 or lower Attack Position monster your opponent controls; gain control of it until the End Phase.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2900,
+  "rank": 3
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30439101,
+  "name": "Melffy of the Forest",
+  "is_illegal": false,
+  "text": "2 Level 2 monsters\nYou can detach 1 material from this card; add 1 \"Melffy\" card from your Deck to your hand. If another face-up \"Melffy\" monster(s) you control returns to your hand (except during the Damage Step): You can target 1 face-up monster your opponent controls; while it is face-up on the field, it cannot attack, also negate its effects. You can only use each effect of \"Melffy of the Forest\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Beast",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 2
+}

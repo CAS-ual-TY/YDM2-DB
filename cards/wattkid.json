@@ -1,0 +1,17 @@
+{
+  "id": 27324313,
+  "name": "Wattkid",
+  "is_illegal": false,
+  "text": "A creature that electrocutes opponents with bolts of lightning.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

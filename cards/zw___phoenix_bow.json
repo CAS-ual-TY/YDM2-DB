@@ -1,0 +1,17 @@
+{
+  "id": 87008374,
+  "name": "ZW - Phoenix Bow",
+  "is_illegal": false,
+  "text": "You can target 1 face-up \"Number C39: Utopia Ray\" you control; equip this card from your hand to that target. It gains 1100 ATK. When the equipped monster destroys an opponent\u0027s monster by battle: Inflict 1000 damage to your opponent. You can only control 1 face-up \"ZW - Phoenix Bow\".",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1100,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 30603688,
+  "name": "Apprentice Illusion Magician",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by discarding 1 card. If this card is Normal or Special Summoned: You can add 1 \"Dark Magician\" from your Deck to your hand. During damage calculation, if your other DARK Spellcaster monster battles an opponent\u0027s monster (Quick Effect): You can send this card from your hand or face-up field to the GY; that monster you control gains 2000 ATK/DEF during that damage calculation only.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

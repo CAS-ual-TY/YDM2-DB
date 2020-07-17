@@ -1,0 +1,17 @@
+{
+  "id": 2618045,
+  "name": "Photon Chargeman",
+  "is_illegal": false,
+  "text": "Once per turn: You can make this card\u0027s ATK become double its original ATK, until your next Standby Phase. This card cannot attack the turn you activate this effect.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

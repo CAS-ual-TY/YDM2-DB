@@ -1,0 +1,17 @@
+{
+  "id": 36151751,
+  "name": "Arma Knight",
+  "is_illegal": false,
+  "text": "An ammonite warrior that has protected the seas throughout history.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

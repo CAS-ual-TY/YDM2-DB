@@ -1,0 +1,17 @@
+{
+  "id": 83994433,
+  "name": "Stardust Spark Dragon",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn (Quick Effect): You can target 1 face-up card you control; once during this turn, it cannot be destroyed by battle or card effects.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

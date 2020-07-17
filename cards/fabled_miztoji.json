@@ -1,0 +1,17 @@
+{
+  "id": 8316661,
+  "name": "Fabled Miztoji",
+  "is_illegal": false,
+  "text": "You can send this card from your hand to the Graveyard to select 1 face-up \"Fabled\" monster you control. The selected monster is treated as a Tuner monster while face-up on the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 2,
+  "is_tuner": true
+}

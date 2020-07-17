@@ -1,0 +1,17 @@
+{
+  "id": 36107810,
+  "name": "Night\u0027s End Sorcerer",
+  "is_illegal": false,
+  "text": "When this card is Special Summoned: You can target up to 2 cards in your opponent\u0027s GY; banish them.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1300,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

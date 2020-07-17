@@ -1,0 +1,17 @@
+{
+  "id": 3573512,
+  "name": "Swordsman of Landstar",
+  "is_illegal": false,
+  "text": "An amateur with a sword, this fairy warrior relies on its mysterious powers.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

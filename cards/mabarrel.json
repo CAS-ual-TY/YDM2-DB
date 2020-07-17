@@ -1,0 +1,17 @@
+{
+  "id": 98795934,
+  "name": "Mabarrel",
+  "is_illegal": false,
+  "text": "This cannon-like creature fires eyeballs so fast they can\u0027t be seen.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

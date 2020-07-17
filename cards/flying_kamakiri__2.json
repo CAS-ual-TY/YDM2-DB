@@ -1,0 +1,17 @@
+{
+  "id": 3134241,
+  "name": "Flying Kamakiri #2",
+  "is_illegal": false,
+  "text": "A flying mantis that feeds primarily on insects.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

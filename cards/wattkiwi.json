@@ -1,0 +1,17 @@
+{
+  "id": 24996659,
+  "name": "Wattkiwi",
+  "is_illegal": false,
+  "text": "\"Watt\" monsters you control cannot be destroyed by battle while they are attacking.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 100,
+  "level": 3,
+  "is_tuner": true
+}

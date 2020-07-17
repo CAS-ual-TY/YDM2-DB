@@ -1,0 +1,17 @@
+{
+  "id": 70681994,
+  "name": "Dragoness the Wicked Knight",
+  "is_illegal": false,
+  "text": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

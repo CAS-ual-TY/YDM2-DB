@@ -1,0 +1,16 @@
+{
+  "id": 86848580,
+  "name": "Ice Beast Zerofyne",
+  "is_illegal": false,
+  "text": "2 Level 4 Winged Beast-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card; negate the effects of all face-up cards your opponent currently controls, and if you do, this card gains 300 ATK for each face-up card currently on the field, except this card (these effects are applied until your next Standby Phase).",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Winged Beast",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "rank": 4
+}

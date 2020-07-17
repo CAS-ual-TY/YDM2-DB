@@ -1,0 +1,17 @@
+{
+  "id": 28183605,
+  "name": "Dragunity Dux",
+  "is_illegal": false,
+  "text": "Gains 200 ATK for each \"Dragunity\" card you control. When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

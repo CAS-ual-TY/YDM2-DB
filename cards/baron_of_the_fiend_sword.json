@@ -1,0 +1,17 @@
+{
+  "id": 86325596,
+  "name": "Baron of the Fiend Sword",
+  "is_illegal": false,
+  "text": "An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1550,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 56514812,
+  "name": "Kunoichi",
+  "is_illegal": false,
+  "text": "When control of this face-up card changes, its new controller discards 1 random card.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

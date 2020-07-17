@@ -1,0 +1,17 @@
+{
+  "id": 90122655,
+  "name": "Tenmataitei",
+  "is_illegal": false,
+  "text": "Your opponent cannot activate cards or effects in response to the activation of any monster effect activated by a monster that was Normal Summoned/Set.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

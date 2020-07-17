@@ -1,0 +1,17 @@
+{
+  "id": 43332022,
+  "name": "Jurrac Gallim",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card\u0027s effect, otherwise destroy the monster that destroyed this card.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1200,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 19642774,
+  "name": "Fleur Synchron",
+  "is_illegal": false,
+  "text": "If this card is sent to the Graveyard as a Synchro Material: You can Special Summon 1 Level 2 or lower monster from your hand.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 2,
+  "is_tuner": true
+}

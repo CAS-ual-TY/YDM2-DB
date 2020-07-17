@@ -1,0 +1,17 @@
+{
+  "id": 83602069,
+  "name": "Comrade Swordsman of Landstar",
+  "is_illegal": false,
+  "text": "All Warrior-Type monsters you control gain 400 ATK.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": true
+}

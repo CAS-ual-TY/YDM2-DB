@@ -1,0 +1,17 @@
+{
+  "id": 81020140,
+  "name": "Volcanic Blaster",
+  "is_illegal": false,
+  "text": "When this card is destroyed and sent to the Graveyard by battle, you can place 1 \"Volcanic\" monster in your Deck on top of your Deck.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1200,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

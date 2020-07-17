@@ -1,0 +1,20 @@
+{
+  "id": 23220863,
+  "name": "Magical Cavalry of Cxulub",
+  "is_illegal": false,
+  "text": "This card is unaffected by monsters\u0027 activated effects, except Pendulum Monsters\u0027.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

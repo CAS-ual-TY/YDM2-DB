@@ -1,0 +1,17 @@
+{
+  "id": 14708569,
+  "name": "Arlownay",
+  "is_illegal": false,
+  "text": "A lady monster dwelling in a flower, she sprinkles the air with poisonous pollen.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

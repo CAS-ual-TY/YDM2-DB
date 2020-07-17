@@ -1,0 +1,17 @@
+{
+  "id": 92421852,
+  "name": "Robolady",
+  "is_illegal": false,
+  "text": "A warrior fully covered with metal. It upgrades by fusing with \"Roboyarou\".",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 450,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 69072185,
+  "name": "Amorphage Goliath",
+  "is_illegal": false,
+  "text": "Neither player can Special Summon monsters from the Extra Deck, except \"Amorphage\" monsters.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2750,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false,
+  "pendulum_text": "While you control an \"Amorphage\" monster, any card sent to the GY is banished instead, except \"Amorphage\" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5
+}

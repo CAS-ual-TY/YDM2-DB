@@ -1,0 +1,17 @@
+{
+  "id": 8058240,
+  "name": "Binding Chain",
+  "is_illegal": false,
+  "text": "The mystic links of this chain can rob enemies of their power.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
+}

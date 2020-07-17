@@ -1,0 +1,8 @@
+{
+  "id": 18739764,
+  "name": "Destruct Potion",
+  "is_illegal": false,
+  "text": "Select 1 monster you control. Destroy it, and gain Life Points equal to its ATK.",
+  "type": "Trap",
+  "trap_type": "Normal"
+}

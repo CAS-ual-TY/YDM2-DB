@@ -1,0 +1,17 @@
+{
+  "id": 66836598,
+  "name": "Waterdragon Fairy",
+  "is_illegal": false,
+  "text": "A water fairy that is said to be able to summon a giant sea serpent.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

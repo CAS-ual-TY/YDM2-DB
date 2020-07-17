@@ -1,0 +1,17 @@
+{
+  "id": 68928540,
+  "name": "Kamakiriman",
+  "is_illegal": false,
+  "text": "A man-shaped mantis with two razor-sharp scythes.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1150,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

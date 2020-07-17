@@ -1,0 +1,17 @@
+{
+  "id": 81570454,
+  "name": "Infernoble Knight - Roland",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can target 1 face-up monster you control; equip this card from your hand to that target as an Equip Spell that gives that card 500 ATK. During the End Phase, if this card is in the GY because it was sent there this turn: You can add 1 FIRE Warrior monster, except \"Infernoble Knight - Roland\", or 1 Equip Spell from your Deck to your hand. You can only use each effect of \"Infernoble Knight - Roland\" once per turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 1,
+  "is_tuner": false
+}

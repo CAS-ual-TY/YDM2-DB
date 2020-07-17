@@ -1,0 +1,17 @@
+{
+  "id": 57116033,
+  "name": "Winged Kuriboh",
+  "is_illegal": false,
+  "text": "If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

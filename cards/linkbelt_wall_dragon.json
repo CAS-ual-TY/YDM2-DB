@@ -1,0 +1,17 @@
+{
+  "id": 63092423,
+  "name": "Linkbelt Wall Dragon",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. When you Link Summon: You can Special Summon this card from your hand, and if you do, place 2 counters on it. If a monster is Link Summoned: Remove 2 of these counters from this card (or all, if less than 2). Once per turn, during each Standby Phase: Place 1 of these counters on this card. No monster can be Link Summoned unless this card has at least as many of these counters as that monster\u0027s Link Rating. Monsters cannot attack, except Link Monsters.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 6,
+  "is_tuner": false
+}

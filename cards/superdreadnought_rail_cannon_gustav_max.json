@@ -1,0 +1,16 @@
+{
+  "id": 56910167,
+  "name": "Superdreadnought Rail Cannon Gustav Max",
+  "is_illegal": false,
+  "text": "2 Level 10 monsters\nOnce per turn: You can detach 1 material from this card; inflict 2000 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "rank": 10
+}

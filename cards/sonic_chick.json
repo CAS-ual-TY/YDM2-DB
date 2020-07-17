@@ -1,0 +1,17 @@
+{
+  "id": 36472900,
+  "name": "Sonic Chick",
+  "is_illegal": false,
+  "text": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

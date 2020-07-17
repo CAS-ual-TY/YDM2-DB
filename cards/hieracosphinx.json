@@ -1,0 +1,17 @@
+{
+  "id": 82260502,
+  "name": "Hieracosphinx",
+  "is_illegal": false,
+  "text": "Your opponent cannot select a face-down Defense Position monster as an attack target.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

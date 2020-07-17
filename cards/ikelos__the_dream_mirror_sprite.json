@@ -1,0 +1,17 @@
+{
+  "id": 49389190,
+  "name": "Ikelos, the Dream Mirror Sprite",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: You can add 1 \"Dream Mirror\" card from your Deck to your hand, except \"Ikelos, the Dream Mirror Sprite\". During the Main or Battle Phase, if \"Dream Mirror of Terror\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Ikelos, the Dream Mirror Mara\" from your Deck. You can only use each effect of \"Ikelos, the Dream Mirror Sprite\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 1,
+  "is_tuner": false
+}

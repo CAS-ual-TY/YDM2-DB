@@ -1,0 +1,17 @@
+{
+  "id": 81179446,
+  "name": "Kattapillar",
+  "is_illegal": false,
+  "text": "Attacks enemies by spitting thin, sticky webs.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 250,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

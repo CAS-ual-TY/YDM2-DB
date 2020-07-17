@@ -1,0 +1,17 @@
+{
+  "id": 423705,
+  "name": "Gearfried the Iron Knight",
+  "is_illegal": false,
+  "text": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

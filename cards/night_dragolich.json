@@ -1,0 +1,17 @@
+{
+  "id": 88724332,
+  "name": "Night Dragolich",
+  "is_illegal": false,
+  "text": "Change all non-Wyrm-Type Attack Position monsters that were Special Summoned from the Main or Extra Deck to Defense Position. All non-Wyrm-Type monsters that were Special Summoned from the Main or Extra Deck lose DEF equal to their original DEF.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Wyrm",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

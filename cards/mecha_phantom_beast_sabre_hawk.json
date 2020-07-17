@@ -1,0 +1,17 @@
+{
+  "id": 15335853,
+  "name": "Mecha Phantom Beast Sabre Hawk",
+  "is_illegal": false,
+  "text": "This card cannot attack your opponent directly. If you have a monster in your Graveyard that is not a \"Mecha Phantom Beast\" monster, this card cannot attack. This card\u0027s Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 1 Token, then target 1 card in either player\u0027s Graveyard; banish that target.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
+}

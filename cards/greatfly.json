@@ -1,0 +1,16 @@
+{
+  "id": 90512490,
+  "name": "Greatfly",
+  "is_illegal": false,
+  "text": "2 WIND monsters\nAll WIND monsters on the field gain 500 ATK/DEF, also all EARTH monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 WIND monster in your GY; add it to your hand. You can only use this effect of \"Greatfly\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Insect",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

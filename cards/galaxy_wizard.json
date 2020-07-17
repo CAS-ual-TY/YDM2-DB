@@ -1,0 +1,17 @@
+{
+  "id": 98555327,
+  "name": "Galaxy Wizard",
+  "is_illegal": false,
+  "text": "Once per turn: You can increase this card\u0027s Level by 4 until the end of this turn. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

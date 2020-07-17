@@ -1,0 +1,17 @@
+{
+  "id": 101102004,
+  "name": "Raidraptor - Heel Eagle",
+  "is_illegal": false,
+  "text": "If all monsters you control are \"Raidraptor\" monsters (min. 1): You can Special Summon this card from your hand. You can banish this card from your GY, then target 1 \"Raidraptor\" Spell/Trap in your GY; add it to your hand. You can only use each effect of \"Raidraptor - Heel Eagle\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 700,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

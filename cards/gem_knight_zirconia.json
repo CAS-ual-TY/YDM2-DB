@@ -1,0 +1,17 @@
+{
+  "id": 8692301,
+  "name": "Gem-Knight Zirconia",
+  "is_illegal": false,
+  "text": "1 \"Gem-Knight\" monster + 1 Rock-Type monster",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2900,
+  "species": "Rock",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

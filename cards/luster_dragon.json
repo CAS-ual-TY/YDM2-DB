@@ -1,0 +1,17 @@
+{
+  "id": 11091375,
+  "name": "Luster Dragon",
+  "is_illegal": false,
+  "text": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1900,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

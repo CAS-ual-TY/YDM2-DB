@@ -1,0 +1,17 @@
+{
+  "id": 30382214,
+  "name": "Flower Cardian Cherry Blossom",
+  "is_illegal": false,
+  "text": "If you control a Level 2 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. Once per turn: You can Tribute 1 \"Flower Cardian\" monster; draw 1 card, and if you do, show it, then, if it is a \"Flower Cardian\" monster, you can take 1 \"Flower Cardian\" monster from your Deck, except \"Flower Cardian Cherry Blossom\", and either add it to your hand or Special Summon it. Otherwise, send it to the GY.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 97021916,
+  "name": "Dark Resonator",
+  "is_illegal": false,
+  "text": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1300,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 3,
+  "is_tuner": true
+}

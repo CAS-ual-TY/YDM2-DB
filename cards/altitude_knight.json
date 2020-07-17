@@ -1,0 +1,17 @@
+{
+  "id": 27632240,
+  "name": "Altitude Knight",
+  "is_illegal": false,
+  "text": "Once per turn, if another monster on the field returns to the hand or Main Deck: Send 1 WIND monster from your Deck to the Graveyard.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

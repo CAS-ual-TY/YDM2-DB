@@ -1,0 +1,8 @@
+{
+  "id": 86449372,
+  "name": "TA.I. Strike",
+  "is_illegal": false,
+  "text": "During damage calculation, if your monster battles an opponent\u0027s monster: Your battling monster\u0027s ATK becomes that opponent\u0027s monster\u0027s ATK, during that damage calculation only, also, the controller of any monster destroyed by that battle takes damage equal to its original ATK, at the end of the Damage Step. If your \"@Ignister\" monster would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"TA.I. Strike\" per turn.",
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

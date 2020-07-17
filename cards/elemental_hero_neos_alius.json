@@ -1,0 +1,17 @@
+{
+  "id": 69884162,
+  "name": "Elemental HERO Neos Alius",
+  "is_illegal": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n? This card\u0027s name becomes \"Elemental HERO Neos\" while on the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1900,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Gemini",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

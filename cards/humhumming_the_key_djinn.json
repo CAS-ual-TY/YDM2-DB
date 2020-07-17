@@ -1,0 +1,16 @@
+{
+  "id": 90098780,
+  "name": "Humhumming the Key Djinn",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nWhen this card is Special Summoned: You can target 1 \"Djinn\" Xyz Monster in your Graveyard; Special Summon it, then you can attach up to 2 cards from your hand to it as Xyz Materials. Once per turn: You can detach 1 Xyz Material from this card, then target 1 \"Djinn\" Xyz Monster you control; this turn, it can attack your opponent directly.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Fiend",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "rank": 3
+}

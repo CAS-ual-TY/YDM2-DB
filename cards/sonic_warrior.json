@@ -1,0 +1,17 @@
+{
+  "id": 17932494,
+  "name": "Sonic Warrior",
+  "is_illegal": false,
+  "text": "If this card is sent to the Graveyard: All Level 2 or lower monsters you currently control gain 500 ATK.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

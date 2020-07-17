@@ -1,0 +1,16 @@
+{
+  "id": 23187256,
+  "name": "Number 93: Utopia Kaiser",
+  "is_illegal": false,
+  "text": "2+ \"Number\" Xyz Monsters, with the same Rank, that have material\nOnce per turn: You can Special Summon Rank 9 or lower \"Number\" monsters with 3000 or less ATK that have different Ranks from each other from your Extra Deck, up to the number of materials with different names attached to this card, but their effects are negated, then detach 1 material from this card. For the rest of this turn, unless this effect was negated, you cannot Special Summon, and any battle damage your opponent takes becomes halved. While you control another \"Number\" Xyz Monster, this card cannot be destroyed by battle or card effects.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 12
+}

@@ -1,0 +1,17 @@
+{
+  "id": 83629030,
+  "name": "Toon Cyber Dragon",
+  "is_illegal": false,
+  "text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Toon",
+  "has_effect": true,
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

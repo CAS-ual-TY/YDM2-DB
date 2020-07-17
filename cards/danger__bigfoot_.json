@@ -1,0 +1,17 @@
+{
+  "id": 43316238,
+  "name": "Danger! Bigfoot!",
+  "is_illegal": false,
+  "text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Bigfoot!\", Special Summon 1 \"Danger! Bigfoot!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Danger! Bigfoot!\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

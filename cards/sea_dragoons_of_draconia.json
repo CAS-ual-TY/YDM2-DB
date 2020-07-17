@@ -1,0 +1,20 @@
+{
+  "id": 82114013,
+  "name": "Sea Dragoons of Draconia",
+  "is_illegal": false,
+  "text": "Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea\u0027s opposite shores.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 200,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 2100,
+  "level": 3,
+  "is_tuner": false,
+  "pendulum_text": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.\n",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7
+}

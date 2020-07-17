@@ -1,0 +1,17 @@
+{
+  "id": 90925163,
+  "name": "Dancing Fairy",
+  "is_illegal": false,
+  "text": "As long as this card remains in face-up Defense Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1700,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 71218746,
+  "name": "Drillroid",
+  "is_illegal": false,
+  "text": "Before damage calculation, if this card attacks a Defense Position monster: Destroy that monster.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

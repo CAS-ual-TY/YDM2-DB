@@ -1,0 +1,17 @@
+{
+  "id": 21347810,
+  "name": "Rainbow Flower",
+  "is_illegal": false,
+  "text": "This monster may attack your opponent\u0027s Life Points directly.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 32344688,
+  "name": "Dark Chimera",
+  "is_illegal": false,
+  "text": "A fire-breathing monster that dwells in the netherworld.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1610,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1460,
+  "level": 5,
+  "is_tuner": false
+}

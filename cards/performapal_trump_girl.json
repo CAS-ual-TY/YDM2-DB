@@ -1,0 +1,20 @@
+{
+  "id": 42002073,
+  "name": "Performapal Trump Girl",
+  "is_illegal": false,
+  "text": "Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card. If this card in the Pendulum Zone is destroyed: You can target 1 Dragon-Type Fusion Monster in your Graveyard; Special Summon it, but destroy it during the End Phase.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 2,
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
+}

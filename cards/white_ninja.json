@@ -1,0 +1,17 @@
+{
+  "id": 1571945,
+  "name": "White Ninja",
+  "is_illegal": false,
+  "text": "FLIP: Target 1 Defense Position monster on the field; destroy that target.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

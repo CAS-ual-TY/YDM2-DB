@@ -1,0 +1,17 @@
+{
+  "id": 50613779,
+  "name": "Damage Mage",
+  "is_illegal": false,
+  "text": "When you take damage from a card effect: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

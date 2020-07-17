@@ -1,0 +1,17 @@
+{
+  "id": 50164989,
+  "name": "Dark Verger",
+  "is_illegal": false,
+  "text": "When a Plant-Type Tuner monster is Normal Summoned to your side of the field: You can Special Summon this card from your Graveyard in Attack Position.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}

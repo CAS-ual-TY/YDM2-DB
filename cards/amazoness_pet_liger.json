@@ -1,0 +1,17 @@
+{
+  "id": 68507541,
+  "name": "Amazoness Pet Liger",
+  "is_illegal": false,
+  "text": "\"Amazoness Tiger\" + 1 \"Amazoness\" monster\nOnce per battle, if this card attacks, during damage calculation: You can make this card gain 500 ATK during that damage calculation only. If your \"Amazoness\" monster attacked an opponent\u0027s monster, after damage calculation: You can target 1 face-up monster your opponent controls; it loses 800 ATK. Monsters your opponent controls cannot attack \"Amazoness\" monsters you control, except this one.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2500,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
+}

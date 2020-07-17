@@ -1,0 +1,17 @@
+{
+  "id": 43352213,
+  "name": "Nekogal #2",
+  "is_illegal": false,
+  "text": "A fast and lethal creature with very dangerous claws.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

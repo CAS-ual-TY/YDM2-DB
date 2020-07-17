@@ -1,0 +1,17 @@
+{
+  "id": 15545291,
+  "name": "Granmarg the Mega Monarch",
+  "is_illegal": false,
+  "text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: Target up to 2 Set cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing an EARTH monster, add this additional effect.\n? Also, draw 1 card after that.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false
+}

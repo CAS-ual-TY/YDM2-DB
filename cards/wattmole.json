@@ -1,0 +1,17 @@
+{
+  "id": 32548609,
+  "name": "Wattmole",
+  "is_illegal": false,
+  "text": "This card can attack twice during each Battle Phase. If this card attacks a face-down Defense Position monster, you can destroy that monster immediately with this card\u0027s effect without flipping it face-up or applying damage calculation.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
+}

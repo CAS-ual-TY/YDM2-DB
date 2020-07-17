@@ -1,0 +1,17 @@
+{
+  "id": 44954628,
+  "name": "B.E.S. Tetran",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned, put 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. Once per turn, you can remove 1 counter on this card to destroy 1 Spell or Trap Card on the field.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 6,
+  "is_tuner": false
+}

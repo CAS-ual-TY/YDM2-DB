@@ -1,0 +1,20 @@
+{
+  "id": 10239627,
+  "name": "Magical Abductor",
+  "is_illegal": false,
+  "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 100 ATK for each Spell Counter on it. Once per turn: You can remove 3 Spell Counters from this card; add 1 Level 1 Spellcaster monster from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn: You can remove 3 Spell Counters from this card; add 1 Pendulum Monster from your Deck to your hand.\n",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

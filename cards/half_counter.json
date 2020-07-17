@@ -1,0 +1,8 @@
+{
+  "id": 6799227,
+  "name": "Half Counter",
+  "is_illegal": false,
+  "text": "During damage calculation, if a monster you control is being attacked: Target that monster you control; that target gains ATK equal to half the original ATK of the attacking monster, until the End Phase.",
+  "type": "Trap",
+  "trap_type": "Normal"
+}

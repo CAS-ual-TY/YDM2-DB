@@ -1,0 +1,17 @@
+{
+  "id": 17511156,
+  "name": "Wood Clown",
+  "is_illegal": false,
+  "text": "A creature with a wicked smile and a lethal sickle.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

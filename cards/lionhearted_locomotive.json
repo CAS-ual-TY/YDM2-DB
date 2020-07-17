@@ -1,0 +1,17 @@
+{
+  "id": 61692648,
+  "name": "Lionhearted Locomotive",
+  "is_illegal": false,
+  "text": "When this card declares an attack: Its ATK becomes half its original ATK until the end of the Damage Step.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

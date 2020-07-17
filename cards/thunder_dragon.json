@@ -1,0 +1,17 @@
+{
+  "id": 31786629,
+  "name": "Thunder Dragon",
+  "is_illegal": false,
+  "text": "You can discard this card; add up to 2 \"Thunder Dragon\" from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

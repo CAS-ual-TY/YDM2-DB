@@ -1,0 +1,17 @@
+{
+  "id": 39761138,
+  "name": "Neo Flamvell Shaman",
+  "is_illegal": false,
+  "text": "If this card destroys an opponent\u0027s monster by battle while you have 3 or more \"Flamvell\" monsters in your Graveyard, select 1 card in your opponent\u0027s Graveyard and remove it from play. If your opponent does not have any Spell Cards in their Graveyard when this effect activates, inflict 500 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1700,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 80959027,
+  "name": "Mythical Beast Bashilisk",
+  "is_illegal": false,
+  "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field; return 1 \"Mythical Beast\" card from your Pendulum Zone or face-up from your Extra Deck to the hand. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "If you have no cards in your other Pendulum Zone: You can destroy this card, and if you do, shuffle 1 face-up Spellcaster Pendulum Monster from your Extra Deck into the Deck, except \"Mythical Beast Basilisk\", then draw 1 card. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.\n",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
+}

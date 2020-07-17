@@ -1,0 +1,17 @@
+{
+  "id": 56283725,
+  "name": "Kumootoko",
+  "is_illegal": false,
+  "text": "A massive, intelligent spider that traps enemies with webbing.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 3,
+  "is_tuner": false
+}

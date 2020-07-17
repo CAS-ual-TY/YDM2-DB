@@ -1,0 +1,17 @@
+{
+  "id": 22073844,
+  "name": "Cardinal of Dogma Tetradragmatton",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. You can target 4 Fusion, Synchro, Xyz, and/or Link Monsters in the GYs; Special Summon this card from your hand, and if you do, banish those targets. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy as many opponent\u0027s Attack Position monsters as possible, then inflict 800 damage to your opponent for each Fusion, Synchro, Xyz, or Link Monster destroyed.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3200,
+  "level": 10,
+  "is_tuner": false
+}

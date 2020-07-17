@@ -1,0 +1,17 @@
+{
+  "id": 91668401,
+  "name": "Cyber Angel Izana",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can make your opponent send 1 Spell/Trap they control to the GY. When this attacking card destroys an opponent\u0027s monster by battle and sends it to the GY: You can activate this effect; this card can make a second attack on an opponent\u0027s monster in a row. Once per turn, when your opponent activates a card or effect that targets a \"Cyber Angel\" Ritual Monster you control (Quick Effect): You can shuffle 1 Ritual Monster from your GY into the Deck, and if you do, destroy 1 card your opponent controls.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Fairy",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

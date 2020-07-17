@@ -1,0 +1,17 @@
+{
+  "id": 31061682,
+  "name": "Kozmo Farmgirl",
+  "is_illegal": false,
+  "text": "During either player\u0027s turn: You can banish this card; Special Summon 1 Level 4 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Farmgirl\" once per turn. When this card inflicts battle damage to your opponent: You can pay 500 LP; add 1 \"Kozmo\" card from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

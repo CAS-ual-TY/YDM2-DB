@@ -1,0 +1,17 @@
+{
+  "id": 64373401,
+  "name": "Superheavy Samurai Trumpeter",
+  "is_illegal": false,
+  "text": "If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. If this card is Tributed for the Tribute Summon of a \"Superheavy Samurai\" monster and sent to the Graveyard, and you have no Spell/Trap Cards in your Graveyard: You can Special Summon this card.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": true
+}

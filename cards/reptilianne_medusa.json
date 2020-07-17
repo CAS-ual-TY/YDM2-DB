@@ -1,0 +1,17 @@
+{
+  "id": 89810518,
+  "name": "Reptilianne Medusa",
+  "is_illegal": false,
+  "text": "Send 1 card from your hand to the Graveyard and select 1 face-up monster your opponent controls. The ATK of the selected monster becomes 0, and it cannot change its battle position.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 6,
+  "is_tuner": false
+}

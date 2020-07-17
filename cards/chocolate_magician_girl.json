@@ -1,0 +1,17 @@
+{
+  "id": 7198399,
+  "name": "Chocolate Magician Girl",
+  "is_illegal": false,
+  "text": "Once per turn: You can discard 1 Spellcaster-Type monster; draw 1 card. Once per turn, if this card is targeted for an attack: You can target 1 Spellcaster-Type monster in your Graveyard, except \"Chocolate Magician Girl\"; Special Summon it, then change the attack target to it, and if you do, the attacking monster\u0027s ATK becomes half its current ATK.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

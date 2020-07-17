@@ -1,0 +1,17 @@
+{
+  "id": 13723605,
+  "name": "Man-Eating Treasure Chest",
+  "is_illegal": false,
+  "text": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

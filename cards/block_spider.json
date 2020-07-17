@@ -1,0 +1,17 @@
+{
+  "id": 79636594,
+  "name": "Block Spider",
+  "is_illegal": false,
+  "text": "Your opponent cannot target Insect-Type monsters for attacks, except this one. If this card is Special Summoned: You can Special Summon 1 \"Block Spider\" from your Deck. You can only use this effect of \"Block Spider\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

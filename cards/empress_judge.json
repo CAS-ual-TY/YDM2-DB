@@ -1,0 +1,17 @@
+{
+  "id": 15237615,
+  "name": "Empress Judge",
+  "is_illegal": false,
+  "text": "\"Queen\u0027s Double\" + \"Hibikime\"",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

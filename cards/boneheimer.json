@@ -1,0 +1,17 @@
+{
+  "id": 98456117,
+  "name": "Boneheimer",
+  "is_illegal": false,
+  "text": "This monster wanders the seas, sucking dry any creatures it may encounter.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 850,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}

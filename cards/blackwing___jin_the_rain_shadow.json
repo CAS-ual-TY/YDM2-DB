@@ -1,0 +1,17 @@
+{
+  "id": 38562933,
+  "name": "Blackwing - Jin the Rain Shadow",
+  "is_illegal": false,
+  "text": "If this card battles a face-up monster with DEF equal to or less than this card\u0027s ATK, destroy that monster at the start of the Damage Step (without damage calculation).",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 600,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 1,
+  "is_tuner": true
+}

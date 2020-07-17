@@ -1,0 +1,17 @@
+{
+  "id": 56399890,
+  "name": "The Fabled Catsith",
+  "is_illegal": false,
+  "text": "When this card is discarded to the Graveyard, select 1 face-up card on the field, and destroy it.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 1,
+  "is_tuner": true
+}

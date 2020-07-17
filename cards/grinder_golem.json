@@ -1,0 +1,17 @@
+{
+  "id": 75732622,
+  "name": "Grinder Golem",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) to your opponent\u0027s side of the field by Special Summoning 2 \"Grinder Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in face-up Attack Position on your side of the field. If you Special Summon this monster, you cannot Normal Summon or Set a monster during the same turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 8,
+  "is_tuner": false
+}

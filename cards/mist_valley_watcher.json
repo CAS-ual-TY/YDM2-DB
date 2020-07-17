@@ -1,0 +1,17 @@
+{
+  "id": 29054481,
+  "name": "Mist Valley Watcher",
+  "is_illegal": false,
+  "text": "Descendant of a family that has served as Mist Valley watchman over the generations. Never missed a single thing that happened in the valley, no matter how minute.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
+}

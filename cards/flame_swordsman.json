@@ -1,0 +1,17 @@
+{
+  "id": 45231177,
+  "name": "Flame Swordsman",
+  "is_illegal": false,
+  "text": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

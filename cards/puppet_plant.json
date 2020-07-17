@@ -1,0 +1,17 @@
+{
+  "id": 51119924,
+  "name": "Puppet Plant",
+  "is_illegal": false,
+  "text": "You can discard this card to the Graveyard, then target 1 Warrior or Spellcaster-Type monster your opponent controls; take control of that target until the End Phase.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

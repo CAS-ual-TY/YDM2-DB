@@ -1,0 +1,17 @@
+{
+  "id": 56605802,
+  "name": "Phantom Cricket",
+  "is_illegal": false,
+  "text": "FLIP: Return 1 face-down monster from the field to the top of its owner\u0027s Deck.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}

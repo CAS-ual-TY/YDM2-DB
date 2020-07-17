@@ -1,0 +1,17 @@
+{
+  "id": 33746252,
+  "name": "Majesty\u0027s Fiend",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. Neither player can activate monster effects.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

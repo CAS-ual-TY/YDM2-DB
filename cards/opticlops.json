@@ -1,0 +1,17 @@
+{
+  "id": 14531242,
+  "name": "Opticlops",
+  "is_illegal": false,
+  "text": "A one-eyed giant that serves the \"Dark Ruler Ha Des\", it skewers its enemies with its sharp horn, shattering them to pieces.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

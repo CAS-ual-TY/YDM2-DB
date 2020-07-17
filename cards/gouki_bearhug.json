@@ -1,0 +1,17 @@
+{
+  "id": 12097275,
+  "name": "Gouki Bearhug",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned by the effect of a \"Gouki\" card, or Normal Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its original ATK until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Bearhug\". You can only use each effect of \"Gouki Bearhug\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

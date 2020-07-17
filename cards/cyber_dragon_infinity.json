@@ -1,0 +1,16 @@
+{
+  "id": 10443957,
+  "name": "Cyber Dragon Infinity",
+  "is_illegal": false,
+  "text": "3 Level 6 LIGHT Machine monsters\nOnce per turn, you can also Xyz Summon \"Cyber Dragon Infinity\" by using \"Cyber Dragon Nova\" you control as material. (Transfer its materials to this card.) Gains 200 ATK for each material attached to it. Once per turn: You can target 1 face-up Attack Position monster on the field; attach it to this card as material. Once per turn, when a card or effect is activated (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy it.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "rank": 6
+}

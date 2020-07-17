@@ -1,0 +1,17 @@
+{
+  "id": 63545455,
+  "name": "Mech Mole Zombie",
+  "is_illegal": false,
+  "text": "This creature attacks by launching missile-like arms.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 59575539,
+  "name": "Krebons",
+  "is_illegal": false,
+  "text": "When this card is targeted for an attack: You can pay 800 LP; negate the attack.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

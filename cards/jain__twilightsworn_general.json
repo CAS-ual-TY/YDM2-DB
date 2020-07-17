@@ -1,0 +1,17 @@
+{
+  "id": 84673417,
+  "name": "Jain, Twilightsworn General",
+  "is_illegal": false,
+  "text": "Once per turn: You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 face-up monster on the field; it loses ATK and DEF equal to the banished monster\u0027s Level x 300, until the end of this turn. Once per turn, if your other \"Lightsworn\" monster\u0027s effect is activated: Send the top 2 cards of your Deck to the GY.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

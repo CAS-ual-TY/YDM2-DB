@@ -1,0 +1,17 @@
+{
+  "id": 88845345,
+  "name": "Elephun",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard, you can select 1 of your Level 3 or lower Beast-Type, Beast-Warrior-Type or Winged Beast-Type monsters that is removed from play, and add it to your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 2,
+  "is_tuner": true
+}

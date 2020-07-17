@@ -1,0 +1,17 @@
+{
+  "id": 99212922,
+  "name": "White Dragon Ninja",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned, except with a \"Ninjitsu Art\" card\u0027s effect. Spells/Traps you control cannot be destroyed by card effects.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2700,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 7,
+  "is_tuner": false
+}

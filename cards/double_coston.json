@@ -1,0 +1,17 @@
+{
+  "id": 44436472,
+  "name": "Double Coston",
+  "is_illegal": false,
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1650,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10859908,
+  "name": "Holograh",
+  "is_illegal": false,
+  "text": "This machine generates illusions that leave an enemy wide open to attacks.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 17393207,
+  "name": "Gravekeeper\u0027s Commandant",
+  "is_illegal": false,
+  "text": "You can discard this card to the Graveyard; add 1 \"Necrovalley\" from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

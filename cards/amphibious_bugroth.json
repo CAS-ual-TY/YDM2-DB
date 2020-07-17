@@ -1,0 +1,17 @@
+{
+  "id": 40173854,
+  "name": "Amphibious Bugroth",
+  "is_illegal": false,
+  "text": "\"Ground Attacker Bugroth\" + \"Defender of the Sea\"",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1850,
+  "species": "Aqua",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
+}

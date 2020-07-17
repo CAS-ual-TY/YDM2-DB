@@ -1,0 +1,17 @@
+{
+  "id": 26439287,
+  "name": "Proto-Cyber Dragon",
+  "is_illegal": false,
+  "text": "This card\u0027s name becomes \"Cyber Dragon\" while on the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

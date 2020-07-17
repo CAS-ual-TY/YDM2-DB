@@ -1,0 +1,17 @@
+{
+  "id": 38520918,
+  "name": "Ancient Dragon",
+  "is_illegal": false,
+  "text": "When this card inflicts battle damage to your opponent by a direct attack: You can increase this card\u0027s Level by 1 and ATK by 500.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

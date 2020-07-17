@@ -1,0 +1,8 @@
+{
+  "id": 20374520,
+  "name": "Begone, Knave!",
+  "is_illegal": false,
+  "text": "If a monster inflicts battle damage to a player: Return that monster to the hand.",
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 32530043,
+  "name": "Gallant Granite",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nYou can detach 1 material from this card, then activate 1 of these effects;\n? Add 1 Rock monster from your Deck to your hand.\n? Special Summon 1 Rock monster from your hand in face-down Defense Position.\nYou can only use this effect of \"Gallant Granite\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Rock",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "rank": 4
+}

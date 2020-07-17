@@ -1,0 +1,17 @@
+{
+  "id": 70924884,
+  "name": "Alinsection",
+  "is_illegal": false,
+  "text": "A stag beetle with a saw-like head and arms.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 950,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 27491571,
+  "name": "Ghostrick Witch",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. Once per turn: You can target 1 face-up monster your opponent controls; change it to face-down Defense Position.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

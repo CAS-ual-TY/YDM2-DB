@@ -1,0 +1,17 @@
+{
+  "id": 58786132,
+  "name": "Lucius the Shadow Vassal",
+  "is_illegal": false,
+  "text": "You can banish 1 Level 5 or higher monster from your Graveyard; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can look at all Set cards your opponent controls. Your opponent cannot activate cards or effects in response to this effect\u0027s activation. You can only use each effect of \"Lucius the Shadow Vassal\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 1,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 51638941,
+  "name": "V-Tiger Jet",
+  "is_illegal": false,
+  "text": "This ace fighter is unbeatable in a dogfight. It combines with other monsters to launch an array of encircling attacks.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 6740720,
+  "name": "Seiyaryu",
+  "is_illegal": false,
+  "text": "A mystical dragon that burns away the unworthy with its mystic flames.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
+}

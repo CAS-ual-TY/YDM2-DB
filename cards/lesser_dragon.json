@@ -1,0 +1,17 @@
+{
+  "id": 55444629,
+  "name": "Lesser Dragon",
+  "is_illegal": false,
+  "text": "A minor dragon incapable of breathing fire.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

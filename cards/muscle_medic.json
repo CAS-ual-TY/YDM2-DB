@@ -1,0 +1,17 @@
+{
+  "id": 4848423,
+  "name": "Muscle Medic",
+  "is_illegal": false,
+  "text": "If a player would take damage from a battle involving this card, they gain that much LP, instead.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
+}

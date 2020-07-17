@@ -1,0 +1,17 @@
+{
+  "id": 53623827,
+  "name": "Top Runner",
+  "is_illegal": false,
+  "text": "All face-up Synchro Monsters you control gain 600 ATK.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 4,
+  "is_tuner": true
+}

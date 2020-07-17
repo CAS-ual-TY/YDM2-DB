@@ -1,0 +1,17 @@
+{
+  "id": 7541475,
+  "name": "Kabuki Dragon",
+  "is_illegal": false,
+  "text": "Once per turn, before damage calculation, if your monster attacked an opponent\u0027s monster: You can change the battle position of that monster your opponent controls. Once per turn, before damage calculation, if an opponent\u0027s monster attacked your monster: You can change the battle position of that monster you control.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 6,
+  "is_tuner": false
+}

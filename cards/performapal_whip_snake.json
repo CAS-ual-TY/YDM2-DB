@@ -1,0 +1,17 @@
+{
+  "id": 79967395,
+  "name": "Performapal Whip Snake",
+  "is_illegal": false,
+  "text": "Once per turn, during either player\u0027s Main Phase: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 60953118,
+  "name": "Arcana Force XIV - Temperance",
+  "is_illegal": false,
+  "text": "During damage calculation, in either player\u0027s turn: You can discard this card; you take no Battle Damage from that battle. When this card is Summoned: Toss a coin and apply this effect. The effect lasts while this card is face-up on the field.\n? Heads: Halve all Battle Damage you take.\n? Tails: Halve all Battle Damage your opponent takes.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

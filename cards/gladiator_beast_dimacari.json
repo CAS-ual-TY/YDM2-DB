@@ -1,0 +1,17 @@
+{
+  "id": 31247589,
+  "name": "Gladiator Beast Dimacari",
+  "is_illegal": false,
+  "text": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, it can attack twice during each Battle Phase. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Dimacari\".",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

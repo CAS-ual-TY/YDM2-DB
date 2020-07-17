@@ -1,0 +1,17 @@
+{
+  "id": 45586855,
+  "name": "Ally of Justice Cyclone Creator",
+  "is_illegal": false,
+  "text": "Once per turn, you can discard 1 card from your hand to return Spell/Trap Cards from the field to the hand equal to the number of face-up Tuner monsters on the field.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 57143342,
+  "name": "Cir, Malebranche of the Burning Abyss",
+  "is_illegal": false,
+  "text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Cir, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n? If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n? If this card is sent to the Graveyard: You can target 1 \"Burning Abyss\" monster in your Graveyard, except \"Cir, Malebranche of the Burning Abyss\"; Special Summon it.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

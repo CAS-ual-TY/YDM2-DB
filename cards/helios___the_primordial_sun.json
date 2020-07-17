@@ -1,0 +1,17 @@
+{
+  "id": 54493213,
+  "name": "Helios - The Primordial Sun",
+  "is_illegal": false,
+  "text": "This card\u0027s ATK and DEF are each equal to the number of removed from play monsters x 100.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

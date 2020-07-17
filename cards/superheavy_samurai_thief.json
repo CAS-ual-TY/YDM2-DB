@@ -1,0 +1,17 @@
+{
+  "id": 14756848,
+  "name": "Superheavy Samurai Thief",
+  "is_illegal": false,
+  "text": "If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. You can Tribute this card, then activate 1 of these effects;\n? Destroy 1 card in your opponent\u0027s Spell \u0026 Trap Zone, then you can Set the destroyed Spell/Trap Card on your side of the field.\n? Destroy 1 card in your opponent\u0027s Pendulum Zone, then you can place the destroyed card in your Pendulum Zone.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 10,
+  "is_tuner": false
+}

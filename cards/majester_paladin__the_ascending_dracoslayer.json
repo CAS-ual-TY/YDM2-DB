@@ -1,0 +1,16 @@
+{
+  "id": 88722973,
+  "name": "Majester Paladin, the Ascending Dracoslayer",
+  "is_illegal": false,
+  "text": "2 Level 4 Pendulum Monsters\nWhen this card is Xyz Summoned: You can add 1 Pendulum Monster from your Deck to your hand during the End Phase of this turn. Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 face-up \"Dracoslayer\" Pendulum Monster from your Extra Deck, but it cannot be used as an Xyz Material for a Summon.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1850,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 4
+}

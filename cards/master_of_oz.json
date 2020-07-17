@@ -1,0 +1,17 @@
+{
+  "id": 27134689,
+  "name": "Master of Oz",
+  "is_illegal": false,
+  "text": "\"Big Koala\" + \"Des Kangaroo\"",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 4200,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 3700,
+  "level": 9,
+  "is_tuner": false
+}

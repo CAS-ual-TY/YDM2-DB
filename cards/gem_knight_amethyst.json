@@ -1,0 +1,17 @@
+{
+  "id": 71616908,
+  "name": "Gem-Knight Amethyst",
+  "is_illegal": false,
+  "text": "1 \"Gem-Knight\" monster + 1 Aqua-Type monster\nMust first be Fusion Summoned. When this card is sent from the field to the Graveyard: Return all Set Spell and Trap Cards on the field to the hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1950,
+  "species": "Aqua",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2450,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 71133680,
+  "name": "Mermail Abyssnerei",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can discard this card, then target 1 WATER monster you control; destroy 1 other WATER monster in your hand or field, and if you do, the targeted monster gains ATK/DEF equal to the destroyed monster\u0027s original ATK/DEF, until the end of this turn. If this card is sent from the field to the GY: You can draw 1 card, then discard 1 card. You can only use each effect of \"Mermail Abyssnerei\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

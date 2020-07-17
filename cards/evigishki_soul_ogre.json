@@ -1,0 +1,17 @@
+{
+  "id": 57272170,
+  "name": "Evigishki Soul Ogre",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can discard 1 \"Gishki\" monster to target 1 face-up card your opponent controls; shuffle that target into the Deck.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2800,
+  "species": "Aqua",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

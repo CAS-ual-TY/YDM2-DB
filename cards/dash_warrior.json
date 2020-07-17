@@ -1,0 +1,17 @@
+{
+  "id": 34257001,
+  "name": "Dash Warrior",
+  "is_illegal": false,
+  "text": "If this card attacks, it gains 1200 ATK during the Damage Step only.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

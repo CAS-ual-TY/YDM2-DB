@@ -1,0 +1,17 @@
+{
+  "id": 48791583,
+  "name": "Invoked Magellanica",
+  "is_illegal": false,
+  "text": "\"Aleister the Invoker\" + 1 EARTH monster",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Rock",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 3300,
+  "level": 8,
+  "is_tuner": false
+}

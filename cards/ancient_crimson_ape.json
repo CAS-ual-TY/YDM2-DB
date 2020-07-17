@@ -1,0 +1,17 @@
+{
+  "id": 50781944,
+  "name": "Ancient Crimson Ape",
+  "is_illegal": false,
+  "text": "When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

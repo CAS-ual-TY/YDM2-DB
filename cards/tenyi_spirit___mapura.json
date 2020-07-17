@@ -1,0 +1,17 @@
+{
+  "id": 60942444,
+  "name": "Tenyi Spirit - Mapura",
+  "is_illegal": false,
+  "text": "If you control no Effect Monsters: You can Special Summon this card from your hand. When your opponent activates a card or effect that targets a face-up non-Effect Monster(s) you control (Quick Effect): You can banish this card from your hand or GY; negate the activation, and if you do, destroy that card. You can only use each effect of \"Tenyi Spirit - Mapura\" once per turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 600,
+  "species": "Wyrm",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

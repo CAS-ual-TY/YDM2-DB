@@ -1,0 +1,17 @@
+{
+  "id": 90660762,
+  "name": "Meteor Black Dragon",
+  "is_illegal": false,
+  "text": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\"",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3500,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 29021114,
+  "name": "Silver Gadget",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can Special Summon 1 Level 4 Machine monster from your hand. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 \"Gadget\" monster from your Deck, except \"Silver Gadget\". You can only use 1 \"Silver Gadget\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 74578720,
+  "name": "Time Thief Chronocorder",
+  "is_illegal": false,
+  "text": "During your opponent\u0027s Battle Phase (Quick Effect): You can Tribute this card; the next battle damage you take from an opponent\u0027s monster\u0027s attack this turn is inflicted to your opponent instead. If a face-up Xyz Monster you control leaves the field by card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Time Thief Chronocorder\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

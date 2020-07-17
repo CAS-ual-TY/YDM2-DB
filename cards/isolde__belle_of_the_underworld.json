@@ -1,0 +1,17 @@
+{
+  "id": 22657402,
+  "name": "Isolde, Belle of the Underworld",
+  "is_illegal": false,
+  "text": "If you control \"Tristan, Knight of the Underworld\", you can Special Summon this card (from your hand). Cannot be Special Summoned by other ways. You can target up to 2 Zombie monsters you control and declare a Level from 5 to 8; they become that Level until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of \"Isolde, Belle of the Underworld\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

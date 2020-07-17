@@ -1,0 +1,17 @@
+{
+  "id": 41249545,
+  "name": "Grass Phantom",
+  "is_illegal": false,
+  "text": "This card gains 500 ATK for each \"Grass Phantom\" in your Graveyard.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

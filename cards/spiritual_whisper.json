@@ -1,0 +1,17 @@
+{
+  "id": 50155385,
+  "name": "Spiritual Whisper",
+  "is_illegal": false,
+  "text": "Once per turn, this card cannot be destroyed by battle. When this card is Pendulum Summoned: You can add 1 Ritual Monster or 1 Ritual Spell Card from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 200,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

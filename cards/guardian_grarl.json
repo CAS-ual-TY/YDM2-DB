@@ -1,0 +1,17 @@
+{
+  "id": 47150851,
+  "name": "Guardian Grarl",
+  "is_illegal": false,
+  "text": "Cannot be Summoned unless you control a face-up \"Gravity Axe - Grarl\". If this is the only card in your hand, you can Special Summon it (from your hand).",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2500,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

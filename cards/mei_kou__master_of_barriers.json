@@ -1,0 +1,17 @@
+{
+  "id": 47731128,
+  "name": "Mei-Kou, Master of Barriers",
+  "is_illegal": false,
+  "text": "You can Tribute this card, then target 1 face-up Continuous Spell or Continuous Trap Card on the field; destroy that target.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
+}

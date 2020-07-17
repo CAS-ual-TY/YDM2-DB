@@ -1,0 +1,17 @@
+{
+  "id": 10809984,
+  "name": "Great Phantom Thief",
+  "is_illegal": false,
+  "text": "If this card inflicts battle damage to your opponent: Declare 1 card name; look at your opponent\u0027s hand, and if you do, discard all cards with that name in their hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

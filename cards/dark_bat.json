@@ -1,0 +1,17 @@
+{
+  "id": 67049542,
+  "name": "Dark Bat",
+  "is_illegal": false,
+  "text": "Bats from the netherworld that use their hyper senses to detect their enemies.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

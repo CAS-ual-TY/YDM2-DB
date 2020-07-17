@@ -1,0 +1,17 @@
+{
+  "id": 71395725,
+  "name": "Man Beast of Ares",
+  "is_illegal": false,
+  "text": "After a Chain (of 2 or more Links) resolves, this card gains 500 ATK.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

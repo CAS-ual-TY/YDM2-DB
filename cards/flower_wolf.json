@@ -1,0 +1,17 @@
+{
+  "id": 95952802,
+  "name": "Flower Wolf",
+  "is_illegal": false,
+  "text": "\"Silver Fang\" + \"Darkworld Thorns\"",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

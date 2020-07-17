@@ -1,0 +1,17 @@
+{
+  "id": 93788854,
+  "name": "The Wandering Doomed",
+  "is_illegal": false,
+  "text": "A monster that wanders the edges of the netherworld.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

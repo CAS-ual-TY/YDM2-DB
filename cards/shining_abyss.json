@@ -1,0 +1,17 @@
+{
+  "id": 87303357,
+  "name": "Shining Abyss",
+  "is_illegal": false,
+  "text": "This monster employs the powers of both Light and Darkness.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

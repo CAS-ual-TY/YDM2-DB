@@ -1,0 +1,17 @@
+{
+  "id": 83743222,
+  "name": "Goddess Bow",
+  "is_illegal": false,
+  "text": "Must be Special Summoned with \"The Claw of Hermos\", using a Warrior monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. While this card is equipped to a monster by this effect, negate the first effect activated by your opponent during each Battle Phase, also, after that, the equipped monster can make a second attack during this Battle Phase.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

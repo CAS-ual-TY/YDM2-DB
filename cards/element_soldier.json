@@ -1,0 +1,17 @@
+{
+  "id": 66712593,
+  "name": "Element Soldier",
+  "is_illegal": false,
+  "text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ? WATER: Control of this card cannot switch. ? EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

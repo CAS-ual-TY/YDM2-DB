@@ -1,0 +1,17 @@
+{
+  "id": 28859794,
+  "name": "Shield Wing",
+  "is_illegal": false,
+  "text": "Twice per turn, this card cannot be destroyed by battle.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 56166150,
+  "name": "Lumina, Twilightsworn Shaman",
+  "is_illegal": false,
+  "text": "Once per turn: You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 of your banished \"Lightsworn\" monsters, except \"Lumina, Twilightsworn Shaman\"; Special Summon it. Once per turn, if your other \"Lightsworn\" monster\u0027s effect is activated: Send the top 3 cards of your Deck to the GY.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

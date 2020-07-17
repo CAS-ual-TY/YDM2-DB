@@ -1,0 +1,17 @@
+{
+  "id": 53540729,
+  "name": "Wind-Up Warrior",
+  "is_illegal": false,
+  "text": "You can target 1 face-up \"Wind-Up\" monster you control; increase its Level by 1 and its ATK by 600, until the End Phase. This effect can only be used once while this card is face-up on the field.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

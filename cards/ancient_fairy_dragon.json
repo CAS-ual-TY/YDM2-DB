@@ -1,0 +1,17 @@
+{
+  "id": 25862681,
+  "name": "Ancient Fairy Dragon",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can Special Summon 1 Level 4 or lower monster from your hand. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn: You can destroy as many Field Spells on the field as possible, and if you do, gain 1000 LP, then you can add 1 Field Spell from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 7,
+  "is_tuner": false
+}

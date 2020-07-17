@@ -1,0 +1,17 @@
+{
+  "id": 30042158,
+  "name": "Cyber Ouroboros",
+  "is_illegal": false,
+  "text": "When this card is removed from play, you can send 1 card from your hand to the Graveyard to draw 1 card.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

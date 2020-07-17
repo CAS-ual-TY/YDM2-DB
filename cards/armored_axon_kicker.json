@@ -1,0 +1,17 @@
+{
+  "id": 62742651,
+  "name": "Armored Axon Kicker",
+  "is_illegal": false,
+  "text": "If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. If this card destroys an opponent\u0027s monster by battle, you take damage equal to half the destroyed monster\u0027s ATK. Then, you can Special Summon 1 monster from your Graveyard with ATK less than or equal to the damage you took.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

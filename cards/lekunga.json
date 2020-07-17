@@ -1,0 +1,17 @@
+{
+  "id": 62543393,
+  "name": "Lekunga",
+  "is_illegal": false,
+  "text": "You can banish 2 WATER monsters from your Graveyard; Special Summon 1 \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

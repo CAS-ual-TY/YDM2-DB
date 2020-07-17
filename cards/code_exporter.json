@@ -1,0 +1,17 @@
+{
+  "id": 37119142,
+  "name": "Code Exporter",
+  "is_illegal": false,
+  "text": "If a Cyberse monster you control would be used as Link Material for a \"Code Talker\" monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY as material for the Link Summon of a \"Code Talker\" monster: You can target 1 Level 4 or lower Cyberse monster in your GY; add it to your hand, or, if this card on the field was used as material, you can Special Summon it instead, but negate its effects. You can only use each effect of \"Code Exporter\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 500,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 5,
+  "is_tuner": false
+}

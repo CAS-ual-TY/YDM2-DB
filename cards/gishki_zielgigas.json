@@ -1,0 +1,17 @@
+{
+  "id": 66729231,
+  "name": "Gishki Zielgigas",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can pay 1000 Life Points; draw 1 card, and if you do, reveal it, then, if it was a \"Gishki\" monster, shuffle 1 card from the field into the Deck.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 3200,
+  "species": "Aqua",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

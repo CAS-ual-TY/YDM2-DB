@@ -1,0 +1,17 @@
+{
+  "id": 82085619,
+  "name": "Shining Friendship",
+  "is_illegal": false,
+  "text": "The peacemaker among monsters.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1300,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 7852878,
+  "name": "Three Thousand Needles",
+  "is_illegal": false,
+  "text": "At the end of the Damage Step, if this Defense Position card was attacked by a monster whose ATK is lower than this card\u0027s DEF: Destroy the attacking monster.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 8,
+  "is_tuner": false
+}

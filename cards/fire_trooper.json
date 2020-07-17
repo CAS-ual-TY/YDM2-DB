@@ -1,0 +1,17 @@
+{
+  "id": 53927679,
+  "name": "Fire Trooper",
+  "is_illegal": false,
+  "text": "When this card is Summoned, you can send it to the Graveyard to inflict 1000 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

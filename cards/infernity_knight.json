@@ -1,0 +1,17 @@
+{
+  "id": 71341529,
+  "name": "Infernity Knight",
+  "is_illegal": false,
+  "text": "When this card on the field is destroyed and sent to the Graveyard: You can discard 2 cards; Special Summon this card from the Graveyard.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}

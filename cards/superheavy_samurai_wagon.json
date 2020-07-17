@@ -1,0 +1,17 @@
+{
+  "id": 34496660,
+  "name": "Superheavy Samurai Wagon",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can change its battle position. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If you have no Spells/Traps in your GY: You can change this face-up Defense Position card you control to Attack Position, and if you do, add 1 \"Superheavy Samurai Soul\" monster from your Deck to your hand. You can only use this effect of \"Superheavy Samurai Wagon\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

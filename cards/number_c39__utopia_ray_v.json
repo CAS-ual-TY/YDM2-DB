@@ -1,0 +1,16 @@
+{
+  "id": 66970002,
+  "name": "Number C39: Utopia Ray V",
+  "is_illegal": false,
+  "text": "3 Level 5 monsters\nWhen this card in its owner\u0027s possession is destroyed by an opponent\u0027s card (either by battle or by card effect): You can target 1 Xyz Monster in your Graveyard; return that target to the Extra Deck. If this card has a \"Utopia\" monster as an Xyz Material, it gains this effect.\n? Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy that monster, and if you do, inflict damage to your opponent equal to the destroyed monster\u0027s ATK on the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2600,
+  "species": "Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 5
+}

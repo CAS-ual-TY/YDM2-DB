@@ -1,0 +1,17 @@
+{
+  "id": 86164529,
+  "name": "Aqua Dragon",
+  "is_illegal": false,
+  "text": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2250,
+  "species": "Sea Serpent",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
+}

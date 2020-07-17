@@ -1,0 +1,17 @@
+{
+  "id": 41462083,
+  "name": "Thousand Dragon",
+  "is_illegal": false,
+  "text": "\"Time Wizard\" + \"Baby Dragon\"",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2400,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

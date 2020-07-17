@@ -1,0 +1,17 @@
+{
+  "id": 2843014,
+  "name": "Nimble Sunfish",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard, send 1 Fish-Type monster from your Deck to the Graveyard. Then, you can Special Summon 1 \"Nimble Sunfish\" from your Deck.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
+}

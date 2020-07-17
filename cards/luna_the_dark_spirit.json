@@ -1,0 +1,17 @@
+{
+  "id": 48596760,
+  "name": "Luna the Dark Spirit",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

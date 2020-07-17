@@ -1,0 +1,16 @@
+{
+  "id": 59537380,
+  "name": "Guardragon Agarpain",
+  "is_illegal": false,
+  "text": "2 Dragon monsters\nYou cannot Special Summon monsters, except Dragon monsters. During your Main Phase: You can Special Summon 1 Dragon monster from your Extra Deck, to an Extra Monster Zone or Main Monster Zone you can Summon to, that 2 or more Link Monsters point to. You can only use this effect of \"Guardragon Agarpain\" once per turn. You can only Special Summon \"Guardragon Agarpain(s)\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 34
+}

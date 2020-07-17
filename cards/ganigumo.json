@@ -1,0 +1,17 @@
+{
+  "id": 34536276,
+  "name": "Ganigumo",
+  "is_illegal": false,
+  "text": "A crab that binds its enemies with a sticky web and attacks them with its sharp claws.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

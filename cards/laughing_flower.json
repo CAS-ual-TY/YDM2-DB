@@ -1,0 +1,17 @@
+{
+  "id": 42591472,
+  "name": "Laughing Flower",
+  "is_illegal": false,
+  "text": "A flower whose laugh can confuse the minds of enemies.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

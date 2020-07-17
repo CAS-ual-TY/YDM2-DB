@@ -1,0 +1,17 @@
+{
+  "id": 97854941,
+  "name": "Valkyrie Sigrun",
+  "is_illegal": false,
+  "text": "If this card is in your hand: You can target 1 face-up Spell/Trap you control; send it to the GY, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can Special Summon 1 Level 8 or lower \"Valkyrie\" monster from your hand or GY. You can only use each effect of \"Valkyrie Sigrun\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2200,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 9,
+  "is_tuner": false
+}

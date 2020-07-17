@@ -1,0 +1,17 @@
+{
+  "id": 64160836,
+  "name": "Alien Kid",
+  "is_illegal": false,
+  "text": "Place 1 A-Counter on all monsters Special Summoned to your opponent\u0027s side of the field. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 4,
+  "is_tuner": false
+}

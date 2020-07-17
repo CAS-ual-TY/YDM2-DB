@@ -1,0 +1,17 @@
+{
+  "id": 37984162,
+  "name": "Gorgonic Golem",
+  "is_illegal": false,
+  "text": "If this card is destroyed by battle and sent to the Graveyard: The ATK of the monster that destroyed it becomes 0. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that target cannot be activated this turn. Your opponent cannot activate the targeted card in response to this effect\u0027s activation.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

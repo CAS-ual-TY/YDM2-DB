@@ -1,0 +1,17 @@
+{
+  "id": 27143874,
+  "name": "Dino-Sewing",
+  "is_illegal": false,
+  "text": "Cannot be destroyed by battle. If this card is targeted for an attack: This card gains 1000 ATK and DEF. If this card attacked, after damage calculation: The ATK and DEF gained from this effect returns to 0.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

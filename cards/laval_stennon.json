@@ -1,0 +1,17 @@
+{
+  "id": 20374351,
+  "name": "Laval Stennon",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner FIRE monsters\nWhen this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. During either player\u0027s turn, when this card is targeted by a card effect: You can banish 1 \"Laval\" monster from your Graveyard; negate the activation, and if you do, destroy the targeting card.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2700,
+  "species": "Pyro",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

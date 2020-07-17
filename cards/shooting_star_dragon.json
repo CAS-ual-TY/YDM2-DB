@@ -1,0 +1,17 @@
+{
+  "id": 24696097,
+  "name": "Shooting Star Dragon",
+  "is_illegal": false,
+  "text": "1 Tuner Synchro Monster + \"Stardust Dragon\"\nOnce per turn: You can excavate the top 5 cards of your Deck, shuffle them back in, also this card\u0027s maximum number of attacks per Battle Phase this turn equals the number of Tuner monsters excavated. Once per turn, during either player\u0027s turn, when a card or effect is activated that would destroy a card(s) on the field: You can negate the effect, and if you do, destroy it. Once per turn, when an opponent\u0027s monster declares an attack: You can target the attacking monster; banish this card, and if you do, negate that attack. During the next End Phase: Special Summon this card banished by this effect.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3300,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

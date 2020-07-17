@@ -1,0 +1,17 @@
+{
+  "id": 35638627,
+  "name": "Worm Warlord",
+  "is_illegal": false,
+  "text": "This card cannot be Special Summoned. Negate the effects of Effect Monsters destroyed by battle with this card. If this card destroys an opponent\u0027s monster by battle, it can attack once again in a row.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2350,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

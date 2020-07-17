@@ -1,0 +1,17 @@
+{
+  "id": 70101178,
+  "name": "Panther Shark",
+  "is_illegal": false,
+  "text": "If your opponent controls 2 or more monsters, you can Normal Summon this card without Tributing. If you control \"Eagle Shark\", you can Special Summon this card (from your hand). You can only control 1 \"Panther Shark\".",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

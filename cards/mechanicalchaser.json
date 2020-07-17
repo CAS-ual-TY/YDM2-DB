@@ -1,0 +1,17 @@
+{
+  "id": 7359741,
+  "name": "Mechanicalchaser",
+  "is_illegal": false,
+  "text": "A hunter that relentlessly pursues its target by order of the Machine King.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1850,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

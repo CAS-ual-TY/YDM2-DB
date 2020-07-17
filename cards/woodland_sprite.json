@@ -1,0 +1,17 @@
+{
+  "id": 6979239,
+  "name": "Woodland Sprite",
+  "is_illegal": false,
+  "text": "Send 1 Equip Card equipped to this card to the Graveyard. Inflict 500 points of damage to your opponent\u0027s Life Points.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 49191560,
+  "name": "Charioteer of Prophecy",
+  "is_illegal": false,
+  "text": "Once per turn: You can discard 1 \"Spellbook\" Spell Card to target 1 Spellcaster-Type monster in your Graveyard; add that target to your hand.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

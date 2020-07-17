@@ -1,0 +1,17 @@
+{
+  "id": 57405307,
+  "name": "Winged Dragon, Guardian of the Fortress #2",
+  "is_illegal": false,
+  "text": "This monster\u0027s wings are capable of generating tornadoes.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

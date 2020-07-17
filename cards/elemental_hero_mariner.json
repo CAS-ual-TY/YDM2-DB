@@ -1,0 +1,17 @@
+{
+  "id": 14225239,
+  "name": "Elemental HERO Mariner",
+  "is_illegal": false,
+  "text": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While you have any face-down card(s) in your Spell \u0026 Trap Card Zones, this card can attack your opponent directly.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

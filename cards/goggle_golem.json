@@ -1,0 +1,17 @@
+{
+  "id": 21155323,
+  "name": "Goggle Golem",
+  "is_illegal": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n? The original ATK of this card becomes 2100.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Gemini",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

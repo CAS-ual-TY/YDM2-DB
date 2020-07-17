@@ -1,0 +1,17 @@
+{
+  "id": 25171661,
+  "name": "Infernity Dwarf",
+  "is_illegal": false,
+  "text": "While you have no cards in your hand, if a monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

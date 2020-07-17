@@ -1,0 +1,16 @@
+{
+  "id": 67073561,
+  "name": "Baba Barber",
+  "is_illegal": false,
+  "text": "2 monsters\nAt the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of \"Baba Barber\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 200,
+  "species": "Fiend",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 160
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40634253,
+  "name": "BM-4 Blast Spider",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 DARK Machine monster you control and 1 face-up card your opponent controls; destroy them. If a monster you control that was originally a DARK Machine destroys an opponent\u0027s monster(s) by battle or card effect and sends it to the GY: You can inflict damage to your opponent equal to half the original ATK of 1 of those monster(s) destroyed and sent to the GY. You can only use this effect of \"BM-4 Blast Spider\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 4,
+  "is_tuner": false
+}

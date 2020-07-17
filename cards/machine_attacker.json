@@ -1,0 +1,17 @@
+{
+  "id": 38116136,
+  "name": "Machine Attacker",
+  "is_illegal": false,
+  "text": "This machine, created to lead charges into enemy territory, mows down enemies by rushing.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
+}

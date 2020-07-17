@@ -1,0 +1,8 @@
+{
+  "id": 93671934,
+  "name": "Morale Boost",
+  "is_illegal": false,
+  "text": "Each time a player equips an Equip Spell Card, increase the Life Points of the controller of that Equip Spell Card by 1000 points. Each time an Equip Spell Card is removed from the field, the controller of that Equip Spell Card takes 1000 points of damage.",
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 21702241,
+  "name": "Vengeful Servant",
+  "is_illegal": false,
+  "text": "When control of the equipped monster changes, inflict damage equal to its original ATK to its new controller.",
+  "type": "Spell",
+  "spell_type": "Equip"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 6990577,
+  "name": "Guardragon Andrake",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is Special Summoned from the hand or Deck: You can double this card\u0027s original ATK/DEF, until the end of the next turn. If this card is Special Summoned from the GY, or if this banished card is Special Summoned: You can target 1 monster your opponent controls; destroy it. You can only use each effect of \"Guardragon Andrake\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
+}

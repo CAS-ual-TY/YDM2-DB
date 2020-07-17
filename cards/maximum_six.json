@@ -1,0 +1,17 @@
+{
+  "id": 30707994,
+  "name": "Maximum Six",
+  "is_illegal": false,
+  "text": "When this card is Tribute Summoned: Roll a six-sided die, and this card gains ATK equal to the result x 200.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

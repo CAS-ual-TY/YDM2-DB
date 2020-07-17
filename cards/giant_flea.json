@@ -1,0 +1,17 @@
+{
+  "id": 41762634,
+  "name": "Giant Flea",
+  "is_illegal": false,
+  "text": "A massive flea that feeds on the blood of its enemies.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

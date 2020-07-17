@@ -1,0 +1,17 @@
+{
+  "id": 13945283,
+  "name": "Wall of Illusion",
+  "is_illegal": false,
+  "text": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1850,
+  "level": 4,
+  "is_tuner": false
+}

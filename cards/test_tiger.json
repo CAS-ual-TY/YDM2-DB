@@ -1,0 +1,17 @@
+{
+  "id": 92373006,
+  "name": "Test Tiger",
+  "is_illegal": false,
+  "text": "If you control a face-up \"Gladiator Beast\" monster, you can Special Summon this card (from your hand). You can Tribute this card to target 1 face-up \"Gladiator Beast\" monster you control; shuffle that target into the Deck, then Special Summon 1 \"Gladiator Beast\" from your Deck, and treat it as if it was Special Summoned by the effect of a \"Gladiator Beast\" monster.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

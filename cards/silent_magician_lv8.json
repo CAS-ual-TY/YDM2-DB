@@ -1,0 +1,17 @@
+{
+  "id": 72443568,
+  "name": "Silent Magician LV8",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent\u0027s Spell effects.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false
+}

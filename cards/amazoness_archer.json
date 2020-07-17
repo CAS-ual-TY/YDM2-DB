@@ -1,0 +1,17 @@
+{
+  "id": 91869203,
+  "name": "Amazoness Archer",
+  "is_illegal": false,
+  "text": "You can Tribute 2 monsters; inflict 1200 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

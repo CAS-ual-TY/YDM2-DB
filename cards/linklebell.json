@@ -1,0 +1,16 @@
+{
+  "id": 54635100,
+  "name": "Linklebell",
+  "is_illegal": false,
+  "text": "2 monsters\nCannot be Link Summoned, unless you have 3 or more cards in your Extra Deck than your opponent does.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

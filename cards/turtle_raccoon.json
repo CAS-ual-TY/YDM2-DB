@@ -1,0 +1,17 @@
+{
+  "id": 17441953,
+  "name": "Turtle Raccoon",
+  "is_illegal": false,
+  "text": "A cunning raccoon protected by a solid turtle shell, it attacks with deception.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 700,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

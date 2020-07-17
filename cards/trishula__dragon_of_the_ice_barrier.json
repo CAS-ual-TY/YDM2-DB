@@ -1,0 +1,17 @@
+{
+  "id": 52687916,
+  "name": "Trishula, Dragon of the Ice Barrier",
+  "is_illegal": false,
+  "text": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent\u0027s hand, field, and GY. (The card in the hand is chosen at random.)",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2700,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 9,
+  "is_tuner": false
+}

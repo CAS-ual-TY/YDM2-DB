@@ -1,0 +1,17 @@
+{
+  "id": 84285623,
+  "name": "Haniwa",
+  "is_illegal": false,
+  "text": "An earthen figure that protects the tomb of an ancient ruler.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

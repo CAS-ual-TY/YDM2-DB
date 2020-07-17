@@ -1,0 +1,16 @@
+{
+  "id": 65741786,
+  "name": "I:P Masquerena",
+  "is_illegal": false,
+  "text": "2 non-Link Monsters\nDuring your opponent\u0027s Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster using materials you control, including this card. You can only use this effect of \"I:P Masquerena\" once per turn. A Link Monster that used this card as material cannot be destroyed by your opponent\u0027s card effects.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

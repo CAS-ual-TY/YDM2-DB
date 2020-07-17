@@ -1,0 +1,17 @@
+{
+  "id": 5405694,
+  "name": "Black Luster Soldier",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Black Luster Ritual\".",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

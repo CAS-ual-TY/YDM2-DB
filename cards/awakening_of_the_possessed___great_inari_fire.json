@@ -1,0 +1,17 @@
+{
+  "id": 92652813,
+  "name": "Awakening of the Possessed - Great Inari Fire",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up Spellcaster monster and 1 face-up Level 4 or lower FIRE monster you control to the GY. You can only use each of the following effects of \"Awakening of the Possessed - Great Inari Fire\" once per turn.\n? When Summoned this way: You can inflict damage to your opponent equal to the original ATK of 1 monster they control.\n? If this card is sent from the field to the GY: You can add 1 \"Spiritual Fire Art\" card or 1 \"Possessed\" Spell/Trap from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 5,
+  "is_tuner": false
+}

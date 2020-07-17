@@ -1,0 +1,16 @@
+{
+  "id": 69757518,
+  "name": "Number C5: Chaos Chimera Dragon",
+  "is_illegal": false,
+  "text": "3 or more Level 6 monsters\nThis card gains 1000 ATK for each Xyz Material attached to it. If this card attacks, at the end of the Damage Step: You can detach 1 Xyz Material from this card; this card can attack an opponent\u0027s monster again in a row. At the end of the Battle Phase: You can pay half your Life Points, then target 2 cards in any Graveyard(s); place 1 of them on the top of the Deck, and if you do, attach the other to this card as an Xyz Material.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 6
+}

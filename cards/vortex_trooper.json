@@ -1,0 +1,17 @@
+{
+  "id": 7736719,
+  "name": "Vortex Trooper",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. If this card is destroyed: Draw 1 card.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

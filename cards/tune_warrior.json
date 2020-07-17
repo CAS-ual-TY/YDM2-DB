@@ -1,0 +1,17 @@
+{
+  "id": 74093656,
+  "name": "Tune Warrior",
+  "is_illegal": false,
+  "text": "The Warrior\u0027s antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 3,
+  "is_tuner": true
+}

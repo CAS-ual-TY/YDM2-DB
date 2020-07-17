@@ -1,0 +1,17 @@
+{
+  "id": 41218256,
+  "name": "Claw Reacher",
+  "is_illegal": false,
+  "text": "Stretching arms and razor-sharp claws make this monster a formidable opponent.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

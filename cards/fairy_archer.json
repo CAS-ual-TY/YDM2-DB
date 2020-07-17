@@ -1,0 +1,17 @@
+{
+  "id": 48742406,
+  "name": "Fairy Archer",
+  "is_illegal": false,
+  "text": "During your Main Phase, you can inflict 400 damage to your opponent for each face-up LIGHT monster you control. This card cannot attack during the same turn you activate this effect. Only one \"Fairy Archer\" can have its effect activated per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

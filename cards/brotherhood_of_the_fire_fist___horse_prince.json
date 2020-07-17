@@ -1,0 +1,17 @@
+{
+  "id": 74168099,
+  "name": "Brotherhood of the Fire Fist - Horse Prince",
+  "is_illegal": false,
+  "text": "1 FIRE Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can Special Summon 1 Level 3 FIRE monster from your Deck. After you Synchro Summon this card, you cannot Special Summon Level 5 or higher monsters for the rest of the turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2200,
+  "species": "Beast-Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
+}

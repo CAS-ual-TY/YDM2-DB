@@ -1,0 +1,17 @@
+{
+  "id": 15042735,
+  "name": "Hurricail",
+  "is_illegal": false,
+  "text": "A tornado that ravages the wastelands with sharp winds that can cut to the bone.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 900,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

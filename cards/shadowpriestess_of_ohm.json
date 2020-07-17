@@ -1,0 +1,17 @@
+{
+  "id": 27869883,
+  "name": "Shadowpriestess of Ohm",
+  "is_illegal": false,
+  "text": "You can Tribute 1 face-up DARK monster you control to inflict 800 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

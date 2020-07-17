@@ -1,0 +1,17 @@
+{
+  "id": 10000080,
+  "name": "The Winged Dragon of Ra - Sphere Mode",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card\u0027s owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card for attacks or by card effects. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
+  "type": "Monster",
+  "attribute": "DIVINE",
+  "atk": 0,
+  "species": "Divine-Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

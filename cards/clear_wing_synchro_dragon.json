@@ -1,0 +1,17 @@
+{
+  "id": 82044280,
+  "name": "Clear Wing Synchro Dragon",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, when another Level 5 or higher monster activates its effect on the field (Quick Effect): You can negate the activation, and if you do, destroy it. Once per turn, when a monster effect is activated that targets 1 Level 5 or higher monster on the field (and no other cards) (Quick Effect): You can negate the activation, and if you do, destroy it. If this card\u0027s effect destroys a monster, this card gains ATK equal to the destroyed monster\u0027s original ATK until the end of this turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

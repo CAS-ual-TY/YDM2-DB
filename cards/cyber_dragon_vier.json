@@ -1,0 +1,17 @@
+{
+  "id": 29975188,
+  "name": "Cyber Dragon Vier",
+  "is_illegal": false,
+  "text": "This card\u0027s name becomes \"Cyber Dragon\" while on the field or in the GY. If you Normal or Special Summon \"Cyber Dragon\", except during the Damage Step: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Cyber Dragon Vier\" once per turn. Each \"Cyber Dragon\" you control gains 500 ATK/DEF.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

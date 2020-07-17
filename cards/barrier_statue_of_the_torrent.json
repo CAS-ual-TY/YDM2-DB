@@ -1,0 +1,17 @@
+{
+  "id": 10963799,
+  "name": "Barrier Statue of the Torrent",
+  "is_illegal": false,
+  "text": "Neither player can Special Summon monsters, except WATER monsters.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

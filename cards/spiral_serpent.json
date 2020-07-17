@@ -1,0 +1,17 @@
+{
+  "id": 32626733,
+  "name": "Spiral Serpent",
+  "is_illegal": false,
+  "text": "When huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2900,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
+}

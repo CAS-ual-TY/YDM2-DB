@@ -1,0 +1,17 @@
+{
+  "id": 98954375,
+  "name": "Infernity Destroyer",
+  "is_illegal": false,
+  "text": "When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: Inflict 1600 damage to your opponent. You must have no cards in your hand to activate and to resolve this effect.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

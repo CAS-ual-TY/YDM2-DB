@@ -1,0 +1,17 @@
+{
+  "id": 30575681,
+  "name": "Noble Knight Bedwyr",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can send 1 \"Noble Arms\" Equip Spell Card from your Deck to the Graveyard. During either player\u0027s turn: You can target 1 \"Noble Arms\" Equip Spell Card and 1 appropriate monster on the field; equip that Equip Spell Card to that appropriate monster. This effect can only be used once while this card is face-up on the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

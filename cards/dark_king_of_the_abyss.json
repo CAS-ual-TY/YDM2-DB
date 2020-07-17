@@ -1,0 +1,17 @@
+{
+  "id": 53375573,
+  "name": "Dark King of the Abyss",
+  "is_illegal": false,
+  "text": "It\u0027s said that this King of the Netherworld once had the power to rule over the dark.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

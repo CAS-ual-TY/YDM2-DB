@@ -1,0 +1,17 @@
+{
+  "id": 47961808,
+  "name": "Barrier Statue of the Inferno",
+  "is_illegal": false,
+  "text": "Neither player can Special Summon monsters, except FIRE monsters.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

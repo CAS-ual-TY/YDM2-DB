@@ -1,0 +1,17 @@
+{
+  "id": 30230789,
+  "name": "Karakuri Merchant mdl 177 \"Inashichi\"",
+  "is_illegal": false,
+  "text": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is Normal Summoned, add 1 \"Karakuri\" card from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 2,
+  "is_tuner": false
+}

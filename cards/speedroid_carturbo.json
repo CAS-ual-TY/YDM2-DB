@@ -1,0 +1,17 @@
+{
+  "id": 96945958,
+  "name": "Speedroid CarTurbo",
+  "is_illegal": false,
+  "text": "If you control a WIND monster: You can Special Summon this card from your hand, also you cannot activate monster effects for the rest of this turn, except WIND monsters\u0027. You can banish this card and 1 \"Speedroid\" monster from your GY; all WIND monsters you currently control gain 800 ATK until the end of this turn. You can only use each effect of \"Speedroid CarTurbo\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": true
+}

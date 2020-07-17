@@ -1,0 +1,17 @@
+{
+  "id": 53539634,
+  "name": "Sanwitch",
+  "is_illegal": false,
+  "text": "\"Sangan\" + \"Witch of the Black Forest\"",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2100,
+  "species": "Spellcaster",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

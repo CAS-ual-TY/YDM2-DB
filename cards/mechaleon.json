@@ -1,0 +1,17 @@
+{
+  "id": 94412545,
+  "name": "Mechaleon",
+  "is_illegal": false,
+  "text": "A large chameleon with the ability to alter its body coloring. Using this ability, it can conceal itself in any location.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

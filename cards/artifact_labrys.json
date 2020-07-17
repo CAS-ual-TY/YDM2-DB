@@ -1,0 +1,17 @@
+{
+  "id": 47863787,
+  "name": "Artifact Labrys",
+  "is_illegal": false,
+  "text": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell Card. During your opponent\u0027s turn, if this Set card in the Spell \u0026 Trap Zone is destroyed and sent to your Graveyard: Special Summon it. When an \"Artifact\" card(s) is destroyed and sent to your Graveyard (except during the Damage Step): You can Special Summon this card from your hand.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

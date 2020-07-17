@@ -1,0 +1,17 @@
+{
+  "id": 5998840,
+  "name": "XX-Saber Boggart Knight",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of an \"X-Saber\" Synchro Monster.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

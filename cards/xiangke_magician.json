@@ -1,0 +1,20 @@
+{
+  "id": 71692913,
+  "name": "Xiangke Magician",
+  "is_illegal": false,
+  "text": "Once per turn, during either player\u0027s turn: You can target 1 LIGHT monster on the field; that face-up monster has its effects negated until the end of this turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 7,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn: You can target 1 face-up Xyz Monster you control; this turn, you can use it as an Xyz Material for an Xyz Summon using its Rank as if it were a Level (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

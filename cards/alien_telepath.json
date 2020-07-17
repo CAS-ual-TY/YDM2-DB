@@ -1,0 +1,17 @@
+{
+  "id": 91070115,
+  "name": "Alien Telepath",
+  "is_illegal": false,
+  "text": "Once per turn, you can remove 1 A-Counter from an opponent\u0027s monster to destroy 1 Spell or Trap Card. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

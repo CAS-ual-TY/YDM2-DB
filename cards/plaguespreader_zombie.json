@@ -1,0 +1,17 @@
+{
+  "id": 33420078,
+  "name": "Plaguespreader Zombie",
+  "is_illegal": false,
+  "text": "If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card, but banish it when it leaves the field.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 2,
+  "is_tuner": true
+}

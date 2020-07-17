@@ -1,0 +1,17 @@
+{
+  "id": 91152256,
+  "name": "Celtic Guardian",
+  "is_illegal": false,
+  "text": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

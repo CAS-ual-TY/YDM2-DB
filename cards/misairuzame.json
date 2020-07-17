@@ -1,0 +1,17 @@
+{
+  "id": 33178416,
+  "name": "Misairuzame",
+  "is_illegal": false,
+  "text": "A missile-launching fish protected by deadly spikes.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

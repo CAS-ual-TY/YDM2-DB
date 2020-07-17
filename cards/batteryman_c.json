@@ -1,0 +1,17 @@
+{
+  "id": 19733961,
+  "name": "Batteryman C",
+  "is_illegal": false,
+  "text": "If all \"Batteryman C\"(s) you control are in Attack Position, all Machine-Type monsters you control gain 500 ATK for each \"Batteryman C\" you control. If all \"Batteryman C\"(s) you control are in Defense Position, all Machine-Type monsters you control gain 500 DEF for each \"Batteryman C\" you control.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

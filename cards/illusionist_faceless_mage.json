@@ -1,0 +1,17 @@
+{
+  "id": 28546905,
+  "name": "Illusionist Faceless Mage",
+  "is_illegal": false,
+  "text": "Manipulates enemy attacks with the power of illusion.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2200,
+  "level": 5,
+  "is_tuner": false
+}

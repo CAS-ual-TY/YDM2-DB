@@ -1,0 +1,17 @@
+{
+  "id": 22855882,
+  "name": "Fiend Sword",
+  "is_illegal": false,
+  "text": "Whoever resists the curse of this blade will gain untold power.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

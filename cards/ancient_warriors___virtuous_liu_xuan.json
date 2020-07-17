@@ -1,0 +1,17 @@
+{
+  "id": 40428851,
+  "name": "Ancient Warriors - Virtuous Liu Xuan",
+  "is_illegal": false,
+  "text": "While you control another \"Ancient Warriors\" monster, your opponent\u0027s monsters cannot target this card for attacks. You can only use each of the following effects of \"Ancient Warriors - Virtuous Liu Xuan\" once per turn.\n? If your opponent controls more monsters than you do: You can send 1 card from your hand or field to the GY; Special Summon 1 \"Ancient Warriors\" monster from your Deck, except \"Ancient Warriors - Virtuous Liu Xuan\". ? When an attack is declared involving another \"Ancient Warriors\" monster you control: You can draw 1 card.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

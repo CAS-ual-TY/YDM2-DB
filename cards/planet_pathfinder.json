@@ -1,0 +1,17 @@
+{
+  "id": 97526666,
+  "name": "Planet Pathfinder",
+  "is_illegal": false,
+  "text": "You can Tribute this card; add 1 Field Spell Card from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

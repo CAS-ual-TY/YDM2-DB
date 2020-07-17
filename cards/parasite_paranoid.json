@@ -1,0 +1,17 @@
+{
+  "id": 14457896,
+  "name": "Parasite Paranoid",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can target 1 face-up monster on the field; equip this card from your hand to that target. The equipped monster becomes an Insect monster, cannot attack Insect monsters, also its effects that activate by targeting an Insect monster(s) are negated. You can only use this effect of \"Parasite Paranoid\" once per turn. If this Equip Card is sent to the GY: You can Special Summon 1 Level 7 or higher Insect monster from your hand, ignoring its Summoning conditions.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
+}

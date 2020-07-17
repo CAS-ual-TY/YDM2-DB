@@ -1,0 +1,17 @@
+{
+  "id": 56647086,
+  "name": "Invader of Darkness",
+  "is_illegal": false,
+  "text": "Your opponent cannot activate Quick-Play Spell Cards.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2900,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

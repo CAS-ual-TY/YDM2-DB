@@ -1,0 +1,17 @@
+{
+  "id": 89785779,
+  "name": "Millennium-Eyes Illusionist",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can discard this card, then target 1 Effect Monster your opponent controls; equip that target to an \"Eyes Restrict\" Fusion Monster or \"Relinquished\" you control, as if it were equipped by that monster\u0027s effect. If an \"Eyes Restrict\" Fusion Monster(s) or a \"Relinquished\" is Special Summoned: Add this card from your GY to your hand (this is not optional). You can only use each effect of \"Millennium-Eyes Illusionist\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 2,
+  "is_tuner": false
+}

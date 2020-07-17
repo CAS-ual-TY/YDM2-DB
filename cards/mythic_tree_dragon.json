@@ -1,0 +1,17 @@
+{
+  "id": 50457953,
+  "name": "Mythic Tree Dragon",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 WATER Dragon-Type monster you control; this card\u0027s Level becomes the current Level of that monster.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

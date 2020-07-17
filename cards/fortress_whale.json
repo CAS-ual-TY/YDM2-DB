@@ -1,0 +1,17 @@
+{
+  "id": 62337487,
+  "name": "Fortress Whale",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Fortress Whale\u0027s Oath\".",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2350,
+  "species": "Fish",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2150,
+  "level": 7,
+  "is_tuner": false
+}

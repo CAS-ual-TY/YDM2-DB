@@ -1,0 +1,17 @@
+{
+  "id": 85908279,
+  "name": "Invoked Cocytus",
+  "is_illegal": false,
+  "text": "\"Aleister the Invoker\" + 1 WATER monster\nCannot be destroyed by your opponent\u0027s card effects. Your opponent cannot target this card with card effects. This card can attack while in face-up Defense Position. If it does, apply its ATK for damage calculation.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2900,
+  "level": 6,
+  "is_tuner": false
+}

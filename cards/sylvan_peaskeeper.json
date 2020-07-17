@@ -1,0 +1,17 @@
+{
+  "id": 63257623,
+  "name": "Sylvan Peaskeeper",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 Level 4 or lower Plant-Type monster in your Graveyard; Special Summon that target. You can only use this effect of \"Sylvan Peaskeeper\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 400,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

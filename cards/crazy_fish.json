@@ -1,0 +1,17 @@
+{
+  "id": 53713014,
+  "name": "Crazy Fish",
+  "is_illegal": false,
+  "text": "A flying fish that attacks with its pointed head.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

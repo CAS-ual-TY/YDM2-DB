@@ -1,0 +1,17 @@
+{
+  "id": 12299841,
+  "name": "Wind-Up Soldier",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can increase this card\u0027s Level by 1 and ATK by 400, until the End Phase. This effect can only be used once while this card is face-up on the field.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

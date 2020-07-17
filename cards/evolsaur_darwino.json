@@ -1,0 +1,17 @@
+{
+  "id": 39672388,
+  "name": "Evolsaur Darwino",
+  "is_illegal": false,
+  "text": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: You can target 1 face-up monster on the field; increase that target\u0027s Level by up to 2.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2200,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 5,
+  "is_tuner": false
+}

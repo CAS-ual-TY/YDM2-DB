@@ -1,0 +1,17 @@
+{
+  "id": 85705804,
+  "name": "Kurama",
+  "is_illegal": false,
+  "text": "A vicious bird that attacks from the skies with its whip-like tail.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 800,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

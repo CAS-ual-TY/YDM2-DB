@@ -1,0 +1,16 @@
+{
+  "id": 60025883,
+  "name": "Duel Link Dragon, the Duel Dragon",
+  "is_illegal": false,
+  "text": "2+ monsters, including a Synchro Monster\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, ATK and DEF that monster had in the Extra Deck. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control \"Duel Dragon Token\", your opponent\u0027s monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": 216
+}

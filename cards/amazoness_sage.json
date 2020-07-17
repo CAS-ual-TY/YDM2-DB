@@ -1,0 +1,17 @@
+{
+  "id": 53162898,
+  "name": "Amazoness Sage",
+  "is_illegal": false,
+  "text": "At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap your opponent controls; destroy that target.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 4,
+  "is_tuner": false
+}

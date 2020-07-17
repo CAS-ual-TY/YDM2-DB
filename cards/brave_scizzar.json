@@ -1,0 +1,17 @@
+{
+  "id": 74277583,
+  "name": "Brave Scizzar",
+  "is_illegal": false,
+  "text": "Armed with a mass of scissors, this monster can clip an enemy into any desired shape and size.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 17286057,
+  "name": "Helios Trice Megistus",
+  "is_illegal": false,
+  "text": "You can Special Summon this card by Tributing 1 \"Helios Duo Megistus\". This card\u0027s ATK and DEF are each equal to the number of removed from play monsters x 300. After this card attacks, it can attack once more if your opponent controls a monster. If this card is destroyed by battle and sent to the Graveyard, Special Summon it during the End Phase and it gains 500 ATK and DEF.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

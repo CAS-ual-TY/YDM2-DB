@@ -1,0 +1,17 @@
+{
+  "id": 23289281,
+  "name": "Karate Man",
+  "is_illegal": false,
+  "text": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

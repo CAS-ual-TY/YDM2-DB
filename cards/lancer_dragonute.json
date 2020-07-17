@@ -1,0 +1,17 @@
+{
+  "id": 11125718,
+  "name": "Lancer Dragonute",
+  "is_illegal": false,
+  "text": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

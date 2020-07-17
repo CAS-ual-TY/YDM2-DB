@@ -1,0 +1,17 @@
+{
+  "id": 34206604,
+  "name": "Magical Scientist",
+  "is_illegal": false,
+  "text": "Pay 1000 Life Points to Special Summon 1 level 6 or lower Fusion Monster from your Extra Deck in face-up Attack or Defense Position. That Fusion Monster cannot attack your opponent\u0027s Life Points directly, and is returned to your Extra Deck at the end of the turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

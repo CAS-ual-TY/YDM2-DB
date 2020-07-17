@@ -1,0 +1,17 @@
+{
+  "id": 51196174,
+  "name": "The Calculator",
+  "is_illegal": false,
+  "text": "The ATK of this card is the combined Levels of all face-up monsters you control x 300.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

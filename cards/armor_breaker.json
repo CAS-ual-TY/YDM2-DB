@@ -1,0 +1,17 @@
+{
+  "id": 87798440,
+  "name": "Armor Breaker",
+  "is_illegal": false,
+  "text": "Once per turn, you can equip this card to a Warrior-Type monster you control, OR unequip it to Special Summon this card in face-up Attack Position. While equipped to a monster by this effect, when that monster inflicts Battle Damage to your opponent, destroy 1 card on the field. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, this card is destroyed instead.)",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Union",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

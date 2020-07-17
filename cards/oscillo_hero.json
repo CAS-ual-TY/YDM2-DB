@@ -1,0 +1,17 @@
+{
+  "id": 82065276,
+  "name": "Oscillo Hero",
+  "is_illegal": false,
+  "text": "A strange warrior from another dimension.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1250,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

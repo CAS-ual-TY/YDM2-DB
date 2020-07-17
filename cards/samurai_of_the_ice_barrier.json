@@ -1,0 +1,17 @@
+{
+  "id": 64926005,
+  "name": "Samurai of the Ice Barrier",
+  "is_illegal": false,
+  "text": "When this face-up Attack Position card is changed to face-up Defense Position: Destroy this card, and if you do, draw 1 card.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

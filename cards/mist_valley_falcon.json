@@ -1,0 +1,17 @@
+{
+  "id": 82199284,
+  "name": "Mist Valley Falcon",
+  "is_illegal": false,
+  "text": "This card cannot declare an attack unless you return 1 card you control to the hand.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

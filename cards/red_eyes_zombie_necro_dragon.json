@@ -1,0 +1,17 @@
+{
+  "id": 28240337,
+  "name": "Red-Eyes Zombie Necro Dragon",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nGains 100 ATK/DEF for each Zombie monster on the field and in the GYs. When another Zombie monster is destroyed by battle: You can Special Summon 1 Zombie monster from either GY to your field. You can only use this effect of \"Red-Eyes Zombie Necro Dragon\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Zombie",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

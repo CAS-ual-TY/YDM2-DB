@@ -1,0 +1,17 @@
+{
+  "id": 1929294,
+  "name": "Key Mace",
+  "is_illegal": false,
+  "text": "Enemies\u0027 hearts will melt at the sight of this small fairy\u0027s cuteness.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 400,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

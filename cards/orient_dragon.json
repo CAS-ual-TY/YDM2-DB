@@ -1,0 +1,17 @@
+{
+  "id": 68124775,
+  "name": "Orient Dragon",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target 1 Synchro Monster your opponent controls; banish that target.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2300,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

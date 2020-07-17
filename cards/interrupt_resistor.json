@@ -1,0 +1,17 @@
+{
+  "id": 2414168,
+  "name": "Interrupt Resistor",
+  "is_illegal": false,
+  "text": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, during damage calculation, when another Defense Position monster you control is attacked by an opponent\u0027s monster (Quick Effect): You can activate this effect; during this damage calculation, your attacked monster\u0027s DEF becomes equal to this card\u0027s DEF, also it cannot be destroyed by that battle.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 6,
+  "is_tuner": false
+}

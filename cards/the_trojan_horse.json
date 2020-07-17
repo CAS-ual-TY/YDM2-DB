@@ -1,0 +1,17 @@
+{
+  "id": 38479725,
+  "name": "The Trojan Horse",
+  "is_illegal": false,
+  "text": "When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

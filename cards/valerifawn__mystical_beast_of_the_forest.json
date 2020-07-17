@@ -1,0 +1,17 @@
+{
+  "id": 24096499,
+  "name": "Valerifawn, Mystical Beast of the Forest",
+  "is_illegal": false,
+  "text": "You can discard 1 card, then target 1 Level 2 or lower Beast monster in your GY, except \"Valerifawn, Mystical Beast of the Forest\"; Special Summon it in Attack Position or face-down Defense Position. You can only use this effect of \"Valerifawn, Mystical Beast of the Forest\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 2,
+  "is_tuner": true
+}

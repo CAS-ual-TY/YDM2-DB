@@ -1,0 +1,17 @@
+{
+  "id": 81951640,
+  "name": "Unauthorized Device Malefactor",
+  "is_illegal": false,
+  "text": "Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is destroyed and sent to the GY while equipped to a monster: You can Special Summon this card. You can only use this effect of \"Unauthorized Device Malefactor\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Union",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

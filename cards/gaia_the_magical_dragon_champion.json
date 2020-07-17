@@ -1,0 +1,17 @@
+{
+  "id": 15989522,
+  "name": "Gaia the Magical Dragon Champion",
+  "is_illegal": false,
+  "text": "1 \"Gaia The Fierce Knight\" monster + 1 Level 5 Dragon monster\nThis card\u0027s name becomes \"Gaia the Dragon Champion\" while on the field. You can only use each of the following effects of \"Gaia the Magical Dragon Champion\" once per turn.\n? During the Main Phase (Quick Effect): You can target 1 other card on the field; this card loses 2600 ATK, and if it does, destroy that target.\n? When this card destroys an opponent\u0027s monster by battle: You can have this card gain 2600 ATK.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2600,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
+}

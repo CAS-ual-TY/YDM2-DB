@@ -1,0 +1,17 @@
+{
+  "id": 46848859,
+  "name": "Carrierroid",
+  "is_illegal": false,
+  "text": "When an opponent activates a card\u0027s effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 93221206,
+  "name": "Ancient Elf",
+  "is_illegal": false,
+  "text": "This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1450,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 74952447,
+  "name": "Testudo erat Numen",
+  "is_illegal": false,
+  "text": "Neither player can Special Summon monsters with 1800 or more ATK.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 1,
+  "is_tuner": false
+}

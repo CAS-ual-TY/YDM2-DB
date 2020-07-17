@@ -1,0 +1,16 @@
+{
+  "id": 101102041,
+  "name": "Arc Rebellion Xyz Dragon",
+  "is_illegal": false,
+  "text": "3 Level 5 monsters\nThis Xyz Summoned card cannot be destroyed by card effects. You can detach 1 material from this card; you can only declare an attack with this card for the rest of this turn, also this card gains ATK equal to the combined original ATK of all other face-up monsters on the field, then, if this card has a DARK Xyz Monster as material, negate the effects of all other face-up monsters on the field. You can only use this effect of \"Arc Rebellion Xyz Dragon\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "rank": 5
+}

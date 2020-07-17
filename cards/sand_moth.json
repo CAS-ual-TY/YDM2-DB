@@ -1,0 +1,17 @@
+{
+  "id": 73648243,
+  "name": "Sand Moth",
+  "is_illegal": false,
+  "text": "When this face-down Defense Position card is destroyed and sent to the Graveyard, except by battle, switch the original ATK and DEF of this card and Special Summon it.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

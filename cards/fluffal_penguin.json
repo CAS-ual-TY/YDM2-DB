@@ -1,0 +1,17 @@
+{
+  "id": 13241004,
+  "name": "Fluffal Penguin",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can Special Summon 1 \"Fluffal\" monster from your hand, except \"Fluffal Penguin\". This effect can only be used once while this card is face-up on the field. If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon of a \"Frightfur\" Fusion Monster: You can draw 2 cards, then discard 1 card. You can only use this effect of \"Fluffal Penguin\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

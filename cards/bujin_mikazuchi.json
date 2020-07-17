@@ -1,0 +1,17 @@
+{
+  "id": 53678698,
+  "name": "Bujin Mikazuchi",
+  "is_illegal": false,
+  "text": "When a Beast-Warrior-Type \"Bujin\" monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can Special Summon this card from your hand. Once per turn, during the End Phase, if a \"Bujin\" monster(s) was sent from your hand to your Graveyard this turn while you controlled this face-up card: You can add 1 \"Bujin\" Spell/Trap Card from your Deck to your hand. You can only control 1 \"Bujin Mikazuchi\".",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1900,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

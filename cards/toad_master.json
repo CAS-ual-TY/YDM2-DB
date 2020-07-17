@@ -1,0 +1,17 @@
+{
+  "id": 62671448,
+  "name": "Toad Master",
+  "is_illegal": false,
+  "text": "A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

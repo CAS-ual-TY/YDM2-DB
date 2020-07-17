@@ -1,0 +1,16 @@
+{
+  "id": 90162951,
+  "name": "Number 35: Ravenous Tarantula",
+  "is_illegal": false,
+  "text": "2 Level 10 monsters\nAll monsters you control gain ATK and DEF equal to the difference between your LP and your opponent\u0027s. While this card has Xyz Material, each time your opponent Special Summons a monster(s), inflict 600 damage to your opponent. Once per turn: You can detach 1 Xyz Material from this card; destroy all face-up monsters your opponent controls with ATK less than or equal to this card\u0027s.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Insect",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 10
+}

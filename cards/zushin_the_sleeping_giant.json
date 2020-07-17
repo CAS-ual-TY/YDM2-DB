@@ -1,0 +1,17 @@
+{
+  "id": 67547370,
+  "name": "Zushin the Sleeping Giant",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing a monster you control with 10 Zushin Counters, and cannot be Special Summoned by other ways. Once per turn: You can reveal this card in your hand, then target 1 Level 1 Normal Monster you control (keep this card revealed until the end of this turn); place 1 Zushin Counter on it. Unaffected by other cards\u0027 effects. If this card battles a monster, during damage calculation: ATK and DEF of this card become equal to the current ATK of the monster it is battling +1000, during that damage calculation only.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

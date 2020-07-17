@@ -1,0 +1,17 @@
+{
+  "id": 2311603,
+  "name": "Overdrive",
+  "is_illegal": false,
+  "text": "An all-terrain armored vehicle armed with a heavy-duty machine gun.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

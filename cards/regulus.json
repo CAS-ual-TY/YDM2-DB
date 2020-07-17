@@ -1,0 +1,17 @@
+{
+  "id": 20210570,
+  "name": "Regulus",
+  "is_illegal": false,
+  "text": "Once per turn, you can select 1 Field Spell Card in your Graveyard. Return it to the Deck.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

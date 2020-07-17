@@ -1,0 +1,17 @@
+{
+  "id": 11549357,
+  "name": "Gamma the Magnet Warrior",
+  "is_illegal": false,
+  "text": "Alpha, Beta, and Gamma meld as one to form a powerful monster.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

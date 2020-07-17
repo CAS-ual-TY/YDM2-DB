@@ -1,0 +1,17 @@
+{
+  "id": 46986414,
+  "name": "Dark Magician",
+  "is_illegal": false,
+  "text": "The ultimate wizard in terms of attack and defense.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
+}

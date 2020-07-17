@@ -1,0 +1,17 @@
+{
+  "id": 55784832,
+  "name": "Morinphen",
+  "is_illegal": false,
+  "text": "A strange fiend with long arms and razor-sharp talons.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1550,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
+}

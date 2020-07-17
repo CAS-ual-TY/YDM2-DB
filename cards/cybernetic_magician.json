@@ -1,0 +1,17 @@
+{
+  "id": 59023523,
+  "name": "Cybernetic Magician",
+  "is_illegal": false,
+  "text": "You can discard 1 card to target 1 face-up monster on the field; that target\u0027s ATK becomes 2000 until the End Phase.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 3026686,
+  "name": "Valkyrie Dritte",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Valkyrie\" card from your Deck to your hand, except \"Valkyrie Dritte\". You can only use this effect of \"Valkyrie Dritte\" once per turn. Gains 200 ATK for each of your opponent\u0027s banished monsters.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

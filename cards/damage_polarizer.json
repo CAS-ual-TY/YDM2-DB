@@ -1,0 +1,8 @@
+{
+  "id": 46031686,
+  "name": "Damage Polarizer",
+  "is_illegal": false,
+  "text": "Activate only when an effect that inflicts damage is activated. Negate its activation and effect, and each player draws 1 card.",
+  "type": "Trap",
+  "trap_type": "Counter"
+}

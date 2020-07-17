@@ -1,0 +1,17 @@
+{
+  "id": 40200834,
+  "name": "Sleeping Lion",
+  "is_illegal": false,
+  "text": "A ferocious animal that sleeps all day. Sometimes it\u0027s better to let Sleeping Lions lie.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

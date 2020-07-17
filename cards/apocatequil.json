@@ -1,0 +1,17 @@
+{
+  "id": 41158734,
+  "name": "Apocatequil",
+  "is_illegal": false,
+  "text": "While this card is face-up on the field, it is Level 5 if you control a face-up Tuner monster. When this card on the field is destroyed and sent to the Graveyard, you can select and Special Summon 1 \"Oracle of the Sun\" from your Graveyard.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

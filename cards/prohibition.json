@@ -1,0 +1,8 @@
+{
+  "id": 43711255,
+  "name": "Prohibition",
+  "is_illegal": false,
+  "text": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

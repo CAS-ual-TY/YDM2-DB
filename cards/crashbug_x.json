@@ -1,0 +1,17 @@
+{
+  "id": 87526784,
+  "name": "Crashbug X",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 \"Crashbug Z\" from your Deck. You must control a face-up \"Crashbug Y\" to activate and to resolve this effect.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

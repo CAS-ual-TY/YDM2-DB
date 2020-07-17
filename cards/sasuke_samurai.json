@@ -1,0 +1,17 @@
+{
+  "id": 16222645,
+  "name": "Sasuke Samurai",
+  "is_illegal": false,
+  "text": "At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

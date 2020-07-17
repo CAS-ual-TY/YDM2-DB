@@ -1,0 +1,17 @@
+{
+  "id": 56907389,
+  "name": "Musician King",
+  "is_illegal": false,
+  "text": "\"Witch of the Black Forest\" + \"Lady of Faith\"",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1750,
+  "species": "Spellcaster",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

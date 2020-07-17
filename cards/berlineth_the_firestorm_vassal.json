@@ -1,0 +1,17 @@
+{
+  "id": 59808784,
+  "name": "Berlineth the Firestorm Vassal",
+  "is_illegal": false,
+  "text": "You can discard 1 card; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can look at your opponent\u0027s hand and banish 1 card from their hand until the End Phase. You can only use each effect of \"Berlineth the Firestorm Vassal\" once per turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

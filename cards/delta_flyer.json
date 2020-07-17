@@ -1,0 +1,17 @@
+{
+  "id": 57568840,
+  "name": "Delta Flyer",
+  "is_illegal": false,
+  "text": "Once per turn, you can select 1 other face-up monster you control and increase its Level by 1.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": true
+}

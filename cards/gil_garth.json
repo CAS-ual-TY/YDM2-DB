@@ -1,0 +1,17 @@
+{
+  "id": 38445524,
+  "name": "Gil Garth",
+  "is_illegal": false,
+  "text": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

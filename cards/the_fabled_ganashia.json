@@ -1,0 +1,17 @@
+{
+  "id": 18282103,
+  "name": "The Fabled Ganashia",
+  "is_illegal": false,
+  "text": "When this card is discarded to the Graveyard, Special Summon it. If this card is Special Summoned this way, it gains 200 ATK and is removed from play when it is removed from the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

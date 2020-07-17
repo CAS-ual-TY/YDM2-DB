@@ -1,0 +1,8 @@
+{
+  "id": 22589918,
+  "name": "Reload",
+  "is_illegal": false,
+  "text": "Add all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.",
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

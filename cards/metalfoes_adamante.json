@@ -1,0 +1,17 @@
+{
+  "id": 81612598,
+  "name": "Metalfoes Adamante",
+  "is_illegal": false,
+  "text": "1 \"Metalfoes\" monster + 1 monster with 2500 or less ATK",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2500,
+  "species": "Psychic",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2500,
+  "level": 5,
+  "is_tuner": false
+}

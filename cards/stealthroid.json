@@ -1,0 +1,17 @@
+{
+  "id": 98049038,
+  "name": "Stealthroid",
+  "is_illegal": false,
+  "text": "If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another \"roid\" monster.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

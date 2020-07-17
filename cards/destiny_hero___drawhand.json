@@ -1,0 +1,17 @@
+{
+  "id": 48150362,
+  "name": "Destiny HERO - Drawhand",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned by the effect of a \"HERO\" monster: You can make each player draw 1 card. During the next Standby Phase after this card was sent to the GY: You can Special Summon this card from your GY, but banish it when it leaves the field. You can only use each effect of \"Destiny HERO - Drawhand\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

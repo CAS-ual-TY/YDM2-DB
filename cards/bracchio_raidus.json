@@ -1,0 +1,17 @@
+{
+  "id": 16507828,
+  "name": "Bracchio-raidus",
+  "is_illegal": false,
+  "text": "\"Two-Headed King Rex\" + \"Crawling Dragon #2\"",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2200,
+  "species": "Dinosaur",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

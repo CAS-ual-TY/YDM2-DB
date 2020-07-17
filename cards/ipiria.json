@@ -1,0 +1,17 @@
+{
+  "id": 70744296,
+  "name": "Ipiria",
+  "is_illegal": false,
+  "text": "If this card is Summoned: Draw 1 card. You can only use this effect of \"Ipiria\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

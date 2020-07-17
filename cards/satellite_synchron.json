@@ -1,0 +1,17 @@
+{
+  "id": 57458399,
+  "name": "Satellite Synchron",
+  "is_illegal": false,
+  "text": "If a monster(s) is Special Summoned from your GY (except during the Damage Step): You can Special Summon this card from your hand. If you have a Synchro Monster with \"Warrior\", \"Synchron\", or \"Stardust\" in its original name on your field or GY: You can make this card\u0027s Level become 4 until the end of this turn. You can only use each effect of \"Satellite Synchron\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 700,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 72370114,
+  "name": "Geargiattacker",
+  "is_illegal": false,
+  "text": "Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can destroy any number of Spell/Trap Cards on the field, up to the number of other \"Geargia\" monsters you control.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
+}

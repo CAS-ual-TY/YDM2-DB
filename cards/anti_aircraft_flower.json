@@ -1,0 +1,17 @@
+{
+  "id": 65064143,
+  "name": "Anti-Aircraft Flower",
+  "is_illegal": false,
+  "text": "By Tributing 1 Insect-Type monster on your side of the field, inflict 800 points of damage to your opponent\u0027s Life Points.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

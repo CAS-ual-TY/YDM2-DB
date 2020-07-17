@@ -1,0 +1,17 @@
+{
+  "id": 32646477,
+  "name": "Dark Strike Fighter",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nDuring your Main Phase 1: You can Tribute 1 monster; inflict damage to your opponent equal to the Tributed monster\u0027s Level on the field x 200. You can only use this effect of \"Dark Strike Fighter\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 72328962,
+  "name": "Fabled Soulkius",
+  "is_illegal": false,
+  "text": "If this card is in your Graveyard: You can send 2 cards, except \"Fabled Soulkius\", from your hand to the Graveyard; Special Summon this card from the Graveyard.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 6,
+  "is_tuner": false
+}

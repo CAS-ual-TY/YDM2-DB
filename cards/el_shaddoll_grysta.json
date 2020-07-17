@@ -1,0 +1,17 @@
+{
+  "id": 48424886,
+  "name": "El Shaddoll Grysta",
+  "is_illegal": false,
+  "text": "1 \"Shaddoll\" monster + 1 FIRE monster\nMust first be Fusion Summoned. When your opponent would Special Summon a monster(s) while you have a \"Shaddoll\" card in your hand (Quick Effect): You can negate the Summon, and if you do, destroy that monster, then send 1 \"Shaddoll\" card from your hand to the GY. You can only use this effect of \"El Shaddoll Grysta\" once per turn. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2450,
+  "species": "Rock",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1950,
+  "level": 7,
+  "is_tuner": false
+}

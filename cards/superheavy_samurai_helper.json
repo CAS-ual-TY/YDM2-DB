@@ -1,0 +1,17 @@
+{
+  "id": 44891812,
+  "name": "Superheavy Samurai Helper",
+  "is_illegal": false,
+  "text": "During damage calculation, if your Defense Position monster battles an opponent\u0027s monster while you have no Spells/Traps in your GY (Quick Effect): You can discard this card, then target 1 \"Superheavy Samurai\" monster you control other than the battling monster; your battling monster gains DEF equal to that monster\u0027s DEF, during that damage calculation only. When an opponent\u0027s monster declares a direct attack: You can banish this card from your GY, then target 1 \"Superheavy Samurai\" monster in your GY; Special Summon it.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

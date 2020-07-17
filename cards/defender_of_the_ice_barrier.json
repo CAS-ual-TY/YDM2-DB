@@ -1,0 +1,17 @@
+{
+  "id": 82498947,
+  "name": "Defender of the Ice Barrier",
+  "is_illegal": false,
+  "text": "While you control another face-up \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card\u0027s DEF.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 200,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 3,
+  "is_tuner": true
+}

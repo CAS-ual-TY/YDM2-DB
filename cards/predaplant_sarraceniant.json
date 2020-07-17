@@ -1,0 +1,17 @@
+{
+  "id": 53819028,
+  "name": "Predaplant Sarraceniant",
+  "is_illegal": false,
+  "text": "When an opponent\u0027s monster declares a direct attack: You can Special Summon this card from your hand. After damage calculation, if this card battled an opponent\u0027s monster: You can destroy that opponent\u0027s monster. If this card is destroyed by battle, or if this card on the field is sent to the Graveyard by a card effect: You can add 1 \"Predap\" card from your Deck to your hand, except \"Predaplant Sarraceniant\". You can only use this effect of \"Predaplant Sarraceniant\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 1,
+  "is_tuner": false
+}

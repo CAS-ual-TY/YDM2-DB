@@ -1,0 +1,17 @@
+{
+  "id": 12296376,
+  "name": "Wattwoodpecker",
+  "is_illegal": false,
+  "text": "This card can attack twice during each Battle Phase. Any monster that battles with this card cannot change its battle position.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
+}

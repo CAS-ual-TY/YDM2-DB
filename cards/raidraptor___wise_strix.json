@@ -1,0 +1,16 @@
+{
+  "id": 36429703,
+  "name": "Raidraptor - Wise Strix",
+  "is_illegal": false,
+  "text": "2 DARK Winged Beast monsters\nIf this card is Link Summoned: You can Special Summon 1 Level 4 DARK Winged Beast monster from your Deck in Defense Position, but negate its effects, also it cannot be used as Link Material. If your \"Raidraptor\" Xyz Monster\u0027s effect is activated: Set 1 \"Rank-Up-Magic\" Spell directly from your Deck, and if it is a Quick-Play Spell, it can be activated this turn. You can only use each effect of \"Raidraptor - Wise Strix\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Winged Beast",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

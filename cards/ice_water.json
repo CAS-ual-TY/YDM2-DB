@@ -1,0 +1,17 @@
+{
+  "id": 20848593,
+  "name": "Ice Water",
+  "is_illegal": false,
+  "text": "A very aggressive mermaid that attacks enemies with the spikes growing from its body.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1150,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

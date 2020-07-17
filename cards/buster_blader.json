@@ -1,0 +1,17 @@
+{
+  "id": 78193831,
+  "name": "Buster Blader",
+  "is_illegal": false,
+  "text": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
+}

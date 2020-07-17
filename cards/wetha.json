@@ -1,0 +1,17 @@
+{
+  "id": 96643568,
+  "name": "Wetha",
+  "is_illegal": false,
+  "text": "A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

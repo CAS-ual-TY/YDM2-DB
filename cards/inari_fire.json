@@ -1,0 +1,17 @@
+{
+  "id": 62953041,
+  "name": "Inari Fire",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Inari Fire\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). Once per turn, during your next Standby Phase after this face-up card on the field was destroyed by a card effect and sent to the Graveyard: Special Summon it from your Graveyard.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

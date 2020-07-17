@@ -1,0 +1,17 @@
+{
+  "id": 90238142,
+  "name": "Harpie Channeler",
+  "is_illegal": false,
+  "text": "You can discard 1 \"Harpie\" card; Special Summon 1 \"Harpie\" monster from your Deck in face-up Defense Position, except \"Harpie Channeler\". You can only use this effect of \"Harpie Channeler\" once per turn. While you control a Dragon-Type monster, this card\u0027s Level becomes 7. This card\u0027s name becomes \"Harpie Lady\" while it is on the field or in the Graveyard.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

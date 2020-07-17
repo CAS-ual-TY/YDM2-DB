@@ -1,0 +1,17 @@
+{
+  "id": 63018132,
+  "name": "Dragon Manipulator",
+  "is_illegal": false,
+  "text": "FLIP: Take control of 1 face-up Dragon-Type monster on your opponent\u0027s side of the field until the end of the End Phase.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

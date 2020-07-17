@@ -1,0 +1,17 @@
+{
+  "id": 501000002,
+  "name": "King of Destruction - Xexex",
+  "is_illegal": false,
+  "text": "This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Fiend-Type monsters on your side of the field. If this card attacks your opponent\u0027s Life Points directly and makes them 0, the controller of this card wins the Match. ",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

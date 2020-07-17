@@ -1,0 +1,17 @@
+{
+  "id": 28388927,
+  "name": "Battlewasp - Sting the Poison",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Battlewasp\" monster from your Deck to your hand, except \"Battlewasp - Sting the Poison\". (Quick Effect): You can Tribute 1 other Insect monster, then target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use each effect of \"Battlewasp - Sting the Poison\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 400,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 2,
+  "is_tuner": true
+}

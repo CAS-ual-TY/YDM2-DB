@@ -1,0 +1,17 @@
+{
+  "id": 13647631,
+  "name": "Heavy Freight Train Derricrane",
+  "is_illegal": false,
+  "text": "If an EARTH Machine monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand, but its original ATK/DEF become halved. You can only use this effect of \"Heavy Freight Train Derricrane\" once per turn. If this card is detached from an Xyz Monster and sent to the GY to activate that monster\u0027s effect: You can target 1 card your opponent controls; destroy it.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 10,
+  "is_tuner": false
+}

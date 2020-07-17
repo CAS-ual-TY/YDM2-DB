@@ -1,0 +1,17 @@
+{
+  "id": 32355828,
+  "name": "Skelgon",
+  "is_illegal": false,
+  "text": "\"The Snake Hair\" + \"Blackland Fire Dragon\"",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Zombie",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
+}

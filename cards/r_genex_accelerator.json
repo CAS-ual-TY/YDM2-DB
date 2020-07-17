@@ -1,0 +1,17 @@
+{
+  "id": 73783043,
+  "name": "R-Genex Accelerator",
+  "is_illegal": false,
+  "text": "When a \"Genex\" monster is added from your Deck to your hand, you can reveal that monster to Special Summon it.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
+}

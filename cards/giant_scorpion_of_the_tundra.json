@@ -1,0 +1,17 @@
+{
+  "id": 41403766,
+  "name": "Giant Scorpion of the Tundra",
+  "is_illegal": false,
+  "text": "An extraordinary blue scorpion found in the tundra, not in the desert.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

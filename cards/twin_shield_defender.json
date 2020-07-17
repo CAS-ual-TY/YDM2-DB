@@ -1,0 +1,17 @@
+{
+  "id": 24025620,
+  "name": "Twin-Shield Defender",
+  "is_illegal": false,
+  "text": "When this card you control is destroyed by battle and sent to your Graveyard, you can halve the current ATK of 1 face-up monster your opponent controls, until the End Phase.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

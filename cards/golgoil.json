@@ -1,0 +1,17 @@
+{
+  "id": 7526150,
+  "name": "Golgoil",
+  "is_illegal": false,
+  "text": "An iron giant that appears from a dimensional rift.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

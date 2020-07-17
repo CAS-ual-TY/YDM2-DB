@@ -1,0 +1,17 @@
+{
+  "id": 88940154,
+  "name": "Bujingi Centipede",
+  "is_illegal": false,
+  "text": "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 Spell/Trap Card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Centipede\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

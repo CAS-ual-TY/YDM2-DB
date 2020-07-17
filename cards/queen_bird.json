@@ -1,0 +1,17 @@
+{
+  "id": 73081602,
+  "name": "Queen Bird",
+  "is_illegal": false,
+  "text": "This monster attacks enemies using its huge beak.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 97520532,
+  "name": "Gimmick Puppet Chimera Doll",
+  "is_illegal": false,
+  "text": "2 Machine monsters\nDuring your Main Phase, if you control this Link Summoned card: You can activate this effect; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Machine Xyz Monsters, also take 1 \"Gimmick Puppet\" monster from your Deck, and either add it to your hand or send it to the GY, then, if all monsters you control are \"Gimmick Puppet\" monsters (min. 1), you can Special Summon 1 \"Gimmick Puppet\" monster from your hand. You can only use this effect of \"Gimmick Puppet Chimera Doll\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

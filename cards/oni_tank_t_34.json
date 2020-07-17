@@ -1,0 +1,17 @@
+{
+  "id": 66927994,
+  "name": "Oni Tank T-34",
+  "is_illegal": false,
+  "text": "An armored tank possessed by a fiend that will pursue enemies until they\u0027re crushed.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

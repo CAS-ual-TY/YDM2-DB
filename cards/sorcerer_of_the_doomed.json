@@ -1,0 +1,17 @@
+{
+  "id": 49218300,
+  "name": "Sorcerer of the Doomed",
+  "is_illegal": false,
+  "text": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1450,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

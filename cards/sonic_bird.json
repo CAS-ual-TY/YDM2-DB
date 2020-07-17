@@ -1,0 +1,17 @@
+{
+  "id": 57617178,
+  "name": "Sonic Bird",
+  "is_illegal": false,
+  "text": "When this card is Normal or Flip Summoned: You can add 1 Ritual Spell from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

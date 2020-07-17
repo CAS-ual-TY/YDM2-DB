@@ -1,0 +1,17 @@
+{
+  "id": 4550066,
+  "name": "Rebuildeer",
+  "is_illegal": false,
+  "text": "When this card destroys an opponent\u0027s monster by battle: You can target 1 Cyberse monster with 1500 or less ATK in your GY; Special Summon it.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

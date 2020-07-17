@@ -1,0 +1,8 @@
+{
+  "id": 26834022,
+  "name": "Disarm",
+  "is_illegal": false,
+  "text": "Return 1 \"Gladiator Beast\" card from your hand to the Deck, and negate the activation and effect of a Spell Card, and destroy it.",
+  "type": "Trap",
+  "trap_type": "Counter"
+}

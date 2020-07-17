@@ -1,0 +1,17 @@
+{
+  "id": 38049541,
+  "name": "Genex Ally Chemistrer",
+  "is_illegal": false,
+  "text": "You can declare 1 Attribute and discard this card to select 1 face-up \"Genex\" monster you control. That monster becomes that Attribute. This effect can be activated during either player\u0027s turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": true
+}

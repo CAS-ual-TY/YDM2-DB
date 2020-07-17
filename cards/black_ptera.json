@@ -1,0 +1,17 @@
+{
+  "id": 90654356,
+  "name": "Black Ptera",
+  "is_illegal": false,
+  "text": "If this card is sent from the field to the GY, except by being destroyed by battle: Return it to the hand.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

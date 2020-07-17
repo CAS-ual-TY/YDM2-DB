@@ -1,0 +1,16 @@
+{
+  "id": 45742626,
+  "name": "Pilgrim Reaper",
+  "is_illegal": false,
+  "text": "2 Level 6 monsters\nThis card gains 200 ATK and DEF for every DARK monster in either player\u0027s Graveyard. You can detach 1 Xyz Material from this card; each player sends the top 5 cards from their Deck to the Graveyard (or their entire Deck, if less than 5). You can only use this effect of \"Pilgrim Reaper\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 6
+}

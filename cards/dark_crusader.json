@@ -1,0 +1,17 @@
+{
+  "id": 91596726,
+  "name": "Dark Crusader",
+  "is_illegal": false,
+  "text": "You can send 1 DARK monster from your hand to the Graveyard; this card gains 400 ATK.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 92919429,
+  "name": "Diviner of the Heralds",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can send 1 Fairy monster from your Deck or Extra Deck to the GY, and if you do, increase this card\u0027s Level by the Level of the sent monster, until the end of this turn. If this card is Tributed: You can Special Summon 1 Level 2 or lower Fairy monster from your hand or Deck, except \"Diviner of the Heralds\". You can only use each effect of \"Diviner of the Heralds\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 2,
+  "is_tuner": true
+}

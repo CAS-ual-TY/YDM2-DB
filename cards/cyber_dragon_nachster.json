@@ -1,0 +1,17 @@
+{
+  "id": 1142880,
+  "name": "Cyber Dragon Nachster",
+  "is_illegal": false,
+  "text": "This card\u0027s name becomes \"Cyber Dragon\" while on the field or in the GY. You can discard 1 other monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 Machine monster with 2100 ATK or DEF in your GY; Special Summon it, also, you cannot Special Summon monsters for the rest of this turn, except Machine monsters. You can only use each effect of \"Cyber Dragon Nachster\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

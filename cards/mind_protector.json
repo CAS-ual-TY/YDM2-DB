@@ -1,0 +1,17 @@
+{
+  "id": 85060248,
+  "name": "Mind Protector",
+  "is_illegal": false,
+  "text": "This card\u0027s controller must pay 500 Life Points during each of their Standby Phases. If they cannot, destroy this card. Monsters with 2000 or less ATK cannot declare an attack, except for Psychic-Type monsters.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 3,
+  "is_tuner": false
+}

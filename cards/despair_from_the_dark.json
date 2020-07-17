@@ -1,0 +1,17 @@
+{
+  "id": 71200730,
+  "name": "Despair from the Dark",
+  "is_illegal": false,
+  "text": "If this card is sent from your hand or Deck to your GY by an opponent\u0027s card effect: Special Summon this card.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
+}

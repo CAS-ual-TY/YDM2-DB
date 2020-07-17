@@ -1,0 +1,17 @@
+{
+  "id": 97204936,
+  "name": "Gaia Knight, the Force of Earth",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2600,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 42348802,
+  "name": "Trakodon",
+  "is_illegal": false,
+  "text": "A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

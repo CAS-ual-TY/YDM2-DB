@@ -1,0 +1,17 @@
+{
+  "id": 58655504,
+  "name": "Gnomaterial",
+  "is_illegal": false,
+  "text": "If your opponent Special Summons a monster(s) while you control no cards: You can discard this card, then target 1 face-up monster your opponent controls; this turn, that monster cannot be Tributed, or used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use this effect of \"Gnomaterial\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 1,
+  "is_tuner": false
+}

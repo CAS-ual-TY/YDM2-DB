@@ -1,0 +1,17 @@
+{
+  "id": 65496056,
+  "name": "Codarus",
+  "is_illegal": false,
+  "text": "You can send 1 face-up \"Umi\" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

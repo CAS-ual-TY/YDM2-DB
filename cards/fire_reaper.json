@@ -1,0 +1,17 @@
+{
+  "id": 53581214,
+  "name": "Fire Reaper",
+  "is_illegal": false,
+  "text": "A reaper with a flaming arrow that burns an enemy to a crisp.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 700,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

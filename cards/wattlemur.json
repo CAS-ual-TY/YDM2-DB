@@ -1,0 +1,17 @@
+{
+  "id": 45801022,
+  "name": "Wattlemur",
+  "is_illegal": false,
+  "text": "If this card in its owner\u0027s possession is destroyed by your opponent\u0027s card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
+}

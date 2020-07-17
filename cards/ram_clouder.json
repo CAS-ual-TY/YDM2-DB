@@ -1,0 +1,17 @@
+{
+  "id": 9190563,
+  "name": "RAM Clouder",
+  "is_illegal": false,
+  "text": "You can Tribute 1 monster, then target 1 Cyberse monster in your GY; Special Summon it. You can only use this effect of \"RAM Clouder\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 53714009,
+  "name": "Flamvell Uruquizas",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nDuring battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. This card gains 300 ATK each time it inflicts Battle Damage to your opponent.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2100,
+  "species": "Pyro",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 6,
+  "is_tuner": false
+}

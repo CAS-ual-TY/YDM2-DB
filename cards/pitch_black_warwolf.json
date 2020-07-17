@@ -1,0 +1,17 @@
+{
+  "id": 88975532,
+  "name": "Pitch-Black Warwolf",
+  "is_illegal": false,
+  "text": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
+}

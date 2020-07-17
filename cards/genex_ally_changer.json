@@ -1,0 +1,17 @@
+{
+  "id": 20127343,
+  "name": "Genex Ally Changer",
+  "is_illegal": false,
+  "text": "Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster\u0027s Attribute becomes the declared Attribute until the End Phase.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

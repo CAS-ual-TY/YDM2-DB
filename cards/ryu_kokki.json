@@ -1,0 +1,17 @@
+{
+  "id": 57281778,
+  "name": "Ryu Kokki",
+  "is_illegal": false,
+  "text": "At the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

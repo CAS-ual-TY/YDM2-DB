@@ -1,0 +1,17 @@
+{
+  "id": 63515678,
+  "name": "Mystical Capture Chain",
+  "is_illegal": false,
+  "text": "A mystical chain that binds enemies, rendering them immobile.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 700,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

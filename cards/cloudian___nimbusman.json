@@ -1,0 +1,17 @@
+{
+  "id": 20003527,
+  "name": "Cloudian - Nimbusman",
+  "is_illegal": false,
+  "text": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. You can Tribute any number of WATER monsters for the Tribute Summon of this card. When this card is Tribute Summoned, place 1 Fog Counter on it for each WATER monster you Tributed. This card gains 500 ATK for each Fog Counter on the field.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

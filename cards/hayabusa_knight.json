@@ -1,0 +1,17 @@
+{
+  "id": 21015833,
+  "name": "Hayabusa Knight",
+  "is_illegal": false,
+  "text": "This card can make a second attack during each Battle Phase.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

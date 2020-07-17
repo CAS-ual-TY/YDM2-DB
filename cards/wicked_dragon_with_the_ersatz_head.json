@@ -1,0 +1,17 @@
+{
+  "id": 2957055,
+  "name": "Wicked Dragon with the Ersatz Head",
+  "is_illegal": false,
+  "text": "A two-headed dragon with a pair of jaws that can tear an enemy to shreds.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 900,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

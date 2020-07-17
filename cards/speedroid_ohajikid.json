@@ -1,0 +1,17 @@
+{
+  "id": 89326990,
+  "name": "Speedroid Ohajikid",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 Tuner monster in either player\u0027s Graveyard; Special Summon it to your side of the field, and if you do, immediately after this effect resolves, Synchro Summon 1 WIND Synchro Monster, using that monster and this card only.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 3,
+  "is_tuner": false
+}

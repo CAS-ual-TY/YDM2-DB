@@ -1,0 +1,17 @@
+{
+  "id": 75059201,
+  "name": "F.A. Turbo Charger",
+  "is_illegal": false,
+  "text": "Gains ATK equal to its Level x 300. Your opponent\u0027s monsters whose original Level/Rank is lower than this card\u0027s Level cannot target monsters for attacks, except this one. Your opponent cannot target monsters, except this one, with the effects of monsters whose original Level/Rank is lower than this card\u0027s Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card\u0027s Level by 1. If your \"F.A.\" monster battles while you control this Level 7 or higher card, your opponent\u0027s monsters cannot activate their effects until the end of the Damage Step.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
+}

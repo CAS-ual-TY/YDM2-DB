@@ -1,0 +1,17 @@
+{
+  "id": 29802344,
+  "name": "Snakeyashi",
+  "is_illegal": false,
+  "text": "This monster is formed by several serpents that break off to individually attack nearby enemies.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

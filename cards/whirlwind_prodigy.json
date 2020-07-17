@@ -1,0 +1,17 @@
+{
+  "id": 15090429,
+  "name": "Whirlwind Prodigy",
+  "is_illegal": false,
+  "text": "When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

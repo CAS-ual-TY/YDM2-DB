@@ -1,0 +1,17 @@
+{
+  "id": 94230224,
+  "name": "Needle Ball",
+  "is_illegal": false,
+  "text": "FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 750,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

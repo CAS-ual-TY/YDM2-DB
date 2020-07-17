@@ -1,0 +1,17 @@
+{
+  "id": 26205777,
+  "name": "Thestalos the Firestorm Monarch",
+  "is_illegal": false,
+  "text": "If this card is Tribute Summoned: Discard 1 random card from your opponent\u0027s hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 100.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2400,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

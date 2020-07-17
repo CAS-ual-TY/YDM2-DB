@@ -1,0 +1,17 @@
+{
+  "id": 79109599,
+  "name": "King of the Swamp",
+  "is_illegal": false,
+  "text": "This card can be used as a substitute for any 1 Fusion Material whose name is specifically listed on the Fusion Monster Card, but the other Fusion Material(s) must be correct. You can discard this card to the Graveyard; add 1 \"Polymerization\" from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
+}

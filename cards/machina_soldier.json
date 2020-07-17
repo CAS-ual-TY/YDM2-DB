@@ -1,0 +1,17 @@
+{
+  "id": 60999392,
+  "name": "Machina Soldier",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 \"Machina\" monster from your hand, except \"Machina Soldier\".",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

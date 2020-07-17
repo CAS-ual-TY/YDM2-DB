@@ -1,0 +1,17 @@
+{
+  "id": 64342551,
+  "name": "Amphibious Bugroth MK-3",
+  "is_illegal": false,
+  "text": "While \"Umi\" is face-up on the field, this card can attack your opponent\u0027s Life Points directly.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

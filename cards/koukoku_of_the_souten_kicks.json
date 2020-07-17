@@ -1,0 +1,17 @@
+{
+  "id": 101102015,
+  "name": "Koukoku of the Souten Kicks",
+  "is_illegal": false,
+  "text": "During your opponent\u0027s turn, if a face-up \"Souten\" monster(s) you control other than \"Koukoku of the Souten Kicks\" is destroyed by battle or card effect: You can Special Summon this card from your hand, then you can destroy 1 \"Souten\" monster you control, and if you do, Special Summon 1 \"Souten\" Fusion Monster from your Extra Deck. If this card is Normal or Special Summoned: You can add 1 \"Souten\" Trap from your Deck to your hand. You can only use each effect of \"Koukoku of the Souten Kicks\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 8495780,
+  "name": "Deep Sea Artisan",
+  "is_illegal": false,
+  "text": "If this card is added from the Deck or GY to your hand by an effect of a WATER monster: You can reveal this card; look at your opponent\u0027s hand. If this card is Special Summoned: You can send the top card of your Deck to the GY, then target 1 Level 4 or lower WATER monster in your GY, except \"Deep Sea Artisan\"; Special Summon it, but negate its effects. You can only use each effect of \"Deep Sea Artisan\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 1,
+  "is_tuner": false
+}

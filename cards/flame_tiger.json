@@ -1,0 +1,17 @@
+{
+  "id": 66499018,
+  "name": "Flame Tiger",
+  "is_illegal": false,
+  "text": "During your Draw Phase, if this card is in your Graveyard and you control no monsters, instead of conducting your normal draw: You can Special Summon this card, and if you do, banish it when it leaves the field.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

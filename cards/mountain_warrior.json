@@ -1,0 +1,17 @@
+{
+  "id": 4931562,
+  "name": "Mountain Warrior",
+  "is_illegal": false,
+  "text": "A tough warrior that can move smoothly on even the roughest terrain.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4732017,
+  "name": "Molten Zombie",
+  "is_illegal": false,
+  "text": "When this card is Special Summoned from the Graveyard: Draw 1 card.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 86784733,
+  "name": "Cyberse Synchron",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 Level 4 or lower monster you control; increase its Level by its original Level until the end of this turn. If your monster(s) in the Extra Monster Zone would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use this effect of \"Cyberse Synchron\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 100,
+  "level": 1,
+  "is_tuner": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40826495,
+  "name": "Dissolverock",
+  "is_illegal": false,
+  "text": "A monster born in the lava pits, it generates intense heat that can melt away its enemies.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

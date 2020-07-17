@@ -1,0 +1,17 @@
+{
+  "id": 40672993,
+  "name": "Lightning Rod Lord",
+  "is_illegal": false,
+  "text": "Neither player can activate Spell Cards during Main Phase 1.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
+}

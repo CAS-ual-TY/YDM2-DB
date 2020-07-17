@@ -1,0 +1,17 @@
+{
+  "id": 49633574,
+  "name": "Fabled Oltro",
+  "is_illegal": false,
+  "text": "Once per turn, you can send 1 card from your hand to the Graveyard to Special Summon 1 Level 3 \"Fabled\" monster from your hand.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": true
+}

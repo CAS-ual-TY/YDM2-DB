@@ -1,0 +1,17 @@
+{
+  "id": 42463414,
+  "name": "Spined Gillman",
+  "is_illegal": false,
+  "text": "All Fish, Sea Serpent, and Aqua-Type monsters you control gain 400 ATK.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1300,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

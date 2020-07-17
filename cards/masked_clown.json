@@ -1,0 +1,17 @@
+{
+  "id": 77581312,
+  "name": "Masked Clown",
+  "is_illegal": false,
+  "text": "This warrior\u0027s fatal dance is performed with a lethal sickle.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

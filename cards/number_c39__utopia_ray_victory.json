@@ -1,0 +1,16 @@
+{
+  "id": 87911394,
+  "name": "Number C39: Utopia Ray Victory",
+  "is_illegal": false,
+  "text": "3 Level 5 monsters\nIf this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card has a \"Utopia\" monster as an Xyz Material, it gains this effect.\n? When this card declares an attack on a face-up monster your opponent controls: You can detach 1 Xyz Material from this card; negate that opponent\u0027s face-up monster\u0027s effects, also this card gains ATK equal to that opponent\u0027s monster\u0027s ATK. These changes last until the end of this turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "rank": 5
+}

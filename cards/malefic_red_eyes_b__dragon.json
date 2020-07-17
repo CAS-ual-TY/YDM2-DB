@@ -1,0 +1,17 @@
+{
+  "id": 55343236,
+  "name": "Malefic Red-Eyes B. Dragon",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, by removing from play 1 \"Red-Eyes B. Dragon\" from your Deck. There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

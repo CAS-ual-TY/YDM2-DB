@@ -1,0 +1,17 @@
+{
+  "id": 56043447,
+  "name": "Viser Des",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: Target 1 monster your opponent controls; during your third Standby Phase after this effect\u0027s activation, destroy that monster. This card cannot be destroyed by battle while the targeted monster is on the field.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 69031175,
+  "name": "Blackwing Armor Master",
+  "is_illegal": false,
+  "text": "1 \"Blackwing\" Tuner + 1 or more non-Tuner monsters\nCannot be destroyed by battle, and you take no battle damage from attacks involving this card. At the end of the Damage Step, if this card attacked a monster: You can place 1 Wedge Counter on that monster (max. 1). You can remove all Wedge Counters from your opponent\u0027s monsters; the ATK and DEF of those monsters that had Wedge Counters become 0 until the end of this turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Winged Beast",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
+}

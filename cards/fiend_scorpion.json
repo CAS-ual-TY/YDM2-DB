@@ -1,0 +1,17 @@
+{
+  "id": 26566878,
+  "name": "Fiend Scorpion",
+  "is_illegal": false,
+  "text": "A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

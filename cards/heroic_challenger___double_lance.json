@@ -1,0 +1,17 @@
+{
+  "id": 89774530,
+  "name": "Heroic Challenger - Double Lance",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 \"Heroic Challenger - Double Lance\" from your hand or Graveyard in face-up Defense Position. This card cannot be used as a Synchro Material Monster. This card cannot be used as an Xyz Material, except for the Xyz Summon of a Warrior-Type monster.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 64271667,
+  "name": "Meteor Dragon",
+  "is_illegal": false,
+  "text": "This dragon appeared from the sky and crashed to the earth.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

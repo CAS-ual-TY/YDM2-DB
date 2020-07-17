@@ -1,0 +1,17 @@
+{
+  "id": 58314394,
+  "name": "Ground Attacker Bugroth",
+  "is_illegal": false,
+  "text": "A surface battle robot that was once used for sea warfare.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

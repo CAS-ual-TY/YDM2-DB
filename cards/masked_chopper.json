@@ -1,0 +1,17 @@
+{
+  "id": 87350908,
+  "name": "Masked Chopper",
+  "is_illegal": false,
+  "text": "If this card destroys an opponent\u0027s monster by battle, inflict 2000 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

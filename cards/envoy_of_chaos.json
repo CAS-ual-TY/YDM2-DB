@@ -1,0 +1,17 @@
+{
+  "id": 38695361,
+  "name": "Envoy of Chaos",
+  "is_illegal": false,
+  "text": "During the Battle Phase (Quick Effect): You can discard this card, then target 1 \"Black Luster Soldier\" monster or \"Gaia The Fierce Knight\" monster you control; it gains 1500 ATK until the end of this turn, and if it does, every opponent\u0027s monster that battles it this turn has its ATK become that monster\u0027s original ATK during damage calculation only. Once per turn, during the End Phase, if this card is in your GY: You can banish 1 LIGHT and 1 DARK monster from your GY, except this card; add this card to your hand.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

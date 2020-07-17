@@ -1,0 +1,17 @@
+{
+  "id": 38142739,
+  "name": "Petit Angel",
+  "is_illegal": false,
+  "text": "A quick-moving and tiny fairy that\u0027s very difficult to hit.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

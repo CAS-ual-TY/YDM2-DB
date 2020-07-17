@@ -1,0 +1,17 @@
+{
+  "id": 72192100,
+  "name": "Desrook Archfiend",
+  "is_illegal": false,
+  "text": "The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent\u0027s card. When a \"Terrorking Archfiend\" on your side of the field is destroyed and sent to the Graveyard, you can send this card from your hand to the Graveyard to Special Summon the \"Terrorking Archfiend\".",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1100,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

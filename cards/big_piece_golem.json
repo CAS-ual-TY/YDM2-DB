@@ -1,0 +1,17 @@
+{
+  "id": 25247218,
+  "name": "Big Piece Golem",
+  "is_illegal": false,
+  "text": "If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributes.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

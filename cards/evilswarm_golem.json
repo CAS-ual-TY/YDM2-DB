@@ -1,0 +1,17 @@
+{
+  "id": 31456110,
+  "name": "Evilswarm Golem",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 Level 5 or higher non-DARK monster on the field; destroy that target.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2150,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1250,
+  "level": 5,
+  "is_tuner": false
+}

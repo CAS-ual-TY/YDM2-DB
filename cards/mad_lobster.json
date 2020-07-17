@@ -1,0 +1,17 @@
+{
+  "id": 97240270,
+  "name": "Mad Lobster",
+  "is_illegal": false,
+  "text": "A gourmet food renowned by the Dark World upper crust. It has sensational flavor.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

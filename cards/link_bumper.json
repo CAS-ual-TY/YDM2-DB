@@ -1,0 +1,16 @@
+{
+  "id": 67231737,
+  "name": "Link Bumper",
+  "is_illegal": false,
+  "text": "2 Cyberse monsters\nOnce per turn, at the end of the Damage Step, if your monster this card points to attacked an opponent\u0027s Link Monster: You can activate this effect; the monster that attacked gains 1 additional attack on an opponent\u0027s Link Monster during this Battle Phase for each Link Monster you currently control, except this card. Your monsters (except that monster) cannot attack the turn you activate this effect.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 130
+}

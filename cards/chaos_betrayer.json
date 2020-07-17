@@ -1,0 +1,17 @@
+{
+  "id": 34966096,
+  "name": "Chaos Betrayer",
+  "is_illegal": false,
+  "text": "If this card is in your GY: You can banish 1 LIGHT and 1 DARK monster from your GY, except \"Chaos Betrayer\"; Special Summon this card in Defense Position, but banish it when it leaves the field. If this card is Special Summoned: You can target 1 card in your opponent\u0027s GY; banish it. You can only use each effect of \"Chaos Betrayer\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

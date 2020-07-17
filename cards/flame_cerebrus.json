@@ -1,0 +1,17 @@
+{
+  "id": 60862676,
+  "name": "Flame Cerebrus",
+  "is_illegal": false,
+  "text": "Known to many as the \"Burning Executioner\", this monster is capable of burning enemies to cinders.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2100,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

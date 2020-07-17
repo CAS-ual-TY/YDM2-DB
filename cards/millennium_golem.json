@@ -1,0 +1,17 @@
+{
+  "id": 47986555,
+  "name": "Millennium Golem",
+  "is_illegal": false,
+  "text": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
+}

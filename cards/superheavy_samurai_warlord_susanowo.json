@@ -1,0 +1,17 @@
+{
+  "id": 494922,
+  "name": "Superheavy Samurai Warlord Susanowo",
+  "is_illegal": false,
+  "text": "1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player\u0027s turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card in your opponent\u0027s Graveyard; Set it to your side of the field, but banish it when it leaves the field.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3800,
+  "level": 10,
+  "is_tuner": false
+}

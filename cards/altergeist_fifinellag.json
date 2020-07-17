@@ -1,0 +1,17 @@
+{
+  "id": 12977245,
+  "name": "Altergeist Fifinellag",
+  "is_illegal": false,
+  "text": "Monsters your opponent controls cannot target \"Altergeist\" monsters you control for attacks, except \"Altergeist Fifinellag\", also your opponent cannot target \"Altergeist\" monsters you control with card effects, except \"Altergeist Fifinellag\".",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": true
+}

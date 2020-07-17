@@ -1,0 +1,17 @@
+{
+  "id": 22404675,
+  "name": "Mithra the Thunder Vassal",
+  "is_illegal": false,
+  "text": "If this card is in your hand: You can activate this effect; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, also Special Summon this card, and if you do, Special Summon 1 \"Vassal Token\" (Thunder-Type/LIGHT/Level 1/ATK 800/DEF 1000) to your opponent\u0027s field in Defense Position. If this card is Tributed for a Tribute Summon: You can activate this effect; you can Tribute Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.) You can only use each effect of \"Mithra the Thunder Vassal\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}

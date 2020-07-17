@@ -1,0 +1,20 @@
+{
+  "id": 12525049,
+  "name": "Symphonic Warrior Guitaar",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 \"Symphonic Warrior\" monster in your Graveyard; Special Summon it.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 3,
+  "is_tuner": false,
+  "pendulum_text": "You can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\". You can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.\n",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7
+}

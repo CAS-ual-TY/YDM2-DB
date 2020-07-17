@@ -1,0 +1,16 @@
+{
+  "id": 5402805,
+  "name": "Berserker of the Tenyi",
+  "is_illegal": false,
+  "text": "2+ monsters, including a Link Monster",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Wyrm",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "link_rating": 3,
+  "link_arrows": 22
+}

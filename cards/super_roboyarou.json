@@ -1,0 +1,17 @@
+{
+  "id": 1412158,
+  "name": "Super Roboyarou",
+  "is_illegal": false,
+  "text": "\"Roboyarou\" + \"Robolady\"\nYou can Special Summon \"Super Robolady\" by returning this card from the field to the Extra Deck. You cannot use this effect during the same turn this monster is Special Summoned. In addition, increase the ATK of this monster by 1000 points during the Damage Step when this monster battles with a monster.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 6,
+  "is_tuner": false
+}

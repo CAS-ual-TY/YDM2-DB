@@ -1,0 +1,17 @@
+{
+  "id": 31339260,
+  "name": "Zombie Warrior",
+  "is_illegal": false,
+  "text": "\"Skull Servant\" + \"Battle Warrior\"",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Zombie",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

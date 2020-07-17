@@ -1,0 +1,17 @@
+{
+  "id": 44729197,
+  "name": "Steamroid",
+  "is_illegal": false,
+  "text": "If this card attacks an opponent\u0027s monster, this card gains 500 ATK during the Damage Step only. If this card is attacked by an opponent\u0027s monster, this card loses 500 ATK during the Damage Step only.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

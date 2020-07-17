@@ -1,0 +1,17 @@
+{
+  "id": 6901008,
+  "name": "Phantom King Hydride",
+  "is_illegal": false,
+  "text": "If you use this card you control for a Synchro Summon, you can treat it as a non-Tuner monster.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 3,
+  "is_tuner": true
+}

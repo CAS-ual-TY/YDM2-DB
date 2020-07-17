@@ -1,0 +1,20 @@
+{
+  "id": 40227329,
+  "name": "Divine Go-D/D/D Zero King Zero G.O.D. Reiji",
+  "is_illegal": false,
+  "text": "Cannot be destroyed by battle, also you take no battle damage from attacks involving this card. When this card declares an attack while your opponent\u0027s LP are 4000 or less: You can make this card gain ATK equal to your opponent\u0027s LP until the end of this turn. You can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n? This card can attack directly.\n? Your opponent cannot activate cards or effects in their Spell \u0026 Trap Zones.\n? Your opponent cannot activate card effects from their hand or GY.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false,
+  "pendulum_text": "The first time you would take effect damage each turn, you do not. Each turn, 1 Level 5 or higher \"D/D\" monster you Normal Summon can be Summoned without Tributing. You can only use each Pendulum Effect of \"Divine Go-D/D/D Zero King Zero G.O.D. Reiji\" once per turn.\n",
+  "pendulum_scale_left_blue": 10,
+  "pendulum_scale_right_red": 10
+}

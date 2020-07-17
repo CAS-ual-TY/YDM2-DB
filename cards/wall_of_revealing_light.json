@@ -1,0 +1,8 @@
+{
+  "id": 17078030,
+  "name": "Wall of Revealing Light",
+  "is_illegal": false,
+  "text": "Activate by paying any multiple of 1000 Life Points. Monsters your opponent controls cannot attack if their ATK is less than or equal to the amount you paid.",
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

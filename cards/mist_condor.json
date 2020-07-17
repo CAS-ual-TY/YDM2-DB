@@ -1,0 +1,17 @@
+{
+  "id": 65549080,
+  "name": "Mist Condor",
+  "is_illegal": false,
+  "text": "You can Special Summon this card from your hand by returning 1 face-up \"Mist Valley\" monster you control to the hand. If you do, this card\u0027s ATK becomes 1700.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
+}

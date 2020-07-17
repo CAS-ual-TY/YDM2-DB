@@ -1,0 +1,17 @@
+{
+  "id": 48365709,
+  "name": "Ansatsu",
+  "is_illegal": false,
+  "text": "A silent and deadly warrior specializing in assassinations.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 5,
+  "is_tuner": false
+}

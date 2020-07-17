@@ -1,0 +1,16 @@
+{
+  "id": 2665273,
+  "name": "Jormungandr, Generaider Boss of Eternity",
+  "is_illegal": false,
+  "text": "2+ Level 9 monsters\nYou can only control 1 \"Jormungandr, Generaider Boss of Eternity\". This card\u0027s original ATK/DEF become 1000 x its number of materials. (Quick Effect): You can detach 1 material from this card; each player draws 1 card, then each player that drew attaches 1 card from their hand or field to this card. You can only use this effect of \"Jormungandr, Generaider Boss of Eternity\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Reptile",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 9
+}

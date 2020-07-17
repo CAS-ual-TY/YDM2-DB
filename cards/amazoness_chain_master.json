@@ -1,0 +1,17 @@
+{
+  "id": 29654737,
+  "name": "Amazoness Chain Master",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the GY: You can pay 1500 LP; look at your opponent\u0027s hand, then add 1 monster from their hand to your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

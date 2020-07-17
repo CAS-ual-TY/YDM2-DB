@@ -1,0 +1,17 @@
+{
+  "id": 1826676,
+  "name": "Toy Knight",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned from the Deck. If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: You can Special Summon 1 \"Toy Knight\" from your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

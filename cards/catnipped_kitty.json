@@ -1,0 +1,17 @@
+{
+  "id": 96501677,
+  "name": "Catnipped Kitty",
+  "is_illegal": false,
+  "text": "This card cannot be attacked if there is another Beast-Type monster on your side of the field. Once per turn, you can make the DEF of 1 monster on your opponent\u0027s side of the field 0 until the end of this turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

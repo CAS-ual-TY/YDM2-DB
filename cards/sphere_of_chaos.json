@@ -1,0 +1,17 @@
+{
+  "id": 82693042,
+  "name": "Sphere of Chaos",
+  "is_illegal": false,
+  "text": "While this card is face-up on the field its Attribute is also treated as LIGHT. Once per turn, this card cannot be destroyed by battle. When this card is Tribute Summoned, you can add 1 Level 3 monster from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 7152333,
+  "name": "Umbral Horror Ghoul",
+  "is_illegal": false,
+  "text": "Once per turn: You can make this card\u0027s ATK 0, and if you do, Special Summon 1 \"Umbral Horror\" monster with 0 ATK from your hand.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

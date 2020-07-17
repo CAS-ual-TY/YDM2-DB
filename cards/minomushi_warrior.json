@@ -1,0 +1,17 @@
+{
+  "id": 46864967,
+  "name": "Minomushi Warrior",
+  "is_illegal": false,
+  "text": "A rock warrior that wields a heavy blade carved from stone.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

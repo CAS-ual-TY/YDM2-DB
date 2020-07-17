@@ -1,0 +1,17 @@
+{
+  "id": 66989694,
+  "name": "The Earl of Demise",
+  "is_illegal": false,
+  "text": "This gentlemanly creature is extremely wicked, feared by man and fiend alike.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 5,
+  "is_tuner": false
+}

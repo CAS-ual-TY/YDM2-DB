@@ -1,0 +1,17 @@
+{
+  "id": 48531733,
+  "name": "Bolt Penguin",
+  "is_illegal": false,
+  "text": "With each arm forming an electric whip, this monster paralyzes its enemies with electric shocks.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

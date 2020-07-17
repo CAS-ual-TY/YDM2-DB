@@ -1,0 +1,17 @@
+{
+  "id": 6544078,
+  "name": "Izanagi",
+  "is_illegal": false,
+  "text": "You can Special Summon this card from your hand by removing from play 1 Spirit monster from your hand. Spirit monsters you control do not have to have their effects that return them to the hand activated.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2200,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

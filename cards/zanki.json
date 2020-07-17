@@ -1,0 +1,17 @@
+{
+  "id": 30090452,
+  "name": "Zanki",
+  "is_illegal": false,
+  "text": "His swiftly drawn blade delivers quick and fatal damage.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1700,
+  "level": 5,
+  "is_tuner": false
+}

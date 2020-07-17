@@ -1,0 +1,17 @@
+{
+  "id": 54878498,
+  "name": "Kelbek",
+  "is_illegal": false,
+  "text": "A monster that attacks this card returns to the hand. Damage calculation is applied normally.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

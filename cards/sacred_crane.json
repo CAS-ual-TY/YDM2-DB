@@ -1,0 +1,17 @@
+{
+  "id": 30914564,
+  "name": "Sacred Crane",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned: Draw 1 card.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
+}

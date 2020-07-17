@@ -1,0 +1,17 @@
+{
+  "id": 95360850,
+  "name": "Shield Warrior",
+  "is_illegal": false,
+  "text": "During damage calculation, in either player\u0027s turn: You can banish this card from your Graveyard; monsters you control cannot be destroyed by this battle.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

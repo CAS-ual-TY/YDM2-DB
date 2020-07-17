@@ -1,0 +1,17 @@
+{
+  "id": 40941889,
+  "name": "ZW - Asura Strike",
+  "is_illegal": false,
+  "text": "You can target 1 \"Utopia\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1000 ATK. While this card is equipped to a monster, that monster can attack all monsters your opponent controls once each. You can only control 1 \"ZW - Asura Strike\".",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 52584282,
+  "name": "Hercules Beetle",
+  "is_illegal": false,
+  "text": "A massive beetle with a tough carapace and a dangerous horn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

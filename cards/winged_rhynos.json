@@ -1,0 +1,17 @@
+{
+  "id": 18430390,
+  "name": "Winged Rhynos",
+  "is_illegal": false,
+  "text": "During either player\u0027s turn, when a Trap Card is activated (except during the Damage Step): You can return this face-up card from the field to the hand.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9106362,
+  "name": "Performapal Gongato",
+  "is_illegal": false,
+  "text": "Once per turn, when an attack is declared involving a monster you control and an opponent\u0027s monster: You can activate this effect; you take no battle damage from that battle.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn, when an opponent\u0027s monster declares a direct attack: You can activate this effect; you take no battle damage from that battle (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
+}

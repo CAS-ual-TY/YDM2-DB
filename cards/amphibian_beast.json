@@ -1,0 +1,17 @@
+{
+  "id": 67371383,
+  "name": "Amphibian Beast",
+  "is_illegal": false,
+  "text": "On land or in the sea, the speed of this monster is unmatchable.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2400,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

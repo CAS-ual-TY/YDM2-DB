@@ -1,0 +1,17 @@
+{
+  "id": 40453765,
+  "name": "Swamp Battleguard",
+  "is_illegal": false,
+  "text": "This card gains 500 ATK for each \"Lava Battleguard\" you control.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

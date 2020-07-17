@@ -1,0 +1,17 @@
+{
+  "id": 46457856,
+  "name": "Tomozaurus",
+  "is_illegal": false,
+  "text": "Small but vicious, this monster even attacks its own kind.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

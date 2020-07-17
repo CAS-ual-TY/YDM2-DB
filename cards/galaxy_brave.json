@@ -1,0 +1,17 @@
+{
+  "id": 55168550,
+  "name": "Galaxy Brave",
+  "is_illegal": false,
+  "text": "If this card is in your hand: You can reveal 1 \"Photon\" monster in your hand; Special Summon this card, and if you do, its Level becomes the Level of that \"Photon\" monster. If this card is Normal or Special Summoned: You can target 1 \"Galaxy\" monster in your GY; this card\u0027s ATK/DEF become that monster\u0027s ATK/DEF. You can only use each effect of \"Galaxy Brave\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

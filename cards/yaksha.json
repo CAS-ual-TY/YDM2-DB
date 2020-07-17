@@ -1,0 +1,17 @@
+{
+  "id": 94215860,
+  "name": "Yaksha",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 Spell/Trap Card your opponent controls; return that target to the hand.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1900,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

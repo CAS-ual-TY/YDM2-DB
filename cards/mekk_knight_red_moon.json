@@ -1,0 +1,17 @@
+{
+  "id": 56809158,
+  "name": "Mekk-Knight Red Moon",
+  "is_illegal": false,
+  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Red Moon\" once per turn this way. You can banish 1 \"Mekk-Knight\" monster from your GY, then target 1 face-up monster in this card\u0027s column; destroy it.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1274455,
+  "name": "Kozmo Soartroopers",
+  "is_illegal": false,
+  "text": "During either player\u0027s turn: You can banish this card; Special Summon 1 Level 4 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Soartroopers\" once per turn. Once per turn: You can pay 1000 LP, then target 1 Psychic-Type \"Kozmo\" monster in your Graveyard; Special Summon it.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

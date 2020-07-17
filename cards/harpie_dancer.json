@@ -1,0 +1,17 @@
+{
+  "id": 68815132,
+  "name": "Harpie Dancer",
+  "is_illegal": false,
+  "text": "You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of \"Harpie Dancer\" once per turn. This card\u0027s name becomes \"Harpie Lady\" while on the field or in the GY.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

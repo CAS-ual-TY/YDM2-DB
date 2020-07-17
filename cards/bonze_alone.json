@@ -1,0 +1,17 @@
+{
+  "id": 263926,
+  "name": "Bonze Alone",
+  "is_illegal": false,
+  "text": "Cannot be Normal or Special Summoned if you control a monster. You can Special Summon this card (from your hand) in Attack Position. If another monster(s) is Summoned to your field while you control this monster: Destroy this card.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

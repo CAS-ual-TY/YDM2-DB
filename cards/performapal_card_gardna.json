@@ -1,0 +1,20 @@
+{
+  "id": 37256334,
+  "name": "Performapal Card Gardna",
+  "is_illegal": false,
+  "text": "This card gains DEF equal to the combined original DEF of all other \"Performapal\" monsters you control.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn: You can target 1 face-up Defense Position monster you control; its DEF becomes the combined original DEF of all face-up Defense Position monsters you control (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
+}

@@ -1,0 +1,17 @@
+{
+  "id": 36331074,
+  "name": "Reeze, Whirlwind of Gusto",
+  "is_illegal": false,
+  "text": "Once per turn: You can return 1 card from your hand to the bottom of the Deck to target 1 monster your opponent controls and 1 face-up \"Gusto\" monster you control; switch control of both monsters.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1900,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

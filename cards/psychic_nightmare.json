@@ -1,0 +1,17 @@
+{
+  "id": 7582066,
+  "name": "Psychic Nightmare",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner Psychic-Type monsters\nOnce per turn, during your Main Phase, you can pick 1 random card in your opponent\u0027s hand and call what type of card it is (Monster, Spell or Trap). If you call it right, this card gains 1000 ATK until your opponent\u0027s End Phase.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2400,
+  "species": "Psychic",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

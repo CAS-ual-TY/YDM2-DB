@@ -1,0 +1,17 @@
+{
+  "id": 66288028,
+  "name": "Fortress Warrior",
+  "is_illegal": false,
+  "text": "You take no battle damage from attacks involving this card. Once per turn, this card cannot be destroyed by battle.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 2,
+  "is_tuner": false
+}

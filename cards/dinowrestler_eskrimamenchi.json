@@ -1,0 +1,17 @@
+{
+  "id": 48372950,
+  "name": "Dinowrestler Eskrimamenchi",
+  "is_illegal": false,
+  "text": "If you control a \"Dinowrestler\" monster, you can Normal Summon this card without Tributing. During your turn, if your opponent Special Summons a monster(s) while this card is in your GY (except during the Damage Step): You can target 1 Level 4 or lower \"Dinowrestler\" monster in your GY; Special Summon it, then add this card to your hand. You can only use this effect of \"Dinowrestler Eskrimamenchi\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

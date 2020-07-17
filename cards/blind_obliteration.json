@@ -1,0 +1,8 @@
+{
+  "id": 22802010,
+  "name": "Blind Obliteration",
+  "is_illegal": false,
+  "text": "Roll a six-sided die twice and destroy all face-up monsters with Levels/Ranks lower than the total roll.",
+  "type": "Trap",
+  "trap_type": "Normal"
+}

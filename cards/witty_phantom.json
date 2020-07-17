@@ -1,0 +1,17 @@
+{
+  "id": 36304921,
+  "name": "Witty Phantom",
+  "is_illegal": false,
+  "text": "Dressed in a night-black tuxedo, this creature presides over the darkness.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

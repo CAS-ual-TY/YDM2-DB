@@ -1,0 +1,17 @@
+{
+  "id": 46718686,
+  "name": "Hitodenchak",
+  "is_illegal": false,
+  "text": "A rabid starfish that spits a lethal acid that can melt almost anything.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 600,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

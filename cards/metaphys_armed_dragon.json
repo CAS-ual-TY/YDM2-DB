@@ -1,0 +1,17 @@
+{
+  "id": 89189982,
+  "name": "Metaphys Armed Dragon",
+  "is_illegal": false,
+  "text": "Usually visible despite its phantom existence.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Wyrm",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 7,
+  "is_tuner": false
+}

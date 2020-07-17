@@ -1,0 +1,17 @@
+{
+  "id": 42071342,
+  "name": "Sea Serpent Warrior of Darkness",
+  "is_illegal": false,
+  "text": "A warrior who defends the world of the Sea of Darkness. He prides himself on his fighting prowess both on the ground and, of course, in the water.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

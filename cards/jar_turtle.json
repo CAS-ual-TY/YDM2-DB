@@ -1,0 +1,17 @@
+{
+  "id": 96287685,
+  "name": "Jar Turtle",
+  "is_illegal": false,
+  "text": "Each time \"Jar of Greed\" is activated, draw 1 card.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 200,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

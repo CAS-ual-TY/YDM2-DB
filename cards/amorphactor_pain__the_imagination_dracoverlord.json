@@ -1,0 +1,17 @@
+{
+  "id": 98287529,
+  "name": "Amorphactor Pain, the Imagination Dracoverlord",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Amorphous Persona\". If this card is Ritual Summoned: Your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the Graveyard: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2950,
+  "species": "Dragon",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

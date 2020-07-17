@@ -1,0 +1,17 @@
+{
+  "id": 58139997,
+  "name": "Witchcrafter Edel",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your hand, except \"Witchcrafter Edel\". You can Tribute this card, then target 1 Spellcaster monster in your GY, except \"Witchcrafter Edel\"; Special Summon it. You can only use each effect of \"Witchcrafter Edel\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 5,
+  "is_tuner": false
+}

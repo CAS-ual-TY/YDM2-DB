@@ -1,0 +1,17 @@
+{
+  "id": 71930383,
+  "name": "Patroid",
+  "is_illegal": false,
+  "text": "Once per turn, during your Main Phase, you can look at 1 face-down card your opponent controls, then return it to its original position.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

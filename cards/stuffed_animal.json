@@ -1,0 +1,17 @@
+{
+  "id": 71068263,
+  "name": "Stuffed Animal",
+  "is_illegal": false,
+  "text": "It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

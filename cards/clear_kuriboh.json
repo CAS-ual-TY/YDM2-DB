@@ -1,0 +1,17 @@
+{
+  "id": 46613515,
+  "name": "Clear Kuriboh",
+  "is_illegal": false,
+  "text": "When your opponent activates a monster effect that would inflict damage (Quick Effect): You can discard this card; negate the activation. When an opponent\u0027s monster declares a direct attack: You can banish this card from your GY; draw 1 card, and if it is a monster, you can Special Summon it, then change the attack target to it. You can only use this effect of \"Clear Kuriboh\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

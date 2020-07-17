@@ -1,0 +1,17 @@
+{
+  "id": 93724592,
+  "name": "Karakuri Ninja mdl 339 \"Sazank\"",
+  "is_illegal": false,
+  "text": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is flipped face-up, select 1 face-up monster on the field, and send it to the Graveyard. During the turn this card is flipped face-up, it can attack your opponent directly.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

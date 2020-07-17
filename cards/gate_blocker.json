@@ -1,0 +1,17 @@
+{
+  "id": 8102334,
+  "name": "Gate Blocker",
+  "is_illegal": false,
+  "text": "Negate the effects of your opponent\u0027s Field Spells. Your opponent cannot place counters on cards on the field. Your opponent cannot target other monsters you control with card effects.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

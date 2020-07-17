@@ -1,0 +1,17 @@
+{
+  "id": 32485271,
+  "name": "Rose Spectre of Dunn",
+  "is_illegal": false,
+  "text": "\"Feral Imp\" + \"Snakeyashi\"",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Plant",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

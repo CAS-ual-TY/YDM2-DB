@@ -1,0 +1,17 @@
+{
+  "id": 13708425,
+  "name": "Flare Resonator",
+  "is_illegal": false,
+  "text": "A Synchro Monster that used this card as a Synchro Material gains 300 ATK.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 300,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 3,
+  "is_tuner": true
+}

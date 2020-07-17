@@ -1,0 +1,17 @@
+{
+  "id": 12398280,
+  "name": "Freya, Spirit of Victory",
+  "is_illegal": false,
+  "text": "While you control a Fairy-Type monster other than \"Freya, Spirit of Victory\", your opponent\u0027s monsters cannot target this card for attacks. All Fairy-Type monsters you control gain 400 ATK and DEF.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 100,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

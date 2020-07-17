@@ -1,0 +1,17 @@
+{
+  "id": 64892035,
+  "name": "Tardy Orc",
+  "is_illegal": false,
+  "text": "This card cannot attack the turn it is Normal Summoned.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

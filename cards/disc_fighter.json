@@ -1,0 +1,17 @@
+{
+  "id": 19612721,
+  "name": "Disc Fighter",
+  "is_illegal": false,
+  "text": "If this card attacks a Defense Position monster with DEF 2000 or more, destroy the monster with this card\u0027s effect without applying damage calculation.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

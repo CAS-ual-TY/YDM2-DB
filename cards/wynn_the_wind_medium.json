@@ -1,0 +1,17 @@
+{
+  "id": 86395581,
+  "name": "Wynn the Wind Medium",
+  "is_illegal": false,
+  "text": "(This card is always treated as a \"Charmer\" card.)\nYou can discard this card and 1 WIND monster; add 1 WIND monster with 1500 or less DEF from your Deck to your hand, except \"Wynn the Wind Medium\", also you cannot activate monster effects for the rest of this turn, except WIND monsters\u0027. When your WIND monster is destroyed by battle, while this card is in your hand: You can Special Summon this card. You can only use each effect of \"Wynn the Wind Medium\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1850,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

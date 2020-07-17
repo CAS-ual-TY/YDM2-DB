@@ -1,0 +1,17 @@
+{
+  "id": 3381441,
+  "name": "Gravekeeper\u0027s Priestess",
+  "is_illegal": false,
+  "text": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". All \"Gravekeeper\u0027s\" monsters on the field gain 200 ATK/DEF.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

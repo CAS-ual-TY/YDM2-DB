@@ -1,0 +1,17 @@
+{
+  "id": 28348939,
+  "name": "White Tiger Summoner",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Normal Monster from your hand. All monsters you control gain 100 ATK and DEF.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 3985011,
+  "name": "Lucky Trinket",
+  "is_illegal": false,
+  "text": "This creature may look slim and weak, but it\u0027s protected by a mystical force.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

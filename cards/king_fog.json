@@ -1,0 +1,17 @@
+{
+  "id": 84686841,
+  "name": "King Fog",
+  "is_illegal": false,
+  "text": "A fiend that dwells in a blinding curtain of smoke.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

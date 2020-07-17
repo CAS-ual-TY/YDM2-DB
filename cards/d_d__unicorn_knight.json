@@ -1,0 +1,17 @@
+{
+  "id": 95291684,
+  "name": "D.D. Unicorn Knight",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned if your opponent controls a monster(s) and you control a face-up Tuner monster(s). When this card is Special Summoned this way, you can select 1 of your removed from play Level 3 or lower non-Tuner monsters and Special Summon it. Its effect(s) are negated. You cannot Normal Summon or Set the turn you Special Summon this card.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

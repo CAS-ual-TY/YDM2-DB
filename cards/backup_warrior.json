@@ -1,0 +1,17 @@
+{
+  "id": 95637655,
+  "name": "Backup Warrior",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) while the only monsters you control are 2 Defense Position monsters. You cannot Synchro Summon the turn you Special Summon this card.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

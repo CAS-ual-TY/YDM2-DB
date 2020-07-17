@@ -1,0 +1,20 @@
+{
+  "id": 24131534,
+  "name": "Igknight Squire",
+  "is_illegal": false,
+  "text": "The cold steel armor of this young squire cannot hide the keen, burning mind contained within.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false,
+  "pendulum_text": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7
+}

@@ -1,0 +1,17 @@
+{
+  "id": 39111158,
+  "name": "Tri-Horned Dragon",
+  "is_illegal": false,
+  "text": "An unworthy dragon with three sharp horns sprouting from its head.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2850,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2350,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5628232,
+  "name": "Flying Penguin",
+  "is_illegal": false,
+  "text": "A very rare penguin that takes to the air with ears shaped like wings.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

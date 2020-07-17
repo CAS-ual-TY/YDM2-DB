@@ -1,0 +1,17 @@
+{
+  "id": 76704943,
+  "name": "Yamatano Dragon Scroll",
+  "is_illegal": false,
+  "text": "A dragon conjured from the very scroll in which it was depicted.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 900,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
+}

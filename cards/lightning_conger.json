@@ -1,0 +1,17 @@
+{
+  "id": 27671321,
+  "name": "Lightning Conger",
+  "is_illegal": false,
+  "text": "This massive eel generates huge charges of electricity and unleashes them as thunderbolts.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 350,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 750,
+  "level": 3,
+  "is_tuner": false
+}

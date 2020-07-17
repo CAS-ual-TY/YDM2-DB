@@ -1,0 +1,17 @@
+{
+  "id": 11851647,
+  "name": "Cupid Volley",
+  "is_illegal": false,
+  "text": "You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; increase this card\u0027s Level by the number of cards sent to the GY this way, until the end of this turn. If this card you control is destroyed by an opponent\u0027s card and sent to your GY: You gain 1500 LP. You can only use each effect of \"Cupid Volley\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 1,
+  "is_tuner": false
+}

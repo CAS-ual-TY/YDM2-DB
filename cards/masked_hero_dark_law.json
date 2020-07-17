@@ -1,0 +1,17 @@
+{
+  "id": 58481572,
+  "name": "Masked HERO Dark Law",
+  "is_illegal": false,
+  "text": "Must be Special Summoned by \"Mask Change\". Any card sent to your opponent\u0027s GY is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent\u0027s hand.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

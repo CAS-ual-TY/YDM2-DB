@@ -1,0 +1,8 @@
+{
+  "id": 51481927,
+  "name": "Spell Absorption",
+  "is_illegal": false,
+  "text": "Each time a Spell Card is activated, gain 500 LP immediately after it resolves.",
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

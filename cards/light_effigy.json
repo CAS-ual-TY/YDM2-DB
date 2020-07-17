@@ -1,0 +1,17 @@
+{
+  "id": 54766667,
+  "name": "Light Effigy",
+  "is_illegal": false,
+  "text": "If you Tribute Summon a LIGHT Normal Monster, you can treat this 1 monster as 2 Tributes.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

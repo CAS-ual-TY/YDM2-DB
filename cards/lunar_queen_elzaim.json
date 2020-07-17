@@ -1,0 +1,17 @@
+{
+  "id": 62210247,
+  "name": "Lunar Queen Elzaim",
+  "is_illegal": false,
+  "text": "A lovely creature guarded by the moon. Her lunar curtain can block just about any attack.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 750,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13183454,
+  "name": "Ice Princess Zereort",
+  "is_illegal": false,
+  "text": "2 Level 5 Winged Beast-Type monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; its ATK becomes 0.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2500,
+  "species": "Winged Beast",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "rank": 5
+}

@@ -1,0 +1,17 @@
+{
+  "id": 88819587,
+  "name": "Baby Dragon",
+  "is_illegal": false,
+  "text": "Much more than just a child, this dragon is gifted with untapped power.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

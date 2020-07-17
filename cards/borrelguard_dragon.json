@@ -1,0 +1,16 @@
+{
+  "id": 68987122,
+  "name": "Borrelguard Dragon",
+  "is_illegal": false,
+  "text": "3+ Effect Monsters\nCannot be destroyed by card effects. Once per turn: You can send 1 card from your Spell \u0026 Trap Zone to the GY; Special Summon from either GY to your field, 1 monster that was destroyed and sent there this turn, but negate its effects. Once per turn (Quick Effect): You can target 1 monster on the field; change it to face-up Defense Position. Your opponent cannot activate cards or effects in response to this effect\u0027s activation.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": 58
+}

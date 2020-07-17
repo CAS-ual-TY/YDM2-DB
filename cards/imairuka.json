@@ -1,0 +1,17 @@
+{
+  "id": 41952656,
+  "name": "Imairuka",
+  "is_illegal": false,
+  "text": "If this card you control is destroyed by your opponent\u0027s card and sent to your GY: Send the top card of your Deck to the GY, then, if it is a WATER monster, draw 1 card.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}

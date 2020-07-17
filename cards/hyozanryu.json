@@ -1,0 +1,17 @@
+{
+  "id": 62397231,
+  "name": "Hyozanryu",
+  "is_illegal": false,
+  "text": "A dragon created from a massive diamond that sparkles with blinding light.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2800,
+  "level": 7,
+  "is_tuner": false
+}

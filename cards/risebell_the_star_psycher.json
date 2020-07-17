@@ -1,0 +1,17 @@
+{
+  "id": 14812659,
+  "name": "Risebell the Star Psycher",
+  "is_illegal": false,
+  "text": "Once per turn, during either player\u0027s turn: You can target 1 face-up monster on the field; increase its Level by 1.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 82224646,
+  "name": "Performapal Odd-Eyes Synchron",
+  "is_illegal": false,
+  "text": "If this card, Special Summoned from the Extra Deck, is used as Synchro Material, banish it. When this card is Normal Summoned: You can target 1 Level 3 or lower \"Performapal\" or \"Odd-Eyes\" monster in your GY; Special Summon it, but it has its effects negated. Once per turn: You can target 1 card in your Pendulum Zone; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only that monster and this card.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 2,
+  "is_tuner": true,
+  "pendulum_text": "Once per turn: You can target 1 \"Performapal\" or \"Odd-Eyes\" monster you control; this turn, that face-up monster is treated as a Tuner, also its Level becomes 1 (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 6,
+  "pendulum_scale_right_red": 6
+}

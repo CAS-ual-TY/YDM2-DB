@@ -1,0 +1,17 @@
+{
+  "id": 85802526,
+  "name": "Cure Mermaid",
+  "is_illegal": false,
+  "text": "As long as this card remains face-up on your side of the field, increase your Life Points by 800 points during each of your Standby Phases.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

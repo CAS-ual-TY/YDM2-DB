@@ -1,0 +1,16 @@
+{
+  "id": 101102049,
+  "name": "Prank-Kids Meow-Meow",
+  "is_illegal": false,
+  "text": "1 Level 4 or lower \"Prank-Kids\" monster\nYou can only Link Summon \"Prank-Kids Mewow Meow(s)\" once per turn. If a \"Prank-Kids\" monster you control would Tribute itself to activate its effect during the opponent\u0027s turn, you can banish this card from your field or GY instead. You can only use this effect of \"Prank-Kids Meow-Meow\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Rock",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": 32
+}

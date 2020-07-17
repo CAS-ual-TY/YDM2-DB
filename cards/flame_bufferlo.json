@@ -1,0 +1,17 @@
+{
+  "id": 80794697,
+  "name": "Flame Bufferlo",
+  "is_illegal": false,
+  "text": "If this face-up card leaves the field: You can discard 1 Cyberse monster, and if you do, draw 2 cards. You can only use this effect of \"Flame Bufferlo\" once per turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1400,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 3,
+  "is_tuner": false
+}

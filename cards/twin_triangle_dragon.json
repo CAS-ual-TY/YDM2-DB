@@ -1,0 +1,16 @@
+{
+  "id": 66015185,
+  "name": "Twin Triangle Dragon",
+  "is_illegal": false,
+  "text": "2 Level 4 or lower Dragon monsters, except Tokens\nWhen this card is Link Summoned: You can pay 500 LP, then target 1 Level 5 or higher monster in your GY; Special Summon it to your zone this card points to, but it cannot attack this turn, also it has its effects negated.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 40
+}

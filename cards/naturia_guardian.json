@@ -1,0 +1,17 @@
+{
+  "id": 80555116,
+  "name": "Naturia Guardian",
+  "is_illegal": false,
+  "text": "When your opponent Normal Summons a monster, this card gains 300 ATK until the End Phase.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
+}

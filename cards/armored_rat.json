@@ -1,0 +1,17 @@
+{
+  "id": 16246527,
+  "name": "Armored Rat",
+  "is_illegal": false,
+  "text": "The fur on this monster rat is tough enough to repel swords.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 950,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
+}

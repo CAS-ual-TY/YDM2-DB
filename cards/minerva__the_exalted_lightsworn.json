@@ -1,0 +1,16 @@
+{
+  "id": 30100551,
+  "name": "Minerva, the Exalted Lightsworn",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nYou can detach 1 material from this card; send the top 3 cards of your Deck to the GY, then draw cards equal to the number of \"Lightsworn\" cards sent to the GY by this effect. If this card is destroyed by battle, or if this card in its owner\u0027s possession is destroyed by an opponent\u0027s card effect: You can send the top 3 cards of your Deck to the GY, then you can destroy cards on the field up to the number of \"Lightsworn\" cards sent to the GY by this effect. You can only use each effect of \"Minerva, the Exalted Lightsworn\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Fairy",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "rank": 4
+}

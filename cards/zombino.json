@@ -1,0 +1,17 @@
+{
+  "id": 14575467,
+  "name": "Zombino",
+  "is_illegal": false,
+  "text": "The two are so close\nThey die and return to life\nInseparable",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

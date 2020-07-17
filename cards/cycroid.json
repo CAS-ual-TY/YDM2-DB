@@ -1,0 +1,17 @@
+{
+  "id": 45945685,
+  "name": "Cycroid",
+  "is_illegal": false,
+  "text": "The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 77827521,
+  "name": "Trial of Nightmare",
+  "is_illegal": false,
+  "text": "This fiend passes judgment on enemies that are locked in coffins.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1300,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

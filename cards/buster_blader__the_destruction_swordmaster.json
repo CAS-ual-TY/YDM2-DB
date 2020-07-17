@@ -1,0 +1,17 @@
+{
+  "id": 3428069,
+  "name": "Buster Blader, the Destruction Swordmaster",
+  "is_illegal": false,
+  "text": "This card\u0027s name becomes \"Buster Blader\" while it is on the field or in the Graveyard. If a monster(s) your opponent controls is destroyed by battle or card effect and sent to the Graveyard: You can target 1 of those destroyed monsters; equip it to this card. Once per turn: You can send 1 Monster Card you control that is equipped to this card to the Graveyard; destroy all monsters your opponent controls with the same Type as that monster sent to the Graveyard.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
+}

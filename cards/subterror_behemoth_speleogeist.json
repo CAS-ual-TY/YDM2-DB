@@ -1,0 +1,17 @@
+{
+  "id": 47556396,
+  "name": "Subterror Behemoth Speleogeist",
+  "is_illegal": false,
+  "text": "FLIP: You can target 1 monster on the field; change it to face-up Attack Position if it is in Defense Position, also change its ATK to 0. You can only use this effect of \"Subterror Behemoth Speleogeist\" once per turn.\nWhen a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1400,
+  "level": 11,
+  "is_tuner": false
+}

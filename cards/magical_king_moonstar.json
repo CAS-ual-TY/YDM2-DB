@@ -1,0 +1,17 @@
+{
+  "id": 35058857,
+  "name": "Magical King Moonstar",
+  "is_illegal": false,
+  "text": "Cannot be used as a Synchro Material, except for the Synchro Summon of a DARK Synchro Monster. If you control a Tuner monster, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: You can target 1 other monster you control or in your Graveyard; until the end of this turn, this card\u0027s Level becomes the same as that monster\u0027s, also you cannot Special Summon, except by Synchro Summon.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 900,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

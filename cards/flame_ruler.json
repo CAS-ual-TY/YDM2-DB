@@ -1,0 +1,17 @@
+{
+  "id": 41089128,
+  "name": "Flame Ruler",
+  "is_illegal": false,
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a FIRE monster.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

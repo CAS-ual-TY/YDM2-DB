@@ -1,0 +1,17 @@
+{
+  "id": 33413638,
+  "name": "Cockroach Knight",
+  "is_illegal": false,
+  "text": "When this card is sent to the Graveyard, it is returned to the top of the Deck.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

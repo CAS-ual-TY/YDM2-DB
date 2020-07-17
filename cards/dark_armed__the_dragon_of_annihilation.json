@@ -1,0 +1,16 @@
+{
+  "id": 78144171,
+  "name": "Dark Armed, the Dragon of Annihilation",
+  "is_illegal": false,
+  "text": "2+ Level 7 monsters\nOnce per turn, if you have exactly 5 DARK monsters in your GY, you can also Xyz Summon \"Dark Armed, the Dragon of Annihilation\" by using 1 Level 5 or higher DARK Dragon monster you control as material. You can detach 1 material from this card, then target 1 card your opponent controls; destroy it, then banish 1 card from your GY, also, this card cannot attack for the rest of this turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "rank": 7
+}

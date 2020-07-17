@@ -1,0 +1,17 @@
+{
+  "id": 88979991,
+  "name": "Killer Needle",
+  "is_illegal": false,
+  "text": "A huge bee with exceptional strength that\u0027s particularly dangerous in a swarm.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

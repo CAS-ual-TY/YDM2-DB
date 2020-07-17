@@ -1,0 +1,20 @@
+{
+  "id": 83303851,
+  "name": "D/D/D Chaos King Apocalypse",
+  "is_illegal": false,
+  "text": "During your opponent\u0027s turn, if this card is in your hand or Graveyard: You can target 2 face-up Spell/Trap Cards you control; you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters, also destroy the targeted cards, and if you do, Special Summon this card (this is a Quick Effect). You can only use this effect of \"D/D/D Chaos King Apocalypse\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false,
+  "pendulum_text": "You can banish 2 \"D/D\" monsters from your Graveyard; Special Summon this card from your Pendulum Zone.\n",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
+}

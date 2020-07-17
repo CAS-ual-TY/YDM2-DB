@@ -1,0 +1,17 @@
+{
+  "id": 49513164,
+  "name": "Invoked Raidjin",
+  "is_illegal": false,
+  "text": "\"Aleister the Invoker\" + 1 WIND monster\nOnce per turn, during either player\u0027s turn: You can target 1 face-up monster on the field; change it to face-down Defense Position.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2200,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 93346024,
+  "name": "The Dragon Dwelling in the Cave",
+  "is_illegal": false,
+  "text": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1300,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

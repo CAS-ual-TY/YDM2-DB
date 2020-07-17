@@ -1,0 +1,17 @@
+{
+  "id": 4404099,
+  "name": "The Dragon Dwelling in the Deep",
+  "is_illegal": false,
+  "text": "Place 1 Ocean Counter on this card during each player\u0027s Standby Phase. When this card is removed from the field, all Fish-Type and Sea Serpent-Type monsters you control gain 200 ATK for each Ocean Counter on this card, until the End Phase.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 56094445,
+  "name": "Ancient Gear Soldier",
+  "is_illegal": false,
+  "text": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

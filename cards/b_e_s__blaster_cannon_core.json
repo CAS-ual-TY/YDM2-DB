@@ -1,0 +1,17 @@
+{
+  "id": 84257883,
+  "name": "B.E.S. Blaster Cannon Core",
+  "is_illegal": false,
+  "text": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"B.E.S. Blaster Cannon Core\" once per turn this way. If this card is Normal or Special Summoned: Place 3 counters on this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 9,
+  "is_tuner": false
+}

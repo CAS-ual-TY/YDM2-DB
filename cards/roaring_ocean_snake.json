@@ -1,0 +1,17 @@
+{
+  "id": 19066538,
+  "name": "Roaring Ocean Snake",
+  "is_illegal": false,
+  "text": "\"Mystic Lamp\" + \"Hyosube\"",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2100,
+  "species": "Aqua",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 95905259,
+  "name": "Chow Len the Prophet",
+  "is_illegal": false,
+  "text": "Once per turn: You can declare either Spell or Trap, then target 1 Set card in your opponent\u0027s Spell \u0026 Trap Zone; look at that target, and if it is the declared card type, that card cannot be activated this turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

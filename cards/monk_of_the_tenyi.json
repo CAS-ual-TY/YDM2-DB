@@ -1,0 +1,16 @@
+{
+  "id": 32519092,
+  "name": "Monk of the Tenyi",
+  "is_illegal": false,
+  "text": "1 non-Link \"Tenyi\" monster",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Wyrm",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "link_rating": 1,
+  "link_arrows": 32
+}

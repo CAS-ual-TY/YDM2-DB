@@ -1,0 +1,17 @@
+{
+  "id": 2830619,
+  "name": "Flame Viper",
+  "is_illegal": false,
+  "text": "A fire-breathing snake whose speed makes it a difficult target.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 450,
+  "level": 2,
+  "is_tuner": false
+}

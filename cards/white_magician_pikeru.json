@@ -1,0 +1,17 @@
+{
+  "id": 81383947,
+  "name": "White Magician Pikeru",
+  "is_illegal": false,
+  "text": "During your Standby Phase, increase your Life Points by 400 points for each monster on your side of the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

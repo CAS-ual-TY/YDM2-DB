@@ -1,0 +1,16 @@
+{
+  "id": 17739335,
+  "name": "Zerrziel, Ruler of the Evil Eyed",
+  "is_illegal": false,
+  "text": "2+ \"Evil Eye\" monsters\nIf this card was Link Summoned using a monster with 2600 or higher ATK as material, it can make a second attack during each Battle Phase. If this card is equipped with \"Evil Eye of Selene\" (Quick Effect): You can target 1 card your opponent controls; destroy it. You can only use this effect of \"Zerrziel, Ruler of the Evil Eyed\" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Negate the effect of 1 Effect Monster this card currently points to.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Fiend",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": 82
+}

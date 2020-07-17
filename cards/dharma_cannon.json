@@ -1,0 +1,17 @@
+{
+  "id": 96967123,
+  "name": "Dharma Cannon",
+  "is_illegal": false,
+  "text": "A monstrous creature whose body is lined with cannons that never miss their targets.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

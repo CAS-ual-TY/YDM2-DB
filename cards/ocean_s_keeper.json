@@ -1,0 +1,17 @@
+{
+  "id": 45045866,
+  "name": "Ocean\u0027s Keeper",
+  "is_illegal": false,
+  "text": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. When this card is destroyed by battle, add 1 \"Thousand-Eyes Jellyfish\" or 1 \"Cranium Fish\" from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

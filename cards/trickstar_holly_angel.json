@@ -1,0 +1,16 @@
+{
+  "id": 32448765,
+  "name": "Trickstar Holly Angel",
+  "is_illegal": false,
+  "text": "2 \"Trickstar\" monsters\nEach time a \"Trickstar\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, inflict 200 damage to your opponent. \"Trickstar\" monsters this card points to cannot be destroyed by battle or card effects. If your opponent takes damage by a \"Trickstar\" monster\u0027s effect: This card gains ATK equal to the damage they took, until the end of this turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Fairy",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

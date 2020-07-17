@@ -1,0 +1,17 @@
+{
+  "id": 40398073,
+  "name": "Nurse Dragonmaid",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 Level 4 or lower \"Dragonmaid\" monster in your GY, except \"Nurse Dragonmaid\"; Special Summon it. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Nurse Dragonmaid\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 2,
+  "is_tuner": false
+}

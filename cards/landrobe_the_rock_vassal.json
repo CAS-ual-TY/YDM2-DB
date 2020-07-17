@@ -1,0 +1,17 @@
+{
+  "id": 95993388,
+  "name": "Landrobe the Rock Vassal",
+  "is_illegal": false,
+  "text": "If this card is in your hand: You can target 1 face-up monster your opponent controls; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, also Special Summon this card, and if you do, change that monster to face-down Defense Position. If this card is Tributed for a Tribute Summon: You can target 1 monster with 800 ATK and 1000 DEF in your Graveyard, except \"Landrobe the Rock Vassal\"; add it to your hand. You can only use each effect of \"Landrobe the Rock Vassal\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

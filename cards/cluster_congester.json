@@ -1,0 +1,17 @@
+{
+  "id": 94703021,
+  "name": "Cluster Congester",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned and you control no Link Monsters: You can Special Summon 1 \"Congester Token\" (Cyberse/DARK/Level 1/ATK 0/DEF 0). You can only use this effect of \"Cluster Congester\" once per turn. Once per Battle Step, if a Link Monster you control is attacked (Quick Effect): You can banish this card from your GY and that Link Monster; Special Summon \"Congester Tokens\", up to the number of Link Monsters your opponent controls.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 7,
+  "is_tuner": false
+}

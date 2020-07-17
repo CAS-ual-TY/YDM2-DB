@@ -1,0 +1,17 @@
+{
+  "id": 91250514,
+  "name": "Tongue Twister",
+  "is_illegal": false,
+  "text": "If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 6,
+  "is_tuner": false
+}

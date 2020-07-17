@@ -1,0 +1,17 @@
+{
+  "id": 23659124,
+  "name": "Sea King Dragon",
+  "is_illegal": false,
+  "text": "Protected by a tough shell, this master of the sea attacks its enemies with toxic bubbles.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

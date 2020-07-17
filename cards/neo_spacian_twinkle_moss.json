@@ -1,0 +1,17 @@
+{
+  "id": 13857930,
+  "name": "Neo-Spacian Twinkle Moss",
+  "is_illegal": false,
+  "text": "This card\u0027s name is also treated as \"Neo-Spacian Glow Moss\". This card cannot be Special Summoned except with \"NEX\". When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: ? Monster: End the Battle Phase. ? Spell: You can change this card\u0027s attack to a direct attack. ? Trap: This monster is changed to Defense Position.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 500,
+  "species": "Plant",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

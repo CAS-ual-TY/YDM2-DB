@@ -1,0 +1,17 @@
+{
+  "id": 34680482,
+  "name": "Madolche Anjelly",
+  "is_illegal": false,
+  "text": "If this card in your possession is destroyed by your opponent\u0027s card (by battle or card effect) and sent to your Graveyard: Shuffle this card into the Deck. You can Tribute this card; Special Summon 1 \"Madolche\" monster from your Deck, but shuffle it into the Deck during the End Phase of your next turn. You can only use this effect of \"Madolche Anjelly\" once per turn. That Special Summoned monster cannot be destroyed by battle.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

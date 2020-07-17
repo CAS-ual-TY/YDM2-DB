@@ -1,0 +1,17 @@
+{
+  "id": 7080743,
+  "name": "Express Train Trolley Olley",
+  "is_illegal": false,
+  "text": "An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n? If it is Xyz Summoned: It gains 800 ATK.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

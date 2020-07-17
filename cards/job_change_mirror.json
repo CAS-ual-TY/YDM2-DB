@@ -1,0 +1,17 @@
+{
+  "id": 55337339,
+  "name": "Job-Change Mirror",
+  "is_illegal": false,
+  "text": "A wicked mirror that blocks off the damaging effects of an attack.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
+}

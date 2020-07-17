@@ -1,0 +1,16 @@
+{
+  "id": 21887175,
+  "name": "Mekk-Knight Crusadia Avramax",
+  "is_illegal": false,
+  "text": "2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent\u0027s monster\u0027s ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by an opponent\u0027s card: You can shuffle 1 card on the field into the Deck.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": 216
+}

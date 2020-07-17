@@ -1,0 +1,8 @@
+{
+  "id": 61557074,
+  "name": "Palace of the Elemental Lords",
+  "is_illegal": false,
+  "text": "All monsters you control gain ATK/DEF equal to the number of different Attributes in your GY x 200. Once per turn: You can add 1 \"Elementsaber\" monster from your Deck to your hand, but skip the Battle Phase of your next turn (even if this card leaves the field). Once per turn, if an \"Elementsaber\" monster in your hand or field would send a card(s) from the hand to the GY to activate an effect, you can send that many \"Elementsaber\" monster(s) from your Deck to the GY, instead.",
+  "type": "Spell",
+  "spell_type": "Field"
+}

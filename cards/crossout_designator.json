@@ -1,0 +1,8 @@
+{
+  "id": 65681983,
+  "name": "Crossout Designator",
+  "is_illegal": false,
+  "text": "Declare 1 card name; banish 1 card with that name from your Deck, and if you do, until the end of this turn, its effects are negated, as well as the activated effects and effects on the field of cards with the same original name. You can only activate 1 \"Crossout Designator\" per turn.",
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

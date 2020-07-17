@@ -1,0 +1,17 @@
+{
+  "id": 26949946,
+  "name": "Mecha Phantom Beast Jaculuslan",
+  "is_illegal": false,
+  "text": "1 \"Mecha Phantom Beast\" Tuner + 1 or more non-Tuner \"Mecha Phantom Beast\" monsters\nWhen this card is Synchro Summoned: You can Tribute \"Mecha Phantom Beast Tokens\" up to the number of cards in your opponent\u0027s hand; randomly discard cards from your opponent\u0027s hand, equal to the number of Tributed monsters. Other \"Mecha Phantom Beast\" monsters you control cannot be destroyed by battle or card effects. If this card in its owner\u0027s possession is destroyed by your opponent (by battle or card effect): You can Set 1 Quick-Play Spell Card directly from your Deck.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2700,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 9,
+  "is_tuner": false
+}

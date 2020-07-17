@@ -1,0 +1,17 @@
+{
+  "id": 60161788,
+  "name": "Blizzed, Defender of the Ice Barrier",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 300,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 1,
+  "is_tuner": false
+}

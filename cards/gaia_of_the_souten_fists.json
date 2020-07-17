@@ -1,0 +1,17 @@
+{
+  "id": 101102032,
+  "name": "Gaia of the Souten Fists",
+  "is_illegal": false,
+  "text": "2 \"Souten\" monsters\nIf this card is Special Summoned: You can target 1 opponent\u0027s Attack Position monster; destroy it, also this card cannot attack directly for the rest of this turn. You can only use this effect of \"Gaia of the Souten Fists\" once per turn. While you control a \"Souten\" Fusion Monster that was Fusion Summoned using an Effect Monster as material, all \"Souten\" Fusion Monsters you control gain 300 ATK/DEF.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
+}

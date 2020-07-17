@@ -1,0 +1,17 @@
+{
+  "id": 51828629,
+  "name": "Giltia the D. Knight",
+  "is_illegal": false,
+  "text": "\"Guardian of the Labyrinth\" + \"Protector of the Throne\"",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1850,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

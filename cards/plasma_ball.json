@@ -1,0 +1,17 @@
+{
+  "id": 92595545,
+  "name": "Plasma Ball",
+  "is_illegal": false,
+  "text": "This card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack: Destroy this card.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 900,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 46037213,
+  "name": "Guardian Tryce",
+  "is_illegal": false,
+  "text": "Cannot be Summoned unless you control a face-up \"Twin Swords of Flashing Light - Tryce\". When this card is destroyed and sent to the Graveyard: Special Summon the monster from the Graveyard that was used for its Tribute Summon.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1900,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 5,
+  "is_tuner": false
+}

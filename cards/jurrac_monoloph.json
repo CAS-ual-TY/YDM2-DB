@@ -1,0 +1,17 @@
+{
+  "id": 36717258,
+  "name": "Jurrac Monoloph",
+  "is_illegal": false,
+  "text": "This card can attack all monsters your opponent controls once each.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": true
+}

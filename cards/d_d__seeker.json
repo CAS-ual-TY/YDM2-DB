@@ -1,0 +1,17 @@
+{
+  "id": 89015998,
+  "name": "D.D. Seeker",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can target 1 face-up monster you control; banish it until the End Phase of the next turn. You can only use this effect of \"D.D. Seeker\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

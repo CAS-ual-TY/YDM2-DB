@@ -1,0 +1,17 @@
+{
+  "id": 79890560,
+  "name": "Fortune Fairy Hu",
+  "is_illegal": false,
+  "text": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 of your banished Spellcaster monsters; add it to your hand. You can only use each effect of \"Fortune Fairy Hu\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

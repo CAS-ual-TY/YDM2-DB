@@ -1,0 +1,17 @@
+{
+  "id": 26293219,
+  "name": "Burning Skull Head",
+  "is_illegal": false,
+  "text": "When this card is Special Summoned from your hand, inflict 1000 damage to your opponent. You can remove from play this face-up card you control to return 1 removed from play \"Skull Flame\" to its owner\u0027s Graveyard.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

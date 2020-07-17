@@ -1,0 +1,17 @@
+{
+  "id": 6400512,
+  "name": "Cyber Commander",
+  "is_illegal": false,
+  "text": "A strike force equipped with rocket launchers and bazookas.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 750,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

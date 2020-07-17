@@ -1,0 +1,17 @@
+{
+  "id": 2250266,
+  "name": "Morphtronic Staplen",
+  "is_illegal": false,
+  "text": "? While in Attack Position: Your opponent cannot select another monster as an attack target. If this card is destroyed by battle, the monster that destroyed this card loses 300 ATK.\n? While in Defense Position: This card cannot be destroyed by battle. If this card is attacked, after damage calculation, select 1 face-up Attack Position monster your opponent controls. Change it to Defense Position and this card to Attack Position.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

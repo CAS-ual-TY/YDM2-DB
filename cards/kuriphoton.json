@@ -1,0 +1,17 @@
+{
+  "id": 35112613,
+  "name": "Kuriphoton",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can send this card from your hand to the GY and pay 2000 LP; you take no damage this turn. If this card is in your GY: You can send 1 \"Photon\" monster from your hand to the GY, except \"Kuriphoton\"; add this card from your GY to your hand. You can only use this effect of \"Kuriphoton\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

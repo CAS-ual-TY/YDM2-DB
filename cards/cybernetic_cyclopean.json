@@ -1,0 +1,17 @@
+{
+  "id": 96428622,
+  "name": "Cybernetic Cyclopean",
+  "is_illegal": false,
+  "text": "While you have no cards in your hand, this card gains 1000 ATK.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

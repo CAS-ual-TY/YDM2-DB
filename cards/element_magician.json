@@ -1,0 +1,17 @@
+{
+  "id": 65260293,
+  "name": "Element Magician",
+  "is_illegal": false,
+  "text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ? WATER: Control of this card cannot switch. ? WIND: If this card destroyed your opponent\u0027s monster by battle, it can attack once again in a row.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

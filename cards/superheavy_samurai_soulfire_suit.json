@@ -1,0 +1,17 @@
+{
+  "id": 4786063,
+  "name": "Superheavy Samurai Soulfire Suit",
+  "is_illegal": false,
+  "text": "You can target 1 \"Superheavy Samurai\" monster you control; equip this monster from your hand or your side of the field to that target. Its Level becomes 5. During either player\u0027s turn: You can discard this card, then target 1 Defense Position \"Superheavy Samurai\" monster you control; until the end of this turn, it loses 800 DEF, but cannot be destroyed by battle or by card effects.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

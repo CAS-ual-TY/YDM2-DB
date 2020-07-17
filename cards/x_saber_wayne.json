@@ -1,0 +1,17 @@
+{
+  "id": 83810690,
+  "name": "X-Saber Wayne",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned, you can Special Summon 1 Level 4 or lower Warrior-Type monster from your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 5,
+  "is_tuner": false
+}

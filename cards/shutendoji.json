@@ -1,0 +1,17 @@
+{
+  "id": 65422840,
+  "name": "Shutendoji",
+  "is_illegal": false,
+  "text": "Once per turn: You can activate 1 of these effects.\n? Banish 2 Zombie monsters from your GY; draw 1 card.\n? Target 1 of your banished Zombie monsters; place that target on the top of your Deck.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

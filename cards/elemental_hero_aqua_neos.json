@@ -1,0 +1,17 @@
+{
+  "id": 55171412,
+  "name": "Elemental HERO Aqua Neos",
+  "is_illegal": false,
+  "text": "\"Elemental HERO Neos\" + \"Neo-Spacian Aqua Dolphin\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can discard 1 card; destroy 1 random card in your opponent\u0027s hand. During the End Phase: Shuffle this card into the Extra Deck.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2500,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

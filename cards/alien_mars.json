@@ -1,0 +1,17 @@
+{
+  "id": 99532708,
+  "name": "Alien Mars",
+  "is_illegal": false,
+  "text": "The effects of Effect Monsters with A-Counters are negated, except for \"Alien Mars\".",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

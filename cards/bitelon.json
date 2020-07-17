@@ -1,0 +1,17 @@
+{
+  "id": 44702857,
+  "name": "Bitelon",
+  "is_illegal": false,
+  "text": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2400,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

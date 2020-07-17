@@ -1,0 +1,17 @@
+{
+  "id": 59983499,
+  "name": "Dancing Elf",
+  "is_illegal": false,
+  "text": "An elf that dances across the sky with wings of razor-sharp blades.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 300,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

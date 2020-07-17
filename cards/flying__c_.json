@@ -1,0 +1,17 @@
+{
+  "id": 80978111,
+  "name": "Flying \"C\"",
+  "is_illegal": false,
+  "text": "When your opponent Normal or Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand to the opponent\u0027s field in Defense Position. The controller of this card cannot Xyz Summon.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

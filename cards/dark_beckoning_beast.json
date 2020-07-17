@@ -1,0 +1,17 @@
+{
+  "id": 81034083,
+  "name": "Dark Beckoning Beast",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Uria, Lord of Searing Flames\", 1 \"Hamon, Lord of Striking Thunder\", 1 \"Raviel, Lord of Phantasms\", or 1 card that specifically lists any of those names in its text, from your Deck to your hand, except \"Dark Beckoning Beast\". You can only use this effect of \"Dark Beckoning Beast\" once per turn. During your Main Phase, you can Normal Summon 1 Fiend monster with 0 ATK and DEF, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

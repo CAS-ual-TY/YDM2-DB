@@ -1,0 +1,17 @@
+{
+  "id": 76512652,
+  "name": "Krokodilus",
+  "is_illegal": false,
+  "text": "A vicious crocodile with great intelligence.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

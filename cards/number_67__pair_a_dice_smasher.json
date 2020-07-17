@@ -1,0 +1,16 @@
+{
+  "id": 35772782,
+  "name": "Number 67: Pair-a-Dice Smasher",
+  "is_illegal": false,
+  "text": "2+ Level 5 monsters\nOnce per turn, during your Main Phase 1: You can detach 2 materials from this card; each player rolls a six-sided die twice. The player with the higher total cannot activate monster effects or declare an attack, until the end of the next turn. Once per turn, if either player rolls a six-sided die (or dice) while this card has material, you can treat one of the results as 7.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Fairy",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "rank": 5
+}

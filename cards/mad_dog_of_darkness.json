@@ -1,0 +1,17 @@
+{
+  "id": 79182538,
+  "name": "Mad Dog of Darkness",
+  "is_illegal": false,
+  "text": "He used to be a normal dog who played around in a park, but was corrupted by the powers of darkness.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

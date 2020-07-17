@@ -1,0 +1,17 @@
+{
+  "id": 35199656,
+  "name": "Trickstar Lycoris",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can reveal this card in your hand, then target 1 \"Trickstar\" monster you control, except \"Trickstar Lycoris\"; Special Summon this card, and if you do, return that monster to the hand. Each time a card(s) is added to your opponent\u0027s hand, inflict 200 damage to them for each.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

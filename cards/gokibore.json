@@ -1,0 +1,17 @@
+{
+  "id": 15367030,
+  "name": "Gokibore",
+  "is_illegal": false,
+  "text": "A large, spherical roach that attacks its enemies by rolling over them.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

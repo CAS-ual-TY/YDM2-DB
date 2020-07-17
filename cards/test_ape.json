@@ -1,0 +1,17 @@
+{
+  "id": 3030892,
+  "name": "Test Ape",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your Deck.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
+}

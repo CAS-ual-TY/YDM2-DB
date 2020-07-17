@@ -1,0 +1,17 @@
+{
+  "id": 6103114,
+  "name": "Beaked Snake",
+  "is_illegal": false,
+  "text": "This monster wraps itself around an opponent and pecks away with its huge beak.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

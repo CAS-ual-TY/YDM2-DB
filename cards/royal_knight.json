@@ -1,0 +1,17 @@
+{
+  "id": 68280530,
+  "name": "Royal Knight",
+  "is_illegal": false,
+  "text": "When this card destroys a monster by battle and sends it to the Graveyard, gain Life Points equal to the DEF of the destroyed monster.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1300,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

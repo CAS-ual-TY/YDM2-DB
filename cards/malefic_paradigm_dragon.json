@@ -1,0 +1,17 @@
+{
+  "id": 16958382,
+  "name": "Malefic Paradigm Dragon",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Malefic\" monster from your Extra Deck while \"Malefic Paradigm Dragon\" is not on the field. If \"Malefic World\" is not on the field, destroy this card. Once per turn: You can send 1 \"Malefic\" card from your Deck to the GY; you can only attack with \"Malefic\" monsters for the rest of this turn, also return 1 of your banished Level 8 Synchro Monsters to the Extra Deck, then you can Special Summon that monster from your Extra Deck.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 4000,
+  "level": 10,
+  "is_tuner": false
+}

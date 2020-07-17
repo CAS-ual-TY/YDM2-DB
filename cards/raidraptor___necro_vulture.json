@@ -1,0 +1,17 @@
+{
+  "id": 51814159,
+  "name": "Raidraptor - Necro Vulture",
+  "is_illegal": false,
+  "text": "Once per turn: You can Tribute 1 \"Raidraptor\" monster, then target 1 \"Rank-Up-Magic\" Spell Card in your Graveyard; add it to your hand, also you cannot Xyz Summon for the rest of this turn, except with the effect of a \"Rank-Up-Magic\" Spell Card.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

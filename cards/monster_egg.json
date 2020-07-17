@@ -1,0 +1,17 @@
+{
+  "id": 36121917,
+  "name": "Monster Egg",
+  "is_illegal": false,
+  "text": "A warrior hidden within an egg that attacks enemies by flinging eggshells.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

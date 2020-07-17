@@ -1,0 +1,17 @@
+{
+  "id": 99510761,
+  "name": "Lord of the Lamp",
+  "is_illegal": false,
+  "text": "This spirit emerges from the mystic lamp and obeys the wishes of its summoner.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 80538728,
+  "name": "Wind-Up Knight",
+  "is_illegal": false,
+  "text": "When a face-up \"Wind-Up\" monster you control is targeted for an attack: You can negate the attack. This effect can only be used once while this card is face-up on the field.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

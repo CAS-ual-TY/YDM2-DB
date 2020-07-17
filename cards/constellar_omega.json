@@ -1,0 +1,16 @@
+{
+  "id": 26329679,
+  "name": "Constellar Omega",
+  "is_illegal": false,
+  "text": "2 Level 4 LIGHT monsters\nOnce per turn, during either player\u0027s turn: You can detach 1 Xyz Material from this card; all \"Constellar\" monsters you currently control are unaffected by Spell/Trap effects this turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Beast-Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "rank": 4
+}

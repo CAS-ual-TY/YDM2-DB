@@ -1,0 +1,17 @@
+{
+  "id": 72714226,
+  "name": "Assault Dog",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of \"Assault Dog\" from your Deck.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

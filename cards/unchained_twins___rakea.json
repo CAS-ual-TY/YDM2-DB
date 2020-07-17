@@ -1,0 +1,17 @@
+{
+  "id": 53624265,
+  "name": "Unchained Twins - Rakea",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can target 1 card you control; destroy it, also you cannot Special Summon monsters for the rest of this turn, except Fiend monsters. If this card on the field is destroyed by card effect, except \"Unchained Twins - Rakea\", or by battle: You can Special Summon 1 \"Unchained\" monster from your hand or Deck, except \"Unchained Twins - Rakea\". You can only use each effect of \"Unchained Twins - Rakea\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 86937530,
+  "name": "Fairy Tail - Luna",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can add 1 Spellcaster monster with 1850 ATK from your Deck to your hand. Once per turn (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent can send 1 card with that monster\u0027s name from their Deck or Extra Deck to the GY to negate this effect, otherwise return both this card and that monster to the hand.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1850,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

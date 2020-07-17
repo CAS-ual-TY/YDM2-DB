@@ -1,0 +1,17 @@
+{
+  "id": 32623004,
+  "name": "Nopenguin",
+  "is_illegal": false,
+  "text": "During either player\u0027s turn, when an effect of a \"Penguin\" monster is activated: Special Summon this card from your Graveyard. You can only use this effect of \"Nopenguin\" once per turn. If a card would be returned from the field to the hand by the effect of a \"Penguin\" card, banish it instead.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
+}

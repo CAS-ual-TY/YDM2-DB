@@ -1,0 +1,17 @@
+{
+  "id": 64178868,
+  "name": "Battle Survivor",
+  "is_illegal": false,
+  "text": "At the end of the Battle Phase: You can add 1 card from your GY to your hand, except \"Battle Survivor\", that was sent there during this Battle Phase while you controlled this face-up card. You can only use this effect of \"Battle Survivor\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

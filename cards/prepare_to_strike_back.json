@@ -1,0 +1,8 @@
+{
+  "id": 4483989,
+  "name": "Prepare to Strike Back",
+  "is_illegal": false,
+  "text": "Each time your opponent declares a face-up Defense Position monster as an attack target, toss a coin and call it. If you call it right, change the targeted monster to Attack Position. If you call it wrong, the controller of this card takes damage equal to the amount that the ATK of the attacking monster is higher than the DEF of the attack target.",
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

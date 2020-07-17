@@ -1,0 +1,17 @@
+{
+  "id": 29491031,
+  "name": "The Snake Hair",
+  "is_illegal": false,
+  "text": "A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

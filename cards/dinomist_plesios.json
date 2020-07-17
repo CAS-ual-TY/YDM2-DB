@@ -1,0 +1,20 @@
+{
+  "id": 38988538,
+  "name": "Dinomist Plesios",
+  "is_illegal": false,
+  "text": "All face-up monsters your opponent controls lose 100 ATK and DEF for each \"Dinomist\" card you control.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.\n",
+  "pendulum_scale_left_blue": 6,
+  "pendulum_scale_right_red": 6
+}

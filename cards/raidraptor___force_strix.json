@@ -1,0 +1,16 @@
+{
+  "id": 73347079,
+  "name": "Raidraptor - Force Strix",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nThis card gains 500 ATK and DEF for each Winged Beast monster you control (other than this card). Once per turn: You can detach 1 material from this card; add 1 Level 4 DARK Winged Beast monster from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Winged Beast",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 4
+}

@@ -1,0 +1,17 @@
+{
+  "id": 14977074,
+  "name": "Garoozis",
+  "is_illegal": false,
+  "text": "An axe-swinging beast-warrior with the head of a dragon.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

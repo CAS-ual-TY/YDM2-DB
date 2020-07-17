@@ -1,0 +1,17 @@
+{
+  "id": 64463828,
+  "name": "Superalloy Beast Raptinus",
+  "is_illegal": false,
+  "text": "1 Gemini Monster + 1 Gemini Monster\nAll Gemini Monsters on the field are treated as Effect Monsters, and gain their effects.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2200,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 8,
+  "is_tuner": false
+}

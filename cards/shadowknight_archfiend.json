@@ -1,0 +1,17 @@
+{
+  "id": 9603356,
+  "name": "Shadowknight Archfiend",
+  "is_illegal": false,
+  "text": "The controller of this card pays 900 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent\u0027s card. The Battle Damage this card inflicts to your opponent is halved.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

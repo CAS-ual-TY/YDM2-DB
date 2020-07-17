@@ -1,0 +1,17 @@
+{
+  "id": 57579381,
+  "name": "Darklord Marie",
+  "is_illegal": false,
+  "text": "Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 5,
+  "is_tuner": false
+}

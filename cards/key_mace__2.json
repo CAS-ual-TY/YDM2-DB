@@ -1,0 +1,17 @@
+{
+  "id": 20541432,
+  "name": "Key Mace #2",
+  "is_illegal": false,
+  "text": "This fiend brings out the worst in everyone.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1050,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

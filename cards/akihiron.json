@@ -1,0 +1,17 @@
+{
+  "id": 36904469,
+  "name": "Akihiron",
+  "is_illegal": false,
+  "text": "This strange creature hides in the deep, dark corners of the seven seas.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

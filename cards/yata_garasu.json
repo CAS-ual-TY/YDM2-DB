@@ -1,0 +1,17 @@
+{
+  "id": 3078576,
+  "name": "Yata-Garasu",
+  "is_illegal": false,
+  "text": "This card cannot be Special Summoned. This card returns to its owner\u0027s hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, they skip their next Draw Phase.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
+}

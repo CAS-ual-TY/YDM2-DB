@@ -1,0 +1,17 @@
+{
+  "id": 87322377,
+  "name": "Launcher Spider",
+  "is_illegal": false,
+  "text": "A mechanical spider with rocket launchers capable of random fire.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

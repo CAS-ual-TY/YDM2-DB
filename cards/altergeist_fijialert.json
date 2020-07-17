@@ -1,0 +1,17 @@
+{
+  "id": 85673903,
+  "name": "Altergeist Fijialert",
+  "is_illegal": false,
+  "text": "When an \"Altergeist\" Link Monster is Link Summoned to your field while this card is in your hand: You can target 1 other Link Monster on the field; Special Summon this card to your zone that target points to, also that target is also treated as an \"Altergeist\" monster this turn. You can only use this effect of \"Altergeist Fijialert\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

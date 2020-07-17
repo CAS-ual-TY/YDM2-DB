@@ -1,0 +1,17 @@
+{
+  "id": 52265835,
+  "name": "Ally of Justice Rudra",
+  "is_illegal": false,
+  "text": "If this card battles a LIGHT monster, it gains 700 ATK during the Damage Step only.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 5,
+  "is_tuner": false
+}

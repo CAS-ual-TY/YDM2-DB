@@ -1,0 +1,17 @@
+{
+  "id": 67494157,
+  "name": "Crawling Dragon",
+  "is_illegal": false,
+  "text": "This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

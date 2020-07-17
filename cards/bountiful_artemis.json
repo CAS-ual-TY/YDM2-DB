@@ -1,0 +1,17 @@
+{
+  "id": 32296881,
+  "name": "Bountiful Artemis",
+  "is_illegal": false,
+  "text": "Each time a Counter Trap Card is activated, immediately after it resolves, draw 1 card.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

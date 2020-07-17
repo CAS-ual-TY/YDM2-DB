@@ -1,0 +1,17 @@
+{
+  "id": 58672736,
+  "name": "Dinowrestler Giga Spinosavate",
+  "is_illegal": false,
+  "text": "1 Dinosaur Tuner + 1+ non-Tuner monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent\u0027s monsters cannot target monsters for attacks, except this one. Once per turn: You can target 1 monster your opponent controls; destroy it. If this card would be destroyed by battle or card effect, you can destroy 1 card you control instead.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Dinosaur",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 63465535,
+  "name": "Underground Arachnid",
+  "is_illegal": false,
+  "text": "1 DARK Tuner + 1 non-Tuner Insect-Type monster\nIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. Once per turn, you can select 1 face-up monster your opponent controls, and equip it to this card. If this card would be destroyed by battle, you can destroy the monster equipped to this card by its effect instead. (You can only equip 1 monster at a time to this card.)",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Insect",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

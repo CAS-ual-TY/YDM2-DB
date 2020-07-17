@@ -1,0 +1,17 @@
+{
+  "id": 23771716,
+  "name": "7 Colored Fish",
+  "is_illegal": false,
+  "text": "A rare rainbow fish that has never been caught by mortal man.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

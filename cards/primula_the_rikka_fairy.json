@@ -1,0 +1,17 @@
+{
+  "id": 8129306,
+  "name": "Primula the Rikka Fairy",
+  "is_illegal": false,
+  "text": "If a monster you control is Tributed (except during the Damage Step): You can Special Summon this card from your hand in Defense Position. You can target up to 2 Plant monsters you control; increase their Level(s) by 2 until the end of this turn. You can only use each effect of \"Primula the Rikka Fairy\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 83678433,
+  "name": "Midnight Fiend",
+  "is_illegal": false,
+  "text": "This monster only appears when a midnight tribute is made.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

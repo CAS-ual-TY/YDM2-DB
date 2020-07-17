@@ -1,0 +1,17 @@
+{
+  "id": 44790889,
+  "name": "Hammer Bounzer",
+  "is_illegal": false,
+  "text": "If your opponent controls a card and you control no cards, you can Normal Summon this card without Tributing. If this card attacks an opponent\u0027s monster, as long as you control no Spell/Trap Cards, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

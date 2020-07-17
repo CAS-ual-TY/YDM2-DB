@@ -1,0 +1,17 @@
+{
+  "id": 15820147,
+  "name": "Monsturtle",
+  "is_illegal": false,
+  "text": "Protected by a spiked shell, this turtle has a very nasty disposition.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 94626871,
+  "name": "Trickstar Black Catbat",
+  "is_illegal": false,
+  "text": "2 \"Trickstar\" monsters\nEach time a monster(s) this card points to is destroyed by battle or card effect and sent to the GY, inflict 200 damage to your opponent. Each time your opponent takes damage by a \"Trickstar\" monster\u0027s effect: Face-up monsters they control lose 200 ATK for each monster this card points to, until the end of this turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Fairy",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 136
+}

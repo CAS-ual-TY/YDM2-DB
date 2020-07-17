@@ -1,0 +1,17 @@
+{
+  "id": 73776643,
+  "name": "Papa-Corn",
+  "is_illegal": false,
+  "text": "While a Field Spell Card is face-up on the field, this card gains 1000 ATK.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

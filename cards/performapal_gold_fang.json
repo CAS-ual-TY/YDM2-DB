@@ -1,0 +1,20 @@
+{
+  "id": 64207696,
+  "name": "Performapal Gold Fang",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: All \"Performapal\" monsters you currently control gain 200 ATK until the end of this turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn, if your \"Performapal\" monster destroys an opponent\u0027s monster by battle: Inflict 1000 damage to your opponent.\n",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

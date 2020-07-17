@@ -1,0 +1,17 @@
+{
+  "id": 10158145,
+  "name": "Knightmare Corruptor Iblee",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 Link Monster in your GY; Special Summon it to your field so it points to this card, but change its ATK to 0, also negate its effects. You cannot Special Summon monsters, except Link Monsters. If this card in its owner\u0027s control is sent to the GY: You can Special Summon this card to your opponent\u0027s field in Defense Position. You can only use this effect of \"Knightmare Corruptor Iblee\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

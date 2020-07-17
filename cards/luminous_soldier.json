@@ -1,0 +1,17 @@
+{
+  "id": 57482479,
+  "name": "Luminous Soldier",
+  "is_illegal": false,
+  "text": "If this card battles a DARK monster, increase the ATK of this card by 500 points during the Damage Step only.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

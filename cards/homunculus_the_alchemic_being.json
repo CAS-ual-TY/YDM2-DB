@@ -1,0 +1,17 @@
+{
+  "id": 40410110,
+  "name": "Homunculus the Alchemic Being",
+  "is_illegal": false,
+  "text": "Once per turn: You can change the Attribute of this card.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

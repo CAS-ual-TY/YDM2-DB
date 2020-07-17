@@ -1,0 +1,17 @@
+{
+  "id": 74823665,
+  "name": "Inferno",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your GY. If this card destroys an opponent\u0027s monster by battle and sends it to the GY: Inflict 1500 damage to your opponent.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1100,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
+}

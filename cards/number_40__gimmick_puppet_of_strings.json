@@ -1,0 +1,16 @@
+{
+  "id": 75433814,
+  "name": "Number 40: Gimmick Puppet of Strings",
+  "is_illegal": false,
+  "text": "2 Level 8 monsters\nOnce per turn: You can detach 1 material from this card; place 1 String Counter on each face-up monster on the field, except this card. Once per turn, during the next End Phase of the opponent of the player who placed a String Counter(s) by this effect: Destroy the monsters with String Counters, and if you do, inflict 500 damage to your opponent for each monster destroyed.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 8
+}

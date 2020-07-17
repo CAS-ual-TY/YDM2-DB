@@ -1,0 +1,17 @@
+{
+  "id": 22419772,
+  "name": "Fairy Guardian",
+  "is_illegal": false,
+  "text": "Tribute this face-up card to return 1 Spell Card sent to your Graveyard by your opponent\u0027s card effect during this turn to the bottom of your Deck.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

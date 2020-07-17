@@ -1,0 +1,17 @@
+{
+  "id": 80516007,
+  "name": "Rare Fish",
+  "is_illegal": false,
+  "text": "\"Fusionist\" + \"Enchanting Mermaid\"",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Fish",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

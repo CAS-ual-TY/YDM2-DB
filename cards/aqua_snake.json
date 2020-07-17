@@ -1,0 +1,17 @@
+{
+  "id": 12436646,
+  "name": "Aqua Snake",
+  "is_illegal": false,
+  "text": "This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1050,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

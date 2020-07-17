@@ -1,0 +1,8 @@
+{
+  "id": 242146,
+  "name": "Ballista of Rampart Smashing",
+  "is_illegal": false,
+  "text": "If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.",
+  "type": "Spell",
+  "spell_type": "Equip"
+}

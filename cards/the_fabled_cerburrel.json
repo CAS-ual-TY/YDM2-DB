@@ -1,0 +1,17 @@
+{
+  "id": 82888408,
+  "name": "The Fabled Cerburrel",
+  "is_illegal": false,
+  "text": "If this card is discarded to the Graveyard: Special Summon it.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

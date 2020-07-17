@@ -1,0 +1,17 @@
+{
+  "id": 75198893,
+  "name": "Scanner",
+  "is_illegal": false,
+  "text": "Once per turn, you can select 1 of your opponent\u0027s monsters that is removed from play. Until the End Phase, this card\u0027s name is treated as the selected monster\u0027s name, and this card has the same Attribute, Level, ATK, and DEF as the selected monster. If this card is removed from the field while this effect is applied, remove it from play.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

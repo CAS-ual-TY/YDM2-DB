@@ -1,0 +1,16 @@
+{
+  "id": 581014,
+  "name": "Daigusto Emeral",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 material from this card, then activate 1 of these effects.\n? Target 3 monsters in your GY; shuffle all 3 into the Deck, then draw 1 card.\n? Target 1 non-Effect Monster in your GY; Special Summon that target.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Rock",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "rank": 4
+}

@@ -1,0 +1,17 @@
+{
+  "id": 71209500,
+  "name": "Amazoness Scouts",
+  "is_illegal": false,
+  "text": "During either player\u0027s turn: You can Tribute this card; this turn, face-up \"Amazoness\" monsters you currently control cannot be targeted by monster effects, and cannot be destroyed by card effects.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 2,
+  "is_tuner": false
+}

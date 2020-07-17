@@ -1,0 +1,17 @@
+{
+  "id": 25655502,
+  "name": "Bickuribox",
+  "is_illegal": false,
+  "text": "\"Crass Clown\" + \"Dream Clown\"",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

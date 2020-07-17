@@ -1,0 +1,17 @@
+{
+  "id": 13903402,
+  "name": "Mardel, Generaider Boss of Light",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Mardel, Generaider Boss of Light\". If this card is Normal or Special Summoned: You can add 1 \"Generaider\" card or 1 Plant monster from your Deck to your hand, except \"Mardel, Generaider Boss of Light\". You can only use this effect of \"Mardel, Generaider Boss of Light\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 9,
+  "is_tuner": false
+}

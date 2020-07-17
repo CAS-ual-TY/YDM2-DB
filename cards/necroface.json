@@ -1,0 +1,17 @@
+{
+  "id": 28297833,
+  "name": "Necroface",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: Shuffle all banished cards into the Deck. This card gains 100 ATK for each card shuffled into the Main Deck by this effect. If this card is banished: Each player banishes 5 cards from the top of their Deck (or their entire Deck, if less than 5).",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

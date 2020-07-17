@@ -1,0 +1,17 @@
+{
+  "id": 13851202,
+  "name": "Satellarknight Rigel",
+  "is_illegal": false,
+  "text": "If this card is Summoned: You can target 1 \"tellarknight\" monster on the field; it gains 500 ATK, but send it to the Graveyard during the End Phase. You can only use this effect of \"Satellarknight Rigel\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1900,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 4,
+  "is_tuner": false
+}

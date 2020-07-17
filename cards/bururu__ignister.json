@@ -1,0 +1,17 @@
+{
+  "id": 42429678,
+  "name": "Bururu @Ignister",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can send 1 \"@Ignister\" monster from your Deck to the GY. If this card is sent to the GY as material for the Synchro Summon of a Cyberse monster: You can target 1 monster in your GY that was used for that Synchro Summon, except \"Bururu @Ignister\"; Special Summon that monster. You can only use each effect of \"Bururu @Ignister\" once per turn.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 600,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

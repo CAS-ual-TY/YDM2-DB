@@ -1,0 +1,17 @@
+{
+  "id": 1641882,
+  "name": "Fusionist",
+  "is_illegal": false,
+  "text": "\"Petit Angel\" + \"Mystical Sheep #2\"",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

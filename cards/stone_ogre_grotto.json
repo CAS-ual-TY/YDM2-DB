@@ -1,0 +1,17 @@
+{
+  "id": 15023985,
+  "name": "Stone Ogre Grotto",
+  "is_illegal": false,
+  "text": "A behemoth shaped by giant boulders.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

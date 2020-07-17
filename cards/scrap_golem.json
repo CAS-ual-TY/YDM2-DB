@@ -1,0 +1,17 @@
+{
+  "id": 82012319,
+  "name": "Scrap Golem",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 Level 4 or lower \"Scrap\" monster in your GY; Special Summon that target to either player\u0027s field.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 50954680,
+  "name": "Crystal Wing Synchro Dragon",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner Synchro Monsters\nOnce per turn, when another monster\u0027s effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that monster, and if you do that, this card gains ATK equal to the destroyed monster\u0027s original ATK until the end of this turn. If this card battles an opponent\u0027s Level 5 or higher monster, during damage calculation: This card gains ATK equal to the current ATK of the opponent\u0027s monster it is battling during that damage calculation only.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

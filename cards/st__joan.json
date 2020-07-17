@@ -1,0 +1,17 @@
+{
+  "id": 21175632,
+  "name": "St. Joan",
+  "is_illegal": false,
+  "text": "\"The Forgiving Maiden\" + \"Darklord Marie\"",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Fairy",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

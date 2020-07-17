@@ -1,0 +1,17 @@
+{
+  "id": 35195612,
+  "name": "Dust Knight",
+  "is_illegal": false,
+  "text": "FLIP: Send 1 EARTH monster from your Deck to the Graveyard.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

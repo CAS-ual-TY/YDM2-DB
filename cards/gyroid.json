@@ -1,0 +1,17 @@
+{
+  "id": 18325492,
+  "name": "Gyroid",
+  "is_illegal": false,
+  "text": "Once per turn, this card cannot be destroyed by battle.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

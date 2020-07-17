@@ -1,0 +1,17 @@
+{
+  "id": 5368615,
+  "name": "Steam Gyroid",
+  "is_illegal": false,
+  "text": "\"Gyroid\" + \"Steamroid\"",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

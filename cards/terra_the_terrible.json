@@ -1,0 +1,17 @@
+{
+  "id": 63308047,
+  "name": "Terra the Terrible",
+  "is_illegal": false,
+  "text": "Known as a swamp dweller, this creature is a minion of the dark forces.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

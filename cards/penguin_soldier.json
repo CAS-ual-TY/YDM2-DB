@@ -1,0 +1,17 @@
+{
+  "id": 93920745,
+  "name": "Penguin Soldier",
+  "is_illegal": false,
+  "text": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 750,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

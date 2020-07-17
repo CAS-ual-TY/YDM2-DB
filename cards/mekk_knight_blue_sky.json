@@ -1,0 +1,17 @@
+{
+  "id": 20537097,
+  "name": "Mekk-Knight Blue Sky",
+  "is_illegal": false,
+  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Blue Sky\" once per turn this way. If this card is Normal or Special Summoned from the hand: You can add \"Mekk-Knight\" monsters with different names, except \"Mekk-Knight Blue Sky\", from your Deck to your hand, equal to the number of your opponent\u0027s cards in this card\u0027s column. You can only use this effect of \"Mekk-Knight Blue Sky\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 5,
+  "is_tuner": false
+}

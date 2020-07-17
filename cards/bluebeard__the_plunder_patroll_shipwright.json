@@ -1,0 +1,17 @@
+{
+  "id": 55349375,
+  "name": "Bluebeard, the Plunder Patroll Shipwright",
+  "is_illegal": false,
+  "text": "If you control a \"Plunder Patroll\" monster, except \"Bluebeard, the Plunder Patroll Shipwright\": You can Special Summon this card from your hand. If this card is sent from the hand or Monster Zone to the GY: You can discard 1 card; draw 1 card. You can only use each effect of \"Bluebeard, the Plunder Patroll Shipwright\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

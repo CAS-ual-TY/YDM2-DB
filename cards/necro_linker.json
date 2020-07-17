@@ -1,0 +1,17 @@
+{
+  "id": 44236692,
+  "name": "Necro Linker",
+  "is_illegal": false,
+  "text": "You can Tribute this card to select 1 \"Synchron\" Tuner monster in your Graveyard. Special Summon that monster. It cannot be used as a Synchro Material Monster during the turn it is Special Summoned by this effect.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

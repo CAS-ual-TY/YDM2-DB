@@ -1,0 +1,16 @@
+{
+  "id": 1482001,
+  "name": "Clara \u0026 Rushka, the Ventriloduo",
+  "is_illegal": false,
+  "text": "1 Normal Summoned/Set monster\nCannot be Link Summoned except during Main Phase 2.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": 2
+}

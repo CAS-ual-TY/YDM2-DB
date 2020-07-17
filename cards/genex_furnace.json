@@ -1,0 +1,17 @@
+{
+  "id": 53944920,
+  "name": "Genex Furnace",
+  "is_illegal": false,
+  "text": "If you control a face-up \"Genex Controller\", you can Normal Summon this card without Tributing.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
+}

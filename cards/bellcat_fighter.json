@@ -1,0 +1,16 @@
+{
+  "id": 22953211,
+  "name": "Bellcat Fighter",
+  "is_illegal": false,
+  "text": "3 monsters, including a Token\nWhen this card destroys an opponent\u0027s monster by battle: You can Special Summon 1 \"Bellcat Token\" (Machine/WIND/Level 4/ATK 2000/DEF 2000) in Defense Position.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": 138
+}

@@ -1,0 +1,17 @@
+{
+  "id": 91449144,
+  "name": "Caam, Serenity of Gusto",
+  "is_illegal": false,
+  "text": "Once per turn: You can shuffle 2 \"Gusto\" monsters from your Graveyard into the Main Deck; draw 1 card.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1700,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

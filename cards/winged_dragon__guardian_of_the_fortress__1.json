@@ -1,0 +1,17 @@
+{
+  "id": 87796900,
+  "name": "Winged Dragon, Guardian of the Fortress #1",
+  "is_illegal": false,
+  "text": "A dragon commonly found guarding mountain fortresses. Its signature attack is a sweeping dive from out of the blue.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

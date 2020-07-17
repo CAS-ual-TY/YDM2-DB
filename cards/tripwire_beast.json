@@ -1,0 +1,17 @@
+{
+  "id": 45042329,
+  "name": "Tripwire Beast",
+  "is_illegal": false,
+  "text": "This creature attacks with electromagnetic waves.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

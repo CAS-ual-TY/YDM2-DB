@@ -1,0 +1,17 @@
+{
+  "id": 17597059,
+  "name": "Byser Shock",
+  "is_illegal": false,
+  "text": "If this card is Summoned: Return all Set cards on the field to the hand.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 5,
+  "is_tuner": false
+}

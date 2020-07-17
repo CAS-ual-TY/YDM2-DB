@@ -1,0 +1,17 @@
+{
+  "id": 9837195,
+  "name": "Musto, Oracle of Gusto",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 \"Gusto\" monster in your Graveyard and 1 face-up monster on the field; shuffle the first target into the Deck, and if you do, negate the second target\u0027s effects until the End Phase.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

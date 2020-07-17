@@ -1,0 +1,17 @@
+{
+  "id": 88205593,
+  "name": "Wattcobra",
+  "is_illegal": false,
+  "text": "This card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack: Add 1 \"Watt\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

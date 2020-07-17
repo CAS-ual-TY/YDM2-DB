@@ -1,0 +1,17 @@
+{
+  "id": 24799107,
+  "name": "Dragonmaid Sheou",
+  "is_illegal": false,
+  "text": "1 \"Dragonmaid\" monster + 1 Level 5 or higher Dragon monster\nDuring each Standby Phase: You can Special Summon 1 Level 9 or lower \"Dragonmaid\" monster from your hand or GY. When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card, also, after that, return this card to the Extra Deck, and if you do, Special Summon 1 \"House Dragonmaid\" from your Extra Deck. You can only use each effect of \"Dragonmaid Sheou\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3500,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 10,
+  "is_tuner": false
+}

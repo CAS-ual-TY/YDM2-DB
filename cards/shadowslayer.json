@@ -1,0 +1,17 @@
+{
+  "id": 20939559,
+  "name": "Shadowslayer",
+  "is_illegal": false,
+  "text": "If all monsters your opponent controls are in Defense Position, this card can attack your opponent directly.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

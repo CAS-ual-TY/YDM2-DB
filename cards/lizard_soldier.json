@@ -1,0 +1,17 @@
+{
+  "id": 20831168,
+  "name": "Lizard Soldier",
+  "is_illegal": false,
+  "text": "A beast soldier derived from dragons, it is small for a Dragon-Type. Moving very quickly, this monster is an excellent strategist.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1100,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

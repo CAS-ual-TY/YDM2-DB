@@ -1,0 +1,20 @@
+{
+  "id": 33656832,
+  "name": "Acrobatic Magician",
+  "is_illegal": false,
+  "text": "If the activation of a Spell/Trap Card is negated (except during the Damage Step): You can Special Summon this card from your hand. When this card is destroyed by battle: You can place this card in your Pendulum Zone.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 5,
+  "is_tuner": false,
+  "pendulum_text": "When a monster(s) you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Acrobatic Magician\" once per turn.\n",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7480763,
+  "name": "Artifact Dagda",
+  "is_illegal": false,
+  "text": "2 monsters with different names\nWhen an effect of another card on the field is activated (Quick Effect): You can Set 1 \"Artifact\" monster from your hand or Deck to your Spell \u0026 Trap Zone as a Spell, but destroy it during your opponent\u0027s next End Phase. During your opponent\u0027s turn, if this Link Summoned card is destroyed: You can Special Summon 1 \"Artifact\" monster from your GY in Defense Position. You can only use each effect of \"Artifact Dagda\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

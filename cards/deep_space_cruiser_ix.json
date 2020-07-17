@@ -1,0 +1,17 @@
+{
+  "id": 1586457,
+  "name": "Deep-Space Cruiser IX",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by sending 1 other Machine-Type monster from your hand to the Graveyard.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 9,
+  "is_tuner": false
+}

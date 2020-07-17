@@ -1,0 +1,17 @@
+{
+  "id": 78984772,
+  "name": "Twin-Headed Fire Dragon",
+  "is_illegal": false,
+  "text": "Two dragons fused as one from the effects of the Big Bang.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2200,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

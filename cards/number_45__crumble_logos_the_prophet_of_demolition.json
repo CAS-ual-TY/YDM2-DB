@@ -1,0 +1,16 @@
+{
+  "id": 29208536,
+  "name": "Number 45: Crumble Logos the Prophet of Demolition",
+  "is_illegal": false,
+  "text": "2 or more Level 2 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 other face-up card on the field; while this monster is face-up on the field, that target has its effects negated. While that target is on the field, cards with the same name as that target, and their effects, cannot be activated.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Zombie",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 2
+}

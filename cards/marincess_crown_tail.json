@@ -1,0 +1,17 @@
+{
+  "id": 54569495,
+  "name": "Marincess Crown Tail",
+  "is_illegal": false,
+  "text": "During damage calculation, if a monster battles another monster (Quick Effect): You can send 1 other \"Marincess\" monster from your hand to the GY; Special Summon this card from your hand, and if you do, the damage you take from that battle is halved. At the start of the Damage Step, if an opponent\u0027s monster attacks: You can banish this card from your GY; this turn, you take no battle damage that is less than or equal to the total Link Rating of the \"Marincess\" Link Monsters in your GY x 1000. You can only use each effect of \"Marincess Crown Tail\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 600,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 5,
+  "is_tuner": false
+}

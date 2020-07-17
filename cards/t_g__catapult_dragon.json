@@ -1,0 +1,17 @@
+{
+  "id": 64898834,
+  "name": "T.G. Catapult Dragon",
+  "is_illegal": false,
+  "text": "Once per turn: You can Special Summon 1 Level 3 or lower \"T.G.\" Tuner monster from your hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 2,
+  "is_tuner": false
+}

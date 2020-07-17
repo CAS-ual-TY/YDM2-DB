@@ -1,0 +1,17 @@
+{
+  "id": 23469398,
+  "name": "Machina Air Raider",
+  "is_illegal": false,
+  "text": "You can discard 1 other \"Machina\" monster; Special Summon this card from your hand. During your opponent\u0027s turn (Quick Effect): You can target 1 Machine monster you control; Special Summon from your Deck, 1 \"Machina\" monster with a different name and an equal or lower Level than that monster, and if you do, destroy that targeted monster. You can only use each effect of \"Machina Air Raider\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 34923554,
+  "name": "Infinitrack Drag Shovel",
+  "is_illegal": false,
+  "text": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish 1 Machine monster from your GY; add 1 \"Spin Turn\" from your Deck to your hand. You can only use each effect of \"Infinitrack Drag Shovel\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 5,
+  "is_tuner": false
+}

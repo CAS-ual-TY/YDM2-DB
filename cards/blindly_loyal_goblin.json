@@ -1,0 +1,17 @@
+{
+  "id": 35215622,
+  "name": "Blindly Loyal Goblin",
+  "is_illegal": false,
+  "text": "As long as this card remains face-up on the field, control of this card cannot switch.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 20003027,
+  "name": "Melffy Puppy",
+  "is_illegal": false,
+  "text": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or this card is targeted for an attack by an opponent\u0027s monster: You can return this card to the hand, then you can Special Summon 1 Level 2 or lower Beast monster from your Deck, except \"Melffy Puppy\". During your End Phase: You can Special Summon this card from your hand. You can only use each effect of \"Melffy Puppy\" once per turn.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
+}

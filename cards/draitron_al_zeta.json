@@ -1,0 +1,17 @@
+{
+  "id": 100425028,
+  "name": "Draitron Al-Zeta",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with a \"Draitron\" card\u0027s effect. You can Tribute 1 other \"Draitron\" monster or 1 Ritual Monster from your hand or field; Special Summon this card from your hand or GY in Defense Position, then you can add 1 Ritual Spell from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except monsters that cannot be Normal Summoned/Set. You can only use this effect of \"Draitron Al-Zeta\" once per turn.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

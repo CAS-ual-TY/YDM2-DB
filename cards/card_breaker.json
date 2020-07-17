@@ -1,0 +1,17 @@
+{
+  "id": 51047350,
+  "name": "Card Breaker",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell \u0026 Trap Card Zone to the Graveyard.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 100,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 2,
+  "is_tuner": false
+}

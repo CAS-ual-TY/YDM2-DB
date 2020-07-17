@@ -1,0 +1,17 @@
+{
+  "id": 15595052,
+  "name": "Disciple of the Forbidden Spell",
+  "is_illegal": false,
+  "text": "When this card is Summoned, declare different Monster Card Attributes equal to the number of \"Disciple of the Forbidden Spell\"(s) in your Graveyard. If this card attacks a monster that has a declared Attribute, destroy the monster with this card\u0027s effect without applying damage calculation.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

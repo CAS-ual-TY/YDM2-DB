@@ -1,0 +1,17 @@
+{
+  "id": 98162242,
+  "name": "Needle Burrower",
+  "is_illegal": false,
+  "text": "When this card destroys a monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent\u0027s Life Points equal to the Level of the destroyed monster x 500 points.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 80630522,
+  "name": "Flower Cardian Paulownia",
+  "is_illegal": false,
+  "text": "While you control a Level 11 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. When this card is targeted for an attack: You can negate the attack, end the Battle Phase, then draw 1 card.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 12,
+  "is_tuner": false
+}

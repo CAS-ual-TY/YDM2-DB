@@ -1,0 +1,17 @@
+{
+  "id": 76039636,
+  "name": "Doom Dozer",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 Insect-Type monsters from your Graveyard, and cannot be Special Summoned by other ways. When this card inflicts Battle Damage to your opponent: Send the top card of their Deck to the Graveyard.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

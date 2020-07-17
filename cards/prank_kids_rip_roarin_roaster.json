@@ -1,0 +1,16 @@
+{
+  "id": 70875686,
+  "name": "Prank-Kids Rip-Roarin-Roaster",
+  "is_illegal": false,
+  "text": "2+ \"Prank-Kids\" monsters\nMust be Link Summoned. (Quick Effect): You can Tribute this card; destroy all Spells and Traps your opponent controls. If this card in your possession is sent to your GY by your opponent\u0027s card: You can target 1 card in your GY, except a Link Monster; add it to your hand. You can only use this effect of \"Prank-Kids Rip-Roarin-Roaster\" once per turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 3000,
+  "species": "Aqua",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": 170
+}

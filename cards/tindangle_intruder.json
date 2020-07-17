@@ -1,0 +1,17 @@
+{
+  "id": 94142993,
+  "name": "Tindangle Intruder",
+  "is_illegal": false,
+  "text": "FLIP: You can add 1 \"Tindangle\" card from your Deck to your hand.\nWhen this card is Normal Summoned: You can send 1 \"Tindangle\" card from your Deck to the GY. If a monster(s) is Special Summoned to your field in face-down Defense Position while this card is in your GY: Special Summon this card in face-down Defense Position (this is not optional). You can only use each effect of \"Tindangle Intruder\" once per turn.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

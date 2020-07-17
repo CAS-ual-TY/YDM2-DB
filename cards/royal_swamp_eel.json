@@ -1,0 +1,17 @@
+{
+  "id": 37953640,
+  "name": "Royal Swamp Eel",
+  "is_illegal": false,
+  "text": "If this card is used as a Synchro Material Monster, all the other Synchro Material Monsters must be Fish-Type.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": true
+}

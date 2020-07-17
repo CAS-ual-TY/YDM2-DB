@@ -1,0 +1,17 @@
+{
+  "id": 3170832,
+  "name": "Takuhee",
+  "is_illegal": false,
+  "text": "This bird is known far and wide as a harbinger of doom.",
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1450,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

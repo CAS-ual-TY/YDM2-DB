@@ -1,0 +1,17 @@
+{
+  "id": 67841515,
+  "name": "Barrel Lily",
+  "is_illegal": false,
+  "text": "This wicked flower attacks enemies with pollen projectiles.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

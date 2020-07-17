@@ -1,0 +1,17 @@
+{
+  "id": 53180020,
+  "name": "Exa, Enforcer of the Nekroz",
+  "is_illegal": false,
+  "text": "If this card is Tributed by a card effect: You can add 1 Dragon-Type \"Nekroz\" Ritual Monster from your Deck to your hand. If this card is banished: You can target 1 of your banished \"Nekroz\" monsters, except this card; Special Summon that monster. You can only use 1 \"Exa, Enforcer of the Nekroz\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

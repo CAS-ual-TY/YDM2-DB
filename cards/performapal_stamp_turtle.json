@@ -1,0 +1,17 @@
+{
+  "id": 65195959,
+  "name": "Performapal Stamp Turtle",
+  "is_illegal": false,
+  "text": "Once per turn: You can target up to 2 face-up monsters on the field; increase their Levels by 1.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 100,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

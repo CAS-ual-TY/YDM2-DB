@@ -1,0 +1,17 @@
+{
+  "id": 52222372,
+  "name": "Genex Turbine",
+  "is_illegal": false,
+  "text": "All face-up \"Genex\" monsters you control gain 400 ATK.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

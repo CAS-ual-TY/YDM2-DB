@@ -1,0 +1,17 @@
+{
+  "id": 51916853,
+  "name": "Magical Hound",
+  "is_illegal": false,
+  "text": "If this card is in your hand or GY: You can target 1 face-up Spell/Trap your opponent controls; return it to the hand, and if you do, Special Summon this card. You can only use this effect of \"Magical Hound\" once per Duel.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 1,
+  "is_tuner": true
+}

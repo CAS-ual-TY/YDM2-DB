@@ -1,0 +1,17 @@
+{
+  "id": 95923441,
+  "name": "Triamid Hunter",
+  "is_illegal": false,
+  "text": "If a Field Spell Card is face-up on the field, you can Normal Summon 1 Rock-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn, during your opponent\u0027s turn: You can target 1 \"Triamid\" Field Spell Card in your Field Zone; send it to the Graveyard, and if you do, activate 1 \"Triamid\" Field Spell Card from your Deck with a different name (this is a Quick Effect).",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
+}

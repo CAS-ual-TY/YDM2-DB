@@ -1,0 +1,17 @@
+{
+  "id": 5285665,
+  "name": "Elemental HERO Neo Bubbleman",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending an \"Elemental Hero Bubbleman\" you control and \"Metamorphosis\" in your hand to the Graveyard. This card\u0027s name is treated as \"Elemental Hero Bubbleman\" while it is face-up on the field. Destroy an opponent\u0027s monster that battles this card at the end of the Damage Step.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

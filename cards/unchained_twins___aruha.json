@@ -1,0 +1,17 @@
+{
+  "id": 26236560,
+  "name": "Unchained Twins - Aruha",
+  "is_illegal": false,
+  "text": "You can target 1 card you control; you cannot Special Summon monsters for the rest of this turn, except Fiend monsters, also destroy the targeted card, and if you do, Special Summon this card from your hand. If this card on the field is destroyed by card effect, except \"Unchained Twins - Aruha\", or by battle: You can Special Summon 1 \"Unchained\" monster from your hand or Deck, except \"Unchained Twins - Aruha\". You can only use each effect of \"Unchained Twins - Aruha\" once per turn.",
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

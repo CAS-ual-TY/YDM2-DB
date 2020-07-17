@@ -1,0 +1,17 @@
+{
+  "id": 41061625,
+  "name": "Yashinoki",
+  "is_illegal": false,
+  "text": "An intelligent palm tree that drops a hail of rock-hard coconuts on its enemies.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

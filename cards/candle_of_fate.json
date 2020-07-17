@@ -1,0 +1,17 @@
+{
+  "id": 47695416,
+  "name": "Candle of Fate",
+  "is_illegal": false,
+  "text": "Decides the fate of an opponent when the candle on its fingertip burns out.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

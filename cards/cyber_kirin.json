@@ -1,0 +1,17 @@
+{
+  "id": 76986005,
+  "name": "Cyber Kirin",
+  "is_illegal": false,
+  "text": "You can Tribute this card to make any effect damage you take this turn 0.",
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

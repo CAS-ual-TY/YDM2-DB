@@ -1,0 +1,17 @@
+{
+  "id": 48109103,
+  "name": "Kappa Avenger",
+  "is_illegal": false,
+  "text": "An amphibian that sold his soul for unlimited power to avenge his late friend.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

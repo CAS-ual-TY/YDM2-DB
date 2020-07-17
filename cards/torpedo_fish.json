@@ -1,0 +1,17 @@
+{
+  "id": 90337190,
+  "name": "Torpedo Fish",
+  "is_illegal": false,
+  "text": "While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 45025640,
+  "name": "Boycotton",
+  "is_illegal": false,
+  "text": "You take any battle damage your opponent would have taken from battles involving this card, instead. If this card battles, is not destroyed, and you took damage from that battle: Return this card to the hand.",
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 4,
+  "is_tuner": false
+}

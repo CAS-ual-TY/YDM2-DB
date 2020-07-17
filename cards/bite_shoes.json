@@ -1,0 +1,17 @@
+{
+  "id": 50122883,
+  "name": "Bite Shoes",
+  "is_illegal": false,
+  "text": "FLIP: Change the battle position of 1 face-up monster on the field.",
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
+}
