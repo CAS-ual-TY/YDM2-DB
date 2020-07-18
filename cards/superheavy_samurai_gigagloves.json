@@ -3,6 +3,9 @@
   "name": "Superheavy Samurai Gigagloves",
   "is_illegal": false,
   "text": "If this card is sent to the Graveyard, and you have no Spell/Trap Cards in your Graveyard: You can look at 5 cards from the top of your Deck, then place them on the top of the Deck in any order. When an opponent\u0027s monster declares a direct attack: You can banish this card from your Graveyard; excavate the top card of your Deck, and if it is a \"Superheavy Samurai\" monster, add it to your hand, and if you do, the attacking monster\u0027s ATK becomes 0. Otherwise, send it to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62017867.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 100,

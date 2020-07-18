@@ -3,6 +3,9 @@
   "name": "Spiked Snail",
   "is_illegal": false,
   "text": "A very fast, bipedal snail with a pair of lethal arms.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98075147.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,

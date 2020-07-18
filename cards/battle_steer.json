@@ -3,6 +3,9 @@
   "name": "Battle Steer",
   "is_illegal": false,
   "text": "A bull monster often found in the woods, it charges enemy monsters with a pair of deadly horns.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18246479.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

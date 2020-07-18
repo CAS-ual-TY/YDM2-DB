@@ -3,6 +3,9 @@
   "name": "Ghost Beef",
   "is_illegal": false,
   "text": "The Ghost of Christmas Dinner.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84046493.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

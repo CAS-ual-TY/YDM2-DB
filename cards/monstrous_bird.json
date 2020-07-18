@@ -3,6 +3,9 @@
   "name": "Monstrous Bird",
   "is_illegal": false,
   "text": "Few have set eyes on this dive-bombing bird and lived to tell the tale.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35712107.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,

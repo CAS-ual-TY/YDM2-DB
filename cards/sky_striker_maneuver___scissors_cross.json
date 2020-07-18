@@ -3,6 +3,9 @@
   "name": "Sky Striker Maneuver - Scissors Cross",
   "is_illegal": false,
   "text": "If you control no monsters in your Main Monster Zone: Target 1 Level 4 \"Sky Striker Ace\" monster in your GY; add it to your hand, or if you have 3 or more Spells in your GY, you can Special Summon it instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46271408.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "D.D. Scout Plane",
   "is_illegal": false,
   "text": "Once per turn, during the End Phase, if this card is currently banished, and was banished this turn: Special Summon it in face-up Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3773196.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

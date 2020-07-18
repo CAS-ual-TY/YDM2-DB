@@ -3,6 +3,9 @@
   "name": "Double Coston",
   "is_illegal": false,
   "text": "This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44436472.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

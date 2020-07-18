@@ -3,6 +3,9 @@
   "name": "Water Girl",
   "is_illegal": false,
   "text": "A lovely lady who can launch water projectiles that turn into lethal ice spikes before they reach an opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55014050.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1250,

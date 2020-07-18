@@ -3,6 +3,9 @@
   "name": "Memory of an Adversary",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack: You take damage equal to the attacking monster\u0027s ATK, and if you do, banish that monster. During the End Phase of your opponent\u0027s next turn, Special Summon that monster to your side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60080151.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "A.I. Shadow",
   "is_illegal": false,
   "text": "Activate this card by targeting 1 \"@Ignister\" monster you control. That monster gains 800 ATK, also all monsters your opponent controls must attack that monster you control, if able. If this face-up card in its owner\u0027s Spell \u0026 Trap Zone has left the field because of an opponent\u0027s effect, and is now in the GY or banished: Draw 1 card. You can only use this effect of \"A.I. Shadow\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77421977.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

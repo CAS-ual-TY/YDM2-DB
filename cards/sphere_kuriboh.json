@@ -3,6 +3,9 @@
   "name": "Sphere Kuriboh",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack: You can send this card from your hand to the GY; change the attacking monster to Defense Position. When you Ritual Summon, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33245030.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 300,

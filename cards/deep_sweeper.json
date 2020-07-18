@@ -3,6 +3,9 @@
   "name": "Deep Sweeper",
   "is_illegal": false,
   "text": "You can Tribute this card, then target 1 Spell/Trap Card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8649148.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,

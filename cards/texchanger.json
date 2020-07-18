@@ -3,6 +3,9 @@
   "name": "Texchanger",
   "is_illegal": false,
   "text": "Once per turn, when your monster is targeted for an attack: You can negate that attack, then Special Summon 1 Cyberse Normal Monster from your hand, Deck, or GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74210057.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,

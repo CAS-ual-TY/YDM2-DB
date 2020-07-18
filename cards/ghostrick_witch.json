@@ -3,6 +3,9 @@
   "name": "Ghostrick Witch",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. Once per turn: You can target 1 face-up monster your opponent controls; change it to face-down Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27491571.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

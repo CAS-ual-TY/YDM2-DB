@@ -3,6 +3,9 @@
   "name": "Silent Angler",
   "is_illegal": false,
   "text": "If you control a WATER monster, you can Special Summon this card (from your hand), but you cannot Special Summon monsters from your hand for the rest of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90303176.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

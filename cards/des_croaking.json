@@ -3,6 +3,9 @@
   "name": "Des Croaking",
   "is_illegal": false,
   "text": "Activate only while you control 3 face-up \"Des Frogs\". Destroy all cards your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44883830.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

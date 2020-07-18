@@ -3,6 +3,9 @@
   "name": "Wattkid",
   "is_illegal": false,
   "text": "A creature that electrocutes opponents with bolts of lightning.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27324313.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

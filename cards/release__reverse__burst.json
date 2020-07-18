@@ -3,6 +3,9 @@
   "name": "Release, Reverse, Burst",
   "is_illegal": false,
   "text": "Tribute 1 \"Utopia\" monster; destroy all Set Spell and Trap Cards your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38777931.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

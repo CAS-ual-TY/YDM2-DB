@@ -3,6 +3,9 @@
   "name": "Reprodocus",
   "is_illegal": false,
   "text": "2 monsters\nYou can activate 1 of these effects.\n? Declare 1 Monster Type; all face-up monsters this card points to become that Type until the end of this turn.\n? Declare 1 Attribute; all face-up monsters this card points to become that Attribute until the end of this turn.\nYou can only use this effect of \"Reprodocus\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34989413.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

@@ -3,6 +3,9 @@
   "name": "Mystical Sheep #2",
   "is_illegal": false,
   "text": "A monstrous sheep with a long tail for hypnotizing enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83464209.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

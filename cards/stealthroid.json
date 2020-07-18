@@ -3,6 +3,9 @@
   "name": "Stealthroid",
   "is_illegal": false,
   "text": "If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another \"roid\" monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98049038.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

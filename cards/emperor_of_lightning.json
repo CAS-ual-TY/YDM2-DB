@@ -3,6 +3,9 @@
   "name": "Emperor of Lightning",
   "is_illegal": false,
   "text": "This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Thunder-Type monsters on your side of the field. If this card attacks your opponent\u0027s Life Points directly and makes them 0, the controller of this card wins the Match.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/501000007.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2600,

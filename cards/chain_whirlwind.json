@@ -3,6 +3,9 @@
   "name": "Chain Whirlwind",
   "is_illegal": false,
   "text": "Activate only when a card on the field is destroyed by a card effect. Select 2 Spell/Trap Cards on the field and destroy them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22205600.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

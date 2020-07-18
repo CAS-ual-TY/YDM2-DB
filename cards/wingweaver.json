@@ -3,6 +3,9 @@
   "name": "Wingweaver",
   "is_illegal": false,
   "text": "A six-winged fairy who prays for peace and hope.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31447217.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2750,

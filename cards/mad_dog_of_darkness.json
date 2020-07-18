@@ -3,6 +3,9 @@
   "name": "Mad Dog of Darkness",
   "is_illegal": false,
   "text": "He used to be a normal dog who played around in a park, but was corrupted by the powers of darkness.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79182538.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1900,

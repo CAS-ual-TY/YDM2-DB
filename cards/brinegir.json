@@ -3,6 +3,9 @@
   "name": "Brinegir",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can target 1 WATER monster in your GY; this card gains ATK equal to that monster\u0027s ATK until the end of this turn. If this card is sent to the GY: You can target 1 WATER monster you control; it gains 1000 ATK until the end of this turn. You can only use each effect of \"Brinegir\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2102065.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1000,

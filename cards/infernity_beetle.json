@@ -3,6 +3,9 @@
   "name": "Infernity Beetle",
   "is_illegal": false,
   "text": "While you have no cards in your hand, you can Tribute this card to Special Summon up to 2 \"Infernity Beetle\" from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49080532.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

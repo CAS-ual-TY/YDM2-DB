@@ -3,6 +3,9 @@
   "name": "Swords of Concealing Light",
   "is_illegal": false,
   "text": "Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12923641.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

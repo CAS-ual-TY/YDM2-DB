@@ -3,6 +3,9 @@
   "name": "Doomkaiser Dragon",
   "is_illegal": false,
   "text": "\"Plaguespreader Zombie\" + 1 or more non-Tuner Zombie-Type monsters\nWhen this card is Special Summoned: You can target 1 Zombie-Type monster in your opponent\u0027s Graveyard; Special Summon that target to your side of the field in face-up Attack Position, but destroy it when this card leaves the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6021033.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2400,

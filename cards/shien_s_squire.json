@@ -3,6 +3,9 @@
   "name": "Shien\u0027s Squire",
   "is_illegal": false,
   "text": "During damage calculation, in either player\u0027s turn, if a \"Six Samurai\" monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33883834.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

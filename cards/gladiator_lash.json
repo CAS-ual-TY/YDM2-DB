@@ -3,6 +3,9 @@
   "name": "Gladiator Lash",
   "is_illegal": false,
   "text": "Activate only when you Special Summon a \"Gladiator Beast\" monster. Your opponent discards 1 card of their choice.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97234686.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

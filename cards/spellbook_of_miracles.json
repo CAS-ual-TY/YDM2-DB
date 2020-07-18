@@ -3,6 +3,9 @@
   "name": "Spellbook of Miracles",
   "is_illegal": false,
   "text": "Target 1 Spellcaster-Type Xyz Monster in your Graveyard and up to 2 of your banished \"Spellbook\" Spell Cards; Special Summon that monster, and if you do, attach the targeted \"Spellbook\" Spell Card(s) to it as Xyz Material. You can only activate 1 \"Spellbook of Miracles\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43841694.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

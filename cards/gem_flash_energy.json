@@ -3,6 +3,9 @@
   "name": "Gem Flash Energy",
   "is_illegal": false,
   "text": "During each of your Standby Phases, inflict damage to your opponent equal to the number of face-up Continuous Spell Cards on the field x 300.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57753602.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

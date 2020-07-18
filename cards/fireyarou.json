@@ -3,6 +3,9 @@
   "name": "Fireyarou",
   "is_illegal": false,
   "text": "A malevolent creature wrapped in flames that attacks enemies with intense fire.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71407486.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1300,

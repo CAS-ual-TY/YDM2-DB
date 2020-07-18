@@ -3,6 +3,9 @@
   "name": "Emblem of the Plunder Patroll",
   "is_illegal": false,
   "text": "Equip only to a \"Plunder Patroll\" monster. It gains 500 ATK, also your opponent cannot target it with card effects. You can send this equipped card to the GY; Special Summon 1 \"Plunder Patroll\" monster from your Extra Deck with the same Attribute as a monster on the field or in the GY, then take the monster that was equipped with this card, and equip it to that Special Summoned monster as an Equip Spell with this effect.\n? The equipped monster gains 500 ATK.\nYou can only use this effect of \"Emblem of the Plunder Patroll\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80621422.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

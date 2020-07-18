@@ -3,6 +3,9 @@
   "name": "Performapal King Bear",
   "is_illegal": false,
   "text": "Cannot be destroyed by Spell/Trap effects while in face-up Attack Position. This card gains 100 ATK for each \"Performapal\" card you control, during your Battle Phase only.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67808837.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2200,

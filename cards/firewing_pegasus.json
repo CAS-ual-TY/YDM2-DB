@@ -3,6 +3,9 @@
   "name": "Firewing Pegasus",
   "is_illegal": false,
   "text": "A heavenly stallion soaring through the skies on crimson wings.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27054370.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2250,

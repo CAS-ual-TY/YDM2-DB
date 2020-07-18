@@ -3,6 +3,9 @@
   "name": "Birdface",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the GY: You can add 1 \"Harpie Lady\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45547649.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Bearblocker",
   "is_illegal": false,
   "text": "During your opponent\u0027s turn, Set cards in your Spell \u0026 Trap Zones cannot be destroyed by card effects. If a Set card(s) in your Spell \u0026 Trap Zone is destroyed by an opponent\u0027s card effect: This card gains 800 ATK until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80141055.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

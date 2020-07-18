@@ -3,6 +3,9 @@
   "name": "Pendulumucho",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can Special Summon 1 face-up Level 1 Pendulum Monster from your Extra Deck, except \"Pendulumucho\", but banish it when it leaves the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18210764.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

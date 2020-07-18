@@ -3,6 +3,9 @@
   "name": "Kuwagata ?",
   "is_illegal": false,
   "text": "A very vicious stag beetle that goes for the head.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60802233.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1250,

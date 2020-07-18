@@ -3,6 +3,9 @@
   "name": "Twin-Headed Fire Dragon",
   "is_illegal": false,
   "text": "Two dragons fused as one from the effects of the Big Bang.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78984772.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2200,

@@ -3,6 +3,9 @@
   "name": "Defender of the Ice Barrier",
   "is_illegal": false,
   "text": "While you control another face-up \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card\u0027s DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82498947.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 200,

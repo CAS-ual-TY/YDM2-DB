@@ -3,6 +3,9 @@
   "name": "Barrier Statue of the Abyss",
   "is_illegal": false,
   "text": "No monsters can be Special Summoned, except for DARK monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84478195.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

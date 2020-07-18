@@ -3,6 +3,9 @@
   "name": "Kuribandit",
   "is_illegal": false,
   "text": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16404809.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

@@ -3,6 +3,9 @@
   "name": "Xing Zhen Hu",
   "is_illegal": false,
   "text": "Activate by selecting 2 Set Spell or Trap Cards on the field. The selected Spell or Trap Cards cannot be activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76515293.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

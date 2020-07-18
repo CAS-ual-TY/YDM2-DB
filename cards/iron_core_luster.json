@@ -3,6 +3,9 @@
   "name": "Iron Core Luster",
   "is_illegal": false,
   "text": "Reveal 1 \"Iron Core of Koa\u0027ki Meiru\" in your hand. Negate the activation of your opponent\u0027s Spell or Trap Card, and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34545235.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

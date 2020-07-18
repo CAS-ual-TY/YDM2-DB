@@ -3,6 +3,9 @@
   "name": "Violent Rain",
   "is_illegal": false,
   "text": "This monster can call forth sudden torrents of battering rain.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94042337.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1550,

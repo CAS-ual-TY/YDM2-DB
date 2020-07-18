@@ -3,6 +3,9 @@
   "name": "Noble Knight Drystan",
   "is_illegal": false,
   "text": "While you control another \"Noble Knight\" monster, your opponent cannot target your monsters with less than 1800 ATK, except this card, for attacks or with card effects. If a \"Noble Arms\" Equip Spell Card is equipped to this card: Target 1 face-up card on the field; destroy that target. You can only use this effect of \"Noble Knight Drystan\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53550467.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

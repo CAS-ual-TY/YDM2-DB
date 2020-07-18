@@ -3,6 +3,9 @@
   "name": "Ryu-Kishin Powered",
   "is_illegal": false,
   "text": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24611934.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Scrap Golem",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 Level 4 or lower \"Scrap\" monster in your GY; Special Summon that target to either player\u0027s field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82012319.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2300,

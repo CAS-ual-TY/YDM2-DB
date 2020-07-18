@@ -3,6 +3,9 @@
   "name": "Stop Defense",
   "is_illegal": false,
   "text": "Select 1 Defense Position monster on your opponent\u0027s side of the field and change it to Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63102017.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

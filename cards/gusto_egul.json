@@ -3,6 +3,9 @@
   "name": "Gusto Egul",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower non-Tuner \"Gusto\" monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91662792.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 200,

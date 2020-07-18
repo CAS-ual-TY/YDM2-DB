@@ -3,6 +3,9 @@
   "name": "Junk Servant",
   "is_illegal": false,
   "text": "If you control a \"Junk\" monster, you can Special Summon this card (from your hand).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78922939.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

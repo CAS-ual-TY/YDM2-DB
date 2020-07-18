@@ -3,6 +3,9 @@
   "name": "One-Shot Wand",
   "is_illegal": false,
   "text": "Equip only to a Spellcaster-Type monster. It gains 800 ATK. If the equipped monster attacks or is attacked, after damage calculation: You can destroy this card, and if you do, draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36042825.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

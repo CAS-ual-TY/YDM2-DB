@@ -3,6 +3,9 @@
   "name": "Skilled Dark Magician",
   "is_illegal": false,
   "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73752131.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1900,

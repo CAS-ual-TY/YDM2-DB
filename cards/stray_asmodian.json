@@ -3,6 +3,9 @@
   "name": "Stray Asmodian",
   "is_illegal": false,
   "text": "When this card is destroyed and sent to the Graveyard by battle, both players gain 800 Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86209650.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1300,

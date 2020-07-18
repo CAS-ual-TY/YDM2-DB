@@ -3,6 +3,9 @@
   "name": "Perform Puppet",
   "is_illegal": false,
   "text": "You can banish 1 \"Gimmick Puppet\" monster from your GY; all monsters you currently control become that banished monster\u0027s Level, until the end of this turn (even if this card leaves the field). If a face-up \"Gimmick Puppet\" monster(s) you control is destroyed by battle or an opponent\u0027s card effect and sent to the GY: You can target 1 of your banished \"Gimmick Puppet\" monsters; Special Summon it. You can only use each effect of \"Perform Puppet\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6471156.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

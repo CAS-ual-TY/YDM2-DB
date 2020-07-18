@@ -3,6 +3,9 @@
   "name": "Genex Ally Triarm",
   "is_illegal": false,
   "text": "\"Genex Controller\" + 1 or more non-Tuner monsters\nThis card\u0027s effects depend on the Attribute(s) of its non-Tuner Synchro Material Monsters. Once per turn, you can discard 1 card to activate one of its effects: ? WIND: Send 1 random card from your opponent\u0027s hand to the Graveyard. ? WATER: Select 1 Spell/Trap Card on the field, and destroy it. ? DARK: Select 1 face-up LIGHT monster on the field, destroy it and draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17760003.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

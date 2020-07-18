@@ -3,6 +3,9 @@
   "name": "Destruction Sword Flash",
   "is_illegal": false,
   "text": "If you control a Fusion Monster that lists \"Buster Blader\" as Material: Banish all monsters your opponent controls. When a card or effect is activated that targets a \"Buster Blader\" monster(s) you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect, and if you do, destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15155568.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Reborn Zombie",
   "is_illegal": false,
   "text": "While you have no cards in your hand and this card is in Attack Position, it cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23421244.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

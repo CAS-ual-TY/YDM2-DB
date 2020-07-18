@@ -3,6 +3,9 @@
   "name": "Moulinglacia the Elemental Lord",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WATER monsters in your GY. If this card is Special Summoned: Discard 2 random cards from your opponent\u0027s hand (or their entire hand, if less than 2). You can only use this effect of \"Moulinglacia the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13959634.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2800,

@@ -3,6 +3,9 @@
   "name": "Red-Headed Oni",
   "is_illegal": false,
   "text": "When this card is Special Summoned from the Graveyard by the effect of a Zombie-Type monster: You can target 1 face-up Zombie-Type monster you control; detach 1 Xyz Material from a monster on the field, and if you do, increase the targeted monster\u0027s Level by 1 and its ATK by 300 (even if the targeting conditions are no longer correct).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30494314.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

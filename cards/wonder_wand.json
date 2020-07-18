@@ -3,6 +3,9 @@
   "name": "Wonder Wand",
   "is_illegal": false,
   "text": "Equip only to a Spellcaster monster. It gains 500 ATK. If you control the equipped monster and this card: You can send both to the GY; draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67775894.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

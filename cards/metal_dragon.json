@@ -3,6 +3,9 @@
   "name": "Metal Dragon",
   "is_illegal": false,
   "text": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9293977.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1850,

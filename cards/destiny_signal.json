@@ -3,6 +3,9 @@
   "name": "Destiny Signal",
   "is_illegal": false,
   "text": "When a monster you control is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower \"Destiny HERO\" monster from your hand or Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35464895.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

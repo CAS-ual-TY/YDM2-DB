@@ -3,6 +3,9 @@
   "name": "Koa\u0027ki Meiru War Arms",
   "is_illegal": false,
   "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa\u0027ki Meiru\" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. Once per turn: You can target 1 Level 3 or lower Warrior-Type monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the combined ATK of the monsters equipped to it by this effect. If this card would be destroyed by battle, destroy all monsters equipped to it by this effect instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95090813.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

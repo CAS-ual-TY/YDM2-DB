@@ -3,6 +3,9 @@
   "name": "Cockadoodledoo",
   "is_illegal": false,
   "text": "If there are no monsters on the field, you can Special Summon this card (from your hand) as a Level 3 monster. If your opponent controls a monster and you control no cards, you can Special Summon this card (from your hand) as a Level 4 monster. If this face-up card would leave the field, banish it instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42338879.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1600,

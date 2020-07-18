@@ -3,6 +3,9 @@
   "name": "Dark Magic Veil",
   "is_illegal": false,
   "text": "Pay 1000 LP; Special Summon 1 DARK Spellcaster-Type monster from your hand or Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82404868.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

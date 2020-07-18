@@ -3,6 +3,9 @@
   "name": "Headless Knight",
   "is_illegal": false,
   "text": "A haunted spirit of a falsely accused knight who wanders in search of truth and justice.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5434080.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1450,

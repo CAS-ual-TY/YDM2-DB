@@ -3,6 +3,9 @@
   "name": "Three Thousand Needles",
   "is_illegal": false,
   "text": "At the end of the Damage Step, if this Defense Position card was attacked by a monster whose ATK is lower than this card\u0027s DEF: Destroy the attacking monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7852878.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3000,

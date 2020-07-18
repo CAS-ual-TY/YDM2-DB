@@ -3,6 +3,9 @@
   "name": "Barrel Rock",
   "is_illegal": false,
   "text": "Shouldering a pair of machine guns, this monster is unstoppable.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10476868.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

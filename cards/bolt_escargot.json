@@ -3,6 +3,9 @@
   "name": "Bolt Escargot",
   "is_illegal": false,
   "text": "After rendering an opponent immobile by spitting a sticky goo, this monster closes in for the attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12146024.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,

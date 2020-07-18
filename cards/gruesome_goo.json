@@ -3,6 +3,9 @@
   "name": "Gruesome Goo",
   "is_illegal": false,
   "text": "A slime boss that is definitely tougher than it looks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65623423.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1300,

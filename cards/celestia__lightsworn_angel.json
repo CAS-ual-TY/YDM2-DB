@@ -3,6 +3,9 @@
   "name": "Celestia, Lightsworn Angel",
   "is_illegal": false,
   "text": "When you Tribute Summon this card by Tributing a \"Lightsworn\" monster: You can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls; destroy those targets.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94381039.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2300,

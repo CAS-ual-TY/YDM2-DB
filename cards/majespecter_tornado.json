@@ -3,6 +3,9 @@
   "name": "Majespecter Tornado",
   "is_illegal": false,
   "text": "Tribute 1 WIND Spellcaster-Type monster, then target 1 monster your opponent controls; banish it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36183881.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Serpent Night Dragon",
   "is_illegal": false,
   "text": "A dragon created from the soul of a wicked knight.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66516792.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2350,

@@ -3,6 +3,9 @@
   "name": "Bone Mouse",
   "is_illegal": false,
   "text": "A mouse that has returned as a zombie to seek revenge on cats.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21239280.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 400,

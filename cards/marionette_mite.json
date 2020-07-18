@@ -3,6 +3,9 @@
   "name": "Marionette Mite",
   "is_illegal": false,
   "text": "You can discard this card to the GY, then target 1 Fiend or Zombie monster your opponent controls; take control of that target until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87514539.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

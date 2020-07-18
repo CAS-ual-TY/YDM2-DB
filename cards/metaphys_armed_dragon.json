@@ -3,6 +3,9 @@
   "name": "Metaphys Armed Dragon",
   "is_illegal": false,
   "text": "Usually visible despite its phantom existence.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89189982.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,

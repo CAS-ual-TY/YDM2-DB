@@ -3,6 +3,9 @@
   "name": "Kabazauls",
   "is_illegal": false,
   "text": "A huge monster in the shape of a hippopotamus. The sneezing from his gigantic body is so fierce that people mistake it for a hurricane.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51934376.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,

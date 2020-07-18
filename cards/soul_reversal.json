@@ -3,6 +3,9 @@
   "name": "Soul Reversal",
   "is_illegal": false,
   "text": "Return 1 Flip Effect Monster from your Graveyard to the top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78864369.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

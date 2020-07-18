@@ -3,6 +3,9 @@
   "name": "Masters of the Spiritual Arts",
   "is_illegal": false,
   "text": "Discard 1 card; take 2 \"Charmer\" monsters, \"Familiar-Possessed\" monsters, and/or \"Possessed\" Spells/Traps with different names from your Deck, add 1 of them to your hand and Set the other. You can only activate 1 \"Masters of the Spiritual Arts\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91530236.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

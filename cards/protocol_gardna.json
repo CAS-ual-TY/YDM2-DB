@@ -3,6 +3,9 @@
   "name": "Protocol Gardna",
   "is_illegal": false,
   "text": "2 Cyberse monsters\nYour opponent\u0027s monsters cannot target monsters this card points to for attacks. The first time this card would be destroyed by battle each turn, it is not destroyed, and you take no battle damage from that battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5329790.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

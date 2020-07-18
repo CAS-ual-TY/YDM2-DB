@@ -3,6 +3,9 @@
   "name": "Gouki Tagpartner",
   "is_illegal": false,
   "text": "If this card is sent to the GY as Link Material for the Link Summon of a \"Gouki\" monster: You can have that \"Gouki\" Link Monster gain 1000 ATK until the end of this turn. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Gouki\" Spell in your GY; shuffle it into the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67586735.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,

@@ -3,6 +3,9 @@
   "name": "Ancient One of the Deep Forest",
   "is_illegal": false,
   "text": "This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14015067.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

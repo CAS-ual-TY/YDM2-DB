@@ -3,6 +3,9 @@
   "name": "Oscillo Hero",
   "is_illegal": false,
   "text": "A strange warrior from another dimension.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82065276.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1250,

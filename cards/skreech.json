@@ -3,6 +3,9 @@
   "name": "Skreech",
   "is_illegal": false,
   "text": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27655513.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

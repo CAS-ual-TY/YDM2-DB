@@ -3,6 +3,9 @@
   "name": "Gem-Turtle",
   "is_illegal": false,
   "text": "FLIP: You can add 1 \"Gem-Knight Fusion\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64734090.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

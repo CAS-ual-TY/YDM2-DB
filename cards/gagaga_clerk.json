@@ -3,6 +3,9 @@
   "name": "Gagaga Clerk",
   "is_illegal": false,
   "text": "If you control a \"Gagaga\" monster other than \"Gagaga Clerk\", you can Special Summon this card (from your hand).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44250812.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,

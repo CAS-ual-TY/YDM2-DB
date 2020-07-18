@@ -3,6 +3,9 @@
   "name": "Yokotuner",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 Tuner from your hand or Graveyard, but it has its effects negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27750191.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

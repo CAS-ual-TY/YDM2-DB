@@ -3,6 +3,9 @@
   "name": "Majespecter Gust",
   "is_illegal": false,
   "text": "Target 1 \"Majespecter\" card in your Pendulum Zone; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5153769.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

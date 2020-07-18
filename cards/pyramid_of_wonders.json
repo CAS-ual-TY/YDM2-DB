@@ -3,6 +3,9 @@
   "name": "Pyramid of Wonders",
   "is_illegal": false,
   "text": "All Zombie monsters you control gain 200 ATK for each monster your opponent controls. If exactly 1 Zombie monster you control (and no other cards) would be destroyed, you can send this card to the GY instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66835946.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

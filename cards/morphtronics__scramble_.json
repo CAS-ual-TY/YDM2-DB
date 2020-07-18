@@ -3,6 +3,9 @@
   "name": "Morphtronics, Scramble!",
   "is_illegal": false,
   "text": "Activate only when your opponent declares a direct attack while you control no monsters. Negate that attack and Special Summon 1 \"Morphtronic\" monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49833312.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

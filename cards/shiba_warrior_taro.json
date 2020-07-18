@@ -3,6 +3,9 @@
   "name": "Shiba-Warrior Taro",
   "is_illegal": false,
   "text": "This card cannot be destroyed by battle. When a card on the field is destroyed by battle or by a card effect, return this face-up card to its owner\u0027s hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27416701.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

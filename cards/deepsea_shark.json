@@ -3,6 +3,9 @@
   "name": "Deepsea Shark",
   "is_illegal": false,
   "text": "\"Bottom Dweller\" + \"Tongyo\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28593363.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1900,

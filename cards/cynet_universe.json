@@ -3,6 +3,9 @@
   "name": "Cynet Universe",
   "is_illegal": false,
   "text": "All Link Monsters you control gain 300 ATK. Once per turn: You can target 1 monster in the GY; shuffle it into the Deck. If this card on the field is destroyed by a card effect: Send all monsters in the Extra Monster Zones to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61583217.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

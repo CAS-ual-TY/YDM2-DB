@@ -3,6 +3,9 @@
   "name": "Jigabyte",
   "is_illegal": false,
   "text": "You can only control 1 \"Jigabyte\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). When this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster with 1500 ATK and 200 DEF from your Deck, except \"Jigabyte\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40894584.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "People Running About",
   "is_illegal": false,
   "text": "Although they always suffer in silence, they swear an oath to inevitably revolt.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12143771.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 600,

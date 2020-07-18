@@ -3,6 +3,9 @@
   "name": "Amazon of the Seas",
   "is_illegal": false,
   "text": "A mermaid who serves as a herald to the Ocean Lord. She protects the sacred domain of Atlantis.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17968114.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1300,

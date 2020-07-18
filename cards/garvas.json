@@ -3,6 +3,9 @@
   "name": "Garvas",
   "is_illegal": false,
   "text": "A wicked beast that resembles a winged lion.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69780745.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

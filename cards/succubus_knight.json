@@ -3,6 +3,9 @@
   "name": "Succubus Knight",
   "is_illegal": false,
   "text": "A warrior wizard adept in casting bone-chilling spells.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55291359.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1650,

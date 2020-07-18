@@ -3,6 +3,9 @@
   "name": "Wild Nature\u0027s Release",
   "is_illegal": false,
   "text": "Target 1 Beast or Beast-Warrior-Type monster; it gains ATK equal to its current DEF until the End Phase. During the End Phase, destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61166988.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Uminotaurus",
   "is_illegal": false,
   "text": "If a Fish, Sea Serpent, or Aqua-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30464153.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,

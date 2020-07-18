@@ -3,6 +3,9 @@
   "name": "Lady Panther",
   "is_illegal": false,
   "text": "Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38480590.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

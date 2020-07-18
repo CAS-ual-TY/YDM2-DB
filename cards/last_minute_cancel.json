@@ -3,6 +3,9 @@
   "name": "Last Minute Cancel",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack while you control an Attack Position monster(s): Change all monsters you control to Defense Position. For the rest of this turn after this card resolves, return any face-up \"Performapal\" monster you control that is destroyed by battle or card effect to the hand instead of sending it to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95254840.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

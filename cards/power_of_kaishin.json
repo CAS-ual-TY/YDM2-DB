@@ -3,6 +3,9 @@
   "name": "Power of Kaishin",
   "is_illegal": false,
   "text": "Equip only to an Aqua monster. It gains 300 ATK/DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77027445.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

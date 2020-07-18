@@ -3,6 +3,9 @@
   "name": "Steel Ogre Grotto #2",
   "is_illegal": false,
   "text": "A mechanized iron doll with tremendous strength.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90908427.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

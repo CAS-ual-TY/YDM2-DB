@@ -3,6 +3,9 @@
   "name": "Cyber Shield",
   "is_illegal": false,
   "text": "Equip only to \"Harpie Lady\" or \"Harpie Lady Sisters\". It gains 500 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63224564.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

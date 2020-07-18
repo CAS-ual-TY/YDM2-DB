@@ -3,6 +3,9 @@
   "name": "Catoblepas and the Witch of Fate",
   "is_illegal": false,
   "text": "When your opponent Special Summons a monster(s), you can remove from play 1 monster with ? ATK from your Graveyard to destroy that Special Summoned monster(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54360049.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

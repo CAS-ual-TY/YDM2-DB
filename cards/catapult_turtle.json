@@ -3,6 +3,9 @@
   "name": "Catapult Turtle",
   "is_illegal": false,
   "text": "Once per turn: You can Tribute 1 monster; inflict damage to your opponent equal to half the Tributed monster\u0027s ATK on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95727991.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1000,

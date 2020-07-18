@@ -3,6 +3,9 @@
   "name": "Silent Strider",
   "is_illegal": false,
   "text": "You can send this card from your hand to the Graveyard to reduce the Level of 1 monster on the field by 1, until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18235577.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

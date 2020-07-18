@@ -3,6 +3,9 @@
   "name": "Hate Buster",
   "is_illegal": false,
   "text": "When a Fiend-Type monster you control is targeted for an attack: Target the opponent\u0027s attacking monster and that monster you control; destroy both targets, and if you do, inflict damage to your opponent equal to the original ATK of the opponent\u0027s destroyed monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93895605.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

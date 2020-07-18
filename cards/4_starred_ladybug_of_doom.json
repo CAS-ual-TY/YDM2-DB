@@ -3,6 +3,9 @@
   "name": "4-Starred Ladybug of Doom",
   "is_illegal": false,
   "text": "FLIP: Destroy all Level 4 monsters your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83994646.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 800,

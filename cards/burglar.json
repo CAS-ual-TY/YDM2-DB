@@ -3,6 +3,9 @@
   "name": "Burglar",
   "is_illegal": false,
   "text": "A sly rat. He will come at you with his huge left claw.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6297941.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 850,

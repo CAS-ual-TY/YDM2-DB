@@ -3,6 +3,9 @@
   "name": "Invoked Magellanica",
   "is_illegal": false,
   "text": "\"Aleister the Invoker\" + 1 EARTH monster",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48791583.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3000,

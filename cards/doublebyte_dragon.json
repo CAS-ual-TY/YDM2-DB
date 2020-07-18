@@ -3,6 +3,9 @@
   "name": "Doublebyte Dragon",
   "is_illegal": false,
   "text": "2 Link Monsters\nGains ATK equal to the combined Link Ratings of the monsters used for its Link Summon x 300. Unaffected by monster effects, except Link Monsters\u0027 effects, and cannot be destroyed by battle, except by battle with a Link Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23971061.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

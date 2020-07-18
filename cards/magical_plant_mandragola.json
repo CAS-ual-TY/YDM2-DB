@@ -3,6 +3,9 @@
   "name": "Magical Plant Mandragola",
   "is_illegal": false,
   "text": "FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7802006.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,

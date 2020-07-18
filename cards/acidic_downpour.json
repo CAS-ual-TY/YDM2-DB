@@ -3,6 +3,9 @@
   "name": "Acidic Downpour",
   "is_illegal": false,
   "text": "All EARTH monsters lose 500 ATK and gain 400 DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35956022.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

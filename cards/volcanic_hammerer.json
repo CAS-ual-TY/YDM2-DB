@@ -3,6 +3,9 @@
   "name": "Volcanic Hammerer",
   "is_illegal": false,
   "text": "Once per turn, you can inflict damage to your opponent equal to the number of \"Volcanic\" monsters in your Graveyard x 200. If you activate this effect, this card cannot attack during this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54514594.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2400,

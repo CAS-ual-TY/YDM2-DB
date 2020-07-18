@@ -3,6 +3,9 @@
   "name": "White Dragon Ritual",
   "is_illegal": false,
   "text": "This card is used to Ritual Summon \"Paladin of White Dragon\". You must also Tribute monsters from your hand or field whose total Levels equal 4 or more.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9786492.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Ritual"
 }

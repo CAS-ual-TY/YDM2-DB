@@ -3,6 +3,9 @@
   "name": "The Nordic Lights",
   "is_illegal": false,
   "text": "\"Nordic\" monsters on the field cannot be destroyed by battle. If this card on the field is destroyed: Destroy all \"Nordic\" monsters on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50433147.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

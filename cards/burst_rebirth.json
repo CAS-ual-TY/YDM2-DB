@@ -3,6 +3,9 @@
   "name": "Burst Rebirth",
   "is_illegal": false,
   "text": "Pay 2000 Life Points, then target 1 monster in your Graveyard; Special Summon that target in face-down Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50243722.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

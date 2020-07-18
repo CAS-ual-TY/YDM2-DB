@@ -3,6 +3,9 @@
   "name": "Disappear",
   "is_illegal": false,
   "text": "Remove from play 1 card from your opponent\u0027s Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24623598.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

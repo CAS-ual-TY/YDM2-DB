@@ -3,6 +3,9 @@
   "name": "Avalon",
   "is_illegal": false,
   "text": "Target 5 \"Noble Knight\" monsters in your Graveyard, including at least 1 \"Artorigus\" monster and at least 1 \"Laundsallyn\" monster; banish those targets, and if you do, destroy all cards on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82140600.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

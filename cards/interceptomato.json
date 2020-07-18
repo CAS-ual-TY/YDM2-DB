@@ -3,6 +3,9 @@
   "name": "Interceptomato",
   "is_illegal": false,
   "text": "During your opponent\u0027s turn: You can banish this card from your Graveyard; this turn, any effect damage you take becomes 0 (this is a Quick Effect).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19113101.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

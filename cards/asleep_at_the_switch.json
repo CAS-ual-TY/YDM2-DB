@@ -3,6 +3,9 @@
   "name": "Asleep at the Switch",
   "is_illegal": false,
   "text": "When your opponent gains Life Points: Target 1 monster your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99657399.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

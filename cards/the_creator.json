@@ -3,6 +3,9 @@
   "name": "The Creator",
   "is_illegal": false,
   "text": "Cannot be Special Summoned from the Graveyard. Once per turn: You can target 1 monster in your Graveyard; send 1 card from your hand to the Graveyard, and if you do, Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61505339.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2300,

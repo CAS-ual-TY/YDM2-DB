@@ -3,6 +3,9 @@
   "name": "Shattered Axe",
   "is_illegal": false,
   "text": "Activate this card by targeting 1 face-up monster on the field. During each of your Standby Phases: It loses 500 ATK. When that target is destroyed, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12117532.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

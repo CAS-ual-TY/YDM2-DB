@@ -3,6 +3,9 @@
   "name": "Water Magician",
   "is_illegal": false,
   "text": "This monster swamps an opponent with an almost endless supply of water.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93343894.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,

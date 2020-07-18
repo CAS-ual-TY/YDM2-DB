@@ -3,6 +3,9 @@
   "name": "SPYRAL GEAR - Big Red",
   "is_illegal": false,
   "text": "Activate this card by targeting 1 \"SPYRAL\" monster in your Graveyard; Special Summon it, and if you do, equip this card to it. It cannot be destroyed by battle. You can only activate 1 \"SPYRAL GEAR - Big Red\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30979619.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

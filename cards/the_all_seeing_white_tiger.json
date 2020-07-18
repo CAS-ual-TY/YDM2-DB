@@ -3,6 +3,9 @@
   "name": "The All-Seeing White Tiger",
   "is_illegal": false,
   "text": "A proud ruler of the jungle that some fear and others respect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32269855.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,

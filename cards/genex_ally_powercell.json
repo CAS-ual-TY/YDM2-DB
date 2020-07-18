@@ -3,6 +3,9 @@
   "name": "Genex Ally Powercell",
   "is_illegal": false,
   "text": "Other face-up monsters you control with the same Attribute as this card gain 500 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94622638.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

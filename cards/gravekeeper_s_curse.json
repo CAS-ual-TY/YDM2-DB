@@ -3,6 +3,9 @@
   "name": "Gravekeeper\u0027s Curse",
   "is_illegal": false,
   "text": "If this card is Summoned: Inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50712728.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

@@ -3,6 +3,9 @@
   "name": "Flame Manipulator",
   "is_illegal": false,
   "text": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34460851.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 900,

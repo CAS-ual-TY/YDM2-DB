@@ -3,6 +3,9 @@
   "name": "Xyz Override",
   "is_illegal": false,
   "text": "If an Xyz Monster on the field would activate its effect by detaching its own Xyz Material(s), its controller can banish 1 card from their hand face-down instead of detaching 1 of those Xyz Materials. Each player can only use this effect once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32999573.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

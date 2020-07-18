@@ -3,6 +3,9 @@
   "name": "Flamvell Poun",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can add 1 monster with 200 DEF from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28332833.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 200,

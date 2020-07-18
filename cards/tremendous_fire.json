@@ -3,6 +3,9 @@
   "name": "Tremendous Fire",
   "is_illegal": false,
   "text": "Inflict 1000 points of damage to your opponent\u0027s Life Points and 500 points of damage to your Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46918794.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

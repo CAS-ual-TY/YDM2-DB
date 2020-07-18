@@ -3,6 +3,9 @@
   "name": "Solar Ray",
   "is_illegal": false,
   "text": "Inflict 600 points of damage to your opponent\u0027s Life Points for each face-up LIGHT monster on your side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44472639.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

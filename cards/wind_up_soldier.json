@@ -3,6 +3,9 @@
   "name": "Wind-Up Soldier",
   "is_illegal": false,
   "text": "During your Main Phase: You can increase this card\u0027s Level by 1 and ATK by 400, until the End Phase. This effect can only be used once while this card is face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12299841.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

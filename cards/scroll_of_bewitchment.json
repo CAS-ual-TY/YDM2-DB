@@ -3,6 +3,9 @@
   "name": "Scroll of Bewitchment",
   "is_illegal": false,
   "text": "Select 1 Attribute. Change the Attribute of the equipped monster to the one you select.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10352095.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

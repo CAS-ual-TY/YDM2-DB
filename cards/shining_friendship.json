@@ -3,6 +3,9 @@
   "name": "Shining Friendship",
   "is_illegal": false,
   "text": "The peacemaker among monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82085619.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1300,

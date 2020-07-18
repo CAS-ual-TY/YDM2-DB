@@ -3,6 +3,9 @@
   "name": "Nova Summoner",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 LIGHT Fairy monster with 1500 or less ATK from your Deck. If \"The Sanctuary in the Sky\" is on the field, you can Special Summon 1 \"Airknight Parshath\" instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48783998.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1400,

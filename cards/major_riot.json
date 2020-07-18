@@ -3,6 +3,9 @@
   "name": "Major Riot",
   "is_illegal": false,
   "text": "You can activate this card when 1 or more of your monsters are returned from the field to your hand by your opponent\u0027s effect. Return all Monster Cards on the field to your respective hands. Both you and your opponent then Special Summon from your hand the same number of Monster Cards on the field in face-down Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9074847.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

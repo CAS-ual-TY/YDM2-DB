@@ -3,6 +3,9 @@
   "name": "Chain Destruction",
   "is_illegal": false,
   "text": "When a monster(s) with 2000 or less ATK is Summoned: Target 1 of them; destroy all cards with that name in its controller\u0027s hand and Main Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1248895.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Bio-Mage",
   "is_illegal": false,
   "text": "A mysterious priest created as a result of the latest advances in biotechnology.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58696829.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1150,

@@ -3,6 +3,9 @@
   "name": "Shaddoll Zefracore",
   "is_illegal": false,
   "text": "If this card is Pendulum Summoned or sent to the GY: You can target 1 \"Zefra\" card in your Pendulum Zone, except \"Shaddoll Zefracore\"; Special Summon it. You can only use this effect of \"Shaddoll Zefracore\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95401059.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 450,

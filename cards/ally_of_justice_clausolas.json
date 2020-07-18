@@ -3,6 +3,9 @@
   "name": "Ally of Justice Clausolas",
   "is_illegal": false,
   "text": "A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89386122.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2300,

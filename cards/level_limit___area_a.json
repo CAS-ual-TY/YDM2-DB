@@ -3,6 +3,9 @@
   "name": "Level Limit - Area A",
   "is_illegal": false,
   "text": "Change all face-up Level 3 or lower monsters to Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54976796.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

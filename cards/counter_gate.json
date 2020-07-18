@@ -3,6 +3,9 @@
   "name": "Counter Gate",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares a direct attack: Negate the attack, and if you do, draw 1 card, then if it is a monster, immediately after this effect resolves, you can Normal Summon it in face-up Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94561645.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

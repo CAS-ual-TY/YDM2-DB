@@ -3,6 +3,9 @@
   "name": "Fiber Jar",
   "is_illegal": false,
   "text": "FLIP: Each player shuffles all cards from their hand, field, and Graveyard into the Deck, then draws 5 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78706415.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

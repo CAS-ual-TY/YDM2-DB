@@ -3,6 +3,9 @@
   "name": "Magical Ghost",
   "is_illegal": false,
   "text": "This creature casts a spell of terror and confusion just before attacking its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46474915.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

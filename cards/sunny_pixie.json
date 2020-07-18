@@ -3,6 +3,9 @@
   "name": "Sunny Pixie",
   "is_illegal": false,
   "text": "If this card is sent to the Graveyard for the Synchro Summon of a LIGHT Synchro Monster: Gain 1000 Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73837870.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,

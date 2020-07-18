@@ -3,6 +3,9 @@
   "name": "Fairy\u0027s Gift",
   "is_illegal": false,
   "text": "This flying monster is known for delivering happiness to all.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68401546.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1400,

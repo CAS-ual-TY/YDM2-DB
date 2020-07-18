@@ -3,6 +3,9 @@
   "name": "Leogun",
   "is_illegal": false,
   "text": "Huge monster with a lion\u0027s mane similar to the King of Beasts.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10538007.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1750,

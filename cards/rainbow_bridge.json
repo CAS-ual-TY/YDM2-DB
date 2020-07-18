@@ -3,6 +3,9 @@
   "name": "Rainbow Bridge",
   "is_illegal": false,
   "text": "Add 1 \"Crystal\" Spell/Trap from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63945693.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Mask of Restrict",
   "is_illegal": false,
   "text": "Neither player can Tribute cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29549364.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

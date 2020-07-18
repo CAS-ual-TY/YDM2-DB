@@ -3,6 +3,9 @@
   "name": "Codarus",
   "is_illegal": false,
   "text": "You can send 1 face-up \"Umi\" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65496056.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,

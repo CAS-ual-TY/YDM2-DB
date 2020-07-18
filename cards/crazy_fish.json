@@ -3,6 +3,9 @@
   "name": "Crazy Fish",
   "is_illegal": false,
   "text": "A flying fish that attacks with its pointed head.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53713014.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,

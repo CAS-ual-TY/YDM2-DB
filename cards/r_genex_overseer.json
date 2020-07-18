@@ -3,6 +3,9 @@
   "name": "R-Genex Overseer",
   "is_illegal": false,
   "text": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower \"Genex\" monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32744558.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 200,

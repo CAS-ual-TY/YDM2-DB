@@ -3,6 +3,9 @@
   "name": "Dragunity Legionnaire",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. You can send 1 \"Dragunity\" card from your Spell \u0026 Trap Zone to the GY, then target 1 face-up monster your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54578613.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,

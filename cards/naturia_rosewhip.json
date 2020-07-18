@@ -3,6 +3,9 @@
   "name": "Naturia Rosewhip",
   "is_illegal": false,
   "text": "Your opponent can only activate 1 Spell/Trap Card per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61049315.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,

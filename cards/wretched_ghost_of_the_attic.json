@@ -3,6 +3,9 @@
   "name": "Wretched Ghost of the Attic",
   "is_illegal": false,
   "text": "A harmless monster found lurking in just about any attic.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17238333.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 550,

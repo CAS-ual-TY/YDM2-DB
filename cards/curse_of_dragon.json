@@ -3,6 +3,9 @@
   "name": "Curse of Dragon",
   "is_illegal": false,
   "text": "A wicked dragon that taps into dark forces to execute a powerful attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28279543.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

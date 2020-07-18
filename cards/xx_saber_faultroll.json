@@ -3,6 +3,9 @@
   "name": "XX-Saber Faultroll",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more face-up \"X-Saber\" monsters, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51808422.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,

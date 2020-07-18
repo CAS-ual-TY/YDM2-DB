@@ -3,6 +3,9 @@
   "name": "Hard Armor",
   "is_illegal": false,
   "text": "A living suit of armor that attacks enemies with a bone-jarring tackle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20060230.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

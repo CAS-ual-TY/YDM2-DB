@@ -3,6 +3,9 @@
   "name": "Cyber Shark",
   "is_illegal": false,
   "text": "If you control a WATER monster, you can Normal Summon this card without Tributing.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32393580.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2100,

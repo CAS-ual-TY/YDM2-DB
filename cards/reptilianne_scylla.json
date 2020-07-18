@@ -3,6 +3,9 @@
   "name": "Reptilianne Scylla",
   "is_illegal": false,
   "text": "If this card destroys a monster with 0 ATK by battle, you can Special Summon that monster from the Graveyard to your side of the field in face-up Defense Position. The effect(s) of that monster is negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16909657.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

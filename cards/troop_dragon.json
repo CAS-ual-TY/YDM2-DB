@@ -3,6 +3,9 @@
   "name": "Troop Dragon",
   "is_illegal": false,
   "text": "If this card is destroyed by battle and sent to the GY: Special Summon 1 \"Troop Dragon\" from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55013285.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 700,

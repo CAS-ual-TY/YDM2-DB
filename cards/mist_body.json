@@ -3,6 +3,9 @@
   "name": "Mist Body",
   "is_illegal": false,
   "text": "The equipped monster cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47529357.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

@@ -3,6 +3,9 @@
   "name": "Backup Squad",
   "is_illegal": false,
   "text": "Each time you take 1000 or more damage by your opponent\u0027s card effect or their monster\u0027s attack: Draw 1 card for every 1000 damage you took.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28486799.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

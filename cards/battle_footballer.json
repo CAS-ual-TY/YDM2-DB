@@ -3,6 +3,9 @@
   "name": "Battle Footballer",
   "is_illegal": false,
   "text": "A cyborg with high defense power. Originally it was invented for a football machine.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48094997.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,

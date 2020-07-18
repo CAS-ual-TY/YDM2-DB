@@ -3,6 +3,9 @@
   "name": "Dust Tornado",
   "is_illegal": false,
   "text": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60082869.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

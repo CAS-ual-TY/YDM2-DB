@@ -3,6 +3,9 @@
   "name": "Evo-Price",
   "is_illegal": false,
   "text": "Once per turn, if a monster is Special Summoned by the effect of an \"Evoltile\" monster (except during the Damage Step): You can target 1 card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14154221.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

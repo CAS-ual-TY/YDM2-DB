@@ -3,6 +3,9 @@
   "name": "Arma Knight",
   "is_illegal": false,
   "text": "An ammonite warrior that has protected the seas throughout history.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36151751.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1000,

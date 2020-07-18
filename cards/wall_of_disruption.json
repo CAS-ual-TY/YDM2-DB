@@ -3,6 +3,9 @@
   "name": "Wall of Disruption",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack: All Attack Position monsters your opponent controls lose 800 ATK for each monster they control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58169731.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

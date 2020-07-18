@@ -3,6 +3,9 @@
   "name": "Fiend Kraken",
   "is_illegal": false,
   "text": "A giant squid that drags its enemies to a watery grave.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77456781.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,

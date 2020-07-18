@@ -3,6 +3,9 @@
   "name": "Junk Synchron",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63977008.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

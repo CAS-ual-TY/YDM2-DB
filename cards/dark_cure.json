@@ -3,6 +3,9 @@
   "name": "Dark Cure",
   "is_illegal": false,
   "text": "When your opponent Summons a monster(s), they gain Life Points equal to half the ATK of 1 of the Summoned monsters of your choice.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3701074.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

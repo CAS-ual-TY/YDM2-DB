@@ -3,6 +3,9 @@
   "name": "Memories of Hope",
   "is_illegal": false,
   "text": "Draw cards equal to the number of \"Number\" Xyz Monsters with different names you control. You can only activate 1 \"Memories of Hope\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84731222.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

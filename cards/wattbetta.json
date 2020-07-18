@@ -3,6 +3,9 @@
   "name": "Wattbetta",
   "is_illegal": false,
   "text": "When this card inflicts Battle Damage to your opponent by a direct attack, your opponent discards 1 card of their choice.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18407024.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,

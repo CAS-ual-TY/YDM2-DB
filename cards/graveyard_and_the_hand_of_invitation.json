@@ -3,6 +3,9 @@
   "name": "Graveyard and the Hand of Invitation",
   "is_illegal": false,
   "text": "A graveyard that serves as a power source for zombies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27094595.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,

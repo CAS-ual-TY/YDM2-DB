@@ -3,6 +3,9 @@
   "name": "Winged Cleaver",
   "is_illegal": false,
   "text": "Few can withstand the scythe-like arms of this dangerous creature.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39175982.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

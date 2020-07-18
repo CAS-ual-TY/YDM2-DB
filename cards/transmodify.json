@@ -3,6 +3,9 @@
   "name": "Transmodify",
   "is_illegal": false,
   "text": "Send 1 face-up monster you control to the GY; Special Summon from your Deck, 1 monster with the same Type and Attribute as that monster in the GY, but 1 Level higher. You can only activate 1 \"Transmodify\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5288597.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Machine King - 3000 B.C.",
   "is_illegal": false,
   "text": "Special Summon this card as an Effect Monster (Machine-Type/EARTH/Level 4/ATK 1000/DEF 1000). (This card is also still a Trap Card.) You cannot Normal or Special Summon other monsters the turn you activate this card. Once per turn, during your Main Phase: You can Tribute 1 Machine-Type monster; this card gains ATK equal to the ATK the Tributed monster had on the field, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70406920.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

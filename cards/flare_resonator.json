@@ -3,6 +3,9 @@
   "name": "Flare Resonator",
   "is_illegal": false,
   "text": "A Synchro Monster that used this card as a Synchro Material gains 300 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13708425.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 300,

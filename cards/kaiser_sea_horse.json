@@ -3,6 +3,9 @@
   "name": "Kaiser Sea Horse",
   "is_illegal": false,
   "text": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17444133.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

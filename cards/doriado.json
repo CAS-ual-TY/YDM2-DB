@@ -3,6 +3,9 @@
   "name": "Doriado",
   "is_illegal": false,
   "text": "A spirit of the forest powered by the surrounding trees and wildlife.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84916669.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

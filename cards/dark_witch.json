@@ -3,6 +3,9 @@
   "name": "Dark Witch",
   "is_illegal": false,
   "text": "A popular creature in mythology that delivers fatal attacks with a sharp spear.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35565537.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

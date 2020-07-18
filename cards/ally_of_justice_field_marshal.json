@@ -3,6 +3,9 @@
   "name": "Ally of Justice Field Marshal",
   "is_illegal": false,
   "text": "1 Tuner + 2 or more non-Tuner monsters\nThis card cannot be Special Summoned except by Synchro Summon. When this card attacks a face-down Defense Position monster, destroys it by battle, and sends it to the Graveyard, draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69461394.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2900,

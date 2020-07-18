@@ -3,6 +3,9 @@
   "name": "Monk of the Tenyi",
   "is_illegal": false,
   "text": "1 non-Link \"Tenyi\" monster",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32519092.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

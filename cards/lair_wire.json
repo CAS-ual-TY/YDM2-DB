@@ -3,6 +3,9 @@
   "name": "Lair Wire",
   "is_illegal": false,
   "text": "Remove from play 1 Insect-Type monster from your Graveyard and select 1 monster your opponent controls. Destroy the selected monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81128478.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

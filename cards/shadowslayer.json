@@ -3,6 +3,9 @@
   "name": "Shadowslayer",
   "is_illegal": false,
   "text": "If all monsters your opponent controls are in Defense Position, this card can attack your opponent directly.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20939559.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,

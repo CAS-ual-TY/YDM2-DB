@@ -3,6 +3,9 @@
   "name": "Dark Shade",
   "is_illegal": false,
   "text": "A crystal monster that unleashes a brilliant light to blind enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40196604.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,

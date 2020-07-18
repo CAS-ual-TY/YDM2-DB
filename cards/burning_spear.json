@@ -3,6 +3,9 @@
   "name": "Burning Spear",
   "is_illegal": false,
   "text": "A FIRE monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18937875.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

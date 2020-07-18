@@ -3,6 +3,9 @@
   "name": "Escalation of the Monarchs",
   "is_illegal": false,
   "text": "Once per turn, during your opponent\u0027s Main Phase or your opponent\u0027s Battle Phase, you can: Immediately after this effect resolves, Tribute Summon 1 monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18235309.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

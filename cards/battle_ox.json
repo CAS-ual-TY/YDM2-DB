@@ -3,6 +3,9 @@
   "name": "Battle Ox",
   "is_illegal": false,
   "text": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5053103.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,

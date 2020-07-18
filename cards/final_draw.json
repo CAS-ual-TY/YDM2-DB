@@ -2,5 +2,8 @@
   "id": 300201003,
   "name": "Final Draw",
   "is_illegal": false,
-  "text": "[Activate this Skill during your Main Phase] \n\nOnce per turn, during your turn, you may place a counter on this Skill. If it has 3 or more counters when you would draw a card, you may search your Deck for any card and add it to your hand instead. At the end of the turn you use this Skill, you lose the Duel."
+  "text": "[Activate this Skill during your Main Phase] \n\nOnce per turn, during your turn, you may place a counter on this Skill. If it has 3 or more counters when you would draw a card, you may search your Deck for any card and add it to your hand instead. At the end of the turn you use this Skill, you lose the Duel.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/300201003.jpg"
+  ]
 }

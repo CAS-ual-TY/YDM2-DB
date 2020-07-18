@@ -3,6 +3,9 @@
   "name": "Magicalized Fusion",
   "is_illegal": false,
   "text": "Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY. You can only activate 1 \"Magicalized Fusion\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11827244.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

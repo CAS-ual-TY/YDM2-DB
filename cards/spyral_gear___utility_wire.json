@@ -3,6 +3,9 @@
   "name": "SPYRAL GEAR - Utility Wire",
   "is_illegal": false,
   "text": "If you control \"SPYRAL Super Agent\": Target 1 face-up card your opponent controls; place it on top of the Deck. You can only activate 1 \"SPYRAL GEAR - Utility Wire\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53989821.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

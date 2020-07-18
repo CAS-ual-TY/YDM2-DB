@@ -3,6 +3,9 @@
   "name": "Breakthrough!",
   "is_illegal": false,
   "text": "Select 1 \"Six Samurai\" monster you control. If the selected monster destroys an opponent\u0027s monster by battle, \"Great Shogun Shien\" and all \"Six Samurai\" monsters you control can attack your opponent directly during the Battle Phase of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96218085.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Naturia Beetle",
   "is_illegal": false,
   "text": "Switch the original ATK and DEF of this card each time a Spell Card is activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27762803.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,

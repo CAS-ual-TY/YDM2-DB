@@ -3,6 +3,9 @@
   "name": "Blaze Cannon",
   "is_illegal": false,
   "text": "(This card is always treated as a \"Blaze Accelerator\" card.)\n1 \"The Winged Dragon of Ra\" you control gains these effects until the end of this turn. This card\u0027s activation and effect cannot be negated.\n? Unaffected by your opponent\u0027s card effects.\n? When an attack is declared involving this card: You can Tribute any number of other monsters that did not declare an attack this turn; this card gains ATK equal to the combined original ATK of the Tributed monsters, until the end of this turn.\n? After damage calculation, if this card attacked: You can send all monsters your opponent controls to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4059313.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

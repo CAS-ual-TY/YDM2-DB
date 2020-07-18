@@ -3,6 +3,9 @@
   "name": "Shien\u0027s Spy",
   "is_illegal": false,
   "text": "Select 1 face-up monster you control to activate this card. Give control of the selected monster to your opponent until the End Phase of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7672244.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

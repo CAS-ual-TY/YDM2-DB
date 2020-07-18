@@ -3,6 +3,9 @@
   "name": "Frightfur Whale",
   "is_illegal": false,
   "text": "1 \"Edge Imp\" monster + 1 \"Fluffal\" monster\nIf this card is Fusion Summoned: You can destroy 2 cards (1 on each field). Once per turn (Quick Effect): You can target 1 Fusion Monster you control; send 1 \"Frightfur\" card from your Deck or Extra Deck to the GY, except \"Frightfur Whale\", and if you do, the targeted monster gains ATK equal to half its original ATK until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78778375.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2600,

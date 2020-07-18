@@ -3,6 +3,9 @@
   "name": "Metal Guardian",
   "is_illegal": false,
   "text": "A fiend guarding the treasures of the netherworld, it\u0027s most at home in the dark.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68339286.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1150,

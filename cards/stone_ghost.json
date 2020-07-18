@@ -3,6 +3,9 @@
   "name": "Stone Ghost",
   "is_illegal": false,
   "text": "With a head that erupts when angered, this monster launches a dangerous shower of boulders.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72269672.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

@@ -3,6 +3,9 @@
   "name": "Xiangsheng Magician",
   "is_illegal": false,
   "text": "Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 other face-up monster you control; this card\u0027s ATK becomes equal to that monster\u0027s current ATK, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17086528.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 500,

@@ -3,6 +3,9 @@
   "name": "Larvas",
   "is_illegal": false,
   "text": "A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94675535.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

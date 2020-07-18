@@ -3,6 +3,9 @@
   "name": "Kyoutou Waterfront",
   "is_illegal": false,
   "text": "Each time a card(s) is sent from the field to the GY, place 1 Kaiju Counter on this card for each sent card (max. 5). Once per turn, while 3 or more Kaiju Counters are on this card: You can add 1 \"Kaiju\" monster from your Deck to your hand. If this card would be destroyed by a card effect, you can remove 1 Kaiju Counter from this card instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56111151.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

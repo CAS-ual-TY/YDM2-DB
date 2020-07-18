@@ -3,6 +3,9 @@
   "name": "Des Wombat",
   "is_illegal": false,
   "text": "Any damage to you from a card effect becomes 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9637706.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

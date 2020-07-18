@@ -3,6 +3,9 @@
   "name": "Souten\u0027s Duty",
   "is_illegal": false,
   "text": "During the Main Phase: Banish 1 \"Souten\" Spell/Trap from your GY, except \"Souten\u0027s Duty\"; this card\u0027s effect becomes that Spell/Trap\u0027s effect when that card is activated. You can only activate 1 \"Souten\u0027s Duty\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101102074.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

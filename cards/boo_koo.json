@@ -3,6 +3,9 @@
   "name": "Boo Koo",
   "is_illegal": false,
   "text": "A book-like wizard with a wealth of magic written inside.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68963107.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 650,

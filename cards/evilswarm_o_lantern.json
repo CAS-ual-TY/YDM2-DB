@@ -3,6 +3,9 @@
   "name": "Evilswarm O\u0027lantern",
   "is_illegal": false,
   "text": "You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72429240.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1650,

@@ -3,6 +3,9 @@
   "name": "Performapal Barracuda",
   "is_illegal": false,
   "text": "During either player\u0027s turn: You can target 1 \"Performapal\" monster whose current ATK is different from its original ATK; it gains ATK equal to the difference until the end of this turn. You can only use this effect of \"Performapal Barracuda\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92767273.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

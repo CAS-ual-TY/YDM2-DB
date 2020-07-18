@@ -3,6 +3,9 @@
   "name": "Tenmataitei",
   "is_illegal": false,
   "text": "Your opponent cannot activate cards or effects in response to the activation of any monster effect activated by a monster that was Normal Summoned/Set.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90122655.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

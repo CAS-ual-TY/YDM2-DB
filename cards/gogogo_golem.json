@@ -3,6 +3,9 @@
   "name": "Gogogo Golem",
   "is_illegal": false,
   "text": "Once per turn, this Defense Position card cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62476815.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

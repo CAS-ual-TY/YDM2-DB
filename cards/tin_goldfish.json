@@ -3,6 +3,9 @@
   "name": "Tin Goldfish",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18063928.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

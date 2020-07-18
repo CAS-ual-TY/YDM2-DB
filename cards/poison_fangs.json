@@ -3,6 +3,9 @@
   "name": "Poison Fangs",
   "is_illegal": false,
   "text": "Each time a Beast-Type monster inflicts Battle Damage to your opponent, inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76539047.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Spell Recycler",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack: You can banish this card from your Graveyard, then target 1 Spell Card in your Graveyard; send the top card of your Deck to the Graveyard, and if you do, return the target to the bottom of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45118716.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

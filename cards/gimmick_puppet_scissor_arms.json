@@ -3,6 +3,9 @@
   "name": "Gimmick Puppet Scissor Arms",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can send 1 \"Gimmick Puppet\" monster from your Deck to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29216967.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

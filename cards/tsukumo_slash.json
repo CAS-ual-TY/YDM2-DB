@@ -3,6 +3,9 @@
   "name": "Tsukumo Slash",
   "is_illegal": false,
   "text": "If a monster you control attacks a monster whose ATK is higher than itself during damage calculation: Your battling monster gains ATK equal to the difference between your LP and your opponent\u0027s, during that damage calculation only. You can only activate 1 \"Tsukumo Slash\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25334372.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

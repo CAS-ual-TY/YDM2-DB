@@ -3,6 +3,9 @@
   "name": "Rabidragon",
   "is_illegal": false,
   "text": "It\u0027s a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There\u0027s no way anybody can escape.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95788410.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2950,

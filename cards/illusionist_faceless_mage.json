@@ -3,6 +3,9 @@
   "name": "Illusionist Faceless Mage",
   "is_illegal": false,
   "text": "Manipulates enemy attacks with the power of illusion.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28546905.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

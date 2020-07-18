@@ -3,6 +3,9 @@
   "name": "Gagaga Caesar",
   "is_illegal": false,
   "text": "Cannot attack unless you control another face-up \"Gagaga\" monster. Once per turn: You can banish 1 monster from your Graveyard that has a Level; the Levels of all face-up \"Gagaga\" monsters you currently control become the Level of that monster. This card cannot be used as a Synchro Material Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9583383.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

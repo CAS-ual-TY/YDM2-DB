@@ -3,6 +3,9 @@
   "name": "Armored Starfish",
   "is_illegal": false,
   "text": "A bluish starfish with a solid hide capable of fending off attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17535588.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 850,

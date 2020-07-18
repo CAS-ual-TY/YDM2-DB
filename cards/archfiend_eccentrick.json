@@ -3,6 +3,9 @@
   "name": "Archfiend Eccentrick",
   "is_illegal": false,
   "text": "You can Tribute this card, then target 1 monster on the field; destroy it. You can only use this effect of \"Archfiend Eccentrick\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57624336.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 800,

@@ -3,6 +3,9 @@
   "name": "Spacetime Transcendence",
   "is_illegal": false,
   "text": "Banish 2 or more Dinosaur monsters from your GY; Special Summon 1 Dinosaur monster from your hand or GY whose Level equals the total Levels of those banished monsters, but it cannot attack this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39041729.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

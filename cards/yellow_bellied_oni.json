@@ -3,6 +3,9 @@
   "name": "Yellow-Bellied Oni",
   "is_illegal": false,
   "text": "When you Xyz Summon a monster: You can Special Summon this card from your hand. Once per turn: You can detach 1 Xyz Material from a monster you control, then target 1 face-up Xyz Monster on the field; reduce its Rank by 1, and if you do, it loses 300 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53090623.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

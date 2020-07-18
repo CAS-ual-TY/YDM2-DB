@@ -3,6 +3,9 @@
   "name": "Gaia Knight, the Force of Earth",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97204936.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2600,

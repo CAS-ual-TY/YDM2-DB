@@ -3,6 +3,9 @@
   "name": "Amaterasu",
   "is_illegal": false,
   "text": "Cannot be Normal or Special Summoned. During either player\u0027s turn, when your opponent activates a card or effect that targets this face-down monster: You can change this card to face-up Defense Position; draw 1 card. If this card is flipped face-up: Banish all other cards on the field. Once per turn, during the End Phase, if this card was flipped face-up this turn: Return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20073910.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,

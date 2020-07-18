@@ -3,6 +3,9 @@
   "name": "Element Magician",
   "is_illegal": false,
   "text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ? WATER: Control of this card cannot switch. ? WIND: If this card destroyed your opponent\u0027s monster by battle, it can attack once again in a row.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65260293.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1500,

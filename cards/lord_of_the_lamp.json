@@ -3,6 +3,9 @@
   "name": "Lord of the Lamp",
   "is_illegal": false,
   "text": "This spirit emerges from the mystic lamp and obeys the wishes of its summoner.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99510761.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,

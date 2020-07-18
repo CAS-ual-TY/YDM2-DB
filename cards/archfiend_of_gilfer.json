@@ -3,6 +3,9 @@
   "name": "Archfiend of Gilfer",
   "is_illegal": false,
   "text": "When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50287060.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

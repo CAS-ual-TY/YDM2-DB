@@ -3,6 +3,9 @@
   "name": "Ritual Beast Steeds",
   "is_illegal": false,
   "text": "If you control a \"Ritual Beast\" monster: Destroy monsters on the field up to the number of \"Ritual Beast\" monsters you currently control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11556339.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

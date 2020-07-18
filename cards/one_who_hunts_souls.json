@@ -3,6 +3,9 @@
   "name": "One Who Hunts Souls",
   "is_illegal": false,
   "text": "This dangerous creature brandishes a soul-sucking sword.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3606209.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1100,

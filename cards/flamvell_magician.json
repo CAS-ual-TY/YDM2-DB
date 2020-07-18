@@ -3,6 +3,9 @@
   "name": "Flamvell Magician",
   "is_illegal": false,
   "text": "While you control an \"Ally of Justice\" monster(s), this card gains 400 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95621257.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1400,

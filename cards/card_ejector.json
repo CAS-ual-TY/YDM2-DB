@@ -3,6 +3,9 @@
   "name": "Card Ejector",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 card in your opponent\u0027s Graveyard; banish that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26701483.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,

@@ -3,6 +3,9 @@
   "name": "Magical Musket - Dancing Needle",
   "is_illegal": false,
   "text": "If you control a \"Magical Musket\" monster: Target up to 3 cards in the GYs; banish them. You can only activate 1 \"Magical Musket - Dancing Needle\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66149377.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

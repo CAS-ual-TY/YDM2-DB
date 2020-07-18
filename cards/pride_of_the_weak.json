@@ -3,6 +3,9 @@
   "name": "Pride of the Weak",
   "is_illegal": false,
   "text": "When a Level 2 or lower monster you control destroys an opponent\u0027s monster by battle and sends it to the Graveyard, if you have no cards in your hand, draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86016245.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

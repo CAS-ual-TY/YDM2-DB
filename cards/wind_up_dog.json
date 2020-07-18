@@ -3,6 +3,9 @@
   "name": "Wind-Up Dog",
   "is_illegal": false,
   "text": "During your Main Phase: You can increase this card\u0027s Level by 2 and ATK by 600, until the End Phase. This effect can be used only once while this card is face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12076263.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

@@ -3,6 +3,9 @@
   "name": "Respect Play",
   "is_illegal": false,
   "text": "During their respective turns, each player must show their opponent their hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8951260.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

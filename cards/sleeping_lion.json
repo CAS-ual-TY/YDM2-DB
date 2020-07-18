@@ -3,6 +3,9 @@
   "name": "Sleeping Lion",
   "is_illegal": false,
   "text": "A ferocious animal that sleeps all day. Sometimes it\u0027s better to let Sleeping Lions lie.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40200834.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

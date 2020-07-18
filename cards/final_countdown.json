@@ -3,6 +3,9 @@
   "name": "Final Countdown",
   "is_illegal": false,
   "text": "Pay 2000 Life Points. After 20 turns have passed (counting the turn you activate this card as the 1st turn), you win the Duel.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95308449.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

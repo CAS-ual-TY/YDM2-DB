@@ -3,6 +3,9 @@
   "name": "Jurrac Monoloph",
   "is_illegal": false,
   "text": "This card can attack all monsters your opponent controls once each.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36717258.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Road Warrior",
   "is_illegal": false,
   "text": "\"Road Synchron\" + 2 or more non-Tuner monsters\nOnce per turn: You can Special Summon 1 Level 2 or lower Warrior or Machine-Type monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2322421.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,

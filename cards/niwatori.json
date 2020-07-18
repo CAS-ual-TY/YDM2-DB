@@ -3,6 +3,9 @@
   "name": "Niwatori",
   "is_illegal": false,
   "text": "Swallows enemies whole and uses their essence as energy.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7805359.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

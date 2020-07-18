@@ -3,6 +3,9 @@
   "name": "Prominence Hand",
   "is_illegal": false,
   "text": "If you control a \"Magic Hand\", \"Fire Hand\", or \"Ice Hand\", you can Special Summon this card (from your hand).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21414674.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 600,

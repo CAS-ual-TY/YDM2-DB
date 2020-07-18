@@ -3,6 +3,9 @@
   "name": "Armed Protector Dragon",
   "is_illegal": false,
   "text": "Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29330706.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,

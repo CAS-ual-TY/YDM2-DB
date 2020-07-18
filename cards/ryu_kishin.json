@@ -3,6 +3,9 @@
   "name": "Ryu-Kishin",
   "is_illegal": false,
   "text": "A very elusive creature that looks like a harmless statue until it attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15303296.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

@@ -3,6 +3,9 @@
   "name": "DZW - Chimera Clad",
   "is_illegal": false,
   "text": "You can target 1 \"Number C39\" monster you control; equip this monster from your hand or your side of the field to that target. The equipped monster cannot be destroyed by battle. At the end of the Damage Step, when the equipped monster attacks an opponent\u0027s monster, but the opponent\u0027s monster was not destroyed by the battle: You can make the opponent\u0027s monster\u0027s ATK 0 (even after this card leaves the field or the monster becomes unaffected by card effects), and if you do, the equipped monster can make a second attack on the same monster in a row.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6330307.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

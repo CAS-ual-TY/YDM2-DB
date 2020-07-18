@@ -3,6 +3,9 @@
   "name": "Gadget Soldier",
   "is_illegal": false,
   "text": "A rust-free machine warrior born to battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86281779.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1800,

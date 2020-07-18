@@ -3,6 +3,9 @@
   "name": "Karakuri Muso mdl 818 \"Haipa\"",
   "is_illegal": false,
   "text": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24150026.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2100,

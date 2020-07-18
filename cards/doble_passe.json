@@ -3,6 +3,9 @@
   "name": "Doble Passe",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack on a face-up Attack Position monster you control: Make your opponent\u0027s attack a direct attack instead and inflict damage to your opponent equal to the ATK of the attack target you control. Also, that monster you control can attack your opponent directly during your next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79997591.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

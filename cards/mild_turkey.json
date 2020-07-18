@@ -3,6 +3,9 @@
   "name": "Mild Turkey",
   "is_illegal": false,
   "text": "The taste of victory will bowl you over.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47558785.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,

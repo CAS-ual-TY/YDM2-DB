@@ -3,6 +3,9 @@
   "name": "Tyrant\u0027s Tirade",
   "is_illegal": false,
   "text": "Tribute 2 monsters. Effects of Effect Monsters that activate in the hand or on the field cannot be activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76721030.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Great Angus",
   "is_illegal": false,
   "text": "A very violent beast, it is always berserk. People say that they have never seen it silent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11813953.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1800,

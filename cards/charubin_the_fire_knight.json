@@ -3,6 +3,9 @@
   "name": "Charubin the Fire Knight",
   "is_illegal": false,
   "text": "\"Monster Egg\" + \"Hinotama Soul\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37421579.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1100,

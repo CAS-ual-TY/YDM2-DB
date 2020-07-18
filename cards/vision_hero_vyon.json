@@ -3,6 +3,9 @@
   "name": "Vision HERO Vyon",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can send 1 \"HERO\" monster from your Deck to the GY. You can only use this effect of \"Vision HERO Vyon\" once per turn. Once per turn: You can banish 1 \"HERO\" monster from your GY; add 1 \"Polymerization\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27780618.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

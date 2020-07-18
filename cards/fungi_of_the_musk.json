@@ -3,6 +3,9 @@
   "name": "Fungi of the Musk",
   "is_illegal": false,
   "text": "Melts away anything that dares to stand before it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53830602.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 400,

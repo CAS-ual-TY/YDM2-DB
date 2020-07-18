@@ -3,6 +3,9 @@
   "name": "Parthian Shot",
   "is_illegal": false,
   "text": "At the end of the Battle Phase: It becomes the End Phase of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29185231.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

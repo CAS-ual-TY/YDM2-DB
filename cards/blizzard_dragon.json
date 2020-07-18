@@ -3,6 +3,9 @@
   "name": "Blizzard Dragon",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 monster your opponent controls; it cannot change its battle position or declare an attack until the end of your opponent\u0027s next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61802346.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1800,

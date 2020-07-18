@@ -3,6 +3,9 @@
   "name": "Condolence Puppet",
   "is_illegal": false,
   "text": "Send \"Gimmick Puppet\" monsters with different names from your Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck +1. You can banish this card from your GY, then target 1 Machine Xyz Monster you control; it cannot be destroyed by your opponent\u0027s card effects while face-up on the field. You can only use each effect of \"Condolence Puppet\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57093995.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Susa Soldier",
   "is_illegal": false,
   "text": "This card cannot be Special Summoned. This card returns to the owner\u0027s hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. The Battle Damage this card inflicts to your opponent\u0027s Life Points is halved.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40473581.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

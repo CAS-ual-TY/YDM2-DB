@@ -3,6 +3,9 @@
   "name": "Vortex Trooper",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. If this card is destroyed: Draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7736719.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 0,

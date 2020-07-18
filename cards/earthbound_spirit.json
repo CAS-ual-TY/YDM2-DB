@@ -3,6 +3,9 @@
   "name": "Earthbound Spirit",
   "is_illegal": false,
   "text": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67105242.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

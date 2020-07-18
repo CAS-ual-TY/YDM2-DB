@@ -3,6 +3,9 @@
   "name": "Destiny HERO - Blade Master",
   "is_illegal": false,
   "text": "During your opponent\u0027s Battle Phase: You can discard this card; all face-up \"Destiny HERO\" monsters you control gain 800 ATK until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55461064.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 300,

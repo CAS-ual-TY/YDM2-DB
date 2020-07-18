@@ -3,6 +3,9 @@
   "name": "Sacred Sword of Seven Stars",
   "is_illegal": false,
   "text": "Banish 1 Level 7 monster from your hand or face-up from your side of the field; draw 2 cards. You can only activate 1 \"Sacred Sword of Seven Stars\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45725480.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

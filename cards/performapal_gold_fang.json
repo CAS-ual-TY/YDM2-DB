@@ -3,6 +3,9 @@
   "name": "Performapal Gold Fang",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: All \"Performapal\" monsters you currently control gain 200 ATK until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64207696.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

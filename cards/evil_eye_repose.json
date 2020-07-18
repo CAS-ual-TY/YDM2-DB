@@ -3,6 +3,9 @@
   "name": "Evil Eye Repose",
   "is_illegal": false,
   "text": "When you activate this card: You can banish 1 \"Evil Eye\" card from your GY; draw 1 card. Once per turn, after damage calculation, if your \"Evil Eye\" monster equipped with \"Evil Eye of Selene\" attacked an opponent\u0027s monster: You can banish that opponent\u0027s monster. If this card in the Spell \u0026 Trap Zone is destroyed by card effect: You can target up to 3 of your banished \"Evil Eye\" cards; return them to the GY. You can only activate 1 \"Evil Eye Repose\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79400597.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

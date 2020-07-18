@@ -3,6 +3,9 @@
   "name": "Arlownay",
   "is_illegal": false,
   "text": "A lady monster dwelling in a flower, she sprinkles the air with poisonous pollen.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14708569.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

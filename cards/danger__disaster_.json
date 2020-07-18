@@ -3,6 +3,9 @@
   "name": "Danger! Disaster!",
   "is_illegal": false,
   "text": "When your \"Danger!\" monster is destroyed by battle with an opponent\u0027s monster: You can destroy that opponent\u0027s monster. You can banish 3 \"Danger!\" Spells/Traps with different names from your GY; destroy all cards on the field, also you cannot Special Summon monsters for the rest of this turn, except \"Danger!\" monsters (even if this card leaves the field). You can only use this effect of \"Danger! Disaster!\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23213239.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

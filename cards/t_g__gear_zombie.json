@@ -3,6 +3,9 @@
   "name": "T.G. Gear Zombie",
   "is_illegal": false,
   "text": "You can target 1 \"T.G.\" monster you control; Special Summon this card from your hand, then the targeted monster loses 1000 ATK. You can only use this effect of \"T.G. Gear Zombie\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94350039.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

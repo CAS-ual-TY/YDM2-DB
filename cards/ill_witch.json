@@ -3,6 +3,9 @@
   "name": "Ill Witch",
   "is_illegal": false,
   "text": "This monster blasts enemies with unexpected bursts of wind.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81686058.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,

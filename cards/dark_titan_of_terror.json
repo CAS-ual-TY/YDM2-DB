@@ -3,6 +3,9 @@
   "name": "Dark Titan of Terror",
   "is_illegal": false,
   "text": "A fiend said to dwell in the world of dreams, it attacks enemies in their sleep.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89494469.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

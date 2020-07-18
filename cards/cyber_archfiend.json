@@ -3,6 +3,9 @@
   "name": "Cyber Archfiend",
   "is_illegal": false,
   "text": "At the beginning of your Draw Phase, if you have no cards in your hand, draw 1 more card in addition to your normal draw. During your End Phase, if you have 1 or more card(s) in your hand, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59907935.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

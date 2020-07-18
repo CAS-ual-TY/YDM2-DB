@@ -3,6 +3,9 @@
   "name": "Dinomist Brachion",
   "is_illegal": false,
   "text": "If you do not control \"Dinomist Brachion\" in your Monster Zone and your opponent controls a monster that has the highest ATK on the field (even if it\u0027s tied), you can Special Summon this card (from your hand).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/368382.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2000,

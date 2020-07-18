@@ -3,6 +3,9 @@
   "name": "Performapal Extra Slinger",
   "is_illegal": false,
   "text": "Once per turn: You can banish 1 card from your Extra Deck, then target 1 card in a Pendulum Zone; destroy it, and if you do, inflict 300 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45591967.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

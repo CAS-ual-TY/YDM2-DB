@@ -3,6 +3,9 @@
   "name": "Drop Off",
   "is_illegal": false,
   "text": "When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55773067.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

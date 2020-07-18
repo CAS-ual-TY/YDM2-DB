@@ -3,6 +3,9 @@
   "name": "Haniwa",
   "is_illegal": false,
   "text": "An earthen figure that protects the tomb of an ancient ruler.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84285623.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

@@ -3,6 +3,9 @@
   "name": "Twin Long Rods #2",
   "is_illegal": false,
   "text": "An amphibious creature with two whip-like tails.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29692206.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 850,

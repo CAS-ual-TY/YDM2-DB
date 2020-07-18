@@ -3,6 +3,9 @@
   "name": "Whirlwind Prodigy",
   "is_illegal": false,
   "text": "When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15090429.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,

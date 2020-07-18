@@ -3,6 +3,9 @@
   "name": "Emblem of the Awakening",
   "is_illegal": false,
   "text": "This card is used to Ritual Summon \"Cu Chulainn the Awakened\". You must also Tribute monsters whose total Levels equal 4 or more from the field or your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9845733.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Ritual"
 }

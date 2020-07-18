@@ -3,6 +3,9 @@
   "name": "Deal of Phantom",
   "is_illegal": false,
   "text": "Select 1 face-up monster on the field. Increase the selected monster\u0027s ATK by 100 points for each monster in your Graveyard during the turn this card is activated. The number of monsters is applied when this card is activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69122763.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

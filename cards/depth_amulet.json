@@ -3,6 +3,9 @@
   "name": "Depth Amulet",
   "is_illegal": false,
   "text": "When your opponent\u0027s monster declares an attack, you can discard 1 card to negate the attack. Destroy this card during your opponent\u0027s 3rd End Phase after activation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8279188.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Renge, Gatekeeper of Dark World",
   "is_illegal": false,
   "text": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60606759.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,

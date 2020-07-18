@@ -3,6 +3,9 @@
   "name": "Hard-sellin\u0027 Goblin",
   "is_illegal": false,
   "text": "Each time a monster you control inflicts Battle Damage to your opponent, return 1 card in your opponent\u0027s Spell \u0026 Trap Card Zone to its owner\u0027s hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68875140.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

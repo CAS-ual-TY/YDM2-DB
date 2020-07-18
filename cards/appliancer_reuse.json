@@ -3,6 +3,9 @@
   "name": "Appliancer Reuse",
   "is_illegal": false,
   "text": "Target 1 \"Appliancer\" monster in your GY; Special Summon it, but place it on the bottom of the Deck when it leaves the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30996652.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

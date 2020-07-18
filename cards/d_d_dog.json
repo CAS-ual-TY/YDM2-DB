@@ -3,6 +3,9 @@
   "name": "D/D Dog",
   "is_illegal": false,
   "text": "Once per turn, if your opponent Special Summons a Fusion, Synchro, or Xyz Monster(s): You can target 1 of those monsters; this turn, that face-up monster cannot attack, also its effects are negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32349062.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

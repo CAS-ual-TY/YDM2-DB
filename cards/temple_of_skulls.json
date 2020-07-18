@@ -3,6 +3,9 @@
   "name": "Temple of Skulls",
   "is_illegal": false,
   "text": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/732302.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 900,

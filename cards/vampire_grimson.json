@@ -3,6 +3,9 @@
   "name": "Vampire Grimson",
   "is_illegal": false,
   "text": "If a monster(s) you control would be destroyed by battle or an opponent\u0027s card effect, you can pay 1000 LP for each monster that would be destroyed, instead (you must protect all your monsters that would be destroyed, if you use this effect). At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33438666.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

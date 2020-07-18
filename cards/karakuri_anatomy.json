@@ -3,6 +3,9 @@
   "name": "Karakuri Anatomy",
   "is_illegal": false,
   "text": "Each time a \"Karakuri\" monster\u0027s battle position is changed, place 1 Karakuri Counter on this card (max. 2). You can send this card from the field to the Graveyard to draw 1 card for each Karakuri Counter on this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85541675.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Watthopper",
   "is_illegal": false,
   "text": "Your opponent cannot select another face-up \"Watt\" monster as an attack target, or target them with card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61380658.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

@@ -3,6 +3,9 @@
   "name": "Sand Moth",
   "is_illegal": false,
   "text": "When this face-down Defense Position card is destroyed and sent to the Graveyard, except by battle, switch the original ATK and DEF of this card and Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73648243.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

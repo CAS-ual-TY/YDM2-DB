@@ -3,6 +3,9 @@
   "name": "Metamorphosed Insect Queen",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If another Insect monster is on the field, your opponent cannot target Insect monsters you control with card effects, also they cannot be destroyed by your opponent\u0027s card effects. At the end of the Damage Step, if this card attacked: You can Tribute 1 monster; this card can attack an opponent\u0027s monster again in a row. Once per turn, during the End Phase: You can Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41456841.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2800,

@@ -3,6 +3,9 @@
   "name": "White-Horned Dragon",
   "is_illegal": false,
   "text": "When this card is Normal or Special Summoned: Target up to 5 Spell Cards in your opponent\u0027s Graveyard; banish those target(s), and if you do, this card gains 300 ATK for each card banished by this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73891874.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

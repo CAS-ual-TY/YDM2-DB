@@ -3,6 +3,9 @@
   "name": "Volcanic Blaster",
   "is_illegal": false,
   "text": "When this card is destroyed and sent to the Graveyard by battle, you can place 1 \"Volcanic\" monster in your Deck on top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81020140.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1200,

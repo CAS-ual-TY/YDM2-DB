@@ -3,6 +3,9 @@
   "name": "Nin-Ken Dog",
   "is_illegal": false,
   "text": "A Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11987744.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

@@ -3,6 +3,9 @@
   "name": "Monster Reincarnation",
   "is_illegal": false,
   "text": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74848038.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

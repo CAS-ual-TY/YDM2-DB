@@ -3,6 +3,9 @@
   "name": "Human-Wave Tactics",
   "is_illegal": false,
   "text": "During the End Phase of each turn, select a number of Level 2 or lower Normal Monsters from your Deck equal to the number of your Level 2 or lower Normal Monsters destroyed as a result of battle during that turn, and Special Summon them to your side of the field. The Deck is then shuffled.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30353551.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Guardragon Corewakening",
   "is_illegal": false,
   "text": "You can send 1 Effect Monster from your hand to the GY; Special Summon 1 Level 4 or lower Dragon Normal Monster from your hand, Deck, or GY, in Defense Position. You can only use this effect of \"Guardragon Corewakening\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11908584.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

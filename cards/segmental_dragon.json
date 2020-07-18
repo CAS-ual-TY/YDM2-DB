@@ -3,6 +3,9 @@
   "name": "Segmental Dragon",
   "is_illegal": false,
   "text": "You can Normal Summon/Set this card without Tributing, but its original ATK/DEF becomes halved. Once per turn, if this Normal Summoned/Set card is on the field (Quick Effect): You can destroy this face-up card, and if you do, destroy all monsters in the Main Monster Zones with ATK less than or equal to the ATK this card had on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15066114.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2600,

@@ -3,6 +3,9 @@
   "name": "Time Wizard",
   "is_illegal": false,
   "text": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71625222.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 500,

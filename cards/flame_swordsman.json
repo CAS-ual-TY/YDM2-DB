@@ -3,6 +3,10 @@
   "name": "Flame Swordsman",
   "is_illegal": false,
   "text": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45231177.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45231178.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1800,

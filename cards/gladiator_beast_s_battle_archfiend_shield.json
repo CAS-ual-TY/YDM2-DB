@@ -3,6 +3,9 @@
   "name": "Gladiator Beast\u0027s Battle Archfiend Shield",
   "is_illegal": false,
   "text": "Equip only to a \"Gladiator Beast\" monster. If the equipped monster would be destroyed, destroy this card instead. When this card is sent to your Graveyard because the equipped monster you controlled was shuffled into your Deck: Return this card to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8730435.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

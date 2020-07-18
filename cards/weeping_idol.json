@@ -3,6 +3,9 @@
   "name": "Weeping Idol",
   "is_illegal": false,
   "text": "You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5763020.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

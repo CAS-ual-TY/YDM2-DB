@@ -3,6 +3,9 @@
   "name": "Darkworld Thorns",
   "is_illegal": false,
   "text": "A thorny plant found in the darklands that wraps itself around any unwary traveler.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43500484.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

@@ -3,6 +3,9 @@
   "name": "Des Frog",
   "is_illegal": false,
   "text": "When this card is Tribute Summoned, you can Special Summon \"Des Frog\"(s) from your hand or Deck up to the number of \"T.A.D.P.O.L.E.\"(s) in your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84451804.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1900,

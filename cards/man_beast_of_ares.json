@@ -3,6 +3,9 @@
   "name": "Man Beast of Ares",
   "is_illegal": false,
   "text": "After a Chain (of 2 or more Links) resolves, this card gains 500 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71395725.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

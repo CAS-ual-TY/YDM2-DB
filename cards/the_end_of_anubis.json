@@ -3,6 +3,9 @@
   "name": "The End of Anubis",
   "is_illegal": false,
   "text": "While this card is face-up on the field, all effects of Spell, Trap, and Monster Cards that target a card(s) in the Graveyard or that activate in the Graveyard are negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65403020.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,

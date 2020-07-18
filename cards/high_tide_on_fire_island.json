@@ -3,6 +3,9 @@
   "name": "High Tide on Fire Island",
   "is_illegal": false,
   "text": "If you control a Level 7 or higher WATER or FIRE monster: Apply the appropriate effects, in sequence, depending on the Attributes of monsters you control at that time.\n? WATER: Special Summon as many WATER monsters as possible that were sent to your Graveyard to activate monster effects this turn, then destroy 1 monster you control.\n? FIRE: Destroy 1 monster on the field, then if you have any cards in your hand, discard 1 card to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32542011.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

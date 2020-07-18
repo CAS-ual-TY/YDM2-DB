@@ -3,6 +3,9 @@
   "name": "Senet Switch",
   "is_illegal": false,
   "text": "Once per turn, during your Main Phase, you can move 1 monster on your side of the field to an adjacent (horizontal) unoccupied Monster Card Zone.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63394872.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

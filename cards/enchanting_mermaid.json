@@ -3,6 +3,9 @@
   "name": "Enchanting Mermaid",
   "is_illegal": false,
   "text": "A beautiful mermaid that lures voyagers to a watery grave.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75376965.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,

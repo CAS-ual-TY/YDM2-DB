@@ -3,6 +3,9 @@
   "name": "Igknight Gallant",
   "is_illegal": false,
   "text": "A leader of the most dashing Igknight commando unit. His greatest challenge is keeping the hot tempers of his men under control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96802306.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2100,

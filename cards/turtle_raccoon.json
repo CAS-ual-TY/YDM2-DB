@@ -3,6 +3,9 @@
   "name": "Turtle Raccoon",
   "is_illegal": false,
   "text": "A cunning raccoon protected by a solid turtle shell, it attacks with deception.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17441953.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 700,

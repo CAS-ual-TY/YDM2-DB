@@ -3,6 +3,9 @@
   "name": "Great Spirit",
   "is_illegal": false,
   "text": "Once per turn, during your Main Phase, you can flip this card into face-down Defense Position. When this card is Flip Summoned, you can switch the original ATK and DEF of 1 face-up EARTH monster on the field until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92736188.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

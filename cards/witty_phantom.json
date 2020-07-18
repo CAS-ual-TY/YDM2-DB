@@ -3,6 +3,9 @@
   "name": "Witty Phantom",
   "is_illegal": false,
   "text": "Dressed in a night-black tuxedo, this creature presides over the darkness.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36304921.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,

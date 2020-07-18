@@ -3,6 +3,9 @@
   "name": "Gorgonic Gargoyle",
   "is_illegal": false,
   "text": "When you Normal Summon a Rock-Type monster: You can Special Summon this card from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64379261.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

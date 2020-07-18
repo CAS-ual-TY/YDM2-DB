@@ -3,6 +3,9 @@
   "name": "Lightwave Tuning",
   "is_illegal": false,
   "text": "Select 1 Level 4 LIGHT monster you control. It is treated as a Tuner monster while it is face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78845026.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

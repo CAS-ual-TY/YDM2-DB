@@ -3,6 +3,9 @@
   "name": "Abyssal Kingshark",
   "is_illegal": false,
   "text": "Once per turn, if this card would be destroyed by an effect that does not target it, it is not destroyed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44223284.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,

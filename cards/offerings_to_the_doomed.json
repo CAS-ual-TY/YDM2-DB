@@ -3,6 +3,10 @@
   "name": "Offerings to the Doomed",
   "is_illegal": false,
   "text": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19230408.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19230407.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

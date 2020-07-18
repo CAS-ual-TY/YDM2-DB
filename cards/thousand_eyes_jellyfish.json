@@ -3,6 +3,9 @@
   "name": "Thousand-Eyes Jellyfish",
   "is_illegal": false,
   "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Ocean\u0027s Keeper\". Your opponent must play with their hand revealed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81434470.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 300,

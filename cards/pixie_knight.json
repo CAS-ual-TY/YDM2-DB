@@ -3,6 +3,9 @@
   "name": "Pixie Knight",
   "is_illegal": false,
   "text": "When this card is sent to the Graveyard as a result of battle, your opponent selects 1 Spell Card from your Graveyard, and places that card on the top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35429292.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1300,

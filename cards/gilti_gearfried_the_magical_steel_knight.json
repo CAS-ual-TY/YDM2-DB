@@ -3,6 +3,9 @@
   "name": "Gilti-Gearfried the Magical Steel Knight",
   "is_illegal": false,
   "text": "2 Warrior monsters with different Attributes\nOnce per turn, when a card or effect is activated that targets this card (Quick Effect): You can negate that effect, and if you do, destroy 1 card on the field. This card that was Fusion Summoned using only monsters on the field as material can make a second attack during each Battle Phase. Once per turn, during damage calculation, if this card battles an opponent\u0027s monster (Quick Effect): You can banish 1 Spell from your GY; this card gains ATK equal to half its DEF until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49161188.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2700,

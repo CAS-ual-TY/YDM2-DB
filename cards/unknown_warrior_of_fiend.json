@@ -3,6 +3,9 @@
   "name": "Unknown Warrior of Fiend",
   "is_illegal": false,
   "text": "The speed of this warrior creates an intense vacuum that can slice through a monster\u0027s hide.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97360116.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

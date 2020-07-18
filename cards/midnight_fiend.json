@@ -3,6 +3,9 @@
   "name": "Midnight Fiend",
   "is_illegal": false,
   "text": "This monster only appears when a midnight tribute is made.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83678433.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

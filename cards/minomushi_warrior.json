@@ -3,6 +3,9 @@
   "name": "Minomushi Warrior",
   "is_illegal": false,
   "text": "A rock warrior that wields a heavy blade carved from stone.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46864967.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,

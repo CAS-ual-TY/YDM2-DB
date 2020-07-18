@@ -3,6 +3,9 @@
   "name": "Blast Asmodian",
   "is_illegal": false,
   "text": "If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11685347.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,

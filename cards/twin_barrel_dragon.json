@@ -3,6 +3,9 @@
   "name": "Twin-Barrel Dragon",
   "is_illegal": false,
   "text": "When this card is Summoned: Target 1 card your opponent controls; toss a coin twice, and if the result is 2 Heads, destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70050374.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

@@ -3,6 +3,9 @@
   "name": "Turtle Bird",
   "is_illegal": false,
   "text": "An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72929454.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1900,

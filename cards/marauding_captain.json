@@ -3,6 +3,9 @@
   "name": "Marauding Captain",
   "is_illegal": false,
   "text": "Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2460565.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

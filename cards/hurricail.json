@@ -3,6 +3,9 @@
   "name": "Hurricail",
   "is_illegal": false,
   "text": "A tornado that ravages the wastelands with sharp winds that can cut to the bone.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15042735.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 900,

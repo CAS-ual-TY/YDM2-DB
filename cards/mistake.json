@@ -3,6 +3,9 @@
   "name": "Mistake",
   "is_illegal": false,
   "text": "Neither player can add cards from their Deck to their hand except by drawing them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59305593.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

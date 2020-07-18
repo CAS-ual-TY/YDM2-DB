@@ -3,6 +3,9 @@
   "name": "Shield \u0026 Sword",
   "is_illegal": false,
   "text": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52097679.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

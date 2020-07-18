@@ -3,6 +3,9 @@
   "name": "Needle Sunfish",
   "is_illegal": false,
   "text": "When this card is sent to the Graveyard: Target 1 face-up monster your opponent controls; that target loses 500 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56223084.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

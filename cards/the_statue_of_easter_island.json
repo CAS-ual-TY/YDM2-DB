@@ -3,6 +3,9 @@
   "name": "The Statue of Easter Island",
   "is_illegal": false,
   "text": "A stone monument from Easter Island that launches laser blasts from its rock-hewn lips.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10262698.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1100,

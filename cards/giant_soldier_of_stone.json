@@ -3,6 +3,9 @@
   "name": "Giant Soldier of Stone",
   "is_illegal": false,
   "text": "A giant warrior made of stone. A punch from this creature has earth-shaking results.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13039848.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,

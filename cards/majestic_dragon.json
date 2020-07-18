@@ -3,6 +3,9 @@
   "name": "Majestic Dragon",
   "is_illegal": false,
   "text": "Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Majestic\" monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21159309.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

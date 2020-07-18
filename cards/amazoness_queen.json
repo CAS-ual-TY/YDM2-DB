@@ -3,6 +3,9 @@
   "name": "Amazoness Queen",
   "is_illegal": false,
   "text": "\"Amazoness\" monsters you control cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15951532.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,

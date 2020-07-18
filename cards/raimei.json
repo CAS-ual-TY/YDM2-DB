@@ -3,6 +3,9 @@
   "name": "Raimei",
   "is_illegal": false,
   "text": "Decrease your opponent\u0027s Life Points by 300 points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56260110.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

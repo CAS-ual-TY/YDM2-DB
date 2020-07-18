@@ -3,6 +3,9 @@
   "name": "Dark Sage",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 \"Dark Magician\" immediately after applying the effect of \"Time Wizard\" in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92377303.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2800,

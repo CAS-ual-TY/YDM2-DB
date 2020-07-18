@@ -3,6 +3,9 @@
   "name": "Eyearmor",
   "is_illegal": false,
   "text": "This warrior transforms into various creatures to confuse enemies in battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64511793.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 600,

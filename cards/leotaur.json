@@ -3,6 +3,9 @@
   "name": "Leotaur",
   "is_illegal": false,
   "text": "If this card battles a non-Normal Monster, this card gains 500 ATK during the Damage Step only.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98225108.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

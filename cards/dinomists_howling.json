@@ -3,6 +3,9 @@
   "name": "Dinomists Howling",
   "is_illegal": false,
   "text": "When this card is activated: You can place 1 or 2 \"Dinomist\" Pendulum Monster(s) from your Deck in your Pendulum Zone, but you cannot Pendulum Summon monsters until the end of the next turn, except \"Dinomist\" monsters (even if this card leaves the field). Once per turn, if this card is already face-up in your Spell \u0026 Trap Zone: You can Tribute 1 \"Dinomist\" monster, then target 1 card your opponent controls; return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60675348.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

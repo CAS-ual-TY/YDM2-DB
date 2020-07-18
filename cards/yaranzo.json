@@ -3,6 +3,9 @@
   "name": "Yaranzo",
   "is_illegal": false,
   "text": "A treasure box containing a monster that attacks any unwary bandit.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71280811.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

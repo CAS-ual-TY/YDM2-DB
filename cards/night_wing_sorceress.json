@@ -3,6 +3,9 @@
   "name": "Night Wing Sorceress",
   "is_illegal": false,
   "text": "You can activate \"Assault Mode Activate\" the turn it is Set.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49826746.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,

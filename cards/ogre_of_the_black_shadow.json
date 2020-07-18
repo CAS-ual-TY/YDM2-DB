@@ -3,6 +3,9 @@
   "name": "Ogre of the Black Shadow",
   "is_illegal": false,
   "text": "An ogre possessed by the powers of the dark. Few can withstand its rapid charge.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45121025.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

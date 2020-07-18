@@ -3,6 +3,9 @@
   "name": "Parasitic Ticky",
   "is_illegal": false,
   "text": "The ATK and DEF of this card are each equal to the number of tokens on the field x 500.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87978805.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

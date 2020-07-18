@@ -3,6 +3,9 @@
   "name": "Zombino",
   "is_illegal": false,
   "text": "The two are so close\nThey die and return to life\nInseparable",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14575467.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

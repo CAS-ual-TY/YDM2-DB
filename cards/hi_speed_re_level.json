@@ -3,6 +3,9 @@
   "name": "Hi-Speed Re-Level",
   "is_illegal": false,
   "text": "Banish 1 \"Speedroid\" monster from your Graveyard, then target 1 Synchro Monster you control; until the end of this turn, change its Level to the banished monster\u0027s Level, and it gains ATK equal to that monster\u0027s Level x 500.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15555120.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

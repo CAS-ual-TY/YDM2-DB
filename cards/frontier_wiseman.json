@@ -3,6 +3,9 @@
   "name": "Frontier Wiseman",
   "is_illegal": false,
   "text": "Negate any Spell effects that target a Warrior-Type monster you control, and if you do, destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38742075.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

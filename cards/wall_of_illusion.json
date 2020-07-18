@@ -3,6 +3,9 @@
   "name": "Wall of Illusion",
   "is_illegal": false,
   "text": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13945283.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

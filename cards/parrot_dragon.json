@@ -3,6 +3,9 @@
   "name": "Parrot Dragon",
   "is_illegal": false,
   "text": "A dragon from the cartoons that\u0027s more dangerous than it appears to be.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62762898.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,

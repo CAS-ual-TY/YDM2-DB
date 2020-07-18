@@ -3,6 +3,9 @@
   "name": "Skull Meister",
   "is_illegal": false,
   "text": "When a card effect is activated in your opponent\u0027s GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67750322.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

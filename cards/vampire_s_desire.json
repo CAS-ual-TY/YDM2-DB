@@ -3,6 +3,9 @@
   "name": "Vampire\u0027s Desire",
   "is_illegal": false,
   "text": "Activate 1 of these effects.\n? Target 1 face-up monster you control; send 1 \"Vampire\" monster from your Deck to the GY with a different Level from that monster, and if you do, the targeted monster becomes the Level of that sent monster in the GY, until the end of this turn.\n? Target 1 \"Vampire\" monster in your GY; send 1 monster you control to the GY, and if you do, Special Summon the targeted monster.\nYou can only activate 1 \"Vampire\u0027s Desire\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69700783.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

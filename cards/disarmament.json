@@ -3,6 +3,9 @@
   "name": "Disarmament",
   "is_illegal": false,
   "text": "Destroy all Equip Cards on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20727787.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

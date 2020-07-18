@@ -3,6 +3,9 @@
   "name": "Quiet Life",
   "is_illegal": false,
   "text": "Activate this card at the start of your Main Phase 1, if you control no monsters. If any player Normal Summons/Sets a monster, that player cannot Special Summon that turn. If any player Special Summons a monster, that player cannot Normal Summon/Set that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31980955.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

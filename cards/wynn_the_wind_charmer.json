@@ -3,6 +3,9 @@
   "name": "Wynn the Wind Charmer",
   "is_illegal": false,
   "text": "FLIP: While this card is face-up on the field, take control of 1 WIND monster your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37744402.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 500,

@@ -3,6 +3,9 @@
   "name": "Phantom of Chaos",
   "is_illegal": false,
   "text": "Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 Effect Monster in your GY; banish that target, and if you do, until the End Phase, this card\u0027s name and original ATK become that monster\u0027s name and original ATK, and replace this effect with that monster\u0027s original effects. You must control this face-up card to activate and to resolve this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30312361.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

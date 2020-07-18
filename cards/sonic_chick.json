@@ -3,6 +3,9 @@
   "name": "Sonic Chick",
   "is_illegal": false,
   "text": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36472900.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

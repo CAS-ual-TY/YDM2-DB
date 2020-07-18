@@ -3,6 +3,9 @@
   "name": "Stygian Dirge",
   "is_illegal": false,
   "text": "Reduce the Levels of all monsters your opponent controls by 1.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81489939.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

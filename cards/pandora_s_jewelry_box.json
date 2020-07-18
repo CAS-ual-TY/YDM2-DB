@@ -3,6 +3,9 @@
   "name": "Pandora\u0027s Jewelry Box",
   "is_illegal": false,
   "text": "While you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15936370.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

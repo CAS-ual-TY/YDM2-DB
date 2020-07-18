@@ -3,6 +3,9 @@
   "name": "Dizzying Winds of Yosen Village",
   "is_illegal": false,
   "text": "Activate this card only if you control a Level 6 or higher \"Yosenju\" monster. While you have a \"Yosenju\" card in your Pendulum Zone, if a monster would be returned from the field to the hand by a card effect, shuffle it into the Deck instead, unless it is a \"Yosenju\" monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62681049.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

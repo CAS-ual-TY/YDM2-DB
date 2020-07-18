@@ -3,6 +3,9 @@
   "name": "Dark Crusader",
   "is_illegal": false,
   "text": "You can send 1 DARK monster from your hand to the Graveyard; this card gains 400 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91596726.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

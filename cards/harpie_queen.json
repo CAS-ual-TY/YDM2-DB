@@ -3,6 +3,9 @@
   "name": "Harpie Queen",
   "is_illegal": false,
   "text": "This card\u0027s name becomes \"Harpie Lady\" while on the field or in the GY. You can discard this card to the GY; add 1 \"Harpies\u0027 Hunting Ground\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75064463.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1900,

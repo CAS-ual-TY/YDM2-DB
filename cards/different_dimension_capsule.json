@@ -3,6 +3,9 @@
   "name": "Different Dimension Capsule",
   "is_illegal": false,
   "text": "Select 1 card from your Deck and remove it from play face-down. During your 2nd Standby Phase after activation, destroy this card and add the removed card to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11961740.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Unicycular",
   "is_illegal": false,
   "text": "The third of the brothers, following Tricular and Bicular.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57308711.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 100,

@@ -3,6 +3,9 @@
   "name": "Sonic Duck",
   "is_illegal": false,
   "text": "A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84696266.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,

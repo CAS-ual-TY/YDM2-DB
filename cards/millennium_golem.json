@@ -3,6 +3,9 @@
   "name": "Millennium Golem",
   "is_illegal": false,
   "text": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47986555.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

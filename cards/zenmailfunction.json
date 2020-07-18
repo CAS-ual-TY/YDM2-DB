@@ -3,6 +3,9 @@
   "name": "Zenmailfunction",
   "is_illegal": false,
   "text": "Target 1 \"Wind-Up\" monster in your Graveyard; Special Summon it in face-up Defense Position. Its effect(s) is negated, and it cannot be Tributed or used as a Synchro Material Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61011311.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

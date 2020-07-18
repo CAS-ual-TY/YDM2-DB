@@ -3,6 +3,9 @@
   "name": "Fairy Guardian",
   "is_illegal": false,
   "text": "Tribute this face-up card to return 1 Spell Card sent to your Graveyard by your opponent\u0027s card effect during this turn to the bottom of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22419772.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,

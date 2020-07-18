@@ -3,6 +3,9 @@
   "name": "Faith Bird",
   "is_illegal": false,
   "text": "This long-tailed bird blinds its enemies with mystical light.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75582395.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,

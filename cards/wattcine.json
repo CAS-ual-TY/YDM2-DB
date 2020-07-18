@@ -3,6 +3,9 @@
   "name": "Wattcine",
   "is_illegal": false,
   "text": "When a Thunder-Type monster you control inflicts Battle Damage to your opponent, gain Life Points equal to the damage inflicted.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1834107.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

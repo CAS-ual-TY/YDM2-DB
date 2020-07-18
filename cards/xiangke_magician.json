@@ -3,6 +3,9 @@
   "name": "Xiangke Magician",
   "is_illegal": false,
   "text": "Once per turn, during either player\u0027s turn: You can target 1 LIGHT monster on the field; that face-up monster has its effects negated until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71692913.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,

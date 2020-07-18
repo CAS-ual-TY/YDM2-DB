@@ -3,6 +3,9 @@
   "name": "Blade Rabbit",
   "is_illegal": false,
   "text": "When this card is changed from Attack Position to face-up Defense Position, destroy 1 monster on your opponent\u0027s side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58268433.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,

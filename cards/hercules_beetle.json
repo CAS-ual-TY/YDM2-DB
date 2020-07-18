@@ -3,6 +3,9 @@
   "name": "Hercules Beetle",
   "is_illegal": false,
   "text": "A massive beetle with a tough carapace and a dangerous horn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52584282.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

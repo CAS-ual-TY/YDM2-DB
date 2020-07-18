@@ -3,6 +3,9 @@
   "name": "Hydrotortoise, the Empowered Warrior",
   "is_illegal": false,
   "text": "FLIP: Target 1 Spell/Trap Card your opponent controls; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82176812.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,

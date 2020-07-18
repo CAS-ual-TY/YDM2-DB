@@ -3,6 +3,9 @@
   "name": "Malefic Selector",
   "is_illegal": false,
   "text": "Banish 2 \"Malefic\" cards from your GY; add 2 \"Malefic\" cards from your Deck to your hand, except \"Malefic Selector\", with different names from each other and from the banished cards. You can only activate 1 \"Malefic Selector\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18378992.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

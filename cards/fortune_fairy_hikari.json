@@ -3,6 +3,9 @@
   "name": "Fortune Fairy Hikari",
   "is_illegal": false,
   "text": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 monster you control; send it to the GY, and if you do, Special Summon 1 Level 1 Spellcaster monster from your Deck. You can only use each effect of \"Fortune Fairy Hikari\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6311717.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

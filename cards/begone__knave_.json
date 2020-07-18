@@ -3,6 +3,9 @@
   "name": "Begone, Knave!",
   "is_illegal": false,
   "text": "If a monster inflicts battle damage to a player: Return that monster to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20374520.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

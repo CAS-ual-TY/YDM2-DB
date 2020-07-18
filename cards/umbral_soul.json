@@ -3,6 +3,9 @@
   "name": "Umbral Soul",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-DARK monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86229493.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

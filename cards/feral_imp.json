@@ -3,6 +3,9 @@
   "name": "Feral Imp",
   "is_illegal": false,
   "text": "A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41392891.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

@@ -3,6 +3,9 @@
   "name": "Re: EX",
   "is_illegal": false,
   "text": "If this card battles a monster in the Extra Monster Zone, it gains 800 ATK and DEF during the Damage Step only.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18000338.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1900,

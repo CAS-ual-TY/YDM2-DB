@@ -3,6 +3,9 @@
   "name": "Reflect Bounder",
   "is_illegal": false,
   "text": "Before damage calculation, if this card is being attacked by an opponent\u0027s monster, and was in face-up Attack Position at the start of the Damage Step: Inflict damage to your opponent equal to the attacking monster\u0027s ATK. If you do, after damage calculation: Destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2851070.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

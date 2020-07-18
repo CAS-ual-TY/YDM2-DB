@@ -3,6 +3,9 @@
   "name": "Lancephorhynchus",
   "is_illegal": false,
   "text": "This primordial species survived extinction by evolving an offensive lance that can pierce anything, although its diet still consists mainly of fish.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48940337.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2500,

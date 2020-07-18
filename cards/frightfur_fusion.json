@@ -3,6 +3,9 @@
   "name": "Frightfur Fusion",
   "is_illegal": false,
   "text": "Fusion Summon 1 \"Frightfur\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or Graveyard. You can only activate 1 \"Frightfur Fusion\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6077601.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

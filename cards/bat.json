@@ -3,6 +3,9 @@
   "name": "Bat",
   "is_illegal": false,
   "text": "A mechanical bat that drops blasts from its wings.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72076281.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 300,

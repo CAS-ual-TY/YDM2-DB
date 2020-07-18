@@ -3,6 +3,9 @@
   "name": "Twin-Headed Thunder Dragon",
   "is_illegal": false,
   "text": "\"Thunder Dragon\" + \"Thunder Dragon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54752875.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,

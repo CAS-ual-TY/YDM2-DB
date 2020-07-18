@@ -3,6 +3,9 @@
   "name": "Kwagar Hercules",
   "is_illegal": false,
   "text": "\"Kuwagata ?\" + \"Hercules Beetle\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95144193.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

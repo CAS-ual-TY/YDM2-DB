@@ -3,6 +3,9 @@
   "name": "The Fabled Cerburrel",
   "is_illegal": false,
   "text": "If this card is discarded to the Graveyard: Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82888408.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

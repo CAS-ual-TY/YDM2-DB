@@ -3,6 +3,9 @@
   "name": "Black Dragon Ninja",
   "is_illegal": false,
   "text": "Cannot be Special Summoned, except with the effect of a \"Ninja\" monster or \"Ninjitsu Art\" card. Once per turn, during either player\u0027s turn: You can send 1 \"Ninja\" monster and 1 \"Ninjitsu Art\" card from your hand and/or face-up from your field to the Graveyard, then target 1 monster on the field; banish it. If this face-up card leaves the field: Special Summon as many monsters banished by this card\u0027s effect as possible to their owner\u0027s field(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56562619.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2800,

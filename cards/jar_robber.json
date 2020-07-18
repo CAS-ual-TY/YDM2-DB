@@ -3,6 +3,9 @@
   "name": "Jar Robber",
   "is_illegal": false,
   "text": "You can only activate this card when \"Pot of Greed\" is activated. Negate the effect of the \"Pot of Greed\" and draw 1 card from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33784505.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

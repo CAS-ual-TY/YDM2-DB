@@ -3,6 +3,9 @@
   "name": "Life Absorbing Machine",
   "is_illegal": false,
   "text": "During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14318794.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

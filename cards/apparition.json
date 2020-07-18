@@ -3,6 +3,9 @@
   "name": "Apparition",
   "is_illegal": false,
   "text": "If a face-up \"HERO\" monster(s) you control is destroyed by battle or card effect: Special Summon 1 Level 4 or lower \"Vision HERO\" monster from your Deck, then you can halve the original ATK/DEF of 1 monster your opponent controls. You can only activate 1 \"Apparition\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91392974.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

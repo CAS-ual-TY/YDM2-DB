@@ -3,6 +3,9 @@
   "name": "Protector of the Throne",
   "is_illegal": false,
   "text": "While the king is away, this queen protects his throne with a mighty defense.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10071456.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

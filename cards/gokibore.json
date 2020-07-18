@@ -3,6 +3,9 @@
   "name": "Gokibore",
   "is_illegal": false,
   "text": "A large, spherical roach that attacks its enemies by rolling over them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15367030.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

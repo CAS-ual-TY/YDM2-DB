@@ -3,6 +3,9 @@
   "name": "Vampiric Koala",
   "is_illegal": false,
   "text": "If this card inflicts battle damage to your opponent by battle with a monster: Gain LP equal to the battle damage inflicted.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1371589.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

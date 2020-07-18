@@ -3,6 +3,9 @@
   "name": "Twin Long Rods 1",
   "is_illegal": false,
   "text": "With whip-like arms, this creature can attack enemies from a distance.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60589682.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 900,

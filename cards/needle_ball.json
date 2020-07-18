@@ -3,6 +3,9 @@
   "name": "Needle Ball",
   "is_illegal": false,
   "text": "FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94230224.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 750,

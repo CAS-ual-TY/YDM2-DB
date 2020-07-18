@@ -3,6 +3,9 @@
   "name": "Murmur of the Forest",
   "is_illegal": false,
   "text": "Target 1 face-up monster your opponent controls; change that target to face-down Defense Position, then you can return all Field Spell Cards on the field to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60398723.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

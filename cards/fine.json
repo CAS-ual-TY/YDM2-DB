@@ -3,6 +3,9 @@
   "name": "Fine",
   "is_illegal": false,
   "text": "Discard 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92595643.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

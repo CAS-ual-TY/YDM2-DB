@@ -3,6 +3,9 @@
   "name": "Magical Cavalry of Cxulub",
   "is_illegal": false,
   "text": "This card is unaffected by monsters\u0027 activated effects, except Pendulum Monsters\u0027.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23220863.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

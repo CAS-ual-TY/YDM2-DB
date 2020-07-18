@@ -3,6 +3,9 @@
   "name": "Kozaky\u0027s Self-Destruct Button",
   "is_illegal": false,
   "text": "Inflict 1000 damage to the player who destroyed this Set card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21908319.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

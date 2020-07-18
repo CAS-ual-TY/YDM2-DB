@@ -3,6 +3,9 @@
   "name": "Neo Bug",
   "is_illegal": false,
   "text": "A huge bug-like monster said to come from another planet. It gathers in swarms.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16587243.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

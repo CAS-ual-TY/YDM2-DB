@@ -3,6 +3,9 @@
   "name": "Stuffed Animal",
   "is_illegal": false,
   "text": "It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71068263.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

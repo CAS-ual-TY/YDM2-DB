@@ -3,6 +3,9 @@
   "name": "Curtain of the Dark Ones",
   "is_illegal": false,
   "text": "A curtain that a spellcaster made, it is said to raise a dark power.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22026707.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

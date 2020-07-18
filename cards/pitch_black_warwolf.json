@@ -3,6 +3,9 @@
   "name": "Pitch-Black Warwolf",
   "is_illegal": false,
   "text": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88975532.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

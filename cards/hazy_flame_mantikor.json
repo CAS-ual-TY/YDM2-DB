@@ -3,6 +3,9 @@
   "name": "Hazy Flame Mantikor",
   "is_illegal": false,
   "text": "Your opponent cannot target this card with card effects. Once per turn, during either player\u0027s turn: You can send 1 FIRE monster, except this card, from your hand or face-up from your side of the field to the Graveyard; this card cannot be destroyed by card effects this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96051150.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2200,

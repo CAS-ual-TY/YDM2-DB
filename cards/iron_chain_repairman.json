@@ -3,6 +3,9 @@
   "name": "Iron Chain Repairman",
   "is_illegal": false,
   "text": "When this card destroys a monster by battle and sends it to the Graveyard, inflict 300 damage to your opponent. Once per turn, you can Special Summon 1 Level 4 or lower \"Iron Chain\" monster from your Graveyard, except \"Iron Chain Repairman\". This card cannot attack the turn you activate this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53274132.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

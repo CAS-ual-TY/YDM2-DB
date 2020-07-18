@@ -3,6 +3,9 @@
   "name": "A Rival Appears!",
   "is_illegal": false,
   "text": "Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5728014.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

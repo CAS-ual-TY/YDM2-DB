@@ -3,6 +3,9 @@
   "name": "F.A. Hang On Mach",
   "is_illegal": false,
   "text": "Gains ATK equal to its Level x 300. Unaffected by activated effects from an opponent\u0027s monster whose original Level/Rank is lower than this card\u0027s Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card\u0027s Level by 1. If this card is Level 7 or higher, any card sent to your opponent\u0027s GY is banished instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93449450.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 0,

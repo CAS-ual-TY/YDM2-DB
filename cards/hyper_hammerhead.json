@@ -3,6 +3,9 @@
   "name": "Hyper Hammerhead",
   "is_illegal": false,
   "text": "At the end of the Damage Step, if an opponent\u0027s monster that battled this card is not destroyed: Return that opponent\u0027s monster to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2671330.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Micro Ray",
   "is_illegal": false,
   "text": "Target 1 face-up monster on the field; that target\u0027s DEF becomes 0 until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18190572.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

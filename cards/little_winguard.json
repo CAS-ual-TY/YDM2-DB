@@ -3,6 +3,9 @@
   "name": "Little-Winguard",
   "is_illegal": false,
   "text": "Once per turn, during your End Phase: You can change the battle position of this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90790253.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1400,

@@ -3,6 +3,9 @@
   "name": "Deep Diver",
   "is_illegal": false,
   "text": "At the end of the Battle Phase, if this card was destroyed by battle and sent to the Graveyard: Choose 1 monster from your Deck and place it on top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17559367.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1000,

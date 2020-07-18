@@ -3,6 +3,10 @@
   "name": "Thousand Dragon",
   "is_illegal": false,
   "text": "\"Time Wizard\" + \"Baby Dragon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41462083.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41462084.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,

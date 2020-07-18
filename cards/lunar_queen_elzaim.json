@@ -3,6 +3,9 @@
   "name": "Lunar Queen Elzaim",
   "is_illegal": false,
   "text": "A lovely creature guarded by the moon. Her lunar curtain can block just about any attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62210247.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 750,

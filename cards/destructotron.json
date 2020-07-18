@@ -3,6 +3,9 @@
   "name": "Destructotron",
   "is_illegal": false,
   "text": "During the End Phase, if this card is the only Psychic-Type monster you control: Destroy it. You can pay 1000 LP, then target 1 Set Spell/Trap Card your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11232355.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

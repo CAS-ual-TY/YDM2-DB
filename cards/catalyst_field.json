@@ -3,6 +3,9 @@
   "name": "Catalyst Field",
   "is_illegal": false,
   "text": "Each turn, 1 Level 5 or higher Gemini monster you Normal Summon can be Summoned without Tributing. During your Main Phase, you can Normal Summon 1 Gemini monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 1 card your opponent controls; banish 1 Gemini monster you control, that is treated as an Effect Monster and has gained its effects, until your opponent\u0027s End Phase, and if you do, destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65959844.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

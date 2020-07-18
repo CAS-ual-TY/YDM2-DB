@@ -3,6 +3,9 @@
   "name": "Psychic Kappa",
   "is_illegal": false,
   "text": "An amphibian with a myriad of powers to shield it from enemy attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7892180.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 400,

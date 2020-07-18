@@ -3,6 +3,9 @@
   "name": "Guardian Slime",
   "is_illegal": false,
   "text": "If you take battle or effect damage: You can Special Summon this card from your hand. During damage calculation, if this card battles an opponent\u0027s monster (Quick Effect): You can have this card gain DEF equal to that opponent\u0027s monster\u0027s ATK during that damage calculation only. If this card is sent from the hand or field to the GY: You can add 1 Spell/Trap that specifically lists \"The Winged Dragon of Ra\" in its text from your Deck to your hand. You can only use each effect of \"Guardian Slime\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15771991.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 0,

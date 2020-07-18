@@ -3,6 +3,9 @@
   "name": "Crass Clown",
   "is_illegal": false,
   "text": "When this card is changed from Defense Position to Attack Position, return 1 monster on your opponent\u0027s side of the field to the owner\u0027s hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93889755.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1350,

@@ -3,6 +3,9 @@
   "name": "Performapal Turn Toad",
   "is_illegal": false,
   "text": "Once per turn, during your Battle Phase (except during the Damage Step): You can target 1 monster you control; change its battle position, and if you do, switch its current ATK and DEF until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4239451.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 0,

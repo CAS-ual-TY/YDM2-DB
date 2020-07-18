@@ -3,6 +3,9 @@
   "name": "Performapal Show Down",
   "is_illegal": false,
   "text": "Target any number of face-up monsters your opponent controls, up to the number of face-up Spell Cards you control; change those monsters to face-down Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92958307.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

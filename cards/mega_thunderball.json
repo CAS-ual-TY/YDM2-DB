@@ -3,6 +3,9 @@
   "name": "Mega Thunderball",
   "is_illegal": false,
   "text": "Rolls along the ground releasing bolts of electricity to attack its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21817254.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 750,

@@ -3,6 +3,9 @@
   "name": "Giant Germ",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: Inflict 500 damage to your opponent, then you can Special Summon any number of \"Giant Germs\" from your Deck in face-up Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95178994.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

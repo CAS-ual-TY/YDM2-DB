@@ -3,6 +3,9 @@
   "name": "Widget Kid",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can Special Summon 1 Cyberse monster from your hand in Defense Position. You can only use this effect of \"Widget Kid\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10705656.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

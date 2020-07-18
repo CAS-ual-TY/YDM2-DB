@@ -3,6 +3,9 @@
   "name": "Escher the Frost Vassal",
   "is_illegal": false,
   "text": "If your opponent controls 2 or more cards in their Spell \u0026 Trap Zones, you can Special Summon this card (from your hand).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24326617.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

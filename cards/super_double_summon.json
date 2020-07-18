@@ -3,6 +3,9 @@
   "name": "Super Double Summon",
   "is_illegal": false,
   "text": "Select 1 Gemini monster you control and Normal Summon it. During the End Phase of this turn, return it to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26120084.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

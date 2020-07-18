@@ -3,6 +3,9 @@
   "name": "Slot Machine",
   "is_illegal": false,
   "text": "The machine\u0027s ability is said to vary according to its slot results.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3797883.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

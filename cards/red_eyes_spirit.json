@@ -3,6 +3,9 @@
   "name": "Red-Eyes Spirit",
   "is_illegal": false,
   "text": "Target 1 \"Red-Eyes\" monster in your GY; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44397496.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Machine Attacker",
   "is_illegal": false,
   "text": "This machine, created to lead charges into enemy territory, mows down enemies by rushing.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38116136.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

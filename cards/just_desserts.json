@@ -3,6 +3,9 @@
   "name": "Just Desserts",
   "is_illegal": false,
   "text": "Inflict 500 damage to your opponent for each monster they control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24068492.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

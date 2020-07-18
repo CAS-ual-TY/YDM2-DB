@@ -3,6 +3,9 @@
   "name": "Yellow Baboon, Archer of the Forest",
   "is_illegal": false,
   "text": "When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65303664.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2600,

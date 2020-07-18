@@ -3,6 +3,9 @@
   "name": "Moon Envoy",
   "is_illegal": false,
   "text": "Many have fallen victim to this lunar warrior\u0027s crescent pike.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45909477.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1100,

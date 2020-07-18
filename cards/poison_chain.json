@@ -3,6 +3,9 @@
   "name": "Poison Chain",
   "is_illegal": false,
   "text": "During the End Phase of your turn, if you did not attack, you can make your opponent send cards equal to the number of face-up \"Iron Chain\" monsters you control from the top of their Deck to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33302407.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

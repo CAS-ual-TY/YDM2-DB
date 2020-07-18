@@ -3,6 +3,9 @@
   "name": "Constellar Belt",
   "is_illegal": false,
   "text": "The activation of LIGHT monsters\u0027 effects cannot be negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86825483.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

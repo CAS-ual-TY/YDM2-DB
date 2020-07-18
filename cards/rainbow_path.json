@@ -3,6 +3,9 @@
   "name": "Rainbow Path",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack: Send 1 \"Crystal Beast\" card from your Spell \u0026 Trap Card Zone to the Graveyard to target the attacking monster; negate the attack, then you can add 1 \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7617253.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

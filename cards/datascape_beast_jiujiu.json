@@ -3,6 +3,9 @@
   "name": "Datascape Beast Jiujiu",
   "is_illegal": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nCannot be destroyed by battle or card effects while you have 2 or more monsters with the same original Type and Attribute but different names in your GY. You can banish 2 monsters with the same original Type and Attribute but different names from your GY, then target 1 card on the field; send it to the GY. You can only use this effect of \"Datascape Beast - Jiujiu\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35252119.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,

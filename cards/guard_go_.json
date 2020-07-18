@@ -3,6 +3,9 @@
   "name": "Guard Go!",
   "is_illegal": false,
   "text": "If a \"Gagaga\", \"Dododo\", and/or \"Gogogo\" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Target 1 of those monsters; Special Summon it, then you can Special Summon up to 2 \"Gagaga\", \"Dododo\", and/or \"Gogogo\" monsters from your hand in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64283880.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Wroughtweiler",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: Target 1 \"Elemental HERO\" card and 1 \"Polymerization\" in your Graveyard; add both those targets to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6480253.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

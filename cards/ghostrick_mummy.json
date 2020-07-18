@@ -3,6 +3,9 @@
   "name": "Ghostrick Mummy",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. While this card is face-up on the field, you can Normal Summon 1 \"Ghostrick\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You cannot Special Summon any monsters, except DARK monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97584500.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

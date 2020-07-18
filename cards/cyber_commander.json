@@ -3,6 +3,9 @@
   "name": "Cyber Commander",
   "is_illegal": false,
   "text": "A strike force equipped with rocket launchers and bazookas.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6400512.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 750,

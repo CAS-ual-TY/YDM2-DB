@@ -3,6 +3,9 @@
   "name": "Jenis, Lightsworn Mender",
   "is_illegal": false,
   "text": "During the End Phase, if a card(s) was sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" card this turn: Inflict 500 damage to your opponent, and if you do, gain 500 LP.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83725008.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,

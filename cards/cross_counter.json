@@ -3,6 +3,9 @@
   "name": "Cross Counter",
   "is_illegal": false,
   "text": "If the DEF of an attacked Defense Position monster is higher than the ATK of your opponent\u0027s attacking monster, the Battle Damage inflicted to your opponent is doubled. Destroy the attacking monster after damage calculation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37083210.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

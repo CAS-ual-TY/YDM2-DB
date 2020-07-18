@@ -3,6 +3,9 @@
   "name": "Kojikocy",
   "is_illegal": false,
   "text": "A man-hunter with powerful arms that can crush boulders.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1184620.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Emperor of the Land and Sea",
   "is_illegal": false,
   "text": "A reptilian monster that sprays fire in every direction.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11250655.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1800,

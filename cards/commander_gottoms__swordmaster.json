@@ -3,6 +3,9 @@
   "name": "Commander Gottoms, Swordmaster",
   "is_illegal": false,
   "text": "All face-up \"Saber\" monsters you control gain 400 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53388413.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2100,

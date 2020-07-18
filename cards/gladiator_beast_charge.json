@@ -3,6 +3,9 @@
   "name": "Gladiator Beast Charge",
   "is_illegal": false,
   "text": "Target face-up cards on the field, up to the number of \"Gladiator Beast\" monsters you control with different names; destroy them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16990348.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

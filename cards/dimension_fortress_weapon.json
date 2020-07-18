@@ -3,6 +3,9 @@
   "name": "Dimension Fortress Weapon",
   "is_illegal": false,
   "text": "Cards cannot be sent from the Deck to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1596508.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

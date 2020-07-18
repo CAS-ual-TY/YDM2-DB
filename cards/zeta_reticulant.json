@@ -3,6 +3,9 @@
   "name": "Zeta Reticulant",
   "is_illegal": false,
   "text": "You can Tribute 1 \"Eva Token\" to Special Summon this card from your hand. While this card is in your Graveyard, each time a monster(s) your opponent controls is removed from play, Special Summon 1 \"Eva Token\" (Fiend-Type/DARK/Level 2/ATK 500/DEF 500).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64382839.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

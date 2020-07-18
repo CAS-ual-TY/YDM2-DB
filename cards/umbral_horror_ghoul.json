@@ -3,6 +3,9 @@
   "name": "Umbral Horror Ghoul",
   "is_illegal": false,
   "text": "Once per turn: You can make this card\u0027s ATK 0, and if you do, Special Summon 1 \"Umbral Horror\" monster with 0 ATK from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7152333.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

@@ -3,6 +3,9 @@
   "name": "Latency",
   "is_illegal": false,
   "text": "If this card is added from your GY to your hand by a card effect: You can Special Summon it from your hand. If this card Summoned this way is sent to the GY as Link Material: You can draw 1 card. You can only use each effect of \"Latency\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3560069.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

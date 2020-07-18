@@ -3,6 +3,9 @@
   "name": "Trent",
   "is_illegal": false,
   "text": "A guardian of the woods, this massive tree is believed to be immortal.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78780140.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

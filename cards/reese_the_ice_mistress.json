@@ -3,6 +3,9 @@
   "name": "Reese the Ice Mistress",
   "is_illegal": false,
   "text": "This card cannot be destroyed by battle with a Level 4 or higher monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30276969.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

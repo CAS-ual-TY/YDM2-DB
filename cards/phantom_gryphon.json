@@ -3,6 +3,9 @@
   "name": "Phantom Gryphon",
   "is_illegal": false,
   "text": "A legendary monster that dwells secretly in the mountains, fighting with the harpies over hunting grounds. A single wingbeat is said to cause the fiercest of storms.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74852097.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,

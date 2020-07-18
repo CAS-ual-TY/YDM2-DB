@@ -3,6 +3,9 @@
   "name": "Karbonala Warrior",
   "is_illegal": false,
   "text": "\"M-Warrior #1\" + \"M-Warrior #2\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54541900.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Drill Synchron",
   "is_illegal": false,
   "text": "If a Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect: You can draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56286179.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

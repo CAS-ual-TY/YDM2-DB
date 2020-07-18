@@ -3,6 +3,9 @@
   "name": "Decoyroid",
   "is_illegal": false,
   "text": "While this card is face-up on your side of the field, your opponent cannot select a face-up monster as an attack target except \"Decoyroid\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25034083.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 300,

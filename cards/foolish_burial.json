@@ -3,6 +3,10 @@
   "name": "Foolish Burial",
   "is_illegal": false,
   "text": "Send 1 monster from your Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81439173.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81439174.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

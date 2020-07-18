@@ -3,6 +3,9 @@
   "name": "Garoozis",
   "is_illegal": false,
   "text": "An axe-swinging beast-warrior with the head of a dragon.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14977074.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1800,

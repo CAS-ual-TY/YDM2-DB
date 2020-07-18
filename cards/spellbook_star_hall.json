@@ -3,6 +3,9 @@
   "name": "Spellbook Star Hall",
   "is_illegal": false,
   "text": "Each time a \"Spellbook\" Spell Card is activated, place 1 Spell Counter on this card. All Spellcaster-Type monsters you control gain 100 ATK for each Spell Counter on this card. When this card with Spell Counter(s) is destroyed and sent to the Graveyard: You can add 1 Spellcaster-Type monster from your Deck to your hand, whose Level is less than or equal to the number of Spell Counters that were on this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56321639.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

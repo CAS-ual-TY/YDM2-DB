@@ -3,6 +3,9 @@
   "name": "Junk Blader",
   "is_illegal": false,
   "text": "You can banish 1 \"Junk\" monster from your Graveyard; this card gains 400 ATK until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51855378.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

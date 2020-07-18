@@ -3,6 +3,9 @@
   "name": "Beautiful Beast Trainer",
   "is_illegal": false,
   "text": "A rare female beast-master with a very dangerous whip.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29616941.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1750,

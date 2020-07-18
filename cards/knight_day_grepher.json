@@ -3,6 +3,9 @@
   "name": "Knight Day Grepher",
   "is_illegal": false,
   "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n? During your End Phase: You can target 1 Equip Spell Card in your Graveyard; add that target to your hand. You can only use this effect of \"Knight Day Grepher\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15767889.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

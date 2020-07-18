@@ -3,6 +3,9 @@
   "name": "Scrap Beast",
   "is_illegal": false,
   "text": "If this face-up Defense Position card is targeted for an attack, at the end of the Battle Phase: Destroy this card. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard: You can target 1 \"Scrap\" monster in your Graveyard, except \"Scrap Beast\"; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19139516.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

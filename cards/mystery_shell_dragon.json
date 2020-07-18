@@ -3,6 +3,9 @@
   "name": "Mystery Shell Dragon",
   "is_illegal": false,
   "text": "Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target\u0027s nerves, and causes intense hallucinations.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18108166.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

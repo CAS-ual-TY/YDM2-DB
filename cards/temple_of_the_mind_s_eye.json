@@ -3,6 +3,9 @@
   "name": "Temple of the Mind\u0027s Eye",
   "is_illegal": false,
   "text": "Any battle damage a player takes becomes 1000.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92481084.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

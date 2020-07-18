@@ -3,6 +3,9 @@
   "name": "Snakeyashi",
   "is_illegal": false,
   "text": "This monster is formed by several serpents that break off to individually attack nearby enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29802344.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

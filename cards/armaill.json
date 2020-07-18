@@ -3,6 +3,9 @@
   "name": "Armaill",
   "is_illegal": false,
   "text": "A strange warrior who manipulates three deadly blades with both hands and his tail.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53153481.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

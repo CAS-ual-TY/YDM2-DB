@@ -3,6 +3,9 @@
   "name": "Summoner of Illusions",
   "is_illegal": false,
   "text": "FLIP: Tribute 1 other monster, and if you do, Special Summon 1 Fusion Monster from your Extra Deck, but destroy it during the End Phase of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14644902.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 800,

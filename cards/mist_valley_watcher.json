@@ -3,6 +3,9 @@
   "name": "Mist Valley Watcher",
   "is_illegal": false,
   "text": "Descendant of a family that has served as Mist Valley watchman over the generations. Never missed a single thing that happened in the valley, no matter how minute.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29054481.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,

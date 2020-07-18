@@ -3,6 +3,9 @@
   "name": "Kaiser Glider",
   "is_illegal": false,
   "text": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is destroyed and sent to the Graveyard: Target 1 monster on the field; return that target to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52824910.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,

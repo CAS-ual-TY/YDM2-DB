@@ -3,6 +3,9 @@
   "name": "Takuhee",
   "is_illegal": false,
   "text": "This bird is known far and wide as a harbinger of doom.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3170832.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1450,

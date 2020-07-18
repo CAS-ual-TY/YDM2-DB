@@ -3,6 +3,9 @@
   "name": "Hero of the East",
   "is_illegal": false,
   "text": "Feel da strength ah dis sword-swingin\u0027 samurai from da Far East.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89987208.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1100,

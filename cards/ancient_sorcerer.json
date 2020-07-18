@@ -3,6 +3,9 @@
   "name": "Ancient Sorcerer",
   "is_illegal": false,
   "text": "Armed with an array of magic wands, this creature is capable of multiple attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36821538.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

@@ -3,6 +3,9 @@
   "name": "Chthonian Alliance",
   "is_illegal": false,
   "text": "The equipped monster gains 800 ATK for each other face-up monster on the field that has the same name it does.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46910446.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

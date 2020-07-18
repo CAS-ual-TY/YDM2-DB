@@ -3,6 +3,9 @@
   "name": "Mist Valley Executor",
   "is_illegal": false,
   "text": "When this card is Normal Summoned, return all face-up Spell and Trap Cards on the field to their owners\u0027 hands.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41978142.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2100,

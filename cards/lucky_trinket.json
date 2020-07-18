@@ -3,6 +3,9 @@
   "name": "Lucky Trinket",
   "is_illegal": false,
   "text": "This creature may look slim and weak, but it\u0027s protected by a mystical force.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3985011.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 600,

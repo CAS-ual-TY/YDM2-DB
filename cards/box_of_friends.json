@@ -3,6 +3,9 @@
   "name": "Box of Friends",
   "is_illegal": false,
   "text": "If this card is destroyed and sent to the GY: You can Special Summon from your Deck, 2 Normal Monsters with different names whose ATK or DEF is 0, in face-up Defense Position, but they cannot be used as Synchro Material, also they are destroyed during your next End Phase. You can only use this effect of \"Box of Friends\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81587028.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

@@ -3,6 +3,9 @@
   "name": "Dark Red Enchanter",
   "is_illegal": false,
   "text": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent\u0027s hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45462639.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

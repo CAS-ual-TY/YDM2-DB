@@ -3,6 +3,9 @@
   "name": "Soul Hunter",
   "is_illegal": false,
   "text": "\"Lord of the Lamp\" + \"Invader from Another Dimension\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72869010.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

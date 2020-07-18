@@ -3,6 +3,9 @@
   "name": "Bunilla",
   "is_illegal": false,
   "text": "This rabbit\u0027s got a sweet tooth! He\u0027s on a quest for the world\u0027s sweetest carrot, and just wants to nibble carrots all day today, tomorrow, and the day after that!",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69380702.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 150,

@@ -3,6 +3,9 @@
   "name": "Psychic Overload",
   "is_illegal": false,
   "text": "Target 3 Psychic-Type monsters in your Graveyard; shuffle all 3 into the Deck, then draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82633308.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

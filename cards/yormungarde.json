@@ -3,6 +3,9 @@
   "name": "Yormungarde",
   "is_illegal": false,
   "text": "An extremely long snake that dwells in the world of myth.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17115745.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

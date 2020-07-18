@@ -3,6 +3,11 @@
   "name": "Blue-Eyes Ultimate Dragon",
   "is_illegal": false,
   "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23995346.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23995347.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23995348.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 4500,

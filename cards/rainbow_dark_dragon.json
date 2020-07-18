@@ -3,6 +3,9 @@
   "name": "Rainbow Dark Dragon",
   "is_illegal": false,
   "text": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your GY. You can banish all other DARK monsters from your field and GY; this card gains 500 ATK for each card banished this way.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79407975.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 4000,

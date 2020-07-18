@@ -3,6 +3,9 @@
   "name": "Volcanic Rat",
   "is_illegal": false,
   "text": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33112041.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 500,

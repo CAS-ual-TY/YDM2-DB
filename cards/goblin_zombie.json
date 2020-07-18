@@ -3,6 +3,9 @@
   "name": "Goblin Zombie",
   "is_illegal": false,
   "text": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY. If this card is sent from the field to the GY: Add 1 Zombie monster with 1200 or less DEF from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63665875.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1100,

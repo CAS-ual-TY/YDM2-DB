@@ -3,6 +3,9 @@
   "name": "Ledger of Legerdemain",
   "is_illegal": false,
   "text": "Banish 3 cards from the top of your Deck, face-down. During your 3rd Standby Phase after this card\u0027s activation, add all 3 cards to your hand. You can only activate 1 \"Ledger of Legerdemain\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56256517.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

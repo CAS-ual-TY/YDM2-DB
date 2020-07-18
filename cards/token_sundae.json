@@ -3,6 +3,9 @@
   "name": "Token Sundae",
   "is_illegal": false,
   "text": "Destroy all Tokens you control, then destroy cards on the field up to the number of Tokens destroyed by this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52971673.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

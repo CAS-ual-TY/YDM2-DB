@@ -3,6 +3,9 @@
   "name": "Bickuribox",
   "is_illegal": false,
   "text": "\"Crass Clown\" + \"Dream Clown\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25655502.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2300,

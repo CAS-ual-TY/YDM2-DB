@@ -3,6 +3,9 @@
   "name": "Wall Shadow",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Magical Labyrinth\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63162310.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

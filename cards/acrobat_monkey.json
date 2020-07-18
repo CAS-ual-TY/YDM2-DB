@@ -3,6 +3,9 @@
   "name": "Acrobat Monkey",
   "is_illegal": false,
   "text": "An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47372349.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

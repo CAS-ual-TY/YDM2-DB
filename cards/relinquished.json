@@ -3,6 +3,9 @@
   "name": "Relinquished",
   "is_illegal": false,
   "text": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card\u0027s ATK/DEF become equal to that equipped monster\u0027s. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64631466.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

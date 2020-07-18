@@ -3,6 +3,9 @@
   "name": "Giltia the D. Knight",
   "is_illegal": false,
   "text": "\"Guardian of the Labyrinth\" + \"Protector of the Throne\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51828629.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1850,

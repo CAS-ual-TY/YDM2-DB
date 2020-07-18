@@ -3,6 +3,11 @@
   "name": "Kuriboh",
   "is_illegal": false,
   "text": "During damage calculation, if your opponent\u0027s monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40640057.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40640058.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40640059.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 300,

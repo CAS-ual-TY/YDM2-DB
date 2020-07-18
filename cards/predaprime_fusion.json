@@ -3,6 +3,9 @@
   "name": "Predaprime Fusion",
   "is_illegal": false,
   "text": "If a \"Predaplant\" monster(s) is on the field: Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from either field as material, including 2 or more DARK monsters you control. You can only activate 1 \"Predaprime Fusion\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8148322.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

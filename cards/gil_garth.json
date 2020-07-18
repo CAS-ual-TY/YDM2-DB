@@ -3,6 +3,9 @@
   "name": "Gil Garth",
   "is_illegal": false,
   "text": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38445524.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

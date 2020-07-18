@@ -3,6 +3,9 @@
   "name": "Photon Crusher",
   "is_illegal": false,
   "text": "If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1362589.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,

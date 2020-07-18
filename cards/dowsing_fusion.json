@@ -3,6 +3,9 @@
   "name": "Dowsing Fusion",
   "is_illegal": false,
   "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY. Only Pendulum Monsters can be used as Fusion Material for a Fusion Summon using this effect. You can only activate 1 \"Dowsing Fusion\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72490637.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

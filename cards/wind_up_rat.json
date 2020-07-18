@@ -3,6 +3,9 @@
   "name": "Wind-Up Rat",
   "is_illegal": false,
   "text": "During your Main Phase: You can target 1 \"Wind-Up\" monster in your Graveyard; change this face-up Attack Position card you control to face-up Defense Position, and Special Summon that target in face-up Defense Position. This effect can only be used once while this card is face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57962537.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 600,

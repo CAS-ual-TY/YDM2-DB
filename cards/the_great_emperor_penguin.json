@@ -3,6 +3,9 @@
   "name": "The Great Emperor Penguin",
   "is_illegal": false,
   "text": "You can Tribute this card; Special Summon up to 2 \"Penguin\" monsters from your Deck, except \"The Great Emperor Penguin\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6836211.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1800,

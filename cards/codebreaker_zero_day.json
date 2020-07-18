@@ -3,6 +3,9 @@
   "name": "Codebreaker Zero Day",
   "is_illegal": false,
   "text": "All Link Monsters pointing to this card lose 1000 ATK, except \"Codebreaker\" Link Monsters. If a \"Codebreaker\" Link Monster(s) on the field is destroyed by battle or card effect, while this card is on the field: Destroy this card. If this card is destroyed by battle or card effect: You can add 1 \"Codebreaker Zero Day\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8662794.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

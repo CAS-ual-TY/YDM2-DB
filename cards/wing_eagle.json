@@ -3,6 +3,9 @@
   "name": "Wing Eagle",
   "is_illegal": false,
   "text": "This flying creature never misses its intended target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47319141.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

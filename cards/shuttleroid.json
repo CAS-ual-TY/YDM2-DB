@@ -3,6 +3,9 @@
   "name": "Shuttleroid",
   "is_illegal": false,
   "text": "When this card is targeted for an attack: You can banish this card. During your next Standby Phase: Special Summon this card banished by this effect. If Summoned this way: Inflict 1000 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10449150.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,

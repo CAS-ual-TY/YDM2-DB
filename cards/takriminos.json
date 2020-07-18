@@ -3,6 +3,9 @@
   "name": "Takriminos",
   "is_illegal": false,
   "text": "A member of a race of sea serpents that freely travels through the sea.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44073668.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Wattchimera",
   "is_illegal": false,
   "text": "1 \"Watt\" Tuner + 1 or more non-Tuner Thunder-Type monsters\nThis card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, place 1 random card from your opponent\u0027s hand on top of their Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2772236.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1400,

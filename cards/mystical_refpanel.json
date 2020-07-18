@@ -3,6 +3,9 @@
   "name": "Mystical Refpanel",
   "is_illegal": false,
   "text": "Activate only when a Spell Card that targets 1 player is activated. The effect of that Spell Card is applied to the other player instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35563539.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

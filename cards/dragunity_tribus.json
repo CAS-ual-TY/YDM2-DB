@@ -3,6 +3,9 @@
   "name": "Dragunity Tribus",
   "is_illegal": false,
   "text": "When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81962318.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 500,

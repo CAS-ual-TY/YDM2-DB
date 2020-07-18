@@ -3,6 +3,9 @@
   "name": "Rabid Horseman",
   "is_illegal": false,
   "text": "\"Battle Ox\" + \"Mystic Horseman\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94905343.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

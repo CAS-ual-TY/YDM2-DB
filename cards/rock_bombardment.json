@@ -3,6 +3,9 @@
   "name": "Rock Bombardment",
   "is_illegal": false,
   "text": "Send 1 Rock monster from your Deck to the GY; inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20781762.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

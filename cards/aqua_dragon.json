@@ -3,6 +3,9 @@
   "name": "Aqua Dragon",
   "is_illegal": false,
   "text": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86164529.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2250,

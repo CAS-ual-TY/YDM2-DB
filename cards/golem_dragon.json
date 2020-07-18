@@ -3,6 +3,9 @@
   "name": "Golem Dragon",
   "is_illegal": false,
   "text": "Your opponent cannot target face-up Dragon-Type monsters for attacks, except this one.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9666558.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 200,

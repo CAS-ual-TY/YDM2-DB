@@ -3,6 +3,9 @@
   "name": "Desertapir",
   "is_illegal": false,
   "text": "FLIP: Flip 1 face-up monster on the field into face-down Defense Position. You cannot select \"Desertapir\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13409151.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

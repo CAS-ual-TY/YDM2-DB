@@ -3,6 +3,9 @@
   "name": "Gravedigger\u0027s Trap Hole",
   "is_illegal": false,
   "text": "When your opponent activates a monster effect in their hand or GY, or when your opponent\u0027s banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31548215.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

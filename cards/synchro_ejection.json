@@ -3,6 +3,9 @@
   "name": "Synchro Ejection",
   "is_illegal": false,
   "text": "Select 1 face-up Synchro Monster your opponent controls and remove it from play. Then, your opponent draws 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75105429.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

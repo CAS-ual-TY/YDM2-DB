@@ -3,6 +3,9 @@
   "name": "Gravekeeper\u0027s Recruiter",
   "is_illegal": false,
   "text": "If this card you control is sent to your GY: Add 1 \"Gravekeeper\u0027s\" monster with 1500 or less DEF from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93023479.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

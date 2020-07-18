@@ -3,6 +3,10 @@
   "name": "Loop of Destruction",
   "is_illegal": false,
   "text": "This card\u0027s name becomes \"Ring of Destruction\" while on the field. Once per turn, if a monster(s) on the field is destroyed by a card effect (except during the Damage Step): You can target 1 monster on the field; destroy it, and if you do, each player takes 500 damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7852509.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7852510.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

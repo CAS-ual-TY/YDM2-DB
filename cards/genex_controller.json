@@ -3,6 +3,9 @@
   "name": "Genex Controller",
   "is_illegal": false,
   "text": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68505803.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,

@@ -3,6 +3,9 @@
   "name": "Metalfoes Goldriver",
   "is_illegal": false,
   "text": "That gleaming, golden buggy breaks bad guys good. What wonderful wheels! (With a bumbling buffoon....)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33256280.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1900,

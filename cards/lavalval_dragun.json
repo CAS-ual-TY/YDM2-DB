@@ -3,6 +3,9 @@
   "name": "Lavalval Dragun",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner FIRE monsters\nOnce per turn: You can add 1 \"Laval\" monster from your Deck to your hand, then send 1 \"Laval\" monster from your hand to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8611007.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2500,

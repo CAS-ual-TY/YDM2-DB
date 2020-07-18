@@ -3,6 +3,9 @@
   "name": "Reverse of Neos",
   "is_illegal": false,
   "text": "Activate only when a face-up \"Neos\" Fusion Monster you control is destroyed. Special Summon 1 \"Elemental Hero Neos\" from your Deck in Attack Position. It gains 1000 ATK and is destroyed during the End Phase of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18302224.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

@@ -3,6 +3,9 @@
   "name": "Fabled Leviathan",
   "is_illegal": false,
   "text": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nWhen this card on the field is destroyed and sent to the Graveyard, you can select up to 3 \"Fabled\" monsters in your Graveyard. Add them to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39477584.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,

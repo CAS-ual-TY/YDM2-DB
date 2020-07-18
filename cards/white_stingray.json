@@ -3,6 +3,9 @@
   "name": "White Stingray",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by discarding 1 WATER monster. You can only Special Summon \"White Stingray\" once per turn this way. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn. You can only use this effect of \"White Stingray\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49930315.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,

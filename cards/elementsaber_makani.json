@@ -3,6 +3,9 @@
   "name": "Elementsaber Makani",
   "is_illegal": false,
   "text": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY; add 1 \"Elementsaber\" or \"Elemental Lord\" monster from your Deck to your hand, except \"Elementsaber Makani\". Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19036557.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,

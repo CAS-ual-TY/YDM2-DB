@@ -3,6 +3,9 @@
   "name": "R - Righteous Justice",
   "is_illegal": false,
   "text": "Destroy Spell/Trap Cards equal to the number of \"Elemental HERO\" cards you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37318031.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

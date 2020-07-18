@@ -3,6 +3,9 @@
   "name": "Mirage Dragon",
   "is_illegal": false,
   "text": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15960641.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Hieratic Seal of Supremacy",
   "is_illegal": false,
   "text": "Special Summon 1 \"Hieratic\" monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51365514.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

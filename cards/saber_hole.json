@@ -3,6 +3,9 @@
   "name": "Saber Hole",
   "is_illegal": false,
   "text": "Activate only while you control a face-up \"X-Saber\" monster. Negate the Summon of a monster, and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44901281.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

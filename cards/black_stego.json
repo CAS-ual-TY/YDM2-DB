@@ -3,6 +3,9 @@
   "name": "Black Stego",
   "is_illegal": false,
   "text": "If this Attack Position card is targeted for an attack: Change this card to Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79409334.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

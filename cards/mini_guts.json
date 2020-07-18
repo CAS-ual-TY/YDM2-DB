@@ -3,6 +3,9 @@
   "name": "Mini-Guts",
   "is_illegal": false,
   "text": "Tribute 1 monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase. This turn, when it is destroyed by battle and sent to their Graveyard: Inflict damage to your opponent equal to its original ATK in the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99004752.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

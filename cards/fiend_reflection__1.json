@@ -3,6 +3,9 @@
   "name": "Fiend Reflection #1",
   "is_illegal": false,
   "text": "This monster can draw its enemies into a mirror world that renders them helpless.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68870276.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,

@@ -3,6 +3,9 @@
   "name": "XZ-Tank Cannon",
   "is_illegal": false,
   "text": "\"X-Head Cannon\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-down Spell/Trap Card your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99724761.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,

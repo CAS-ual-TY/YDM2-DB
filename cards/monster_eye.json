@@ -3,6 +3,9 @@
   "name": "Monster Eye",
   "is_illegal": false,
   "text": "You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84133008.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 250,

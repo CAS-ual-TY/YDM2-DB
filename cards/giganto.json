@@ -3,6 +3,9 @@
   "name": "Giganto",
   "is_illegal": false,
   "text": "A massive steel ball that mows down anything in its path.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33621868.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

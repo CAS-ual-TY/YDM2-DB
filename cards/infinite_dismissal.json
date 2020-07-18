@@ -3,6 +3,9 @@
   "name": "Infinite Dismissal",
   "is_illegal": false,
   "text": "Level 3 or lower monsters are destroyed during the End Phase of the turn that they are Normal Summoned or Flip Summoned.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54109233.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

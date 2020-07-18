@@ -3,6 +3,9 @@
   "name": "Whiptail Crow",
   "is_illegal": false,
   "text": "Attacks from the skies with a whip-like tail.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91996584.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1650,

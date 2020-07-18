@@ -3,6 +3,9 @@
   "name": "Petit Dragon",
   "is_illegal": false,
   "text": "A very small dragon known for its vicious attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75356564.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 600,

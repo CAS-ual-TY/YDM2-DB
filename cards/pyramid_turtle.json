@@ -3,6 +3,9 @@
   "name": "Pyramid Turtle",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77044671.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

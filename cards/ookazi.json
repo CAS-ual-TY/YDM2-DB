@@ -3,6 +3,9 @@
   "name": "Ookazi",
   "is_illegal": false,
   "text": "Inflict 800 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19523799.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Magician of Faith",
   "is_illegal": false,
   "text": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31560081.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,

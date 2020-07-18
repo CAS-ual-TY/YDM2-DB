@@ -3,6 +3,9 @@
   "name": "Spirit of the Books",
   "is_illegal": false,
   "text": "This wise spirit dwells in books, using its accumulated knowledge to defeat enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14037717.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1400,

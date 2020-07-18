@@ -3,6 +3,9 @@
   "name": "Hayabusa Knight",
   "is_illegal": false,
   "text": "This card can make a second attack during each Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21015833.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

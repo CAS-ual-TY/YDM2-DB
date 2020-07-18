@@ -3,6 +3,9 @@
   "name": "Dragon Statue",
   "is_illegal": false,
   "text": "A stone warrior with the heart of a dragon.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9197735.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1100,

@@ -3,6 +3,10 @@
   "name": "Gyakutenno Megami",
   "is_illegal": false,
   "text": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31122090.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31122091.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

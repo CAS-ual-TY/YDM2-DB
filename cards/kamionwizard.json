@@ -3,6 +3,9 @@
   "name": "Kamionwizard",
   "is_illegal": false,
   "text": "\"Mystical Elf\" + \"Curtain of the Dark Ones\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41544074.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

@@ -3,6 +3,9 @@
   "name": "Chimaera, the Master of Beasts",
   "is_illegal": false,
   "text": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Beast-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/501000006.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,

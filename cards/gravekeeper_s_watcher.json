@@ -3,6 +3,9 @@
   "name": "Gravekeeper\u0027s Watcher",
   "is_illegal": false,
   "text": "During either player\u0027s turn, when your opponent activates a Spell/Trap Card or monster effect that could make them discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26084285.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

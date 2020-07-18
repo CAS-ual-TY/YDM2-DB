@@ -3,6 +3,9 @@
   "name": "Reborn Tengu",
   "is_illegal": false,
   "text": "If this face-up card leaves the field: Special Summon 1 \"Reborn Tengu\" from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10028593.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,

@@ -3,6 +3,9 @@
   "name": "Heroic Retribution Sword",
   "is_illegal": false,
   "text": "Target 1 face-up \"Heroic\" monster you control; equip this card to that target. All Battle Damage you take from battles involving the equipped monster is also inflicted to your opponent. After damage calculation: Destroy any opponent\u0027s monster that battles the equipped monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49551909.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Naturia Vein",
   "is_illegal": false,
   "text": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of your opponent\u0027s Spell or Trap Card, and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16940215.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 200,

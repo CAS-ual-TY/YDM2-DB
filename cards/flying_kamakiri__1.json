@@ -3,6 +3,9 @@
   "name": "Flying Kamakiri #1",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WIND monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84834865.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1400,

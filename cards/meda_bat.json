@@ -3,6 +3,9 @@
   "name": "Meda Bat",
   "is_illegal": false,
   "text": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76211194.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

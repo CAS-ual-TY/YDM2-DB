@@ -3,6 +3,9 @@
   "name": "Water Element",
   "is_illegal": false,
   "text": "A sea-dwelling spirit that takes away sight by clouding the area in fog.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3732747.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 900,

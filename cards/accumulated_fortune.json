@@ -3,6 +3,9 @@
   "name": "Accumulated Fortune",
   "is_illegal": false,
   "text": "Activate only as Chain Link 4 or higher. Draw 2 cards. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98444741.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

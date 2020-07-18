@@ -3,6 +3,9 @@
   "name": "Knightmare Cerberus",
   "is_illegal": false,
   "text": "2 monsters with different names\nIf this card is Link Summoned: You can discard 1 card, then target 1 Special Summoned monster in your opponent\u0027s Main Monster Zone; destroy it, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Cerberus\" once per turn. Co-linked monsters you control cannot be destroyed by card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75452921.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

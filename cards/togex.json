@@ -3,6 +3,9 @@
   "name": "Togex",
   "is_illegal": false,
   "text": "An agile monster that rolls up to ram its opponents.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33878931.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

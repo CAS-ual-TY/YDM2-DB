@@ -3,6 +3,9 @@
   "name": "Monsturtle",
   "is_illegal": false,
   "text": "Protected by a spiked shell, this turtle has a very nasty disposition.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15820147.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

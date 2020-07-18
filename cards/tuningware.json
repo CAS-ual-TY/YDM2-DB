@@ -3,6 +3,9 @@
   "name": "Tuningware",
   "is_illegal": false,
   "text": "This card can be treated as a Level 2 monster when used for a Synchro Summon. If this card is sent to the Graveyard for a Synchro Summon: Draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92676637.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,

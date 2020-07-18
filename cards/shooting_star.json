@@ -3,6 +3,9 @@
   "name": "Shooting Star",
   "is_illegal": false,
   "text": "If a \"Stardust\" monster is on the field: Target 1 card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47264717.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

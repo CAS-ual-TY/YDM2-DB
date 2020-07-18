@@ -3,6 +3,9 @@
   "name": "Neo Flamvell Sabre",
   "is_illegal": false,
   "text": "While your opponent has 4 or less cards in their Graveyard, this card gains 600 ATK. While your opponent has 8 or more cards in their Graveyard, this card loses 300 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91554542.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1500,

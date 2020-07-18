@@ -3,6 +3,9 @@
   "name": "Botanical Lion",
   "is_illegal": false,
   "text": "This card gains 300 ATK for each Plant-Type monster you control. Control of this face-up card on the field cannot switch.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20546916.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

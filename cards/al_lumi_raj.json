@@ -3,6 +3,9 @@
   "name": "Al-Lumi\u0027raj",
   "is_illegal": false,
   "text": "All monsters on the field lose ATK and DEF equal to their own Level/Rank x 300.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25795273.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1600,

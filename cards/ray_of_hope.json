@@ -3,6 +3,9 @@
   "name": "Ray of Hope",
   "is_illegal": false,
   "text": "Add 2 LIGHT monsters from your Graveyard to your Deck and shuffle it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82529174.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

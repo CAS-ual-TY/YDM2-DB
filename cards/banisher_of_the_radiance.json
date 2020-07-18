@@ -3,6 +3,9 @@
   "name": "Banisher of the Radiance",
   "is_illegal": false,
   "text": "Any card sent to the Graveyard is banished instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94853057.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Eternal Bond",
   "is_illegal": false,
   "text": "Target any number of \"Photon\" monsters in your GY; Special Summon them, but negate their effects. During your Main Phase: You can banish this card from your GY, then target 1 \"Photon\" monster your opponent controls; take control of it, also for the rest of this turn, you cannot declare attacks, except with that monster, and its ATK becomes equal to the combined original ATK of all \"Photon\" monsters you currently control. You can only use each effect of \"Eternal Bond\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45283341.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

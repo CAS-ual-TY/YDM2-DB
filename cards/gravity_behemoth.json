@@ -3,6 +3,9 @@
   "name": "Gravity Behemoth",
   "is_illegal": false,
   "text": "If it is not the first turn of the Duel and there are no cards on the field, you can Normal Summon this card without Tributing. You can destroy all Field Spell Cards on the field. This card cannot attack the turn you activate this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56931015.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2300,

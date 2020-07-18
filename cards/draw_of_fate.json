@@ -3,6 +3,9 @@
   "name": "Draw of Fate",
   "is_illegal": false,
   "text": "If your LP are lower than your opponent\u0027s and your opponent controls a monster with the highest ATK on the field (even if it\u0027s tied): Reveal 3 cards with different names from your Deck, place them on top of your Deck in random order, then draw 1 card. For the rest of this turn after this card resolves, you cannot Set Spells/Traps, also you can only activate one more card or effect. You can only activate 1 \"Draw of Fate\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/856784.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

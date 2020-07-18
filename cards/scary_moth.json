@@ -3,6 +3,9 @@
   "name": "Scary Moth",
   "is_illegal": false,
   "text": "Each player can only Special Summon a monster(s) once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68087897.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

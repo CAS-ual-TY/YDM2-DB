@@ -3,6 +3,9 @@
   "name": "Necro Gardna",
   "is_illegal": false,
   "text": "During your opponent\u0027s turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4906301.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

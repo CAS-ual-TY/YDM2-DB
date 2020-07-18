@@ -3,6 +3,9 @@
   "name": "Hane-Hane",
   "is_illegal": false,
   "text": "FLIP: Select 1 monster on the field and return it to its owner\u0027s hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7089711.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 450,

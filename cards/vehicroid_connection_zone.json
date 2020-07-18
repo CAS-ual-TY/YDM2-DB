@@ -3,6 +3,9 @@
   "name": "Vehicroid Connection Zone",
   "is_illegal": false,
   "text": "Fusion Summon 1 \"Vehicroid\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials, and if you do, it cannot be destroyed by card effects, and its effects cannot be negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23299957.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

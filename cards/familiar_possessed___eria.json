@@ -3,6 +3,10 @@
   "name": "Familiar-Possessed - Eria",
   "is_illegal": false,
   "text": "You can send 1 \"Eria the Water Charmer\" and 1 WATER monster you control to the Graveyard to Special Summon this card from your hand or Deck. If you do, this card gets the following effect: ? During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68881649.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68881650.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1850,

@@ -3,6 +3,9 @@
   "name": "Molten Destruction",
   "is_illegal": false,
   "text": "All FIRE monsters gain 500 ATK and lose 400 DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19384334.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

@@ -3,6 +3,9 @@
   "name": "Water Omotics",
   "is_illegal": false,
   "text": "Transforms the water overflowing from a jar into attacking dragons.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2483611.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,

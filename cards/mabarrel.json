@@ -3,6 +3,9 @@
   "name": "Mabarrel",
   "is_illegal": false,
   "text": "This cannon-like creature fires eyeballs so fast they can\u0027t be seen.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98795934.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

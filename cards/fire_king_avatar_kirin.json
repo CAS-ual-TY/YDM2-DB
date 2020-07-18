@@ -3,6 +3,9 @@
   "name": "Fire King Avatar Kirin",
   "is_illegal": false,
   "text": "If a face-up \"Fire King\" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed and sent to the Graveyard: You can send 1 FIRE monster from your Deck to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96594609.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,

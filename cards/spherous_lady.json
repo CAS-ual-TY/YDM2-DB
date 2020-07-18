@@ -3,6 +3,9 @@
   "name": "Spherous Lady",
   "is_illegal": false,
   "text": "Many have been deceived by the beauty of this vampire.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52121290.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,

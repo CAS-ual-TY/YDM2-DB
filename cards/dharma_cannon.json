@@ -3,6 +3,9 @@
   "name": "Dharma Cannon",
   "is_illegal": false,
   "text": "A monstrous creature whose body is lined with cannons that never miss their targets.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96967123.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 900,

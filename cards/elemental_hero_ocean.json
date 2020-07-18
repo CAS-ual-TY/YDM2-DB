@@ -3,6 +3,9 @@
   "name": "Elemental HERO Ocean",
   "is_illegal": false,
   "text": "Once per turn, during your Standby Phase: You can target 1 \"HERO\" monster you control or in your Graveyard; return that target to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37195861.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

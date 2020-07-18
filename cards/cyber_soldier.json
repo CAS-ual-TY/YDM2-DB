@@ -3,6 +3,9 @@
   "name": "Cyber Soldier",
   "is_illegal": false,
   "text": "Guardian of the Machine Master, it crushes opposition by rolling over them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44865098.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

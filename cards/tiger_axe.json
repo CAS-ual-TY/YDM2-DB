@@ -3,6 +3,10 @@
   "name": "Tiger Axe",
   "is_illegal": false,
   "text": "A fast and powerful axe-wielding beast-warrior.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49791927.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49791928.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,

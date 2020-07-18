@@ -3,6 +3,9 @@
   "name": "Lector Pendulum, the Dracoverlord",
   "is_illegal": false,
   "text": "At the start of the Damage Step, if this card battles a Pendulum Monster: Destroy both that monster and this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7127502.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1950,

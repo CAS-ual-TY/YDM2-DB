@@ -3,6 +3,9 @@
   "name": "Lightforce Sword",
   "is_illegal": false,
   "text": "Banish 1 random card from your opponent\u0027s hand, face-down. During your opponent\u0027s 4th Standby Phase after this card\u0027s activation, return that card to their hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49587034.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

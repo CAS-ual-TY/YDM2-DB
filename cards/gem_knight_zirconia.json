@@ -3,6 +3,9 @@
   "name": "Gem-Knight Zirconia",
   "is_illegal": false,
   "text": "1 \"Gem-Knight\" monster + 1 Rock-Type monster",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8692301.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2900,

@@ -3,6 +3,9 @@
   "name": "Earth Effigy",
   "is_illegal": false,
   "text": "This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53461122.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 100,

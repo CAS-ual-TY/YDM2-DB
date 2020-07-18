@@ -3,6 +3,9 @@
   "name": "Giant Flea",
   "is_illegal": false,
   "text": "A massive flea that feeds on the blood of its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41762634.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

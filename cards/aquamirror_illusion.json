@@ -3,6 +3,9 @@
   "name": "Aquamirror Illusion",
   "is_illegal": false,
   "text": "Special Summon 1 \"Gishki\" Ritual Monster from your hand. It cannot attack, and is returned to the hand during the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64437633.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

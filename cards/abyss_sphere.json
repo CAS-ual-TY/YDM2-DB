@@ -3,6 +3,9 @@
   "name": "Abyss-sphere",
   "is_illegal": false,
   "text": "Special Summon 1 \"Mermail\" monster from your Deck. Its effects are negated. You cannot activate any Spell Cards. When this card leaves the field, destroy that monster. Destroy this card during your opponent\u0027s next End Phase after activation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60202749.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Candle of Fate",
   "is_illegal": false,
   "text": "Decides the fate of an opponent when the candle on its fingertip burns out.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47695416.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

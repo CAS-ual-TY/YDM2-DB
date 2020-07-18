@@ -3,6 +3,9 @@
   "name": "Sanwitch",
   "is_illegal": false,
   "text": "\"Sangan\" + \"Witch of the Black Forest\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53539634.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2100,

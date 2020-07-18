@@ -3,6 +3,9 @@
   "name": "Evilswarm Azzathoth",
   "is_illegal": false,
   "text": "FLIP: Target 1 Special Summoned monster on the field; shuffle that target into the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42679662.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 750,

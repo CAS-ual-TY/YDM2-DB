@@ -3,6 +3,9 @@
   "name": "Obese Marmot of Nefariousness",
   "is_illegal": false,
   "text": "An ill-mannered field varmint that will sink its teeth into anything.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56713552.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 750,

@@ -3,6 +3,9 @@
   "name": "Pyramid of Light",
   "is_illegal": false,
   "text": "If this face-up card is removed from your side of the field, destroy \"Andro Sphinx\" and \"Sphinx Teleia\" on your side of the field and remove them from play.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53569894.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

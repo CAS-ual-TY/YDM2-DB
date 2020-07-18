@@ -3,6 +3,9 @@
   "name": "Griffore",
   "is_illegal": false,
   "text": "This monster\u0027s tough hide deflects almost any attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53829412.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

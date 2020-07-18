@@ -3,6 +3,9 @@
   "name": "Cyber Laser Dragon",
   "is_illegal": false,
   "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Photon Generator Unit\". Once per turn, you can destroy 1 monster with ATK or DEF equal to or higher than the ATK of this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4162088.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,

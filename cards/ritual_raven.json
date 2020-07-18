@@ -3,6 +3,9 @@
   "name": "Ritual Raven",
   "is_illegal": false,
   "text": "If you Ritual Summon a DARK Ritual Monster, this 1 card can be used as the entire Tribute.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34334692.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 300,

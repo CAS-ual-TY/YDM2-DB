@@ -3,6 +3,9 @@
   "name": "Genex Ally Solid",
   "is_illegal": false,
   "text": "Once per turn, you can send 1 face-up WATER \"Genex\" monster you control to the Graveyard to draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83500096.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,

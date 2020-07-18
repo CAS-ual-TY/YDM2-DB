@@ -3,6 +3,9 @@
   "name": "Ground Attacker Bugroth",
   "is_illegal": false,
   "text": "A surface battle robot that was once used for sea warfare.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58314394.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "The Thing That Hides in the Mud",
   "is_illegal": false,
   "text": "This monster melts its way underground to attack enemies from below.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18180762.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

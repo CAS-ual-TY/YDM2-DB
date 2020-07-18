@@ -3,6 +3,9 @@
   "name": "Just One Forbidden Drop",
   "is_illegal": false,
   "text": "Send any number of other cards from your hand and/or field to the GY; until the end of this turn, halve the ATK of exactly that many Effect Monsters your opponent controls, also negate their effects. Your opponent cannot activate cards, or the effects of cards, with the same original type of card (Monster, Spell, or Trap) as the cards sent to the GY to activate this card, in response to this card\u0027s activation. You can only activate 1 \"Just One Forbidden Drop\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24299458.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

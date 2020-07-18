@@ -3,6 +3,9 @@
   "name": "Ancient Tool",
   "is_illegal": false,
   "text": "A destructive machine discovered in the Ruins of the Ancients.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49587396.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

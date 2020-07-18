@@ -3,6 +3,9 @@
   "name": "Achacha Chanbara",
   "is_illegal": false,
   "text": "During either player\u0027s turn, when a card or effect is activated that will inflict damage when it resolves: You can Special Summon this card from your hand, and if you do, inflict 400 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62476197.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1400,

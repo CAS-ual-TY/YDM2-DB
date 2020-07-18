@@ -3,6 +3,9 @@
   "name": "Ansatsu",
   "is_illegal": false,
   "text": "A silent and deadly warrior specializing in assassinations.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48365709.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,

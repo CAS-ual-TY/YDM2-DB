@@ -3,6 +3,9 @@
   "name": "Wing Egg Elf",
   "is_illegal": false,
   "text": "This fairy in an eggshell uses massive wings to blow back almost any projectile attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98582704.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 500,

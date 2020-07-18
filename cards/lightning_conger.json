@@ -3,6 +3,9 @@
   "name": "Lightning Conger",
   "is_illegal": false,
   "text": "This massive eel generates huge charges of electricity and unleashes them as thunderbolts.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27671321.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 350,

@@ -3,6 +3,9 @@
   "name": "Dice Re-Roll",
   "is_illegal": false,
   "text": "One time, during the rest of this turn, if either player(s) rolls a die (or dice), you can have the player(s) re-roll. (You can only gain this effect once per turn.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83241722.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

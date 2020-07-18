@@ -3,6 +3,9 @@
   "name": "SPYRAL Super Agent",
   "is_illegal": false,
   "text": "If this card is in your hand: You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent\u0027s Deck, and if you do, Special Summon this card if it is a card of that type. If this card is Special Summoned by the effect of a \"SPYRAL\" card: You can target 1 Spell/Trap your opponent controls; destroy it. You can only use each effect of \"SPYRAL Super Agent\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41091257.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

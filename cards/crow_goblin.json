@@ -3,6 +3,9 @@
   "name": "Crow Goblin",
   "is_illegal": false,
   "text": "A clever long-nosed goblin, he is a force to be reckoned with.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77998771.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1850,

@@ -3,6 +3,9 @@
   "name": "Chronomaly Mud Golem",
   "is_illegal": false,
   "text": "If a \"Chronomaly\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67559101.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,

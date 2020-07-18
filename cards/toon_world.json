@@ -3,6 +3,10 @@
   "name": "Toon World",
   "is_illegal": false,
   "text": "Activate this card by paying 1000 LP.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15259703.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15259704.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

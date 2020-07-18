@@ -3,6 +3,9 @@
   "name": "Detonator Circle \"A\"",
   "is_illegal": false,
   "text": "Destroy 1 face-up monster with an A-Counter(s), and then inflict 1000 damage to each player.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20985997.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

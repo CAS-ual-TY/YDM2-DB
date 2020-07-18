@@ -3,6 +3,9 @@
   "name": "Deck Devastation Virus",
   "is_illegal": false,
   "text": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent\u0027s hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card\u0027s activation, and destroy all those monsters with 1500 or less ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35027493.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

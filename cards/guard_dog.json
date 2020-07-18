@@ -3,6 +3,9 @@
   "name": "Guard Dog",
   "is_illegal": false,
   "text": "FLIP: Your opponent cannot Special Summon for the rest of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57346400.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

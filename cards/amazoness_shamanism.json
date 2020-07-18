@@ -3,6 +3,9 @@
   "name": "Amazoness Shamanism",
   "is_illegal": false,
   "text": "Destroy all face-up \"Amazoness\" monsters you control. Then, you can Special Summon any number of Level 4 or lower \"Amazoness\" monsters from your Graveyard in face-up Defense Position, up to the number of monsters destroyed by this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6459419.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

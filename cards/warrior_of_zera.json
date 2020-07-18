@@ -3,6 +3,9 @@
   "name": "Warrior of Zera",
   "is_illegal": false,
   "text": "A wandering warrior who seeks the sanctuary where he can gain the power of the Archlords. To escape the temptation of evil fiends, he fights solo day by day.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66073051.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Battle Tuned",
   "is_illegal": false,
   "text": "Remove from play 1 Tuner monster from your Graveyard. Target face-up monster you control gains ATK equal to the removed monster\u0027s ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5052212.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

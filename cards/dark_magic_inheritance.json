@@ -3,6 +3,9 @@
   "name": "Dark Magic Inheritance",
   "is_illegal": false,
   "text": "Banish 2 Spells from your GY; add 1 Spell/Trap from your Deck to your hand, that specifically lists the card \"Dark Magician\" or \"Dark Magician Girl\" in its text, except \"Dark Magic Inheritance\". You can only activate 1 \"Dark Magic Inheritance\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41735184.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

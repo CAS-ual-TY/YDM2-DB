@@ -3,6 +3,9 @@
   "name": "Rain of Mercy",
   "is_illegal": false,
   "text": "Increases the Life Points of both players by 1000 points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66719324.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

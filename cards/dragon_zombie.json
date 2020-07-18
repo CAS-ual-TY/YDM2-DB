@@ -3,6 +3,9 @@
   "name": "Dragon Zombie",
   "is_illegal": false,
   "text": "A dragon revived by sorcery. Its breath is highly corrosive.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66672569.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

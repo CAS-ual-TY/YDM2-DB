@@ -3,6 +3,9 @@
   "name": "Barrier Wave",
   "is_illegal": false,
   "text": "Activate by Tributing 1 Synchro Monster when an opponent\u0027s monster declares an attack. Change all Attack Position monsters your opponent controls to Defense Position. Then, inflict damage to your opponent equal to the attacking monster\u0027s DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96700602.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

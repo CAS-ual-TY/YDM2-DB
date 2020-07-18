@@ -3,6 +3,9 @@
   "name": "7 Colored Fish",
   "is_illegal": false,
   "text": "A rare rainbow fish that has never been caught by mortal man.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23771716.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1800,

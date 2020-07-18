@@ -3,6 +3,9 @@
   "name": "Belial - Marquis of Darkness",
   "is_illegal": false,
   "text": "Your opponent cannot target any face-up monster you control, except \"Belial - Marquis of Darkness\", for an attack, or with Spell/Trap effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33655493.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2800,

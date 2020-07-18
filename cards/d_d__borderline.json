@@ -3,6 +3,9 @@
   "name": "D.D. Borderline",
   "is_illegal": false,
   "text": "When there are no Spell Cards in your Graveyard, neither player can conduct their Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60912752.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

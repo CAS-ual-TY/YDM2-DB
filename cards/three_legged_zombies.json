@@ -3,6 +3,9 @@
   "name": "Three-Legged Zombies",
   "is_illegal": false,
   "text": "A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33734439.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1100,

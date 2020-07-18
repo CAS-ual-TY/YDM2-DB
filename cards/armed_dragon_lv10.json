@@ -3,6 +3,9 @@
   "name": "Armed Dragon LV10",
   "is_illegal": false,
   "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59464593.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 3000,

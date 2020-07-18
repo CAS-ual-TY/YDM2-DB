@@ -3,6 +3,9 @@
   "name": "D/D/D Human Resources",
   "is_illegal": false,
   "text": "Shuffle 3 cards into the Deck (any combination of \"D/D\" monsters in your hand, field, or Graveyard, and/or \"D/D\" cards in your Pendulum Zone), then you can add 2 \"D/D\" monsters from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72648577.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

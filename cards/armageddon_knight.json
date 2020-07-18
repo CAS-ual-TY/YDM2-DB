@@ -3,6 +3,9 @@
   "name": "Armageddon Knight",
   "is_illegal": false,
   "text": "When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28985331.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,

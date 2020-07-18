@@ -3,6 +3,9 @@
   "name": "Amazoness Blowpiper",
   "is_illegal": false,
   "text": "Select 1 face-up monster your opponent controls during each of your Standby Phases. It loses 500 ATK until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73574678.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

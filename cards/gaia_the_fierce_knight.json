@@ -3,6 +3,10 @@
   "name": "Gaia The Fierce Knight",
   "is_illegal": false,
   "text": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6368038.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6368039.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2300,

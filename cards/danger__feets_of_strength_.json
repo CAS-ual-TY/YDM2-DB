@@ -3,6 +3,9 @@
   "name": "Danger! Feets of Strength!",
   "is_illegal": false,
   "text": "Equip only to a \"Danger!\" monster. It gains 800 ATK/DEF. It cannot be destroyed by card effects. It can make up to 2 attacks on monsters during each Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83928661.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

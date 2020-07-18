@@ -3,6 +3,9 @@
   "name": "Lord of D.",
   "is_illegal": false,
   "text": "Neither player can target Dragon monsters on the field with card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17985575.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

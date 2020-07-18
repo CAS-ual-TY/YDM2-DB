@@ -3,6 +3,9 @@
   "name": "Cyberdark Edge",
   "is_illegal": false,
   "text": "If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. This card can attack directly. If it does using this effect, its ATK is halved during damage calculation only. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77625948.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

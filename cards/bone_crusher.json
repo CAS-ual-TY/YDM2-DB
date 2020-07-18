@@ -3,6 +3,9 @@
   "name": "Bone Crusher",
   "is_illegal": false,
   "text": "When this card is Special Summoned from your Graveyard by the effect of a Zombie-Type monster: You can target 1 Spell/Trap Card your opponent controls; destroy that target. During the End Phase of the turn this card was Special Summoned: Destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37675138.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

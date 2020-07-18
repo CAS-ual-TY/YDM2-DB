@@ -3,6 +3,9 @@
   "name": "Gagagashield",
   "is_illegal": false,
   "text": "Target 1 Spellcaster monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18446701.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

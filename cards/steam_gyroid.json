@@ -3,6 +3,9 @@
   "name": "Steam Gyroid",
   "is_illegal": false,
   "text": "\"Gyroid\" + \"Steamroid\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5368615.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2200,

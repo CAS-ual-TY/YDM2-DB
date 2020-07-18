@@ -3,6 +3,9 @@
   "name": "Rinyan, Lightsworn Rogue",
   "is_illegal": false,
   "text": "FLIP: Target 1 \"Lightsworn\" monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38815069.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,

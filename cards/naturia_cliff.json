@@ -3,6 +3,9 @@
   "name": "Naturia Cliff",
   "is_illegal": false,
   "text": "When this card is sent from the field to the Graveyard, you can Special Summon 1 Level 4 or lower \"Naturia\" monster from your Deck in face-up Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33866130.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

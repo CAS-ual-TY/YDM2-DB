@@ -3,6 +3,9 @@
   "name": "Toon Alligator",
   "is_illegal": false,
   "text": "An alligator monster straight from the cartoons.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59383041.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

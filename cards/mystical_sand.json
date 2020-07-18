@@ -3,6 +3,9 @@
   "name": "Mystical Sand",
   "is_illegal": false,
   "text": "\"Giant Soldier of Stone\" + \"Ancient Elf\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32751480.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2100,

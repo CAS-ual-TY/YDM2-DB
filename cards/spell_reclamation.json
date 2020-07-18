@@ -3,6 +3,9 @@
   "name": "Spell Reclamation",
   "is_illegal": false,
   "text": "Discard 1 card and chain this card to a Spell Card you activated. Whenever that Spell Card is sent to the Graveyard, return it to its owner\u0027s hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76137276.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

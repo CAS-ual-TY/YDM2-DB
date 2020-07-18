@@ -3,6 +3,9 @@
   "name": "Barrel Lily",
   "is_illegal": false,
   "text": "This wicked flower attacks enemies with pollen projectiles.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67841515.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1100,

@@ -3,6 +3,9 @@
   "name": "Winged Sage Falcos",
   "is_illegal": false,
   "text": "When this card destroys an opponent\u0027s face-up Attack Position monster by battle and sends it to their Graveyard: You can place that monster on top of their Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87523462.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,

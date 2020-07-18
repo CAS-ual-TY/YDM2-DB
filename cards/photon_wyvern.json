@@ -3,6 +3,9 @@
   "name": "Photon Wyvern",
   "is_illegal": false,
   "text": "When this card is Normal or Flip Summoned: Destroy all Set cards your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55758589.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,

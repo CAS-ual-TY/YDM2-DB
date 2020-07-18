@@ -3,6 +3,9 @@
   "name": "Burst Breath",
   "is_illegal": false,
   "text": "Tribute 1 Dragon-Type monster; destroy all face-up monsters on the field whose DEF is less than or equal to the ATK the Tributed monster had on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80163754.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

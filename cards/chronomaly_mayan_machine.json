@@ -3,6 +3,9 @@
   "name": "Chronomaly Mayan Machine",
   "is_illegal": false,
   "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25163248.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

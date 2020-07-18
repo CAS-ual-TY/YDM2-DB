@@ -3,6 +3,9 @@
   "name": "Prisman",
   "is_illegal": false,
   "text": "This crystalline monster focuses light to create a lethal laser.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80234301.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 800,

@@ -3,6 +3,9 @@
   "name": "Man-Eating Plant",
   "is_illegal": false,
   "text": "A meat-eating plant that is attractive to the eye but dangerous when approached.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49127943.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

@@ -3,6 +3,9 @@
   "name": "Vice Dragon",
   "is_illegal": false,
   "text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54343893.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

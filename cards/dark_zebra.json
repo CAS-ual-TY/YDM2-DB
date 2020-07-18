@@ -3,6 +3,9 @@
   "name": "Dark Zebra",
   "is_illegal": false,
   "text": "If this is the only Monster Card in your control during your Standby Phase, it is changed to Defense Position. You cannot change the position of this card during the same turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59784896.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

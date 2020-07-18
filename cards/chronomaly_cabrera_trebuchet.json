@@ -3,6 +3,9 @@
   "name": "Chronomaly Cabrera Trebuchet",
   "is_illegal": false,
   "text": "Once per turn: You can Tribute 1 other \"Chronomaly\" monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20154092.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

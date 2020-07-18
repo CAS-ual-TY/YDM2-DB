@@ -3,6 +3,9 @@
   "name": "Rainbow Refraction",
   "is_illegal": false,
   "text": "If a monster(s) you control whose original name is \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" activated its effect this turn: Special Summon any number of \"Crystal Beast\" monsters with different names from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40854824.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

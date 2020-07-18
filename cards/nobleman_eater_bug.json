@@ -3,6 +3,9 @@
   "name": "Nobleman-Eater Bug",
   "is_illegal": false,
   "text": "FLIP: Destroy 2 monsters on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65878864.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

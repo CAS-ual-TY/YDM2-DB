@@ -3,6 +3,9 @@
   "name": "Superheavy Samurai Soulbuster Gauntlet",
   "is_illegal": false,
   "text": "You can target 1 \"Superheavy Samurai\" monster you control; equip this monster from your hand or field to that target. It gains 400 DEF. During either player\u0027s Damage Step, when a Defense Position \"Superheavy Samurai\" monster you control battles an opponent\u0027s monster, and you have no Spell/Trap Cards in your Graveyard: You can send this card from your hand to the Graveyard; your battling monster\u0027s DEF becomes double its original DEF until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35800511.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

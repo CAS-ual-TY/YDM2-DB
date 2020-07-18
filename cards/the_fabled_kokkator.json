@@ -3,6 +3,9 @@
   "name": "The Fabled Kokkator",
   "is_illegal": false,
   "text": "When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard, you can discard 1 \"Fabled\" monster to draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26704411.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

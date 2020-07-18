@@ -3,6 +3,9 @@
   "name": "Destruction Cyclone",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WIND monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59235795.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,

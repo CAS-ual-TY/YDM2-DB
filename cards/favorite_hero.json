@@ -3,6 +3,9 @@
   "name": "Favorite Hero",
   "is_illegal": false,
   "text": "Equip only to a Level 5 or higher \"HERO\" monster. If you control a card in your Field Zone, the equipped monster gains ATK equal to its original DEF, also your opponent cannot target it with card effects. At the start of the Battle Phase: You can activate 1 Field Spell directly from your hand or Deck. You can only use this effect of \"Favorite Hero\" once per turn. When the equipped monster attacks and destroys an opponent\u0027s monster by battle: You can send this card to the GY; the attacking monster can make a second attack in a row.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11881272.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

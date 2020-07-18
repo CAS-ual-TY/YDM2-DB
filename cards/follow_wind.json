@@ -3,6 +3,9 @@
   "name": "Follow Wind",
   "is_illegal": false,
   "text": "Increase the ATK and DEF of a Winged Beast-Type monster equipped with this card by 300 points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98252586.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

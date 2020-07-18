@@ -3,6 +3,9 @@
   "name": "Shield Wing",
   "is_illegal": false,
   "text": "Twice per turn, this card cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28859794.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 0,

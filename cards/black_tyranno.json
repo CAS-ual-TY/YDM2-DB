@@ -3,6 +3,9 @@
   "name": "Black Tyranno",
   "is_illegal": false,
   "text": "If the only cards your opponent controls are Defense Position monsters, this card can attack directly.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38670435.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2600,

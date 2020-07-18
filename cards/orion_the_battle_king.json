@@ -3,6 +3,9 @@
   "name": "Orion the Battle King",
   "is_illegal": false,
   "text": "None have lived to tell tales of this powerful battle fairy.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2971090.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

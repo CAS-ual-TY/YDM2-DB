@@ -3,6 +3,9 @@
   "name": "Fabled Soulkius",
   "is_illegal": false,
   "text": "If this card is in your Graveyard: You can send 2 cards, except \"Fabled Soulkius\", from your hand to the Graveyard; Special Summon this card from the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72328962.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2200,

@@ -3,6 +3,9 @@
   "name": "Ground Spider",
   "is_illegal": false,
   "text": "Once per turn, if you control this face-up Defense Position monster when your opponent Normal or Special Summons a monster(s), you can change that monster(s) to Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17243896.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

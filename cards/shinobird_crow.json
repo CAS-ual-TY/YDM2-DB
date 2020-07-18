@@ -3,6 +3,9 @@
   "name": "Shinobird Crow",
   "is_illegal": false,
   "text": "Cannot be Special Summoned. Once per turn, during either player\u0027s Damage Step, when this card battles an opponent\u0027s monster: You can discard 1 Spirit monster; until the end of the Battle Phase, this card gains ATK and DEF equal to the ATK and DEF of the discarded monster. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39817919.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 0,

@@ -3,6 +3,9 @@
   "name": "Re-Cover",
   "is_illegal": false,
   "text": "If this card is in the Graveyard and your opponent has 5 or more cards in their Extra Deck than you do: You can pay 2000 LP; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Re-Cover\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58695102.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

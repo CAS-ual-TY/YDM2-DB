@@ -3,6 +3,9 @@
   "name": "Assault Blackwing - Kunai the Drizzle",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by Tributing 1 \"Blackwing\" monster. If Summoned this way, this card is treated as a Tuner monster. Once per turn: You can target 1 Synchro Monster you control, and declare a Level from 1 to 8; it becomes that Level until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70456282.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2100,

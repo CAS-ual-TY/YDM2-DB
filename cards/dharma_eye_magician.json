@@ -3,6 +3,9 @@
   "name": "Dharma-Eye Magician",
   "is_illegal": false,
   "text": "While this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent\u0027s card effects during the turn this card was Pendulum Summoned.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88757791.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,

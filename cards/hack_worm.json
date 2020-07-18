@@ -3,6 +3,9 @@
   "name": "Hack Worm",
   "is_illegal": false,
   "text": "If your opponent controls no monsters, you can Special Summon this card (from your hand).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97466712.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 400,

@@ -3,6 +3,9 @@
   "name": "Accesscode Talker",
   "is_illegal": false,
   "text": "2+ Effect Monsters\nYour opponent cannot activate cards or effects in response to this card\u0027s effect activations. If this card is Link Summoned: You can target 1 Link Monster that was used as material for its Link Summon; this card gains ATK equal to that monster\u0027s Link Rating x 1000. You can banish 1 Link Monster from your field or GY; destroy 1 card your opponent controls, also for the rest of this turn, you cannot banish monsters with that same Attribute to activate this effect of \"Accesscode Talker\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86066372.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2300,

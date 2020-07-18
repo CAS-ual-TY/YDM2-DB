@@ -3,6 +3,9 @@
   "name": "Roaring Ocean Snake",
   "is_illegal": false,
   "text": "\"Mystic Lamp\" + \"Hyosube\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19066538.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2100,

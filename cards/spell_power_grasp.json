@@ -3,6 +3,9 @@
   "name": "Spell Power Grasp",
   "is_illegal": false,
   "text": "Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target, then you can add 1 \"Spell Power Grasp\" from your Deck to your hand. You can only activate 1 \"Spell Power Grasp\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75014062.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

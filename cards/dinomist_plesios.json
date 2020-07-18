@@ -3,6 +3,9 @@
   "name": "Dinomist Plesios",
   "is_illegal": false,
   "text": "All face-up monsters your opponent controls lose 100 ATK and DEF for each \"Dinomist\" card you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38988538.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,

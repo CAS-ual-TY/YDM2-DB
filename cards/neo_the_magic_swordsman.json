@@ -3,6 +3,9 @@
   "name": "Neo the Magic Swordsman",
   "is_illegal": false,
   "text": "A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50930991.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

@@ -3,6 +3,9 @@
   "name": "Electric Snake",
   "is_illegal": false,
   "text": "When this card is discarded from your hand to the Graveyard by an effect of a card controlled by your opponent, draw 2 cards from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11324436.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 800,

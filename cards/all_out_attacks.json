@@ -3,6 +3,9 @@
   "name": "All-Out Attacks",
   "is_illegal": false,
   "text": "If a monster(s) is Special Summoned while this card is face-up on the field: Change that monster to face-up Attack Position, and must attack, if able, during the turn they are Special Summoned.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30834988.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Masked Clown",
   "is_illegal": false,
   "text": "This warrior\u0027s fatal dance is performed with a lethal sickle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77581312.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,

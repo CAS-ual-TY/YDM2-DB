@@ -3,6 +3,9 @@
   "name": "Kappa Avenger",
   "is_illegal": false,
   "text": "An amphibian that sold his soul for unlimited power to avenge his late friend.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48109103.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,

@@ -3,6 +3,9 @@
   "name": "Green Phantom King",
   "is_illegal": false,
   "text": "This youthful king of the forests lives in a green world, abundant with trees and wildlife.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22910685.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

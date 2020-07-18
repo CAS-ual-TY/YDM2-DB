@@ -3,6 +3,9 @@
   "name": "\"A\" Cell Breeding Device",
   "is_illegal": false,
   "text": "During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34541863.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

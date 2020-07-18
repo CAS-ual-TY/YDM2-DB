@@ -3,6 +3,9 @@
   "name": "Dwimmered Glimmer",
   "is_illegal": false,
   "text": "Activate this card by banishing 1 face-up monster you control or 1 monster in your GY; Special Summon this card as a Normal Monster (Spellcaster/LIGHT/ATK 0/DEF 0) with the same Level as that banished monster. (This card is also still a Trap.) You can only activate 1 \"Dwimmered Glimmer\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46984349.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

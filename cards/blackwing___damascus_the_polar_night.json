@@ -3,6 +3,9 @@
   "name": "Blackwing - Damascus the Polar Night",
   "is_illegal": false,
   "text": "During either player\u0027s turn: You can discard this card to target 1 \"Blackwing\" monster you control; it gains 500 ATK until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58131925.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

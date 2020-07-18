@@ -3,6 +3,9 @@
   "name": "Koa\u0027ki Meiru Doom",
   "is_illegal": false,
   "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa\u0027ki Meiru\" from your hand to the Graveyard or reveal 1 Fiend-Type monster in your hand. Negate the effects of LIGHT and DARK monsters that activate during the Main Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80925836.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,

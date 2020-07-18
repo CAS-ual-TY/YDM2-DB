@@ -3,6 +3,9 @@
   "name": "Hanewata",
   "is_illegal": false,
   "text": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20450925.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 200,

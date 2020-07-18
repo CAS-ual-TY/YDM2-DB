@@ -3,6 +3,9 @@
   "name": "Synchro Magnet",
   "is_illegal": false,
   "text": "This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50702124.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

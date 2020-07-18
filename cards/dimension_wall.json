@@ -3,6 +3,9 @@
   "name": "Dimension Wall",
   "is_illegal": false,
   "text": "Activate only when an opponent\u0027s monster declares an attack. Instead of you, your opponent takes the Battle Damage you would have taken from this battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67095270.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

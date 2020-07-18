@@ -3,6 +3,9 @@
   "name": "Beast Rage",
   "is_illegal": false,
   "text": "All monsters you control gain 200 ATK for each of your removed from play Beast-Type and Winged Beast-Type monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9999961.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

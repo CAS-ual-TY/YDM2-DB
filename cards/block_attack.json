@@ -3,6 +3,9 @@
   "name": "Block Attack",
   "is_illegal": false,
   "text": "Target 1 face-up Attack Position monster your opponent controls; change that target to face-up Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25880422.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

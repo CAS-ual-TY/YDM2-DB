@@ -3,6 +3,9 @@
   "name": "Armored Glass",
   "is_illegal": false,
   "text": "You can only activate this card when a monster is equipped with an Equip Card. Negate the effects of all Equip Cards on the field during the turn this card is activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36868108.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

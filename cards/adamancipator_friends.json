@@ -3,6 +3,9 @@
   "name": "Adamancipator Friends",
   "is_illegal": false,
   "text": "Excavate cards from the top of your Deck, equal to the number of Rock monsters you control +5, and if you do, you can add 1 excavated Rock monster to your hand whose Level is less than or equal to the number of excavated cards, also place the rest on the bottom of your Deck in any order. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except Rock monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99927991.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

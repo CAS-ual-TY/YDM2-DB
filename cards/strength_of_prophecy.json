@@ -3,6 +3,9 @@
   "name": "Strength of Prophecy",
   "is_illegal": false,
   "text": "Once per turn: You can shuffle 1 \"Spellbook\" Spell Card from your Graveyard into your Deck to target 1 face-up Spellcaster-Type monster on the field; increase its Level by 1 and its ATK by 500.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13002461.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1500,

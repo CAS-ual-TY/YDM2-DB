@@ -3,6 +3,9 @@
   "name": "Bean Soldier",
   "is_illegal": false,
   "text": "A plant-warrior that attacks with seeds and sword.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84990171.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

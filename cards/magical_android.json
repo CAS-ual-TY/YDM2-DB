@@ -3,6 +3,9 @@
   "name": "Magical Android",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nDuring each of your End Phases: Gain 600 LP for each Psychic-Type monster you currently control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43385557.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,

@@ -3,6 +3,9 @@
   "name": "Mystical Moon",
   "is_illegal": false,
   "text": "Equip only to a Beast-Warrior-Type monster. It gains 300 ATK and DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36607978.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

@@ -3,6 +3,9 @@
   "name": "Rhaimundos of the Red Sword",
   "is_illegal": false,
   "text": "Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62403074.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

@@ -3,6 +3,9 @@
   "name": "Fiend Reflection #2",
   "is_illegal": false,
   "text": "A bird-beast that summons reinforcements with a hand mirror.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2863439.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1100,

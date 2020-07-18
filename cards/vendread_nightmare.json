@@ -3,6 +3,9 @@
   "name": "Vendread Nightmare",
   "is_illegal": false,
   "text": "Once per turn: You can Tribute 1 or more \"Vendread\" monsters from your hand and/or field, then target 1 face-up monster you control; increase its Level by the number of monsters Tributed, until the end of this turn. When your attacking \"Vendread\" Ritual Monster destroys an opponent\u0027s monster by battle: You can have your monster gain 1000 ATK. You can only use this effect of \"Vendread Nightmare\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33971095.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

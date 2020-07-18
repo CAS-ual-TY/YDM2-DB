@@ -3,6 +3,9 @@
   "name": "Performapal Sellshell Crab",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 Pendulum Monster you control; it gains 300 ATK for each \"Performapal\" monster you currently control, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23377694.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 500,

@@ -3,6 +3,9 @@
   "name": "Ancient Brain",
   "is_illegal": false,
   "text": "A fallen fairy that is powerful in the dark.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42431843.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

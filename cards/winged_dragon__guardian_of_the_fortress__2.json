@@ -3,6 +3,9 @@
   "name": "Winged Dragon, Guardian of the Fortress #2",
   "is_illegal": false,
   "text": "This monster\u0027s wings are capable of generating tornadoes.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57405307.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,

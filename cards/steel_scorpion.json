@@ -3,6 +3,9 @@
   "name": "Steel Scorpion",
   "is_illegal": false,
   "text": "A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent\u0027s 2nd turn after the attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13599884.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 250,

@@ -3,6 +3,9 @@
   "name": "Bujingi Crane",
   "is_illegal": false,
   "text": "During damage calculation (in either player\u0027s turn), if a Beast-Warrior-Type \"Bujin\" monster you control battles an opponent\u0027s monster: You can send this card from your hand to the Graveyard; the ATK of your monster becomes double its original ATK, during that damage calculation only.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68601507.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "D/D Cerberus",
   "is_illegal": false,
   "text": "When this card is Pendulum Summoned from the hand, while you control a \"D/D\" monster other than \"D/D Cerberus\": You can target 1 Continuous Spell Card in your Graveyard; add it to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39153655.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

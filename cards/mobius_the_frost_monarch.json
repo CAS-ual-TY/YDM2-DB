@@ -3,6 +3,9 @@
   "name": "Mobius the Frost Monarch",
   "is_illegal": false,
   "text": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4929256.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2400,

@@ -3,6 +3,9 @@
   "name": "Mechanical Snail",
   "is_illegal": false,
   "text": "A cyborg snail that still travels at a slow pace.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34442949.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

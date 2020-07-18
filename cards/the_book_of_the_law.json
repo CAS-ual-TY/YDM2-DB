@@ -3,6 +3,9 @@
   "name": "The Book of the Law",
   "is_illegal": false,
   "text": "Tribute 1 \"Invoked\" monster; Special Summon 1 \"Invoked\" monster from your Extra Deck with a different original Attribute from that monster\u0027s. (This Special Summon is treated as a Fusion Summon.) You can only activate 1 \"The Book of the Law\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/458748.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

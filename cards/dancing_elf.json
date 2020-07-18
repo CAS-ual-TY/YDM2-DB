@@ -3,6 +3,9 @@
   "name": "Dancing Elf",
   "is_illegal": false,
   "text": "An elf that dances across the sky with wings of razor-sharp blades.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59983499.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 300,

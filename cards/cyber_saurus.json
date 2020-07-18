@@ -3,6 +3,9 @@
   "name": "Cyber Saurus",
   "is_illegal": false,
   "text": "\"Blast Juggler\" + \"Two-Headed King Rex\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89112729.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

@@ -3,6 +3,9 @@
   "name": "The Traveler and the Burning Abyss",
   "is_illegal": false,
   "text": "Target any number of \"Burning Abyss\" monsters in your Graveyard that were sent there this turn; Special Summon them in Defense Position. You can only activate 1 \"The Traveler and the Burning Abyss\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20036055.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

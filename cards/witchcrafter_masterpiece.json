@@ -3,6 +3,9 @@
   "name": "Witchcrafter Masterpiece",
   "is_illegal": false,
   "text": "If you control a \"Witchcrafter\" monster: Target 1 Spell in either GY; add 1 card with the same name from your Deck to your hand. During either player\u0027s turn, except the turn this card was sent to the GY: You can banish this card and any number of Spells from your GY; Special Summon 1 \"Witchcrafter\" monster from your Deck whose Level equals the number of Spells banished to activate this effect. You can only use each effect of \"Witchcrafter Masterpiece\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55072170.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Trade-In",
   "is_illegal": false,
   "text": "Discard 1 Level 8 monster; draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38120068.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

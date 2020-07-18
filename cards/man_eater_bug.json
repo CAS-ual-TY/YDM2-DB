@@ -3,6 +3,9 @@
   "name": "Man-Eater Bug",
   "is_illegal": false,
   "text": "FLIP: Target 1 monster on the field; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54652250.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 450,

@@ -3,6 +3,9 @@
   "name": "Resonator Command",
   "is_illegal": false,
   "text": "Discard 1 \"Resonator\" monster; add 1 Level 4 or lower Fiend monster from your Deck to your hand. You can only activate 1 \"Resonator Command\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8559524.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

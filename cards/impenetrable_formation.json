@@ -3,6 +3,9 @@
   "name": "Impenetrable Formation",
   "is_illegal": false,
   "text": "Select 1 monster on your side of the field to activate this card. While you have 2 or more monsters on your side of the field, and all monsters on your side of the field are in Defense Position, the selected monster gains 700 DEF. When the selected monster is removed from the field, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96631852.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

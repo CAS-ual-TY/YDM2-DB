@@ -3,6 +3,9 @@
   "name": "Jetroid",
   "is_illegal": false,
   "text": "At the time this card is selected as an attack target by an opponent\u0027s monster, you can activate Trap Card(s) from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43697559.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,

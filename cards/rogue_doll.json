@@ -3,6 +3,9 @@
   "name": "Rogue Doll",
   "is_illegal": false,
   "text": "A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91939608.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Lesser Dragon",
   "is_illegal": false,
   "text": "A minor dragon incapable of breathing fire.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55444629.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,

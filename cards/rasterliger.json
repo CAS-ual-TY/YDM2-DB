@@ -3,6 +3,9 @@
   "name": "Rasterliger",
   "is_illegal": false,
   "text": "2+ monsters, except Tokens\nYou can target 1 Link Monster in either GY; this card gains ATK equal to that target\u0027s ATK until the end of this turn. You can Tribute any number of your monsters this card points to; destroy an equal number of cards on the field. You can only use each effect of \"Rasterliger\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88000953.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,

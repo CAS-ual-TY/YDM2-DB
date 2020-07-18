@@ -3,6 +3,9 @@
   "name": "Miracle Kids",
   "is_illegal": false,
   "text": "Target 1 monster your opponent controls; that target loses 400 ATK for each \"Hero Kid\" in your Graveyard, until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55985014.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "The Agent of Miracles - Jupiter",
   "is_illegal": false,
   "text": "Once per turn, you can remove from play 1 \"The Agent\" monster in your Graveyard to select 1 face-up LIGHT Fairy-Type monster you control. The selected monster gains 800 ATK until the End Phase. While \"The Sanctuary in the Sky\" is face-up on the field, once per turn, you can discard 1 Fairy-Type monster to select 1 of your removed from play LIGHT Fairy-Type monster, and Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28573958.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

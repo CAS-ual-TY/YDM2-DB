@@ -3,6 +3,9 @@
   "name": "Scrap Archfiend",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45815891.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2700,

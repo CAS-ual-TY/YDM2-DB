@@ -3,6 +3,9 @@
   "name": "Guardragon Shield",
   "is_illegal": false,
   "text": "You can target 1 Dragon monster you control; it gains ATK/DEF equal to the total Link Rating of the Link Monsters currently on the field x 100, until the end of the opponent\u0027s turn. You can only use this effect of \"Guardragon Shield\" once per turn. Once per turn, if exactly 1 Dragon monster you control would be destroyed by battle or card effect, you can send 1 Normal Monster from your hand or Deck to the GY instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50186558.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

@@ -3,6 +3,9 @@
   "name": "Phantom Dewan",
   "is_illegal": false,
   "text": "A sorcerer that can paralyze an enemy with a single curse.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77603950.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,

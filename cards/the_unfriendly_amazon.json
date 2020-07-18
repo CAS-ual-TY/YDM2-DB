@@ -3,6 +3,9 @@
   "name": "The Unfriendly Amazon",
   "is_illegal": false,
   "text": "Tribute 1 of your monsters on the field (excluding this monster) during each of your Standby Phases. If you do not, this card is destroyed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65475294.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

@@ -3,6 +3,9 @@
   "name": "Sky Dragon",
   "is_illegal": false,
   "text": "A flying dragon with four wings housing some very dangerous blades.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95288024.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1900,

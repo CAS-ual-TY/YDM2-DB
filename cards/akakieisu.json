@@ -3,6 +3,9 @@
   "name": "Akakieisu",
   "is_illegal": false,
   "text": "A sorcerer who utters spells that render monsters unconscious.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38035986.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

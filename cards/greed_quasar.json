@@ -3,6 +3,9 @@
   "name": "Greed Quasar",
   "is_illegal": false,
   "text": "This card\u0027s original ATK and DEF are each equal to its Level x 300. This monster\u0027s Level is increased by the Level of monsters it destroys by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50263751.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

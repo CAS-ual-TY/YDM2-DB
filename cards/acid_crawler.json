@@ -3,6 +3,9 @@
   "name": "Acid Crawler",
   "is_illegal": false,
   "text": "A giant caterpillar that secretes an acid mist that melts anything.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77568553.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

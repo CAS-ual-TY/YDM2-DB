@@ -3,6 +3,9 @@
   "name": "Mermail Abysslung",
   "is_illegal": false,
   "text": "Your opponent cannot target face-up WATER monsters for attacks, except this one. All WATER monsters you control gain 300 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95466842.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,

@@ -3,6 +3,9 @@
   "name": "Red Warg",
   "is_illegal": false,
   "text": "When you Normal Summon a \"Resonator\" monster: You can Special Summon this card from your hand, but its ATK becomes halved.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45313993.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1400,

@@ -3,6 +3,9 @@
   "name": "Hieratic Seal of Banishment",
   "is_illegal": false,
   "text": "Tribute 1 \"Hieratic\" monster to target 1 card your opponent controls; banish that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11975962.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

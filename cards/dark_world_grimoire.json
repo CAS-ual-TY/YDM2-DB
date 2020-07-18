@@ -3,6 +3,9 @@
   "name": "Dark World Grimoire",
   "is_illegal": false,
   "text": "During your End Phase, if you discard a monster(s) to the Graveyard because you had more cards than your hand size limit: You can target 1 of those monsters; Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61623148.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

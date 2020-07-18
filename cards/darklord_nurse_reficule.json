@@ -3,6 +3,9 @@
   "name": "Darklord Nurse Reficule",
   "is_illegal": false,
   "text": "Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67316075.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,

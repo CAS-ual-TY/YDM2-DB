@@ -3,6 +3,9 @@
   "name": "Feedback Warrior",
   "is_illegal": false,
   "text": "When this card is Normal or Special Summoned: You can target 1 face-up monster you control; it becomes Level 3.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50785356.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

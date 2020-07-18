@@ -3,6 +3,9 @@
   "name": "Misairuzame",
   "is_illegal": false,
   "text": "A missile-launching fish protected by deadly spikes.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33178416.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,

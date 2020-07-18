@@ -3,6 +3,9 @@
   "name": "Grave Ohja",
   "is_illegal": false,
   "text": "While there is a face-down Defense Position monster(s) on your side of the field, no player can select this card as an attack target. Each time a monster on your side of the field is Flip Summoned, inflict 300 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40937767.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

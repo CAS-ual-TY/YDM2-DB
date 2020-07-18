@@ -3,6 +3,9 @@
   "name": "Dance Princess of the Ice Barrier",
   "is_illegal": false,
   "text": "Once per turn, if you control another face-up \"Ice Barrier\" monster, you can reveal any number of \"Ice Barrier\" monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59546528.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,

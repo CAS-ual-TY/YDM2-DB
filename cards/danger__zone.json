@@ -3,6 +3,9 @@
   "name": "Danger! Zone",
   "is_illegal": false,
   "text": "Draw 3 cards, then discard 2 cards including at least 1 \"Danger!\" card, or, if you have no \"Danger!\" cards in your hand, show your entire hand and shuffle it into the Deck. You can only activate 1 \"Danger! Zone\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15083304.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

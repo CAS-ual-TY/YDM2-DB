@@ -3,6 +3,9 @@
   "name": "Sabatiel - The Philosopher\u0027s Stone",
   "is_illegal": false,
   "text": "If you have a \"Winged Kuriboh\" monster in your GY: Pay half your LP; add 1 \"Polymerization\" Spell or \"Fusion\" Spell from your Deck to your hand. If this card is in your GY: You can banish 3 copies of \"Sabatiel - The Philosopher\u0027s Stone\" from your GY, then target 1 monster on the field; it gains ATK equal to the ATK of the monster on the field with the highest ATK (your choice, if tied), until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80831721.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

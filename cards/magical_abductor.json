@@ -3,6 +3,9 @@
   "name": "Magical Abductor",
   "is_illegal": false,
   "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 100 ATK for each Spell Counter on it. Once per turn: You can remove 3 Spell Counters from this card; add 1 Level 1 Spellcaster monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10239627.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,

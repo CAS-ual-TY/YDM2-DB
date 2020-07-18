@@ -3,6 +3,9 @@
   "name": "Nitro Synchron",
   "is_illegal": false,
   "text": "If this card is sent to the Graveyard for the Synchro Summon of a \"Nitro\" Synchro Monster: Draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96182448.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 300,

@@ -3,6 +3,9 @@
   "name": "Hieracosphinx",
   "is_illegal": false,
   "text": "Your opponent cannot select a face-down Defense Position monster as an attack target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82260502.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,

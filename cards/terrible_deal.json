@@ -3,6 +3,9 @@
   "name": "Terrible Deal",
   "is_illegal": false,
   "text": "Activate only by paying 1000 Life Points when your opponent activates a Spell Card. Your opponent discards 1 random card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69724380.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Crimson Sunbird",
   "is_illegal": false,
   "text": "\"Faith Bird\" + \"Skull Red Bird\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46696593.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2300,

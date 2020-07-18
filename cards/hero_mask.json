@@ -3,6 +3,9 @@
   "name": "Hero Mask",
   "is_illegal": false,
   "text": "Target 1 face-up monster you control; send 1 \"Elemental HERO\" monster from your Deck to the Graveyard, and if you do, that target\u0027s name becomes the sent monster\u0027s name, until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75141056.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

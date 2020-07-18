@@ -3,6 +3,9 @@
   "name": "Kunoichi",
   "is_illegal": false,
   "text": "When control of this face-up card changes, its new controller discards 1 random card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56514812.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

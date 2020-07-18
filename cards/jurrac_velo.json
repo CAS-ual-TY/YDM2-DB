@@ -3,6 +3,9 @@
   "name": "Jurrac Velo",
   "is_illegal": false,
   "text": "When this face-up Attack Position card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Jurrac\" monster with 1700 or less ATK from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59312550.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1700,

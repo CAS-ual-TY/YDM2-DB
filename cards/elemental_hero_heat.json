@@ -3,6 +3,9 @@
   "name": "Elemental HERO Heat",
   "is_illegal": false,
   "text": "This card gains 200 ATK for each \"Elemental HERO\" monster you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98266377.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "D.D. Crazy Beast",
   "is_illegal": false,
   "text": "A monster that this card destroys as a result of battle is removed from play.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48148828.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

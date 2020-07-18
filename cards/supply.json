@@ -3,6 +3,9 @@
   "name": "Supply",
   "is_illegal": false,
   "text": "FLIP: Return 2 Fusion-Material monsters that were sent to the Graveyard as a result of a Fusion Summon to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44072894.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,

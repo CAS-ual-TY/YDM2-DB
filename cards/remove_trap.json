@@ -3,6 +3,9 @@
   "name": "Remove Trap",
   "is_illegal": false,
   "text": "Select 1 face-up Trap Card on the field and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51482758.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

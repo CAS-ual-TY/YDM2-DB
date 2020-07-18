@@ -3,6 +3,9 @@
   "name": "Garbage Collector",
   "is_illegal": false,
   "text": "You can target 1 other Cyberse monster you control that began the Duel in the Main Deck; return it to the hand, and if you do, Special Summon from your Deck 1 Cyberse monster with the same Level, but with a different name. You can only use this effect of \"Garbage Collector\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11801343.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 100,

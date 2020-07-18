@@ -3,6 +3,9 @@
   "name": "Aqua Madoor",
   "is_illegal": false,
   "text": "A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85639257.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,

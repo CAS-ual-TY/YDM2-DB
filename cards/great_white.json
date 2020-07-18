@@ -3,6 +3,9 @@
   "name": "Great White",
   "is_illegal": false,
   "text": "A giant white shark with razor-sharp teeth.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13429800.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,

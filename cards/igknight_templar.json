@@ -3,6 +3,9 @@
   "name": "Igknight Templar",
   "is_illegal": false,
   "text": "An experienced Igknight warrior who fights for justice and despises the corrupt. He even questions his own weapon these days, due to his absolute quest for righteousness.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97024987.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1700,

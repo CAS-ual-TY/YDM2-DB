@@ -3,6 +3,9 @@
   "name": "Black Ptera",
   "is_illegal": false,
   "text": "If this card is sent from the field to the GY, except by being destroyed by battle: Return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90654356.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,

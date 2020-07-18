@@ -3,6 +3,9 @@
   "name": "Ancient Tree of Enlightenment",
   "is_illegal": false,
   "text": "This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86421986.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 600,

@@ -3,6 +3,9 @@
   "name": "Interdimensional Warp",
   "is_illegal": false,
   "text": "Select a monster you control and a monster with an A-Counter(s) your opponent controls. Switch control of those monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57384901.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

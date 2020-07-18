@@ -3,6 +3,9 @@
   "name": "Vanity\u0027s Ruler",
   "is_illegal": false,
   "text": "Cannot be Special Summoned. Your opponent cannot Special Summon monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72634965.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,

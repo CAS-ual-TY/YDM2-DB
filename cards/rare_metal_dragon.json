@@ -3,6 +3,9 @@
   "name": "Rare Metal Dragon",
   "is_illegal": false,
   "text": "This card cannot be Normal Summoned or Set.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25236056.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

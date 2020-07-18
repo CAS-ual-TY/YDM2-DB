@@ -3,6 +3,9 @@
   "name": "Shadow Toon",
   "is_illegal": false,
   "text": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the ATK of that face-up monster. You can only activate 1 \"Shadow Toon\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6958551.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

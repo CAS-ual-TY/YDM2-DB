@@ -3,6 +3,9 @@
   "name": "Reptilianne Viper",
   "is_illegal": false,
   "text": "When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42303365.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

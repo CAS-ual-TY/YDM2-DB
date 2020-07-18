@@ -3,6 +3,9 @@
   "name": "Card Advance",
   "is_illegal": false,
   "text": "Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order. You can Tribute Summon 1 monster in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52112003.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Ryu-Kishin Clown",
   "is_illegal": false,
   "text": "When this card is Summoned (including Flip Summon and Special Summon), select 1 face-up monster on the field and change its battle position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42647539.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

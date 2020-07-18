@@ -3,6 +3,9 @@
   "name": "Melffy Hide-And-Seek",
   "is_illegal": false,
   "text": "The first time each Beast monster you control would be destroyed by card effect each turn, it is not destroyed. You can target 3 Beast monsters in your GY with different names; shuffle them into the Deck, then draw 1 card. You can only use this effect of \"Melffy Hide-and-Seek\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63644830.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

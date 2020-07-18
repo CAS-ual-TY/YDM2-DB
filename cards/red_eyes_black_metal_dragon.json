@@ -3,6 +3,10 @@
   "name": "Red-Eyes Black Metal Dragon",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64335805.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64335804.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2800,

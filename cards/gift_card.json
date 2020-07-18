@@ -3,6 +3,9 @@
   "name": "Gift Card",
   "is_illegal": false,
   "text": "Your opponent gains 3000 Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39526584.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

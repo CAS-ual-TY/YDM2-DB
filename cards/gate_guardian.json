@@ -3,6 +3,9 @@
   "name": "Gate Guardian",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25833572.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3750,

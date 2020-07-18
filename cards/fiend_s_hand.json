@@ -3,6 +3,9 @@
   "name": "Fiend\u0027s Hand",
   "is_illegal": false,
   "text": "Arms that reach out from the Swamp of Chaos to drag down the damned.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52800428.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

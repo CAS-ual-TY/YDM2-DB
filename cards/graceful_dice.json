@@ -3,6 +3,9 @@
   "name": "Graceful Dice",
   "is_illegal": false,
   "text": "Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74137509.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

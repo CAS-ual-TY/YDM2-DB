@@ -3,6 +3,10 @@
   "name": "Elemental HERO Neos",
   "is_illegal": false,
   "text": "A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89943723.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89943724.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,

@@ -3,6 +3,9 @@
   "name": "Ascending Soul",
   "is_illegal": false,
   "text": "Once per turn, when a Ritual Monster(s) is Ritual Summoned: You can target 1 monster in your Graveyard that was Tributed for the Ritual Summon; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88301833.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

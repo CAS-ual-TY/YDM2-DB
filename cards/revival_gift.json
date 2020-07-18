@@ -3,6 +3,9 @@
   "name": "Revival Gift",
   "is_illegal": false,
   "text": "Select 1 Tuner monster from your Graveyard and Special Summon it. Its effects are negated. Special Summon 2 \"Gift Fiend Tokens\" (Fiend-Type/DARK/Level 3/ATK 1500/DEF 1500) to your opponent\u0027s side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93912845.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

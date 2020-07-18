@@ -3,6 +3,9 @@
   "name": "Ally of Justice Quarantine",
   "is_illegal": false,
   "text": "Neither player can Special Summon LIGHT monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72845813.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

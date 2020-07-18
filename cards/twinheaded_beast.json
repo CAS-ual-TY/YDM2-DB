@@ -3,6 +3,9 @@
   "name": "Twinheaded Beast",
   "is_illegal": false,
   "text": "This card can attack twice during the same Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82035781.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1700,

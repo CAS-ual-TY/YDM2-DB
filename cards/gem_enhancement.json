@@ -3,6 +3,9 @@
   "name": "Gem-Enhancement",
   "is_illegal": false,
   "text": "Tribute 1 \"Gem-Knight\" monster, then target 1 \"Gem-Knight\" monster in your Graveyard; Special Summon that target from the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41777.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

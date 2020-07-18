@@ -3,6 +3,9 @@
   "name": "Stardust Flash",
   "is_illegal": false,
   "text": "Target 1 \"Stardust\" monster in your Graveyard; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27196937.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

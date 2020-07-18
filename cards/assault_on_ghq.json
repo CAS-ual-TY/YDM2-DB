@@ -3,6 +3,9 @@
   "name": "Assault on GHQ",
   "is_illegal": false,
   "text": "Target 1 monster you control; destroy it, then send 2 cards from the top of your opponent\u0027s Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62633180.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Smashing Horn",
   "is_illegal": false,
   "text": "When a monster effect or Trap Card is activated that negates the Normal or Special Summon of a monster(s): Negate the activation and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93396832.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

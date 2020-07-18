@@ -3,6 +3,9 @@
   "name": "Blackwing - Hurricane the Tornado",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 Synchro Monster on the field; this card\u0027s ATK becomes that monster\u0027s current ATK, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36442179.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

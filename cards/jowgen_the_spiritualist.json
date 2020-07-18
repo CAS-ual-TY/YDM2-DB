@@ -3,6 +3,9 @@
   "name": "Jowgen the Spiritualist",
   "is_illegal": false,
   "text": "You can discard 1 random card from your hand to the Graveyard; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41855169.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 200,

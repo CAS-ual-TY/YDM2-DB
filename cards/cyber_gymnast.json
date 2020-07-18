@@ -3,6 +3,9 @@
   "name": "Cyber Gymnast",
   "is_illegal": false,
   "text": "Once per turn: You can discard 1 card, then target 1 face-up Attack Position monster your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76763417.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

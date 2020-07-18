@@ -3,6 +3,9 @@
   "name": "Elemental HERO Magma Neos",
   "is_illegal": false,
   "text": "\"Elemental HERO Neos\" + \"Neo-Spacian Flare Scarab\" + \"Neo-Spacian Grand Mole\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) This card gains 400 ATK for each card on the field. Once per turn, during the End Phase: Shuffle this card into the Extra Deck. If this card is shuffled into the Extra Deck this way: Return all cards on the field to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78512663.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 3000,

@@ -3,6 +3,9 @@
   "name": "Thunder End Dragon",
   "is_illegal": false,
   "text": "2 Level 8 Normal Monsters\nOnce per turn: You can detach 1 Xyz Material from this card; destroy all other monsters on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/698785.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,

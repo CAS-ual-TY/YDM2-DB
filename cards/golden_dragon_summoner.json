@@ -3,6 +3,9 @@
   "name": "Golden Dragon Summoner",
   "is_illegal": false,
   "text": "You can Tribute 1 monster, then target 1 monster on the field; return it to the hand. You can only use this effect of \"Golden Dragon Summoner\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28565527.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

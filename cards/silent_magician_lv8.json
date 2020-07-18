@@ -3,6 +3,9 @@
   "name": "Silent Magician LV8",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent\u0027s Spell effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72443568.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3500,

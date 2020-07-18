@@ -3,6 +3,9 @@
   "name": "Waterfall of Dragon Souls",
   "is_illegal": false,
   "text": "Activate 1 of these effects;\n? Add 1 Wyrm monster from your Deck to your hand.\n? Send any number of Wyrm monsters from your hand and/or face-up from your field to the GY; draw cards equal to the number of monsters you sent to the GY +1.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23068051.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

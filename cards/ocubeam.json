@@ -3,6 +3,9 @@
   "name": "Ocubeam",
   "is_illegal": false,
   "text": "Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86088138.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1550,

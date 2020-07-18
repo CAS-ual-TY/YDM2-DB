@@ -3,6 +3,9 @@
   "name": "Freed the Brave Wanderer",
   "is_illegal": false,
   "text": "Once per turn: You can banish 2 LIGHT monsters from your Graveyard to target 1 face-up monster on the field with higher ATK than this face-up card; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16556849.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

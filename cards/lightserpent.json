@@ -3,6 +3,9 @@
   "name": "Lightserpent",
   "is_illegal": false,
   "text": "If this card is sent from the hand to your Graveyard: You can Special Summon it from the Graveyard. This card cannot be used as a Synchro Material Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55501446.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1200,

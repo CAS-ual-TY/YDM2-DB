@@ -3,6 +3,9 @@
   "name": "Dark Bat",
   "is_illegal": false,
   "text": "Bats from the netherworld that use their hyper senses to detect their enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67049542.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,

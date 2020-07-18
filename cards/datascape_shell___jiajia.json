@@ -3,6 +3,9 @@
   "name": "Datascape Shell - Jiajia",
   "is_illegal": false,
   "text": "2+ Level 3 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 face-up monster you control; it cannot be destroyed by battle until the end of your opponent\u0027s turn. Once per turn, after damage calculation, if this card battled an opponent\u0027s monster and you have 2 or more monsters with the same original Type and Attribute in your GY: You can banish that opponent\u0027s monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101102042.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

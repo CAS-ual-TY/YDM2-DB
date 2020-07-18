@@ -3,6 +3,9 @@
   "name": "Goddess Urd\u0027s Verdict",
   "is_illegal": false,
   "text": "Your opponent cannot target \"Valkyrie\" monsters you control with card effects, also they cannot be destroyed by your opponent\u0027s card effects. Once per turn: You can declare 1 card name, then target 1 Set card your opponent controls; reveal the Set card, and if it was the declared card, banish it. Otherwise, banish 1 card you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91969909.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

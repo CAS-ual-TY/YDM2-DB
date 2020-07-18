@@ -3,6 +3,9 @@
   "name": "Abyss Flower",
   "is_illegal": false,
   "text": "A rarely seen flower that blossoms quietly on the edge of darkness.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40387124.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 750,

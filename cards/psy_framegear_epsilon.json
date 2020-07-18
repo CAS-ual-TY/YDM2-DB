@@ -3,6 +3,9 @@
   "name": "PSY-Framegear Epsilon",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect, and cannot be Special Summoned by other ways. During either player\u0027s turn, when your opponent activates a Trap Card while you control no monsters: You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or Graveyard, and if you do, negate that activation, and if you do that, destroy that Trap Card. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1697104.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Fire Eye",
   "is_illegal": false,
   "text": "An eye engulfed in flames that flaps its wings to create hot blasts of air.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88435542.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 800,

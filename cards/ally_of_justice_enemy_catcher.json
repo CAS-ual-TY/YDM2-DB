@@ -3,6 +3,9 @@
   "name": "Ally of Justice Enemy Catcher",
   "is_illegal": false,
   "text": "When this card is Normal Summoned, you can take control of 1 face-down Defense Position monster your opponent controls, until the End Phase of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45033006.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

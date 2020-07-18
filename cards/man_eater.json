@@ -3,6 +3,9 @@
   "name": "Man Eater",
   "is_illegal": false,
   "text": "Man-eating plant with poison feelers for attacking enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93553943.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

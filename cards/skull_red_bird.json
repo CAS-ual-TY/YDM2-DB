@@ -3,6 +3,9 @@
   "name": "Skull Red Bird",
   "is_illegal": false,
   "text": "This monster swoops down and attacks with a rain of knives stored in its wings.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10202894.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1550,

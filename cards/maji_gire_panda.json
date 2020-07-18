@@ -3,6 +3,9 @@
   "name": "Maji-Gire Panda",
   "is_illegal": false,
   "text": "Each time a Beast-Type monster(s) on the field is destroyed, this card gains 500 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60102563.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

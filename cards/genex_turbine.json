@@ -3,6 +3,9 @@
   "name": "Genex Turbine",
   "is_illegal": false,
   "text": "All face-up \"Genex\" monsters you control gain 400 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52222372.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

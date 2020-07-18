@@ -3,6 +3,9 @@
   "name": "Hidden Fangs of Revenge",
   "is_illegal": false,
   "text": "When a monster declares an attack: Destroy 2 Set cards you control, and if you do, negate the attack, then, if a Monster Card(s) was destroyed by this effect and sent to the GY, choose 1 of them, and destroy as many monsters your opponent controls as possible with ATK less than or equal to the chosen monster\u0027s DEF, then it becomes the End Phase of this turn. You can only activate 1 \"Hidden Fangs of Revenge\" per turn. Neither player can activate cards or effects in response to this card\u0027s activation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47128571.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

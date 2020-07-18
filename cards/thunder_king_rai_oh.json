@@ -3,6 +3,9 @@
   "name": "Thunder King Rai-Oh",
   "is_illegal": false,
   "text": "Neither player can add cards from their Deck to their hand except by drawing them. During either player\u0027s turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71564252.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1900,

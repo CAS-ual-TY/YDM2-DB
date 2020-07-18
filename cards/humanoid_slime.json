@@ -3,6 +3,9 @@
   "name": "Humanoid Slime",
   "is_illegal": false,
   "text": "This slime apparently has some human genes in its genetic makeup.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46821314.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

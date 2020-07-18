@@ -3,6 +3,9 @@
   "name": "And the Band Played On",
   "is_illegal": false,
   "text": "Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47594939.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Left Leg of the Forbidden One",
   "is_illegal": false,
   "text": "A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44519536.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 200,

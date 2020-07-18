@@ -3,6 +3,9 @@
   "name": "Stone Dragon",
   "is_illegal": false,
   "text": "A dragon formed by huge boulders that are also used to attack the enemy.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68171737.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

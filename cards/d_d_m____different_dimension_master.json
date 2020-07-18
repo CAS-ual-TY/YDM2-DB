@@ -3,6 +3,9 @@
   "name": "D.D.M. - Different Dimension Master",
   "is_illegal": false,
   "text": "Once per turn, you can discard 1 Spell Card to Special Summon 1 of your removed from play monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82112775.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

@@ -3,6 +3,9 @@
   "name": "Infernalqueen Archfiend",
   "is_illegal": false,
   "text": "The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 2 or 5, negate the effect and destroy the opponent\u0027s card. As long as this card remains on the field, during each Standby Phase, increase the ATK of 1 Archfiend Monster Card by 1000 points until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8581705.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 900,

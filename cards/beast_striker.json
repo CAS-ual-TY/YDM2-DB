@@ -3,6 +3,9 @@
   "name": "Beast Striker",
   "is_illegal": false,
   "text": "Once per turn, you can discard 1 card to Special Summon 1 \"Moja\" from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21362970.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1850,

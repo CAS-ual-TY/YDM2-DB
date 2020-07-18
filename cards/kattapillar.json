@@ -3,6 +3,9 @@
   "name": "Kattapillar",
   "is_illegal": false,
   "text": "Attacks enemies by spitting thin, sticky webs.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81179446.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 250,

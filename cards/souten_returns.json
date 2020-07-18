@@ -3,6 +3,9 @@
   "name": "Souten Returns",
   "is_illegal": false,
   "text": "Target 1 \"Souten\" monster in your GY; Special Summon it, then, if you Special Summoned a \"Souten\" monster with an original Level of 4 or lower by this effect, you can Special Summon 1 \"Souten Spirit Token\" (Warrior/LIGHT/Level 2/ATK 0/DEF 0). You can only activate 1 \"Souten Returns\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101102073.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

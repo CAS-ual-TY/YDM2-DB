@@ -3,6 +3,9 @@
   "name": "The 13th Grave",
   "is_illegal": false,
   "text": "A zombie that suddenly appeared from plot #13 - an empty grave.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32864.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

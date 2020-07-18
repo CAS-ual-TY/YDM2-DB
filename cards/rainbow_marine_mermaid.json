@@ -3,6 +3,9 @@
   "name": "Rainbow Marine Mermaid",
   "is_illegal": false,
   "text": "A reticent mermaid who appears only on very rare occasions. She emerges only when a large rainbow arches across the sky.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29402771.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1550,

@@ -3,6 +3,9 @@
   "name": "Yaiba Robo",
   "is_illegal": false,
   "text": "A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10315429.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

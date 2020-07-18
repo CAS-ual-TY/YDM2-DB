@@ -3,6 +3,9 @@
   "name": "Evilswarm Coppelia",
   "is_illegal": false,
   "text": "Cannot be Special Summoned. When this card leaves the field because of your opponent\u0027s card (either by battle or by card effect): You can target 1 face-up monster your opponent controls; take control of that target until your next End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77841719.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2450,

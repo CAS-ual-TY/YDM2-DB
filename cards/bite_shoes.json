@@ -3,6 +3,9 @@
   "name": "Bite Shoes",
   "is_illegal": false,
   "text": "FLIP: Change the battle position of 1 face-up monster on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50122883.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,

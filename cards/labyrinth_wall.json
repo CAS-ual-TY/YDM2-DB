@@ -3,6 +3,9 @@
   "name": "Labyrinth Wall",
   "is_illegal": false,
   "text": "These walls form a labyrinth with no exit for enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67284908.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

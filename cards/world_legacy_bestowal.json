@@ -3,6 +3,9 @@
   "name": "World Legacy Bestowal",
   "is_illegal": false,
   "text": "Activate 1 of the following effects.\n? Send 1 Link Monster your opponent controls to the GY.\n? Banish 7 \"World Legacy\" cards from your GY; add 1 Cyberse monster from your Deck to your hand.\nYou can only activate 1 \"World Legacy Bestowal\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59778096.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

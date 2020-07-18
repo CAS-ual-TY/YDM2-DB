@@ -3,6 +3,9 @@
   "name": "Cosmo Queen",
   "is_illegal": false,
   "text": "Queen of the galaxies and mistress of the stars.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38999506.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2900,

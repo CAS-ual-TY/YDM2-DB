@@ -3,6 +3,9 @@
   "name": "Medium Piece Golem",
   "is_illegal": false,
   "text": "When this card is Summoned, if you control a \"Big Piece Golem\", you can Special Summon 1 \"Small Piece Golem\" from your Deck. That monster\u0027s effect is negated while it is face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58843503.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Magicat",
   "is_illegal": false,
   "text": "If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type Synchro Monster, you can return 1 Spell Card from your Graveyard to the top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25531465.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 600,

@@ -3,6 +3,9 @@
   "name": "Super Crashbug",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) in face-up Defense Position, by banishing \"Crashbug X\", \"Crashbug Y\", and \"Crashbug Z\" from your Graveyard. Switch the ATK and DEF of all face-up Attack Position monsters on the field. There can only be 1 face-up \"Super Crashbug\" on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86804246.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

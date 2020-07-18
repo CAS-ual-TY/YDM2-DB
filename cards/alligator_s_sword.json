@@ -3,6 +3,9 @@
   "name": "Alligator\u0027s Sword",
   "is_illegal": false,
   "text": "ey, dis mighty lissard man can swing his sword so fast, dat it\u0027s more dan da speed a sound!",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64428736.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

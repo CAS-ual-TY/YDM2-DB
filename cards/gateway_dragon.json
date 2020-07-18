@@ -3,6 +3,9 @@
   "name": "Gateway Dragon",
   "is_illegal": false,
   "text": "If your opponent controls a Link Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Gateway Dragon\" once per turn this way. Once per turn: You can Special Summon 1 Level 4 or lower DARK Dragon monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91482773.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

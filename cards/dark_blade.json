@@ -3,6 +3,9 @@
   "name": "Dark Blade",
   "is_illegal": false,
   "text": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11321183.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

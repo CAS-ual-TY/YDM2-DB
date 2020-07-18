@@ -3,6 +3,9 @@
   "name": "Ancient Gear Gadjiltron Chimera",
   "is_illegal": false,
   "text": "This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n? Green Gadget: This card gains 300 ATK.\n? Red Gadget: If this card inflicts battle damage to your opponent by a direct attack: Inflict 500 damage to your opponent.\n? Yellow Gadget: If this card destroys an opponent\u0027s monster by battle: Inflict 700 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86321248.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2300,

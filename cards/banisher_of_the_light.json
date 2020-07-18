@@ -3,6 +3,9 @@
   "name": "Banisher of the Light",
   "is_illegal": false,
   "text": "Any card sent to the Graveyard is banished instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61528025.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,

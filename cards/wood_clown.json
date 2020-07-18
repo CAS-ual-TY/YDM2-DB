@@ -3,6 +3,9 @@
   "name": "Wood Clown",
   "is_illegal": false,
   "text": "A creature with a wicked smile and a lethal sickle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17511156.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

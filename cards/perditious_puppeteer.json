@@ -3,6 +3,9 @@
   "name": "Perditious Puppeteer",
   "is_illegal": false,
   "text": "Once per turn: You can discard 1 card; gain control of all face-up Level 3 or lower monsters your opponent controls, until the End Phase. These monsters cannot activate their effects, and cannot be Tributed or used as a Synchro Material Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71564150.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2700,

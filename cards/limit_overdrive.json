@@ -3,6 +3,9 @@
   "name": "Limit Overdrive",
   "is_illegal": false,
   "text": "Return 1 Tuner Synchro Monster and 1 non-Tuner Synchro Monster you control to the Extra Deck; Special Summon 1 Synchro Monster from your Extra Deck that has a Level equal to the combined Levels the 2 monsters had on the field, ignoring its Summoning conditions. You can only activate 1 \"Limit Overdrive\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35014241.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

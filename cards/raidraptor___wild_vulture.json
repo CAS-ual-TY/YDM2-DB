@@ -3,6 +3,9 @@
   "name": "Raidraptor - Wild Vulture",
   "is_illegal": false,
   "text": "During your Main Phase, if this card was Normal or Special Summoned this turn: You can Tribute this card; Special Summon 2 \"Raidraptor\" monsters from your hand and/or Graveyard whose total Levels equal 6.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8785161.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

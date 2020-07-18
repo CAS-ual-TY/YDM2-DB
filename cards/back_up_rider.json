@@ -3,6 +3,9 @@
   "name": "Back-Up Rider",
   "is_illegal": false,
   "text": "Target 1 face-up monster on the field; it gains 1500 ATK until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68833958.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

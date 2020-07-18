@@ -3,6 +3,9 @@
   "name": "Fabled Ashenveil",
   "is_illegal": false,
   "text": "If this card attacks or is attacked, during damage calculation (in either player\u0027s turn): You can send 1 card from your hand to the Graveyard once per battle; this card gains 600 ATK during that damage calculation only.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12235475.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,

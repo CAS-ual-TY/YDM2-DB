@@ -3,6 +3,9 @@
   "name": "Flying Kamakiri #2",
   "is_illegal": false,
   "text": "A flying mantis that feeds primarily on insects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3134241.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Astral Barrier",
   "is_illegal": false,
   "text": "If your opponent\u0027s monster attacks a monster you control: You can make the attack a direct attack instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37053871.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

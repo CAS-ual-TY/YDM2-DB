@@ -3,6 +3,9 @@
   "name": "Phantom Cricket",
   "is_illegal": false,
   "text": "FLIP: Return 1 face-down monster from the field to the top of its owner\u0027s Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56605802.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

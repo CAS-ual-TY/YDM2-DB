@@ -3,6 +3,9 @@
   "name": "Pendulum Rising",
   "is_illegal": false,
   "text": "Send 1 monster you control to the Graveyard; Special Summon from your Deck, 1 Pendulum Monster with the same Level as the sent monster\u0027s original Level, but destroy it during the End Phase. You can only activate 1 \"Pendulum Rising\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74926274.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Tyhone",
   "is_illegal": false,
   "text": "Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72842870.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,

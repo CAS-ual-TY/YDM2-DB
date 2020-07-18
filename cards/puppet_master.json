@@ -3,6 +3,9 @@
   "name": "Puppet Master",
   "is_illegal": false,
   "text": "When this card is Tribute Summoned: You can pay 2000 LP, then target 2 Fiend monsters in your GY; Special Summon those targets, but they cannot attack this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41442341.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

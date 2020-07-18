@@ -3,6 +3,9 @@
   "name": "Tiger Dragon",
   "is_illegal": false,
   "text": "When this card is Tribute Summoned by Tributing a Dragon monster: You can target up to 2 Set cards in your opponent\u0027s Spell \u0026 Trap Zone; destroy those targets.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10097168.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,

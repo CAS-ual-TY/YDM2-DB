@@ -3,6 +3,9 @@
   "name": "Neo-Parshath, the Sky Paladin",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by Tributing 1 \"Airknight Parshath\". If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card. While \"The Sanctuary in the Sky\" is on the field and your LP is higher than your opponent\u0027s, this card gains ATK/DEF equal to the difference in LP.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12510878.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2300,

@@ -3,6 +3,9 @@
   "name": "Core Reinforcement",
   "is_illegal": false,
   "text": "Select and Special Summon 1 \"Koa\u0027ki Meiru\" monster from your Graveyard in Attack Position. When that monster is destroyed during your End Phase, the controller of this card takes damage equal to that monster\u0027s ATK. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8057630.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

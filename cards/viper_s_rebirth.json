@@ -3,6 +3,9 @@
   "name": "Viper\u0027s Rebirth",
   "is_illegal": false,
   "text": "Activate only if all monsters in your Graveyard are Reptile-Type. Select 1 non-Tuner monster in your Graveyard. Special Summon it. Destroy it during the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64973456.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

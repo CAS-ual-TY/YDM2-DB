@@ -3,6 +3,9 @@
   "name": "Space Gift",
   "is_illegal": false,
   "text": "Draw 1 card for each different \"Neo-Spacian\" name on the monsters you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1539051.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

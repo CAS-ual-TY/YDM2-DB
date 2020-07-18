@@ -3,6 +3,9 @@
   "name": "Necrovalley Throne",
   "is_illegal": false,
   "text": "Activate 1 of these effects.\n? Add 1 \"Gravekeeper\u0027s\" monster from your Deck to your hand.\n? Immediately after this effect resolves, Normal Summon 1 \"Gravekeeper\u0027s\" monster.\nYou can only activate 1 \"Necrovalley Throne\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37561138.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

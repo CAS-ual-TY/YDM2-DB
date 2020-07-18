@@ -3,6 +3,9 @@
   "name": "Ballista Squad",
   "is_illegal": false,
   "text": "Tribute 1 monster, then target 1 card your opponent controls; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80584548.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

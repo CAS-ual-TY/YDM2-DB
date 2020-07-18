@@ -3,6 +3,9 @@
   "name": "Thunder Nyan Nyan",
   "is_illegal": false,
   "text": "If there is a non-LIGHT monster on your side of the field, destroy this face-up card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70797118.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1900,

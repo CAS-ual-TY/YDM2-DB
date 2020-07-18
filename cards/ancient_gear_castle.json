@@ -3,6 +3,9 @@
   "name": "Ancient Gear Castle",
   "is_illegal": false,
   "text": "All \"Ancient Gear\" monsters gain 300 ATK. Each time a monster is Normal Summoned/Set, place 1 counter on this card. If you Tribute Summon an \"Ancient Gear\" monster face-up, you can Tribute this card instead, if the number of its counters is equal to or greater than the number of required Tribute(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92001300.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

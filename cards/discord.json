@@ -3,6 +3,9 @@
   "name": "Discord",
   "is_illegal": false,
   "text": "Neither player can Synchro Summon. Send this card to the Graveyard during your 3rd End Phase after activation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46480475.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

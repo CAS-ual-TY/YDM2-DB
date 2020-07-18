@@ -3,6 +3,9 @@
   "name": "Performapal Kuribohrder",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares a direct attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card, and proceed to damage calculation. If you would take battle damage from that battle, you gain that much LP instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69181753.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 300,

@@ -3,6 +3,9 @@
   "name": "Time Seal",
   "is_illegal": false,
   "text": "Skip the Draw Phase of your opponent\u0027s next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35316708.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

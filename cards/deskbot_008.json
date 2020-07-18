@@ -3,6 +3,9 @@
   "name": "Deskbot 008",
   "is_illegal": false,
   "text": "This card gains 500 ATK for each \"Deskbot\" card in your Graveyard. Your opponent cannot target face-up \"Deskbot\" cards with card effects, except this one. This card can make up to 2 attacks on monsters during each Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24573625.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

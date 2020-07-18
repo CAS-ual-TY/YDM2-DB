@@ -3,6 +3,9 @@
   "name": "Oppressed People",
   "is_illegal": false,
   "text": "They are oppressed, but believe they will have their freedom someday.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58538870.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 400,

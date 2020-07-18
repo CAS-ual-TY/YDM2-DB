@@ -3,6 +3,9 @@
   "name": "Ambulanceroid",
   "is_illegal": false,
   "text": "When a \"roid\" monster is added from your Graveyard to your hand, you can Special Summon that monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36378213.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

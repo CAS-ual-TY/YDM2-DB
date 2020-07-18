@@ -3,6 +3,9 @@
   "name": "Crimson Blader",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: Your opponent cannot Normal or Special Summon Level 5 or higher monsters during their next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80321197.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2800,

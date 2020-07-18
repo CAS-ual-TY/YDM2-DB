@@ -3,6 +3,9 @@
   "name": "Cynet Cascade",
   "is_illegal": false,
   "text": "If you Link Summon a Link Monster: Target 1 monster in your GY used for that Link Summon; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4433488.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

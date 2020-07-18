@@ -3,6 +3,9 @@
   "name": "Bujincarnation",
   "is_illegal": false,
   "text": "If your opponent controls a monster and you control no monsters: Target 1 \"Bujin\" monster in your Graveyard and 1 of your banished \"Bujin\" monsters; Special Summon both targets. They cannot be used as Xyz Material for an Xyz Summon, except for the Xyz Summon of a Beast, Beast-Warrior, or Winged Beast-Type monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73906480.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

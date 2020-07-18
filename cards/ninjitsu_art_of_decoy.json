@@ -3,6 +3,9 @@
   "name": "Ninjitsu Art of Decoy",
   "is_illegal": false,
   "text": "Target 1 face-up \"Ninja\" monster you control; it cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89628781.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

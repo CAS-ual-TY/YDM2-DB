@@ -3,6 +3,9 @@
   "name": "Union Scramble",
   "is_illegal": false,
   "text": "Target up to 3 of your banished LIGHT Machine-Type Normal Monsters and/or LIGHT Machine-Type Union monsters; Special Summon them. During either player\u0027s turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 of your banished LIGHT Machine-Type Normal Monsters or LIGHT Machine-Type Union monsters; return it to the hand. You can only activate 1 \"Union Scramble\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39778366.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

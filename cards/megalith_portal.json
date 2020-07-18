@@ -3,6 +3,9 @@
   "name": "Megalith Portal",
   "is_illegal": false,
   "text": "The first time each Ritual Summoned monster would be destroyed by battle each turn, it is not destroyed. If a \"Megalith\" monster is Special Summoned (except during the Damage Step): You can target 1 Ritual Monster in your GY; add it to your hand. You can only use this effect of \"Megalith Portal\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84504242.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

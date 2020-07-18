@@ -3,6 +3,9 @@
   "name": "Queen\u0027s Knight",
   "is_illegal": false,
   "text": "This knight catches her opponents off guard, dominating them with swift yet graceful attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25652259.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1500,

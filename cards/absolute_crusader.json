@@ -3,6 +3,9 @@
   "name": "Absolute Crusader",
   "is_illegal": false,
   "text": "If a Level 5 or higher monster(s) is Special Summoned: Tribute this face-up card; destroy that Level 5 or higher monster(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70832512.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

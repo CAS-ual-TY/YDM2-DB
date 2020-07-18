@@ -3,6 +3,9 @@
   "name": "Poison Mummy",
   "is_illegal": false,
   "text": "FLIP: Inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43716289.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

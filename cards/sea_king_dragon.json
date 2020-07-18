@@ -3,6 +3,9 @@
   "name": "Sea King Dragon",
   "is_illegal": false,
   "text": "Protected by a tough shell, this master of the sea attacks its enemies with toxic bubbles.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23659124.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2000,

@@ -3,6 +3,9 @@
   "name": "Kai-Den Kendo Spirit",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can choose 1 card in your Pendulum Zone, and send to the GY all cards your opponent controls in the same column as that card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71614230.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,

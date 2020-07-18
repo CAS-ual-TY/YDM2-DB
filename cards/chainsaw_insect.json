@@ -3,6 +3,9 @@
   "name": "Chainsaw Insect",
   "is_illegal": false,
   "text": "At the end of the Damage Step, if this card attacked or was attacked: Your opponent draws 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77252217.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,

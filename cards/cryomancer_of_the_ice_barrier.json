@@ -3,6 +3,9 @@
   "name": "Cryomancer of the Ice Barrier",
   "is_illegal": false,
   "text": "While you control another \"Ice Barrier\" monster, Level 4 or higher monsters cannot declare an attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23950192.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1300,

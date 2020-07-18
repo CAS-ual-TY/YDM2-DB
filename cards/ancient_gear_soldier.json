@@ -3,6 +3,9 @@
   "name": "Ancient Gear Soldier",
   "is_illegal": false,
   "text": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56094445.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,

@@ -3,6 +3,9 @@
   "name": "Flame Champion",
   "is_illegal": false,
   "text": "A warrior protected by a flaming shield that nullifies any attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42599677.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1900,

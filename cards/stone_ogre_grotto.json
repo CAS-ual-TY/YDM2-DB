@@ -3,6 +3,9 @@
   "name": "Stone Ogre Grotto",
   "is_illegal": false,
   "text": "A behemoth shaped by giant boulders.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15023985.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

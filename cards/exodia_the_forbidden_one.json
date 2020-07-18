@@ -3,6 +3,9 @@
   "name": "Exodia the Forbidden One",
   "is_illegal": false,
   "text": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33396948.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

@@ -3,6 +3,9 @@
   "name": "Mystery Hand",
   "is_illegal": false,
   "text": "This monster twists reality and reaches between dimensions to attack its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62793020.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,

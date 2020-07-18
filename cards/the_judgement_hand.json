@@ -3,6 +3,9 @@
   "name": "The Judgement Hand",
   "is_illegal": false,
   "text": "An all-powerful hand that delivers ruthless attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28003512.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

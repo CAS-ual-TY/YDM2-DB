@@ -3,6 +3,9 @@
   "name": "Time Pendulumgraph",
   "is_illegal": false,
   "text": "Your opponent cannot target Spellcaster-Type monsters you control with Trap Cards or effects. You can only use the following effect of \"Time Pendulumgraph\" once per turn. You can target 1 \"Magician\" Pendulum Monster Card in your Monster Zone or Pendulum Zone, and 1 card your opponent controls; destroy them. Then, if this effect did not destroy 2 cards, you can send 1 card on the field to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1344018.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

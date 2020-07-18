@@ -3,6 +3,9 @@
   "name": "Gravity Lash",
   "is_illegal": false,
   "text": "Target 1 face-up monster on the field; it loses ATK equal to its DEF until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69319869.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

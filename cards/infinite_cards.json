@@ -3,6 +3,9 @@
   "name": "Infinite Cards",
   "is_illegal": false,
   "text": "There is no limit to the number of cards in players\u0027 hands.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94163677.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

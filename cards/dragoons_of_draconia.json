@@ -3,6 +3,9 @@
   "name": "Dragoons of Draconia",
   "is_illegal": false,
   "text": "Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73779005.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1800,

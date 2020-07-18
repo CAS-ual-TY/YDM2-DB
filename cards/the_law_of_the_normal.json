@@ -3,6 +3,9 @@
   "name": "The Law of the Normal",
   "is_illegal": false,
   "text": "You can only activate this card while there are 5 face-up Level 2 or lower Normal Monsters on your side of the field. Both players discard all cards in their hands, and destroy all cards on the field except Level 2 or lower Normal Monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66926224.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

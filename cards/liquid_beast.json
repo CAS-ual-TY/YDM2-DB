@@ -3,6 +3,9 @@
   "name": "Liquid Beast",
   "is_illegal": false,
   "text": "A liquid life form that thrives on water.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93108297.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 950,

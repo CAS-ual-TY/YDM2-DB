@@ -3,6 +3,9 @@
   "name": "Archfiend Mirror",
   "is_illegal": false,
   "text": "A wicked mirror that hypnotizes enemies, diverting attacks from their intended targets.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15150371.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,

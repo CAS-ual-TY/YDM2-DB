@@ -3,6 +3,9 @@
   "name": "Galaxy Wave",
   "is_illegal": false,
   "text": "Each time you Xyz Summon: Inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77098449.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

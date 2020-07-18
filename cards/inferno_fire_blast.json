@@ -3,6 +3,9 @@
   "name": "Inferno Fire Blast",
   "is_illegal": false,
   "text": "Target 1 \"Red-Eyes B. Dragon\" in your Monster Zone; inflict damage to your opponent equal to its original ATK. \"Red-Eyes B. Dragon\" cannot attack the turn you activate this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52684508.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

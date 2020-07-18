@@ -3,6 +3,9 @@
   "name": "Pot of Extravagance",
   "is_illegal": false,
   "text": "At the start of your Main Phase 1: Banish 3 or 6 random face-down cards from your Extra Deck, face-down; draw 1 card for every 3 cards banished. For the rest of this turn after this card resolves, you cannot draw any cards by card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49238328.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

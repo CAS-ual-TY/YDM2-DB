@@ -3,6 +3,9 @@
   "name": "Predaponics",
   "is_illegal": false,
   "text": "Once per turn: You can Special Summon 1 Level 4 or lower \"Predaplant\" monster from your hand or GY, but negate its effects (even if this card leaves the field). Once per turn, during your Standby Phase, pay 800 LP or destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88069597.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

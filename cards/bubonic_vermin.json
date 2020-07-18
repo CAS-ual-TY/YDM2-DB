@@ -3,6 +3,9 @@
   "name": "Bubonic Vermin",
   "is_illegal": false,
   "text": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6104968.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

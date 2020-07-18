@@ -3,6 +3,9 @@
   "name": "Snowdust Dragon",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by removing 4 Ice Counters from anywhere on the field. Other monsters with Ice Counters cannot attack or change their battle positions.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67675300.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2800,

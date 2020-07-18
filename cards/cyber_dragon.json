@@ -3,6 +3,10 @@
   "name": "Cyber Dragon",
   "is_illegal": false,
   "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70095154.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70095155.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2100,

@@ -3,6 +3,9 @@
   "name": "Harpie\u0027s Pet Dragon",
   "is_illegal": false,
   "text": "Gains 300 ATK/DEF for each \"Harpie Lady\" on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52040216.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,

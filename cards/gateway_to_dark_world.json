@@ -3,6 +3,9 @@
   "name": "Gateway to Dark World",
   "is_illegal": false,
   "text": "Target 1 \"Dark World\" monster in your Graveyard; Special Summon that target. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93431518.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

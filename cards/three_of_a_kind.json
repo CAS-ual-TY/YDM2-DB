@@ -3,6 +3,9 @@
   "name": "Three of a Kind",
   "is_illegal": false,
   "text": "If you control 3 or more monsters with the same name, except Tokens: Target 3 cards your opponent controls; destroy those targets.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47594192.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

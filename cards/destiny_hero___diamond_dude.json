@@ -3,6 +3,9 @@
   "name": "Destiny HERO - Diamond Dude",
   "is_illegal": false,
   "text": "Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell, send it to the GY, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell in your GY (even if you no longer control this face-up card).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13093792.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,

@@ -3,6 +3,9 @@
   "name": "Zoodiac Drident",
   "is_illegal": false,
   "text": "4 Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Drident\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. Once per turn, during either player\u0027s turn: You can detach 1 Xyz Material from this card, then target 1 face-up card on the field; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48905153.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

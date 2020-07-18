@@ -3,6 +3,9 @@
   "name": "Sharkraken",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by Tributing 1 WATER monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71923655.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2400,

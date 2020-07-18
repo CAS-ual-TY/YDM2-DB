@@ -3,6 +3,9 @@
   "name": "Cursed Bamboo Sword",
   "is_illegal": false,
   "text": "The equipped monster gains 0 ATK. You can target 1 other \"Bamboo Sword\" card you control; return it to the hand, and if you do, the equipped monster can attack your opponent directly this turn. You can only use this effect of \"Cursed Bamboo Sword\" once per turn. If this card is sent to the Graveyard: You can add 1 \"Bamboo Sword\" card from your Deck to your hand, except \"Cursed Bamboo Sword\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42199039.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

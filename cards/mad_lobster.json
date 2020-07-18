@@ -3,6 +3,9 @@
   "name": "Mad Lobster",
   "is_illegal": false,
   "text": "A gourmet food renowned by the Dark World upper crust. It has sensational flavor.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97240270.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,

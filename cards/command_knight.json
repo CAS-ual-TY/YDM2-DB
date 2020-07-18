@@ -3,6 +3,9 @@
   "name": "Command Knight",
   "is_illegal": false,
   "text": "All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10375182.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1200,

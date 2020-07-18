@@ -3,6 +3,9 @@
   "name": "Genin",
   "is_illegal": false,
   "text": "A creature that defeats its enemies using sleight-of-hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49370026.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 600,

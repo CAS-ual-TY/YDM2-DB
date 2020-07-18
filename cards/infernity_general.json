@@ -3,6 +3,9 @@
   "name": "Infernity General",
   "is_illegal": false,
   "text": "If you have no cards in your hand: You can banish this card from your Graveyard to target 2 Level 3 or lower \"Infernity\" monsters in your Graveyard; Special Summon them from the Graveyard, but their effects are negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17502671.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2700,

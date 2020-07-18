@@ -3,6 +3,9 @@
   "name": "Dark Spider",
   "is_illegal": false,
   "text": "Once per turn, you can increase the Level of 1 face-up Insect-Type monster you control by 2, until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81759748.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

@@ -3,6 +3,9 @@
   "name": "Flint",
   "is_illegal": false,
   "text": "The equipped monster loses 300 ATK and cannot change its battle position or declare an attack. If this card is destroyed because the equipped monster is destroyed: Target 1 monster on the field; equip this card to that monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75560629.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

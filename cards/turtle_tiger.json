@@ -3,6 +3,9 @@
   "name": "Turtle Tiger",
   "is_illegal": false,
   "text": "A tiger encased in a protective shell that attacks with razor-sharp fangs.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37313348.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1000,

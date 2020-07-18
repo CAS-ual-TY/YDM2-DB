@@ -3,6 +3,9 @@
   "name": "Effect Veiler",
   "is_illegal": false,
   "text": "During your opponent\u0027s Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97268402.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

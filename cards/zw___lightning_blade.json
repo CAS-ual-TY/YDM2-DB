@@ -3,6 +3,9 @@
   "name": "ZW - Lightning Blade",
   "is_illegal": false,
   "text": "You can target 1 \"Utopia\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1200 ATK. While this card is equipped to a monster, face-up \"ZW -\" cards you control cannot be destroyed by your opponent\u0027s card effects. If a monster equipped with this card would be destroyed by a card effect, destroy this card instead. You can only control 1 face-up \"ZW - Lightning Blade\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45082499.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1200,

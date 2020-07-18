@@ -3,6 +3,9 @@
   "name": "Penguin Soldier",
   "is_illegal": false,
   "text": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93920745.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 750,

@@ -3,6 +3,9 @@
   "name": "The Menacing Jinzo",
   "is_illegal": false,
   "text": "If a Trap is on the field or in the GY: You can Special Summon this card from your hand, and if you do, its Level becomes 6 until the end of this turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Jinzo\" from your hand or GY, then you can destroy all Traps your opponent controls (if those cards are Set, reveal them). You can only use each effect of \"The Menacing Jinzo\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39987731.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

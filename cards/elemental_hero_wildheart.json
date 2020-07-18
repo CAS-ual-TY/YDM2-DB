@@ -3,6 +3,9 @@
   "name": "Elemental HERO Wildheart",
   "is_illegal": false,
   "text": "This card is unaffected by Trap effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86188410.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

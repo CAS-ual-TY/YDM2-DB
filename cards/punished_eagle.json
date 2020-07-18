@@ -3,6 +3,9 @@
   "name": "Punished Eagle",
   "is_illegal": false,
   "text": "\"Blue-Winged Crown\" + \"Niwatori\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74703140.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2100,

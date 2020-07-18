@@ -3,6 +3,9 @@
   "name": "Chaosrider Gustaph",
   "is_illegal": false,
   "text": "Once per turn, you can remove from play up to 2 Spell Cards from your Graveyard. This card gains 300 ATK for each card removed, until the end of your opponent\u0027s next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47829960.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1400,

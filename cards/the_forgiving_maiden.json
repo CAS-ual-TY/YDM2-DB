@@ -3,6 +3,10 @@
   "name": "The Forgiving Maiden",
   "is_illegal": false,
   "text": "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84080939.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84080938.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 850,

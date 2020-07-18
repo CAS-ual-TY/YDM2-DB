@@ -3,6 +3,9 @@
   "name": "Invader of Darkness",
   "is_illegal": false,
   "text": "Your opponent cannot activate Quick-Play Spell Cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56647086.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2900,

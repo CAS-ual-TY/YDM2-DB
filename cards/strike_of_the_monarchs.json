@@ -3,6 +3,9 @@
   "name": "Strike of the Monarchs",
   "is_illegal": false,
   "text": "You can Tribute 1 face-up Level 5 or higher Normal Summoned/Set monster, then target 1 face-up card on the field; negate its effects, then draw 1 card. (The effects remain negated until the end of this turn.) During your Main Phase, if this card is in your Graveyard: You can banish this card, then declare 1 Attribute; all face-up monsters currently on the field become that Attribute until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5795980.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

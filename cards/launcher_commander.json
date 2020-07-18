@@ -3,6 +3,9 @@
   "name": "Launcher Commander",
   "is_illegal": false,
   "text": "All other Cyberse monsters you control gain 300 ATK/DEF. Once per turn: You can Tribute 1 Cyberse monster, then target 1 face-up monster your opponent controls; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35911108.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,

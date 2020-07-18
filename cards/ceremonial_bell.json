@@ -3,6 +3,9 @@
   "name": "Ceremonial Bell",
   "is_illegal": false,
   "text": "Both players must keep their hands revealed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20228463.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

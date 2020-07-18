@@ -3,6 +3,9 @@
   "name": "Raptor\u0027s Ultimate Mace",
   "is_illegal": false,
   "text": "Equip only to a \"Raidraptor\" monster. It gains 1000 ATK. When the equipped monster is targeted for an attack by a monster whose ATK is higher than the equipped monster: You can add 1 \"Rank-Up-Magic\" Spell Card from your Deck to your hand, and if you do, you take no battle damage from that battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87609391.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

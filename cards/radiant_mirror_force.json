@@ -3,6 +3,9 @@
   "name": "Radiant Mirror Force",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack while they control 3 or more Attack Position monsters: Destroy all Attack Position monsters your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21481146.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

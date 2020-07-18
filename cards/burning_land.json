@@ -3,6 +3,9 @@
   "name": "Burning Land",
   "is_illegal": false,
   "text": "When this card is activated: If there are any Field Spell Cards on the field, destroy them. During each player\u0027s Standby Phase: The turn player takes 500 damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24294108.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

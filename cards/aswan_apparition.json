@@ -3,6 +3,9 @@
   "name": "Aswan Apparition",
   "is_illegal": false,
   "text": "If this card inflicts Battle Damage to your opponent\u0027s Life Points, you can return 1 Trap Card from your Graveyard to the top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88236094.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,

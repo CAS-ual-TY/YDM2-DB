@@ -3,6 +3,9 @@
   "name": "Wicked Dragon with the Ersatz Head",
   "is_illegal": false,
   "text": "A two-headed dragon with a pair of jaws that can tear an enemy to shreds.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2957055.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 900,

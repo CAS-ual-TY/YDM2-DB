@@ -3,6 +3,9 @@
   "name": "Volcanic Rocket",
   "is_illegal": false,
   "text": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or Graveyard to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76459806.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1900,

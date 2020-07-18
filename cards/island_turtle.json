@@ -3,6 +3,9 @@
   "name": "Island Turtle",
   "is_illegal": false,
   "text": "A huge turtle that is often mistaken for an island.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4042268.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1100,

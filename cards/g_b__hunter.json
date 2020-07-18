@@ -3,6 +3,9 @@
   "name": "G.B. Hunter",
   "is_illegal": false,
   "text": "Cards on the field cannot be returned to the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4130270.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

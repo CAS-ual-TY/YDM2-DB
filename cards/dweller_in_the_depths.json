@@ -3,6 +3,9 @@
   "name": "Dweller in the Depths",
   "is_illegal": false,
   "text": "Gains 300 ATK for each Continuous Spell in your Spell \u0026 Trap Zone.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46508640.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

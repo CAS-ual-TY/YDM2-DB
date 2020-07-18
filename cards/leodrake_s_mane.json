@@ -3,6 +3,9 @@
   "name": "Leodrake\u0027s Mane",
   "is_illegal": false,
   "text": "Select 1 face-up \"Naturia\" monster you control. Its ATK becomes 3000, and its effects are negated, until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57201737.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

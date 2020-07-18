@@ -3,6 +3,9 @@
   "name": "Yashinoki",
   "is_illegal": false,
   "text": "An intelligent palm tree that drops a hail of rock-hard coconuts on its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41061625.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

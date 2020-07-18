@@ -3,6 +3,9 @@
   "name": "Horn Imp",
   "is_illegal": false,
   "text": "A small fiend that dwells in the dark, its single horn makes it a formidable opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69669405.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

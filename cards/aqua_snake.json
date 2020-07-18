@@ -3,6 +3,9 @@
   "name": "Aqua Snake",
   "is_illegal": false,
   "text": "This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12436646.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1050,

@@ -3,6 +3,9 @@
   "name": "Dark Assailant",
   "is_illegal": false,
   "text": "Armed with the Psycho Sword, this sinister assassin rules the bad land.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41949033.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

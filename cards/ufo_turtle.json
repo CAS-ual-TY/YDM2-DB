@@ -3,6 +3,9 @@
   "name": "UFO Turtle",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60806437.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1400,

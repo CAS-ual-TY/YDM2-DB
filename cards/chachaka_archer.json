@@ -3,6 +3,9 @@
   "name": "Chachaka Archer",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 Spell/Trap Card on the field; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83021423.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,

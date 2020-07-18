@@ -3,6 +3,9 @@
   "name": "Lizard Soldier",
   "is_illegal": false,
   "text": "A beast soldier derived from dragons, it is small for a Dragon-Type. Moving very quickly, this monster is an excellent strategist.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20831168.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1100,

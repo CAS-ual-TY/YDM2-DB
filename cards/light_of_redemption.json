@@ -3,6 +3,9 @@
   "name": "Light of Redemption",
   "is_illegal": false,
   "text": "Pay 800 Life Points, then target 1 of your banished LIGHT monsters; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2362787.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

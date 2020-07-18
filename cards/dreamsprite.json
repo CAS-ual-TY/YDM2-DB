@@ -3,6 +3,9 @@
   "name": "Dreamsprite",
   "is_illegal": false,
   "text": "When attacked by your opponent\u0027s monster, select another 1 of your Monster Cards and designate it as the attack\u0027s target, then calculate damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8687195.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,

@@ -3,6 +3,9 @@
   "name": "Spirit Ryu",
   "is_illegal": false,
   "text": "During your Battle Step, if this card battles (Quick Effect): You can discard 1 Dragon monster to the GY; this card gains 1000 ATK/DEF until the end of the Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67957315.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,

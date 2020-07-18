@@ -3,6 +3,9 @@
   "name": "Space Insulator",
   "is_illegal": false,
   "text": "2 monsters\nMonsters this card points to lose 800 ATK/DEF. When a Cyberse Link Monster is Link Summoned to your field, while this card is in the GY, except the turn this card was sent to the GY: You can Special Summon this card to your zone that monster points to, but it cannot be used as Link Material, also banish it when it leaves the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4914353.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

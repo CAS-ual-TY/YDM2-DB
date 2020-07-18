@@ -3,6 +3,9 @@
   "name": "Venom Swamp",
   "is_illegal": false,
   "text": "During each player\u0027s End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. Destroy a monster if its ATK becomes 0 by this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54306223.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

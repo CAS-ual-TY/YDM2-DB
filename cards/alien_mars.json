@@ -3,6 +3,9 @@
   "name": "Alien Mars",
   "is_illegal": false,
   "text": "The effects of Effect Monsters with A-Counters are negated, except for \"Alien Mars\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99532708.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,

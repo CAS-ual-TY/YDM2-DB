@@ -3,6 +3,9 @@
   "name": "Divine Dragon Aquabizarre",
   "is_illegal": false,
   "text": "Once per turn, you can Tribute 1 other face-up WATER monster and select 1 Continuous or Field Spell Card in your Graveyard to return it to the top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67964209.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2100,

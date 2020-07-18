@@ -3,6 +3,9 @@
   "name": "Trap Hole of Spikes",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster that was Normal or Special Summoned this turn declares an attack: Destroy that attacking monster, and if you do, inflict damage to your opponent equal to half the original ATK of that monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75902998.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

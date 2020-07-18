@@ -3,6 +3,9 @@
   "name": "Vengeful Shinobi",
   "is_illegal": false,
   "text": "When this face-up Attack Position card is targeted for an attack: Draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26046205.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 400,

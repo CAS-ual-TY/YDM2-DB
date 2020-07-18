@@ -3,6 +3,9 @@
   "name": "Mythical Beast Medusa",
   "is_illegal": false,
   "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn, during the Battle Phase (Quick Effect): You can remove 2 Spell Counters from your field, then target 1 face-up monster on the field; its ATK/DEF become half its current ATK/DEF until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54965929.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Dragon Piper",
   "is_illegal": false,
   "text": "FLIP: Destroy all face-up \"Dragon Capture Jar\"(s) on the field. If you destroy any, change all face-up Dragon-Type monsters on the field to Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55763552.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 200,

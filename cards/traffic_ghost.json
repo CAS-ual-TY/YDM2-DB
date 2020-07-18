@@ -3,6 +3,9 @@
   "name": "Traffic Ghost",
   "is_illegal": false,
   "text": "3 monsters",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41248270.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

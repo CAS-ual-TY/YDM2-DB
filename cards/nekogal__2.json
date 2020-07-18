@@ -3,6 +3,9 @@
   "name": "Nekogal #2",
   "is_illegal": false,
   "text": "A fast and lethal creature with very dangerous claws.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43352213.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

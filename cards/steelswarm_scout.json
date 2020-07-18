@@ -3,6 +3,9 @@
   "name": "Steelswarm Scout",
   "is_illegal": false,
   "text": "At the start of your Main Phase 1, if you control no Spell/Trap Cards: You can Special Summon this card from your Graveyard. You cannot Special Summon another monster(s) the turn you activate this effect. While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a \"Steelswarm\" monster, and cannot be used as a Synchro Material Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90727556.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 200,

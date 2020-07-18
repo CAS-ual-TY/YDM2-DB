@@ -3,6 +3,9 @@
   "name": "Electric Virus",
   "is_illegal": false,
   "text": "You can discard this card to the Graveyard, then target 1 Machine or Dragon-Type monster your opponent controls; take control of that target until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24725825.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

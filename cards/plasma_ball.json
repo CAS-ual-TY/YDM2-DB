@@ -3,6 +3,9 @@
   "name": "Plasma Ball",
   "is_illegal": false,
   "text": "This card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack: Destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92595545.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 900,

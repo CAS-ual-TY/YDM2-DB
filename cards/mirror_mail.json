@@ -3,6 +3,9 @@
   "name": "Mirror Mail",
   "is_illegal": false,
   "text": "When a face-up monster you control is targeted for an attack: Its ATK becomes equal to that of the attacking monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67232306.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

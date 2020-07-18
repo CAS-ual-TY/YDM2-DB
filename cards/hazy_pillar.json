@@ -3,6 +3,9 @@
   "name": "Hazy Pillar",
   "is_illegal": false,
   "text": "You can Normal Summon \"Hazy Flame\" monsters for 1 less Tribute. Once per turn: You can target 1 face-up Xyz Monster you control; attach 1 \"Hazy Flame\" monster from your hand or your side of the field to that Xyz Monster as an Xyz Material.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83108603.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

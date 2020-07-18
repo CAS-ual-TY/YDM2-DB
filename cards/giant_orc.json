@@ -3,6 +3,9 @@
   "name": "Giant Orc",
   "is_illegal": false,
   "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73698349.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

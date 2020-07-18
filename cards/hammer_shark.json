@@ -3,6 +3,9 @@
   "name": "Hammer Shark",
   "is_illegal": false,
   "text": "Once per turn: You can reduce the Level of this card by 1, and if you do, Special Summon 1 Level 3 or lower WATER monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17201174.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,

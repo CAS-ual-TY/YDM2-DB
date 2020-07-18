@@ -3,6 +3,9 @@
   "name": "Laval Lancelord",
   "is_illegal": false,
   "text": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard. When this card on the field is destroyed and sent to the Graveyard: You can target 1 of your banished FIRE monsters; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/123709.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2100,

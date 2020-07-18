@@ -3,6 +3,9 @@
   "name": "Tuner Capture",
   "is_illegal": false,
   "text": "Activate only when your opponent Synchro Summons a monster. Special Summon 1 Tuner Monster used for that Synchro Summon from their Graveyard to your side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50951359.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

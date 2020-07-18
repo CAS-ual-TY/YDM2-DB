@@ -3,6 +3,9 @@
   "name": "Saggi the Dark Clown",
   "is_illegal": false,
   "text": "This clown appears from nowhere and executes very strange moves to avoid enemy attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66602787.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

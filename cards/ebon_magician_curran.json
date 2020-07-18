@@ -3,6 +3,9 @@
   "name": "Ebon Magician Curran",
   "is_illegal": false,
   "text": "During your Standby Phase, inflict 300 damage to your opponent for each monster they control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46128076.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

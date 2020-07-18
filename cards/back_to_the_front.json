@@ -3,6 +3,9 @@
   "name": "Back to the Front",
   "is_illegal": false,
   "text": "Target 1 monster in your GY; Special Summon it in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59919307.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

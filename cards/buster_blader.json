@@ -3,6 +3,10 @@
   "name": "Buster Blader",
   "is_illegal": false,
   "text": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78193831.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78193832.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2600,

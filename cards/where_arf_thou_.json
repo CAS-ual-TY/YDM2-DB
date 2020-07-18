@@ -3,6 +3,9 @@
   "name": "Where Arf Thou?",
   "is_illegal": false,
   "text": "If you control a face-up Level 1 monster: Add 1 Level 1 monster from your Deck to your hand. During the End Phase of this turn, take 2000 damage if you did not Normal Summon the added monster, or a card with the same name, after activating this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51405049.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

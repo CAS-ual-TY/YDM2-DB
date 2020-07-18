@@ -3,6 +3,9 @@
   "name": "Giant Turtle Who Feeds on Flames",
   "is_illegal": false,
   "text": "A crimson-shelled tortoise that feeds on flames.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96981563.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,

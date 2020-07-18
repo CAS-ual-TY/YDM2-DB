@@ -3,6 +3,9 @@
   "name": "Golgoil",
   "is_illegal": false,
   "text": "An iron giant that appears from a dimensional rift.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7526150.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

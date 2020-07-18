@@ -3,6 +3,9 @@
   "name": "Penumbral Soldier Lady",
   "is_illegal": false,
   "text": "If this card battles a LIGHT monster, this card gains 1000 ATK during the Damage Step only.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64751286.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2100,

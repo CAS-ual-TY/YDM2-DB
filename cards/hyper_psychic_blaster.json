@@ -3,6 +3,9 @@
   "name": "Hyper Psychic Blaster",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner Psychic-Type Monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. At the end of the Damage Step, if this card attacked a Defense Position monster and that monster\u0027s DEF is lower than this card\u0027s ATK (use its original values if the other monster is no longer on the field): Gain LP equal to the surplus.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95526884.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3000,

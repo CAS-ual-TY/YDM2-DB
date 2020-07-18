@@ -3,6 +3,9 @@
   "name": "Card of Safe Return",
   "is_illegal": false,
   "text": "When a monster is Special Summoned from your Graveyard, you can draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57953380.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

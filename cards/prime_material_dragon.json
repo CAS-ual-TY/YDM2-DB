@@ -3,6 +3,9 @@
   "name": "Prime Material Dragon",
   "is_illegal": false,
   "text": "Any effect that would inflict damage to a player increases their Life Points by the same amount, instead. During either player\u0027s turn, when a card or effect is activated that would destroy a monster(s) on the field: You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12298909.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,

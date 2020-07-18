@@ -3,6 +3,9 @@
   "name": "Horus\u0027 Servant",
   "is_illegal": false,
   "text": "Your opponent cannot target face-up \"Horus the Black Flame Dragon\" monsters with Spells, Traps, or card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9264485.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 100,

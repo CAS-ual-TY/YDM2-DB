@@ -3,6 +3,9 @@
   "name": "Zap Mustung",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect during your Main Phase 1, cannot be Special Summoned by other ways, and cannot be Special Summoned if you have Special Summoned this turn. Twice per turn, this card cannot be destroyed by battle. Each turn, the turn player can only Special Summon a number of times up to their number of attacks conducted (and reached the Damage Step) this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29951323.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,

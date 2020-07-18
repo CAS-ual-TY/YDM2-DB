@@ -3,6 +3,9 @@
   "name": "Reboot",
   "is_illegal": false,
   "text": "Shuffle 1 \"Meklord\" monster from your hand into the Deck, then target 1 \"Meklord\" card in your Graveyard; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85775486.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

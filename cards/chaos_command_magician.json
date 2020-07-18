@@ -3,6 +3,9 @@
   "name": "Chaos Command Magician",
   "is_illegal": false,
   "text": "Negate the effect of a Monster Card that targets this 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72630549.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,

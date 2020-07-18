@@ -3,6 +3,9 @@
   "name": "Archfiend Marmot of Nefariousness",
   "is_illegal": false,
   "text": "An air marmot that has a nefarious horn and wings. It attacks by throwing acorns.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75889523.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,

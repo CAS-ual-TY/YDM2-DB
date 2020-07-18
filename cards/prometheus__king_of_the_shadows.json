@@ -3,6 +3,9 @@
   "name": "Prometheus, King of the Shadows",
   "is_illegal": false,
   "text": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82213171.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

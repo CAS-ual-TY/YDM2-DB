@@ -3,6 +3,9 @@
   "name": "Shadow Specter",
   "is_illegal": false,
   "text": "Powerful in groups, this animal spirit can be found in the wastelands.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40575313.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,

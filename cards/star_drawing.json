@@ -3,6 +3,9 @@
   "name": "Star Drawing",
   "is_illegal": false,
   "text": "If this card is used for an Xyz Summon, you can treat it as a Level 5 monster. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.\n? If it is Xyz Summoned: Draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24610207.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Red-Eyes Wyvern",
   "is_illegal": false,
   "text": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67300516.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

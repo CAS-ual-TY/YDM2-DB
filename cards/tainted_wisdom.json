@@ -3,6 +3,9 @@
   "name": "Tainted Wisdom",
   "is_illegal": false,
   "text": "If this Attack Position card is changed to face-up Defense Position: Shuffle your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28725004.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1250,

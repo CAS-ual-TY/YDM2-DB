@@ -3,6 +3,9 @@
   "name": "Hourglass of Life",
   "is_illegal": false,
   "text": "This creature grants power instead of shortening life.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8783685.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 700,

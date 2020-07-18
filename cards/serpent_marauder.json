@@ -3,6 +3,9 @@
   "name": "Serpent Marauder",
   "is_illegal": false,
   "text": "A snake with a single eye that blows an icy breath to freeze its opponents.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82742611.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

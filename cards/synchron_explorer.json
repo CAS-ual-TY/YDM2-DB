@@ -3,6 +3,9 @@
   "name": "Synchron Explorer",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can target 1 \"Synchron\" monster in your Graveyard; Special Summon that target, but its effects are negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36643046.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

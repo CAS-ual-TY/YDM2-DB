@@ -3,6 +3,9 @@
   "name": "Axe Dragonute",
   "is_illegal": false,
   "text": "If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84914462.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

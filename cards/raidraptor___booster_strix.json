@@ -3,6 +3,9 @@
   "name": "Raidraptor - Booster Strix",
   "is_illegal": false,
   "text": "When a \"Raidraptor\" monster you control is targeted for an attack by an opponent\u0027s monster: You can banish this card from your hand; destroy the attacking monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73977033.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,

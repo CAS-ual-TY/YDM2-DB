@@ -3,6 +3,9 @@
   "name": "Trickstar Narkissus",
   "is_illegal": false,
   "text": "If your opponent takes effect damage (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Trickstar Narkissus\" once per turn. Each time your opponent activates a monster effect in their hand or GY, inflict 200 damage to them immediately after it resolves.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91505214.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

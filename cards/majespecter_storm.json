@@ -3,6 +3,9 @@
   "name": "Majespecter Storm",
   "is_illegal": false,
   "text": "Tribute 1 WIND Spellcaster-Type monster, then target 1 monster your opponent controls; shuffle it into the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13972452.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

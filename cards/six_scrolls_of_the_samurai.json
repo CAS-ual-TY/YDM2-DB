@@ -3,6 +3,9 @@
   "name": "Six Scrolls of the Samurai",
   "is_illegal": false,
   "text": "Tribute 2 face-up \"Six Samurai\" monsters. Special Summon 1 \"Great Shogun Shien\" from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54913680.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

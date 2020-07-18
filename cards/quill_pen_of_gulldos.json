@@ -3,6 +3,9 @@
   "name": "Quill Pen of Gulldos",
   "is_illegal": false,
   "text": "Target 2 WIND monsters in your Graveyard and 1 card on the field; shuffle both of those first 2 targets into your Deck and return the other to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27980138.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Cynet Recovery",
   "is_illegal": false,
   "text": "If a Link Monster(s) you control is destroyed by battle or an opponent\u0027s card effect: You can target 1 monster in your GY, except a Link Monster; Special Summon it in Defense Position. You can only use this effect of \"Cynet Recovery\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73558460.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

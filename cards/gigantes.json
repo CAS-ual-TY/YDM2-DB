@@ -3,6 +3,9 @@
   "name": "Gigantes",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your GY. If this card is destroyed by battle and sent to the GY: Destroy all Spells and Traps on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47606319.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

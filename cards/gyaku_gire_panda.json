@@ -3,6 +3,9 @@
   "name": "Gyaku-Gire Panda",
   "is_illegal": false,
   "text": "Increase the ATK of this card by 500 points for each monster on your opponent\u0027s side of the field. When this card attacks with an ATK that is higher than the DEF of your opponent\u0027s Defense Position monster, inflict the difference as Battle Damage to your opponent\u0027s Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9817927.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

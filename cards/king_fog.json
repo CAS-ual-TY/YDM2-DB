@@ -3,6 +3,9 @@
   "name": "King Fog",
   "is_illegal": false,
   "text": "A fiend that dwells in a blinding curtain of smoke.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84686841.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

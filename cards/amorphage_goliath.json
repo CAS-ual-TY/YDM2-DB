@@ -3,6 +3,9 @@
   "name": "Amorphage Goliath",
   "is_illegal": false,
   "text": "Neither player can Special Summon monsters from the Extra Deck, except \"Amorphage\" monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69072185.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2750,

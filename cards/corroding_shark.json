@@ -3,6 +3,9 @@
   "name": "Corroding Shark",
   "is_illegal": false,
   "text": "A zombie shark that can deliver its lethal curse with a spell.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34290067.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1100,

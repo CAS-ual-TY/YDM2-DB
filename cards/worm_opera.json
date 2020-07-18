@@ -3,6 +3,9 @@
   "name": "Worm Opera",
   "is_illegal": false,
   "text": "FLIP: All face-up monsters on the field lose 500 ATK, except Reptile-Type \"Worm\" monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28465301.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 400,

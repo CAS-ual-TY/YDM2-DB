@@ -3,6 +3,9 @@
   "name": "Ultimate Earthbound Immortal",
   "is_illegal": false,
   "text": "If a Normal Summoned/Set \"Earthbound Immortal\" monster is on the field: You can target 1 face-up monster on the field; destroy it. You can only use this effect of \"Ultimate Earthbound Immortal\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70109009.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

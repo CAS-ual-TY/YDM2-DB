@@ -3,6 +3,9 @@
   "name": "Voltic Kong",
   "is_illegal": false,
   "text": "When this card inflicts Battle Damage to your opponent: Send 1 card from the top of your opponent\u0027s Deck to the Graveyard for each face-up LIGHT monster you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93151201.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

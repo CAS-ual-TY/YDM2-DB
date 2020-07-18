@@ -3,6 +3,9 @@
   "name": "Earth Chant",
   "is_illegal": false,
   "text": "This card can be used to Ritual Summon any EARTH Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59820352.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Ritual"
 }

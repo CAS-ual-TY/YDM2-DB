@@ -3,6 +3,9 @@
   "name": "Spell Striker",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93187568.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 600,

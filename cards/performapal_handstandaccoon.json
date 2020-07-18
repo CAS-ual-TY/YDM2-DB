@@ -3,6 +3,9 @@
   "name": "Performapal Handstandaccoon",
   "is_illegal": false,
   "text": "When this card is destroyed by battle: You can target 1 card on the field; return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81055000.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,

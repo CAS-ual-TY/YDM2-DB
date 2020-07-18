@@ -3,6 +3,9 @@
   "name": "Mystic Horseman",
   "is_illegal": false,
   "text": "Half man and half horse, this monster is known for its extreme speed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68516705.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,

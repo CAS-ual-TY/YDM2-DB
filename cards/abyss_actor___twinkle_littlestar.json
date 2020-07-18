@@ -3,6 +3,9 @@
   "name": "Abyss Actor - Twinkle Littlestar",
   "is_illegal": false,
   "text": "Cannot be destroyed by battle during your turn. This card can make a second and third attack on monsters during each Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7279373.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

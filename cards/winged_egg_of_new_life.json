@@ -3,6 +3,9 @@
   "name": "Winged Egg of New Life",
   "is_illegal": false,
   "text": "Legend has it that this creature can foretell the birth of children.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42418084.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1400,

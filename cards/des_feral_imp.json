@@ -3,6 +3,9 @@
   "name": "Des Feral Imp",
   "is_illegal": false,
   "text": "FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81985784.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

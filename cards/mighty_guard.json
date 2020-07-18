@@ -3,6 +3,9 @@
   "name": "Mighty Guard",
   "is_illegal": false,
   "text": "A machine soldier that was developed as a guard. It is made of rust-proof metal.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62327910.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

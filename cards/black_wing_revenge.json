@@ -3,6 +3,9 @@
   "name": "Black Wing Revenge",
   "is_illegal": false,
   "text": "When a Winged Beast-Type monster you control is destroyed by battle and sent to the Graveyard: Special Summon 2 \"Blackwing - Black Crest Tokens\" (Winged Beast-Type/DARK/Level 2/ATK 0/DEF 800).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9925982.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

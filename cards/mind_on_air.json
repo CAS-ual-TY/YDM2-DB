@@ -3,6 +3,9 @@
   "name": "Mind on Air",
   "is_illegal": false,
   "text": "Your opponent must play with their hand revealed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66690411.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

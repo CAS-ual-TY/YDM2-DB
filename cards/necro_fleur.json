@@ -3,6 +3,9 @@
   "name": "Necro Fleur",
   "is_illegal": false,
   "text": "If this card is destroyed by a card effect and sent to the Graveyard, you can Special Summon 1 \"Sorciere de Fleur\" from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99000151.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

@@ -3,6 +3,9 @@
   "name": "Flame Ghost",
   "is_illegal": false,
   "text": "\"Skull Servant\" + \"Dissolverock\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58528964.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

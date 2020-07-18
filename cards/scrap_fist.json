@@ -3,6 +3,9 @@
   "name": "Scrap Fist",
   "is_illegal": false,
   "text": "Target 1 \"Junk Warrior\" you control; if it battles an opponent\u0027s monster this turn while you control it, apply these effects.\n? Your opponent cannot activate cards or effects until the end of the Damage Step.\n? If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n? Double any battle damage your opponent takes.\n? It cannot be destroyed by battle.\n? Destroy the opponent\u0027s monster that battled it at the end of the Damage Step.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8529136.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

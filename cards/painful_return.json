@@ -3,6 +3,9 @@
   "name": "Painful Return",
   "is_illegal": false,
   "text": "Your opponent chooses 1 monster in your Graveyard. During the End Phase, add that monster to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57902193.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

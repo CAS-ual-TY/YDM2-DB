@@ -3,6 +3,9 @@
   "name": "Jurrac Protops",
   "is_illegal": false,
   "text": "This card gains 100 ATK for each monster your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23927545.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1700,

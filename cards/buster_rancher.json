@@ -3,6 +3,9 @@
   "name": "Buster Rancher",
   "is_illegal": false,
   "text": "Only a monster with an ATK of 1000 points or less can be equipped with this card. During damage calculation, increase the ATK of the monster equipped with this card by 2500 points if the opponent\u0027s monster that battles it is in Attack Position and its ATK is 2500 or more, OR if the opponent\u0027s monster that battles it is in Defense Position and its DEF is 2500 or more.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84740193.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

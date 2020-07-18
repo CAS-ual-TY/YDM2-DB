@@ -3,6 +3,9 @@
   "name": "Testudo erat Numen",
   "is_illegal": false,
   "text": "Neither player can Special Summon monsters with 1800 or more ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74952447.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 0,

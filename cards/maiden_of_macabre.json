@@ -3,6 +3,9 @@
   "name": "Maiden of Macabre",
   "is_illegal": false,
   "text": "Each time this card destroys an opponent\u0027s monster by battle, place 1 Spell Counter on it. This card gains 200 ATK for each Spell Counter on it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84055227.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

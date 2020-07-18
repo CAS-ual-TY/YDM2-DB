@@ -3,6 +3,9 @@
   "name": "Mirror Wall",
   "is_illegal": false,
   "text": "Each of your opponent\u0027s monsters that conducted an attack while this card was face-up on the field has its ATK halved as long as this card remains on the field. During each of your Standby Phases, pay 2000 LP or destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22359980.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

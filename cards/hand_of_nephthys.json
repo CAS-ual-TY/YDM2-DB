@@ -3,6 +3,9 @@
   "name": "Hand of Nephthys",
   "is_illegal": false,
   "text": "You can Tribute this card and 1 other monster; Special Summon 1 \"Sacred Phoenix of Nephthys\" from your hand or Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98446407.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 600,

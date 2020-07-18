@@ -3,6 +3,9 @@
   "name": "Tasuke Knight",
   "is_illegal": false,
   "text": "When an opponent\u0027s monster declares an attack, while you have no cards in your hand and this card is in your Graveyard: You can Special Summon this card from your Graveyard, then end the Battle Phase. You can only use this effect of \"Tasuke Knight\" once per Duel.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86039057.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

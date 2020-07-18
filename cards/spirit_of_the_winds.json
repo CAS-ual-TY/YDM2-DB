@@ -3,6 +3,9 @@
   "name": "Spirit of the Winds",
   "is_illegal": false,
   "text": "A free-spirited wind elemental that flits about as it desires. It brings storms when it becomes upset.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54615781.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,

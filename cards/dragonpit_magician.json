@@ -3,6 +3,9 @@
   "name": "Dragonpit Magician",
   "is_illegal": false,
   "text": "This gifted magician can awaken the energy stored in the deep places of the earth, known as the Pits of the Dragon. His stoic approach wins him few friends, and he often bends to the desires of his pupil.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51531505.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 900,

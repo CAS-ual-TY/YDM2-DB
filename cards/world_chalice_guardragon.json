@@ -3,6 +3,9 @@
   "name": "World Chalice Guardragon",
   "is_illegal": false,
   "text": "When a card or effect is activated that targets your linked monster (Quick Effect): You can send this card from your hand or field to the GY; negate the activation, and if you do, destroy that card. You can banish this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in Defense Position to your zone a Link Monster points to. You can only use this effect of \"World Chalice Guardragon\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84899094.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 400,

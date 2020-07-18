@@ -3,6 +3,9 @@
   "name": "Mine Golem",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76321376.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

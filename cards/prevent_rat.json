@@ -3,6 +3,9 @@
   "name": "Prevent Rat",
   "is_illegal": false,
   "text": "This creature is shielded with a tough hide of hair and is excellent at defending itself.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/549481.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

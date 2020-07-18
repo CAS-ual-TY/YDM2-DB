@@ -3,6 +3,9 @@
   "name": "Performapal Skullcrobat Joker",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can add 1 \"Performapal\" monster, \"Magician\" Pendulum Monster, or \"Odd-Eyes\" monster from your Deck to your hand, except \"Performapal Skullcrobat Joker\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40318957.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

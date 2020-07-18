@@ -3,6 +3,9 @@
   "name": "Sealing Ceremony of Raiton",
   "is_illegal": false,
   "text": "Once per turn: You can return 1 face-up WIND monster you control to the bottom of the Main Deck to target up to 2 cards in your opponent\u0027s Graveyard; banish those targets.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42425831.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

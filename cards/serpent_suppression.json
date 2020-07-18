@@ -3,6 +3,9 @@
   "name": "Serpent Suppression",
   "is_illegal": false,
   "text": "Face-up Attack Position monsters with 0 ATK your opponent controls cannot be destroyed by battle with \"Reptilianne\" monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19451302.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

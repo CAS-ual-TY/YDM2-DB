@@ -3,6 +3,9 @@
   "name": "Valkyrie Chariot",
   "is_illegal": false,
   "text": "Once per turn, you can either: Target 1 Fairy monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. When the equipped monster declares an attack: You can have it gain 500 ATK. (This ATK gain remains even if this card leaves the field.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19190082.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 500,

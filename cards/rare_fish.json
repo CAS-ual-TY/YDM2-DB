@@ -3,6 +3,9 @@
   "name": "Rare Fish",
   "is_illegal": false,
   "text": "\"Fusionist\" + \"Enchanting Mermaid\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80516007.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

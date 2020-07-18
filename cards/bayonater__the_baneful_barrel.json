@@ -3,6 +3,9 @@
   "name": "Bayonater, the Baneful Barrel",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each monster your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47474172.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,

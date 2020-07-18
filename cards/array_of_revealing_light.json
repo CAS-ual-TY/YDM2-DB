@@ -3,6 +3,9 @@
   "name": "Array of Revealing Light",
   "is_illegal": false,
   "text": "Declare 1 Type of monster. Any monster of the declared Type cannot declare an attack during the turn it is Normal Summoned, Flip Summoned or Special Summoned.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69296555.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

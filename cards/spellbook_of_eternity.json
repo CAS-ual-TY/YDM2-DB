@@ -3,6 +3,9 @@
   "name": "Spellbook of Eternity",
   "is_illegal": false,
   "text": "Target 1 of your banished \"Spellbook\" Spell Cards, except \"Spellbook of Eternity\"; add that target to your hand. You can only activate 1 \"Spellbook of Eternity\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61592395.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

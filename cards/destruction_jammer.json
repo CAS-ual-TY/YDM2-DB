@@ -3,6 +3,9 @@
   "name": "Destruction Jammer",
   "is_illegal": false,
   "text": "Discard 1 card. Negate the activation of a Spell Card, Trap Card, or Effect Monster\u0027s effect that destroys a monster(s) on the field, and destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98956134.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

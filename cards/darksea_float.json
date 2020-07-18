@@ -3,6 +3,9 @@
   "name": "Darksea Float",
   "is_illegal": false,
   "text": "When this card on the field is destroyed by a card effect and sent to the Graveyard, the owner of this card draws 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70054514.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

@@ -3,6 +3,9 @@
   "name": "Dragon\u0027s Mirror",
   "is_illegal": false,
   "text": "Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71490127.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

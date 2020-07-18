@@ -3,6 +3,9 @@
   "name": "Winged Rhynos",
   "is_illegal": false,
   "text": "During either player\u0027s turn, when a Trap Card is activated (except during the Damage Step): You can return this face-up card from the field to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18430390.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

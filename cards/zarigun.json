@@ -3,6 +3,9 @@
   "name": "Zarigun",
   "is_illegal": false,
   "text": "A lethal crawfish with extremely dangerous claws.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10598400.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 600,

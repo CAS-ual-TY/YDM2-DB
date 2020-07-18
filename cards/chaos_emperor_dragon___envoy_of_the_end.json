@@ -3,6 +3,9 @@
   "name": "Chaos Emperor Dragon - Envoy of the End",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can pay 1000 LP; send as many cards in both players\u0027 hands and on the field as possible to the GY, then inflict 300 damage to your opponent for each card sent to the opponent\u0027s GY by this effect. You cannot activate other cards or effects during the turn you activate this card\u0027s effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82301904.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,

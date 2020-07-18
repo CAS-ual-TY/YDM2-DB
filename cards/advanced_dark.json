@@ -3,6 +3,9 @@
   "name": "Advanced Dark",
   "is_illegal": false,
   "text": "All \"Crystal Beast\" monsters on the field and in the GY become DARK. If an \"Ultimate Crystal\" monster attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a \"Crystal Beast\" monster you control battles and you would take damage: You can send 1 \"Crystal Beast\" monster from your Deck to the GY; you take no battle damage from that battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12644061.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

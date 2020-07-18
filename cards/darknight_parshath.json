@@ -3,6 +3,9 @@
   "name": "Darknight Parshath",
   "is_illegal": false,
   "text": "If this card destroys an opponent\u0027s monster by battle: You can banish 1 DARK monster from your Graveyard; draw 1 card. This card gains 100 ATK for each DARK monster in your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76925842.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1900,

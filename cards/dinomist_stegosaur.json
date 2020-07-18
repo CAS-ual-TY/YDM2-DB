@@ -3,6 +3,9 @@
   "name": "Dinomist Stegosaur",
   "is_illegal": false,
   "text": "If another Pendulum Monster you control battles an opponent\u0027s monster, after damage calculation: You can destroy those monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1580833.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,

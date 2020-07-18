@@ -3,6 +3,9 @@
   "name": "Golden Bamboo Sword",
   "is_illegal": false,
   "text": "If you control a \"Bamboo Sword\" Equip Spell: Draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74029853.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

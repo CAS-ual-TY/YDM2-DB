@@ -3,6 +3,9 @@
   "name": "Attention!",
   "is_illegal": false,
   "text": "Target 1 face-up Level 5 or lower monster your opponent controls; destroy all face-up monsters on the field with a different Level than it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85352446.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

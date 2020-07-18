@@ -3,6 +3,9 @@
   "name": "Blizzard Falcon",
   "is_illegal": false,
   "text": "If this card\u0027s current ATK is higher than its original ATK: You can inflict 1500 damage to your opponent. This effect can only be used once while this card is face-up on the field. You can only use the effect of \"Blizzard Falcon\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43694481.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

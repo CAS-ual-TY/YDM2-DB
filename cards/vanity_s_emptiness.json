@@ -3,6 +3,9 @@
   "name": "Vanity\u0027s Emptiness",
   "is_illegal": false,
   "text": "Neither player can Special Summon monsters. If a card is sent from the Deck or the field to your Graveyard: Destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5851097.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

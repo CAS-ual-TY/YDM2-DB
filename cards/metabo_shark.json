@@ -3,6 +3,9 @@
   "name": "Metabo-Shark",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can target 2 Fish-Type monsters in your Graveyard; shuffle those targets into your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37792478.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1800,

@@ -3,6 +3,9 @@
   "name": "Zoa",
   "is_illegal": false,
   "text": "A monster whose full potential can be achieved when outfitted with \"Metalmorph\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24311372.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2600,

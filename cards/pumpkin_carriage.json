@@ -3,6 +3,9 @@
   "name": "Pumpkin Carriage",
   "is_illegal": false,
   "text": "\"Prinzessin\" you control can attack directly. Your opponent cannot target \"Golden Castle of Stromberg\" you control with card effects, also it cannot be destroyed by card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14512825.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,

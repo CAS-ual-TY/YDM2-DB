@@ -3,6 +3,9 @@
   "name": "Vampire Scarlet Scourge",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can pay 1000 LP, then target 1 \"Vampire\" monster in your GY, except \"Vampire Scarlet Scourge\"; Special Summon it, but it cannot attack this turn. You can only use this effect of \"Vampire Scarlet Scourge\" once per turn. At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79523365.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

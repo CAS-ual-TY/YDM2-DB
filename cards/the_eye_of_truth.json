@@ -3,6 +3,9 @@
   "name": "The Eye of Truth",
   "is_illegal": false,
   "text": "Your opponent must keep their hand revealed. Once per turn, during your opponent\u0027s Standby Phase, if they have a Spell(s) in their hand: They gain 1000 LP if they have a Spell(s) in their hand at resolution.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34694160.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

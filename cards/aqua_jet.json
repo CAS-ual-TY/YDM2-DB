@@ -3,6 +3,9 @@
   "name": "Aqua Jet",
   "is_illegal": false,
   "text": "Target 1 face-up Fish, Sea Serpent, or Aqua-Type monster you control; it gains 1000 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7653207.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

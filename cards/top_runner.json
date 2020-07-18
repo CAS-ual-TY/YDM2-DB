@@ -3,6 +3,9 @@
   "name": "Top Runner",
   "is_illegal": false,
   "text": "All face-up Synchro Monsters you control gain 600 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53623827.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1100,

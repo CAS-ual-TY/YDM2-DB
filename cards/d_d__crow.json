@@ -3,6 +3,9 @@
   "name": "D.D. Crow",
   "is_illegal": false,
   "text": "(Quick Effect): You can discard this card to the GY, then target 1 card in your opponent\u0027s GY; banish that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24508238.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,

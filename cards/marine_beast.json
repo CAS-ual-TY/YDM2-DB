@@ -3,6 +3,9 @@
   "name": "Marine Beast",
   "is_illegal": false,
   "text": "\"Water Magician\" + \"Behegon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29929832.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,

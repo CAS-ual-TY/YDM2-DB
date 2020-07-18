@@ -3,6 +3,9 @@
   "name": "Ghost of a Grudge",
   "is_illegal": false,
   "text": "If your opponent has 8 or more cards in their Graveyard: The ATK of all monsters your opponent currently controls become 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67113830.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

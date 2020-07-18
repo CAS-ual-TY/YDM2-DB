@@ -3,6 +3,9 @@
   "name": "Laval Dual Slasher",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner FIRE monsters\nThis card gains effects based on the number of \"Laval\" monsters in your Graveyard:\n? 2+: Once per turn, if this card attacks a Defense Position monster, it can attack once again in a row.\n? 3+: If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31632536.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2400,

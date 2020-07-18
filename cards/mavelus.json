@@ -3,6 +3,9 @@
   "name": "Mavelus",
   "is_illegal": false,
   "text": "\"Tyhone\" + \"Wings of Wicked Flame\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59036972.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,

@@ -3,6 +3,9 @@
   "name": "Batteryman D",
   "is_illegal": false,
   "text": "Your opponent cannot select a Thunder-Type monster you control as an attack target (except \"Batteryman D\").",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55401221.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

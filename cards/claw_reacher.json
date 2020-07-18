@@ -3,6 +3,9 @@
   "name": "Claw Reacher",
   "is_illegal": false,
   "text": "Stretching arms and razor-sharp claws make this monster a formidable opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41218256.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

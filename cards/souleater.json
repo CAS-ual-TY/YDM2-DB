@@ -3,6 +3,9 @@
   "name": "Souleater",
   "is_illegal": false,
   "text": "A living wonder of mystery.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31242786.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

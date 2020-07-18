@@ -3,6 +3,9 @@
   "name": "Lumina, Twilightsworn Shaman",
   "is_illegal": false,
   "text": "Once per turn: You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 of your banished \"Lightsworn\" monsters, except \"Lumina, Twilightsworn Shaman\"; Special Summon it. Once per turn, if your other \"Lightsworn\" monster\u0027s effect is activated: Send the top 3 cards of your Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56166150.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

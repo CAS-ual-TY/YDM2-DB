@@ -3,6 +3,9 @@
   "name": "Izanami",
   "is_illegal": false,
   "text": "This card cannot be Special Summoned. This card returns to its owner\u0027s hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card is Normal Summoned or flipped face-up, you can discard 1 card to add 1 Spirit monster from your Graveyard to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43543777.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1100,

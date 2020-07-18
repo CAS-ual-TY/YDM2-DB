@@ -3,6 +3,9 @@
   "name": "Supporter in the Shadows",
   "is_illegal": false,
   "text": "A cute little elf that hides in the shadows and provides spiritual support.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41422426.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

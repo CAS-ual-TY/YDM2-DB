@@ -3,6 +3,9 @@
   "name": "Lord Poison",
   "is_illegal": false,
   "text": "If this card is destroyed by battle and sent to the Graveyard: Target 1 Plant-Type monster in your Graveyard, except \"Lord Poison\"; Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40320754.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

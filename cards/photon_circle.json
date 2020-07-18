@@ -3,6 +3,9 @@
   "name": "Photon Circle",
   "is_illegal": false,
   "text": "Any Battle Damage you take from battles involving this card is halved.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64145892.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

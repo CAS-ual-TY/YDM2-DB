@@ -3,6 +3,9 @@
   "name": "Meklord Assembly",
   "is_illegal": false,
   "text": "When this card is activated: You can add 1 \"Meklord\" monster from your Deck to your hand. You can only use each of the following effects of \"Meklord Assembly\" once per turn.\n? You can discard 1 card, then target 1 monster you control; destroy it. \n? If a face-up \"Meklord\" monster(s) you control is destroyed by battle or card effect: You can target 1 other face-up Spell/Trap on the field; destroy it.\nYou can only activate 1 \"Meklord Assembly\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39109382.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

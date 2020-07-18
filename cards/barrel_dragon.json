@@ -3,6 +3,10 @@
   "name": "Barrel Dragon",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are Heads.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81480461.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81480460.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2600,

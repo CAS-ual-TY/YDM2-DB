@@ -3,6 +3,9 @@
   "name": "Leotron",
   "is_illegal": false,
   "text": "A territorial electronic monster that guards its own domain.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47226949.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

@@ -3,6 +3,9 @@
   "name": "Yajiro Invader",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned to a zone that is not the center Main Monster Zone, destroy this card. Once per turn: You can move this card to an unused adjacent Main Monster Zone. Each time exactly 1 monster is Normal or Special Summoned, to your opponent\u0027s field: Move this card to the adjacent Main Monster Zone closer to that opponent\u0027s monster, then destroy all other cards in this card\u0027s column.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10852583.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

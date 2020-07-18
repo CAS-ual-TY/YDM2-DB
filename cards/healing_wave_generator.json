@@ -3,6 +3,9 @@
   "name": "Healing Wave Generator",
   "is_illegal": false,
   "text": "Once per turn, you can select another face-up monster you control to gain Life Points equal to that monster\u0027s Level x 100.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31281980.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 800,

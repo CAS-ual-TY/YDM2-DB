@@ -3,6 +3,9 @@
   "name": "Wood Remains",
   "is_illegal": false,
   "text": "A living corpse of wood re-animated by the power of darkness.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17733394.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

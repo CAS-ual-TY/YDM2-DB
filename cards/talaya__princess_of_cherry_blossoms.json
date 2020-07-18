@@ -3,6 +3,9 @@
   "name": "Talaya, Princess of Cherry Blossoms",
   "is_illegal": false,
   "text": "Gains 100 ATK for each Plant monster you control. Other Plant monsters on the field cannot be destroyed by card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80190753.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2800,

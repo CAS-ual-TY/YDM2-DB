@@ -3,6 +3,9 @@
   "name": "Phoenix Beast Gairuda",
   "is_illegal": false,
   "text": "If this card attacks an opponent\u0027s monster, this card gains 300 ATK during the Damage Step only.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43791861.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2500,

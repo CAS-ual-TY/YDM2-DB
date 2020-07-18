@@ -3,6 +3,9 @@
   "name": "Alien Overlord",
   "is_illegal": false,
   "text": "You can remove 2 A-Counters from anywhere on the field to Special Summon this card from your hand. Once per turn, you can place 1 A-Counter on each face-up monster your opponent controls. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) You can only control 1 \"Alien Overlord\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63253763.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

@@ -3,6 +3,9 @@
   "name": "Living Vase",
   "is_illegal": false,
   "text": "A living vase that bites enemies and blinds them with a blast of pollen from its flower.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34320307.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

@@ -3,6 +3,9 @@
   "name": "Baron of the Fiend Sword",
   "is_illegal": false,
   "text": "An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86325596.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1550,

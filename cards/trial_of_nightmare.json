@@ -3,6 +3,9 @@
   "name": "Trial of Nightmare",
   "is_illegal": false,
   "text": "This fiend passes judgment on enemies that are locked in coffins.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77827521.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

@@ -3,6 +3,9 @@
   "name": "Twilight Ninja Jogen",
   "is_illegal": false,
   "text": "You can reveal 1 \"Ninjitsu Art\" card in your hand; Special Summon this card from your hand. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79441381.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

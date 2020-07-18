@@ -3,6 +3,9 @@
   "name": "Battlin\u0027 Boxer Big Bandage",
   "is_illegal": false,
   "text": "Once per turn, this card cannot be destroyed by battle. Once per turn: You can target 1 \"Battlin\u0027 Boxer\" monster in your Graveyard, or 1 of your banished \"Battlin\u0027 Boxer\" monsters, that has a Level; all \"Battlin\u0027 Boxer\" monsters you currently control become that monster\u0027s current Level.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86325573.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1100,

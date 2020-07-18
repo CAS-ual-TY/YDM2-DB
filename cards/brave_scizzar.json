@@ -3,6 +3,9 @@
   "name": "Brave Scizzar",
   "is_illegal": false,
   "text": "Armed with a mass of scissors, this monster can clip an enemy into any desired shape and size.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74277583.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

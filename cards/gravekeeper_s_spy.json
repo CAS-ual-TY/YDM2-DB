@@ -3,6 +3,9 @@
   "name": "Gravekeeper\u0027s Spy",
   "is_illegal": false,
   "text": "FLIP: Special Summon 1 \"Gravekeeper\u0027s\" monster with 1500 or less ATK from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24317029.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

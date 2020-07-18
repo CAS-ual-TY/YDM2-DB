@@ -3,6 +3,9 @@
   "name": "Toy Vendor",
   "is_illegal": false,
   "text": "Once per turn: You can discard 1 card; draw 1 card and show it, then if it is a \"Fluffal\" monster, you can Special Summon 1 monster from your hand. Otherwise, discard the card you drew. If this card is sent to the Graveyard: You can add 1 \"Edge Imp Sabres\" or 1 \"Fluffal\" monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70245411.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

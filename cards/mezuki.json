@@ -3,6 +3,9 @@
   "name": "Mezuki",
   "is_illegal": false,
   "text": "You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92826944.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,

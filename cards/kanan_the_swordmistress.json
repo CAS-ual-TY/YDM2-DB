@@ -3,6 +3,9 @@
   "name": "Kanan the Swordmistress",
   "is_illegal": false,
   "text": "A lady warrior armed with sword and shield, she floats lightly and stings sharply.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12829151.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

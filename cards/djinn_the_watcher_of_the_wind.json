@@ -3,6 +3,9 @@
   "name": "Djinn the Watcher of the Wind",
   "is_illegal": false,
   "text": "This creature generates gale-force winds and tornadoes to blow its enemies away.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97843505.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 700,

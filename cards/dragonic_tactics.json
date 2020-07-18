@@ -3,6 +3,9 @@
   "name": "Dragonic Tactics",
   "is_illegal": false,
   "text": "Tribute 2 Dragon monsters; Special Summon 1 Level 8 Dragon monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72549351.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

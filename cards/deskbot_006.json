@@ -3,6 +3,9 @@
   "name": "Deskbot 006",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can target 1 monster on the field; change its battle position. This card gain 500 ATK for each face-up \"Deskbot\" monster in your Extra Deck. If this card in the Pendulum Zone is destroyed: You can target 1 \"Deskbot\" card in your Graveyard; add that target to your hand. You can only use this effect of \"Deskbot 006\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55106249.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

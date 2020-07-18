@@ -3,6 +3,9 @@
   "name": "Tree Otter",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 face-up monster you control; it gains 1000 ATK until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71759912.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,

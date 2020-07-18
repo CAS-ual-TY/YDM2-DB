@@ -3,6 +3,9 @@
   "name": "Farm Delivery",
   "is_illegal": false,
   "text": "If you control a Normal Monster: Target up to 3 of your banished Normal Monsters; shuffle them into the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27001740.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Giga-Tech Wolf",
   "is_illegal": false,
   "text": "An iron wolf with razor-sharp fangs that can penetrate any armor.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8471389.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1200,

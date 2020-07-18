@@ -3,6 +3,9 @@
   "name": "Whirlwind Weasel",
   "is_illegal": false,
   "text": "FLIP: Your opponent cannot activate any Spell or Trap Cards for the rest of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93730409.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 500,

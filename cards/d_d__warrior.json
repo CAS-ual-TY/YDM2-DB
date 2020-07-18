@@ -3,6 +3,9 @@
   "name": "D.D. Warrior",
   "is_illegal": false,
   "text": "After damage calculation, when this card battles a monster: Banish that monster, also banish this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37043180.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

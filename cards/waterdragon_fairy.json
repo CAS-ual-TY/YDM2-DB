@@ -3,6 +3,9 @@
   "name": "Waterdragon Fairy",
   "is_illegal": false,
   "text": "A water fairy that is said to be able to summon a giant sea serpent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66836598.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1100,

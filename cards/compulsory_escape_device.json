@@ -3,6 +3,9 @@
   "name": "Compulsory Escape Device",
   "is_illegal": false,
   "text": "Each player chooses 1 monster they control, then shuffles it into the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48216773.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

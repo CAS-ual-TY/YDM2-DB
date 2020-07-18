@@ -3,6 +3,9 @@
   "name": "Giant Mech-Soldier",
   "is_illegal": false,
   "text": "This monster swings an earth-shaking axe that cannot be blocked by a common sword.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72299832.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1750,

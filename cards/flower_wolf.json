@@ -3,6 +3,9 @@
   "name": "Flower Wolf",
   "is_illegal": false,
   "text": "\"Silver Fang\" + \"Darkworld Thorns\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95952802.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

@@ -3,6 +3,9 @@
   "name": "Performapal Bit Bite Turtle",
   "is_illegal": false,
   "text": "When this card is destroyed by battle: You can destroy the monster that destroyed it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89113320.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

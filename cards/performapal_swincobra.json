@@ -3,6 +3,9 @@
   "name": "Performapal Swincobra",
   "is_illegal": false,
   "text": "This card can attack your opponent directly. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93892436.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

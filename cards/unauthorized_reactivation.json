@@ -3,6 +3,9 @@
   "name": "Unauthorized Reactivation",
   "is_illegal": false,
   "text": "Target 1 Machine monster you control; equip 1 appropriate Machine Union monster from your hand or Deck to that monster, but the Union monster you equipped cannot be Special Summoned this turn. You can only activate 1 \"Unauthorized Reactivation\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12524259.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

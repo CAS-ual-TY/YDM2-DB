@@ -3,6 +3,9 @@
   "name": "Fire Princess",
   "is_illegal": false,
   "text": "Each time you gain Life Points, inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64752646.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1300,

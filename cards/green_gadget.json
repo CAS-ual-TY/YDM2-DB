@@ -3,6 +3,9 @@
   "name": "Green Gadget",
   "is_illegal": false,
   "text": "When this card is Normal or Special Summoned: You can add 1 \"Red Gadget\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41172955.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

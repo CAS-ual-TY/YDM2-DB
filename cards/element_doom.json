@@ -3,6 +3,9 @@
   "name": "Element Doom",
   "is_illegal": false,
   "text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ? EARTH: Negate the effect of an Effect Monster that this card destroyed by battle. ? WIND: If this card destroyed your opponent\u0027s monster by battle, it can attack once again in a row.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23118924.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

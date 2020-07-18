@@ -3,6 +3,9 @@
   "name": "A Feint Plan",
   "is_illegal": false,
   "text": "A player cannot attack face-down monsters during this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68170903.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

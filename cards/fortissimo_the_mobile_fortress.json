@@ -3,6 +3,9 @@
   "name": "Fortissimo the Mobile Fortress",
   "is_illegal": false,
   "text": "Once per turn: You can Special Summon 1 \"Meklord Army\" monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86997073.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

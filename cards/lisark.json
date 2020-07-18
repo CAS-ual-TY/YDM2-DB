@@ -3,6 +3,9 @@
   "name": "Lisark",
   "is_illegal": false,
   "text": "A creature with sapphire eyes that mesmerizes and confuses enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55210709.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,

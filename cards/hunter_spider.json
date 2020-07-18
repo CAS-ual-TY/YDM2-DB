@@ -3,6 +3,9 @@
   "name": "Hunter Spider",
   "is_illegal": false,
   "text": "This monster feeds on whatever it catches in its web.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80141480.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

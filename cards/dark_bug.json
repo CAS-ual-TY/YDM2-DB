@@ -3,6 +3,9 @@
   "name": "Dark Bug",
   "is_illegal": false,
   "text": "When this card is Normal Summoned, select and Special Summon 1 Level 3 Tuner monster from your Graveyard. The effect(s) of that monster is negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44341034.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,

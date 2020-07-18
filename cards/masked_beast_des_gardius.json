@@ -3,6 +3,9 @@
   "name": "Masked Beast Des Gardius",
   "is_illegal": false,
   "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 2 monsters, including at least 1 \"Grand Tiki Elder\" or \"Melchid the Four-Face Beast\". When this card is sent from the field to the Graveyard, equip 1 \"The Mask of Remnants\" from your Deck to 1 monster on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48948935.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3300,

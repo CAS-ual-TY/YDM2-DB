@@ -3,6 +3,9 @@
   "name": "Predaplanning",
   "is_illegal": false,
   "text": "Send 1 \"Predaplant\" monster from your Deck to the GY; place 1 Predator Counter on each face-up monster on the field, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter. If you Fusion Summon a DARK monster while this card is in your GY (except during the Damage Step): You can banish this card from your GY, then target 1 card on the field; destroy it. You can only use each effect of \"Predaplanning\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44536921.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

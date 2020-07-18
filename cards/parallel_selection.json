@@ -3,6 +3,9 @@
   "name": "Parallel Selection",
   "is_illegal": false,
   "text": "Activate only when a Synchro Monster you control is destroyed by your opponent\u0027s card (either by battle or by card effect) and sent to the Graveyard. Select 1 of your removed from play Spell Cards and add it to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23327298.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

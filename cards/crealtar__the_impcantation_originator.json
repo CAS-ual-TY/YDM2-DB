@@ -3,6 +3,9 @@
   "name": "Crealtar, the Impcantation Originator",
   "is_illegal": false,
   "text": "You can Ritual Summon this card with \"Impcantation Inception\". During the Main Phase (Quick Effect): You can reveal this card in your hand; discard 1 card, then Special Summon \"Impcantation\" monsters from your GY whose total Levels equal 10, but shuffle them into the Deck during the End Phase. You can only use this effect of \"Crealtar, the Impcantation Originator\" once per turn. Non-Ritual \"Impcantation\" monsters you control gain 2000 ATK, but their effects are negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96915510.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,

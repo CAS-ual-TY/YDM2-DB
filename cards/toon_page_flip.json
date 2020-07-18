@@ -3,6 +3,9 @@
   "name": "Toon Page-Flip",
   "is_illegal": false,
   "text": "If you control \"Toon World\": Reveal 3 Toon monsters with different names from your Deck, your opponent randomly picks 1 for you to Special Summon, ignoring its Summoning conditions, also shuffle the rest into your Deck. You can only activate 1 \"Toon Page-Flip\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27699122.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

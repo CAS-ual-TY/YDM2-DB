@@ -3,6 +3,9 @@
   "name": "Morphing Jar",
   "is_illegal": false,
   "text": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33508719.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

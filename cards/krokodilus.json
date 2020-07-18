@@ -3,6 +3,9 @@
   "name": "Krokodilus",
   "is_illegal": false,
   "text": "A vicious crocodile with great intelligence.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76512652.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1100,

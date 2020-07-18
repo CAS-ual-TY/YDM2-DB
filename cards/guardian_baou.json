@@ -3,6 +3,9 @@
   "name": "Guardian Baou",
   "is_illegal": false,
   "text": "Cannot be Summoned unless you control a face-up \"Wicked-Breaking Flamberge - Baou\". When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: It gains 1000 ATK. Negate the effects of monsters destroyed by battle with this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73544866.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

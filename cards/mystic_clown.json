@@ -3,6 +3,9 @@
   "name": "Mystic Clown",
   "is_illegal": false,
   "text": "Nothing can stop the mad attack of this powerful creature.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47060154.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

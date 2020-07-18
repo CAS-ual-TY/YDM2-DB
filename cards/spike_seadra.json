@@ -3,6 +3,9 @@
   "name": "Spike Seadra",
   "is_illegal": false,
   "text": "Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85326399.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,

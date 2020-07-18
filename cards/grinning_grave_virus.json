@@ -3,6 +3,9 @@
   "name": "Grinning Grave Virus",
   "is_illegal": false,
   "text": "Tribute 1 DARK monster with 3000 or less ATK; your opponent destroys 1 card (of their choice) in their hand or Deck for every 500 ATK that monster had on the field. If you Tributed a monster with 2000 or more ATK to activate this card, look at all cards your opponent draws until the end of their 3rd turn after this card\u0027s activation, and destroy all monsters among them. Cards destroyed and sent to the GY by this card\u0027s effects cannot activate their own effects that same turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85555787.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

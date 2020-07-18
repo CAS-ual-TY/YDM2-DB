@@ -3,6 +3,9 @@
   "name": "Amazoness Fighter",
   "is_illegal": false,
   "text": "You take no battle damage from attacks involving this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55821894.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

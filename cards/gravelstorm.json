@@ -3,6 +3,9 @@
   "name": "Gravelstorm",
   "is_illegal": false,
   "text": "Target 1 Spell/Trap Card on each side of the field; return them to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48135190.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Brain Hazard",
   "is_illegal": false,
   "text": "Select 1 of your removed from play Psychic-Type monsters, and Special Summon it. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39531794.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

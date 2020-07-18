@@ -3,6 +3,9 @@
   "name": "Genex Power Planner",
   "is_illegal": false,
   "text": "When this card is Normal Summoned, you can add 1 Level 3 \"Genex\" Effect Monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30399511.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,

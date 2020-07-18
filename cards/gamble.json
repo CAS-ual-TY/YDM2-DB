@@ -3,6 +3,9 @@
   "name": "Gamble",
   "is_illegal": false,
   "text": "You can only activate this card when your opponent\u0027s hand is 6 or more cards and your hand is 2 or less. Toss a coin and call heads or tails. If you call it right, draw until your hand has 5 cards. If you call it wrong, skip your next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37313786.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

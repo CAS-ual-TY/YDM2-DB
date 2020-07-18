@@ -3,6 +3,9 @@
   "name": "Regenerating Mummy",
   "is_illegal": false,
   "text": "When this card is sent from your hand to your Graveyard by an opponent\u0027s card effect: Return this card to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70821187.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

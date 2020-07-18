@@ -3,6 +3,9 @@
   "name": "Skull-Mark Ladybug",
   "is_illegal": false,
   "text": "When this card is sent to the Graveyard, increase your Life Points by 1000 points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64306248.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

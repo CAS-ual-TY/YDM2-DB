@@ -3,6 +3,9 @@
   "name": "Spiral Serpent",
   "is_illegal": false,
   "text": "When huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32626733.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2900,

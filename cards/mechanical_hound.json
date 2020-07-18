@@ -3,6 +3,9 @@
   "name": "Mechanical Hound",
   "is_illegal": false,
   "text": "While you have no cards in your hand, your opponent cannot activate Spell Cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22512237.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2800,

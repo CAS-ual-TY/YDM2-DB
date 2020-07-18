@@ -3,6 +3,9 @@
   "name": "Infernity Guardian",
   "is_illegal": false,
   "text": "While you have no cards in your hand, this face-up card cannot be destroyed by battle or by card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51566770.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

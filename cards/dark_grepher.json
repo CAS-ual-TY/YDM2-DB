@@ -3,6 +3,9 @@
   "name": "Dark Grepher",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher DARK monster. Once per turn: You can discard 1 DARK monster; send 1 DARK monster from your Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14536035.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

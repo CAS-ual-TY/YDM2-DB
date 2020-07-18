@@ -3,6 +3,9 @@
   "name": "Dogu",
   "is_illegal": false,
   "text": "During the End Phase, if this card is in the Graveyard because it was sent there by an opponent\u0027s card effect this turn while in your possession: You can add, from your Deck to your hand, 1 monster with a different Level from the monsters you control and the monsters in your Graveyard. You can only use this effect of \"Dogu\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95816395.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

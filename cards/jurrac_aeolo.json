@@ -3,6 +3,9 @@
   "name": "Jurrac Aeolo",
   "is_illegal": false,
   "text": "You can Tribute this card to select 1 Level 4 or lower \"Jurrac\" monster in your Graveyard, except \"Jurrac Aeolo\". Special Summon that monster from the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80727721.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 200,

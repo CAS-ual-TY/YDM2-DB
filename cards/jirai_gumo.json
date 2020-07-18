@@ -3,6 +3,9 @@
   "name": "Jirai Gumo",
   "is_illegal": false,
   "text": "When this card declares an attack: Toss a coin and call it. If you call it wrong, lose half your Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94773007.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2200,

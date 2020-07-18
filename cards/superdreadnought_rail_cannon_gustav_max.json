@@ -3,6 +3,9 @@
   "name": "Superdreadnought Rail Cannon Gustav Max",
   "is_illegal": false,
   "text": "2 Level 10 monsters\nOnce per turn: You can detach 1 material from this card; inflict 2000 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56910167.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3000,

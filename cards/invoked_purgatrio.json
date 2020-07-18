@@ -3,6 +3,9 @@
   "name": "Invoked Purgatrio",
   "is_illegal": false,
   "text": "\"Aleister the Invoker\" + 1 FIRE monster\nThis card gains 200 ATK for each card your opponent controls. This card can attack all monsters your opponent controls, once each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12307878.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2300,

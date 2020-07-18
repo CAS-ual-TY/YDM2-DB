@@ -3,6 +3,9 @@
   "name": "Nemeses Corridor",
   "is_illegal": false,
   "text": "You can target 1 of your banished monsters, except \"Nemeses Corridor\"; Special Summon this card from your hand, and if you do, shuffle that target into the Deck. You can target 1 of your banished \"Nemeses\" monsters, except \"Nemeses Corridor\"; add it to your hand. You can only use each effect of \"Nemeses Corridor\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72090076.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1900,

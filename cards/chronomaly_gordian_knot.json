@@ -3,6 +3,9 @@
   "name": "Chronomaly Gordian Knot",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 \"Chronomaly\" monster from your hand, and if you do, this card\u0027s Level becomes the current Level of that Special Summoned monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72837335.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

@@ -3,6 +3,9 @@
   "name": "Vylon Tetra",
   "is_illegal": false,
   "text": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster would be destroyed, you can destroy this Equip Card instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1281505.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 900,

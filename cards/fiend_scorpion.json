@@ -3,6 +3,9 @@
   "name": "Fiend Scorpion",
   "is_illegal": false,
   "text": "A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26566878.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

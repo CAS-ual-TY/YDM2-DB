@@ -3,6 +3,9 @@
   "name": "Invader from Another Dimension",
   "is_illegal": false,
   "text": "An extraterrestrial monster that came from a distant galaxy.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28450915.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 950,

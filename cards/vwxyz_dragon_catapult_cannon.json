@@ -3,6 +3,9 @@
   "name": "VWXYZ-Dragon Catapult Cannon",
   "is_illegal": false,
   "text": "\"VW-Tiger Catapult\" + \"XYZ-Dragon Cannon\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Once per turn: You can target 1 card your opponent controls; banish that target. When this card declares an attack on an opponent\u0027s monster: You can target the attack target; change that attack target\u0027s battle position. (Flip Effects are not activated.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84243274.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,

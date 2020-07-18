@@ -3,6 +3,9 @@
   "name": "Trickstar Reincarnation",
   "is_illegal": false,
   "text": "Banish your opponent\u0027s entire hand, and if you do, they draw the same number of cards. You can banish this card from your GY, then target 1 \"Trickstar\" monster in your GY; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21076084.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

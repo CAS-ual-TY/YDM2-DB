@@ -3,6 +3,9 @@
   "name": "Harpie Lady 2",
   "is_illegal": false,
   "text": "(This card\u0027s name is always treated as \"Harpie Lady\".)\nNegate the effects of Flip monsters this card destroys by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27927359.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,

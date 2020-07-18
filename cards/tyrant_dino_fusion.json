@@ -3,6 +3,9 @@
   "name": "Tyrant Dino Fusion",
   "is_illegal": false,
   "text": "Fusion Summon 1 \"Dinowrestler\" monster from your Extra Deck, using monsters you control as Fusion Material. If you do, the first time that face-up monster on the field would be destroyed by battle or card effect, it is not destroyed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15543940.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

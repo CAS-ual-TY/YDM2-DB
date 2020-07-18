@@ -3,6 +3,9 @@
   "name": "Curse of Dragonfire",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can target 1 Field Spell on the field; destroy it. Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7241272.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

@@ -3,6 +3,9 @@
   "name": "Cash Back",
   "is_illegal": false,
   "text": "When your opponent activates a Spell/Trap Card, or monster effect, by paying their Life Points: Negate the activation, and if you do, return it to the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59957503.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

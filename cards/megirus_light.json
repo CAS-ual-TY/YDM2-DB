@@ -3,6 +3,9 @@
   "name": "Megirus Light",
   "is_illegal": false,
   "text": "The fatal beams from the eyes of this monster result in grim destruction.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23032273.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 900,

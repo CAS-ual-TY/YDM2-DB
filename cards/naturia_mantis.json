@@ -3,6 +3,9 @@
   "name": "Naturia Mantis",
   "is_illegal": false,
   "text": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51254980.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,

@@ -3,6 +3,9 @@
   "name": "Tailor of the Fickle",
   "is_illegal": false,
   "text": "Switch 1 Equip Card equipped to a monster to another correct target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43641473.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

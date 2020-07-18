@@ -3,6 +3,9 @@
   "name": "Cyborg Doctor",
   "is_illegal": false,
   "text": "Once per turn, you can Tribute 1 Tuner monster you control to Special Summon a monster from your Graveyard with the same Attribute and Level as the Tributed monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51020079.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Lady of Faith",
   "is_illegal": false,
   "text": "Soothes the souls of others by chanting a mysterious spell.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17358176.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1100,

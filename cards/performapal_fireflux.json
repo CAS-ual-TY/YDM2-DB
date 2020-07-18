@@ -3,6 +3,9 @@
   "name": "Performapal Fireflux",
   "is_illegal": false,
   "text": "If a \"Performapal\" or \"Odd-Eyes\" monster you control attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12255007.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1200,

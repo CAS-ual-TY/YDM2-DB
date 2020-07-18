@@ -3,6 +3,9 @@
   "name": "Storm Shooter",
   "is_illegal": false,
   "text": "Once per turn, you can select and activate 1 of these effects: ? Move this card to an adjacent (horizontal) unoccupied Monster Card Zone. ? Return 1 Spell, Trap or Monster Card on your opponent\u0027s side of the field in the same column as this card to its owner\u0027s hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39188539.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2300,

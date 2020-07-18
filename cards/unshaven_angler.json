@@ -3,6 +3,9 @@
   "name": "Unshaven Angler",
   "is_illegal": false,
   "text": "When Tribute Summoning a WATER monster, you can treat this 1 monster as 2 Tributes.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92084010.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1500,

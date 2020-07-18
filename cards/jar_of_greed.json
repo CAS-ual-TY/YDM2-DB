@@ -3,6 +3,9 @@
   "name": "Jar of Greed",
   "is_illegal": false,
   "text": "Draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83968380.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

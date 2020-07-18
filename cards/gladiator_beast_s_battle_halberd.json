@@ -3,6 +3,9 @@
   "name": "Gladiator Beast\u0027s Battle Halberd",
   "is_illegal": false,
   "text": "Equip only to a \"Gladiator Beast\" monster. When it attacks, destroy 1 Spell or Trap Card at the end of the Damage Step. When the equipped monster is returned from your side of the field to the Deck and this card is sent to the Graveyard, return this card to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99013397.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

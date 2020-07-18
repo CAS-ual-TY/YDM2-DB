@@ -3,6 +3,9 @@
   "name": "Jar Turtle",
   "is_illegal": false,
   "text": "Each time \"Jar of Greed\" is activated, draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96287685.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 200,

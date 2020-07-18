@@ -3,6 +3,9 @@
   "name": "Gate Deeg",
   "is_illegal": false,
   "text": "This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49258578.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,

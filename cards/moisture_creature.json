@@ -3,6 +3,9 @@
   "name": "Moisture Creature",
   "is_illegal": false,
   "text": "If you Tribute Summon this monster by Tributing 3 monsters on the field, destroy all Spell and Trap Cards on your opponent\u0027s side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75285069.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,

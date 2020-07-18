@@ -3,6 +3,9 @@
   "name": "Tour Bus From the Underworld",
   "is_illegal": false,
   "text": "When this card is sent to the Graveyard: Target 1 monster in either player\u0027s Graveyard, except \"Tour Bus From the Underworld\"; shuffle that target into the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52823314.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

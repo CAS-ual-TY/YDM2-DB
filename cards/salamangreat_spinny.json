@@ -3,6 +3,9 @@
   "name": "Salamangreat Spinny",
   "is_illegal": false,
   "text": "If you control a \"Salamangreat\" card: You can discard this card, then target 1 face-up monster on the field; it gains 500 ATK until the end of this turn. If you control a \"Salamangreat\" monster other than \"Salamangreat Spinny\" and this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Salamangreat Spinny\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52277807.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,

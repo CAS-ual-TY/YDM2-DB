@@ -3,6 +3,9 @@
   "name": "Big Insect",
   "is_illegal": false,
   "text": "A giant ant that dwells in the jungle, it is powerful whether attacking or defending.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53606874.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

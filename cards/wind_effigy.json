@@ -3,6 +3,9 @@
   "name": "Wind Effigy",
   "is_illegal": false,
   "text": "This card can be treated as 2 Tributes for the Tribute Summon of a WIND Normal Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99865167.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

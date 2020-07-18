@@ -3,6 +3,9 @@
   "name": "Rivalry of Warlords",
   "is_illegal": false,
   "text": "Each player can only control 1 Type of monster. Send all other face-up monsters they control to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90846359.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

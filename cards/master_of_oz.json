@@ -3,6 +3,9 @@
   "name": "Master of Oz",
   "is_illegal": false,
   "text": "\"Big Koala\" + \"Des Kangaroo\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27134689.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 4200,

@@ -3,6 +3,9 @@
   "name": "The Gross Ghost of Fled Dreams",
   "is_illegal": false,
   "text": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68049471.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

@@ -3,6 +3,9 @@
   "name": "Beautiful Headhuntress",
   "is_illegal": false,
   "text": "A vicious creature that has decapitated numerous enemy monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16899564.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Righty Driver",
   "is_illegal": false,
   "text": "For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. If this card is Normal Summoned: You can Special Summon 1 \"Lefty Driver\" from your hand, Deck, or GY. You can only use this effect of \"Righty Driver\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60071928.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 100,

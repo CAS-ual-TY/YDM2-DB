@@ -3,6 +3,9 @@
   "name": "Element Saurus",
   "is_illegal": false,
   "text": "Gains the following effect(s) while there is a monster(s) with the following Attribute(s) on the field.\n? FIRE: This card gains 500 ATK.\n? EARTH: Negate the effects of Effect Monsters destroyed by battle with this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92755808.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

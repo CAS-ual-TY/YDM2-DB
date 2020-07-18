@@ -3,6 +3,9 @@
   "name": "Baobaboon",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can draw 1 card, then place 1 card from your hand on either the top or bottom of your Deck. If this card is destroyed by battle or card effect: You can Special Summon any number of \"Baobaboon\" from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55705473.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,

@@ -3,6 +3,9 @@
   "name": "Iris, the Earth Mother",
   "is_illegal": false,
   "text": "After a Chain with 3 or more Links resolves, draw 1 card. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9628664.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,

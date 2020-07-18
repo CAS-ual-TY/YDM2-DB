@@ -3,6 +3,9 @@
   "name": "Orcustrated Return",
   "is_illegal": false,
   "text": "Send 1 \"Orcust\" or \"World Legacy\" monster from your hand or face-up field to the GY; draw 2 cards. You can only activate 1 \"Orcustrated Return\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26845680.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Gemini Spark",
   "is_illegal": false,
   "text": "Tribute 1 face-up Level 4 Gemini monster, then target 1 card on the field; destroy it, and if you do, draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33846209.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

@@ -3,6 +3,9 @@
   "name": "Doom Donuts",
   "is_illegal": false,
   "text": "FLIP: Destroy all face-up monsters on the field with an original ATK or DEF of 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10389794.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

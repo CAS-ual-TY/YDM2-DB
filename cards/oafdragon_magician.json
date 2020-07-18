@@ -3,6 +3,9 @@
   "name": "Oafdragon Magician",
   "is_illegal": false,
   "text": "If this card is Normal or Special Summoned: You can target 1 \"Magician\" Pendulum Monster or 1 \"Odd-Eyes\" monster in your Graveyard, except \"Oafdragon Magician\"; add it to your hand. You can only use this effect of \"Oafdragon Magician\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14920218.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2100,

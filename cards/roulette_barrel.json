@@ -3,6 +3,9 @@
   "name": "Roulette Barrel",
   "is_illegal": false,
   "text": "Once per turn: You can roll a six-sided die twice, choose 1 result, and destroy 1 monster on the field whose Level is equal to that result.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46303688.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

@@ -3,6 +3,9 @@
   "name": "Gatekeeper",
   "is_illegal": false,
   "text": "An indestructible mechanoid created for the sole purpose of guarding the gateways.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19737320.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

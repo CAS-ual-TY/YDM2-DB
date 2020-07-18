@@ -3,6 +3,9 @@
   "name": "Gaia the Magical Knight",
   "is_illegal": false,
   "text": "(This card is always treated as a \"Gaia The Fierce Knight\" card.)\nIf you control no monsters, or your opponent controls a monster with 2300 or more ATK, you can Normal Summon this card without Tributing. If this card is Normal or Special Summoned: You can Special Summon 1 Level 5 Dragon monster from your hand or GY in Defense Position. You can only use this effect of \"Gaia the Magical Knight\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34130561.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2300,

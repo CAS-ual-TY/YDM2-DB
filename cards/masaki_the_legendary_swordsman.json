@@ -3,6 +3,9 @@
   "name": "Masaki the Legendary Swordsman",
   "is_illegal": false,
   "text": "Legendary swordmaster Masaki is a veteran of over 100 battles.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44287299.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1100,

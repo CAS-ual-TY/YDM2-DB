@@ -3,6 +3,9 @@
   "name": "Girochin Kuwagata",
   "is_illegal": false,
   "text": "Despite its small size, this monster has powerful jaws that can rip metal to shreds.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84620194.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,

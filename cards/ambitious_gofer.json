@@ -3,6 +3,9 @@
   "name": "Ambitious Gofer",
   "is_illegal": false,
   "text": "Once per turn: You can target up to 2 monsters your opponent controls; your opponent can reveal 1 monster in their hand to negate this card\u0027s effect, otherwise destroy those monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41224658.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

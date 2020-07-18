@@ -3,6 +3,9 @@
   "name": "Chiron the Mage",
   "is_illegal": false,
   "text": "Once per turn: You can discard 1 Spell Card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16956455.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

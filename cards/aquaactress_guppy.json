@@ -3,6 +3,9 @@
   "name": "Aquaactress Guppy",
   "is_illegal": false,
   "text": "Once per turn: You can Special Summon 1 \"Aquaactress\" monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66668900.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 600,

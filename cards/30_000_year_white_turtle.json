@@ -3,6 +3,9 @@
   "name": "30,000-Year White Turtle",
   "is_illegal": false,
   "text": "A huge turtle that has existed for more than 30,000 years.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11714098.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1250,

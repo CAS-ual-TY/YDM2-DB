@@ -3,6 +3,9 @@
   "name": "Blue-Winged Crown",
   "is_illegal": false,
   "text": "With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41396436.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1600,

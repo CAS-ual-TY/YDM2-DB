@@ -3,6 +3,9 @@
   "name": "Soldier Dragons",
   "is_illegal": false,
   "text": "Once per turn, when your opponent activates a card or effect (Quick Effect): You can Special Summon 1 Level 2 or lower Dragon monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7805147.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

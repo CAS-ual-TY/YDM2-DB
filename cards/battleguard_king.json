@@ -3,6 +3,9 @@
   "name": "Battleguard King",
   "is_illegal": false,
   "text": "Once per turn: You can Tribute any number of Warrior-Type monsters, except this card; for each Tributed monster, this card gains 1 additional attack during each Battle Phase this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39389320.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3000,

@@ -3,6 +3,9 @@
   "name": "Beelze Frog",
   "is_illegal": false,
   "text": "This card gains 300 ATK for each \"T.A.D.P.O.L.E.\" in your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49522489.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,

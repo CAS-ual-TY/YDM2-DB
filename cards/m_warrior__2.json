@@ -3,6 +3,9 @@
   "name": "M-Warrior #2",
   "is_illegal": false,
   "text": "Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92731455.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

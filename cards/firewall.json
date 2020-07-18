@@ -3,6 +3,9 @@
   "name": "Firewall",
   "is_illegal": false,
   "text": "When your opponent declares a direct attack, you can negate that monster\u0027s attack by removing from play 1 Pyro-Type monster in your Graveyard. Pay 500 Life Points during each of your Standby Phases. If you do not, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94804055.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

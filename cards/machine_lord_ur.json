@@ -3,6 +3,9 @@
   "name": "Machine Lord Ur",
   "is_illegal": false,
   "text": "This card can attack all monsters your opponent controls once each. If this card attacks or is attacked, your opponent takes no battle damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96938777.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

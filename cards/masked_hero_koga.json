@@ -3,6 +3,9 @@
   "name": "Masked HERO Koga",
   "is_illegal": false,
   "text": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. This card gains 500 ATK for each monster your opponent controls. Once per turn, during either player\u0027s turn: You can banish 1 \"HERO\" monster from your Graveyard, then target 1 face-up monster on the field; that target loses ATK equal to the ATK of the monster banished to activate this effect, until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50608164.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,

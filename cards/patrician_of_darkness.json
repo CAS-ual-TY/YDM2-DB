@@ -3,6 +3,9 @@
   "name": "Patrician of Darkness",
   "is_illegal": false,
   "text": "You choose the attack targets for your opponent\u0027s attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19153634.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

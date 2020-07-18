@@ -3,6 +3,9 @@
   "name": "Storm Caller",
   "is_illegal": false,
   "text": "You can put your opponent\u0027s monsters that are destroyed by battle with other Psychic-Type monsters on top of their owner\u0027s Deck instead of sending them to the Graveyard. When this card is destroyed by a card effect, this card\u0027s controller takes damage equal to its original ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15935204.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2300,

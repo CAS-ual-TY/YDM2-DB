@@ -3,6 +3,10 @@
   "name": "Dark Rebellion Xyz Dragon",
   "is_illegal": false,
   "text": "2 Level 4 monsters\nYou can detach 2 materials from this card, then target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, this card gains that lost ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16195942.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16195943.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,

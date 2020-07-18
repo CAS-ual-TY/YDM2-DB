@@ -3,6 +3,9 @@
   "name": "Xing Zhen Hu Replica",
   "is_illegal": false,
   "text": "Select 1 Set Spell/Trap Card on the field. It cannot be activated. Cards and effects cannot be activated in response to this card\u0027s activation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40736921.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

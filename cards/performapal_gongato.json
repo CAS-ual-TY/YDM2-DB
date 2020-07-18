@@ -3,6 +3,9 @@
   "name": "Performapal Gongato",
   "is_illegal": false,
   "text": "Once per turn, when an attack is declared involving a monster you control and an opponent\u0027s monster: You can activate this effect; you take no battle damage from that battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9106362.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 100,

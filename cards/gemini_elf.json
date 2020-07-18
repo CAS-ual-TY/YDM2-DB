@@ -3,6 +3,10 @@
   "name": "Gemini Elf",
   "is_illegal": false,
   "text": "Elf twins that alternate their attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69140098.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69140099.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

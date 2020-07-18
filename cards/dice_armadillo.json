@@ -3,6 +3,9 @@
   "name": "Dice Armadillo",
   "is_illegal": false,
   "text": "An armadillo monster that rolls up to form a dice-like shape.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69893315.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1650,

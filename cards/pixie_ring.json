@@ -3,6 +3,9 @@
   "name": "Pixie Ring",
   "is_illegal": false,
   "text": "While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46502013.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

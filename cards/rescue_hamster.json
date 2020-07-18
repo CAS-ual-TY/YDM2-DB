@@ -3,6 +3,9 @@
   "name": "Rescue Hamster",
   "is_illegal": false,
   "text": "During the turn this card was Normal Summoned, if you have a face-up Level 5 or lower Pendulum Monster Card in your Extra Deck: You can Tribute this card; choose 1 Level 5 or lower Pendulum Monster Card in your Extra Deck, and Special Summon 2 monsters from your Deck with the same name as that card, but their effects are negated, also they are destroyed during the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50485594.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

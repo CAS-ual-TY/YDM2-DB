@@ -3,6 +3,9 @@
   "name": "Gaia Power",
   "is_illegal": false,
   "text": "All EARTH monsters gain 500 ATK and lose 400 DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56594520.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

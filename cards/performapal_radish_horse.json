@@ -3,6 +3,9 @@
   "name": "Performapal Radish Horse",
   "is_illegal": false,
   "text": "If your opponent controls a Special Summoned monster, and controls at least as many monsters as you, you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster on each player\u0027s field; until the end of this turn, that opponent\u0027s monster loses ATK equal to this card\u0027s ATK, and if it does, that monster you control gains ATK equal to this card\u0027s ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71863024.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,

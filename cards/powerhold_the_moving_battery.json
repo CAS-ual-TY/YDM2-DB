@@ -3,6 +3,9 @@
   "name": "Powerhold the Moving Battery",
   "is_illegal": false,
   "text": "Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000), then, you can equip 1 Level 4 Machine \"Gadget\" monster from your hand or Deck to this card. (This card is also still a Trap.) If Summoned this way, this card gains ATK equal to double the ATK of the monster equipped to it by this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35100834.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

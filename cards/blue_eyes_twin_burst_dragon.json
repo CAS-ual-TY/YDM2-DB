@@ -3,6 +3,9 @@
   "name": "Blue-Eyes Twin Burst Dragon",
   "is_illegal": false,
   "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nMust be either Fusion Summoned, or Special Summoned by sending the above monsters you control to the GY (in which case you do not use \"Polymerization\"). Cannot be destroyed by battle. This card can make up to 2 attacks on monsters during each Battle Phase. At the end of the Damage Step, when this card attacks an opponent\u0027s monster, but the opponent\u0027s monster was not destroyed by the battle: You can banish that opponent\u0027s monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2129638.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,

@@ -3,6 +3,9 @@
   "name": "Gaia the Dragon Champion",
   "is_illegal": false,
   "text": "\"Gaia The Fierce Knight\" + \"Curse of Dragon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66889139.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2600,

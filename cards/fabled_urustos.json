@@ -3,6 +3,9 @@
   "name": "Fabled Urustos",
   "is_illegal": false,
   "text": "While you have 2 or less cards in your hand, all face-up \"Fabled\" monsters you control gain 400 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73040500.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1500,

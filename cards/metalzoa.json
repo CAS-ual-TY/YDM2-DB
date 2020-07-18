@@ -3,6 +3,9 @@
   "name": "Metalzoa",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Zoa\" equipped with \"Metalmorph\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50705071.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,

@@ -3,6 +3,9 @@
   "name": "Protector of the Sanctuary",
   "is_illegal": false,
   "text": "Your opponent cannot draw cards except during Draw Phases.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24221739.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1100,

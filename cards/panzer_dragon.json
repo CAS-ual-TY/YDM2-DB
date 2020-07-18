@@ -3,6 +3,9 @@
   "name": "Panzer Dragon",
   "is_illegal": false,
   "text": "1 Machine monster + 1 Dragon monster\nIf this card is destroyed and sent to the GY: You can target 1 card on the field; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72959823.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

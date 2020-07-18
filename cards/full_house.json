@@ -3,6 +3,9 @@
   "name": "Full House",
   "is_illegal": false,
   "text": "Target 2 other face-up Spell/Trap Cards and 3 Set Spell/Trap Cards, on the field; destroy them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45178472.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

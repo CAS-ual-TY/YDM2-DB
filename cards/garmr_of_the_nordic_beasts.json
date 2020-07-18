@@ -3,6 +3,9 @@
   "name": "Garmr of the Nordic Beasts",
   "is_illegal": false,
   "text": "If this card battles a Level 4 or lower monster, after damage calculation: You can return that monster to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88283496.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

@@ -3,6 +3,9 @@
   "name": "Aqua Armor Ninja",
   "is_illegal": false,
   "text": "When your opponent\u0027s monster declares a direct attack, if you have another \"Ninja\" monster in your Graveyard: You can banish this card from your Graveyard to target the attacking monster; negate that attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96427353.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

@@ -3,6 +3,9 @@
   "name": "Disc Fighter",
   "is_illegal": false,
   "text": "If this card attacks a Defense Position monster with DEF 2000 or more, destroy the monster with this card\u0027s effect without applying damage calculation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19612721.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

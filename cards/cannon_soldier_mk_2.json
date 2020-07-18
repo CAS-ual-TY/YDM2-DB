@@ -3,6 +3,9 @@
   "name": "Cannon Soldier MK-2",
   "is_illegal": false,
   "text": "You can Tribute 2 monsters to inflict 1500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14702066.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

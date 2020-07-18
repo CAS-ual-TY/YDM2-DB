@@ -3,6 +3,9 @@
   "name": "M-Warrior #1",
   "is_illegal": false,
   "text": "Specializing in combination attacks, this warrior uses magnetism to block an enemy\u0027s escape.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56342351.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

@@ -3,6 +3,9 @@
   "name": "Reverse Breaker",
   "is_illegal": false,
   "text": "Equip only to a \"Utopia\" monster. When the equipped monster declares an attack: Target 1 Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate Spell/Trap Cards in response to this effect\u0027s activation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94950218.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

@@ -3,6 +3,9 @@
   "name": "Gravekeeper\u0027s Nobleman",
   "is_illegal": false,
   "text": "When this card you control is destroyed by battle with an opponent\u0027s attacking monster and sent to your Graveyard: You can Special Summon 1 \"Gravekeeper\u0027s\" monster from your Deck in face-down Defense Position, except \"Gravekeeper\u0027s Nobleman\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85646474.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

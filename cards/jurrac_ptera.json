@@ -3,6 +3,9 @@
   "name": "Jurrac Ptera",
   "is_illegal": false,
   "text": "If this card is attacked, return the attacking monster to the hand after damage calculation and this card gains DEF equal to the returned monster\u0027s Level x 100.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45711266.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 800,

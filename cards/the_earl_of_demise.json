@@ -3,6 +3,9 @@
   "name": "The Earl of Demise",
   "is_illegal": false,
   "text": "This gentlemanly creature is extremely wicked, feared by man and fiend alike.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66989694.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

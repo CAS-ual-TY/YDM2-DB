@@ -3,6 +3,9 @@
   "name": "Battlewasp - Nest",
   "is_illegal": false,
   "text": "When your \"Battlewasp\" monster is targeted for an attack: Special Summon 1 \"Battlewasp\" monster from your hand or Deck, and if you do, place 1 counter on this card, then end the Battle Phase. You can only use this effect of \"Battlewasp - Nest\" once per turn. If this card has 2 or more counters during the End Phase, send it to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25221249.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

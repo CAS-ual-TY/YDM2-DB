@@ -3,6 +3,9 @@
   "name": "Beaked Snake",
   "is_illegal": false,
   "text": "This monster wraps itself around an opponent and pecks away with its huge beak.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6103114.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

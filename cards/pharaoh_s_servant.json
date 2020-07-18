@@ -3,6 +3,9 @@
   "name": "Pharaoh\u0027s Servant",
   "is_illegal": false,
   "text": "An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waiver.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52550973.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 900,

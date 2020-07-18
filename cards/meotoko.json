@@ -3,6 +3,9 @@
   "name": "Meotoko",
   "is_illegal": false,
   "text": "Dis big ol\u0027 guy wit\u0027 a big ol\u0027 eye shoots a nasty ray beam right atcha!",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53832650.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

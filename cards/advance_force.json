@@ -3,6 +3,9 @@
   "name": "Advance Force",
   "is_illegal": false,
   "text": "You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38589847.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

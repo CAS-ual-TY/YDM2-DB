@@ -3,6 +3,9 @@
   "name": "R-Genex Ultimum",
   "is_illegal": false,
   "text": "When this face-up card on the field is destroyed and sent to the Graveyard, you can select 2 \"Genex\" monsters from your Graveyard, and return them to the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46572756.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

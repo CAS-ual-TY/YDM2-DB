@@ -3,6 +3,9 @@
   "name": "Crevice Into the Different Dimension",
   "is_illegal": false,
   "text": "Declare 1 Attribute and select a total of 2 monsters with that Attribute from the Graveyards. Remove those monsters from play.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49600724.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

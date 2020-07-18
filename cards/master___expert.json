@@ -3,6 +3,9 @@
   "name": "Master \u0026 Expert",
   "is_illegal": false,
   "text": "A deadly duo consisting of a beast master and its loyal servant.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75499502.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,

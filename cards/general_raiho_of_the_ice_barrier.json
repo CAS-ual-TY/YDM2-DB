@@ -3,6 +3,9 @@
   "name": "General Raiho of the Ice Barrier",
   "is_illegal": false,
   "text": "When an effect resolves that was activated by an Effect Monster that was on your opponent\u0027s side of the field, they must discard 1 card or the effect is negated (their choice).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81275309.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2100,

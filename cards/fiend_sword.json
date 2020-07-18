@@ -3,6 +3,9 @@
   "name": "Fiend Sword",
   "is_illegal": false,
   "text": "Whoever resists the curse of this blade will gain untold power.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22855882.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,

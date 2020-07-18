@@ -3,6 +3,9 @@
   "name": "The Furious Sea King",
   "is_illegal": false,
   "text": "Grand King of the Seven Seas, he\u0027s able to summon massive tidal waves to drown the enemy.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18710707.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

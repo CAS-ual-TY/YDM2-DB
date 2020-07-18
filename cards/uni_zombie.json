@@ -3,6 +3,9 @@
   "name": "Uni-Zombie",
   "is_illegal": false,
   "text": "You can target 1 face-up monster on the field; discard 1 card, and if you do, increase that target\u0027s Level by 1. You can target 1 face-up monster on the field; monsters you control cannot attack for the rest of this turn, except Zombie monsters, also send 1 Zombie monster from your Deck to the GY, and if you do, increase that target\u0027s Level by 1. You can only use each effect of \"Uni-Zombie\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49959355.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

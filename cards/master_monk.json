@@ -3,6 +3,9 @@
   "name": "Master Monk",
   "is_illegal": false,
   "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Monk Fighter\". This card can attack twice during the same turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49814180.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1900,

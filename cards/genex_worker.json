@@ -3,6 +3,9 @@
   "name": "Genex Worker",
   "is_illegal": false,
   "text": "You can Tribute this card to Special Summon 1 \"Genex\" monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93882364.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,

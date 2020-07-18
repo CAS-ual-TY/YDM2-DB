@@ -3,6 +3,9 @@
   "name": "Dodger Dragon",
   "is_illegal": false,
   "text": "This card\u0027s Normal Summon cannot be negated. After this card was Normal Summoned, your opponent cannot activate Counter Trap Cards for the rest of that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47013502.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1900,

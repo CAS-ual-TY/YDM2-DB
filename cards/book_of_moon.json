@@ -3,6 +3,9 @@
   "name": "Book of Moon",
   "is_illegal": false,
   "text": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14087893.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

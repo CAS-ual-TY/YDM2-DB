@@ -3,6 +3,9 @@
   "name": "Squib Draw",
   "is_illegal": false,
   "text": "Target 1 \"Rokket\" monster you control; destroy it, and if you do, draw 2 cards. You can only activate 1 \"Squib Draw\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54458867.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

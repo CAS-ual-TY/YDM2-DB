@@ -3,6 +3,9 @@
   "name": "Sealing Ceremony of Mokuton",
   "is_illegal": false,
   "text": "Once per turn, you can Tribute 1 face-up EARTH monster to select up to 2 cards in the opponent\u0027s Graveyard, and remove them from play.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1802450.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

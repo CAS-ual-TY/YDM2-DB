@@ -3,6 +3,9 @@
   "name": "Against the Wind",
   "is_illegal": false,
   "text": "Select 1 \"Blackwing\" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64952266.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Goddess of Sweet Revenge",
   "is_illegal": false,
   "text": "While you control no cards and this is the only card in your hand, when an opponent\u0027s monster declares an attack: You can discard this card; destroy as many cards as possible your opponent controls, then you can Special Summon 1 monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72589042.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

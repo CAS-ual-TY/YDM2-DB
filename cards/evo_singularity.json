@@ -3,6 +3,9 @@
   "name": "Evo-Singularity",
   "is_illegal": false,
   "text": "Target 1 \"Evoltile\" monster and 1 \"Evolsaur\" monster in your Graveyard; Special Summon 1 \"Evolzar\" Xyz Monster from your Extra Deck, and if you do, attach those monsters to it as Xyz Materials.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74100225.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

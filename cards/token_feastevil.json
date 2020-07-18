@@ -3,6 +3,9 @@
   "name": "Token Feastevil",
   "is_illegal": false,
   "text": "When a Token(s) is Special Summoned: Destroy as many Tokens on the field as possible, and if you do, inflict 300 damage to your opponent for each Token destroyed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83675475.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

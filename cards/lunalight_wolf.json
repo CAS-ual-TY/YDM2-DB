@@ -3,6 +3,9 @@
   "name": "Lunalight Wolf",
   "is_illegal": false,
   "text": "If a \"Lunalight\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47705572.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,

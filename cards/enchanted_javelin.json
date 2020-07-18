@@ -3,6 +3,9 @@
   "name": "Enchanted Javelin",
   "is_illegal": false,
   "text": "Select 1 attacking monster. Gain Life Points equal to its ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96355986.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

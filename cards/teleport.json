@@ -3,6 +3,9 @@
   "name": "Teleport",
   "is_illegal": false,
   "text": "Once per turn, if your opponent controls a monster and you control no monsters, you can pay 800 Life Points to Special Summon 1 Psychic-Type monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6795211.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

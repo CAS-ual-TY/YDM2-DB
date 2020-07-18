@@ -3,6 +3,9 @@
   "name": "Synchar",
   "is_illegal": false,
   "text": "This two-headed creature spits laser blasts at its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75646173.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

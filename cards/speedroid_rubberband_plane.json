@@ -3,6 +3,9 @@
   "name": "Speedroid Rubberband Plane",
   "is_illegal": false,
   "text": "If a monster is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Rubberband Plane\" once per turn. If this card is Normal or Special Summoned: You can target 1 face-up monster on the field; it loses 600 ATK until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8284390.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

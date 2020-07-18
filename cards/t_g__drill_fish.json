@@ -3,6 +3,9 @@
   "name": "T.G. Drill Fish",
   "is_illegal": false,
   "text": "This card can attack directly. You can only use each of the following effects of \"T.G. Drill Fish\" once per turn.\n? If all monsters you control are \"T.G.\" monsters (min. 1): You can Special Summon this card from your hand.\n? When a \"T.G.\" monster you control inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30348744.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 100,

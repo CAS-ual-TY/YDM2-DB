@@ -3,6 +3,9 @@
   "name": "Heroic Gift",
   "is_illegal": false,
   "text": "If your opponent\u0027s Life Points are 2000 or less: Make their Life Points 8000, and if you do, draw 2 cards. You can only activate 1 \"Heroic Gift\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95920682.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

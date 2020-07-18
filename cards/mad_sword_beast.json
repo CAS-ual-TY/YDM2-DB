@@ -3,6 +3,9 @@
   "name": "Mad Sword Beast",
   "is_illegal": false,
   "text": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79870141.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

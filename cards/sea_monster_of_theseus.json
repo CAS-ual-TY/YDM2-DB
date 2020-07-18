@@ -3,6 +3,9 @@
   "name": "Sea Monster of Theseus",
   "is_illegal": false,
   "text": "2 Tuners",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96334243.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2200,

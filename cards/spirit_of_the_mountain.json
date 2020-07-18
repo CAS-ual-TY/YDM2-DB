@@ -3,6 +3,9 @@
   "name": "Spirit of the Mountain",
   "is_illegal": false,
   "text": "An elderly magician that raises mountains with his flute.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34690519.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,

@@ -3,6 +3,9 @@
   "name": "B. Dragon Jungle King",
   "is_illegal": false,
   "text": "A jet-black dragon found in the deepest jungles who normally devours trees.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89832901.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2100,

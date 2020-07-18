@@ -3,6 +3,9 @@
   "name": "The Tricky",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by discarding 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14778250.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,

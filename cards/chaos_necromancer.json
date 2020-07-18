@@ -3,6 +3,9 @@
   "name": "Chaos Necromancer",
   "is_illegal": false,
   "text": "The ATK of this card is the number of Monster Cards in your Graveyard x 300.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1434352.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

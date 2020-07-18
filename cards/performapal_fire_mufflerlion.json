@@ -3,6 +3,9 @@
   "name": "Performapal Fire Mufflerlion",
   "is_illegal": false,
   "text": "Once per turn, if a Pendulum Monster you control destroys an opponent\u0027s monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33823832.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 800,

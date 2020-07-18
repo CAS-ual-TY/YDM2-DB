@@ -3,6 +3,9 @@
   "name": "Grappler",
   "is_illegal": false,
   "text": "A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2906250.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1300,

@@ -3,6 +3,14 @@
   "name": "Dark Magician Girl",
   "is_illegal": false,
   "text": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38033121.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38033122.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38033123.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38033124.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38033125.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38033126.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

@@ -3,6 +3,9 @@
   "name": "Kuro-Obi Karate Spirit",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can send to the GY all Spells/Traps your opponent controls in the same column as the card(s) in your Pendulum Zones. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77511331.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,

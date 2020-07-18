@@ -3,6 +3,9 @@
   "name": "Mikazukinoyaiba",
   "is_illegal": false,
   "text": "A dragon warrior of the moon armed with a crescent sword.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38277918.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

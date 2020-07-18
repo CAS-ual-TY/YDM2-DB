@@ -3,6 +3,9 @@
   "name": "Diana the Light Spirit",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT monster from your GY. Once per turn, during your opponent\u0027s End Phase: Gain 1000 LP.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17257342.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,

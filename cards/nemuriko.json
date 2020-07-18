@@ -3,6 +3,9 @@
   "name": "Nemuriko",
   "is_illegal": false,
   "text": "A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90963488.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,

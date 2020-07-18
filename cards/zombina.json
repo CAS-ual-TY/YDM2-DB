@@ -3,6 +3,9 @@
   "name": "Zombina",
   "is_illegal": false,
   "text": "If this card in its owner\u0027s possession is destroyed by an opponent\u0027s card: You can target 1 Level 4 or lower monster in your GY, except \"Zombina\"; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81616639.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

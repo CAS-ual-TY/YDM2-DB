@@ -3,6 +3,9 @@
   "name": "Strike Slash",
   "is_illegal": false,
   "text": "When a monster you control declares an attack: Until the End Phase, that monster gains 700 ATK, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30643162.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

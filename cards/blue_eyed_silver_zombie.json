@@ -3,6 +3,9 @@
   "name": "Blue-Eyed Silver Zombie",
   "is_illegal": false,
   "text": "The beams from the eyes of this creature are said to turn enemies into zombies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35282433.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 900,

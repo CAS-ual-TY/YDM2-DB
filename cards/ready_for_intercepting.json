@@ -3,6 +3,9 @@
   "name": "Ready for Intercepting",
   "is_illegal": false,
   "text": "Target 1 Warrior or Spellcaster monster on the field; change that target to face-down Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31785398.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Defense Zone",
   "is_illegal": false,
   "text": "For each monster a player controls in their Main Monster Zone, their Spells/Traps in the same column as that monster cannot be destroyed by their opponent\u0027s card effects, and their opponent cannot target them with card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59687381.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Field"
 }

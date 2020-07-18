@@ -3,6 +3,9 @@
   "name": "Metalfoes Adamante",
   "is_illegal": false,
   "text": "1 \"Metalfoes\" monster + 1 monster with 2500 or less ATK",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81612598.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2500,

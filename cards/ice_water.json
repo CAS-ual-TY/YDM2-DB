@@ -3,6 +3,9 @@
   "name": "Ice Water",
   "is_illegal": false,
   "text": "A very aggressive mermaid that attacks enemies with the spikes growing from its body.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20848593.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1150,

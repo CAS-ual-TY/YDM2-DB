@@ -3,6 +3,9 @@
   "name": "Laval the Greater",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner FIRE monsters\nWhen this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. If this card would be destroyed by a card effect, you can banish 1 \"Laval\" monster from your Graveyard instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12986807.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2400,

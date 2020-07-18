@@ -3,6 +3,9 @@
   "name": "Underworld Fighter Balmung",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is destroyed by a card effect and sent to the Graveyard: You can target 1 Level 4 or lower monster in your Graveyard, except this card; Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52639377.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2100,

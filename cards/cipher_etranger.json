@@ -3,6 +3,9 @@
   "name": "Cipher Etranger",
   "is_illegal": false,
   "text": "If this card is in your hand or Graveyard: You can target 1 \"Cipher\" Xyz Monster you control; attach this card to it as an Xyz Material. If this card is sent to the Graveyard: You can add 1 \"Cipher\" Spell/Trap Card from your Deck to your hand. You can only use 1 \"Cipher Etranger\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79094383.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,

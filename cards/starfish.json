@@ -3,6 +3,9 @@
   "name": "Starfish",
   "is_illegal": false,
   "text": "Once per turn: You can increase the Levels of all \"Starfish\" you currently control by 1.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44717069.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 300,

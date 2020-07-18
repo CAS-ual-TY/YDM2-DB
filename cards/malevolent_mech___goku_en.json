@@ -3,6 +3,9 @@
   "name": "Malevolent Mech - Goku En",
   "is_illegal": false,
   "text": "You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Send it to the GY, then take damage equal to its original ATK in the GY. This card must be the only Zombie monster on the field to activate and to resolve this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31571902.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,

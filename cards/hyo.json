@@ -3,6 +3,9 @@
   "name": "Hyo",
   "is_illegal": false,
   "text": "None can survive the cold touch of this sub-zero warrior.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38982356.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,

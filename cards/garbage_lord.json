@@ -3,6 +3,9 @@
   "name": "Garbage Lord",
   "is_illegal": false,
   "text": "You can Special Summon this card (from your hand) by paying 2000 Life Points. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a DARK monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44682448.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

@@ -3,6 +3,9 @@
   "name": "Greed Grado",
   "is_illegal": false,
   "text": "Activate only if you destroyed a face-up Synchro Monster controlled by your opponent this turn, either by battle or by a card effect. Draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3972721.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

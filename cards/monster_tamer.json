@@ -3,6 +3,9 @@
   "name": "Monster Tamer",
   "is_illegal": false,
   "text": "A master of monsters that exercises control over several creatures.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97612389.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

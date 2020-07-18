@@ -3,6 +3,9 @@
   "name": "Tyhone #2",
   "is_illegal": false,
   "text": "A crimson dragon that spits fireballs to create a blazing sea of fire.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56789759.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1700,

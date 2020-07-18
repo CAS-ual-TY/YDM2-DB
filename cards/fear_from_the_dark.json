@@ -3,6 +3,9 @@
   "name": "Fear from the Dark",
   "is_illegal": false,
   "text": "When this card is sent from your hand or Deck to your Graveyard by an opponent\u0027s card effect: Special Summon this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34193084.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,

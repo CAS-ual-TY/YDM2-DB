@@ -3,6 +3,9 @@
   "name": "Pot of Greed",
   "is_illegal": false,
   "text": "Draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55144522.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

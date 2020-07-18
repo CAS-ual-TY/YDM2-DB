@@ -3,6 +3,9 @@
   "name": "Firewall Dragon Darkfluid",
   "is_illegal": false,
   "text": "3+ Effect Monsters\nIf this card is Link Summoned: You can place counters on this card equal to the number of different types of Cyberse monsters in your GY (Ritual, Fusion, Synchro, Xyz). This card gains 2500 ATK for each counter on it during the Battle Phase only. When your opponent activates a monster effect (Quick Effect): You can remove 1 counter from this card; negate the activation, also, if this effect was activated between this card\u0027s attack declaration and the end of the Damage Step, this card can make another attack in a row.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68934651.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,

@@ -3,6 +3,9 @@
   "name": "Space Cyclone",
   "is_illegal": false,
   "text": "Detach 1 Xyz Material from a monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69176131.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

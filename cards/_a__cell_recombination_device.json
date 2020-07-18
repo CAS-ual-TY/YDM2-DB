@@ -3,6 +3,9 @@
   "name": "\"A\" Cell Recombination Device",
   "is_illegal": false,
   "text": "Target 1 face-up monster on the field; send 1 \"Alien\" monster from your Deck to the Graveyard, and if you do, place A-Counters on that monster equal to the Level of the sent monster. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 \"Alien\" monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91231901.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

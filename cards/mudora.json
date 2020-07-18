@@ -3,6 +3,9 @@
   "name": "Mudora",
   "is_illegal": false,
   "text": "This card gains 200 ATK for each Fairy-Type monster in your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82108372.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

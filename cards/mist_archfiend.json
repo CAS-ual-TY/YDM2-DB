@@ -3,6 +3,9 @@
   "name": "Mist Archfiend",
   "is_illegal": false,
   "text": "You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Destroy this card, and if you do, take 1000 damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28601770.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

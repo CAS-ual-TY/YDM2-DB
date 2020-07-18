@@ -3,6 +3,9 @@
   "name": "Armed Dragon LV5",
   "is_illegal": false,
   "text": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster\u0027s ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46384672.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,

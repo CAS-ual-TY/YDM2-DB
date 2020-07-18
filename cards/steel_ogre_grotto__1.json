@@ -3,6 +3,9 @@
   "name": "Steel Ogre Grotto #1",
   "is_illegal": false,
   "text": "A steel idol worshipped in the Land of Machines.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29172562.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

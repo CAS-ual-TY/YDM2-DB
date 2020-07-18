@@ -3,6 +3,9 @@
   "name": "Abyss Actor - Superstar",
   "is_illegal": false,
   "text": "When Normal or Special Summoned, your opponent\u0027s Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25629622.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,

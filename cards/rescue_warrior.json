@@ -3,6 +3,9 @@
   "name": "Rescue Warrior",
   "is_illegal": false,
   "text": "You take no Battle Damage from battles involving this card. If this card is destroyed by battle, select 1 face-up monster your opponent controls that you own, and take control of it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70630741.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,

@@ -3,6 +3,9 @@
   "name": "Tsukuyomi",
   "is_illegal": false,
   "text": "Cannot be Special Summoned. If this card is Normal Summoned or flipped face-up: Target 1 face-up monster on the field; change that target to face-down Defense Position. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34853266.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1100,

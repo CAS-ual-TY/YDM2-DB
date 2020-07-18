@@ -3,6 +3,9 @@
   "name": "Dark Driceratops",
   "is_illegal": false,
   "text": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65287621.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,

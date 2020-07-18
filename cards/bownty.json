@@ -3,6 +3,9 @@
   "name": "Bownty",
   "is_illegal": false,
   "text": "If your attacking monster destroys an opponent\u0027s monster by battle: Target 1 card in your GY; add it to your hand, but for the rest of this turn you cannot activate cards, or the effects of cards, with the same name as the added card had once it was in your hand. You can only activate 1 \"Bownty\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55351724.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

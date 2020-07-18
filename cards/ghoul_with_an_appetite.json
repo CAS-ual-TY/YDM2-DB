@@ -3,6 +3,9 @@
   "name": "Ghoul with an Appetite",
   "is_illegal": false,
   "text": "A monster with a heavy appetite that has never been satisfied.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95265975.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

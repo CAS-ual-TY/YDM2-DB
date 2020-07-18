@@ -3,6 +3,9 @@
   "name": "Prime Material Falcon",
   "is_illegal": false,
   "text": "When an Effect Monster\u0027s effect to destroy a Spell or Trap Card(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1287123.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2200,

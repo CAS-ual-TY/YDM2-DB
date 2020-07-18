@@ -3,6 +3,9 @@
   "name": "Predaplant Chimerafflesia",
   "is_illegal": false,
   "text": "1 \"Predaplant\" monster + 1 DARK monster\nOnce per turn: You can target 1 monster on the field with a Level less than or equal to this card\u0027s; banish it. When an attack is declared involving this card and an opponent\u0027s face-up monster: You can activate this effect; until the end of this turn, that opponent\u0027s monster loses 1000 ATK, and if it does, this card gains 1000 ATK. Once per turn, during the next Standby Phase after this card was sent to the Graveyard: You can add 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25586143.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,

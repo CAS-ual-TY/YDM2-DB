@@ -3,6 +3,9 @@
   "name": "Dokuroizo the Grim Reaper",
   "is_illegal": false,
   "text": "A messenger of doom that steals a soul with a single blow.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25882881.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 900,

@@ -3,6 +3,9 @@
   "name": "Big Piece Golem",
   "is_illegal": false,
   "text": "If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributes.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25247218.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2100,

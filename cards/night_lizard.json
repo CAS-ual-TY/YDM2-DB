@@ -3,6 +3,9 @@
   "name": "Night Lizard",
   "is_illegal": false,
   "text": "A lizard warrior protected by a hide of very tough emerald scales.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78402798.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1150,

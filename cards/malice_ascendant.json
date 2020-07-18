@@ -3,6 +3,9 @@
   "name": "Malice Ascendant",
   "is_illegal": false,
   "text": "During your opponent\u0027s Standby Phase, send 1 card from the top of their Deck to the Graveyard for each \"Malice Ascendant\" in your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14255590.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,

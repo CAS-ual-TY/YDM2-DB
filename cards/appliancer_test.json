@@ -3,6 +3,9 @@
   "name": "Appliancer Test",
   "is_illegal": false,
   "text": "Target 1 \"Appliancer\" Link Monster you control; Special Summon as many Link-1 \"Appliancer\" Link Monsters from your GY as possible to your zones that monster points to, but banish them during the End Phase. You can only activate 1 \"Appliancer Test\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66380357.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

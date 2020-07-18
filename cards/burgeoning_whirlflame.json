@@ -3,6 +3,9 @@
   "name": "Burgeoning Whirlflame",
   "is_illegal": false,
   "text": "When a Trap Card is activated: Send 1 \"Laval\" monster from your hand to the Graveyard; negate the activation and destroy it. If this card is in the Graveyard: You can banish 2 FIRE monsters from your Graveyard; add this card to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86690572.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

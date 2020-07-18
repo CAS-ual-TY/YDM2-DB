@@ -3,6 +3,9 @@
   "name": "Anti-Spell",
   "is_illegal": false,
   "text": "Remove 2 Spell Counters on your side of the field to negate the activation of a Spell Card and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53112492.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

@@ -3,6 +3,9 @@
   "name": "Big-Tusked Mammoth",
   "is_illegal": false,
   "text": "Monsters your opponent controls cannot attack the turn they are Summoned.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59380081.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,

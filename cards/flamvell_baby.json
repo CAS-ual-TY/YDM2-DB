@@ -3,6 +3,9 @@
   "name": "Flamvell Baby",
   "is_illegal": false,
   "text": "During your Main Phase, you can send this card from your hand to the Graveyard to select 1 face-up FIRE monster you control and have it gain 400 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13761956.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 800,

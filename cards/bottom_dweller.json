@@ -3,6 +3,9 @@
   "name": "Bottom Dweller",
   "is_illegal": false,
   "text": "This is one sea creature whose wrath is something monsters fear to face.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81386177.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1650,

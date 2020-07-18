@@ -3,6 +3,9 @@
   "name": "Vanity\u0027s Fiend",
   "is_illegal": false,
   "text": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47084486.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

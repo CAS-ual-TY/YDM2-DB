@@ -3,6 +3,9 @@
   "name": "Synchro Barrier",
   "is_illegal": false,
   "text": "Tribute 1 Synchro Monster you control. You do not take any damage until the End Phase of the next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21879581.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Saryuja\u0027s Shackles",
   "is_illegal": false,
   "text": "Target 1 Link Monster your opponent controls or is in their GY; draw cards equal to its Link Rating, then, if you have 2 or more cards in your hand, place 2 cards from your hand on the bottom of your Deck in any order. You can only activate 1 \"Saryuja\u0027s Shackles\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11434258.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

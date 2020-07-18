@@ -3,6 +3,9 @@
   "name": "Potluck Party",
   "is_illegal": false,
   "text": "At the start of your Battle Phase: You can target 1 face-up monster you control; this turn, your opponent chooses the attack targets for the attacks of that monster you control, also if it battles an opponent\u0027s monster, it gains ATK equal to its original ATK during damage calculation only. You can only use this effect of \"Potluck Party\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24181936.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

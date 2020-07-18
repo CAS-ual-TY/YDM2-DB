@@ -3,6 +3,9 @@
   "name": "Hero Signal",
   "is_illegal": false,
   "text": "When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your hand or Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22020907.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

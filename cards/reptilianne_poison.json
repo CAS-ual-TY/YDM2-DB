@@ -3,6 +3,9 @@
   "name": "Reptilianne Poison",
   "is_illegal": false,
   "text": "Activate only if you control a face-up \"Reptilianne\" monster. Change 1 Defense Position monster your opponent controls to face-up Attack Position and reduce its ATK to 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90576781.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Tour Bus To Forbidden Realms",
   "is_illegal": false,
   "text": "FLIP: Add 1 Fiend-Type monster from your Deck to your hand, except a DARK or LIGHT monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89732524.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

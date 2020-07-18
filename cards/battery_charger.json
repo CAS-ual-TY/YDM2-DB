@@ -3,6 +3,9 @@
   "name": "Battery Charger",
   "is_illegal": false,
   "text": "Pay 500 Life Points. Special Summon 1 \"Batteryman\" monster from your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61181383.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

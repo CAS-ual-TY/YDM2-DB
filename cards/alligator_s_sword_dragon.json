@@ -3,6 +3,9 @@
   "name": "Alligator\u0027s Sword Dragon",
   "is_illegal": false,
   "text": "\"Baby Dragon\" + \"Alligator\u0027s Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3366982.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,

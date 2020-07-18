@@ -3,6 +3,9 @@
   "name": "Awakening of Nephthys",
   "is_illegal": false,
   "text": "All \"Nephthys\" monsters you control gain 300 ATK. If this face-up card in the Spell \u0026 Trap Zone is destroyed by card effect and sent to the GY: You can Special Summon 1 \"Nephthys\" monster from your hand, Deck, or GY, but destroy it during the End Phase. You can only use this effect of \"Awakening of Nephthys\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82832464.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

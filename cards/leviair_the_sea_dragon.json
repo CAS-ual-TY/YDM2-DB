@@ -3,6 +3,9 @@
   "name": "Leviair the Sea Dragon",
   "is_illegal": false,
   "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 banished Level 4 or lower monster; Special Summon that target to your field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95992081.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

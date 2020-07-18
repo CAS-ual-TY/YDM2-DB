@@ -3,6 +3,9 @@
   "name": "Mekk-Knight Avram",
   "is_illegal": false,
   "text": "\"Check THIS out!\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84754430.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,

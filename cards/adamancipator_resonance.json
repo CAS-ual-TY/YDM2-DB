@@ -3,6 +3,9 @@
   "name": "Adamancipator Resonance",
   "is_illegal": false,
   "text": "When a monster effect is activated, while you control an \"Adamancipator\" Synchro Monster: Negate the activation, and if you do, destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45730592.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Counter"
 }

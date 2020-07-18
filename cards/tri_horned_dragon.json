@@ -3,6 +3,9 @@
   "name": "Tri-Horned Dragon",
   "is_illegal": false,
   "text": "An unworthy dragon with three sharp horns sprouting from its head.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39111158.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2850,

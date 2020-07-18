@@ -3,6 +3,9 @@
   "name": "Fraud Freeze",
   "is_illegal": false,
   "text": "Once per turn, when your opponent Special Summons a monster(s) from the hand (except during the Damage Step): You can return to the hand all monsters your opponent controls that were Special Summoned from the hand. If neither player controls a \"Flower Cardian\" Synchro Monster, send this card to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26781870.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

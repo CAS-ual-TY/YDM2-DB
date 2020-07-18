@@ -3,6 +3,9 @@
   "name": "Chain Summoning",
   "is_illegal": false,
   "text": "Activate as Chain Link 3 or higher: You can conduct up to 3 Normal Summons/Sets this turn, not just 1. You cannot activate this card if multiple cards with the same name, or the effects of such cards, are already activated in that Chain.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9952083.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

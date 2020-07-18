@@ -3,6 +3,17 @@
   "name": "Dark Magician",
   "is_illegal": false,
   "text": "The ultimate wizard in terms of attack and defense.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46986414.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46986415.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46986416.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46986417.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46986418.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46986419.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36996508.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46986420.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46986421.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,

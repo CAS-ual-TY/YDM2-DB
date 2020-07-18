@@ -3,6 +3,9 @@
   "name": "Grave Squirmer",
   "is_illegal": false,
   "text": "If this card is destroyed by battle and sent to the Graveyard: Target 1 card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48343627.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

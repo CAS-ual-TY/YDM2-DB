@@ -3,6 +3,9 @@
   "name": "Kurivolt",
   "is_illegal": false,
   "text": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40817915.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,

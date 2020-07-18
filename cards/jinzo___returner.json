@@ -3,6 +3,9 @@
   "name": "Jinzo - Returner",
   "is_illegal": false,
   "text": "This card can attack your opponent directly. When this card is sent to the Graveyard, you can Special Summon 1 \"Jinzo\" from your Graveyard. Destroy it during your End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9418534.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

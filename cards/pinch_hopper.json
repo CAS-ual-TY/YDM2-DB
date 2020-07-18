@@ -3,6 +3,9 @@
   "name": "Pinch Hopper",
   "is_illegal": false,
   "text": "When this card you control is sent to your GY: You can Special Summon 1 Insect monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26185991.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

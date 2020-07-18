@@ -3,6 +3,9 @@
   "name": "R-Genex Crusher",
   "is_illegal": false,
   "text": "When this card is Normal Summoned, you can add 1 Level 4 \"R-Genex\" monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65149697.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,

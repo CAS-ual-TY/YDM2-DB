@@ -3,6 +3,9 @@
   "name": "Fragrance Storm",
   "is_illegal": false,
   "text": "Target 1 Plant-Type monster on the field; destroy that target, and if you do, draw 1 card, then if that card is a Plant-Type monster, you can reveal it and draw 1 more card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69584564.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Hamburger Recipe",
   "is_illegal": false,
   "text": "This card is used to Ritual Summon \"Hungry Burger\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80811661.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Ritual"
 }

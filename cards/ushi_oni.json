@@ -3,6 +3,9 @@
   "name": "Ushi Oni",
   "is_illegal": false,
   "text": "A bull fiend restored by the dark arts, this monster appears out of a jar.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48649353.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2150,

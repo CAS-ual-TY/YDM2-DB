@@ -3,6 +3,9 @@
   "name": "DUCKER Mobile Cannon",
   "is_illegal": false,
   "text": "FLIP: Target 1 Level 4 monster in your Graveyard; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14506878.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 500,

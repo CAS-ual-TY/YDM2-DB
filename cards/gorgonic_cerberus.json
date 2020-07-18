@@ -3,6 +3,9 @@
   "name": "Gorgonic Cerberus",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can make all Rock-Type monsters you control become Level 3.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37168514.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,

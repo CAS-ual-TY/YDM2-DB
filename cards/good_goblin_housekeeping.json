@@ -3,6 +3,9 @@
   "name": "Good Goblin Housekeeping",
   "is_illegal": false,
   "text": "Draw cards equal to the number of \"Good Goblin Housekeeping\" cards in your Graveyard +1, then select 1 card from your hand and return it to the bottom of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9744376.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

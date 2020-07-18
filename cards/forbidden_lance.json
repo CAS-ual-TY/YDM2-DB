@@ -3,6 +3,9 @@
   "name": "Forbidden Lance",
   "is_illegal": false,
   "text": "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27243130.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

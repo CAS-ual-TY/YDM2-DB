@@ -3,6 +3,9 @@
   "name": "Gundari",
   "is_illegal": false,
   "text": "This card cannot be Special Summoned. This card returns to its owner\u0027s hand during the End Phase of the turn it is Normal Summoned or flipped face-up. If this card battles a Synchro Monster, return both monsters to their owners\u0027 hands at the start of the Damage Step (without damage calculation).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38975369.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,

@@ -3,6 +3,9 @@
   "name": "Cat\u0027s Ear Tribe",
   "is_illegal": false,
   "text": "The original ATK of your opponent\u0027s monster(s) that battles with this card during his/her turn becomes 200 points during the Damage Step.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95841282.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 200,

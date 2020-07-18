@@ -3,6 +3,9 @@
   "name": "Lesser Fiend",
   "is_illegal": false,
   "text": "(This card is always treated as an \"Archfiend\" card.)\nBanish any monster destroyed by battle with this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16475472.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2100,

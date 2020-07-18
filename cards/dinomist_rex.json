@@ -3,6 +3,9 @@
   "name": "Dinomist Rex",
   "is_illegal": false,
   "text": "At the end of the Damage Step, if this card attacked: You can Tribute 1 other \"Dinomist\" monster, then activate 1 of these effects;\n? This card can attack an opponent\u0027s monster again in a row, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n? Shuffle 1 card from your opponent\u0027s hand (at random) or field into the Deck, then this card gains 100 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63251695.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2400,

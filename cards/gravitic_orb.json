@@ -3,6 +3,9 @@
   "name": "Gravitic Orb",
   "is_illegal": false,
   "text": "FLIP: Change the battle positions of all face-up monsters your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29216198.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1100,

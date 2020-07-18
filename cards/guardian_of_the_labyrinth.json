@@ -3,6 +3,9 @@
   "name": "Guardian of the Labyrinth",
   "is_illegal": false,
   "text": "A monster that guards the entrance to the Netherworld.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89272878.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,

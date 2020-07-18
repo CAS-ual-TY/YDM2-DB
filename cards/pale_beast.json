@@ -3,6 +3,9 @@
   "name": "Pale Beast",
   "is_illegal": false,
   "text": "With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21263083.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Megasonic Eye",
   "is_illegal": false,
   "text": "Made of mysterious metal, this monster is a doomsday machine from the edge of the universe.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7562372.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

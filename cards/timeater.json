@@ -3,6 +3,9 @@
   "name": "Timeater",
   "is_illegal": false,
   "text": "If this card destroys an opponent\u0027s monster by battle: Your opponent skips their next Main Phase 1.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44913552.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1900,

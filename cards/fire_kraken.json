@@ -3,6 +3,9 @@
   "name": "Fire Kraken",
   "is_illegal": false,
   "text": "A squid that thrives on fire and heat.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46534755.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1600,

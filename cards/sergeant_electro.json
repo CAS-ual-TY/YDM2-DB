@@ -3,6 +3,9 @@
   "name": "Sergeant Electro",
   "is_illegal": false,
   "text": "Once per turn: You can target 1 Set card in your opponent\u0027s Spell \u0026 Trap Zone; while this card is face-up on the field, its target(s) cannot be activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43359262.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1600,

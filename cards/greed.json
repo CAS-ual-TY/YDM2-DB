@@ -3,6 +3,9 @@
   "name": "Greed",
   "is_illegal": false,
   "text": "Each time a player draws cards because of a card effect, they take 500 damage during the End Phase for each card drawn by the card effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89405199.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

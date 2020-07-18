@@ -3,6 +3,9 @@
   "name": "Gorgon Egg",
   "is_illegal": false,
   "text": "The gorgon egg\u0027s massive eyes are said to reflect the fate of its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11793047.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 300,

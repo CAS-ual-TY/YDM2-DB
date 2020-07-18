@@ -3,6 +3,9 @@
   "name": "King\u0027s Synchro",
   "is_illegal": false,
   "text": "When your opponent\u0027s monster declares an attack on a Synchro Monster you control: Negate the attack, then you can apply the rest of this card\u0027s effect. Banish that Synchro Monster you control and 1 Tuner from your Graveyard, and if you do, Special Summon from your Extra Deck 1 Synchro Monster whose Level equals the total Levels the banished monsters had. (This Special Summon is treated as a Synchro Summon.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27503418.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Witchcrafter Draping",
   "is_illegal": false,
   "text": "Target Spells/Traps your opponent controls, up to the number of \"Witchcrafter\" monsters you control; return those targeted cards to the hand. During your End Phase, if you control a \"Witchcrafter\" monster, while this card is in your GY: You can add this card to your hand. You can only use 1 \"Witchcrafter Draping\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56894757.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

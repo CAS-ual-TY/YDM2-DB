@@ -3,6 +3,9 @@
   "name": "Earthbound Immortal Revival",
   "is_illegal": false,
   "text": "Discard 1 card, then target 1 \"Earthbound Immortal\" monster and 1 Field Spell in your GY; add those targets to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64187086.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,6 +3,9 @@
   "name": "Dark Chimera",
   "is_illegal": false,
   "text": "A fire-breathing monster that dwells in the netherworld.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32344688.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1610,

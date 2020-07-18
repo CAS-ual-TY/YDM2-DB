@@ -3,6 +3,9 @@
   "name": "Mokey Mokey King",
   "is_illegal": false,
   "text": "\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"\nWhen this card is removed from the field, you can Special Summon as many \"Mokey Mokey\" as possible from your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13803864.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,

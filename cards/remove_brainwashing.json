@@ -3,6 +3,9 @@
   "name": "Remove Brainwashing",
   "is_illegal": false,
   "text": "The control of all monsters on the field returns to the owners.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94739788.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

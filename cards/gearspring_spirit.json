@@ -3,6 +3,9 @@
   "name": "Gearspring Spirit",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having only Machine-Type monsters in your Graveyard (min. 1). Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45458027.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,

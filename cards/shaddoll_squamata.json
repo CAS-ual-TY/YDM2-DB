@@ -3,6 +3,9 @@
   "name": "Shaddoll Squamata",
   "is_illegal": false,
   "text": "FLIP: You can target 1 monster on the field; destroy it.\nIf this card is sent to the GY by a card effect: You can send 1 \"Shaddoll\" card from your Deck to the GY, except \"Shaddoll Squamata\". You can only use 1 \"Shaddoll Squamata\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30328508.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,

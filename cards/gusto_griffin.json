@@ -3,6 +3,9 @@
   "name": "Gusto Griffin",
   "is_illegal": false,
   "text": "If this card is sent from the hand to your Graveyard: You can Special Summon 1 \"Gusto\" monster from your Deck. You can only use the effect of \"Gusto Griffin\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42082363.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 800,

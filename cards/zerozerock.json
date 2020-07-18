@@ -3,6 +3,9 @@
   "name": "Zerozerock",
   "is_illegal": false,
   "text": "Your opponent cannot target face-up Attack Position monsters with 0 ATK for attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85446833.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Continuous"
 }

@@ -3,6 +3,9 @@
   "name": "Dorover",
   "is_illegal": false,
   "text": "This ugly monster emits a highly poisonous gas.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24194033.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 900,

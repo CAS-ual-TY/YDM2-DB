@@ -3,6 +3,9 @@
   "name": "Layard the Liberator",
   "is_illegal": false,
   "text": "Each time a Counter Trap Card is activated, immediately after it resolves, add 2 of your banished Fairy monsters to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67468948.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1400,

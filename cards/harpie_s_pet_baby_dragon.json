@@ -3,6 +3,9 @@
   "name": "Harpie\u0027s Pet Baby Dragon",
   "is_illegal": false,
   "text": "This card gains effects based on the number of \"Harpie\" monsters you control, except \"Harpie\u0027s Pet Baby Dragon\".\n? 1 or more: Your opponent cannot target \"Harpie\" monsters you control for attacks, except \"Harpie\u0027s Pet Baby Dragon\".\n? 2 or more: Double the original ATK and DEF of this card.\n? 3 or more: Once per turn: You can target 1 card your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6924874.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,

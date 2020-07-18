@@ -3,6 +3,9 @@
   "name": "Meklord Emperor Skiel",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. Other monsters you control cannot declare an attack. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. You can send 1 monster you control that is equipped to this card to the Graveyard; this card can attack your opponent directly this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31930787.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2200,

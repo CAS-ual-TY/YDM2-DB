@@ -3,6 +3,9 @@
   "name": "Firestorm Prominence",
   "is_illegal": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-FIRE monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13846680.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2000,

@@ -3,6 +3,9 @@
   "name": "Mechanicalchaser",
   "is_illegal": false,
   "text": "A hunter that relentlessly pursues its target by order of the Machine King.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7359741.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1850,

@@ -3,6 +3,9 @@
   "name": "The Wicked Worm Beast",
   "is_illegal": false,
   "text": "This face-up card on the field is returned to the owner\u0027s hand during the End Phase of your turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6285791.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,

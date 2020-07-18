@@ -3,6 +3,9 @@
   "name": "Star Changer",
   "is_illegal": false,
   "text": "Target 1 face-up monster on the field and activate 1 of these effects;\n? Increase that target\u0027s Level by 1.\n? Reduce that target\u0027s Level by 1.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63485233.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

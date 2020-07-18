@@ -3,6 +3,9 @@
   "name": "Alinsection",
   "is_illegal": false,
   "text": "A stag beetle with a saw-like head and arms.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70924884.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 950,

@@ -3,6 +3,9 @@
   "name": "Heart of Clear Water",
   "is_illegal": false,
   "text": "If the equipped monster\u0027s ATK is 1300 or higher, this card is destroyed. The monster equipped with this card is not destroyed as a result of battle or by the effect of a card that targets the monster. (Damage calculation is applied normally.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64801562.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Equip"
 }

@@ -3,6 +3,9 @@
   "name": "Dark-Eyes Illusionist",
   "is_illegal": false,
   "text": "FLIP: Target 1 monster on the field; it cannot attack while this card is face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38247752.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,

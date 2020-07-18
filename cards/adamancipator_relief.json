@@ -3,6 +3,9 @@
   "name": "Adamancipator Relief",
   "is_illegal": false,
   "text": "Tribute any number of \"Adamancipator\" monsters, then target cards on the field equal to that number +1; destroy them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9341993.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

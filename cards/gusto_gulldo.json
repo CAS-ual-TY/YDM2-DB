@@ -3,6 +3,9 @@
   "name": "Gusto Gulldo",
   "is_illegal": false,
   "text": "When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 2 or lower \"Gusto\" monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65277087.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 500,

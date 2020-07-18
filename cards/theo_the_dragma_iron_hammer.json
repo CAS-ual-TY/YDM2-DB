@@ -3,6 +3,9 @@
   "name": "Theo the Dragma Iron Hammer",
   "is_illegal": false,
   "text": "Cannot be destroyed by battle with a monster that was Special Summoned from the Extra Deck. You can only use each of the following effects of \"Theo the Dragma Iron Hammer\" once per turn.\n? If a monster that was Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand.\n? You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; until the end of this turn, this card gains 600 ATK, and if it does, that target loses 600 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96891787.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,

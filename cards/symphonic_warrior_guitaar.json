@@ -3,6 +3,9 @@
   "name": "Symphonic Warrior Guitaar",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can target 1 \"Symphonic Warrior\" monster in your Graveyard; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12525049.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "Nightmare Scorpion",
   "is_illegal": false,
   "text": "A creature that generates nightmares to haunt an opponent, it attacks with four poisonous tails.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88643173.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,

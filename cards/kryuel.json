@@ -3,6 +3,9 @@
   "name": "Kryuel",
   "is_illegal": false,
   "text": "When this card is sent to the Graveyard as a result of battle, toss a coin and call it. If you call it right, destroy 1 monster on your opponent\u0027s side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82642348.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,

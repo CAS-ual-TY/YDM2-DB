@@ -3,6 +3,9 @@
   "name": "Photon Sanctuary",
   "is_illegal": false,
   "text": "Special Summon 2 \"Photon Tokens\" (Thunder-Type/LIGHT/Level 4/ATK 2000/DEF 0) in Defense Position. These Tokens cannot attack or be used as Synchro Material Monsters. You cannot Summon other monsters the turn you activate this card, except for LIGHT monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17418744.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

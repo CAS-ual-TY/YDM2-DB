@@ -3,6 +3,9 @@
   "name": "Red Resonator",
   "is_illegal": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand. When this card is Special Summoned: You can target 1 face-up monster on the field; gain LP equal to its ATK. You can only use this effect of \"Red Resonator\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40975574.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 600,

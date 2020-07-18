@@ -3,6 +3,9 @@
   "name": "King of Yamimakai",
   "is_illegal": false,
   "text": "Wields the power of darkness to destroy its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69455834.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,

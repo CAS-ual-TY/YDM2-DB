@@ -3,6 +3,9 @@
   "name": "Spell Gear",
   "is_illegal": false,
   "text": "Send 3 \"Ancient Gear\" cards you control to the Graveyard. You can Special Summon up to 1 \"Ancient Gear Golem\" from your hand and 1 from your Deck, ignoring the Summoning conditions. Then, destroy all monsters you control except \"Ancient Gear Golems\". You cannot Normal Summon or Set until the end of your next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/313513.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

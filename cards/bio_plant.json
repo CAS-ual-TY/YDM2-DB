@@ -3,6 +3,9 @@
   "name": "Bio Plant",
   "is_illegal": false,
   "text": "A monster created from a major accident in an underground lab.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7670542.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 600,

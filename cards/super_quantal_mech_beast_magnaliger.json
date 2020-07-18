@@ -3,6 +3,9 @@
   "name": "Super Quantal Mech Beast Magnaliger",
   "is_illegal": false,
   "text": "2 Level 5 monsters\nCannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 monster on the field; destroy it. This is a Quick Effect if this card has \"Super Quantum Red Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as material.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57031794.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2600,

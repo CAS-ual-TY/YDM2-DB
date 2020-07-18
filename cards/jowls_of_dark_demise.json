@@ -3,6 +3,9 @@
   "name": "Jowls of Dark Demise",
   "is_illegal": false,
   "text": "FLIP: Take control of 1 monster on your opponent\u0027s side of the field until the end of the turn that this card\u0027s effect is activated. When the controlled monster attacks, it can attack your opponent\u0027s Life Points directly.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5257687.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 200,

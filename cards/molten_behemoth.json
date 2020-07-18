@@ -3,6 +3,9 @@
   "name": "Molten Behemoth",
   "is_illegal": false,
   "text": "A giant born from magma, it attacks with a magma punch.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17192817.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,

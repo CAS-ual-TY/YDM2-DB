@@ -3,6 +3,9 @@
   "name": "Beelze of the Diabolic Dragons",
   "is_illegal": false,
   "text": "1 DARK Tuner + 1+ non-Tuner monsters\nCannot be destroyed by battle or card effects. If you take damage from an attack involving this card, or from an opponent\u0027s card effect: This card gains ATK equal to the damage you took.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34408491.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,

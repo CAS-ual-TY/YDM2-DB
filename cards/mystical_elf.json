@@ -3,6 +3,9 @@
   "name": "Mystical Elf",
   "is_illegal": false,
   "text": "A delicate elf that lacks offense, but has a terrific defense backed by mystical power.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15025844.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 800,

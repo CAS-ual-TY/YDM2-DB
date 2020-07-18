@@ -3,6 +3,9 @@
   "name": "Missing Force",
   "is_illegal": false,
   "text": "If you control no other monsters: You can Tribute this card to target 1 monster your opponent controls; take control of that target until the End Phase. You cannot Special Summon or conduct your Battle Phase during the turn you activate this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12836042.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

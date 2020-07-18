@@ -3,6 +3,10 @@
   "name": "Jinzo",
   "is_illegal": false,
   "text": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77585513.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77585514.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,

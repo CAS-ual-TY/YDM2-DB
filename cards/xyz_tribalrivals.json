@@ -3,6 +3,9 @@
   "name": "Xyz Tribalrivals",
   "is_illegal": false,
   "text": "Face-up Xyz Monsters on the field with 2 or more Xyz Materials cannot be destroyed by card effects. After damage calculation, if an Xyz Monster you control battles an opponent\u0027s monster: Destroy that opponent\u0027s monster. That Xyz Monster must have 2 or more Xyz Materials attached to activate and to resolve this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32086564.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Continuous"
 }

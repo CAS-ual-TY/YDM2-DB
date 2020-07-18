@@ -3,6 +3,9 @@
   "name": "Kumootoko",
   "is_illegal": false,
   "text": "A massive, intelligent spider that traps enemies with webbing.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56283725.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,

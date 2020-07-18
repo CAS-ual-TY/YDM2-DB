@@ -3,6 +3,9 @@
   "name": "HTS Psyhemuth",
   "is_illegal": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nAfter damage calculation, when this card battles an opponent\u0027s monster: You can banish that monster, also banish this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15028680.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,

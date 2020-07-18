@@ -3,6 +3,9 @@
   "name": "Junkuriboh",
   "is_illegal": false,
   "text": "When your opponent activates a card or effect that would inflict damage to you (Quick Effect): You can send this card from your hand or field to the GY; negate the activation, and if you do, destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38491199.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,

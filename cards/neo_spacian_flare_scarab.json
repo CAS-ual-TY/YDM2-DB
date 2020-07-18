@@ -3,6 +3,9 @@
   "name": "Neo-Spacian Flare Scarab",
   "is_illegal": false,
   "text": "Gains 400 ATK for each Spell/Trap your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89621922.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 500,

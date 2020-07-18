@@ -3,6 +3,9 @@
   "name": "Maiden of the Moonlight",
   "is_illegal": false,
   "text": "A sorcerer blessed by lunar light with powers far beyond mortal comprehension.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79629370.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1500,

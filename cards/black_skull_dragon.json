@@ -3,6 +3,9 @@
   "name": "Black Skull Dragon",
   "is_illegal": false,
   "text": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\n\n\n\n(This card is always treated as an \"Archfiend\" card.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11901678.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3200,

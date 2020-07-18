@@ -3,6 +3,9 @@
   "name": "Carrierroid",
   "is_illegal": false,
   "text": "When an opponent activates a card\u0027s effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46848859.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1000,

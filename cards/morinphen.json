@@ -3,6 +3,9 @@
   "name": "Morinphen",
   "is_illegal": false,
   "text": "A strange fiend with long arms and razor-sharp talons.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55784832.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1550,

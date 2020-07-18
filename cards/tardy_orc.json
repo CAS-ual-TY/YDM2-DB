@@ -3,6 +3,9 @@
   "name": "Tardy Orc",
   "is_illegal": false,
   "text": "This card cannot attack the turn it is Normal Summoned.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64892035.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,

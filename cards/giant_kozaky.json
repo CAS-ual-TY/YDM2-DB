@@ -3,6 +3,9 @@
   "name": "Giant Kozaky",
   "is_illegal": false,
   "text": "If there is no face-up \"Kozaky\" on the field, destroy this card. If this face-up card is destroyed, inflict damage equal to the original ATK of this card to its current controller.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58185394.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,

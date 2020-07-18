@@ -3,6 +3,9 @@
   "name": "PSY-Framegear Gamma",
   "is_illegal": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. When your opponent activates a monster effect while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that monster. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38814750.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1000,

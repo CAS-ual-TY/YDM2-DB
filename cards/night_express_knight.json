@@ -3,6 +3,9 @@
   "name": "Night Express Knight",
   "is_illegal": false,
   "text": "Cannot be Special Summoned from the Deck. You can Normal Summon this card without Tributing, but its original ATK becomes 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51126152.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3000,

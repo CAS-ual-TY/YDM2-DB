@@ -3,6 +3,9 @@
   "name": "Deepsea Warrior",
   "is_illegal": false,
   "text": "As long as \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24128274.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,

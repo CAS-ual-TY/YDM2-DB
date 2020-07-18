@@ -3,6 +3,9 @@
   "name": "Rock Spirit",
   "is_illegal": false,
   "text": "A fairy of boulders that looks like an earthenware statue. It is quite strong in terms of both attack and defense.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82818645.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1650,

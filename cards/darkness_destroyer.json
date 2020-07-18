@@ -3,6 +3,9 @@
   "name": "Darkness Destroyer",
   "is_illegal": false,
   "text": "Cannot be Special Summoned. This card can attack twice during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93709215.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2300,

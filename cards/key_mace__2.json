@@ -3,6 +3,9 @@
   "name": "Key Mace #2",
   "is_illegal": false,
   "text": "This fiend brings out the worst in everyone.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20541432.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1050,

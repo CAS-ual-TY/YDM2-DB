@@ -3,6 +3,9 @@
   "name": "Foolish Revival",
   "is_illegal": false,
   "text": "Select 1 monster from your opponent\u0027s Graveyard, and Special Summon it in face-up Defense Position on your opponent\u0027s side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83778600.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

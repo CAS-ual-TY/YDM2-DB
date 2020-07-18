@@ -3,6 +3,9 @@
   "name": "Condemned Darklord",
   "is_illegal": false,
   "text": "2 Fairy monsters\nYou can Tribute Summon Fairy monsters that require 2 Tributes by banishing 2 monsters from your GY instead of Tributing (it is still treated as a Tribute Summon). You can discard 1 card; take 1 \"Darklord\" monster from your Deck, and either add it to your hand or send it to the GY. You can only use this effect of \"Condemned Darklord\" once per turn. Once per turn, during your End Phase: Gain 500 LP for each Fairy monster on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35306215.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,

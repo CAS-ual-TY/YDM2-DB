@@ -3,6 +3,9 @@
   "name": "Oxygeddon",
   "is_illegal": false,
   "text": "If this card is destroyed by battle with a Pyro monster and sent to the GY: Each player takes 800 damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58071123.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,

@@ -3,6 +3,9 @@
   "name": "Ibicella Lutea",
   "is_illegal": false,
   "text": "Cannot be destroyed by battle while you control another monster. Neither player can target face-up Spells/Traps you control with card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62411042.jpg"
+  ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,

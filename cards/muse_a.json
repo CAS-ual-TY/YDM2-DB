@@ -3,6 +3,9 @@
   "name": "Muse-A",
   "is_illegal": false,
   "text": "A fairy of the arts that is unbeatable on the harp.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69992868.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 850,

@@ -3,6 +3,9 @@
   "name": "Majespecter Cyclone",
   "is_illegal": false,
   "text": "Tribute 1 WIND Spellcaster-Type monster, then target 1 monster your opponent controls; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49366157.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

@@ -3,6 +3,9 @@
   "name": "The Drdek",
   "is_illegal": false,
   "text": "A bipedal eyeball that seldom misses an enemy with its lethal talons.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8944575.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,

@@ -3,6 +3,9 @@
   "name": "Amphibian Beast",
   "is_illegal": false,
   "text": "On land or in the sea, the speed of this monster is unmatchable.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67371383.jpg"
+  ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2400,

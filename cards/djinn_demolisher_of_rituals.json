@@ -3,6 +3,9 @@
   "name": "Djinn Demolisher of Rituals",
   "is_illegal": false,
   "text": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If a player Ritual Summons using this card, that Ritual Summoned monster cannot be targeted by the card effects of the other player.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33145233.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,

@@ -3,6 +3,9 @@
   "name": "LaMoon",
   "is_illegal": false,
   "text": "A sorcerer that draws its power from the lunar landscape.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75850803.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1200,

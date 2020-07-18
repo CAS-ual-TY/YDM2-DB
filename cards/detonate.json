@@ -3,6 +3,9 @@
   "name": "Detonate",
   "is_illegal": false,
   "text": "Destroy as many \"Kuriboh\" and \"Kuriboh Tokens\" you control as possible, then destroy cards your opponent controls, up to the number of cards destroyed by this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89086566.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

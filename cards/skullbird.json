@@ -3,6 +3,9 @@
   "name": "Skullbird",
   "is_illegal": false,
   "text": "\"Takuhee\" + \"Temple of Skulls\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8327462.jpg"
+  ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1900,

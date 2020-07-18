@@ -3,6 +3,9 @@
   "name": "Decode Talker Extended",
   "is_illegal": false,
   "text": "2+ Effect Monsters\nThis card\u0027s name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster this card points to is destroyed by battle or sent to the GY: This card can make a second attack during each Battle Phase this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30822527.jpg"
+  ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2300,

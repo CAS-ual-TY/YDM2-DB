@@ -3,6 +3,9 @@
   "name": "Outstanding Dog Marron",
   "is_illegal": false,
   "text": "When this card is sent to your Graveyard, add it to your Deck and shuffle it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11548522.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,

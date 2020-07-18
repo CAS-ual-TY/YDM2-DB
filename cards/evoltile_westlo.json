@@ -3,6 +3,9 @@
   "name": "Evoltile Westlo",
   "is_illegal": false,
   "text": "FLIP: Special Summon 1 \"Evolsaur\" monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81873903.jpg"
+  ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 700,

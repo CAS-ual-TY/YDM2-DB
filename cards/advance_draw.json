@@ -3,6 +3,9 @@
   "name": "Advance Draw",
   "is_illegal": false,
   "text": "Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51630558.jpg"
+  ],
   "type": "Spell",
   "spell_type": "Normal"
 }

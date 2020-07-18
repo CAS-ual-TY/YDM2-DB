@@ -3,6 +3,9 @@
   "name": "Geargiagear",
   "is_illegal": false,
   "text": "Special Summon 2 \"Geargiano\" monsters from your Deck and increase their Levels by 1. You can only activate 1 \"Geargiagear\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6148016.jpg"
+  ],
   "type": "Trap",
   "trap_type": "Normal"
 }

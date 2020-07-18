@@ -3,6 +3,9 @@
   "name": "Bujingi Wolf",
   "is_illegal": false,
   "text": "Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32202803.jpg"
+  ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1100,
