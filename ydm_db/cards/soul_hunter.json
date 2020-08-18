@@ -1,7 +1,8 @@
 {
   "id": 72869010,
   "name": "Soul Hunter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Lord of the Lamp\" + \"Invader from Another Dimension\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72869010.jpg"

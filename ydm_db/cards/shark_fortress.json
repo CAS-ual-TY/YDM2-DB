@@ -1,7 +1,8 @@
 {
   "id": 50449881,
   "name": "Shark Fortress",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 5 monsters\nYour opponent cannot target monsters for attacks, except this one. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster you control; it can make a second attack during each Battle Phase this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50449881.jpg"

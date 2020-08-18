@@ -1,7 +1,8 @@
 {
   "id": 17511156,
   "name": "Wood Clown",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A creature with a wicked smile and a lethal sickle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17511156.jpg"

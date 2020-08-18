@@ -1,7 +1,8 @@
 {
   "id": 19594506,
   "name": "Neo Space Pathfinder",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can discard this card to the Graveyard to add 1 \"Neo Space\" from your Deck or Graveyard to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19594506.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 37745919,
   "name": "Junk Box",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Select and Special Summon 1 Level 4 or lower \"Morphtronic\" monster from your Graveyard. Destroy it during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37745919.jpg"

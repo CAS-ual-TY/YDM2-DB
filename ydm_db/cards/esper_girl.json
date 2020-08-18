@@ -1,7 +1,8 @@
 {
   "id": 99070951,
   "name": "Esper Girl",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this removed from play card is Special Summoned, remove from play the top card of your Deck, face-down. When this card is sent from the field to the Graveyard, add that removed card to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99070951.jpg"

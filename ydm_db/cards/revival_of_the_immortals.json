@@ -1,7 +1,8 @@
 {
   "id": 39967326,
   "name": "Revival of the Immortals",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Earthbound Immortal\" monster in your Graveyard; Special Summon it, but it cannot declare an attack this turn, also your opponent takes no battle damage from attacks involving it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39967326.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 60417395,
   "name": "Darkness Neosphere",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 Fiend-Type monster you control and 1 Fiend-Type monster from your hand to the Graveyard when your opponent\u0027s monster declares an attack. This card cannot be destroyed by battle. Once per turn, you can return all face-up Trap Cards you control to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60417395.jpg"

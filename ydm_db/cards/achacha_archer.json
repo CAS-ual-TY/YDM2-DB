@@ -1,7 +1,8 @@
 {
   "id": 98865920,
   "name": "Achacha Archer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Flip Summoned: Inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98865920.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 91903221,
   "name": "Evoltile Elginero",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card on the field is Tributed and sent to the Graveyard: Draw 1 card, then, you can shuffle 1 Dinosaur-Type monster from your hand into the Deck, then add 1 \"Evoltile\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91903221.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 98126725,
   "name": "Shien\u0027s Advisor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned while you control a \"Six Samurai\" monster: Declare 1 Monster Type; while this card is face-up on the field, monsters with the declared Monster Type cannot declare an attack or be Special Summoned.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98126725.jpg"

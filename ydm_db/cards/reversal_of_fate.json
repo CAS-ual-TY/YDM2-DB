@@ -1,7 +1,8 @@
 {
   "id": 36690018,
   "name": "Reversal of Fate",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Select 1 \"Arcana Force\" monster you control. That monster\u0027s effect is now treated as the opposite coin toss result.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36690018.jpg"

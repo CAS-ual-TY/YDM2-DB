@@ -1,7 +1,8 @@
 {
   "id": 82458280,
   "name": "Magic Hole Golem",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can select 1 face-up monster you control. Its ATK is halved until the End Phase, and it can attack your opponent directly this turn. During the turn you activate this effect, only the selected monster can attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82458280.jpg"

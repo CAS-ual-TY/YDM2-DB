@@ -1,7 +1,8 @@
 {
   "id": 16693254,
   "name": "Gishki Avance",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can choose 1 \"Gishki\" monster from your Deck and place it on top of your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16693254.jpg"

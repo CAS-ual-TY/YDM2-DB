@@ -1,7 +1,8 @@
 {
   "id": 23626223,
   "name": "Statue of Anguish Pattern",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Special Summon this card as an Effect Monster (Rock-Type/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent\u0027s card effects while you control another Trap Card that is a monster. If a card is Special Summoned from your Spell \u0026 Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23626223.jpg"

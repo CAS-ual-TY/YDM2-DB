@@ -1,7 +1,8 @@
 {
   "id": 9576193,
   "name": "Monster Slots",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 face-up monster you control and 1 monster in your Graveyard with the same Level; banish the target from the Graveyard, then draw 1 card and reveal it, then if the card you drew is a monster with the same Level as the monster on the field, Special Summon it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9576193.jpg"

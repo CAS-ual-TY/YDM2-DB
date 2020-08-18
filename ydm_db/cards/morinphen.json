@@ -1,7 +1,8 @@
 {
   "id": 55784832,
   "name": "Morinphen",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A strange fiend with long arms and razor-sharp talons.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55784832.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 82052602,
   "name": "Gagagaback",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the turn a \"Gagaga\" monster you control was destroyed by battle and sent to the Graveyard: Special Summon from your Graveyard as many monsters as possible that were destroyed by battle this turn, in face-up Defense Position, then take 600 damage for each monster Special Summoned by this effect. You can only activate 1 \"Gagagaback\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82052602.jpg"

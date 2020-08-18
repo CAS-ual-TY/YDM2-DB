@@ -1,7 +1,8 @@
 {
   "id": 37267041,
   "name": "Silent Swordsman LV7",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Swordsman LV5\", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37267041.jpg"

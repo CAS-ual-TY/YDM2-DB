@@ -1,7 +1,8 @@
 {
   "id": 51047350,
   "name": "Card Breaker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell \u0026 Trap Card Zone to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51047350.jpg"

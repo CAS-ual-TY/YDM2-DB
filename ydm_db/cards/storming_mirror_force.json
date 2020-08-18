@@ -1,7 +1,8 @@
 {
   "id": 5650082,
   "name": "Storming Mirror Force",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When an opponent\u0027s monster declares an attack: Return all your opponent\u0027s Attack Position monsters to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5650082.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 41722932,
   "name": "Dark Mambele",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41722932.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 57409948,
   "name": "Bombardment Beetle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Pick up and see 1 face-down Defense Position Monster Card on your opponent\u0027s side of the field. If it is an Effect Monster, destroy it (its Flip Effect is not activated), and if the card is not, return it to its original position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57409948.jpg"

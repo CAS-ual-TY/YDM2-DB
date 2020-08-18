@@ -1,7 +1,8 @@
 {
   "id": 83991690,
   "name": "Buten",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Main Phase: You can banish this card from the Graveyard to target 1 face-up Level 4 or lower LIGHT Fairy-Type monster you control; it is treated as a Tuner monster while face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83991690.jpg"

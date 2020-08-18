@@ -1,7 +1,8 @@
 {
   "id": 89112729,
   "name": "Cyber Saurus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Blast Juggler\" + \"Two-Headed King Rex\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89112729.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 67724379,
   "name": "Koumori Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67724379.jpg"

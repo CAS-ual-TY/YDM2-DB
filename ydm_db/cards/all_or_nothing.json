@@ -1,0 +1,12 @@
+{
+  "id": 74202664,
+  "name": "All or Nothing",
+  "illegal": false,
+  "custom": false,
+  "text": "If your LP are lower than your opponent\u0027s: Reveal the top card of your Deck, and if it is a Level 1 or 8 monster, either add it to your hand or Special Summon it. Otherwise, your opponent can choose 1 of these effects to be applied.\n? The LP of this card\u0027s controller becomes 1000.\n? The opponent of this card\u0027s controller gains LP until they have 8000.\nYou can only activate 1 \"All or Nothing\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74202664.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

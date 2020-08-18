@@ -1,7 +1,8 @@
 {
   "id": 10032958,
   "name": "Divine Dragon - Excelion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned, it gets 1 of the following effects for each \"Divine Dragon - Excelion\" in your Graveyard when this effect resolves (your choice). These effects cannot accumulate. ? This card gains 1000 ATK. ? If this card destroys an opponent\u0027s monster by battle, it can attack once again in a row. ? When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the ATK of the destroyed monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10032958.jpg"

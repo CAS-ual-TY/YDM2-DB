@@ -1,7 +1,8 @@
 {
   "id": 73405179,
   "name": "Iron Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Loses 1000 ATK while you control \"Iron Hans\". If this card on the field is destroyed by battle or sent to the GY by a card effect: You can add 1 \"Iron Hans\" from your Deck to your hand, or, if \"Golden Castle of Stromberg\" is in a Field Zone, you can add 1 Warrior monster from your Deck to your hand, instead. You can only use this effect of \"Iron Knight\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73405179.jpg"

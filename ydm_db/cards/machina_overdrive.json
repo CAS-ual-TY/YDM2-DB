@@ -1,7 +1,8 @@
 {
   "id": 59741415,
   "name": "Machina Overdrive",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 Machine monster you control; Special Summon 1 \"Machina\" monster with a different name from your hand or Deck, and if you do, destroy that targeted monster. You can banish this card from your GY, then target 3 of your Machine monsters that are banished and/or in your GY; shuffle them into your Deck, then draw 1 card. You can only use 1 \"Machina Overdrive\" effect per turn, and only once that turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59741415.jpg"

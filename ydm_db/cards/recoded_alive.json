@@ -1,7 +1,8 @@
 {
   "id": 70238111,
   "name": "Recoded Alive",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 Link-3 Cyberse Link Monster you control or is in your GY; banish it, and if you do, Special Summon 1 \"Code Talker\" monster from your Extra Deck. If you control no monsters in the Extra Monster Zone: You can banish this card from your GY, then target 1 of your banished \"Code Talker\" monsters; Special Summon it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70238111.jpg"

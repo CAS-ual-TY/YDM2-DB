@@ -1,7 +1,8 @@
 {
   "id": 28741524,
   "name": "Telekinetic Power Well",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Special Summon any number of Level 2 or lower Psychic-Type monsters from your Graveyard. You take damage equal to the total Levels of those monsters x 300.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28741524.jpg"

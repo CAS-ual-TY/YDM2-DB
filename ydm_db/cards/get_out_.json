@@ -1,7 +1,8 @@
 {
   "id": 22373487,
   "name": "Get Out!",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 2 monsters your opponent controls that were Special Summoned from the Extra Deck; shuffle them into the Deck. You can only activate 1 \"Get Out!\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22373487.jpg"

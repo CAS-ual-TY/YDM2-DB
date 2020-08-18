@@ -1,7 +1,8 @@
 {
   "id": 16617334,
   "name": "Performapal Rain Goat",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a card or effect is activated that would inflict damage to you (Quick Effect): You can discard this card; make that effect damage to you 0. During the Main Phase (Quick Effect): You can discard this card, then target 1 \"Performapal\" or \"Odd-Eyes\" card you control; this turn, it cannot be destroyed by battle or card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16617334.jpg"

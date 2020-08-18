@@ -1,7 +1,8 @@
 {
   "id": 50179591,
   "name": "Abyss Script - Fire Dragon\u0027s Lair",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Abyss Actor\" monster you control; if it destroys your opponent\u0027s monster by battle this turn, your opponent banishes 3 monsters from their Extra Deck (their choice). If this Set card in its owner\u0027s control is destroyed by an opponent\u0027s card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can look at your opponent\u0027s Extra Deck, also banish 1 monster from their Extra Deck. You can only use this effect of \"Abyss Script - Fire Dragon\u0027s Lair\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50179591.jpg"

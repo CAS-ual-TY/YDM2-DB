@@ -1,7 +1,8 @@
 {
   "id": 66607691,
   "name": "Photon Generator Unit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Tribute 2 \"Cyber Dragons\". Special Summon 1 \"Cyber Laser Dragon\" from your hand, Deck, or Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66607691.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 6840573,
   "name": "Barox",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Frenzied Panda\" + \"Ryu-Kishin\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6840573.jpg"

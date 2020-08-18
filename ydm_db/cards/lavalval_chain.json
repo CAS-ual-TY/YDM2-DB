@@ -1,7 +1,8 @@
 {
   "id": 34086406,
   "name": "Lavalval Chain",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;\n? Send 1 card from your Deck to the Graveyard.\n? Choose 1 monster from your Deck and place it on top of your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34086406.jpg"

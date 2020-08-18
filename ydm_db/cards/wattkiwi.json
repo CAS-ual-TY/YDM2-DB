@@ -1,7 +1,8 @@
 {
   "id": 24996659,
   "name": "Wattkiwi",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Watt\" monsters you control cannot be destroyed by battle while they are attacking.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24996659.jpg"

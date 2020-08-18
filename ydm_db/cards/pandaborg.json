@@ -1,7 +1,8 @@
 {
   "id": 39091951,
   "name": "Pandaborg",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, you can pay 800 Life Points to Special Summon 1 Level 4 Psychic-Type monster from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39091951.jpg"

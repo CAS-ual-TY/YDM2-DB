@@ -1,7 +1,8 @@
 {
   "id": 53830602,
   "name": "Fungi of the Musk",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Melts away anything that dares to stand before it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53830602.jpg"

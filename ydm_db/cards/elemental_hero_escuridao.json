@@ -1,7 +1,8 @@
 {
   "id": 33574806,
   "name": "Elemental HERO Escuridao",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 \"Elemental HERO\" monster + 1 DARK monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 100 ATK for each \"Elemental HERO\" monster in your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33574806.jpg"

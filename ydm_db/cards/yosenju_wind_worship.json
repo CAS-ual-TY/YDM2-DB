@@ -1,7 +1,8 @@
 {
   "id": 54880296,
   "name": "Yosenju Wind Worship",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control 3 or more \"Yosenju\" Monster Cards with different names: Return as many \"Yosenju\" Monster Cards you control to the hand as possible, then you can draw until you have 5 cards in your hand. You can only activate 1 \"Yosenju Wind Worship\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54880296.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 8198712,
   "name": "End of the World",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card is used to Ritual Summon \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\". You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8198712.jpg"

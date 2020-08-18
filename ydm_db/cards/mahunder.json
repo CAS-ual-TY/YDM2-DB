@@ -1,7 +1,8 @@
 {
   "id": 21524779,
   "name": "Mahunder",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can Normal Summon 1 Level 4 LIGHT Thunder-Type monster from your hand, except \"Mahunder\", as an additional Normal Summon.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21524779.jpg"

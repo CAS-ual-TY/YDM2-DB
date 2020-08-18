@@ -1,7 +1,8 @@
 {
   "id": 81954378,
   "name": "Reaper Scythe - Dreadscythe",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to \"Guardian Dreadscythe\". It gains 500 ATK for each monster in the Graveyards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81954378.jpg"

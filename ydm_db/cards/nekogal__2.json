@@ -1,7 +1,8 @@
 {
   "id": 43352213,
   "name": "Nekogal #2",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A fast and lethal creature with very dangerous claws.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43352213.jpg"

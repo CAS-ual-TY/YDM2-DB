@@ -1,7 +1,8 @@
 {
   "id": 15960641,
   "name": "Mirage Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Your opponent cannot activate Trap Cards during the Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15960641.jpg"

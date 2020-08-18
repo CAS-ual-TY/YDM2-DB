@@ -1,7 +1,8 @@
 {
   "id": 82085619,
   "name": "Shining Friendship",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The peacemaker among monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82085619.jpg"

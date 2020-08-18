@@ -1,7 +1,8 @@
 {
   "id": 34160055,
   "name": "Master of the Flaming Dragonswords",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a monster is Normal Summoned to your side of the field, except \"Master of the Flaming Dragonswords\": You can increase that monster\u0027s Level by 1, and this card gains 300 ATK until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34160055.jpg"

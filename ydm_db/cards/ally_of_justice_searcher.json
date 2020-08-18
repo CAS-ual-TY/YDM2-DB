@@ -1,7 +1,8 @@
 {
   "id": 3648368,
   "name": "Ally of Justice Searcher",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can discard 1 card to select 1 face-down Defense Position monster your opponent controls and change it to face-up Attack Position. Flip Effects are not activated at this time.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3648368.jpg"

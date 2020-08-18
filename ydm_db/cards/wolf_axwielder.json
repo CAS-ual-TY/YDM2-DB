@@ -1,7 +1,8 @@
 {
   "id": 56369281,
   "name": "Wolf Axwielder",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once it has started battle, this monster attacks fiercely and cannot stop.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56369281.jpg"

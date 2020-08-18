@@ -1,7 +1,8 @@
 {
   "id": 89091579,
   "name": "Basic Insect",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Usually found traveling in swarms, this creature\u0027s ideal environment is the forest.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89091579.jpg"

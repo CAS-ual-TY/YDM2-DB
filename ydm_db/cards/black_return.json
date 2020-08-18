@@ -1,7 +1,8 @@
 {
   "id": 72278479,
   "name": "Black Return",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When exactly 1 \"Blackwing\" monster (and no other monster) is Special Summoned: Target 1 face-up monster your opponent controls; gain LP equal to the ATK of that target, and if you do, return it to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72278479.jpg"

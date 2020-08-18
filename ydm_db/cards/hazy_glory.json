@@ -1,7 +1,8 @@
 {
   "id": 43708041,
   "name": "Hazy Glory",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Normal Summon \"Hazy Flame\" monsters for 1 less Tribute. You can send this face-up card from the field to the Graveyard to target 1 \"Hazy\" card in your Graveyard, except \"Hazy Glory\"; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43708041.jpg"

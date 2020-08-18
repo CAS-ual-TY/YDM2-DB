@@ -1,7 +1,8 @@
 {
   "id": 73652465,
   "name": "Blackwing - Oroshi the Squall",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a \"Blackwing\" monster other than \"Blackwing - Oroshi the Squall\", you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Oroshi the Squall\" once per turn this way. If this card is sent to the GY as a Synchro Material: You can target 1 monster on the field; change that target\u0027s battle position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73652465.jpg"

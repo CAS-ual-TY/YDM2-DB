@@ -1,7 +1,8 @@
 {
   "id": 13482262,
   "name": "Impcantation Thanatosis",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is activated: You can reveal 1 \"Impcantation\" monster in your hand and Special Summon 2 monsters with that monster\u0027s name from your Deck, then shuffle the revealed monster into the Deck. Once per turn, if a Ritual Monster is Special Summoned to your field (except during the Damage Step): You can target 1 card on the field; destroy it. You can only activate 1 \"Impcantation Thanatosis\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13482262.jpg"

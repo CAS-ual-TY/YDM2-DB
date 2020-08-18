@@ -1,7 +1,8 @@
 {
   "id": 34507039,
   "name": "Wiretap",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Trap Card is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34507039.jpg"

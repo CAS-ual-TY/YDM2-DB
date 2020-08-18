@@ -1,7 +1,8 @@
 {
   "id": 38199696,
   "name": "Red Medicine",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Increase your Life Points by 500 points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38199696.jpg"

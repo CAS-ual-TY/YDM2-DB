@@ -1,7 +1,8 @@
 {
   "id": 70546737,
   "name": "Umbral Horror Will o\u0027 the Wisp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Special Summoned: You can target 1 \"Umbral Horror\" monster you control or in your Graveyard, except this card; this card\u0027s Level becomes the current Level of that monster. When this Attack Position card is destroyed by battle and sent to the Graveyard, and was in face-up Attack Position at the start of the Damage Step: Destroy the monster that destroyed this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70546737.jpg"

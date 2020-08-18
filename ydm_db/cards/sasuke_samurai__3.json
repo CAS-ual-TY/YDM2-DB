@@ -1,7 +1,8 @@
 {
   "id": 77379481,
   "name": "Sasuke Samurai #3",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card inflicts Battle Damage to your opponent\u0027s Life Points, your opponent draws cards until his/her hand has 7 cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77379481.jpg"

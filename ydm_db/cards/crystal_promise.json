@@ -1,7 +1,8 @@
 {
   "id": 8275702,
   "name": "Crystal Promise",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Crystal Beast\" card in your Spell \u0026 Trap Card Zone; Special Summon that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8275702.jpg"

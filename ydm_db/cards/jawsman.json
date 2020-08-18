@@ -1,7 +1,8 @@
 {
   "id": 50532786,
   "name": "Jawsman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WATER. This card gains 300 ATK for each face-up WATER monster you control, except this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50532786.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 27565379,
   "name": "Battlewasp - Azusa the Ghost Bow",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nWhen your opponent takes effect damage from another \"Battlewasp\" monster: You can inflict damage to your opponent equal to the original ATK of that monster. You can only use this effect of \"Battlewasp - Azusa the Ghost Bow\" once per turn. When a monster is destroyed by battle with your \"Battlewasp\" monster, while this card is in your GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27565379.jpg"

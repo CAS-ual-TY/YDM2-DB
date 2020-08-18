@@ -1,7 +1,8 @@
 {
   "id": 1102515,
   "name": "Dark Mimic LV3",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1102515.jpg"

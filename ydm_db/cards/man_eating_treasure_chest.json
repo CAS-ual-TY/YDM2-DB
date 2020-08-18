@@ -1,7 +1,8 @@
 {
   "id": 13723605,
   "name": "Man-Eating Treasure Chest",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13723605.jpg"

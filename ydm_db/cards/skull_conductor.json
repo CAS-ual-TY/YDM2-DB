@@ -1,7 +1,8 @@
 {
   "id": 62782218,
   "name": "Skull Conductor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is face-up on the field at the end of the Battle Phase: Destroy this face-up card. You can send this card from your hand to the Graveyard; Special Summon up to 2 Zombie-Type monsters from your hand whose combined ATK is exactly 2000.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62782218.jpg"

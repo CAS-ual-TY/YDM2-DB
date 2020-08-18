@@ -1,7 +1,8 @@
 {
   "id": 70908596,
   "name": "Constellar Kaus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 \"Constellar\" monster on the field, then activate 1 of these effects;\n? Increase its Level by 1.\n? Reduce its Level by 1.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70908596.jpg"

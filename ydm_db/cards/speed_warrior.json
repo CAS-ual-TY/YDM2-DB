@@ -1,7 +1,8 @@
 {
   "id": 9365703,
   "name": "Speed Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9365703.jpg"

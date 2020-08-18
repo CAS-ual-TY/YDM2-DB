@@ -1,7 +1,8 @@
 {
   "id": 12989604,
   "name": "World Legacy Awakens",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Immediately after this effect resolves, Link Summon 1 Link Monster using monster(s) you control as material. You can only activate 1 \"World Legacy Awakens\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12989604.jpg"

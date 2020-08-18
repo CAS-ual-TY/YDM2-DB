@@ -1,7 +1,8 @@
 {
   "id": 3573512,
   "name": "Swordsman of Landstar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An amateur with a sword, this fairy warrior relies on its mysterious powers.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3573512.jpg"

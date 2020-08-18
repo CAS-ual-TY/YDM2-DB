@@ -1,10 +1,11 @@
 {
-  "id": 101102058,
+  "id": 13764602,
   "name": "Two as One",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is activated: You can add 1 \"Souten\" monster from your Deck to your hand. If you control a \"Souten\" Effect Monster: You can Special Summon 1 \"Souten Spirit Token\" (Warrior/LIGHT/Level 2/ATK 0/DEF 0), also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters (even if this card leaves the field). You can only use this effect of \"Two as One\" once per turn. You can only activate 1 \"Two as One\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/101102058.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13764602.jpg"
   ],
   "type": "Spell",
   "spell_type": "Field"

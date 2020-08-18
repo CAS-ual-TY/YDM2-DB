@@ -1,7 +1,8 @@
 {
   "id": 56784842,
   "name": "Angel O7",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Tribute Summoned, it gains the following effect: ? The effects of Effect Monsters cannot be activated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56784842.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 71985676,
   "name": "Performapal Inflater Tapir",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During damage calculation (in either player\u0027s turn), if a monster you control battles an opponent\u0027s monster: You can discard this card; neither player takes any battle damage from that battle. When an opponent\u0027s monster declares a direct attack while this card is in your Graveyard: You can discard 1 \"Performapal\" monster; Special Summon this card in Defense Position. You can only use this effect of \"Performapal Inflater Tapir\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71985676.jpg"

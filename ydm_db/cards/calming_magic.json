@@ -1,7 +1,8 @@
 {
   "id": 51773900,
   "name": "Calming Magic",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can only be activated at the start of Main Phase 1. During the Main Phases and Battle Phase of this turn, neither player can Summon monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51773900.jpg"

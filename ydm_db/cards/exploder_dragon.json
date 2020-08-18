@@ -1,7 +1,8 @@
 {
   "id": 20586572,
   "name": "Exploder Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20586572.jpg"

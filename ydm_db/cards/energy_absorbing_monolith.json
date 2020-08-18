@@ -1,7 +1,8 @@
 {
   "id": 57006589,
   "name": "Energy-Absorbing Monolith",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Chain this card to an opponent\u0027s card effect that would inflict damage to you. That damage is negated, and you gain Life Points equal to the amount you would have taken.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57006589.jpg"

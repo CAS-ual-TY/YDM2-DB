@@ -1,7 +1,8 @@
 {
   "id": 52698008,
   "name": "Cyberse Wicckid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Cyberse monsters\nThis Link Summoned card cannot be destroyed by battle or card effects. Cyberse monsters this card points to cannot be destroyed by card effects. If a monster(s) is Special Summoned to a zone(s) this card points to while you control this monster (except during the Damage Step): You can banish 1 Cyberse monster from your GY; add 1 Cyberse Tuner from your Deck to your hand. You can only use this effect of \"Cyberse Wicckid\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52698008.jpg"

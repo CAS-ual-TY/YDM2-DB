@@ -1,7 +1,8 @@
 {
   "id": 57116033,
   "name": "Winged Kuriboh",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57116033.jpg",

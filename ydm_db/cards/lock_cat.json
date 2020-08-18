@@ -1,7 +1,8 @@
 {
   "id": 52346240,
   "name": "Lock Cat",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned, you can select 1 Level 1 Beast-Type monster in your Graveyard and Special Summon it in face-up Defense Position. Its effects are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52346240.jpg"

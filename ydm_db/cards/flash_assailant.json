@@ -1,7 +1,8 @@
 {
   "id": 96890582,
   "name": "Flash Assailant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Decrease the ATK and DEF of this card by 400 points for each card in your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96890582.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 47778083,
   "name": "Bone Temple Block",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 card. Special Summon 1 Level 4 or lower monster from your opponent\u0027s Graveyard to your side of the field, and your opponent Special Summons 1 Level 4 or lower monster from your Graveyard to your opponent\u0027s side of the field. Those monsters are destroyed during the End Phase of the next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47778083.jpg"

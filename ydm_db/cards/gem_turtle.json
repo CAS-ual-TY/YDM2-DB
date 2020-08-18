@@ -1,7 +1,8 @@
 {
   "id": 64734090,
   "name": "Gem-Turtle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: You can add 1 \"Gem-Knight Fusion\" from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64734090.jpg"

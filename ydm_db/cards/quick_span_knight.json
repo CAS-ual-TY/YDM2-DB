@@ -1,7 +1,8 @@
 {
   "id": 11287364,
   "name": "Quick-Span Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent to the Graveyard for a Synchro Summon: Target 1 face-up monster your opponent controls; that target loses 500 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11287364.jpg"

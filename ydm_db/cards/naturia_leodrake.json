@@ -1,7 +1,8 @@
 {
   "id": 16527176,
   "name": "Naturia Leodrake",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16527176.jpg"

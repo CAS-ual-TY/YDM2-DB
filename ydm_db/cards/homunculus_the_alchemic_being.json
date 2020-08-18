@@ -1,7 +1,8 @@
 {
   "id": 40410110,
   "name": "Homunculus the Alchemic Being",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can change the Attribute of this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40410110.jpg"

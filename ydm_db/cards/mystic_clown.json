@@ -1,7 +1,8 @@
 {
   "id": 47060154,
   "name": "Mystic Clown",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Nothing can stop the mad attack of this powerful creature.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47060154.jpg"

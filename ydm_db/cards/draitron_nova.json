@@ -1,10 +1,11 @@
 {
-  "id": 100425033,
+  "id": 100415033,
   "name": "Draitron Nova",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Special Summon 1 \"Draitron\" monster from your Deck, but destroy it during the End Phase. You cannot Special Summon monsters the turn you activate this card, except monsters that cannot be Normal Summoned/Set. You can only activate 1 \"Draitron Nova\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/100425033.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100415033.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

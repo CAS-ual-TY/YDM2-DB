@@ -1,7 +1,8 @@
 {
   "id": 59762399,
   "name": "Performapal Odd-Eyes Light Phoenix",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "(Quick Effect): You can Tribute this card, then target 1 \"Performapal\" monster you control; it gains 1000 ATK until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59762399.jpg"

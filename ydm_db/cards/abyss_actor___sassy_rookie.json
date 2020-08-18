@@ -1,7 +1,8 @@
 {
   "id": 51028231,
   "name": "Abyss Actor - Sassy Rookie",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The first time this card would be destroyed by battle or card effect each turn, it is not destroyed. If this card is destroyed by battle, or if this card in its owner\u0027s Monster Zone is destroyed by an opponent\u0027s card effect: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" monster from your Deck, except \"Abyss Actor - Sassy Rookie\". If this card in the Pendulum Zone is destroyed: You can target 1 Level 4 or lower monster your opponent controls; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51028231.jpg"

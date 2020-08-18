@@ -1,7 +1,8 @@
 {
   "id": 29228529,
   "name": "Spell Reproduction",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Send 2 Spells from your hand to the GY, then target 1 Spell in your GY; add it to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29228529.jpg"

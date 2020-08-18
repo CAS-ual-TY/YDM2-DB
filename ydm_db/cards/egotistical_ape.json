@@ -1,7 +1,8 @@
 {
   "id": 96914272,
   "name": "Egotistical Ape",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by sending 1 Beast-Type monster from your hand to the Graveyard. When this card is Special Summoned this way, you can activate 1 of these effects: ? Increase the Level of this card by the Level of the Beast-Type monster. ? Decrease the Level of this card by the Level of the Beast-Type monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96914272.jpg"

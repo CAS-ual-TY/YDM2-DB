@@ -1,7 +1,8 @@
 {
   "id": 14309486,
   "name": "Koa\u0027ki Meiru Overload",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa\u0027ki Meiru\" from your hand to the GY or reveal 1 Rock monster in your hand. When your opponent would Summon a monster(s) (Quick Effect): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14309486.jpg"

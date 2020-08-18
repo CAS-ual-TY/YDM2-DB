@@ -1,7 +1,8 @@
 {
   "id": 4896788,
   "name": "Spirit of the Pot of Greed",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While this card is in face-up Attack Position on the field, if a player activates \"Pot of Greed\", they can draw 1 more card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4896788.jpg"

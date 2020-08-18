@@ -1,7 +1,8 @@
 {
   "id": 91123920,
   "name": "The Agent of Force - Mars",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card is unaffected by any Spell Cards. While you control a face-up \"The Sanctuary in the Sky\" and your Life Points are higher than your opponent\u0027s, this card gains ATK and DEF by the difference between your and your opponent\u0027s Life Points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91123920.jpg"

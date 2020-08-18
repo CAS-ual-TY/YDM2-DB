@@ -1,7 +1,8 @@
 {
   "id": 50939127,
   "name": "Different Dimension Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be destroyed by Spell/Trap effects that do not target it. This card cannot be destroyed by battle with a monster that has 1900 or less ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50939127.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 72631243,
   "name": "Energy Bravery",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Gemini Monsters you control that are being treated as Effect Monsters cannot be destroyed by card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72631243.jpg"

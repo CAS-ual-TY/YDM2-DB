@@ -1,0 +1,20 @@
+{
+  "id": 54635100,
+  "name": "Linkerbell",
+  "illegal": false,
+  "custom": false,
+  "text": "2 monsters\nYou cannot Link Summon this card unless you have at least 3 more cards in your Extra Deck than your opponent\u0027s.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54635100.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

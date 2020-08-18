@@ -1,7 +1,8 @@
 {
   "id": 54813225,
   "name": "Duck Fighter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is in your hand or Graveyard: You can Tribute Tokens whose total Levels equal 3 or more; Special Summon this card. You can only use the effect of \"Duck Fighter\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54813225.jpg"

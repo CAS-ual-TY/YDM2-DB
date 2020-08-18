@@ -1,7 +1,8 @@
 {
   "id": 18168997,
   "name": "Darklord Nergal",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only Special Summon \"Darklord Nergal(s)\" once per turn. If your Fairy monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. (Quick Effect): You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap in your GY; apply that target\u0027s effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Nergal\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18168997.jpg"

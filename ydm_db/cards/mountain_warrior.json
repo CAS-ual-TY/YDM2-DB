@@ -1,7 +1,8 @@
 {
   "id": 4931562,
   "name": "Mountain Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A tough warrior that can move smoothly on even the roughest terrain.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4931562.jpg"

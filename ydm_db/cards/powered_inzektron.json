@@ -1,7 +1,8 @@
 {
   "id": 46132282,
   "name": "Powered Inzektron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: This turn, this card cannot be destroyed by battle or by card effects, also you take no damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46132282.jpg"

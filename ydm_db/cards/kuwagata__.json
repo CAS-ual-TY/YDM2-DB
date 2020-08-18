@@ -1,7 +1,8 @@
 {
   "id": 60802233,
   "name": "Kuwagata ?",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A very vicious stag beetle that goes for the head.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60802233.jpg"

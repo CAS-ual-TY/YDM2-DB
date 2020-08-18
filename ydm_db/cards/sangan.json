@@ -1,7 +1,8 @@
 {
   "id": 26202165,
   "name": "Sangan",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26202165.jpg"

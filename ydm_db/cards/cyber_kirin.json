@@ -1,7 +1,8 @@
 {
   "id": 76986005,
   "name": "Cyber Kirin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Tribute this card to make any effect damage you take this turn 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76986005.jpg"

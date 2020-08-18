@@ -1,7 +1,8 @@
 {
   "id": 5645210,
   "name": "Splendid Venus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All non-Fairy monsters lose 500 ATK/DEF. The activation and effects of Spell/Trap Cards activated on your field cannot be negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5645210.jpg"

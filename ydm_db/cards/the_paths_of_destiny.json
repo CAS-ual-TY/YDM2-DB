@@ -1,7 +1,8 @@
 {
   "id": 50470982,
   "name": "The Paths of Destiny",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Both players toss a coin once. If a player\u0027s result is Heads, they gain 2000 Life Points, and if their result is Tails, they take 2000 damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50470982.jpg"

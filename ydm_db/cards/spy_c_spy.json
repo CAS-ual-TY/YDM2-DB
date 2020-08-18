@@ -1,7 +1,8 @@
 {
   "id": 21088856,
   "name": "Spy-C-Spy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned: Look at 1 random card in your opponent\u0027s Extra Deck, and if it has 2000 or more ATK, this card gains 1000 ATK. If it has less than 2000 ATK, you gain LP equal to that monster\u0027s ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21088856.jpg"

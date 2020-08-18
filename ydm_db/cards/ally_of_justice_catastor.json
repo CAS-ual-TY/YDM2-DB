@@ -1,7 +1,8 @@
 {
   "id": 26593852,
   "name": "Ally of Justice Catastor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26593852.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 66927994,
   "name": "Oni Tank T-34",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An armored tank possessed by a fiend that will pursue enemies until they\u0027re crushed.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66927994.jpg"

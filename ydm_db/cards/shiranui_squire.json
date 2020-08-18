@@ -1,7 +1,8 @@
 {
   "id": 41562624,
   "name": "Shiranui Squire",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned, you can: Special Summon 1 \"Shiranui Spectralsword\" monster from your hand or Deck, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. If this card is banished: You can draw 1 card, then discard 1 card. You can only use each effect of \"Shiranui Squire\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41562624.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 35052053,
   "name": "Insect Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Of all Insect fighters, he is the paragon of the Indestructible Insect Invaders, which only the elite of the elite can join. We can no longer ignore their unmatched battle prowess.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35052053.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 17189532,
   "name": "Phantom Bounzer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card on the field is destroyed and sent to the Graveyard: You can add 2 \"Bounzer\" cards from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17189532.jpg"

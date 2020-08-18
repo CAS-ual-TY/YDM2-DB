@@ -1,7 +1,8 @@
 {
   "id": 55488859,
   "name": "Evoltile Gephyro",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can target 1 \"Evolsaur\" monster in your Graveyard; Special Summon that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55488859.jpg"

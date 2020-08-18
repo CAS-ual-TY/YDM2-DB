@@ -1,7 +1,8 @@
 {
   "id": 89642993,
   "name": "Number 63: Shamoji Soldier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 1 monsters\nYou can only use the effect of \"Number 63: Shamoji Soldier\" once per turn. You can detach 1 Xyz Material from this card, then activate 1 of these effects;\n? At the start of your opponent\u0027s next Standby Phase, each player draws 1 card.\n? Each player gains 1000 Life Points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89642993.jpg"

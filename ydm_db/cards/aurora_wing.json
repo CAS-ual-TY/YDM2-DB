@@ -1,7 +1,8 @@
 {
   "id": 70089580,
   "name": "Aurora Wing",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon this card in face-up Attack Position. You can only use the effect of \"Aurora Wing\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70089580.jpg"

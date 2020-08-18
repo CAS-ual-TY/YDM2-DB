@@ -1,7 +1,8 @@
 {
   "id": 11549357,
   "name": "Gamma the Magnet Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Alpha, Beta, and Gamma meld as one to form a powerful monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11549357.jpg"

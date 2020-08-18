@@ -1,7 +1,8 @@
 {
   "id": 72929454,
   "name": "Turtle Bird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72929454.jpg"

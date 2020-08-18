@@ -1,7 +1,8 @@
 {
   "id": 16828633,
   "name": "Genex Spare",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, if you control another \"Genex\" monster, you can make this card\u0027s name \"Genex Controller\" until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16828633.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 58258899,
   "name": "TGX300",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All face-up monsters you control gain 300 ATK for each \"T.G.\" monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58258899.jpg"

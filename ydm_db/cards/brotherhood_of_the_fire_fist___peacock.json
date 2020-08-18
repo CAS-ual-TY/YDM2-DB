@@ -1,7 +1,8 @@
 {
   "id": 20265095,
   "name": "Brotherhood of the Fire Fist - Peacock",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 \"Fire Fist\" monsters\nWhile this card points to a \"Fire Fist\" monster, your opponent\u0027s monsters cannot target this card for attacks. When this card declares an attack: You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 monster your opponent controls; place that opponent\u0027s monster in a zone this card points to and take control of it until the End Phase, but it cannot declare an attack this turn. You can only use this effect of \"Brotherhood of the Fire Fist - Peacock\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20265095.jpg"

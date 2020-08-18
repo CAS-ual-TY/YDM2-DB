@@ -1,7 +1,8 @@
 {
   "id": 24882256,
   "name": "Fire Phoenix @Ignister",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2+ Cyberse monsters\nDuring damage calculation, if this card attacks: You can inflict damage to your opponent equal to this card\u0027s ATK, and if you do, your opponent takes no battle damage from that battle. If this card is destroyed by card effect: You can destroy 1 monster your opponent controls. During the next Standby Phase after this Link Summoned card was destroyed and sent to the GY: You can Special Summon this card from your GY. You can only use each effect of \"Fire Phoenix @Ignister\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24882256.jpg"

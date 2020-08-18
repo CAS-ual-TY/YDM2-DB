@@ -1,7 +1,8 @@
 {
   "id": 11460577,
   "name": "Etoile Cyber",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacks your opponent directly, it gains 500 ATK during the Damage Step only.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11460577.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 84636823,
   "name": "Spell Canceller",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Spell Cards, and their effects on the field, cannot be activated. Negate all Spell effects on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84636823.jpg"

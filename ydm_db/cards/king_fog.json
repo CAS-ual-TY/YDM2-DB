@@ -1,7 +1,8 @@
 {
   "id": 84686841,
   "name": "King Fog",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A fiend that dwells in a blinding curtain of smoke.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84686841.jpg"

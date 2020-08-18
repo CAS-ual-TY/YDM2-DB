@@ -1,7 +1,8 @@
 {
   "id": 40916023,
   "name": "Aqua Spirit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WATER monster in your Graveyard. During each of your opponent\u0027s Standby Phases, you can change the battle position of 1 of your opponent\u0027s face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40916023.jpg"

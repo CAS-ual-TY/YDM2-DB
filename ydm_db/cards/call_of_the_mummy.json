@@ -1,7 +1,8 @@
 {
   "id": 4861205,
   "name": "Call of the Mummy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can Special Summon 1 Zombie monster from your hand. You must control no monsters to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4861205.jpg"

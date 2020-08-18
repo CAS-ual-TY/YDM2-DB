@@ -1,7 +1,8 @@
 {
   "id": 91449144,
   "name": "Caam, Serenity of Gusto",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can shuffle 2 \"Gusto\" monsters from your Graveyard into the Main Deck; draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91449144.jpg"

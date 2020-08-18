@@ -1,7 +1,8 @@
 {
   "id": 38142739,
   "name": "Petit Angel",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A quick-moving and tiny fairy that\u0027s very difficult to hit.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38142739.jpg"

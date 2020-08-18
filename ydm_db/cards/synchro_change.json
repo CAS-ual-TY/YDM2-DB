@@ -1,7 +1,8 @@
 {
   "id": 36737092,
   "name": "Synchro Change",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Remove from play 1 face-up Synchro Monster you control. Special Summon 1 Synchro Monster from your Extra Deck whose Level is the same as the removed monster\u0027s. Its effect(s) is negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36737092.jpg"

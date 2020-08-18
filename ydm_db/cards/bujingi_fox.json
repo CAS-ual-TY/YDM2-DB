@@ -1,7 +1,8 @@
 {
   "id": 23857661,
   "name": "Bujingi Fox",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn: You can banish this card from your Graveyard and send 1 \"Bujin\" monster from your hand to the Graveyard; you take no damage this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23857661.jpg"

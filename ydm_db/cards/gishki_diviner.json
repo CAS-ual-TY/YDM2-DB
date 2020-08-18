@@ -1,7 +1,8 @@
 {
   "id": 72403299,
   "name": "Gishki Diviner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72403299.jpg"

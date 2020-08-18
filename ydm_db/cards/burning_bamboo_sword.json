@@ -1,7 +1,8 @@
 {
   "id": 55870497,
   "name": "Burning Bamboo Sword",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you activate a \"Bamboo Sword\" card while this card is already face-up in your Spell \u0026 Trap Zone: You can skip your opponent\u0027s next Main Phase 1.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55870497.jpg"

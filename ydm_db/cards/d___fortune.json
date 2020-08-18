@@ -1,7 +1,8 @@
 {
   "id": 9201964,
   "name": "D - Fortune",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent declares a direct attack: Banish 1 \"Destiny HERO\" monster from your Graveyard; end the Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9201964.jpg"

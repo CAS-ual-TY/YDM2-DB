@@ -1,7 +1,8 @@
 {
   "id": 5008836,
   "name": "Exodia, the Legendary Defender",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Special Summoned. You can Tribute 5 monsters to Tribute Summon (but not Set) this card. This card\u0027s ATK/DEF become the combined original ATK/DEF of the Tributed monsters. If this card Summoned this way destroys a DARK Fiend monster owned by your opponent, you win the Duel at the end of the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5008836.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 88819587,
   "name": "Baby Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Much more than just a child, this dragon is gifted with untapped power.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88819587.jpg"

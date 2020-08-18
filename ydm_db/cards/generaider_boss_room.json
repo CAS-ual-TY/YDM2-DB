@@ -1,7 +1,8 @@
 {
   "id": 64325438,
   "name": "Generaider Boss Room",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent activates a card or effect in response to the activation of your \"Generaider\" card or effect: You can discard 1 card; your opponent\u0027s activated effect becomes \"each player draws 1 card\". You can only use this effect of \"Generaider Boss Room\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64325438.jpg"

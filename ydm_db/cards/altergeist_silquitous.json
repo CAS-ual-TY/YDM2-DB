@@ -1,7 +1,8 @@
 {
   "id": 89538537,
   "name": "Altergeist Silquitous",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "(Quick Effect): You can return 1 other \"Altergeist\" card you control to the hand, then target 1 card your opponent controls; return it to the hand. If this card is sent from the field to the GY: You can target 1 \"Altergeist\" Trap in your GY; add that card to your hand. You can only use each effect of \"Altergeist Silquitous\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89538537.jpg"

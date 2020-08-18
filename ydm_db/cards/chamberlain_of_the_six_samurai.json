@@ -1,7 +1,8 @@
 {
   "id": 44430454,
   "name": "Chamberlain of the Six Samurai",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The Six Samurai are supported from the shadows by this silent and mysterious warrior. His past is unknown to them, but his countless scars are proof of his experience.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44430454.jpg"

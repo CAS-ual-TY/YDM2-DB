@@ -1,7 +1,8 @@
 {
   "id": 81380218,
   "name": "Chorus of Sanctuary",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Increase the DEF of all Defense Position monsters by 500 points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81380218.jpg"

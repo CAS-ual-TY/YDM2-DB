@@ -1,7 +1,8 @@
 {
   "id": 3682106,
   "name": "Double Snare",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Destroy 1 face-up card on the field that has an effect that negates Trap Cards\u0027 effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3682106.jpg"

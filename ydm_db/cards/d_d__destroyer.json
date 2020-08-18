@@ -1,7 +1,8 @@
 {
   "id": 44792253,
   "name": "D.D. Destroyer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card on the field is removed from play, you can select 1 face-up card your opponent controls and destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44792253.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 387282,
   "name": "Gagaga Sister",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can add 1 \"Gagaga\" Spell/Trap Card from your Deck to your hand. You can target 1 other \"Gagaga\" monster you control; the Levels of that monster and this card become their combined current Levels, until the end of this turn. You can only use this effect of \"Gagaga Sister\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/387282.jpg"

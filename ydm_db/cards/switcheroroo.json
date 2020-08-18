@@ -1,7 +1,8 @@
 {
   "id": 30426226,
   "name": "Switcheroroo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control the same number of monsters as your opponent, switch control of all those monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30426226.jpg"

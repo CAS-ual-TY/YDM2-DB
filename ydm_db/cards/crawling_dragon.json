@@ -1,7 +1,8 @@
 {
   "id": 67494157,
   "name": "Crawling Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67494157.jpg"

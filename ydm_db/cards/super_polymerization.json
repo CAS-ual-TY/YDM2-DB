@@ -1,7 +1,8 @@
 {
   "id": 48130397,
   "name": "Super Polymerization",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field as Fusion Material. Neither player can activate cards or effects in response to this card\u0027s activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48130397.jpg"

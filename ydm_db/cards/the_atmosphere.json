@@ -1,7 +1,8 @@
 {
   "id": 14466224,
   "name": "The Atmosphere",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 monsters you control and 1 monster from your Graveyard. Once per turn: You can target 1 face-up monster your opponent controls; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains ATK and DEF equal to the ATK and DEF of that equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14466224.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 39004808,
   "name": "Root Water",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39004808.jpg"

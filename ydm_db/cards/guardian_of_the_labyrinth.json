@@ -1,7 +1,8 @@
 {
   "id": 89272878,
   "name": "Guardian of the Labyrinth",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A monster that guards the entrance to the Netherworld.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89272878.jpg"

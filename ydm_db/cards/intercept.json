@@ -1,7 +1,8 @@
 {
   "id": 59695933,
   "name": "Intercept",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only when a monster is Tribute Summoned with 1 Tribute. Take control of that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59695933.jpg"

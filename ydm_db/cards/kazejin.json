@@ -1,7 +1,8 @@
 {
   "id": 62340868,
   "name": "Kazejin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During damage calculation in your opponent\u0027s turn, if this card is being attacked: You can target the attacking monster; make that target\u0027s ATK 0 during damage calculation only (this is a Quick Effect). This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62340868.jpg"

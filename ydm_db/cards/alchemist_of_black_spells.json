@@ -1,7 +1,8 @@
 {
   "id": 78121572,
   "name": "Alchemist of Black Spells",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can change this face-up Attack Position card you control to face-up Defense Position and place 1 Spell Counter on a face-up card you control that you can place a Spell Counter on.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78121572.jpg"

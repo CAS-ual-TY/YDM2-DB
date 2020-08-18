@@ -1,7 +1,8 @@
 {
   "id": 92170894,
   "name": "Performapal Longphone Bull",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Special Summoned: You can add 1 \"Performapal\" monster from your Deck to your hand, except a Pendulum Monster. You can only use this effect of \"Performapal Longphone Bull\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92170894.jpg"

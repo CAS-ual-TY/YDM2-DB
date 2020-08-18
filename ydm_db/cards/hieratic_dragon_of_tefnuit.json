@@ -1,7 +1,8 @@
 {
   "id": 77901552,
   "name": "Hieratic Dragon of Tefnuit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand, Deck, or GY, but make its ATK/DEF 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77901552.jpg"

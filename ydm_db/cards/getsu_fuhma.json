@@ -1,7 +1,8 @@
 {
   "id": 21887179,
   "name": "Getsu Fuhma",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21887179.jpg"

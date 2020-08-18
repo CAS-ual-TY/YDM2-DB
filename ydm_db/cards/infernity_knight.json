@@ -1,7 +1,8 @@
 {
   "id": 71341529,
   "name": "Infernity Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card on the field is destroyed and sent to the Graveyard: You can discard 2 cards; Special Summon this card from the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71341529.jpg"

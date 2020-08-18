@@ -1,7 +1,8 @@
 {
   "id": 72378329,
   "name": "Beast-Eyes Pendulum Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 DARK Dragon-Type monster + 1 Beast-Type monster\nMust be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use \"Polymerization\"), and cannot be Special Summoned by other ways. If this card destroys a monster by battle: Inflict damage to your opponent equal to the original ATK of the Beast-Type Fusion Material used for this card\u0027s Summon.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72378329.jpg"

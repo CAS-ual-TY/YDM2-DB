@@ -1,7 +1,8 @@
 {
   "id": 56526564,
   "name": "Break Off Trap Hole",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56526564.jpg"

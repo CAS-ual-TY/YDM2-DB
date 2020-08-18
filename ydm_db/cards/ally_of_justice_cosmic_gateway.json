@@ -1,7 +1,8 @@
 {
   "id": 8822710,
   "name": "Ally of Justice Cosmic Gateway",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent controls 2 or more monsters, including a LIGHT monster, you can Special Summon this card from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8822710.jpg"

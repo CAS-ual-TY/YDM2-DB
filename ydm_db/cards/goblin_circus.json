@@ -1,7 +1,8 @@
 {
   "id": 18658572,
   "name": "Goblin Circus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during your End Phase: Reveal the bottom card of your Deck, then place it on the top of the Deck or banish it face-down.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18658572.jpg"

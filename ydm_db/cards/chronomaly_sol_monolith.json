@@ -1,7 +1,8 @@
 {
   "id": 93543806,
   "name": "Chronomaly Sol Monolith",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can target 1 \"Chronomaly\" monster you control; its Level becomes 6. You cannot Special Summon any monsters during the turn you activate this effect, except \"Chronomaly\" monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93543806.jpg"

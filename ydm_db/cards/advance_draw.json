@@ -1,7 +1,8 @@
 {
   "id": 51630558,
   "name": "Advance Draw",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51630558.jpg"

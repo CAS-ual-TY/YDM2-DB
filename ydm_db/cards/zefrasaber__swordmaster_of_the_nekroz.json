@@ -1,7 +1,8 @@
 {
   "id": 84388461,
   "name": "Zefrasaber, Swordmaster of the Nekroz",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Tribute this card from your hand or face-up from your side of the field; Tribute monsters from your hand or field, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand whose Level exactly equals the total Levels of those monsters. You can only use this effect of \"Zefrasaber, Swordmaster of the Nekroz\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84388461.jpg"

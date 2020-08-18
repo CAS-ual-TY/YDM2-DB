@@ -1,7 +1,8 @@
 {
   "id": 17266660,
   "name": "Herald of Orange Light",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent activates a monster effect (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17266660.jpg"

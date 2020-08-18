@@ -1,7 +1,8 @@
 {
   "id": 93788854,
   "name": "The Wandering Doomed",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A monster that wanders the edges of the netherworld.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93788854.jpg"

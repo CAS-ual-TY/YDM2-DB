@@ -1,7 +1,8 @@
 {
   "id": 17415895,
   "name": "Volcanic Slicer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can inflict 500 damage to your opponent. If you activate this effect, this card cannot attack during this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17415895.jpg"

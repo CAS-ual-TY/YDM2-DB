@@ -1,7 +1,8 @@
 {
   "id": 5230799,
   "name": "Magical Musketeer Kidbrave",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card\u0027s column: You can discard 1 \"Magical Musket\" card; draw 2 cards. You can only use this effect of \"Magical Musketeer Kidbrave\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5230799.jpg"

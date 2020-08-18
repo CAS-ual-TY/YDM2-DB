@@ -1,7 +1,8 @@
 {
   "id": 26232916,
   "name": "Hidden Village of Ninjitsu Arts",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a \"Ninja\" monster is Summoned to your field: You can target 1 \"Ninja\" monster or 1 \"Ninjitsu Art\" card in your GY; add it to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. If a \"Ninja\" monster(s) or \"Ninjitsu Art\" card(s) you control would be destroyed by battle or an opponent\u0027s card effect, you can banish 1 \"Ninja\" monster from your GY instead. You can only use each effect of \"Hidden Village of Ninjitsu Arts\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26232916.jpg"

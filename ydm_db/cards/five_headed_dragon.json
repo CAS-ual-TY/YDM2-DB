@@ -1,7 +1,8 @@
 {
   "id": 99267150,
   "name": "Five-Headed Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "5 Dragon monsters\nMust be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99267150.jpg",

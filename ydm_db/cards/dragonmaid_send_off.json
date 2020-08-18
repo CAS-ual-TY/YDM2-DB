@@ -1,7 +1,8 @@
 {
   "id": 15754711,
   "name": "Dragonmaid Send-Off",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Dragonmaid\" monster you control; Special Summon 1 \"Dragonmaid\" monster with a different name from your hand, in Defense Position, and if you do, return that targeted monster to the hand. The Special Summoned monster cannot be destroyed by battle or card effects until the end of the next turn. You can only activate 1 \"Dragonmaid Send-Off\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15754711.jpg"

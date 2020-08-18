@@ -1,7 +1,8 @@
 {
   "id": 17733394,
   "name": "Wood Remains",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A living corpse of wood re-animated by the power of darkness.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17733394.jpg"

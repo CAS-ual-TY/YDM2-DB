@@ -1,7 +1,8 @@
 {
   "id": 86559484,
   "name": "Xyz-Raypierce",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can banish 1 Dragon-Type monster and 1 Wyrm-Type monster from your Graveyard; Special Summon 1 \"Xyz-Raypierce\" from your hand or Deck. If this card is sent from the field to the Graveyard: You can inflict 500 damage to your opponent. You can only use each effect of \"Xyz-Raypierce\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86559484.jpg"

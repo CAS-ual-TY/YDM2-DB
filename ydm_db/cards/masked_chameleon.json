@@ -1,7 +1,8 @@
 {
   "id": 53573406,
   "name": "Masked Chameleon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned if you control a Level 5 or higher monster. When this card is Normal Summoned: You can target 1 monster with 0 DEF in your Graveyard; Special Summon that target in face-up Defense Position. Its effects are negated. You cannot Special Summon any other monsters, except from the Extra Deck, during the turn you activate this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53573406.jpg"

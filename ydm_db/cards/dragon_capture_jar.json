@@ -1,7 +1,8 @@
 {
   "id": 50045299,
   "name": "Dragon Capture Jar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50045299.jpg"

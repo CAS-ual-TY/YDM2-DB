@@ -1,7 +1,8 @@
 {
   "id": 51275027,
   "name": "The Unhappy Maiden",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51275027.jpg"

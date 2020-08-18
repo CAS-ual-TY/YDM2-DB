@@ -1,7 +1,8 @@
 {
   "id": 44665365,
   "name": "Herald of Perfection",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with \"Dawn of the Herald\". During either player\u0027s turn, when your opponent activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44665365.jpg"

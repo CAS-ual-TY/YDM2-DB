@@ -1,7 +1,8 @@
 {
   "id": 84754430,
   "name": "Mekk-Knight Avram",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Check THIS out!\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84754430.jpg"

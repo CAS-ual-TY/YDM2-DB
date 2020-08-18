@@ -1,7 +1,8 @@
 {
   "id": 90488465,
   "name": "The Chaos Creator",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. If you control this card that was Special Summoned from the hand: You can target 3 banished monsters with different names; Special Summon 1 of them, then place the rest on the bottom of the Deck in any order. You can only use this effect of \"The Chaos Creator\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90488465.jpg"

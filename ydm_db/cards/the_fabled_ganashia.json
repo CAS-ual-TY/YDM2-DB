@@ -1,7 +1,8 @@
 {
   "id": 18282103,
   "name": "The Fabled Ganashia",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is discarded to the Graveyard, Special Summon it. If this card is Special Summoned this way, it gains 200 ATK and is removed from play when it is removed from the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18282103.jpg"

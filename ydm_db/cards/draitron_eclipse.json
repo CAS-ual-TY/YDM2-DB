@@ -1,10 +1,11 @@
 {
-  "id": 100425034,
+  "id": 100415034,
   "name": "Draitron Eclipse",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Draitron\" monster in your GY; add it to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Draitron\" monster you control; it gains 2000 ATK until the end of your opponent\u0027s turn. You can only use each effect of \"Draitron Eclipse\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/100425034.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100415034.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

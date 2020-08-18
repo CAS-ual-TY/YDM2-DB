@@ -1,7 +1,8 @@
 {
   "id": 88095331,
   "name": "Evoltile Najasho",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card on the field is Tributed: You can Special Summon 1 \"Evolsaur\" monster from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88095331.jpg"

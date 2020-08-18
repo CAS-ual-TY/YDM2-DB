@@ -1,7 +1,8 @@
 {
   "id": 47985614,
   "name": "Gadget Arms",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Select 1 \"Morphtronic\" Spell or Trap Card in your Graveyard and add it to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47985614.jpg"

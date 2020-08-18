@@ -1,7 +1,8 @@
 {
   "id": 98672567,
   "name": "Pot of Dichotomy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "At the start of your Main Phase 1: Target 3 monsters with different Types in your Graveyard; Shuffle all 3 into the Deck, then draw 2 cards. You cannot conduct your Battle Phase the turn you activate this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98672567.jpg"

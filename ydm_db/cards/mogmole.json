@@ -1,7 +1,8 @@
 {
   "id": 9861795,
   "name": "Mogmole",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card on the field is destroyed and sent to the Graveyard: You can Special Summon it from your Graveyard in face-up Defense Position. You can only use the effect of \"Mogmole\" once per Duel.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9861795.jpg"

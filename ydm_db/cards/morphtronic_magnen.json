@@ -1,7 +1,8 @@
 {
   "id": 29947751,
   "name": "Morphtronic Magnen",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "? While in Attack Position: If your opponent controls a face-up monster, this card can only select their highest ATK monster as an attack target. ? While in Defense Position: Your opponent cannot select another monster as an attack target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29947751.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 50916353,
   "name": "Chthonian Soldier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by an opponent\u0027s attacking monster and sent to the Graveyard, the Battle Damage you took from this battle is also inflicted to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50916353.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 88409165,
   "name": "Abyss Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can discard 1 WATER monster to the Graveyard, then target 1 monster in either player\u0027s Graveyard; return that target to either the top or bottom of the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88409165.jpg"

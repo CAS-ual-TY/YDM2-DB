@@ -1,7 +1,8 @@
 {
   "id": 86871614,
   "name": "Cloning",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent Normal or Flip Summons a monster that has a Level: Target that face-up monster; Special Summon 1 \"Clone Token\", with the same original Type, Attribute, Level, ATK, and DEF as that target. When that target is destroyed and sent to the GY, destroy this Token.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86871614.jpg"

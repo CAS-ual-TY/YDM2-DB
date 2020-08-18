@@ -1,7 +1,8 @@
 {
   "id": 95561280,
   "name": "Poisonous Winds",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "WIND monsters cannot be Special Summoned. All face-up WIND monsters on the field lose 500 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95561280.jpg"

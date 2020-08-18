@@ -1,7 +1,8 @@
 {
   "id": 83446909,
   "name": "Batteryman Charger",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned, you can Special Summon 1 \"Batteryman\" monster, except \"Batteryman Charger\", from your hand or Deck. This card gains 300 ATK and DEF for each Thunder-Type monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83446909.jpg"

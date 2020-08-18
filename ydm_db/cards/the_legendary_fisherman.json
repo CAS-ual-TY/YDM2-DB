@@ -1,7 +1,8 @@
 {
   "id": 3643300,
   "name": "The Legendary Fisherman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While \"Umi\" is on the field, this card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3643300.jpg"

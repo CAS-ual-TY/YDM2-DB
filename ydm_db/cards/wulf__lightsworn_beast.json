@@ -1,7 +1,8 @@
 {
   "id": 58996430,
   "name": "Wulf, Lightsworn Beast",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY: Special Summon it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58996430.jpg"

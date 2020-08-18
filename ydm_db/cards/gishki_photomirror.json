@@ -1,7 +1,8 @@
 {
   "id": 9236985,
   "name": "Gishki Photomirror",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also pay Life Points equal to the Level of the Ritual Summoned monster x 500 (when this card resolves).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9236985.jpg"

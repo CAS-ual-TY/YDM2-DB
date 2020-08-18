@@ -1,7 +1,8 @@
 {
   "id": 38277918,
   "name": "Mikazukinoyaiba",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A dragon warrior of the moon armed with a crescent sword.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38277918.jpg"

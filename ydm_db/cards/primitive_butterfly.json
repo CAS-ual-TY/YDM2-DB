@@ -1,7 +1,8 @@
 {
   "id": 98154550,
   "name": "Primitive Butterfly",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can increase the Levels of all Insect-Type monsters you currently control by 1.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98154550.jpg"

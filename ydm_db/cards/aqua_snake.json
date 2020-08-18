@@ -1,7 +1,8 @@
 {
   "id": 12436646,
   "name": "Aqua Snake",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12436646.jpg"

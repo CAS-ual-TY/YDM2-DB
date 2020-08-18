@@ -1,7 +1,8 @@
 {
   "id": 96227613,
   "name": "Supreme King Gate Zero",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can target 1 other face-up card you control; destroy both it and this card, and if you do, Special Summon 1 Dragon-Type Fusion or Synchro Monster from your Extra Deck, but its ATK and DEF become 0, it has its effects negated, also it cannot be used as a Material for a Synchro or Xyz Summon. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96227613.jpg"

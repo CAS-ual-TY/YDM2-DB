@@ -1,7 +1,8 @@
 {
   "id": 33041277,
   "name": "Cyber Revsystem",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Special Summon 1 \"Cyber Dragon\" from your hand or GY. It cannot be destroyed by card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33041277.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 3819470,
   "name": "Seven Tools of the Bandit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3819470.jpg"

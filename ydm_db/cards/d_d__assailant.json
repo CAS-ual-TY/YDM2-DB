@@ -1,7 +1,8 @@
 {
   "id": 70074904,
   "name": "D.D. Assailant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "After damage calculation, when this card is destroyed by battle with an opponent\u0027s monster: Banish that monster, also banish this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70074904.jpg"

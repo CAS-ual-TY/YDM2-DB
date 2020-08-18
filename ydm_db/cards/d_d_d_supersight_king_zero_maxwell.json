@@ -1,7 +1,8 @@
 {
   "id": 76029419,
   "name": "D/D/D Supersight King Zero Maxwell",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Before damage calculation, if this card attacked an opponent\u0027s Defense Position monster: You can change the DEF of the opponent\u0027s monster to 0 until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. You take no battle damage from attacks involving this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76029419.jpg"

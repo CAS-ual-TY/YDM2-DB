@@ -1,7 +1,8 @@
 {
   "id": 77527210,
   "name": "Soul of Purity and Light",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 LIGHT monsters in your Graveyard. All monsters your opponent controls lose 300 ATK during their Battle Phase only.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77527210.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 39765115,
   "name": "Splash Capture",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent Xyz Summons: Banish 2 Fish-Type monsters from your Graveyard to target that face-up Xyz Monster; take control of that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39765115.jpg"

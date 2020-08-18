@@ -1,7 +1,8 @@
 {
   "id": 68144350,
   "name": "Battlin\u0027 Boxer Switchitter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can target 1 \"Battlin\u0027 Boxer\" monster in your Graveyard; Special Summon that target. You cannot Special Summon any monsters during the turn you activate this effect, except \"Battlin\u0027 Boxer\" monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68144350.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 15023985,
   "name": "Stone Ogre Grotto",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A behemoth shaped by giant boulders.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15023985.jpg"

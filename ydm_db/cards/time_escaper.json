@@ -1,7 +1,8 @@
 {
   "id": 73625877,
   "name": "Time Escaper",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn: You can discard this card, then target 1 Psychic-Type monster you control; banish it until your next Standby Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73625877.jpg"

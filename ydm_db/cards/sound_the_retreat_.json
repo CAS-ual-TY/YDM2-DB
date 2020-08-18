@@ -1,7 +1,8 @@
 {
   "id": 81665333,
   "name": "Sound the Retreat!",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Return all monsters you control to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81665333.jpg"

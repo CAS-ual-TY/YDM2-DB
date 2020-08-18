@@ -1,7 +1,8 @@
 {
   "id": 76103675,
   "name": "Sparks",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Inflict 200 points of damage to your opponent\u0027s Life Points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76103675.jpg"

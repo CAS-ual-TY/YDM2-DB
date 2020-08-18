@@ -1,7 +1,8 @@
 {
   "id": 35073065,
   "name": "Illusory Snatcher",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When you Tribute Summon a monster: You can Special Summon this card from your hand, and if you do, the Type, Attribute, and Level of this card become the same as that face-up Tribute Summoned monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35073065.jpg"

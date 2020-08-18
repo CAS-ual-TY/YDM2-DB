@@ -1,7 +1,8 @@
 {
   "id": 2158562,
   "name": "Cyber Prima",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Tribute Summoned: Destroy all face-up Spell Cards on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2158562.jpg"

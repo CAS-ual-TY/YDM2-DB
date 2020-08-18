@@ -1,7 +1,8 @@
 {
   "id": 90673288,
   "name": "Sky Striker Ace - Shizuku",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 non-WATER \"Sky Striker Ace\" monster\nMonsters your opponent controls lose 100 ATK/DEF for each Spell in your GY. Once per turn, during the End Phase, if this card was Special Summoned this turn: You can add 1 \"Sky Striker\" Spell from your Deck to your hand, with a name different from the cards in your GY. You can only Special Summon \"Sky Striker Ace - Shizuku(s)\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90673288.jpg"

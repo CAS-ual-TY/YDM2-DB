@@ -1,7 +1,8 @@
 {
   "id": 53842431,
   "name": "Mythical Beast Master Cerberus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Cannot be destroyed by card effects while 4 or more Spell Counters are on your field. Once per turn: You can remove 4 Spell Counters from your field, then target 1 monster your opponent controls; banish it face-up, and if you do, this card gains ATK equal to the banished monster\u0027s original ATK until the end of the opponent\u0027s turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53842431.jpg"

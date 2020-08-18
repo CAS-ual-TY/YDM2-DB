@@ -1,7 +1,8 @@
 {
   "id": 7030340,
   "name": "Factory of 100 Machines",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Remove from play all \"Morphtronic\" monsters from your Graveyard. Target face-up Machine-Type monster you control gains 200 ATK for each card removed, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7030340.jpg"

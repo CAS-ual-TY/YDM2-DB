@@ -1,7 +1,8 @@
 {
   "id": 17238333,
   "name": "Wretched Ghost of the Attic",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A harmless monster found lurking in just about any attic.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17238333.jpg"

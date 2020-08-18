@@ -1,7 +1,8 @@
 {
   "id": 43857222,
   "name": "Magicalibra",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43857222.jpg"

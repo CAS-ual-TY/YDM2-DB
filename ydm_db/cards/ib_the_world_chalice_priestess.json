@@ -1,7 +1,8 @@
 {
   "id": 77610772,
   "name": "Ib the World Chalice Priestess",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 monsters with different Types and Attributes\nThis linked card cannot be destroyed by battle or card effects. Your opponent cannot target this linked card with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77610772.jpg"

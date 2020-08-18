@@ -1,7 +1,8 @@
 {
   "id": 57579381,
   "name": "Darklord Marie",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57579381.jpg"

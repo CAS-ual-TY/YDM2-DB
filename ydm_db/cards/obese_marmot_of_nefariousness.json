@@ -1,7 +1,8 @@
 {
   "id": 56713552,
   "name": "Obese Marmot of Nefariousness",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An ill-mannered field varmint that will sink its teeth into anything.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56713552.jpg"

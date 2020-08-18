@@ -1,7 +1,8 @@
 {
   "id": 69408987,
   "name": "Spider Web",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a monster declares an attack, it is changed to Defense Position at the end of the Damage Step. It cannot change its battle position until the End Phase of its controller\u0027s next turn, while this card remains on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69408987.jpg"

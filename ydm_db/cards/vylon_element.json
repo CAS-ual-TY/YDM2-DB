@@ -1,7 +1,8 @@
 {
   "id": 92035412,
   "name": "Vylon Element",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When any face-up \"Vylon\" Equip Card(s) you control are destroyed (except during the Damage Step): You can Special Summon an equal or lower number of \"Vylon\" Tuner monsters from your Deck. They cannot be used as Synchro Material Monsters, except for the Synchro Summon of a \"Vylon\" Synchro Monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92035412.jpg"

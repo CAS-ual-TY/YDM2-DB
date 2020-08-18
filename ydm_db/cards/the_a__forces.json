@@ -1,7 +1,8 @@
 {
   "id": 403847,
   "name": "The A. Forces",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/403847.jpg"

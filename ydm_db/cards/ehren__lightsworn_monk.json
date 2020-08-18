@@ -1,7 +1,8 @@
 {
   "id": 44178886,
   "name": "Ehren, Lightsworn Monk",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacks a Defense Position monster, before damage calculation: Shuffle that monster into the Deck. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44178886.jpg"

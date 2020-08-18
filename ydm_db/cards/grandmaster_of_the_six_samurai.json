@@ -1,7 +1,8 @@
 {
   "id": 83039729,
   "name": "Grandmaster of the Six Samurai",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only control 1 \"Grandmaster of the Six Samurai\". If you control a \"Six Samurai\" monster, you can Special Summon this card (from your hand). If this card in your possession is destroyed by an opponent\u0027s card effect: Target 1 \"Six Samurai\" monster in your GY; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83039729.jpg"

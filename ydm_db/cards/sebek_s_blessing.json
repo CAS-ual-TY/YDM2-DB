@@ -1,7 +1,8 @@
 {
   "id": 22537443,
   "name": "Sebek\u0027s Blessing",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your monster inflicts battle damage to your opponent by a direct attack: Gain the same amount of LP.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22537443.jpg"

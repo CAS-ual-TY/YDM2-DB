@@ -1,7 +1,8 @@
 {
   "id": 57935140,
   "name": "Tenderness",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An adorable fairy that celebrates the gift of love.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57935140.jpg"

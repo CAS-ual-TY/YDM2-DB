@@ -1,7 +1,8 @@
 {
   "id": 22076135,
   "name": "Mermail Abyssturge",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Special Summoned: You can discard 1 WATER monster to the Graveyard, then target 1 Level 3 or lower WATER monster in your Graveyard; add that target to your hand. You can only use the effect of \"Mermail Abyssturge\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22076135.jpg"

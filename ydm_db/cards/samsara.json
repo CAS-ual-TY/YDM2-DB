@@ -1,7 +1,8 @@
 {
   "id": 44182827,
   "name": "Samsara",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Monster Cards Tributed for a Ritual Summon are returned to the owner\u0027s Deck instead of being sent to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44182827.jpg"

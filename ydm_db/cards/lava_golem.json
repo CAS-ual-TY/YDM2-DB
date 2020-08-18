@@ -1,7 +1,8 @@
 {
   "id": 102380,
   "name": "Lava Golem",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent\u0027s field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/102380.jpg"

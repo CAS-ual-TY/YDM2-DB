@@ -1,7 +1,8 @@
 {
   "id": 64306248,
   "name": "Skull-Mark Ladybug",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is sent to the Graveyard, increase your Life Points by 1000 points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64306248.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 68535320,
   "name": "Fire Hand",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card in your possession is destroyed by your opponent\u0027s card (by battle or card effect) and sent to your Graveyard: You can target 1 monster they control; destroy that target, then you can Special Summon 1 \"Ice Hand\" from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68535320.jpg"

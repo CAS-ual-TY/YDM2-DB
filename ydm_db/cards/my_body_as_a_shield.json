@@ -1,7 +1,8 @@
 {
   "id": 69279219,
   "name": "My Body as a Shield",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field: Pay 1500 LP; negate the activation, and if you do, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69279219.jpg"

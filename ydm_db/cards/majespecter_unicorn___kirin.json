@@ -1,7 +1,8 @@
 {
   "id": 31178212,
   "name": "Majespecter Unicorn - Kirin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn: You can target 1 Pendulum Monster in your Monster Zone and 1 monster your opponent controls; return them to the hand(s). You can only use this effect of \"Majespecter Unicorn - Kirin\" once per turn. Cannot be targeted or destroyed by your opponent\u0027s card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31178212.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 41230939,
   "name": "Cyberdark Horn",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41230939.jpg"

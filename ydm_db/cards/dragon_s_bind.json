@@ -1,7 +1,8 @@
 {
   "id": 16278116,
   "name": "Dragon\u0027s Bind",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate this card by targeting 1 Dragon-Type monster you control with 2500 or less ATK and DEF; neither player can Special Summon monsters with ATK less than or equal to the original ATK of that monster. When that monster leaves the field, destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16278116.jpg"

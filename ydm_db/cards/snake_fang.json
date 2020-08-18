@@ -1,7 +1,8 @@
 {
   "id": 596051,
   "name": "Snake Fang",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Decrease 1 selected monster\u0027s DEF by 500 points during the turn this card is activated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/596051.jpg"

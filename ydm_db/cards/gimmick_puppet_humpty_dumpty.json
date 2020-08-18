@@ -1,7 +1,8 @@
 {
   "id": 8226374,
   "name": "Gimmick Puppet Humpty Dumpty",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Special Summoned: You can Special Summon 1 \"Gimmick Puppet\" monster from your hand. You can only use this effect of \"Gimmick Puppet Humpty Dumpty\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8226374.jpg"

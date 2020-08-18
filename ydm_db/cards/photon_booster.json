@@ -1,7 +1,8 @@
 {
   "id": 71233859,
   "name": "Photon Booster",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 Level 4 or lower LIGHT monster on the field, except a Token; the ATK of all monsters currently on the field with its name become 2000, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71233859.jpg"

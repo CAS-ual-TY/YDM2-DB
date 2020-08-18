@@ -1,10 +1,11 @@
 {
-  "id": 101102063,
+  "id": 85325774,
   "name": "Dark World Reinforcements",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 Level 4 or lower Fiend monster in your GY; Special Summon it, then discard 1 Fiend monster. You can only activate 1 \"Dark World Reinforcements\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/101102063.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85325774.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -1,7 +1,8 @@
 {
   "id": 89997728,
   "name": "Toon Table of Contents",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Add 1 \"Toon\" card from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89997728.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 80441106,
   "name": "Keldo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed and sent to the Graveyard as a result of battle, select 2 cards from your opponent\u0027s Graveyard, add them to your opponent\u0027s Deck and the Deck is then shuffled.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80441106.jpg"

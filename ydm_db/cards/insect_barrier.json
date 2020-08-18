@@ -1,7 +1,8 @@
 {
   "id": 23615409,
   "name": "Insect Barrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Insect-Type monsters your opponent controls cannot declare an attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23615409.jpg"

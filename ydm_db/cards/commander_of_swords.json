@@ -1,7 +1,8 @@
 {
   "id": 12197543,
   "name": "Commander of Swords",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent draws for their normal draw in their Draw Phase: They reveal the card(s) they drew, then if any is a Spell/Trap Card, you apply 1 of these effects.\n? Discard all cards they drew.\n? Destroy 1 Spell/Trap Card they control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12197543.jpg"

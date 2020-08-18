@@ -1,7 +1,8 @@
 {
   "id": 51011872,
   "name": "Trickstar Crimson Heart",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 \"Trickstar\" monsters\nEach time a \"Trickstar\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, gain 200 LP. You can discard 1 \"Trickstar\" card; both players draw 1 card, but if your LP was at least 2000 higher than your opponent\u0027s when this effect was activated, you draw 2 cards instead. You can only use this effect of \"Trickstar Crimson Heart\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51011872.jpg"

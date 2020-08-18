@@ -1,7 +1,8 @@
 {
   "id": 5309481,
   "name": "Revived King Ha Des",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Plaguespreader Zombie\" + 1 or more non-Tuner Zombie-Type monsters\nNegate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5309481.jpg"

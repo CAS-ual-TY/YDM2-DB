@@ -1,7 +1,8 @@
 {
   "id": 19182751,
   "name": "Genex Neutron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Machine-Type Tuner monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19182751.jpg"

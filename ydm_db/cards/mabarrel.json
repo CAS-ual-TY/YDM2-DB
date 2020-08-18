@@ -1,7 +1,8 @@
 {
   "id": 98795934,
   "name": "Mabarrel",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This cannon-like creature fires eyeballs so fast they can\u0027t be seen.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98795934.jpg"

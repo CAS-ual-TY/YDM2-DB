@@ -1,7 +1,8 @@
 {
   "id": 81618817,
   "name": "Lord of Zemia",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A wicked entity that manipulates enemies towards a path of destruction.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81618817.jpg"

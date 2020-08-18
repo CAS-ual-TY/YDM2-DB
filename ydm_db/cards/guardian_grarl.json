@@ -1,7 +1,8 @@
 {
   "id": 47150851,
   "name": "Guardian Grarl",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Summoned unless you control a face-up \"Gravity Axe - Grarl\". If this is the only card in your hand, you can Special Summon it (from your hand).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47150851.jpg"

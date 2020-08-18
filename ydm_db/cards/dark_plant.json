@@ -1,7 +1,8 @@
 {
   "id": 13193642,
   "name": "Dark Plant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This mutant flower draws its power from pollutants and the dark forces.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13193642.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 59156966,
   "name": "Golden Gearbox",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Select 1 face-up \"Karakuri\" monster on the field. It gains 500 ATK and 1500 DEF, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59156966.jpg"

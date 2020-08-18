@@ -1,7 +1,8 @@
 {
   "id": 69633792,
   "name": "Evolsaur Terias",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: This card loses 500 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69633792.jpg"

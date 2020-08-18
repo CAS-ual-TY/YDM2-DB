@@ -1,7 +1,8 @@
 {
   "id": 65471349,
   "name": "Psycho Bounder",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal or Special Summoned: You can add 1 \"Jinzo\", or 1 Spell/Trap that specifically lists that name in its text, from your Deck to your hand. Before damage calculation, if another monster you control is attacked by an opponent\u0027s monster: You can destroy both the attacking monster and this card. You can only use each effect of \"Psycho Bounder\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65471349.jpg"

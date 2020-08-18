@@ -1,7 +1,8 @@
 {
   "id": 52551211,
   "name": "Shaddoll Hound",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: You can target 1 \"Shaddoll\" card in your GY; add it to your hand.\nIf this card is sent to the GY by a card effect: You can target 1 monster on the field; change its battle position. (Flip monsters\u0027 effects are not activated at this time, except \"Shaddoll\" monsters\u0027.) You can only use 1 \"Shaddoll Hound\" effect per turn, and only once that turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52551211.jpg"

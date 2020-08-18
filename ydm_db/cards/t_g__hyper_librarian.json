@@ -1,7 +1,8 @@
 {
   "id": 90953320,
   "name": "T.G. Hyper Librarian",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nIf a monster is Synchro Summoned: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90953320.jpg"

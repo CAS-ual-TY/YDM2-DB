@@ -1,7 +1,8 @@
 {
   "id": 8437145,
   "name": "Void Seer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Infernoid\" monster you control; that target is unaffected by the opponent\u0027s card effects this turn. If an \"Infernoid\" monster(s) you control would be destroyed by a card effect, you can banish this card from your Graveyard instead of destroying 1 of those monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8437145.jpg"

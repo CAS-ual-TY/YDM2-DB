@@ -1,7 +1,8 @@
 {
   "id": 66337215,
   "name": "Herald of Creation",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66337215.jpg"

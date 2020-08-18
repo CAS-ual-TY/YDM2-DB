@@ -1,7 +1,8 @@
 {
   "id": 4230620,
   "name": "Psi-Station",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Psychic-Type monster is Normal Summoned: You can pay 500 LP; increase its Level by 1 and ATK by 300. (This remains even if this card leaves the field.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4230620.jpg"

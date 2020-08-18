@@ -1,7 +1,8 @@
 {
   "id": 78527720,
   "name": "Prinzessin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Pumpkin Carriage\" from your hand or Deck, then, if \"Golden Castle of Stromberg\" is in a Field Zone, you can equip 1 \"Glass Slippers\" from your Deck to this card. You can only use this effect of \"Prinzessin\" once per turn. When this card inflicts battle damage to your opponent by a direct attack: You can target 1 \"Glass Slippers\" equipped to this card and 1 face-up monster on the field; equip that \"Glass Slippers\" to that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78527720.jpg"

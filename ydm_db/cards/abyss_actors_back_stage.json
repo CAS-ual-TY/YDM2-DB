@@ -1,7 +1,8 @@
 {
   "id": 59057953,
   "name": "Abyss Actors Back Stage",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you have 2 \"Abyss Actor\" cards in your Pendulum Zones: Add 2 \"Abyss Actor\" Pendulum Monsters with different names from your Deck to your Extra Deck face-up. You can only activate 1 \"Abyss Actors Back Stage\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59057953.jpg"

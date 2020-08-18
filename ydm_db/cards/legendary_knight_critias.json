@@ -1,7 +1,8 @@
 {
   "id": 85800949,
   "name": "Legendary Knight Critias",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. When this card is targeted for an attack: You can target 1 Trap in your GY; Set that target. It can be activated this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85800949.jpg"

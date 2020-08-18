@@ -1,7 +1,8 @@
 {
   "id": 78783370,
   "name": "Barrel Behind the Door",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only when a card\u0027s effect that would inflict damage to you is activated. Your opponent takes the damage instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78783370.jpg"

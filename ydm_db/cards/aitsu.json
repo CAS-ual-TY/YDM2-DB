@@ -1,7 +1,8 @@
 {
   "id": 48202661,
   "name": "Aitsu",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "He seems to be very unreliable, but he might have incredible potential.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48202661.jpg"

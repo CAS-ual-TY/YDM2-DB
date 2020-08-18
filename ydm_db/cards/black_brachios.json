@@ -1,7 +1,8 @@
 {
   "id": 50896944,
   "name": "Black Brachios",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can target 1 monster on the field; change that target to face-up Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50896944.jpg"

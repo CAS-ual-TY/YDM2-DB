@@ -1,7 +1,8 @@
 {
   "id": 68007326,
   "name": "Guardian Angel Joan",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the original ATK of that destroyed monster in the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68007326.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 45945685,
   "name": "Cycroid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45945685.jpg"

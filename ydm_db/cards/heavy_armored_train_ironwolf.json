@@ -1,7 +1,8 @@
 {
   "id": 49121795,
   "name": "Heavy Armored Train Ironwolf",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 4 Machine-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Machine-Type monster you control; this turn, it can attack your opponent directly, also other monsters cannot attack. If this card in your possession is destroyed by an opponent\u0027s card (by battle or card effect) and sent to your Graveyard: You can add 1 Level 4 Machine-Type monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49121795.jpg"

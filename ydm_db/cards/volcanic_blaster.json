@@ -1,7 +1,8 @@
 {
   "id": 81020140,
   "name": "Volcanic Blaster",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed and sent to the Graveyard by battle, you can place 1 \"Volcanic\" monster in your Deck on top of your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81020140.jpg"

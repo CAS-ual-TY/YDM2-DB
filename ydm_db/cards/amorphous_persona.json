@@ -1,7 +1,8 @@
 {
   "id": 23160024,
   "name": "Amorphous Persona",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All \"Amorphage\" monsters on the field gain 300 ATK and DEF. Up to twice per turn, if an \"Amorphage\" monster(s) you control is Tributed, draw 1 card. You can banish this card from your Graveyard; Tribute Pendulum Monsters from your hand or field whose total Levels exactly equal 8, then Ritual Summon 1 \"Amorphactor Pain, the Imagination Dracoverlord\" from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23160024.jpg"

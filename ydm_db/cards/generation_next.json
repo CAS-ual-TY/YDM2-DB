@@ -1,7 +1,8 @@
 {
   "id": 85787173,
   "name": "Generation Next",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your LP are lower than your opponent\u0027s: Add to your hand, or Special Summon, 1 \"Elemental HERO\" monster, \"Kuriboh\" monster, or \"Neo-Spacian\" monster from your Deck or GY, with ATK less than or equal to the difference in LPs, also for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as that card. You can only activate 1 \"Generation Next\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85787173.jpg"

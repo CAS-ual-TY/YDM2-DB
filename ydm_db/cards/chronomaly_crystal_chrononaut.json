@@ -1,7 +1,8 @@
 {
   "id": 93730230,
   "name": "Chronomaly Crystal Chrononaut",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 3 monsters\nOnce per turn, when this card is targeted for an attack: You can detach 1 Xyz Material from this card; this turn, this card cannot be destroyed by battle or by card effects, also your opponent takes any Battle Damage you would have taken from battles involving this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93730230.jpg"

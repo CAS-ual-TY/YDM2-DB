@@ -1,7 +1,8 @@
 {
   "id": 71415349,
   "name": "Humpty Grumpty",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: It gains 800 ATK until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71415349.jpg"

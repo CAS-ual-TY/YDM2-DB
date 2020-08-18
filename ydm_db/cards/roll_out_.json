@@ -1,7 +1,8 @@
 {
   "id": 91597389,
   "name": "Roll Out!",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 Union monster in your Graveyard; equip that target to a monster you control that would be an appropriate target for that Union monster\u0027s effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91597389.jpg"

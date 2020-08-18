@@ -1,7 +1,8 @@
 {
   "id": 1689516,
   "name": "The Big March of Animals",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Until the end of this turn, all face-up Beast-Type monsters on your side of the field gain 200 ATK for each Beast-Type monster on your side of the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1689516.jpg"

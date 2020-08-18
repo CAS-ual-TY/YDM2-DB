@@ -1,7 +1,8 @@
 {
   "id": 35262428,
   "name": "Wiseman\u0027s Chalice",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control no monsters, select 1 monster in your opponent\u0027s Graveyard. Special Summon it. During the End Phase of this turn, give control of that Special Summoned monster to your opponent. The monster cannot be Tributed, or used as a Synchro Material Monster, while it is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35262428.jpg"

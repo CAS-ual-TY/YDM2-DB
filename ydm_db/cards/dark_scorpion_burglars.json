@@ -1,7 +1,8 @@
 {
   "id": 40933924,
   "name": "Dark Scorpion Burglars",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card inflicts Battle Damage to your opponent: Your opponent sends 1 Spell Card from their Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40933924.jpg"

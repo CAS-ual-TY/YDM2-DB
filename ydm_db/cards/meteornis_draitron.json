@@ -1,10 +1,11 @@
 {
-  "id": 100425032,
+  "id": 100415032,
   "name": "Meteornis Draitron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can be used to Ritual Summon any 1 Ritual Monster from your hand or GY. You must also Tribute Machine monsters from your hand or field whose total ATK equal or exceed the ATK of the Ritual Monster you Ritual Summon. If this card is in your GY: You can target 1 \"Draitron\" monster you control; until the end of your opponent\u0027s next turn, it loses exactly 1000 ATK, and if it does, add this card to your hand. You can only use this effect of \"Meteornis Draitron\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/100425032.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100415032.jpg"
   ],
   "type": "Spell",
   "spell_type": "Ritual"

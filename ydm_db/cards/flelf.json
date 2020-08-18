@@ -1,7 +1,8 @@
 {
   "id": 61807040,
   "name": "Flelf",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can reveal 1 monster in your hand; increase the Level of this card by the Level of that monster, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61807040.jpg"

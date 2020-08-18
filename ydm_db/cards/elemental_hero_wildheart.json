@@ -1,7 +1,8 @@
 {
   "id": 86188410,
   "name": "Elemental HERO Wildheart",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card is unaffected by Trap effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86188410.jpg"

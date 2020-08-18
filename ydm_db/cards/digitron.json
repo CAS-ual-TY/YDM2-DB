@@ -1,7 +1,8 @@
 {
   "id": 32295838,
   "name": "Digitron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A subspecies found in electronic space. There\u0027s little information on it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32295838.jpg"

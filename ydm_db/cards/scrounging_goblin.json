@@ -1,7 +1,8 @@
 {
   "id": 12152769,
   "name": "Scrounging Goblin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card inflicts battle damage to your opponent: They can hand you 1 card from their hand to negate this effect, otherwise you add 1 \"Goblin\" card from your Deck to your hand, except \"Goblin Fan\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12152769.jpg"

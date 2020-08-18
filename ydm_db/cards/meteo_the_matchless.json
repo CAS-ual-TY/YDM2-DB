@@ -1,7 +1,8 @@
 {
   "id": 501000001,
   "name": "Meteo the Matchless",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Special Summoned. This card must be Tribute Summoned by offering 3 Beast-Warrior-Type monsters on your side of the field as Tributes. If this card attacks your opponent\u0027s Life Points directly and makes them 0, the controller of this card wins the Match. ",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/501000001.jpg"

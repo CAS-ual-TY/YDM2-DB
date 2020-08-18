@@ -1,7 +1,8 @@
 {
   "id": 69320362,
   "name": "Legendary Wind-Up Key",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Change all face-up \"Wind-Up\" monsters you control to face-down Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69320362.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 26864586,
   "name": "Resonance Device",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 2 face-up monsters you control with the same Type and Attribute; change one of their Levels to the current Level of the other, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26864586.jpg"

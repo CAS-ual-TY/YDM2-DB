@@ -1,7 +1,8 @@
 {
   "id": 22009013,
   "name": "Steelswarm Moth",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target up to 2 cards your opponent controls; return those targets to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22009013.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 75498415,
   "name": "Blackwing - Sirocco the Dawn",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent controls a monster and you control no monsters, you can Normal Summon/Set this card without Tributing. Once per turn, during your Main Phase 1: You can target 1 \"Blackwing\" monster you control; until the end of this turn, it gains ATK equal to the total ATK of all \"Blackwing\" monsters currently on the field, except itself. Monsters other than the targeted monster cannot attack during the turn you activate this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75498415.jpg"

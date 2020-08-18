@@ -1,7 +1,8 @@
 {
   "id": 88540324,
   "name": "Salamangreat Claw",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to a \"Salamangreat\" monster. The equipped monster cannot be destroyed by battle or card effects, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If the equipped monster is a \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material, during each Battle Phase it can make attacks on monsters up to its Link Rating. You can only control 1 \"Salamangreat Claw\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88540324.jpg"

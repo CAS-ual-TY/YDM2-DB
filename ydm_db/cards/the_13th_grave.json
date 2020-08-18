@@ -1,7 +1,8 @@
 {
   "id": 32864,
   "name": "The 13th Grave",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A zombie that suddenly appeared from plot #13 - an empty grave.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32864.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 28348939,
   "name": "White Tiger Summoner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Normal Monster from your hand. All monsters you control gain 100 ATK and DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28348939.jpg"

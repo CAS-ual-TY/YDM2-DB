@@ -1,7 +1,8 @@
 {
   "id": 88513608,
   "name": "Card of Sacrifice",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Draw 2 cards, if the combined ATK of all your face-up Attack Position monsters (minimum 2) is less than the ATK of your opponent\u0027s face-up monster with the lowest ATK. You cannot Summon or change Battle Position the turn you activate this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88513608.jpg"

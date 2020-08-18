@@ -1,7 +1,8 @@
 {
   "id": 45305419,
   "name": "Symbol of Heritage",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only while there are 3 Monster Cards with the same name in your Graveyard. Select 1 of those monsters, Special Summon it, and equip it with this card. When this card is destroyed, destroy the equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45305419.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 82962242,
   "name": "Vampire Vamp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, when this card or a \"Vampire\" monster is Normal Summoned to your field: You can target 1 face-up monster your opponent controls, whose ATK is higher than this card\u0027s; equip it to this card. This card gains ATK equal to the combined original ATK of the monsters equipped to it by this effect. If this card is sent to the GY, while equipped with a card(s) by this effect: Special Summon this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82962242.jpg"

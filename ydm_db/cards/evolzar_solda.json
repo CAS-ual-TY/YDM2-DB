@@ -1,7 +1,8 @@
 {
   "id": 18511599,
   "name": "Evolzar Solda",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 6 Dinosaur-Type monsters\nThis card cannot be destroyed by card effects while it has Xyz Material. When your opponent Special Summons a monster(s): You can detach 1 Xyz Material from this card; destroy that monster(s).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18511599.jpg"

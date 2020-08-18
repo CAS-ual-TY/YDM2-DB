@@ -1,7 +1,8 @@
 {
   "id": 62671448,
   "name": "Toad Master",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62671448.jpg"

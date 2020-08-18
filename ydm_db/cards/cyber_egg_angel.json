@@ -1,7 +1,8 @@
 {
   "id": 28053106,
   "name": "Cyber Egg Angel",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Summoned: You can add 1 \"Machine Angel\" Spell or 1 \"Ritual Sanctuary\" from your Deck to your hand. You can only use this effect of \"Cyber Egg Angel\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28053106.jpg"

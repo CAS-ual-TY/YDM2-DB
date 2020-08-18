@@ -1,7 +1,8 @@
 {
   "id": 50619462,
   "name": "Cattle Call",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Send 1 face-up monster you control to the Graveyard, whose original Type is Beast, Beast-Warrior, or Winged Beast; Special Summon 1 monster from your Extra Deck with the same original Type, but it cannot attack, its effects are negated, also it is destroyed during the End Phase. You can only activate 1 \"Cattle Call\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50619462.jpg"

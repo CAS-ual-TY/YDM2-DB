@@ -1,7 +1,8 @@
 {
   "id": 213326,
   "name": "E - Emergency Call",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Add 1 \"Elemental HERO\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/213326.jpg"

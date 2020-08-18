@@ -1,7 +1,8 @@
 {
   "id": 8233522,
   "name": "Ally of Justice Cycle Reader",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn: You can discard this card to the Graveyard, then target up to 2 LIGHT monsters in your opponent\u0027s Graveyard; banish those targets.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8233522.jpg"

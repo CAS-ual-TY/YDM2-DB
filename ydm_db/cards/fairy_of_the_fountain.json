@@ -1,7 +1,8 @@
 {
   "id": 81563416,
   "name": "Fairy of the Fountain",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This fairy protects a fountain from any who seek to muddy its waters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81563416.jpg"

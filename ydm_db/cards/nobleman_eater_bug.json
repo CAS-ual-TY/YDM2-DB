@@ -1,7 +1,8 @@
 {
   "id": 65878864,
   "name": "Nobleman-Eater Bug",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Destroy 2 monsters on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65878864.jpg"

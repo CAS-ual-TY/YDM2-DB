@@ -1,7 +1,8 @@
 {
   "id": 51228280,
   "name": "Dungeon Worm",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Hidden under the floors of a labyrinth, it swallows any who pass above.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51228280.jpg"

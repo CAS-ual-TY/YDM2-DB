@@ -1,7 +1,8 @@
 {
   "id": 45667991,
   "name": "Dragoncaller Magician",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can make this card become Dragon-Type until the end of this turn. A monster that was Fusion, Synchro, or Xyz Summoned using this card on the field as Material gains this effect.\n? If this card battles a Dragon-Type monster, this card\u0027s ATK becomes double its original ATK during the Damage Step only.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45667991.jpg"

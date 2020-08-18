@@ -1,7 +1,8 @@
 {
   "id": 18891691,
   "name": "Perfect Machine King",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 500 ATK for each other Machine-Type monster on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18891691.jpg"

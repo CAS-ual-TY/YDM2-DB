@@ -1,7 +1,8 @@
 {
   "id": 97973387,
   "name": "Droll Bird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97973387.jpg"

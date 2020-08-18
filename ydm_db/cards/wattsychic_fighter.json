@@ -1,7 +1,8 @@
 {
   "id": 81028112,
   "name": "Wattsychic Fighter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Special Summoned: You can target 1 card in your opponent\u0027s Graveyard; place it on either the top or bottom of their Deck. You can only use this effect of \"Wattsychic Fighter\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81028112.jpg"

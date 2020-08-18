@@ -1,7 +1,8 @@
 {
   "id": 73899015,
   "name": "Venom Snake",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can place 1 Venom Counter on 1 monster your opponent controls. If you activate this effect, this card cannot attack during this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73899015.jpg"

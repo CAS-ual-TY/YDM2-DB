@@ -1,7 +1,8 @@
 {
   "id": 67831115,
   "name": "World Legacy in Shadow",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All \"Krawler\" monsters on the field gain 300 ATK/DEF. Once per turn: You can Special Summon 1 Level 2 or lower Insect monster from your hand in face-up or face-down Defense Position. When your Flip monster is destroyed by battle with an opponent\u0027s monster: You can send that opponent\u0027s monster to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67831115.jpg"

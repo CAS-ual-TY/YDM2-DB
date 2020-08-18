@@ -1,7 +1,8 @@
 {
   "id": 5399521,
   "name": "Symphonic Warrior Miccs",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Special Summon this card (from your hand) by removing 3 Symphonic Counters from your field. After you Normal or Special Summon this card, you can Normal Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5399521.jpg"

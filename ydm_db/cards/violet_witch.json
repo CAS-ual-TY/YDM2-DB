@@ -1,7 +1,8 @@
 {
   "id": 62379337,
   "name": "Violet Witch",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is destroyed by battle and sent to the Graveyard: Add 1 Plant-Type monster with 1500 or less DEF from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62379337.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 66742250,
   "name": "Curse of Anubis",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Change all Effect Monsters on the field to Defense Position. Until the end of this turn, the original DEF of those monsters becomes 0, also their battle positions cannot be changed.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66742250.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 2084239,
   "name": "Wetlands",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All Aqua-Type/WATER/Level 2 or lower monsters gain 1200 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2084239.jpg"

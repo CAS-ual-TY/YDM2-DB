@@ -1,7 +1,8 @@
 {
   "id": 38109772,
   "name": "Dragonic Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When the effect of an opponent\u0027s monster is activated that targets and destroys a card(s) you control, you can send the targeted card(s) to the Graveyard to Special Summon this card from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38109772.jpg"

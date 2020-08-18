@@ -1,7 +1,8 @@
 {
   "id": 31242786,
   "name": "Souleater",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A living wonder of mystery.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31242786.jpg"

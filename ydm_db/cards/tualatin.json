@@ -1,7 +1,8 @@
 {
   "id": 27769400,
   "name": "Tualatin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If it is your opponent\u0027s Battle Phase, a monster you controlled at the start of this Battle Phase was just destroyed, and all monsters you controlled at the start of this Battle Phase (min. 2) have now been destroyed by battle and sent to the GY: You can Special Summon this card from your hand. If Summoned this way: Choose an Attribute, and if you do, destroy all face-up monsters with that Attribute. Your opponent cannot Normal or Special Summon monsters with that Attribute.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27769400.jpg"

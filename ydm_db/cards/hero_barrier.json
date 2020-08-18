@@ -1,7 +1,8 @@
 {
   "id": 44676200,
   "name": "Hero Barrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Negate 1 attack from an opponent\u0027s monster. You must control a face-up \"Elemental HERO\" monster to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44676200.jpg"

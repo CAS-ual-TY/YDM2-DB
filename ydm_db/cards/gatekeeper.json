@@ -1,7 +1,8 @@
 {
   "id": 19737320,
   "name": "Gatekeeper",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An indestructible mechanoid created for the sole purpose of guarding the gateways.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19737320.jpg"

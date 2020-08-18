@@ -1,10 +1,11 @@
 {
-  "id": 100267003,
+  "id": 99666430,
   "name": "Jinzo - Layered",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 6 monsters\nYou can detach 1 material from this card, then target 1 face-up monster your opponent controls; take control of it until the End Phase, but it cannot activate its effects, nor declare an attack. If a Trap(s) is on the field: You can Tribute 1 monster, and if you do, destroy 1 face-up card on the field. You can only use each effect of \"Jinzo - Layered\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/100267003.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99666430.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

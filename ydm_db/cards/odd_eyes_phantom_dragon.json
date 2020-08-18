@@ -1,7 +1,8 @@
 {
   "id": 93149655,
   "name": "Odd-Eyes Phantom Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this Pendulum Summoned card inflicts battle damage to your opponent by attacking: You can inflict damage to your opponent equal to the number of \"Odd-Eyes\" cards in your Pendulum Zones x 1200. You can only use this effect of \"Odd-Eyes Phantom Dragon\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93149655.jpg"

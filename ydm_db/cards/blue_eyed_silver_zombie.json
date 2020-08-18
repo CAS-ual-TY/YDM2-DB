@@ -1,7 +1,8 @@
 {
   "id": 35282433,
   "name": "Blue-Eyed Silver Zombie",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The beams from the eyes of this creature are said to turn enemies into zombies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35282433.jpg"

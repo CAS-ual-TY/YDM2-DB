@@ -1,7 +1,8 @@
 {
   "id": 38167722,
   "name": "Dark Spirit Art - Greed",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Tribute 1 DARK monster. Draw 2 cards. Your opponent can negate this effect by revealing 1 Spell Card in their hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38167722.jpg"

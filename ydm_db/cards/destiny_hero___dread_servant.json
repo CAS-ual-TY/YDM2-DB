@@ -1,7 +1,8 @@
 {
   "id": 36625827,
   "name": "Destiny HERO - Dread Servant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned: Place 1 Clock Counter on each \"Clock Tower Prison\". When this card is destroyed by battle and sent to the GY: You can target 1 Spell/Trap you control; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36625827.jpg"

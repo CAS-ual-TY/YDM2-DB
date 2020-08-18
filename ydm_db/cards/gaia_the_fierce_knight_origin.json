@@ -1,0 +1,21 @@
+{
+  "id": 50354944,
+  "name": "Gaia the Fierce Knight Origin",
+  "illegal": false,
+  "custom": false,
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Warrior monster. You can only use each of the following effects of \"Gaia the Fierce Knight Origin\" once per turn. You can send 1 Level 5 or higher monster from your hand to the GY; Special Summon this card from your hand. During the Battle Phase (Quick Effect): You can banish this card from your GY, then target 1 monster on the field whose current ATK is different from its original ATK; its ATK becomes its original ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50354944.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

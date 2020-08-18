@@ -1,7 +1,8 @@
 {
   "id": 38942059,
   "name": "Sonic Maid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A maiden that uses sound to her advantage, she wields a scythe that\u0027s shaped like a musical note.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38942059.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 56364287,
   "name": "Cyber Dragon Herz",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card\u0027s name becomes \"Cyber Dragon\" while on the field or in the GY. You can only use 1 of the following effects of \"Cyber Dragon Herz\" per turn, and only once that turn.\n? If this card is Special Summoned: You can make this card\u0027s Level become 5 until the end of this turn, also, you cannot Special Summon monsters for the rest of this turn, except Machine monsters. \n? If this card is sent to the GY: You can add 1 other \"Cyber Dragon\" from your Deck or GY to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56364287.jpg"

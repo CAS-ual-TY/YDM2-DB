@@ -1,7 +1,8 @@
 {
   "id": 12143771,
   "name": "People Running About",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Although they always suffer in silence, they swear an oath to inevitably revolt.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12143771.jpg"

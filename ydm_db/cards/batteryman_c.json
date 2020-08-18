@@ -1,7 +1,8 @@
 {
   "id": 19733961,
   "name": "Batteryman C",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If all \"Batteryman C\"(s) you control are in Attack Position, all Machine-Type monsters you control gain 500 ATK for each \"Batteryman C\" you control. If all \"Batteryman C\"(s) you control are in Defense Position, all Machine-Type monsters you control gain 500 DEF for each \"Batteryman C\" you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19733961.jpg"

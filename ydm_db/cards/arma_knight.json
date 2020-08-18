@@ -1,7 +1,8 @@
 {
   "id": 36151751,
   "name": "Arma Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An ammonite warrior that has protected the seas throughout history.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36151751.jpg"

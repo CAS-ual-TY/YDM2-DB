@@ -1,7 +1,8 @@
 {
   "id": 5577649,
   "name": "Scrap Crash",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only when a \"Scrap\" monster you control is destroyed and sent to the Graveyard. Destroy all face-up Spell/Trap Cards on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5577649.jpg"

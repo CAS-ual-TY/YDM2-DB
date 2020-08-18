@@ -1,7 +1,8 @@
 {
   "id": 25795273,
   "name": "Al-Lumi\u0027raj",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All monsters on the field lose ATK and DEF equal to their own Level/Rank x 300.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25795273.jpg"

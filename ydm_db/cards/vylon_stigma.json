@@ -1,7 +1,8 @@
 {
   "id": 10712320,
   "name": "Vylon Stigma",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during either player\u0027s turn: You can target 1 face-up \"Vylon\" Equip Card you control and 1 appropriate face-up monster; equip the first target to the second target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10712320.jpg"

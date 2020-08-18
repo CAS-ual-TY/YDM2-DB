@@ -1,7 +1,8 @@
 {
   "id": 90764875,
   "name": "Gorgonic Ghoul",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a \"Gorgonic Ghoul\": You can pay 300 LP; Special Summon this card from your hand. You can use the effect of \"Gorgonic Ghoul\" up to twice per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90764875.jpg"

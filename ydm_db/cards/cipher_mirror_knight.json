@@ -1,7 +1,8 @@
 {
   "id": 58383100,
   "name": "Cipher Mirror Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a \"Cipher\" monster you control is destroyed by battle and sent to your Graveyard: You can discard this card; send 1 card from your hand or field to the Graveyard, and if you do, Special Summon that destroyed monster. During the End Phase, if this card is in the Graveyard because it was sent there this turn: You can add 1 \"Cipher\" card from your Deck to your hand. You can only use this effect of \"Cipher Mirror Knight\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58383100.jpg"

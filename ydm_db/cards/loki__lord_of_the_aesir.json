@@ -1,7 +1,8 @@
 {
   "id": 67098114,
   "name": "Loki, Lord of the Aesir",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 \"Nordic Alfar\" Tuner + 2+ non-Tuner monsters\nOnce per turn, when your opponent activates a Spell/Trap Card during your Battle Phase (Quick Effect): You can negate the activation, and if you do, destroy it. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent\u0027s card and sent to your GY this turn: You can banish 1 \"Nordic Alfar\" Tuner from your GY; Special Summon this card. When Summoned this way: You can target 1 Trap in your GY; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67098114.jpg"

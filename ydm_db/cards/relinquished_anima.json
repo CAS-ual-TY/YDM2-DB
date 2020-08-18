@@ -1,7 +1,8 @@
 {
   "id": 94259633,
   "name": "Relinquished Anima",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Level 1 monster, except a Token\nYou can target 1 face-up monster this card points to; equip that face-up monster to this card (max. 1). You can only use this effect of \"Relinquished Anima\" once per turn. This card gains ATK equal to that equipped monster\u0027s.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94259633.jpg"

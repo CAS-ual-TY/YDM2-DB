@@ -1,7 +1,8 @@
 {
   "id": 89928517,
   "name": "Two-for-One Team",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can make both players show 1 card from their hands, and if both the shown cards are the same type of card, apply 1 of these effects, depending on the type.\n? Monster: Each player can Special Summon their monster.\n? Spell: Each player draws 2 cards.\n? Trap: Each player sends exactly 2 cards from their Deck to their GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89928517.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 10759529,
   "name": "Kid Guard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When an opponent\u0027s monster declares an attack: Tribute 1 \"Hero Kid\"; negate the attack, then add 1 \"Elemental HERO\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10759529.jpg"

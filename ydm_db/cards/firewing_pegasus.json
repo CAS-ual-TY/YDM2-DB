@@ -1,7 +1,8 @@
 {
   "id": 27054370,
   "name": "Firewing Pegasus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A heavenly stallion soaring through the skies on crimson wings.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27054370.jpg"

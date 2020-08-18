@@ -1,7 +1,8 @@
 {
   "id": 36736723,
   "name": "Rush Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During damage calculation (in either player\u0027s turn), if a \"Warrior\" Synchro Monster you control battles an opponent\u0027s monster: You can send this card from your hand to the Graveyard; your battling monster\u0027s ATK becomes double its current ATK during that damage calculation only. You can banish this card from your Graveyard, then target 1 \"Synchron\" monster in your Graveyard; add it to your hand. You can only use each effect of \"Rush Warrior\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36736723.jpg"

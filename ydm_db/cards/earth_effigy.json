@@ -1,7 +1,8 @@
 {
   "id": 53461122,
   "name": "Earth Effigy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53461122.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 78063197,
   "name": "Relinquished Fusion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Fusion Summon 1 \"Eyes Restrict\" Fusion Monster from your Extra Deck, by banishing materials from your hand, field and/or GY. During your Main Phase: You can banish this card from your GY, then target 1 Effect Monster your opponent controls; equip that target to an \"Eyes Restrict\" Fusion Monster or \"Relinquished\" you control, as if it were equipped by that monster\u0027s effect. You can only use each effect of \"Relinquished Fusion\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78063197.jpg"

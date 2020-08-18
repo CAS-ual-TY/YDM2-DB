@@ -1,7 +1,8 @@
 {
   "id": 4179849,
   "name": "Queen of Autumn Leaves",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Queen of the Emerald Forest and wife of the Spirit King, she lives surrounded by vivid red leaves.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4179849.jpg"

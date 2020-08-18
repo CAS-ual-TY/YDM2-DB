@@ -1,7 +1,8 @@
 {
   "id": 97168905,
   "name": "Miracle Locus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 face-up Attack Position monster you control; your opponent draws 1 card, also that monster gains 1000 ATK until the end of this turn, and if it does, it can make up to 2 attacks on monsters during each Battle Phase this turn. If it attacks or is attacked this turn, your opponent takes no battle damage from that attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97168905.jpg"

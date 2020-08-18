@@ -1,7 +1,8 @@
 {
   "id": 48766543,
   "name": "Cyber-Tech Alligator",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48766543.jpg"

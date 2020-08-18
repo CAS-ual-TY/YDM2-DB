@@ -1,7 +1,8 @@
 {
   "id": 92534075,
   "name": "Magical Musket - Fiendish Deal",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Magical Musket\" monsters you control cannot be destroyed by card effects. If this card in your possession is sent to your GY by an opponent\u0027s card effect: You can add 1 \"Magical Musket\" card from your Deck or GY to your hand, except \"Magical Musket - Fiendish Deal\". You can only activate 1 \"Magical Musket - Fiendish Deal\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92534075.jpg"

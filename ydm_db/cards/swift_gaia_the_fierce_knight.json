@@ -1,7 +1,8 @@
 {
   "id": 16589042,
   "name": "Swift Gaia the Fierce Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16589042.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 47879985,
   "name": "Guardian of the Throne Room",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A robot guard built to protect throne rooms, it is armed with homing missiles.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47879985.jpg"

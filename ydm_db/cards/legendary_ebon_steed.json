@@ -1,7 +1,8 @@
 {
   "id": 12324546,
   "name": "Legendary Ebon Steed",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to a \"Six Samurai\" monster. It gains 200 ATK and DEF. If it would be destroyed, destroy this card instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12324546.jpg"

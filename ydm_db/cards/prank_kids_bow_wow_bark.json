@@ -1,7 +1,8 @@
 {
   "id": 43886072,
   "name": "Prank-Kids Bow-Wow-Bark",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 \"Prank-Kids\" monsters\nA \"Prank-Kids\" monster this card points to gains 1000 ATK. During your opponent\u0027s turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand, also \"Prank-Kids\" monsters you control cannot be destroyed by your opponent\u0027s card effects this turn. You can only use this effect of \"Prank-Kids Bow-Wow-Bark\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43886072.jpg"

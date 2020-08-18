@@ -1,7 +1,8 @@
 {
   "id": 83274244,
   "name": "Dododo Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card attacks, negate all card effects that activate in the opponent\u0027s Graveyard, until the end of the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83274244.jpg"

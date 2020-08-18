@@ -1,7 +1,8 @@
 {
   "id": 93655221,
   "name": "Shield Handler",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a card or effect is activated that would destroy a monster on the field (except during the Damage Step): Target 1 Link Monster on each field; negate the effects of your opponent\u0027s targeted monster, and if you do, equip this card to your targeted monster. The equipped monster cannot be destroyed by card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93655221.jpg"

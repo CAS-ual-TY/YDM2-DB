@@ -1,7 +1,8 @@
 {
   "id": 50412166,
   "name": "Charm of Shabti",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn: You can discard this card; until the End Phase, \"Gravekeeper\u0027s\" monsters you control cannot be destroyed by battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50412166.jpg"

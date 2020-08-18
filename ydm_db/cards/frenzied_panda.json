@@ -1,7 +1,8 @@
 {
   "id": 98818516,
   "name": "Frenzied Panda",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A savage beast that carries a big bamboo stick for beating down its enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98818516.jpg"

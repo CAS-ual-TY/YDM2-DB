@@ -1,7 +1,8 @@
 {
   "id": 57585212,
   "name": "Self-Destruct Button",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only activate this card while your Life Points are lower than your opponent\u0027s Life Points and the difference is 7000 points or more. Both players\u0027 Life Points become 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57585212.jpg"

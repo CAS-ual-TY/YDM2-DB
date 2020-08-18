@@ -1,7 +1,8 @@
 {
   "id": 2326738,
   "name": "Des Lacooda",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2326738.jpg"

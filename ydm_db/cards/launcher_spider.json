@@ -1,7 +1,8 @@
 {
   "id": 87322377,
   "name": "Launcher Spider",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A mechanical spider with rocket launchers capable of random fire.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87322377.jpg",

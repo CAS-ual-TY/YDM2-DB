@@ -1,7 +1,8 @@
 {
   "id": 49888191,
   "name": "Garnecia Elefantis",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A monster so heavy that each step rocks the earth.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49888191.jpg"

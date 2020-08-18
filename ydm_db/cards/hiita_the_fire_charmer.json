@@ -1,7 +1,8 @@
 {
   "id": 759393,
   "name": "Hiita the Fire Charmer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Target 1 face-up FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/759393.jpg"

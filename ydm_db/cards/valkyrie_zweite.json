@@ -1,7 +1,8 @@
 {
   "id": 30411385,
   "name": "Valkyrie Zweite",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Summoned: You can target 1 monster your opponent controls; destroy it. After damage calculation, if this card battled: You can target 1 Continuous Spell in your GY; add it to your hand. You can only use each effect of \"Valkyrie Zweite\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30411385.jpg"

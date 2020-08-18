@@ -1,7 +1,8 @@
 {
   "id": 9547962,
   "name": "Euler\u0027s Circuit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Your opponent\u0027s monsters cannot attack if you control 3 or more \"Tindangle\" monsters. Once per turn, during your Standby Phase: You can target 1 \"Tindangle\" monster you control; give control of it to your opponent. You can banish this card from your GY and discard 1 \"Tindangle\" card; add 1 \"Euler\u0027s Circuit\" from your Deck to your hand. You can only use this effect of \"Euler\u0027s Circuit\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9547962.jpg"

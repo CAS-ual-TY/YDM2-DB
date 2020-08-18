@@ -1,7 +1,8 @@
 {
   "id": 92559258,
   "name": "Servant of Endymion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only Special Summon \"Servant(s) of Endymion\" once per turn. This card with a Spell Counter can attack directly. Once per opponent\u0027s turn (Quick Effect): You can discard 1 card; place 1 Spell Counter on each card you control that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92559258.jpg"

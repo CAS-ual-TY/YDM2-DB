@@ -1,7 +1,8 @@
 {
   "id": 35498188,
   "name": "Action Magic - Double Banking",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 card; this turn, if a monster you currently control destroys an opponent\u0027s monster by battle, it can make a second attack in a row. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35498188.jpg"

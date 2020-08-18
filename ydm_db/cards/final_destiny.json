@@ -1,7 +1,8 @@
 {
   "id": 18591904,
   "name": "Final Destiny",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 5 cards from your hand. Destroy all cards on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18591904.jpg"

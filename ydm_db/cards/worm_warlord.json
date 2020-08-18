@@ -1,7 +1,8 @@
 {
   "id": 35638627,
   "name": "Worm Warlord",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Special Summoned. Negate the effects of Effect Monsters destroyed by battle with this card. If this card destroys an opponent\u0027s monster by battle, it can attack once again in a row.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35638627.jpg"

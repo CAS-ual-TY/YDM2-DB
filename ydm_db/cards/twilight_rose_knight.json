@@ -1,7 +1,8 @@
 {
   "id": 2986553,
   "name": "Twilight Rose Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Monsters your opponent controls cannot target Plant monsters for attacks. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Plant monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2986553.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 17183908,
   "name": "Yang Zing Path",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 3 \"Yang Zing\" monsters in your Graveyard; shuffle all 3 into the Deck, then draw 2 cards. You can only activate 1 \"Yang Zing Path\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17183908.jpg"

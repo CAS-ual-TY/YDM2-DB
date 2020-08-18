@@ -1,7 +1,8 @@
 {
   "id": 97648103,
   "name": "World Legacy\u0027s Heart",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 2 \"World Chalice\" monsters in your GY with different names; add them to your hand. If your linked Link Monster would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"World Legacy\u0027s Heart\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97648103.jpg"

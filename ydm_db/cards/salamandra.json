@@ -1,7 +1,8 @@
 {
   "id": 32268901,
   "name": "Salamandra",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to a FIRE monster. It gains 700 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32268901.jpg"

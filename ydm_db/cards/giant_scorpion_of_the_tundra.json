@@ -1,7 +1,8 @@
 {
   "id": 41403766,
   "name": "Giant Scorpion of the Tundra",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An extraordinary blue scorpion found in the tundra, not in the desert.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41403766.jpg"

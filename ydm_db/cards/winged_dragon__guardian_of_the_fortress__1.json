@@ -1,7 +1,8 @@
 {
   "id": 87796900,
   "name": "Winged Dragon, Guardian of the Fortress #1",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A dragon commonly found guarding mountain fortresses. Its signature attack is a sweeping dive from out of the blue.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87796900.jpg"

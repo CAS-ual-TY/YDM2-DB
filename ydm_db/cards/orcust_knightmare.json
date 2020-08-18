@@ -1,7 +1,8 @@
 {
   "id": 4055337,
   "name": "Orcust Knightmare",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be destroyed by battle with a Link Monster. You can banish this card from your GY, then target 1 face-up monster on the field; you cannot Special Summon monsters, except DARK monsters, for the rest of this turn, also send 1 DARK Machine monster from your Deck to the GY, except \"Orcust Knightmare\", and if you do, the targeted monster gains ATK equal to the Level of the monster sent to the GY x 100, until the end of this turn. You can only use this effect of \"Orcust Knightmare\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4055337.jpg"

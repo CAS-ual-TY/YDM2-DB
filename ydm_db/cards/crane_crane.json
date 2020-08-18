@@ -1,7 +1,8 @@
 {
   "id": 28637168,
   "name": "Crane Crane",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can target 1 Level 3 monster in your GY; Special Summon that target, but it has its effects negated. You can only use this effect of \"Crane Crane\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28637168.jpg"

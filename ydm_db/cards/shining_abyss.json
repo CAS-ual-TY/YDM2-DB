@@ -1,7 +1,8 @@
 {
   "id": 87303357,
   "name": "Shining Abyss",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster employs the powers of both Light and Darkness.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87303357.jpg"

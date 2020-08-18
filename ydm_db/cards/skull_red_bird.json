@@ -1,7 +1,8 @@
 {
   "id": 10202894,
   "name": "Skull Red Bird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster swoops down and attacks with a rain of knives stored in its wings.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10202894.jpg"

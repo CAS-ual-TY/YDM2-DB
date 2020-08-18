@@ -1,7 +1,8 @@
 {
   "id": 61912252,
   "name": "Infinitrack Trencher",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish this card from your GY, then target 1 Level 5 or lower \"Infinitrack\" monster in your GY, except \"Infinitrack Trencher\"; Special Summon that monster in Defense Position. You can only use each effect of \"Infinitrack Trencher\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61912252.jpg"

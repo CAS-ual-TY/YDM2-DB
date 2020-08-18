@@ -1,7 +1,8 @@
 {
   "id": 50400231,
   "name": "Satellite Cannon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be destroyed by battle with a Level 7 or lower monster. During each of your End Phases: This card gains 1000 ATK. If this card attacks, this increased ATK returns to 0, after damage calculation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50400231.jpg"

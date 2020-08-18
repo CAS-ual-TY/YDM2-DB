@@ -1,7 +1,8 @@
 {
   "id": 42632209,
   "name": "Geomathmech Final Sigma",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nUnaffected by card effects, except \"Mathmech\" cards, while in the Extra Monster Zone. If this card in the Extra Monster Zone battles an opponent\u0027s monster, any battle damage it inflicts to your opponent is doubled. If this card is destroyed by battle, or if this card in its owner\u0027s possession is destroyed by an opponent\u0027s card effect: You can add 1 \"Mathmech\" card from your Deck to your hand. You can only use this effect of \"Geomathmech Final Sigma\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42632209.jpg"

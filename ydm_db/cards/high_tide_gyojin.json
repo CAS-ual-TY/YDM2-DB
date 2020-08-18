@@ -1,7 +1,8 @@
 {
   "id": 54579801,
   "name": "High Tide Gyojin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A very agile half-fish warrior known for its relentless attacks.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54579801.jpg"

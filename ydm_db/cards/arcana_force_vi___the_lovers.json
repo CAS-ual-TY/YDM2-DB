@@ -1,7 +1,8 @@
 {
   "id": 97574404,
   "name": "Arcana Force VI - The Lovers",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Summoned, toss a coin: ? Heads: This card can be treated as 2 Tributes for the Tribute Summon of an \"Arcana Force\" monster. ? Tails: You cannot Tribute Summon \"Arcana Force\" monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97574404.jpg"

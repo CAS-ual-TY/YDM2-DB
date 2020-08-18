@@ -1,7 +1,8 @@
 {
   "id": 66457138,
   "name": "Fluffal Leo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card declares an attack: It gains 500 ATK until the end of the Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66457138.jpg"

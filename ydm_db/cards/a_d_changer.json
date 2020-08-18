@@ -1,7 +1,8 @@
 {
   "id": 96146814,
   "name": "A/D Changer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can banish this card from your Graveyard, then target 1 monster on the field; change its battle position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96146814.jpg"

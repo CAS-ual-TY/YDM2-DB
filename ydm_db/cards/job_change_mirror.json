@@ -1,7 +1,8 @@
 {
   "id": 55337339,
   "name": "Job-Change Mirror",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A wicked mirror that blocks off the damaging effects of an attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55337339.jpg"

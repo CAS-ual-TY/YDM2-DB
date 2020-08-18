@@ -1,7 +1,8 @@
 {
   "id": 15914410,
   "name": "Mechquipped Angineer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 3 monsters\nOnce per turn, during either player\u0027s turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster you control; change it to face-up Defense Position, and if you do, it cannot be destroyed by battle or by card effects this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15914410.jpg"

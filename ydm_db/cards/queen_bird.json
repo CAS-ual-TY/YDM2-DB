@@ -1,7 +1,8 @@
 {
   "id": 73081602,
   "name": "Queen Bird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster attacks enemies using its huge beak.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73081602.jpg"

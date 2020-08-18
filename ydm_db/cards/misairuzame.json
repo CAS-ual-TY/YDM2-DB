@@ -1,7 +1,8 @@
 {
   "id": 33178416,
   "name": "Misairuzame",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A missile-launching fish protected by deadly spikes.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33178416.jpg"

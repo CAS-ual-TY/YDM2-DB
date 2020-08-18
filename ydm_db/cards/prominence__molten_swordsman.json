@@ -1,7 +1,8 @@
 {
   "id": 89770167,
   "name": "Prominence, Molten Swordsman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during either player\u0027s turn: You can banish 1 \"Laval\" monster from your Graveyard; this card gains 300 ATK until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89770167.jpg"

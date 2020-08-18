@@ -1,7 +1,8 @@
 {
   "id": 61968753,
   "name": "Bubble Shuffle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 face-up Attack Position \"Elemental HERO Bubbleman\" you control and 1 face-up Attack Position monster your opponent controls; change both those targets to Defense Position, then Tribute that \"Elemental HERO Bubbleman\", then Special Summon 1 \"Elemental HERO\" monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61968753.jpg"

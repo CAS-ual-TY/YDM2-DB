@@ -1,7 +1,8 @@
 {
   "id": 30208479,
   "name": "Magician of Black Chaos",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with \"Black Magic Ritual\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30208479.jpg"

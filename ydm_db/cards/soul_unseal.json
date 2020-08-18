@@ -1,7 +1,8 @@
 {
   "id": 90506641,
   "name": "Soul Unseal",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent controls a monster and you control a Normal Monster: Choose 5 Normal Monsters in your Deck, add 1 of them to your hand and banish the rest.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90506641.jpg"

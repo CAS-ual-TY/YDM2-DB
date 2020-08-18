@@ -1,7 +1,8 @@
 {
   "id": 54757758,
   "name": "Mudragon of the Swamp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 monsters with the same Attribute but different Types\nYour opponent cannot target this card, or monsters on the field with the same Attribute as this card, with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54757758.jpg"

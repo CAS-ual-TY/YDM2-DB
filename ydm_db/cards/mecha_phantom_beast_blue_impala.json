@@ -1,7 +1,8 @@
 {
   "id": 67489919,
   "name": "Mecha Phantom Beast Blue Impala",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Machine-Type monster. The other Synchro Material Monster(s) are \"Mecha Phantom Beast\" monsters in your hand or on your side of the field. While you control a Token, this card cannot be destroyed by battle or card effects. If your opponent controls a monster and you control no monsters: You can banish this card from your Graveyard; Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67489919.jpg"

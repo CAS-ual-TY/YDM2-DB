@@ -1,7 +1,8 @@
 {
   "id": 12755462,
   "name": "Goblin Pothole Squad",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned, Trap Cards cannot be activated. Also, \"Trap Hole\" Trap Cards cannot be activated when a monster is Summoned, except \"Dark Trap Hole\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12755462.jpg"

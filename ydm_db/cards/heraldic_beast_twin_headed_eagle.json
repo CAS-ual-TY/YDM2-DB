@@ -1,7 +1,8 @@
 {
   "id": 19310321,
   "name": "Heraldic Beast Twin-Headed Eagle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can banish this card from your Graveyard to target 1 face-up Xyz Monster you control with no Xyz Materials and 2 \"Heraldic Beast\" monsters in your Graveyard; attach those monsters from the Graveyard to that face-up Xyz Monster, as Xyz Materials. You can only use the effect of \"Heraldic Beast Twin-Headed Eagle\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19310321.jpg"

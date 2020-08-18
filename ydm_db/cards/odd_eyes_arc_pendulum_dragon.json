@@ -1,7 +1,8 @@
 {
   "id": 14105623,
   "name": "Odd-Eyes Arc Pendulum Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Made from miracles, this valiant and beautiful dragon has gleaming eyes that reflect an arc drawn in the sky.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14105623.jpg"

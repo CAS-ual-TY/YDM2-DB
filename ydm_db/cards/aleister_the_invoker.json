@@ -1,7 +1,8 @@
 {
   "id": 86120751,
   "name": "Aleister the Invoker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "(Quick Effect): You can send this card from your hand to the GY, then target 1 Fusion Monster you control; it gains 1000 ATK/DEF until the end of this turn. If this card is Normal Summoned or flipped face-up: You can add 1 \"Invocation\" from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86120751.jpg"

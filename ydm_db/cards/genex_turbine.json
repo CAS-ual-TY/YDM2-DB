@@ -1,7 +1,8 @@
 {
   "id": 52222372,
   "name": "Genex Turbine",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All face-up \"Genex\" monsters you control gain 400 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52222372.jpg"

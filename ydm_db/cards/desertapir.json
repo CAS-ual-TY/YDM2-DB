@@ -1,7 +1,8 @@
 {
   "id": 13409151,
   "name": "Desertapir",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Flip 1 face-up monster on the field into face-down Defense Position. You cannot select \"Desertapir\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13409151.jpg"

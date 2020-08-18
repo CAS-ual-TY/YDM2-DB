@@ -1,7 +1,8 @@
 {
   "id": 63737050,
   "name": "Ryu Okami",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent Special Summons a monster(s): Your opponent sends 1 card from their Extra Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63737050.jpg"

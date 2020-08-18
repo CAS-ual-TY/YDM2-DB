@@ -1,7 +1,8 @@
 {
   "id": 46897277,
   "name": "Wattfox",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is destroyed by your opponent\u0027s card (either by battle or by card effect), your opponent cannot Special Summon a monster, or activate Spells, Traps, Spell/Trap effects, or Monster Card effects, for the rest of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46897277.jpg"

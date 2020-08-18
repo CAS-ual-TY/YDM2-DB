@@ -1,7 +1,8 @@
 {
   "id": 42874792,
   "name": "Wind-Up Rabbit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "(Quick Effect): You can target 1 \"Wind-Up\" monster you control; banish it until your next Standby Phase. This effect can be used only once while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42874792.jpg"

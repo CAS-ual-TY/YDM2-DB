@@ -1,7 +1,8 @@
 {
   "id": 81344637,
   "name": "Basilius, Familiar of the Evil Eye",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control an \"Evil Eye\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Basilius, Familiar of the Evil Eye\" once per turn this way. During your Main Phase: You can send 1 \"Evil Eye\" Spell/Trap from your Deck to the GY. You can only use this effect of \"Basilius, Familiar of the Evil Eye\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81344637.jpg"

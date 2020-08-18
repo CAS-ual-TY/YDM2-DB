@@ -1,7 +1,8 @@
 {
   "id": 82114013,
   "name": "Sea Dragoons of Draconia",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea\u0027s opposite shores.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82114013.jpg"

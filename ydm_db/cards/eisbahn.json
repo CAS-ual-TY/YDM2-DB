@@ -1,7 +1,8 @@
 {
   "id": 54059040,
   "name": "Eisbahn",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a non-WATER monster(s) is Normal or Special Summoned while you control a WATER monster: Change that Summoned monster to Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54059040.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 53293545,
   "name": "Firegrass",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A fire-breathing plant found growing near volcanoes.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53293545.jpg"

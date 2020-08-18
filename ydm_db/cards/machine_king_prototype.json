@@ -1,7 +1,8 @@
 {
   "id": 89222931,
   "name": "Machine King Prototype",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 100 ATK and DEF for each Machine-Type monster on the field, except this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89222931.jpg"

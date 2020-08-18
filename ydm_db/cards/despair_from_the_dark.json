@@ -1,7 +1,8 @@
 {
   "id": 71200730,
   "name": "Despair from the Dark",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent from your hand or Deck to your GY by an opponent\u0027s card effect: Special Summon this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71200730.jpg"

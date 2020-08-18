@@ -1,7 +1,8 @@
 {
   "id": 44800181,
   "name": "Combo Master",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44800181.jpg"

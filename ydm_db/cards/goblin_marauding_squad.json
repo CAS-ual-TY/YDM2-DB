@@ -1,7 +1,8 @@
 {
   "id": 34251483,
   "name": "Goblin Marauding Squad",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card declares an attack, your opponent cannot activate cards or effects. If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34251483.jpg"

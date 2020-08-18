@@ -1,0 +1,21 @@
+{
+  "id": 82773292,
+  "name": "Indulged Darklord",
+  "illegal": false,
+  "custom": false,
+  "text": "If this card is Normal or Special Summoned: You can take 2 \"Darklord\" monsters from your hand or Deck with different Levels, except \"Indulged Darklord\", Special Summon 1 of them to your opponent\u0027s field in Defense Position and add the other to your hand, also you cannot activate monster effects for the rest of this turn, except Fairy monsters. You can only use this effect of \"Indulged Darklord\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82773292.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

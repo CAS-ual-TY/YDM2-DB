@@ -1,7 +1,8 @@
 {
   "id": 31987274,
   "name": "Flying Fish",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Three wishes are granted to those fortunate enough to see this monster in flight.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31987274.jpg"

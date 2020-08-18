@@ -1,7 +1,8 @@
 {
   "id": 46457856,
   "name": "Tomozaurus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Small but vicious, this monster even attacks its own kind.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46457856.jpg"

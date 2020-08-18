@@ -1,7 +1,8 @@
 {
   "id": 54338958,
   "name": "Steelswarm Cell",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control no monsters, you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a \"Steelswarm\" monster, and cannot be used as a Synchro Material Monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54338958.jpg"

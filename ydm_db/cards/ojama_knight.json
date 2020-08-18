@@ -1,7 +1,8 @@
 {
   "id": 40391316,
   "name": "Ojama Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 \"Ojama\" monster + 1 \"Ojama\" monster\nSelect up to 2 of your opponent\u0027s Monster Card Zones. The selected zones cannot be used.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40391316.jpg"

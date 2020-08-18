@@ -1,7 +1,8 @@
 {
   "id": 73468603,
   "name": "Set Rotation",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Set 2 Field Spells with different names from your Deck on the field (1 on your field, and 1 on your opponent\u0027s field). While either of those cards remain Set on the field, neither player can activate or Set other Field Spells.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73468603.jpg"

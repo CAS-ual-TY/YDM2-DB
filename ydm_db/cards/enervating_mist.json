@@ -1,7 +1,8 @@
 {
   "id": 26022485,
   "name": "Enervating Mist",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Your opponent\u0027s hand size limit becomes 5.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26022485.jpg"

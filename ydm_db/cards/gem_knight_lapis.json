@@ -1,7 +1,8 @@
 {
   "id": 99645428,
   "name": "Gem-Knight Lapis",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99645428.jpg"

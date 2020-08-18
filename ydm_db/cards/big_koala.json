@@ -1,7 +1,8 @@
 {
   "id": 42129512,
   "name": "Big Koala",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A species of huge Des Koala. He\u0027s meek, but people are afraid of him because he\u0027s very powerful.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42129512.jpg"

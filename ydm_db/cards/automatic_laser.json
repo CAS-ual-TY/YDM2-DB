@@ -1,7 +1,8 @@
 {
   "id": 58990631,
   "name": "Automatic Laser",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent Normal or Special Summons a monster(s) with 1000 or more ATK, reveal 1 \"Iron Core of Koa\u0027ki Meiru\" in your hand to activate this card. Destroy that Summoned monster(s).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58990631.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 92266279,
   "name": "Humid Winds",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can pay 1000 LP; add 1 \"Aroma\" monster from your Deck to your hand. If your LP is lower than your opponent\u0027s: You can gain 500 LP. You can only use each effect of \"Humid Winds\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92266279.jpg"

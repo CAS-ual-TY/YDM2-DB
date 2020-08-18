@@ -1,7 +1,8 @@
 {
   "id": 90140980,
   "name": "Ojama King",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nSelect up to 3 of your opponent\u0027s Monster Card Zones. The selected zones cannot be used.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90140980.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 97843505,
   "name": "Djinn the Watcher of the Wind",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This creature generates gale-force winds and tornadoes to blow its enemies away.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97843505.jpg"

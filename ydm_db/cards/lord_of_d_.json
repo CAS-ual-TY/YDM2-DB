@@ -1,7 +1,8 @@
 {
   "id": 17985575,
   "name": "Lord of D.",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Neither player can target Dragon monsters on the field with card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17985575.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 7817703,
   "name": "Morphtronic Engine",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to a Level 3 \"Morphtronic\" monster. Its ATK becomes double its original ATK. During your second Standby Phase after this card\u0027s activation, destroy this card, and take damage equal to the original ATK of the equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7817703.jpg"

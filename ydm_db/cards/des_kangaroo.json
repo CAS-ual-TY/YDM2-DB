@@ -1,7 +1,8 @@
 {
   "id": 78613627,
   "name": "Des Kangaroo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If the ATK of a monster that attacks this monster in Defense Position is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78613627.jpg"

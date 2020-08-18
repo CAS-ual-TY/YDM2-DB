@@ -1,7 +1,8 @@
 {
   "id": 63308047,
   "name": "Terra the Terrible",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Known as a swamp dweller, this creature is a minion of the dark forces.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63308047.jpg"

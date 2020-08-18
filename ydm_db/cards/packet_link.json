@@ -1,7 +1,8 @@
 {
   "id": 78859567,
   "name": "Packet Link",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During Main Phase 2: Special Summon any number of Level 2 or lower monsters with different names from your hand, Deck, and/or GY to your zone(s) a Link Monster(s) points to. You can only activate 1 \"Packet Link\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78859567.jpg"

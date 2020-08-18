@@ -1,7 +1,8 @@
 {
   "id": 96947648,
   "name": "Salvage",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96947648.jpg"

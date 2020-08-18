@@ -1,7 +1,8 @@
 {
   "id": 2819435,
   "name": "Pacifis, the Phantasm City",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "(This card\u0027s name is always treated as \"Umi\".)\nYou cannot Normal or Special Summon Effect Monsters the turn you activate either of this card\u0027s effects (even if this card leaves the field). Once per turn, if you Normal or Special Summon exactly 1 Normal Monster (and no other cards): Add 1 \"Phantasm Spiral\" card from your Deck to your hand. If your opponent activates a card or effect (except during the Damage Step), and you control no Tokens: You can Special Summon 1 \"Phantasm Spiral Token\" (Wyrm-Type/WATER/Level 8/ATK 2000/DEF 2000).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2819435.jpg"

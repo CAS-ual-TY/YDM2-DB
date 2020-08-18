@@ -1,7 +1,8 @@
 {
   "id": 50732780,
   "name": "Stygian Security",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 1 Fiend-Type monster from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50732780.jpg"

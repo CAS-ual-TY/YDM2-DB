@@ -1,7 +1,8 @@
 {
   "id": 16308000,
   "name": "Solemn Authority",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate this card by targeting 1 \"Aesir\" monster you control; it cannot be targeted by other card effects while this card is on the field. Send this card to the GY during your 2nd Standby Phase after activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16308000.jpg"

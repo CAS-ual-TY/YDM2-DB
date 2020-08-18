@@ -1,7 +1,8 @@
 {
   "id": 99002135,
   "name": "Urgent Synthesis",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Return 1 \"Iron Core of Koa\u0027ki Meiru\" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower \"Koa\u0027ki Meiru\" monster from your hand or your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99002135.jpg"

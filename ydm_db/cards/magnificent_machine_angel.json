@@ -1,7 +1,8 @@
 {
   "id": 27331568,
   "name": "Magnificent Machine Angel",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Tribute 1 \"Cyber Angel\" Ritual Monster from your hand or field, then target 1 LIGHT Fairy monster you control; it gains ATK/DEF equal to the Level the monster had when Tributed x 200, until the end of this turn. This turn, if it battles an opponent\u0027s monster that was Special Summoned from the Extra Deck, that opponent\u0027s monster\u0027s effects are negated during that Battle Phase only. You can only activate 1 \"Magnificent Machine Angel\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27331568.jpg"

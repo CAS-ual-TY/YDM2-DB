@@ -1,7 +1,8 @@
 {
   "id": 4392470,
   "name": "Leo Wizard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A wizard with a black mantle who is actually a talking lion in disguise.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4392470.jpg"

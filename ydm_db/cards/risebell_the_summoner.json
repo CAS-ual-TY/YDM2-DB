@@ -1,7 +1,8 @@
 {
   "id": 45103815,
   "name": "Risebell the Summoner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45103815.jpg"

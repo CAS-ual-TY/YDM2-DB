@@ -1,7 +1,8 @@
 {
   "id": 45425051,
   "name": "Fairy King Truesdale",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While this card is in Defense Position, all Plant-Type monsters you control gain 500 ATK and DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45425051.jpg"

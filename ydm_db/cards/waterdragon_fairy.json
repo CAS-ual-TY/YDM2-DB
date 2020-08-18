@@ -1,7 +1,8 @@
 {
   "id": 66836598,
   "name": "Waterdragon Fairy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A water fairy that is said to be able to summon a giant sea serpent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66836598.jpg"

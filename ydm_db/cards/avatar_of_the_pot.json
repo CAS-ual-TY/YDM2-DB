@@ -1,7 +1,8 @@
 {
   "id": 99284890,
   "name": "Avatar of The Pot",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "By sending 1 \"Pot of Greed\" from your hand to the Graveyard, draw 3 cards from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99284890.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 21297224,
   "name": "Hysteric Fairy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Tribute 2 monsters on your side of the field to increase your Life Points by 1000 points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21297224.jpg"

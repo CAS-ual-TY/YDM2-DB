@@ -1,7 +1,8 @@
 {
   "id": 27134689,
   "name": "Master of Oz",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Big Koala\" + \"Des Kangaroo\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27134689.jpg"

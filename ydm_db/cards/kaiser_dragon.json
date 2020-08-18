@@ -1,7 +1,8 @@
 {
   "id": 94566432,
   "name": "Kaiser Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94566432.jpg"

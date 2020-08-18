@@ -1,7 +1,8 @@
 {
   "id": 28357177,
   "name": "Hade-Hane",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: You can return up to 3 monsters on the field to the owner\u0027s hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28357177.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 15305240,
   "name": "Creature Seizure",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each player gives their opponent control of 1 of their monsters (controller\u0027s choice). You must choose a face-up Normal Monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15305240.jpg"

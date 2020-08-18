@@ -1,7 +1,8 @@
 {
   "id": 80555116,
   "name": "Naturia Guardian",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent Normal Summons a monster, this card gains 300 ATK until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80555116.jpg"

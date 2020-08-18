@@ -1,7 +1,8 @@
 {
   "id": 5616412,
   "name": "Destruction Punch",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster you control, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5616412.jpg"

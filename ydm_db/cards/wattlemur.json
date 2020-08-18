@@ -1,7 +1,8 @@
 {
   "id": 45801022,
   "name": "Wattlemur",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card in its owner\u0027s possession is destroyed by your opponent\u0027s card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45801022.jpg"

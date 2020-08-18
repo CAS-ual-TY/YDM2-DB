@@ -1,7 +1,8 @@
 {
   "id": 90660762,
   "name": "Meteor Black Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90660762.jpg"

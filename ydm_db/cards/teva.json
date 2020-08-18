@@ -1,7 +1,8 @@
 {
   "id": 16469012,
   "name": "Teva",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Tribute Summoned successfully, your opponent cannot declare an attack during his/her next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16469012.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 11596936,
   "name": "Reckoned Power",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Reveal 1 \"Iron Core of Koa\u0027ki Meiru\" in your hand. Destroy all face-down Spell and Trap Cards your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11596936.jpg"

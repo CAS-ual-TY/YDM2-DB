@@ -1,7 +1,8 @@
 {
   "id": 86401517,
   "name": "Paladin of Storm Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with \"Cynet Ritual\". At the start of the Damage Step, if this card attacks a monster: You can return that monster to the hand. You can Tribute this card; Special Summon 1 Level 5 or higher Cyberse monster from your hand or Deck, but it cannot activate its effects this turn. You can only use each effect of \"Paladin of Storm Dragon\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86401517.jpg"

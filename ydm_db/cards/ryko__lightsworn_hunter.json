@@ -1,7 +1,8 @@
 {
   "id": 21502796,
   "name": "Ryko, Lightsworn Hunter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Apply these effects (simultaneously).\n? You can destroy 1 card on the field.\n? Send the top 3 cards of your Deck to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21502796.jpg"

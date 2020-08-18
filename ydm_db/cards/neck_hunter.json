@@ -1,7 +1,8 @@
 {
   "id": 70084224,
   "name": "Neck Hunter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A fiend that wields a mean sickle and fires devastating beams from its eyes.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70084224.jpg"

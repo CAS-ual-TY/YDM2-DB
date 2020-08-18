@@ -1,7 +1,8 @@
 {
   "id": 80604092,
   "name": "Ultimate Offering",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Main Phase or your opponent\u0027s Battle Phase: You can pay 500 Life Points; immediately after this effect resolves, Normal Summon/Set 1 monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80604092.jpg",

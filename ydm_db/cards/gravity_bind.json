@@ -1,7 +1,8 @@
 {
   "id": 85742772,
   "name": "Gravity Bind",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Level 4 or higher monsters cannot attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85742772.jpg"

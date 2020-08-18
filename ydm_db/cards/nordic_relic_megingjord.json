@@ -1,7 +1,8 @@
 {
   "id": 86827882,
   "name": "Nordic Relic Megingjord",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Aesir\" or \"Nordic\" monster you control; its ATK/DEF become double its original ATK/DEF, until the end of this turn, but it cannot attack your opponent directly this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86827882.jpg"

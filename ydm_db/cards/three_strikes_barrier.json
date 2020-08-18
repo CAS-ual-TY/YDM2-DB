@@ -1,7 +1,8 @@
 {
   "id": 95081386,
   "name": "Three Strikes Barrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent controls exactly 3 cards: Activate 1 of these effects;\n? This turn, your monsters cannot be destroyed by battle.\n? This turn, you take no battle damage.\n? This turn, each time your monster inflicts battle damage to your opponent, you gain the same amount of LP.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95081386.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 75190122,
   "name": "Dark Burning Magic",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control monsters whose original names are \"Dark Magician\" and \"Dark Magician Girl\": Destroy all cards your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75190122.jpg"

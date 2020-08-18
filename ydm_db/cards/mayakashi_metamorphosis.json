@@ -1,7 +1,8 @@
 {
   "id": 39753577,
   "name": "Mayakashi Metamorphosis",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 card, then target 1 of your \"Mayakashi\" monsters that is banished or in your GY; Special Summon it. Your opponent cannot target it with card effects this turn. You cannot Special Summon monsters from the Extra Deck the turn you activate this card, except \"Mayakashi\" monsters. You can only activate 1 \"Mayakashi Metamorphosis\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39753577.jpg"

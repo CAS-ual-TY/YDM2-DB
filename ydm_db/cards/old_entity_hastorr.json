@@ -1,7 +1,8 @@
 {
   "id": 70913714,
   "name": "Old Entity Hastorr",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is sent from the Monster Zone to the Graveyard: You can target 1 face-up monster your opponent controls; equip this card from your Graveyard to that monster. That monster cannot attack, also its effects are negated. If this card leaves the field while equipped to an opponent\u0027s monster by this effect: Take control of the monster this card was equipped to.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70913714.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 43422537,
   "name": "Double Summon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43422537.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 30864377,
   "name": "Gladiator Beast Tamer Editor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 5 or higher \"Gladiator Beast\" monsters\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Cannot be used as Fusion Material. Once per turn: You can Special Summon 1 \"Gladiator Beast\" Fusion Monster from your Extra Deck, except \"Gladiator Beast Tamer Editor\", ignoring its Summoning conditions. At the end of the Battle Phase, if your \"Gladiator Beast\" monster battled: You can shuffle that monster into the Deck or Extra Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30864377.jpg"

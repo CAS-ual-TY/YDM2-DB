@@ -1,7 +1,8 @@
 {
   "id": 41949033,
   "name": "Dark Assailant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Armed with the Psycho Sword, this sinister assassin rules the bad land.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41949033.jpg"

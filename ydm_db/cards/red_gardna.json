@@ -1,7 +1,8 @@
 {
   "id": 72318602,
   "name": "Red Gardna",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn, when your opponent activates a card or effect while you control a \"Red Dragon Archfiend\" monster: You can send this card from your hand to the Graveyard; this turn, monsters you control cannot be destroyed by your opponent\u0027s card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72318602.jpg"

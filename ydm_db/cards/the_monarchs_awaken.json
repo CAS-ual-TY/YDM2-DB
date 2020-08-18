@@ -1,7 +1,8 @@
 {
   "id": 26822796,
   "name": "The Monarchs Awaken",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you have no cards in your Extra Deck: Target 1 face-up Tribute Summoned monster you control; its effects are negated, also it is unaffected by the effects of cards other than this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26822796.jpg"

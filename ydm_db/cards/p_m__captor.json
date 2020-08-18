@@ -1,7 +1,8 @@
 {
   "id": 13760677,
   "name": "P.M. Captor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card destroys a monster by battle: You can target 1 Pendulum Monster in your Graveyard; add it to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13760677.jpg"

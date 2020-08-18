@@ -1,7 +1,8 @@
 {
   "id": 13923256,
   "name": "Ancient Warriors - Eccentric Lu Jing",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, add 1 \"Ancient Warriors\" Spell/Trap with a different name from your GY to your hand. If your other \"Ancient Warriors\" monster\u0027s effect is activated (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it. You can only use each effect of \"Ancient Warriors - Eccentric Lu Jing\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13923256.jpg"

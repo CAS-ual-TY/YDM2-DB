@@ -1,7 +1,8 @@
 {
   "id": 45215453,
   "name": "Vylon Delta",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nIf this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45215453.jpg"

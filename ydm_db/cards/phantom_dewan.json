@@ -1,7 +1,8 @@
 {
   "id": 77603950,
   "name": "Phantom Dewan",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A sorcerer that can paralyze an enemy with a single curse.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77603950.jpg"

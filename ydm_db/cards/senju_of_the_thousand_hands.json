@@ -1,7 +1,8 @@
 {
   "id": 23401839,
   "name": "Senju of the Thousand Hands",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23401839.jpg",

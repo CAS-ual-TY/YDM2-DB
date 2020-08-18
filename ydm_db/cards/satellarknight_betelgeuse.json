@@ -1,7 +1,8 @@
 {
   "id": 26057276,
   "name": "Satellarknight Betelgeuse",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Summoned: You can target 1 \"tellarknight\" card in your Graveyard, except \"Satellarknight Betelgeuse\"; send this card to the Graveyard, and if you do, add that target to your hand. You can only use this effect of \"Satellarknight Betelgeuse\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26057276.jpg"

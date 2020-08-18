@@ -1,7 +1,8 @@
 {
   "id": 41386308,
   "name": "Mathematician",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can send 1 Level 4 or lower monster from your Deck to the GY. When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41386308.jpg"

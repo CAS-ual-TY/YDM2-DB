@@ -1,7 +1,8 @@
 {
   "id": 97637162,
   "name": "Handigallop",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot attack directly. Gains ATK equal to the difference between your LP and your opponent\u0027s. If your LP are higher than your opponent\u0027s, you take any battle damage your opponent would have taken from battles involving this attacking card, instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97637162.jpg"

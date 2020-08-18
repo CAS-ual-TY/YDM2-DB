@@ -1,7 +1,8 @@
 {
   "id": 16509093,
   "name": "Royal Keeper",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, it gains 300 ATK and DEF until the end of the turn. (If attacked, this effect resolves after damage calculation.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16509093.jpg"

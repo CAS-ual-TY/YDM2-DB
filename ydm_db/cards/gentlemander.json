@@ -1,7 +1,8 @@
 {
   "id": 54635862,
   "name": "Gentlemander",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When an opponent\u0027s monster declares an attack: You can Special Summon this card from your hand. Your opponent\u0027s monsters cannot attack any monsters, except this one.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54635862.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 20228463,
   "name": "Ceremonial Bell",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Both players must keep their hands revealed.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20228463.jpg"

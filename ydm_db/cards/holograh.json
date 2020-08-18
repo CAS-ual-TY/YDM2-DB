@@ -1,7 +1,8 @@
 {
   "id": 10859908,
   "name": "Holograh",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This machine generates illusions that leave an enemy wide open to attacks.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10859908.jpg"

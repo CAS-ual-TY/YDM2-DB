@@ -1,7 +1,8 @@
 {
   "id": 96682430,
   "name": "Mermail Abysshilde",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent to the Graveyard: You can Special Summon 1 \"Mermail\" monster from your hand, except \"Mermail Abysshilde\". You can only use the effect of \"Mermail Abysshilde\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96682430.jpg"

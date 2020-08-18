@@ -1,7 +1,8 @@
 {
   "id": 61132951,
   "name": "Heroic Challenger - Night Watchman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacks a Defense Position monster your opponent controls, before damage calculation: You can destroy that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61132951.jpg"

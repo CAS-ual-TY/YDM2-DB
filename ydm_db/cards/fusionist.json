@@ -1,7 +1,8 @@
 {
   "id": 1641882,
   "name": "Fusionist",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Petit Angel\" + \"Mystical Sheep #2\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1641882.jpg"

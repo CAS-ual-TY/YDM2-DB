@@ -1,7 +1,8 @@
 {
   "id": 21558682,
   "name": "Jam Defender",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When an opponent\u0027s monster declares an attack on a monster you control: You can target 1 \"Revival Jam\" you control; switch the attack target to that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21558682.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 94446564,
   "name": "Matching Outfits",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Both players reveal the top card of their Deck, and if they are the same type of card (Monster, Spell, or Trap), both players add them to their hands. Otherwise, banish them.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94446564.jpg"

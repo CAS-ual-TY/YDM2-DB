@@ -1,7 +1,8 @@
 {
   "id": 95614612,
   "name": "Cannonball Spear Shellfish",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95614612.jpg"

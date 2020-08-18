@@ -1,7 +1,8 @@
 {
   "id": 60862676,
   "name": "Flame Cerebrus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Known to many as the \"Burning Executioner\", this monster is capable of burning enemies to cinders.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60862676.jpg"

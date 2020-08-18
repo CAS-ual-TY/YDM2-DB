@@ -1,7 +1,8 @@
 {
   "id": 23289281,
   "name": "Karate Man",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23289281.jpg"

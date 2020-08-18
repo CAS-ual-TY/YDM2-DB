@@ -1,7 +1,8 @@
 {
   "id": 74605254,
   "name": "D/D Savant Galilei",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn: You can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card you control; return it to the hand. You can only use this effect of \"D/D Savant Galilei\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/74605254.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 3909436,
   "name": "Vendread Battlelord",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. You can banish 1 \"Vendread\" card from your GY and declare 1 type of card (Monster, Spell, or Trap); for the rest of this turn, your opponent cannot activate cards or effects of that type. If this Ritual Summoned card is sent to the GY: You can add 1 Ritual Monster from your Deck to your hand, and if you do, send 1 \"Vendread\" monster from your Deck to the GY. You can only use each effect of \"Vendread Battlelord\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3909436.jpg"

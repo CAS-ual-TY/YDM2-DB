@@ -1,7 +1,8 @@
 {
   "id": 33904024,
   "name": "Shard of Greed",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the GY; draw 2 cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33904024.jpg"

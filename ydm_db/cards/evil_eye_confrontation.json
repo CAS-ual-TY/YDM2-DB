@@ -1,7 +1,8 @@
 {
   "id": 43011492,
   "name": "Evil Eye Confrontation",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control an \"Evil Eye\" monster: Target 1 Spell/Trap your opponent controls; destroy it, and if you do, and \"Evil Eye of Selene\" is in your Spell \u0026 Trap Zone, banish that destroyed card. You can only activate 1 \"Evil Eye Confrontation\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43011492.jpg"

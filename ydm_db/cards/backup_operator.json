@@ -1,7 +1,8 @@
 {
   "id": 97947705,
   "name": "Backup Operator",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can target 1 face-up monster that a Link Monster you control points to; Special Summon this card from your hand, and if you do, return that monster to the hand. If Special Summoned this way, banish this card when it leaves the field. You can only use this effect of \"Backup Operator\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97947705.jpg"

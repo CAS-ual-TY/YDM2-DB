@@ -1,7 +1,8 @@
 {
   "id": 12525049,
   "name": "Symphonic Warrior Guitaar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can target 1 \"Symphonic Warrior\" monster in your Graveyard; Special Summon it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12525049.jpg"

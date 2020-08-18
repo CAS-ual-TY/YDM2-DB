@@ -1,7 +1,8 @@
 {
   "id": 55878039,
   "name": "Chaos Dragon Levianeer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 LIGHT and/or DARK monsters from your GY. When Summoned this way: You can activate this effect; apply the following effect, based on the Attribute(s) of the monsters banished for the Special Summon, also this card cannot attack for the rest of this turn. ? Only LIGHT: Special Summon 1 monster from your GY in Defense Position. ? Only DARK: Shuffle 1 random card from your opponent\u0027s hand into the Deck. ? Both LIGHT and DARK: Destroy up to 2 cards on the field.\nYou can only use this effect of \"Chaos Dragon Levianeer\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55878039.jpg",

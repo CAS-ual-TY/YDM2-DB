@@ -1,7 +1,8 @@
 {
   "id": 28003512,
   "name": "The Judgement Hand",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An all-powerful hand that delivers ruthless attacks.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28003512.jpg"

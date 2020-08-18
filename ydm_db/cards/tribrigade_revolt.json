@@ -1,10 +1,11 @@
 {
-  "id": 101102070,
+  "id": 40975243,
   "name": "Tribrigade Revolt",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Special Summon any number of your Beast, Beast-Warrior, and/or Winged Beast monsters that are banished and/or in your GY, but negate their effects (if any), and if you do, immediately after this effect resolves, Link Summon 1 \"Tribrigade\" Link Monster using only those monsters. You can only activate 1 \"Tribrigade Revolt\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/101102070.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40975243.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

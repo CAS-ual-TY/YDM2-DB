@@ -1,7 +1,8 @@
 {
   "id": 42463414,
   "name": "Spined Gillman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All Fish, Sea Serpent, and Aqua-Type monsters you control gain 400 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42463414.jpg"

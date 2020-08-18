@@ -1,7 +1,8 @@
 {
   "id": 22609617,
   "name": "Mataza the Zapper",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22609617.jpg"

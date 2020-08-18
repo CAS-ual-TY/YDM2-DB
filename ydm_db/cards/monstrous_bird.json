@@ -1,7 +1,8 @@
 {
   "id": 35712107,
   "name": "Monstrous Bird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Few have set eyes on this dive-bombing bird and lived to tell the tale.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35712107.jpg"

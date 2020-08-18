@@ -1,7 +1,8 @@
 {
   "id": 41396436,
   "name": "Blue-Winged Crown",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41396436.jpg"

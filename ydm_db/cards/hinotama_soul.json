@@ -1,7 +1,8 @@
 {
   "id": 96851799,
   "name": "Hinotama Soul",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An intensely hot flame creature that rams anything standing in its way.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96851799.jpg"

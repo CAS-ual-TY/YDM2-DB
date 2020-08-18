@@ -1,7 +1,8 @@
 {
   "id": 67754901,
   "name": "Odd-Eyes Mirage Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn, while an \"Odd-Eyes\" card is in your Pendulum Zone: You can target 1 \"Odd-Eyes\" monster you control; the first time it would be destroyed by battle or card effect this turn, it is not destroyed. You can only use this effect of \"Odd-Eyes Mirage Dragon\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67754901.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 41859700,
   "name": "Burning Algae",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is sent to the Graveyard, increase your opponent\u0027s Life Points by 1000 points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41859700.jpg"

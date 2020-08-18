@@ -1,7 +1,8 @@
 {
   "id": 78986941,
   "name": "Order to Charge",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 non-Token Normal Monster you control; Tribute that Normal Monster, and if you do, destroy 1 monster your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78986941.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 89558090,
   "name": "Dark Prisoner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster bends light to hide its image from the eyes of opponents.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89558090.jpg"

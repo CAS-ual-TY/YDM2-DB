@@ -1,7 +1,8 @@
 {
   "id": 17469113,
   "name": "Avida, Rebuilder of Worlds",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by there being at least 8 or more Link Monsters with different names on the field and/or in the GYs. You cannot Special Summon other monsters the turn you Special Summon this card. This card\u0027s Special Summon cannot be negated. If this card is Special Summoned: Shuffle all other monsters that are banished, on the field, and in the GYs into the Decks. Neither player can activate cards or effects in response to this effect\u0027s activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17469113.jpg"

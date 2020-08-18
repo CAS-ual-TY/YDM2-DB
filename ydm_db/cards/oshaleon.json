@@ -1,7 +1,8 @@
 {
   "id": 71519605,
   "name": "Oshaleon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While you control this face-up Attack Position card, your opponent cannot select a monster other than \"Oshaleon\" as an attack target. When this card is destroyed by battle and sent to the Graveyard, you can add 1 Reptile-Type monster with 500 or less ATK from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71519605.jpg"

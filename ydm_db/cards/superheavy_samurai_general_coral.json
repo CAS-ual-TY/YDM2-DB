@@ -1,7 +1,8 @@
 {
   "id": 78274190,
   "name": "Superheavy Samurai General Coral",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you have no Spell/Trap Cards in your Graveyard: You can Tribute up to 2 \"Superheavy Samurai\" monsters; draw that many cards. You can only use this effect of \"Superheavy Samurai General Coral\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78274190.jpg"

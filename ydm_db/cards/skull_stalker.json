@@ -1,7 +1,8 @@
 {
   "id": 54844990,
   "name": "Skull Stalker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Foist he\u0027s gonna grab yer monstah wit\u0027 his claws, den attack again wit\u0027 his poizin stingah!",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54844990.jpg"

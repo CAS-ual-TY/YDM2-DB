@@ -1,7 +1,8 @@
 {
   "id": 49036338,
   "name": "PSY-Frame Driver",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A Psychic soldier that rides into battle against the Security Forces on currents of lightning, using an autonomic amplifier called \"PSY-Frame\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49036338.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 96383838,
   "name": "Tri-Wight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 3 Level 2 or lower Normal Monsters in your Graveyard; Special Summon them from the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96383838.jpg"

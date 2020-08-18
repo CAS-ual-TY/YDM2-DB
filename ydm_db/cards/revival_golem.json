@@ -1,7 +1,8 @@
 {
   "id": 87347365,
   "name": "Revival Golem",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The effect of \"Revival Golem\" can only be used once per turn. When this card is sent from your Deck to the Graveyard: Activate 1 of these effects.\n? Special Summon this card from the Graveyard.\n? Add this card from the Graveyard to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87347365.jpg"

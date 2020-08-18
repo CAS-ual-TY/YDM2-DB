@@ -1,7 +1,8 @@
 {
   "id": 37265642,
   "name": "Sabersaurus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This normally gentle dinosaur enjoys relaxing in its nest in the prairies. If it becomes angered, it turns terribly ferocious.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37265642.jpg"

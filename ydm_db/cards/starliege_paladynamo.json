@@ -1,7 +1,8 @@
 {
   "id": 61344030,
   "name": "Starliege Paladynamo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 4 LIGHT monsters\nOnce per turn: You can detach 2 Xyz Materials from this card, then target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, it has its effects negated. If this card you control is destroyed by an opponent\u0027s card (by battle or card effect) and sent to your Graveyard: Draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61344030.jpg"

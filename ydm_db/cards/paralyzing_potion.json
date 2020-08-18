@@ -1,7 +1,8 @@
 {
   "id": 50152549,
   "name": "Paralyzing Potion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A non Machine-Type monster equipped with this card cannot attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50152549.jpg"

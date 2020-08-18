@@ -1,7 +1,8 @@
 {
   "id": 45869829,
   "name": "Quick Booster",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent\u0027s card and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45869829.jpg"

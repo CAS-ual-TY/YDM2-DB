@@ -1,7 +1,8 @@
 {
   "id": 47217354,
   "name": "Fabled Raven",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47217354.jpg"

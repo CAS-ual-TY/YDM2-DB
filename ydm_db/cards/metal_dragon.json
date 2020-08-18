@@ -1,7 +1,8 @@
 {
   "id": 9293977,
   "name": "Metal Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9293977.jpg"

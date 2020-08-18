@@ -1,7 +1,8 @@
 {
   "id": 94212438,
   "name": "Destiny Board",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card and all 4 \"Spirit Message\" cards with different names are placed on your field, you win the Duel. Once per turn, during your opponent\u0027s End Phase: Place 1 \"Spirit Message\" card from your hand or Deck in your Spell \u0026 Trap Zone face-up, in the proper order of \"I\", \"N\", \"A\", and \"L\". When any \"Spirit Message\" card or \"Destiny Board\" you control leaves the field, send all \"Spirit Message\" cards and \"Destiny Board\" you control to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94212438.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 62397231,
   "name": "Hyozanryu",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A dragon created from a massive diamond that sparkles with blinding light.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62397231.jpg"

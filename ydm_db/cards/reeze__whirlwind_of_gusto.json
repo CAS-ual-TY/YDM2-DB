@@ -1,7 +1,8 @@
 {
   "id": 36331074,
   "name": "Reeze, Whirlwind of Gusto",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can return 1 card from your hand to the bottom of the Deck to target 1 monster your opponent controls and 1 face-up \"Gusto\" monster you control; switch control of both monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36331074.jpg"

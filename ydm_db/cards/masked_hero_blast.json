@@ -1,7 +1,8 @@
 {
   "id": 89870349,
   "name": "Masked HERO Blast",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Must be Special Summoned with \"Mask Change\". If this card is Special Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK. Once per turn (Quick Effect): You can pay 500 LP, then target 1 Spell/Trap your opponent controls; return it to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89870349.jpg"

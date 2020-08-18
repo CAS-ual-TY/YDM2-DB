@@ -1,7 +1,8 @@
 {
   "id": 86767655,
   "name": "Ms. Judge",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If an opponent\u0027s card effect activates, before resolving that effect, toss a coin twice, and if the result is 2 Heads, negate that effect. You can only use this effect of \"Ms. Judge\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86767655.jpg"

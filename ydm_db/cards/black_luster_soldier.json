@@ -1,7 +1,8 @@
 {
   "id": 5405694,
   "name": "Black Luster Soldier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with \"Black Luster Ritual\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5405694.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 79086452,
   "name": "Gimmick Puppet Bisque Doll",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Special Summon this card (from your hand) by discarding 1 \"Gimmick Puppet\" monster. You can banish this card from your GY; your opponent cannot target \"Gimmick Puppet\" monsters you control with card effects this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79086452.jpg"

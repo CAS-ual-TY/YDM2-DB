@@ -1,7 +1,8 @@
 {
   "id": 82099401,
   "name": "Crystal Seer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Excavate the top 2 cards of your Deck, then add 1 of them to your hand, then place the other on the bottom of your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82099401.jpg"

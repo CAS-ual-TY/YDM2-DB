@@ -1,7 +1,8 @@
 {
   "id": 43230671,
   "name": "Ancient Lizard Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Before the dawn of man, this lizard warrior ruled supreme.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43230671.jpg"

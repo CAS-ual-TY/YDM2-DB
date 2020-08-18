@@ -1,7 +1,8 @@
 {
   "id": 52068432,
   "name": "Nekroz of Trishula",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, without using any Level 9 monsters. You can only use each of these effects of \"Nekroz of Trishula\" once per turn.\n? When a card or effect is activated that targets a \"Nekroz\" monster(s) you control (Quick Effect): You can discard this card; negate the activation.\n? When this card is Ritual Summoned, you can: Banish exactly 3 of your opponent\u0027s cards, 1 each from their hand, field, and GY. (The card in the hand is chosen at random.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52068432.jpg"

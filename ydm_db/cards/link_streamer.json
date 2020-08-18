@@ -1,7 +1,8 @@
 {
   "id": 23331400,
   "name": "Link Streamer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Cyberse monster(s) is Normal or Special Summoned to your field while this monster is on the field (except during the Damage Step): You can Special Summon 1 \"Data Token\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0). You can only use this effect of \"Link Streamer\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23331400.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 71930383,
   "name": "Patroid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during your Main Phase, you can look at 1 face-down card your opponent controls, then return it to its original position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71930383.jpg"

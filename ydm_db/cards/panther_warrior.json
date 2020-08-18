@@ -1,7 +1,8 @@
 {
   "id": 42035044,
   "name": "Panther Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot declare an attack unless you Tribute 1 monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42035044.jpg",

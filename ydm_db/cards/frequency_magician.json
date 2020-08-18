@@ -1,7 +1,8 @@
 {
   "id": 62154416,
   "name": "Frequency Magician",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62154416.jpg"

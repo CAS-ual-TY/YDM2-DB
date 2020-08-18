@@ -1,7 +1,8 @@
 {
   "id": 46657337,
   "name": "Muka Muka",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 300 ATK and DEF for each card in your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46657337.jpg"

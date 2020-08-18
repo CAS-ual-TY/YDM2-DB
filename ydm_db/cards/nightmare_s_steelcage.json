@@ -1,7 +1,8 @@
 {
   "id": 58775978,
   "name": "Nightmare\u0027s Steelcage",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card remains on the field for 2 of your opponent\u0027s turns. While this card is face-up on the field, no monsters can attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58775978.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 71746462,
   "name": "Sea Kamen",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A merciless monster that tears opponents to shreds with razor-like claws.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71746462.jpg"

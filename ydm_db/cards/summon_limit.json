@@ -1,7 +1,8 @@
 {
   "id": 23516703,
   "name": "Summon Limit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Neither player can Summon more than two times per turn. (Negated Summons count toward this limit. Negated cards/effects that would Summon do not count.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23516703.jpg"

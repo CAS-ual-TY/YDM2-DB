@@ -1,7 +1,8 @@
 {
   "id": 98229575,
   "name": "U.A. Playmaker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Playmaker\". You can only Special Summon \"U.A. Playmaker\" once per turn this way. When another \"U.A.\" monster you control declares an attack: You can have this card lose exactly 800 ATK, and if it does, your attacking monster gains 800 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98229575.jpg"

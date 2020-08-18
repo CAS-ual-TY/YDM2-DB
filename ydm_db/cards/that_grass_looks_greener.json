@@ -1,7 +1,8 @@
 {
   "id": 11110587,
   "name": "That Grass Looks Greener",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you have more cards in your Deck than your opponent does: Send cards from the top of your Deck to the Graveyard so you have the same number of cards in the Deck as your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11110587.jpg"

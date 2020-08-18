@@ -1,7 +1,8 @@
 {
   "id": 57305373,
   "name": "Two-Mouth Darkruler",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57305373.jpg"

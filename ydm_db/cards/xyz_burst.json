@@ -1,7 +1,8 @@
 {
   "id": 30600344,
   "name": "Xyz Burst",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a Rank 6 or higher Xyz Monster: Destroy all Set cards your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30600344.jpg"

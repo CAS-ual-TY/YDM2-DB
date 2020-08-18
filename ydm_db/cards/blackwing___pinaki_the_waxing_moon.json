@@ -1,7 +1,8 @@
 {
   "id": 55610595,
   "name": "Blackwing - Pinaki the Waxing Moon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Blackwing\" Synchro Monster. During the End Phase, if this card is in the Graveyard because it was sent there from the field this turn: You can add 1 \"Blackwing\" monster from your Deck to your hand, except \"Blackwing - Pinaki the Waxing Moon\". You can only use this effect of \"Blackwing - Pinaki the Waxing Moon\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55610595.jpg"

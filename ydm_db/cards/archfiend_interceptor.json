@@ -1,7 +1,8 @@
 {
   "id": 14430063,
   "name": "Archfiend Interceptor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While you control this face-up Attack Position card, when an opponent\u0027s monster declares an attack, inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14430063.jpg"

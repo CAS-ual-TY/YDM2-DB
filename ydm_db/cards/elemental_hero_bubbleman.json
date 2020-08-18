@@ -1,7 +1,8 @@
 {
   "id": 79979666,
   "name": "Elemental HERO Bubbleman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79979666.jpg"

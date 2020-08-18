@@ -1,7 +1,8 @@
 {
   "id": 20315854,
   "name": "Fairy Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This beautiful Dragon spirit harbors hidden strength.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20315854.jpg"

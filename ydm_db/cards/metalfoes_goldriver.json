@@ -1,7 +1,8 @@
 {
   "id": 33256280,
   "name": "Metalfoes Goldriver",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "That gleaming, golden buggy breaks bad guys good. What wonderful wheels! (With a bumbling buffoon....)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33256280.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 27827903,
   "name": "Genex Ally Crusher",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, when a monster with the same Attribute as this card is Normal Summoned to your side of the field, you can select 1 card your opponent controls, and destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27827903.jpg"

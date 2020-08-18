@@ -1,7 +1,8 @@
 {
   "id": 88086137,
   "name": "Broken Line",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Spell/Trap Card, or monster effect, is activated in this card\u0027s column, while this card is Set: Negate the activation, and if you do, destroy that card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88086137.jpg"

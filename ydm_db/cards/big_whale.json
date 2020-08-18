@@ -1,7 +1,8 @@
 {
   "id": 18322364,
   "name": "Big Whale",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Tribute Summoned: You can Tribute this card; Special Summon 3 Level 3 WATER monsters from your Deck. Their effects are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18322364.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 84794011,
   "name": "Solitude",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This beast-warrior swings a massive scythe that feeds on the souls of the slain.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84794011.jpg"

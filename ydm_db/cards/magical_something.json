@@ -1,7 +1,8 @@
 {
   "id": 43930492,
   "name": "Magical Something",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. This card\u0027s Level is increased by the number of Spell Counters on it. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell in your GY; Set that card to your Spell \u0026 Trap Zone. You can only use this effect of \"Magical Something\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43930492.jpg"

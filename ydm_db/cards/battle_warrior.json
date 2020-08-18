@@ -1,7 +1,8 @@
 {
   "id": 55550921,
   "name": "Battle Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A warrior that fights with his bare hands!!!",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55550921.jpg"

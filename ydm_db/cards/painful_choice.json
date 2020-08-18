@@ -1,7 +1,8 @@
 {
   "id": 74191942,
   "name": "Painful Choice",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Select 5 cards from your Deck and show them to your opponent. Your opponent selects 1 card among them. Add that card to your hand and discard the remaining cards to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/74191942.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 61840587,
   "name": "Portable Battery Pack",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Select 2 \"Batteryman\" monsters from your Graveyard and Special Summon them in Attack Position. When this card is removed from the field, destroy those monsters. When both of those monsters have been removed from the field, destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61840587.jpg"

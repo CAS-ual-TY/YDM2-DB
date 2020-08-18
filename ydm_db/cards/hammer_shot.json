@@ -1,7 +1,8 @@
 {
   "id": 26412047,
   "name": "Hammer Shot",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26412047.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 57308711,
   "name": "Unicycular",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The third of the brothers, following Tricular and Bicular.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57308711.jpg"

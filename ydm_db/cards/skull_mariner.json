@@ -1,7 +1,8 @@
 {
   "id": 5265750,
   "name": "Skull Mariner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A pirate ship that appears out of the mist and sinks any seagoing vessels.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5265750.jpg"

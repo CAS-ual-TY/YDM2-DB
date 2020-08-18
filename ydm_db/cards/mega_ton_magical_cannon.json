@@ -1,7 +1,8 @@
 {
   "id": 32062913,
   "name": "Mega Ton Magical Cannon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Remove 10 Spell Counters on your side of the field. Destroy all cards on your opponent\u0027s side of the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32062913.jpg"

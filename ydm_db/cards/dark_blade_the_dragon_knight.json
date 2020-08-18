@@ -1,7 +1,8 @@
 {
   "id": 86805855,
   "name": "Dark Blade the Dragon Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Dark Blade\" + \"Pitch-Dark Dragon\"\nEach time this card inflicts Battle Damage to your opponent, you can select up to 3 Monster Cards from your opponent\u0027s Graveyard and remove them from play.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86805855.jpg"

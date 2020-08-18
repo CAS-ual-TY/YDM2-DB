@@ -1,7 +1,8 @@
 {
   "id": 96708940,
   "name": "Speedroid Marble Machine",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can activate this effect; add 1 \"Speedroid\" monster from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Marble Machine\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96708940.jpg"

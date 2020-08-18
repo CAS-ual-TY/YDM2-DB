@@ -1,7 +1,8 @@
 {
   "id": 53162898,
   "name": "Amazoness Sage",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap your opponent controls; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53162898.jpg"

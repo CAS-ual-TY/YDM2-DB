@@ -1,7 +1,8 @@
 {
   "id": 54976796,
   "name": "Level Limit - Area A",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Change all face-up Level 3 or lower monsters to Attack Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54976796.jpg"

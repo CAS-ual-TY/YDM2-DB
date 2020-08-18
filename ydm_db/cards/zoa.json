@@ -1,7 +1,8 @@
 {
   "id": 24311372,
   "name": "Zoa",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A monster whose full potential can be achieved when outfitted with \"Metalmorph\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24311372.jpg"

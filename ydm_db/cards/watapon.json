@@ -1,7 +1,8 @@
 {
   "id": 87774234,
   "name": "Watapon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87774234.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 58062306,
   "name": "Rose Princess",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand), and if you do, it is treated as a Tuner. You can only Special Summon \"Rose Princess\" once per turn this way. You can discard this card; add 1 \"White Rose Cloister\" from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58062306.jpg"

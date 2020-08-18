@@ -1,7 +1,8 @@
 {
   "id": 2732323,
   "name": "Decoy Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is targeted for an attack: Target 1 Level 7 or higher Dragon-Type monster in your Graveyard; Special Summon it, and if you do, change the attack target to it and perform damage calculation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2732323.jpg"

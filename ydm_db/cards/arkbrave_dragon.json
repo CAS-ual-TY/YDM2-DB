@@ -1,7 +1,8 @@
 {
   "id": 33282498,
   "name": "Arkbrave Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Special Summoned from the Graveyard: You can banish as many face-up Spell/Trap Cards your opponent controls as possible, and if you do, this card gains 200 ATK and DEF for each card banished. Once per turn, during the Standby Phase, if this card is in the Graveyard because it was sent there last turn: You can target 1 Level 7 or 8 Dragon-Type monster in your Graveyard, except \"Arkbrave Dragon\"; Special Summon it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33282498.jpg"

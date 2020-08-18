@@ -1,7 +1,8 @@
 {
   "id": 56585883,
   "name": "Harpie Harpist",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card\u0027s name becomes \"Harpie Lady\" while it is on the field or in the Graveyard. You can only use each of these effects of \"Harpie Harpist\" once per turn.\n? When this card is Normal Summoned: You can target 1 Winged Beast-Type monster you control (other than this card) and 1 face-up monster your opponent controls; return them to the hand.\n? During the End Phase, if this card is in the Graveyard because it was sent there this turn: You can add 1 Level 4 Winged Beast-Type monster with 1500 or less ATK from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56585883.jpg"

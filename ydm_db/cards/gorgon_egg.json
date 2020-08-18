@@ -1,7 +1,8 @@
 {
   "id": 11793047,
   "name": "Gorgon Egg",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The gorgon egg\u0027s massive eyes are said to reflect the fate of its enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11793047.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 96907086,
   "name": "Earthbound Whirlwind",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control an \"Earthbound Immortal\" monster: Destroy all Spell and Trap Cards your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96907086.jpg"

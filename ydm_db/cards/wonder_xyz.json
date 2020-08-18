@@ -1,7 +1,8 @@
 {
   "id": 73860462,
   "name": "Wonder Xyz",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control as Materials.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73860462.jpg"

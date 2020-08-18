@@ -1,7 +1,8 @@
 {
   "id": 78229193,
   "name": "White Aura Dolphin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its original ATK until the end of this turn. If this card you control is destroyed by an opponent\u0027s card (by battle or card effect) and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78229193.jpg"

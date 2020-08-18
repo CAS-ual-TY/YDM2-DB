@@ -1,7 +1,8 @@
 {
   "id": 43641473,
   "name": "Tailor of the Fickle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Switch 1 Equip Card equipped to a monster to another correct target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43641473.jpg"

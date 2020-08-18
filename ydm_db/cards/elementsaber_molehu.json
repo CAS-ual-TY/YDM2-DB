@@ -1,7 +1,8 @@
 {
   "id": 45702014,
   "name": "Elementsaber Molehu",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 face-up monster on the field; change it to face-down Defense Position. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45702014.jpg"

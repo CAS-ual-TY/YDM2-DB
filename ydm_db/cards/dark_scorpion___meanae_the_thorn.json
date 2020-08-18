@@ -1,7 +1,8 @@
 {
   "id": 74153887,
   "name": "Dark Scorpion - Meanae the Thorn",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\n? Add 1 \"Dark Scorpion\" card from your Deck to your hand.\n? Target 1 \"Dark Scorpion\" card in your Graveyard; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/74153887.jpg"

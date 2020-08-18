@@ -1,7 +1,8 @@
 {
   "id": 95600067,
   "name": "Crystal Beast Topaz Tiger",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacks an opponent\u0027s monster, it gains 400 ATK during the Damage Step only. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell \u0026 Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95600067.jpg"

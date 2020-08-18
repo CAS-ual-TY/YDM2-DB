@@ -1,7 +1,8 @@
 {
   "id": 28546905,
   "name": "Illusionist Faceless Mage",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Manipulates enemy attacks with the power of illusion.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28546905.jpg"

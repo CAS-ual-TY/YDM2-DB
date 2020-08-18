@@ -1,7 +1,8 @@
 {
   "id": 26566878,
   "name": "Fiend Scorpion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26566878.jpg"

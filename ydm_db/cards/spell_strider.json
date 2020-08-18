@@ -1,7 +1,8 @@
 {
   "id": 93966624,
   "name": "Spell Strider",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is in your hand: You can target 2 face-up Spell Cards on the field (1 from each side of the field); banish them, and if you do, Special Summon this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93966624.jpg"

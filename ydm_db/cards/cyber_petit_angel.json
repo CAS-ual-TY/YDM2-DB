@@ -1,7 +1,8 @@
 {
   "id": 76103404,
   "name": "Cyber Petit Angel",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Summoned: You can add 1 \"Cyber Angel\" monster or \"Machine Angel Ritual\" from your Deck to your hand. You can only use this effect of \"Cyber Petit Angel\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76103404.jpg"

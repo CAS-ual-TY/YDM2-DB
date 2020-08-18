@@ -1,7 +1,8 @@
 {
   "id": 94163677,
   "name": "Infinite Cards",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "There is no limit to the number of cards in players\u0027 hands.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94163677.jpg"

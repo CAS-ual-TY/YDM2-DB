@@ -1,7 +1,8 @@
 {
   "id": 39239728,
   "name": "Royal Guard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A mechanized soldier created to protect royalty.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39239728.jpg"

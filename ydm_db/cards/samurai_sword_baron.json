@@ -1,7 +1,8 @@
 {
   "id": 14344682,
   "name": "Samurai Sword Baron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can select 1 Defense Position monster your opponent controls. Change it to face-up Attack Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14344682.jpg"

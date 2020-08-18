@@ -1,7 +1,8 @@
 {
   "id": 78697395,
   "name": "The Third Sarcophagus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can only be placed on the field by the effect of \"The First Sarcophagus\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78697395.jpg"

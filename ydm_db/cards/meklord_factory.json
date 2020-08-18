@@ -1,7 +1,8 @@
 {
   "id": 77864539,
   "name": "Meklord Factory",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a \"Meklord\" monster on the field is targeted for an attack: Target 1 \"Meklord Army\" monster in your Graveyard; add that target to your hand, then destroy the attack target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77864539.jpg"

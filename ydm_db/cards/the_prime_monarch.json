@@ -1,7 +1,8 @@
 {
   "id": 54241725,
   "name": "The Prime Monarch",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can target 2 \"Monarch\" Spell/Trap Cards in your Graveyard; shuffle them into the Deck, then draw 1 card. If this card is in your Graveyard: You can banish 1 other \"Monarch\" Spell/Trap Card from your Graveyard; Special Summon this card in Defense Position as a Normal Monster (Fairy-Type/LIGHT/Level 5/ATK 1000/DEF 2400). (This card is NOT treated as a Trap Card.) You can only use this effect of \"The Prime Monarch\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54241725.jpg"

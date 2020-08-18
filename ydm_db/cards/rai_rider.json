@@ -1,7 +1,8 @@
 {
   "id": 31173519,
   "name": "Rai Rider",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card battles an opponent\u0027s monster: That monster cannot attack while it is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31173519.jpg"

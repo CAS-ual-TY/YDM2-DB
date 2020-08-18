@@ -1,7 +1,8 @@
 {
   "id": 47961808,
   "name": "Barrier Statue of the Inferno",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Neither player can Special Summon monsters, except FIRE monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47961808.jpg"

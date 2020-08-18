@@ -1,7 +1,8 @@
 {
   "id": 53656677,
   "name": "Power Frame",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a face-up monster you control is targeted for an attack by a monster with a higher ATK: Target the attack target; negate that attack, and if you do, equip this card to that target. The equipped monster gains ATK equal to the difference between its ATK and the ATK of its attacker when this card resolves.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53656677.jpg"

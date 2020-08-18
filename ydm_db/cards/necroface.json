@@ -1,7 +1,8 @@
 {
   "id": 28297833,
   "name": "Necroface",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned: Shuffle all banished cards into the Deck. This card gains 100 ATK for each card shuffled into the Main Deck by this effect. If this card is banished: Each player banishes 5 cards from the top of their Deck (or their entire Deck, if less than 5).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28297833.jpg"

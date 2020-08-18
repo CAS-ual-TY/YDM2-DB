@@ -1,7 +1,8 @@
 {
   "id": 55875323,
   "name": "Electric Lizard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A non Zombie-Type monster attacking \"Electric Lizard\" cannot attack on its following turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55875323.jpg"

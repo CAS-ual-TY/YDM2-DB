@@ -1,10 +1,11 @@
 {
-  "id": 101102010,
+  "id": 49088914,
   "name": "Datascape Lady - Ruirui",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is in your hand: You can target 1 \"Datascape\" card you control; you cannot Special Summon monsters for the rest of this turn, except Level/Rank 3 or higher monsters, also send 1 \"Datascape\" card from your Deck to the GY with a different card type (Monster, Spell, or Trap) from the targeted card, and if you do, Special Summon this card, then you can add 1 \"Datascape\" card from your Deck to your hand with a different card type from the targeted card and the card you sent to the GY, except \"Datascape Lady - Ruirui\". You can only use this effect of \"Datascape Lady - Ruirui\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/101102010.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49088914.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",

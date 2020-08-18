@@ -1,7 +1,8 @@
 {
   "id": 41426869,
   "name": "Black Illusion Ritual",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card is used to Ritual Summon \"Relinquished\". You must also Tribute a monster from your hand or field whose Level is 1 or more.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41426869.jpg"

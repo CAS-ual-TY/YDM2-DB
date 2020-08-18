@@ -1,7 +1,8 @@
 {
   "id": 4357063,
   "name": "Chronomaly City Babylon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can banish 1 \"Chronomaly\" monster from your Graveyard, then target 1 \"Chronomaly\" monster in your Graveyard with the same Level as the banished monster; Special Summon it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4357063.jpg"

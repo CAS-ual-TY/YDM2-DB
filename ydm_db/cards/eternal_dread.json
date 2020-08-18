@@ -1,7 +1,8 @@
 {
   "id": 35787450,
   "name": "Eternal Dread",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Place 2 Clock Counters on each \"Clock Tower Prison\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35787450.jpg"

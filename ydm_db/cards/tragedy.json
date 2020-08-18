@@ -1,7 +1,8 @@
 {
   "id": 35686188,
   "name": "Tragedy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a face-up Attack Position monster(s) your opponent controls is changed to face-up Defense Position: Destroy all Defense Position monsters your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35686188.jpg",

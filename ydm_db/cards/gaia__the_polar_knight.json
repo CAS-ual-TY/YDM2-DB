@@ -1,7 +1,8 @@
 {
   "id": 14882493,
   "name": "Gaia, the Polar Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only use each effect of \"Gaia, the Polar Knight\" once per turn.\n? You can Tribute 1 other DARK monster; add 1 Level 4 LIGHT Warrior-Type monster from your Deck to your hand, then send 1 card from your hand to the Graveyard.\n? You can banish 1 LIGHT monster from your Graveyard, then target 1 monster you control; it gains 500 ATK until the end of your opponent\u0027s turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14882493.jpg"

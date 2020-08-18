@@ -1,7 +1,8 @@
 {
   "id": 97317530,
   "name": "Kalantosa, Mystical Beast of the Forest",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Special Summoned by the effect of a Beast-Type monster: You can target 1 card on the field; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97317530.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 88264988,
   "name": "Red-Eyes Darkness Metal Dragon (OCG)",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "(1) You can Special Summon this card (from your hand) by banishing 1 face-up Dragon-Type monster you control. You can only Special Summon [Red-Eyes Darkness Metal Dragon] this way once per turn.\n\n(2) During your Main Phase: You can Special Summon one 1 Dragon-Type monster from your hand or GY except [Red-Eyes Darkness Metal Dragon]. You can only use this effect of [Red-Eyes Darkness Metal Dragon] once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88264988.jpg"

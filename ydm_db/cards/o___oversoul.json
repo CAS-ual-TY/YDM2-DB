@@ -1,7 +1,8 @@
 {
   "id": 63703130,
   "name": "O - Oversoul",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Elemental HERO\" Normal Monster in your Graveyard; Special Summon that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63703130.jpg"

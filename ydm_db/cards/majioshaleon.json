@@ -1,7 +1,8 @@
 {
   "id": 67211766,
   "name": "Majioshaleon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Your opponent cannot select this card as an attack target while they control any Spell/Trap Cards. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67211766.jpg"

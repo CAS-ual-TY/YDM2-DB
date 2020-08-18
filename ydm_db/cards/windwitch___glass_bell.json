@@ -1,7 +1,8 @@
 {
   "id": 71007216,
   "name": "Windwitch - Glass Bell",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal or Special Summoned: You can add 1 \"Windwitch\" monster from your Deck to your hand, except \"Windwitch - Glass Bell\", also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Windwitch - Glass Bell\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71007216.jpg"

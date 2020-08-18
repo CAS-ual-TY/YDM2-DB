@@ -1,7 +1,8 @@
 {
   "id": 46145256,
   "name": "Barrier Statue of the Heavens",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "No monsters can be Special Summoned, except for LIGHT monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46145256.jpg"

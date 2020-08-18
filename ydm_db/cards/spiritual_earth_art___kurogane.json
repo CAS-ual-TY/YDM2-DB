@@ -1,7 +1,8 @@
 {
   "id": 70156997,
   "name": "Spiritual Earth Art - Kurogane",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Tribute 1 EARTH monster. Special Summon 1 Level 4 or lower EARTH monster from your Graveyard, except the Tributed monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70156997.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 65367484,
   "name": "Photon Thrasher",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65367484.jpg"

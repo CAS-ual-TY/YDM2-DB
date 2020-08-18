@@ -1,7 +1,8 @@
 {
   "id": 36750412,
   "name": "Magna Drago",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card inflicts battle damage to your opponent: It gains 200 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36750412.jpg"

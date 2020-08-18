@@ -1,7 +1,8 @@
 {
   "id": 80168720,
   "name": "Darkness Approaches",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80168720.jpg"

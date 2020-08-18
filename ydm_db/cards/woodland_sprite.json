@@ -1,7 +1,8 @@
 {
   "id": 6979239,
   "name": "Woodland Sprite",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Send 1 Equip Card equipped to this card to the Graveyard. Inflict 500 points of damage to your opponent\u0027s Life Points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6979239.jpg"

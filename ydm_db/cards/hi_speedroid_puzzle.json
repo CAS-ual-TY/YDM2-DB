@@ -1,7 +1,8 @@
 {
   "id": 86943389,
   "name": "Hi-Speedroid Puzzle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nAt the start of the Damage Step, if this card battles a Special Summoned monster: You can make this card\u0027s ATK become double its current ATK until the end of the Damage Step. Once per turn, during the End Phase, if this card is in the Graveyard because this Synchro Summoned card was sent there from the field this turn: You can target 1 \"Speedroid\" monster in your Graveyard, except \"Hi-Speedroid Puzzle\"; add it to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86943389.jpg"

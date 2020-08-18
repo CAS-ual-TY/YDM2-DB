@@ -1,7 +1,8 @@
 {
   "id": 5053103,
   "name": "Battle Ox",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5053103.jpg"

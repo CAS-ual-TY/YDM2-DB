@@ -1,7 +1,8 @@
 {
   "id": 8078366,
   "name": "Atlantean Attack Squad",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 800 ATK while you control a face-up Fish, Sea Serpent, or Aqua-Type monster other than this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8078366.jpg"

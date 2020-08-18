@@ -1,7 +1,8 @@
 {
   "id": 62867251,
   "name": "Light of Intervention",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While this card is on the field, Monster Cards cannot be Set or flipped face-down. If a Monster Card would be Set, it must be Normal Summoned in face-up Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62867251.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 13756293,
   "name": "King Dragun",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot target Dragon monsters with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13756293.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 95265975,
   "name": "Ghoul with an Appetite",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A monster with a heavy appetite that has never been satisfied.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95265975.jpg"

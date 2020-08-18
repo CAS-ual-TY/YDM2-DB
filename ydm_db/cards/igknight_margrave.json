@@ -1,7 +1,8 @@
 {
   "id": 50407691,
   "name": "Igknight Margrave",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A high-ranking Igknight warrior. When he does enter the fray, his sweeping attacks are feared not just by the enemy but also his own troops.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50407691.jpg"

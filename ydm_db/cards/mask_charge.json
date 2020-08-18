@@ -1,7 +1,8 @@
 {
   "id": 87819421,
   "name": "Mask Charge",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"HERO\" monster and 1 \"Change\" Quick-Play Spell Card in your Graveyard; add them to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87819421.jpg"

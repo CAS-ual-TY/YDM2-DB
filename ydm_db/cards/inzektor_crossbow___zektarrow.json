@@ -1,7 +1,8 @@
 {
   "id": 87047074,
   "name": "Inzektor Crossbow - Zektarrow",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to an \"Inzektor\" monster. It gains 500 ATK. Your opponent cannot activate cards or effects in response to the activation of the equipped monster\u0027s effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87047074.jpg"

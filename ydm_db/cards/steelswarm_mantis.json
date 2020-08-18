@@ -1,7 +1,8 @@
 {
   "id": 85505315,
   "name": "Steelswarm Mantis",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target 1 \"Steelswarm\" monster in your Graveyard; Special Summon that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85505315.jpg"

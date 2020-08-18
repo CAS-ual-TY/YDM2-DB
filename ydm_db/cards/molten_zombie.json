@@ -1,7 +1,8 @@
 {
   "id": 4732017,
   "name": "Molten Zombie",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Special Summoned from the Graveyard: Draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4732017.jpg"

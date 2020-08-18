@@ -1,7 +1,8 @@
 {
   "id": 37231841,
   "name": "Lighten the Load",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can add 1 Level 7 or higher monster from your hand to your Deck and shuffle it, then draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37231841.jpg"

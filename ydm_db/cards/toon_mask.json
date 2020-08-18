@@ -1,7 +1,8 @@
 {
   "id": 79447365,
   "name": "Toon Mask",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; Special Summon 1 Toon monster from your hand or Deck, whose Level is less than or equal to the Level/Rank of that monster, ignoring its Summoning conditions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79447365.jpg"

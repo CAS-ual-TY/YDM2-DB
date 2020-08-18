@@ -1,7 +1,8 @@
 {
   "id": 96142517,
   "name": "Rank-Up-Magic Admiration of the Thousands",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 or more Xyz Monsters in each Graveyard, all of the same Rank; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster that is 1 Rank higher than those monsters, and attach those monsters to it as Xyz Materials. You cannot Special Summon other monsters during the turn you activate this card. You can only activate 1 \"Rank-Up-Magic Admiration of the Thousands\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96142517.jpg"

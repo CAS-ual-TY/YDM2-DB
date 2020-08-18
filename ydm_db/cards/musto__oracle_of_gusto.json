@@ -1,7 +1,8 @@
 {
   "id": 9837195,
   "name": "Musto, Oracle of Gusto",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can target 1 \"Gusto\" monster in your Graveyard and 1 face-up monster on the field; shuffle the first target into the Deck, and if you do, negate the second target\u0027s effects until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9837195.jpg"

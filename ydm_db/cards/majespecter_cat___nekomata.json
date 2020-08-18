@@ -1,7 +1,8 @@
 {
   "id": 5506791,
   "name": "Majespecter Cat - Nekomata",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" card from your Deck to your hand during the End Phase of this turn. You can only use this effect of \"Majespecter Cat - Nekomata\" once per turn. Cannot be targeted or destroyed by your opponent\u0027s card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5506791.jpg"

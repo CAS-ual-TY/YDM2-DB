@@ -1,7 +1,8 @@
 {
   "id": 71705144,
   "name": "Performapal Recasting",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Reveal any number of \"Performapal\" monsters from your hand and shuffle them into the Deck, then draw cards equal to the number of cards you shuffled into the Deck +1. You can only activate 1 \"Performapal Recasting\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71705144.jpg"

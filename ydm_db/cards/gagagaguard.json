@@ -1,7 +1,8 @@
 {
   "id": 76972801,
   "name": "Gagagaguard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control 2 or more face-up \"Gagaga\" monsters: This turn, monsters you control cannot be destroyed by battle or by card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76972801.jpg"

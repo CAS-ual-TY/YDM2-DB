@@ -1,7 +1,8 @@
 {
   "id": 42167046,
   "name": "Widespread Dud",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Select 2 face-up Attack Position monsters on the field. When any of the selected monsters are removed from the field, destroy this card. When this card is destroyed, destroy the selected monster(s).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42167046.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 3629090,
   "name": "Cyber Angel Idaten",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can add 1 Ritual Spell from your Deck or GY to your hand. If this card is Tributed: You can make all Ritual Monsters you control gain 1000 ATK/DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3629090.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 94773007,
   "name": "Jirai Gumo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card declares an attack: Toss a coin and call it. If you call it wrong, lose half your Life Points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94773007.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 55067058,
   "name": "Number 19: Freezadon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 5 monsters\nOnce per turn, if an Xyz Monster you control would activate an effect by detaching an Xyz Material(s), you can detach 1 Xyz Material from this card instead of 1 of those Xyz Materials.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55067058.jpg"

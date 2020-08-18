@@ -1,7 +1,8 @@
 {
   "id": 10000000,
   "name": "Obelisk the Tormentor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card\u0027s Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Neither player can target this card with card effects. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. You can Tribute 2 monsters; destroy all monsters your opponent controls. This card cannot declare an attack the turn this effect is activated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10000000.jpg",

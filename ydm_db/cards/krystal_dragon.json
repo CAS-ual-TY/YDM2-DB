@@ -1,7 +1,8 @@
 {
   "id": 77363314,
   "name": "Krystal Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during your Battle Step, if this card battled this turn: You can add 1 Level 8 Dragon-Type monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77363314.jpg"

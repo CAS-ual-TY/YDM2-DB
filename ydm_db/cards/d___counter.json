@@ -1,7 +1,8 @@
 {
   "id": 8698851,
   "name": "D - Counter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a \"Destiny HERO\" monster you control is targeted for an attack: Destroy the attacking monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8698851.jpg"

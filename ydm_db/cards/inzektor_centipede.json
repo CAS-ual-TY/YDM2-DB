@@ -1,7 +1,8 @@
 {
   "id": 21790410,
   "name": "Inzektor Centipede",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can add 1 \"Inzektor\" card from your Deck to your hand. While this card is equipped to a monster, that monster\u0027s Level is increased by 3.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21790410.jpg"

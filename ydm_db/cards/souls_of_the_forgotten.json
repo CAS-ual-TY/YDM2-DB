@@ -1,7 +1,8 @@
 {
   "id": 4920010,
   "name": "Souls of the Forgotten",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4920010.jpg"

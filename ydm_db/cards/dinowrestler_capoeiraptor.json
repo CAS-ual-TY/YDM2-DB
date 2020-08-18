@@ -1,7 +1,8 @@
 {
   "id": 29996433,
   "name": "Dinowrestler Capoeiraptor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This Attack Position card cannot be destroyed by battle. If this card is attacked, change it to Defense Position at the end of the Damage Step. During the Standby Phase, if this card is in Defense Position: You can Special Summon 1 \"Dinowrestler Capoeiraptor\" from your Deck. You can only use this effect of \"Dinowrestler Capoeiraptor\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29996433.jpg"

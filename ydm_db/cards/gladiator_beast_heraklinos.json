@@ -1,7 +1,8 @@
 {
   "id": 27346636,
   "name": "Gladiator Beast Heraklinos",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Gladiator Beast Laquari\" + 2 \"Gladiator Beast\" monsters\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) During either player\u0027s turn, when a Spell/Trap Card is activated: You can discard 1 card; negate the activation and destroy it. This card must be face-up on the field to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27346636.jpg"

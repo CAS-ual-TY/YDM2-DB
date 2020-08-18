@@ -1,7 +1,8 @@
 {
   "id": 83764996,
   "name": "The Illusory Gentleman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Wearing odd fashions, this gentleman is very fickle. He sometimes saves people and at other times commits crimes.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83764996.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 52584282,
   "name": "Hercules Beetle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A massive beetle with a tough carapace and a dangerous horn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52584282.jpg"

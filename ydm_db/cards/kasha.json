@@ -1,7 +1,8 @@
 {
   "id": 52512994,
   "name": "Kasha",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card\u0027s ATK becomes 1000 x the number of face-up monsters shuffled into the Deck this way, whose original Type was Zombie.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52512994.jpg"

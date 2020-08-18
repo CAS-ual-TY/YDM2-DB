@@ -1,7 +1,8 @@
 {
   "id": 21187631,
   "name": "Altergeist Dragvirion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nWhen an opponent\u0027s Special Summoned monster declares an attack: You can return 1 \"Altergeist\" monster you control to the hand; negate that attack. If this card is Tributed and sent to the GY: You can Special Summon this card. You can only use each effect of \"Altergeist Dragvirion\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21187631.jpg"

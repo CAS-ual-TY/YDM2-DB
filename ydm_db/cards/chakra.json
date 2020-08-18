@@ -1,7 +1,8 @@
 {
   "id": 65393205,
   "name": "Chakra",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with \"Resurrection of Chakra\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65393205.jpg"

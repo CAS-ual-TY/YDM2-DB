@@ -1,7 +1,8 @@
 {
   "id": 72491806,
   "name": "U.A. Midfielder",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Midfielder\". You can only Special Summon \"U.A. Midfielder\" once per turn this way. During either player\u0027s turn: You can target 1 other \"U.A.\" monster you control; return that face-up monster to the hand, then Special Summon 1 \"U.A.\" monster from your hand with a different name from that monster. You can only use this effect of \"U.A. Midfielder\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72491806.jpg"

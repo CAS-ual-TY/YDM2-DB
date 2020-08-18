@@ -1,0 +1,21 @@
+{
+  "id": 100415001,
+  "name": "Magistus Grimoire Crowley",
+  "illegal": false,
+  "custom": false,
+  "text": "You can send 1 Spellcaster monster from your hand or face-up field to the GY; Special Summon this card from your hand. You can declare 1 Attribute; this card becomes that Attribute until the end of this turn. You can banish this card from your GY, then target 1 \"Magistus\" monster you control; equip 1 \"Magistus\" monster from your GY to it, except a Level 4 monster. You can only use each effect of \"Magistus Grimoire Crowley\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100415001.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

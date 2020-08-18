@@ -1,7 +1,8 @@
 {
   "id": 5818294,
   "name": "Bujingi Turtle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn, when a card or effect is activated that targets a \"Bujin\" monster you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5818294.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 61641818,
   "name": "Datascape Dragon - Longlong",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2+ Level 3 monsters with the same Type and Attribute\nWhile this card has material, your opponent cannot target it with card effects. When your opponent activates the effect of a monster with an Attribute that is not on their field, while they control a face-up monster (Quick Effect): You can detach 2 materials from this card; negate the activation. You can only use this effect of \"Datascape Dragon - Longlong\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61641818.jpg"

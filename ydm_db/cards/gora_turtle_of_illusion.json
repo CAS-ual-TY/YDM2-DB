@@ -1,7 +1,8 @@
 {
   "id": 42868711,
   "name": "Gora Turtle of Illusion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Negate the effect of Spell and Trap Cards controlled by your opponent that target this face-up card on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42868711.jpg"

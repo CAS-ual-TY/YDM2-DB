@@ -1,7 +1,8 @@
 {
   "id": 23379054,
   "name": "Ghost Charon, the Underworld Boatman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent controls a monster, and you control no other monsters: You can target 1 Fusion Monster in your Graveyard; banish both this card from the field and that target, and if you do, Special Summon 1 Dragon-Type Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had (original Level, if face-down). You can only use this effect of \"Ghost Charon, the Underworld Boatman\" once per turn. You cannot Special Summon monsters the turn you activate this effect, except Dragon-Type monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23379054.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 61864793,
   "name": "Earthquake Giant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, when the battle position of this card is changed, you can select 1 monster your opponent controls and change its battle position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61864793.jpg"

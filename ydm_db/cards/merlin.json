@@ -1,7 +1,8 @@
 {
   "id": 3580032,
   "name": "Merlin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only use each effect of \"Merlin\" once per turn.\n? You can Tribute this card; Special Summon 1 \"Noble Knight\" monster from your Deck. You cannot Special Summon monsters the turn you activate this effect, except \"Noble Knight\" monsters.\n? (Quick Effect): You can banish this card from your GY; immediately after this effect resolves, Synchro Summon 1 \"Noble Knight\" Synchro Monster using monsters you control.\n? (Quick Effect): You can banish this card from your GY; immediately after this effect resolves, Xyz Summon 1 \"Noble Knight\" Xyz Monster using monsters you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3580032.jpg"

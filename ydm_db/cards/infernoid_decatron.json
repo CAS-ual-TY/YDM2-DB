@@ -1,7 +1,8 @@
 {
   "id": 58446973,
   "name": "Infernoid Decatron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal or Special Summoned: You can send 1 \"Infernoid\" monster from your Deck to the Graveyard, except \"Infernoid Decatron\", and if you do, increase this card\u0027s Level by the Level of the sent monster, and if you do that, this card\u0027s name becomes that monster\u0027s, and replace this effect with that monster\u0027s original effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58446973.jpg"

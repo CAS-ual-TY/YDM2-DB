@@ -1,7 +1,8 @@
 {
   "id": 59983499,
   "name": "Dancing Elf",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An elf that dances across the sky with wings of razor-sharp blades.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59983499.jpg"

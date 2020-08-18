@@ -1,7 +1,8 @@
 {
   "id": 97803170,
   "name": "Call of the Archfiend",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can target 1 Level 5 or higher Fiend monster in your GY; discard 1 Fiend monster, and if you do, Special Summon the targeted monster. You can only use this effect of \"Call of the Archfiend\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97803170.jpg"

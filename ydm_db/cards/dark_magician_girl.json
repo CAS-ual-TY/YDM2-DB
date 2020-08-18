@@ -1,7 +1,8 @@
 {
   "id": 38033121,
   "name": "Dark Magician Girl",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38033121.jpg",

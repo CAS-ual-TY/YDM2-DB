@@ -1,7 +1,8 @@
 {
   "id": 28183605,
   "name": "Dragunity Dux",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Gains 200 ATK for each \"Dragunity\" card you control. When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28183605.jpg"

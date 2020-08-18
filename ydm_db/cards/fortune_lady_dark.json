@@ -1,7 +1,8 @@
 {
   "id": 55586621,
   "name": "Fortune Lady Dark",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card\u0027s ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When a face-up \"Fortune Lady\" monster you control destroys an opponent\u0027s monster by battle and sends it to the Graveyard, you can select and Special Summon 1 \"Fortune Lady\" monster from your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55586621.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 47929865,
   "name": "Magidog",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type monster, you can select and add 1 Field Spell Card from your Graveyard to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47929865.jpg"

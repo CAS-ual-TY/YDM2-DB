@@ -1,7 +1,8 @@
 {
   "id": 31303283,
   "name": "Hazy Flame Hyppogrif",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31303283.jpg"

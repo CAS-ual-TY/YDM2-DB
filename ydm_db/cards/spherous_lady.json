@@ -1,7 +1,8 @@
 {
   "id": 52121290,
   "name": "Spherous Lady",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Many have been deceived by the beauty of this vampire.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52121290.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 87473172,
   "name": "Firebird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a Winged Beast-Type monster(s) on your side of the field is destroyed, this card gains 500 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87473172.jpg"

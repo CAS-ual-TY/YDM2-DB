@@ -1,7 +1,8 @@
 {
   "id": 34236961,
   "name": "Ante",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each Player reveals 1 card from their hand. If one card is higher Level than the other, the card with the lower Level is sent to the Graveyard, and the player who revealed it takes 1000 damage. (Non-Monster Cards are treated as Level 0.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34236961.jpg"

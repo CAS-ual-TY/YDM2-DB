@@ -1,7 +1,8 @@
 {
   "id": 59616123,
   "name": "Trap Stun",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Negate all other Trap effects on the field this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59616123.jpg"

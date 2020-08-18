@@ -1,7 +1,8 @@
 {
   "id": 69514125,
   "name": "Avenging Knight Parshath",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nOnce per turn: You can target 1 face-up monster your opponent controls; change that target\u0027s battle position. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69514125.jpg"

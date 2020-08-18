@@ -1,7 +1,8 @@
 {
   "id": 42591472,
   "name": "Laughing Flower",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A flower whose laugh can confuse the minds of enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42591472.jpg"

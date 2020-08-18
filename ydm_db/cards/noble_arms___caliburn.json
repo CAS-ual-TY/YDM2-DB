@@ -1,7 +1,8 @@
 {
   "id": 23562407,
   "name": "Noble Arms - Caliburn",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only control 1 \"Noble Arms - Caliburn\". Equip only to a Warrior-Type monster. It gains 500 ATK. Once per turn: You can gain 500 LP. If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Caliburn\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23562407.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 29380133,
   "name": "Yado Karu",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is changed from Attack Position to Defense Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29380133.jpg"

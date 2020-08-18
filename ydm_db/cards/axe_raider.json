@@ -1,7 +1,8 @@
 {
   "id": 48305365,
   "name": "Axe Raider",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An axe-wielding monster of tremendous strength and agility.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48305365.jpg"

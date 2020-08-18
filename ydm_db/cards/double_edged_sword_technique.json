@@ -1,7 +1,8 @@
 {
   "id": 21007444,
   "name": "Double-Edged Sword Technique",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 2 \"Six Samurai\" monsters in your GY; Special Summon those targets in Attack Position. During the End Phase of this turn, destroy them, and if you do, take damage equal to those destroyed monsters\u0027 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21007444.jpg"

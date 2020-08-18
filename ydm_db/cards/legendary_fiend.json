@@ -1,7 +1,8 @@
 {
   "id": 99747800,
   "name": "Legendary Fiend",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during your Standby Phase: This card gains 700 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99747800.jpg"

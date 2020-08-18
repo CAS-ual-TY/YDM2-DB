@@ -1,7 +1,8 @@
 {
   "id": 35950025,
   "name": "Galaxy Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a \"Photon\" or \"Galaxy\" monster, you can Normal Summon this card without Tributing. If Summoned this way: Target 1 \"Galaxy-Eyes Photon Dragon\" in your GY (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in Defense Position. This ATK decrease lasts until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35950025.jpg"

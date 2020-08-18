@@ -1,7 +1,8 @@
 {
   "id": 81896370,
   "name": "Swift Birdman Joe",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners\u0027 hands.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81896370.jpg"

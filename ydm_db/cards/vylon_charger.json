@@ -1,7 +1,8 @@
 {
   "id": 13220032,
   "name": "Vylon Charger",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13220032.jpg"

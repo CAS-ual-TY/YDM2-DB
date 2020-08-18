@@ -1,7 +1,8 @@
 {
   "id": 30221870,
   "name": "Meklord Emperor Wisel - Synchro Absorption",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. During your opponent\u0027s turn (Quick Effect): You can send 1 face-up \"Meklord\" monster you control to the GY; Special Summon this card from your hand. You can only use this effect of \"Meklord Emperor Wisel - Synchro Absorption\" once per turn. If this card is Special Summoned: You can target 1 monster your opponent controls; it cannot attack for the rest of this turn. When a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30221870.jpg"

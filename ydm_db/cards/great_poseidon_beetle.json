@@ -1,7 +1,8 @@
 {
   "id": 75292259,
   "name": "Great Poseidon Beetle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card targets an opponent\u0027s face-up Attack Position monster for an attack, and that monster is not destroyed by the battle, this card can attack the same monster again in a row. This effect can only be used twice per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75292259.jpg"

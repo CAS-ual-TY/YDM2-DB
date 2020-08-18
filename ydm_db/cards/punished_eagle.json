@@ -1,7 +1,8 @@
 {
   "id": 74703140,
   "name": "Punished Eagle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Blue-Winged Crown\" + \"Niwatori\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/74703140.jpg"

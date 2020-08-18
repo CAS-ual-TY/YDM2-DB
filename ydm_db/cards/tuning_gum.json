@@ -1,7 +1,8 @@
 {
   "id": 82744076,
   "name": "Tuning Gum",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can target 1 face-up monster you control; that face-up monster is treated as a Tuner this turn. You can only use this effect of \"Tuning Gum\" once per turn. You can only attack with Synchro Monsters during the turn you activate this effect. During either player\u0027s turn, when a card or effect is activated that targets exactly 1 Synchro Monster you control (and no other cards): You can banish this card from your Graveyard; negate the activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82744076.jpg"

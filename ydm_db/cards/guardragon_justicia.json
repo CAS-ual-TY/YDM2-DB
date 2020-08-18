@@ -1,7 +1,8 @@
 {
   "id": 11012154,
   "name": "Guardragon Justicia",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The fate of the World depends on the Guardragons, born from the World Legacy.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11012154.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 35752363,
   "name": "Vermillion Sparrow",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35752363.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 95750695,
   "name": "Supervise",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to a Gemini monster. It becomes an Effect Monster, and gains its effects. If this face-up card is sent from the field to the GY: Target 1 Normal Monster in your GY; Special Summon it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95750695.jpg"

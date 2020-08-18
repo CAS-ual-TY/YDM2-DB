@@ -1,7 +1,8 @@
 {
   "id": 23995346,
   "name": "Blue-Eyes Ultimate Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23995346.jpg",

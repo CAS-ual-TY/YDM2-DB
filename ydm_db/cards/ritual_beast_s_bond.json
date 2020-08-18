@@ -1,7 +1,8 @@
 {
   "id": 75457624,
   "name": "Ritual Beast\u0027s Bond",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Banish 2 \"Ritual Beast\" monsters you control; Special Summon 1 \"Ritual Beast\" monster from your Extra Deck, ignoring its Summoning conditions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75457624.jpg"

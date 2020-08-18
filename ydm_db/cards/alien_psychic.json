@@ -1,7 +1,8 @@
 {
   "id": 58012107,
   "name": "Alien Psychic",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Monsters with A-Counters cannot declare an attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58012107.jpg"

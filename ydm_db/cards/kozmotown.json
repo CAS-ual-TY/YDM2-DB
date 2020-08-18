@@ -1,7 +1,8 @@
 {
   "id": 67237709,
   "name": "Kozmotown",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can target 1 of your banished \"Kozmo\" monsters; return it to the hand, and if you do, lose LP equal to its original Level x 100. Once per turn: You can reveal any number of \"Kozmo\" monsters in your hand and shuffle them into the Deck, then draw cards equal to the number of cards you shuffled into the Deck. If this card in the Field Zone is destroyed by a card effect: You can add 1 \"Kozmo\" card from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67237709.jpg"

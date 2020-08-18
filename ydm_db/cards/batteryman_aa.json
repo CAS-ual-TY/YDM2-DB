@@ -1,7 +1,8 @@
 {
   "id": 63142001,
   "name": "Batteryman AA",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If all \"Batteryman AA\"(s) you control are in Attack Position, this card gains 1000 ATK for each. If all \"Batteryman AA\"(s) you control are in Defense Position, this card gains 1000 DEF for each.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63142001.jpg"

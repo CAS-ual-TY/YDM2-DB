@@ -1,7 +1,8 @@
 {
   "id": 87047161,
   "name": "Mermaid Shark",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can add 1 Level 3, 4 or 5 Fish-Type monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87047161.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 3370104,
   "name": "Cyber Phoenix",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While this card is in Attack Position, negate any Spell/Trap effects that target 1 Machine monster you control (and no other cards). When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3370104.jpg"

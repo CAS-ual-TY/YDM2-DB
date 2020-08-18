@@ -1,7 +1,8 @@
 {
   "id": 11813722,
   "name": "Barkion\u0027s Bark",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only if you control a face-up \"Naturia\" monster. Your opponent cannot activate Trap Cards this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11813722.jpg"

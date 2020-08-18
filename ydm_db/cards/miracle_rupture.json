@@ -1,7 +1,8 @@
 {
   "id": 44297127,
   "name": "Miracle Rupture",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Send 1 Level 4 or lower Rock monster from your Deck to the GY, then, if \"Fossil Fusion\" is in your GY, draw 1 card. You can only activate 1 \"Miracle Rupture\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44297127.jpg"

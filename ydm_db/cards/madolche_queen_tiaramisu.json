@@ -1,7 +1,8 @@
 {
   "id": 37164373,
   "name": "Madolche Queen Tiaramisu",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target up to 2 \"Madolche\" cards in your Graveyard; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37164373.jpg"

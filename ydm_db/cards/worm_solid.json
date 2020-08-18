@@ -1,7 +1,8 @@
 {
   "id": 3204467,
   "name": "Worm Solid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 100 DEF for each Reptile-Type \"Worm\" monster in your Graveyard. If your opponent takes Battle Damage from attacking this card, at the end of the Damage Step select 1 Spell or Trap Card your opponent controls, and destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3204467.jpg"

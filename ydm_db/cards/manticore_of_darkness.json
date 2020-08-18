@@ -1,7 +1,8 @@
 {
   "id": 77121851,
   "name": "Manticore of Darkness",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the End Phase of the turn this card was sent to the Graveyard: You can send to the Graveyard 1 Beast, Beast-Warrior, or Winged Beast-Type monster from your hand or your side of the field; Special Summon this card from your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77121851.jpg"

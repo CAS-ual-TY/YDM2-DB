@@ -1,7 +1,8 @@
 {
   "id": 24521754,
   "name": "Goldilocks the Battle Landscaper",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal or Special Summoned to a zone that is not the center Main Monster Zone, destroy this card. This card gains 3000 ATK while in the center Main Monster Zone. Once per turn: You can choose 1 of your unused Main Monster Zones; move this card from your Main Monster Zone to that zone, then destroy all other cards in the column of the zone this card was in, the column of the zone this card has moved to, and all columns in between.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24521754.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 51452091,
   "name": "Royal Decree",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Negate all other Trap effects on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51452091.jpg"

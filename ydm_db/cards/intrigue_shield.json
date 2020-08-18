@@ -1,7 +1,8 @@
 {
   "id": 23122036,
   "name": "Intrigue Shield",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 face-up monster you control; equip this card to that target. Once per turn, while the equipped monster is in Attack Position, it cannot be destroyed by battle. You take no battle damage from attacks involving it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23122036.jpg"

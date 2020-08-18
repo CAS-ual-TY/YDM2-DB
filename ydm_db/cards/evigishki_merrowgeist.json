@@ -1,7 +1,8 @@
 {
   "id": 76372778,
   "name": "Evigishki Merrowgeist",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 4 monsters\n After damage calculation, if this card destroys an opponent\u0027s monster by battle: You can detach 1 Xyz Material from this card; shuffle the destroyed monster into the Deck instead of sending it to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76372778.jpg"

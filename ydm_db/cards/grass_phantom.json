@@ -1,7 +1,8 @@
 {
   "id": 41249545,
   "name": "Grass Phantom",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 500 ATK for each \"Grass Phantom\" in your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41249545.jpg"

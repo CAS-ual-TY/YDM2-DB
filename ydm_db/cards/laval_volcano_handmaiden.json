@@ -1,7 +1,8 @@
 {
   "id": 2407147,
   "name": "Laval Volcano Handmaiden",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is sent to the Graveyard, if you have a \"Laval\" monster in your Graveyard other than \"Laval Volcano Handmaiden\": You can send 1 \"Laval\" monster from your Deck to your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2407147.jpg"

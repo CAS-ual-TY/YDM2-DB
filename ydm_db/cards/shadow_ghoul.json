@@ -1,7 +1,8 @@
 {
   "id": 30778711,
   "name": "Shadow Ghoul",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 100 ATK for each monster in your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30778711.jpg"

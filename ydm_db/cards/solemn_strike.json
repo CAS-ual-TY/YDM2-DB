@@ -1,7 +1,8 @@
 {
   "id": 40605147,
   "name": "Solemn Strike",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a monster(s) would be Special Summoned, OR a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40605147.jpg"

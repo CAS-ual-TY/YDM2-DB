@@ -1,7 +1,8 @@
 {
   "id": 32872833,
   "name": "Parsec, the Interstellar Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a Level 8 monster, you can Normal Summon this card without Tributing.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32872833.jpg"

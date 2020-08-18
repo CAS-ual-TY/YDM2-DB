@@ -1,7 +1,8 @@
 {
   "id": 16550875,
   "name": "Inzektor Sword - Zektkaliber",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to an \"Inzektor\" monster. It gains 800 ATK and DEF. When this face-up card on the field is sent to the Graveyard: Target 1 \"Inzektor\" monster in your Graveyard; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16550875.jpg"

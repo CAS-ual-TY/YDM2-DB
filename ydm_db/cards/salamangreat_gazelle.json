@@ -1,7 +1,8 @@
 {
   "id": 26889158,
   "name": "Salamangreat Gazelle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a \"Salamangreat\" monster is sent to your GY, except \"Salamangreat Gazelle\" (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Salamangreat\" card from your Deck to the GY, except \"Salamangreat Gazelle\". You can only use each effect of \"Salamangreat Gazelle\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26889158.jpg"

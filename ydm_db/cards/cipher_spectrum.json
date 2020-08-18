@@ -1,7 +1,8 @@
 {
   "id": 98905,
   "name": "Cipher Spectrum",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a \"Cipher\" Xyz Monster(s) you control that has Xyz Material is destroyed by battle or an opponent\u0027s card effect and sent to your Graveyard: Target 1 of those monsters; Special Summon it, and if you do, Special Summon 1 Xyz Monster from your Extra Deck with the same name as that Xyz monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98905.jpg"

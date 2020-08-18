@@ -1,7 +1,8 @@
 {
   "id": 94377247,
   "name": "Curse of the Masked Beast",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card is used to Ritual Summon \"The Masked Beast\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94377247.jpg"

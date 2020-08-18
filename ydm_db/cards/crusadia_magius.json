@@ -1,7 +1,8 @@
 {
   "id": 72228247,
   "name": "Crusadia Magius",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 \"Crusadia\" monster, except \"Crusadia Magius\"\nGains ATK equal to the original ATK of the monster this card points to. The monster this card points to cannot attack. If an Effect Monster is Special Summoned to the zone this card points to (except during the Damage Step): You can add 1 \"Crusadia\" monster from your Deck to your hand. You can only use this effect of \"Crusadia Magius\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72228247.jpg"

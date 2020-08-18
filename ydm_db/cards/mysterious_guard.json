@@ -1,7 +1,8 @@
 {
   "id": 1347977,
   "name": "Mysterious Guard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Target 1 face-up monster on the field, and if you control a face-up Warrior-Type monster, you can target 1 additional face-up monster on the field; return the first target to the top of the Deck, then return the additional target (if any) to the hand if you still control a face-up Warrior-Type monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1347977.jpg"

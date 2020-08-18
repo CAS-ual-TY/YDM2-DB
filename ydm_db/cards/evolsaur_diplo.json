@@ -1,7 +1,8 @@
 {
   "id": 17045014,
   "name": "Evolsaur Diplo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17045014.jpg"

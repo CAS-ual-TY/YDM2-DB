@@ -1,7 +1,8 @@
 {
   "id": 89529919,
   "name": "Field-Commander Rahz",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Special Summoned: Choose 1 Level 4 or lower Warrior-Type monster from your Deck, except \"Field-Commander Rahz\", and place it on top of your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89529919.jpg"

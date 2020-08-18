@@ -1,7 +1,8 @@
 {
   "id": 96704974,
   "name": "Boogie Trap",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 2 cards, then target 1 Trap in your GY; Set that target. It can be activated this turn. You can only activate 1 \"Boogie Trap\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96704974.jpg"

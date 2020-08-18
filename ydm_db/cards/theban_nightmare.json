@@ -1,7 +1,8 @@
 {
   "id": 51838385,
   "name": "Theban Nightmare",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Gains 1500 ATK while you have no cards in your hand nor in your Spell \u0026 Trap Zones.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51838385.jpg"

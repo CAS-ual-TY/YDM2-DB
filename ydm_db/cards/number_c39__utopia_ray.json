@@ -1,7 +1,8 @@
 {
   "id": 56840427,
   "name": "Number C39: Utopia Ray",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "3 Level 4 LIGHT monsters\nYou can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56840427.jpg"

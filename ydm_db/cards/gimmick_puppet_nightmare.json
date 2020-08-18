@@ -1,7 +1,8 @@
 {
   "id": 55204071,
   "name": "Gimmick Puppet Nightmare",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Special Summon this card (from your hand) by Tributing 1 face-up Xyz Monster you control. You can only Special Summon \"Gimmick Puppet Nightmare\" once per turn this way. When you do: You can Special Summon 1 \"Gimmick Puppet Nightmare\" from your hand or Graveyard. If this card is Special Summoned, you cannot Special Summon any monsters for the rest of this turn, except \"Gimmick Puppet\" monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55204071.jpg"

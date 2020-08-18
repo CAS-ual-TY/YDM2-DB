@@ -1,7 +1,8 @@
 {
   "id": 63503850,
   "name": "Brute Enforcer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Effect Monsters\nYou can discard 1 card, then target 1 face-up card your opponent controls; your opponent can discard 1 card with the same original card type (Monster, Spell, or Trap) as that face-up card to negate this effect, otherwise destroy that face-up card. You can only use this effect of \"Brute Enforcer\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63503850.jpg"

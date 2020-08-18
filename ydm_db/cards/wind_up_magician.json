@@ -1,7 +1,8 @@
 {
   "id": 59297550,
   "name": "Wind-Up Magician",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If the effect of a \"Wind-Up\" monster is activated, except \"Wind-Up Magician\": You can Special Summon 1 Level 4 or lower \"Wind-Up\" monster from your Deck in face-up Defense Position. This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59297550.jpg"

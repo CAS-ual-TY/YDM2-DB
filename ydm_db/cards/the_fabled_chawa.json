@@ -1,7 +1,8 @@
 {
   "id": 29905795,
   "name": "The Fabled Chawa",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Main Phase, you can discard 1 \"Fabled\" monster and Special Summon this card from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29905795.jpg"

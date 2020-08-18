@@ -1,7 +1,8 @@
 {
   "id": 26842483,
   "name": "Justice Bringer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, when a Special Summoned monster your opponent controls activates its effect, you can negate the activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26842483.jpg"

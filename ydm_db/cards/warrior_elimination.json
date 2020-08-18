@@ -1,7 +1,8 @@
 {
   "id": 90873992,
   "name": "Warrior Elimination",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Destroy all Warrior monsters on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90873992.jpg"

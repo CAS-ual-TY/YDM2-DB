@@ -1,7 +1,8 @@
 {
   "id": 46656406,
   "name": "Mirror of Oaths",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent Special Summons a monster(s) from their Main Deck: Destroy that monster(s), and if you do, draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46656406.jpg"

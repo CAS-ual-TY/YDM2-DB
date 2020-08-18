@@ -1,7 +1,8 @@
 {
   "id": 98643358,
   "name": "Diamond Dust",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Destroy as many WATER monsters on the field as possible, then inflict 500 damage to your opponent for each WATER monster destroyed and sent to the Graveyard by this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98643358.jpg"

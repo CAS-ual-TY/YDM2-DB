@@ -1,7 +1,8 @@
 {
   "id": 91798373,
   "name": "Gemini Scorpion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 4 or lower Gemini monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91798373.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 31991800,
   "name": "Majespecter Raccoon - Bunbuku",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" monster from your Deck to your hand. You can only use this effect of \"Majespecter Raccoon - Bunbuku\" once per turn. Cannot be targeted or destroyed by your opponent\u0027s card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31991800.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 53063039,
   "name": "Malefic Claw Stream",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only if you control a face-up \"Malefic\" monster. Select 1 monster your opponent controls, and destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53063039.jpg"

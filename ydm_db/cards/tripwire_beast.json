@@ -1,7 +1,8 @@
 {
   "id": 45042329,
   "name": "Tripwire Beast",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This creature attacks with electromagnetic waves.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45042329.jpg"

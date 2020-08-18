@@ -1,7 +1,8 @@
 {
   "id": 35259350,
   "name": "Smile Universe",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Special Summon as many face-up Pendulum Monsters from your Extra Deck as possible, but they have their effects negated (if any), then your opponent gains LP equal to the total original ATK of those Special Summoned monsters. You cannot Normal or Special Summon other monsters, or attack, during the turn you activate this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35259350.jpg"

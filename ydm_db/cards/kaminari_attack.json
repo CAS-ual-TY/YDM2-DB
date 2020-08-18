@@ -1,7 +1,8 @@
 {
   "id": 9653271,
   "name": "Kaminari Attack",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Ocubeam\" + \"Mega Thunderball\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9653271.jpg"

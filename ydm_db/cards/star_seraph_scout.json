@@ -1,7 +1,8 @@
 {
   "id": 8875971,
   "name": "Star Seraph Scout",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 \"Star Seraph\" monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8875971.jpg"

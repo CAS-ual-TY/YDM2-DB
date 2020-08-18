@@ -1,7 +1,8 @@
 {
   "id": 38406364,
   "name": "Some Summer Summoner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Thunder monsters\nOnce per opponent\u0027s turn (Quick Effect): You can discard 1 card, then target 1 Thunder monster in your GY, except a Link Monster; Special Summon it to your zone this card points to.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38406364.jpg"

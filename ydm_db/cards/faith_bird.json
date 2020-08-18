@@ -1,7 +1,8 @@
 {
   "id": 75582395,
   "name": "Faith Bird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This long-tailed bird blinds its enemies with mystical light.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75582395.jpg"

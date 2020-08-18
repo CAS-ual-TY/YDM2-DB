@@ -1,7 +1,8 @@
 {
   "id": 46291010,
   "name": "Psi-Beast",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned, you can remove from play 1 Psychic-Type monster from your Deck. This card\u0027s Level becomes the Level of that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46291010.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 72772445,
   "name": "Triamid Kingolem",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All Rock-Type monsters on the field gain 500 ATK. If a \"Triamid\" monster you control battles, your opponent\u0027s cards and effects cannot be activated until the end of the Damage Step. If this face-up card in the Field Zone is sent to the Graveyard: You can Special Summon 1 \"Triamid\" monster from your hand. You can only use this effect of \"Triamid Kingolem\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72772445.jpg"

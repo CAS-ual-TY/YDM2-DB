@@ -1,7 +1,8 @@
 {
   "id": 21364070,
   "name": "Mayosenju Hitot",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Special Summoned, except by Pendulum Summon. If this card is Normal or Special Summoned: You can target 1 card your opponent controls; return it to the hand. Each time a card(s) on the field is returned to the hand or Main Deck by your card effect, while this card is on the field: All \"Yosenju\" monsters you currently control gain 500 ATK. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21364070.jpg"

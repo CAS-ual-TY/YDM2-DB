@@ -1,7 +1,8 @@
 {
   "id": 12624008,
   "name": "Radiant Spirit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-LIGHT monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12624008.jpg"

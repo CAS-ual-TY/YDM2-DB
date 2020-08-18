@@ -1,7 +1,8 @@
 {
   "id": 6137095,
   "name": "Malfunction",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Pay 500 Life Points. Negate the activation of a Trap Card and return it to its original position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6137095.jpg"

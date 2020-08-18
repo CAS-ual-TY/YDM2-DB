@@ -1,7 +1,8 @@
 {
   "id": 18752938,
   "name": "Seed of Deception",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Special Summon 1 Level 2 or lower Plant-Type monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18752938.jpg"

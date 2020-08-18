@@ -1,7 +1,8 @@
 {
   "id": 51858306,
   "name": "Eclipse Wyvern",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent to the Graveyard: Banish 1 Level 7 or higher LIGHT or DARK Dragon-Type monster from your Deck. If this card is banished from your Graveyard: You can add the monster banished by this card\u0027s effect to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51858306.jpg"

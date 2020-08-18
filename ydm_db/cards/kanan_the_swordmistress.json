@@ -1,7 +1,8 @@
 {
   "id": 12829151,
   "name": "Kanan the Swordmistress",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A lady warrior armed with sword and shield, she floats lightly and stings sharply.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12829151.jpg"

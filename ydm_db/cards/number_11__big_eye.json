@@ -1,7 +1,8 @@
 {
   "id": 80117527,
   "name": "Number 11: Big Eye",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 7 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; take control of that monster. This card cannot attack the turn this effect is activated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80117527.jpg"

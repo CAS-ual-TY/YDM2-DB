@@ -1,7 +1,8 @@
 {
   "id": 65518099,
   "name": "Qliphort Scout",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Booting in Replica Mode…\nAn error has occurred while executing C:\\\\sophia\\\\zefra.exe\nUnknown publisher.\nAllow C:\\\\tierra\\\\qliphort.exe ? \u003cY/N\u003e…[Y]\nBooting in Autonomy Mode…",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65518099.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 73398797,
   "name": "Paladin of White Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with \"White Dragon Ritual\". At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster. You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand or Deck, but \"Blue-Eyes White Dragons\" cannot attack for the rest of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73398797.jpg"

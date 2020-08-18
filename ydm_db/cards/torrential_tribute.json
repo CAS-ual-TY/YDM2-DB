@@ -1,7 +1,8 @@
 {
   "id": 53582587,
   "name": "Torrential Tribute",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a monster(s) is Summoned: Destroy all monsters on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53582587.jpg"

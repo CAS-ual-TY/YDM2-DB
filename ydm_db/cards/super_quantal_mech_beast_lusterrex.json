@@ -1,7 +1,8 @@
 {
   "id": 57450198,
   "name": "Super Quantal Mech Beast Lusterrex",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 7 monsters\nCannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 Effect Monster on the field; negate that face-up monster\u0027s effects until the end of this turn. This is a Quick Effect if this card has \"Super Quantum White Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as material.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57450198.jpg"

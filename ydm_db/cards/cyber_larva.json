@@ -1,7 +1,8 @@
 {
   "id": 35050257,
   "name": "Cyber Larva",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is targeted for an attack: You take no battle damage for the rest of this turn. When this card is destroyed by battle and sent to the GY: You can Special Summon 1 \"Cyber Larva\" from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35050257.jpg"

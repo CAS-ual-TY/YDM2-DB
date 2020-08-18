@@ -1,7 +1,8 @@
 {
   "id": 24224830,
   "name": "Called by the Grave",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 monster in your opponent\u0027s GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24224830.jpg"

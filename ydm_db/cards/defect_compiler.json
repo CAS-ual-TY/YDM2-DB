@@ -1,7 +1,8 @@
 {
   "id": 92327802,
   "name": "Defect Compiler",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, if you would take damage from an opponent\u0027s card effect, place 1 Defect Counter on this card instead (max. 1). Once per turn (Quick Effect): You can remove 1 Defect Counter from this card, then target 1 Cyberse monster you control; it gains 800 ATK until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92327802.jpg"

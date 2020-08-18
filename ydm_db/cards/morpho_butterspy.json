@@ -1,7 +1,8 @@
 {
   "id": 43573231,
   "name": "Morpho Butterspy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, when the battle position of an opponent\u0027s monster(s) is changed (except during the Damage Step): You can target one of those monsters; it loses 1000 ATK and DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43573231.jpg"

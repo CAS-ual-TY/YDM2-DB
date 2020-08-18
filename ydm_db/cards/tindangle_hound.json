@@ -1,7 +1,8 @@
 {
   "id": 31759689,
   "name": "Tindangle Hound",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: You can target 1 other face-up monster on the field; this card gains ATK equal to that target\u0027s original ATK, then change that target to face-down Defense Position.\nEach monster your opponent controls loses 1000 ATK for each monster linked to it. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 face-down monster on the field; change it to face-up Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31759689.jpg"

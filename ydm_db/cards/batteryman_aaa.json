@@ -1,7 +1,8 @@
 {
   "id": 47346845,
   "name": "Batteryman AAA",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned or flipped face-up, you can Special Summon 1 \"Batteryman AAA\" from your hand or Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47346845.jpg"

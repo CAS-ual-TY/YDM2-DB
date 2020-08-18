@@ -1,7 +1,8 @@
 {
   "id": 97023549,
   "name": "Blade Skater",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97023549.jpg"

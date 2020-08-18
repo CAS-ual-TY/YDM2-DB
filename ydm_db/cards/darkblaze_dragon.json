@@ -1,7 +1,8 @@
 {
   "id": 39343610,
   "name": "Darkblaze Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Special Summoned from the Graveyard: Its ATK and DEF become double its original ATK and DEF. If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to that monster\u0027s original ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39343610.jpg"

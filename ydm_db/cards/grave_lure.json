@@ -1,7 +1,8 @@
 {
   "id": 57270476,
   "name": "Grave Lure",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Turn the top card of your opponent\u0027s Deck face-up, then your opponent shuffles their Deck. When your opponent draws the face-up card, immediately send it to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57270476.jpg"

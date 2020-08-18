@@ -1,7 +1,8 @@
 {
   "id": 83812099,
   "name": "Flint Lock",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can target 1 \"Flint\" in the Spell \u0026 Trap Zone; equip it to this card. During your Main Phase: You can target 1 \"Flint\" equipped to this card, and 1 face-up monster on the field, except this card; equip that \"Flint\" to that targeted monster. This card can only be equipped with 1 \"Flint\". While equipped with \"Flint\", this card is unaffected by the effect of \"Flint\", and cannot be destroyed by battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83812099.jpg"

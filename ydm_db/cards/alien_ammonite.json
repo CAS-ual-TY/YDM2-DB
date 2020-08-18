@@ -1,7 +1,8 @@
 {
   "id": 652362,
   "name": "Alien Ammonite",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower \"Alien\" monster from your Graveyard. Destroy it during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/652362.jpg"

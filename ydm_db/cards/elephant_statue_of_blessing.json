@@ -1,7 +1,8 @@
 {
   "id": 85166216,
   "name": "Elephant Statue of Blessing",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is sent from your hand to your Graveyard by an opponent\u0027s card effect: You gain 2000 Life Points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85166216.jpg"

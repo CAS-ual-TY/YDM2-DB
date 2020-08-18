@@ -1,7 +1,8 @@
 {
   "id": 76714458,
   "name": "Spell of Pain",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent activates a card or effect that would inflict effect damage to you: Your opponent takes the effect damage from that card or effect, instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76714458.jpg"

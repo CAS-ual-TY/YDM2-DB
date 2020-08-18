@@ -1,7 +1,8 @@
 {
   "id": 1561110,
   "name": "ABC-Dragon Buster",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"A-Assault Core\" + \"B-Buster Drake\" + \"C-Crush Wyvern\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control and/or from your GY. (You do not use \"Polymerization\".) Once per turn (Quick Effect): You can discard 1 card, then target 1 card on the field; banish it. During your opponent\u0027s turn (Quick Effect): You can Tribute this card, then target 3 of your banished LIGHT Machine Union monsters with different names; Special Summon them.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1561110.jpg"

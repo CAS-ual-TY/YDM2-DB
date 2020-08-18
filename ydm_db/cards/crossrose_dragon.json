@@ -1,7 +1,8 @@
 {
   "id": 72218246,
   "name": "Crossrose Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 monsters with different Types\nDuring the Main Phase (Quick Effect): You can Tribute this card and 1 Plant monster; Special Summon 1 \"Rose\" Synchro Monster or 1 Plant Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.) If a monster(s) you control is destroyed by card effect, while this card is in your GY (except during the Damage Step): You can banish this card; Special Summon 1 \"Rose Dragon\" monster from your GY. You can only use each effect of \"Crossrose Dragon\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72218246.jpg"

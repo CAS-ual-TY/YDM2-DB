@@ -1,7 +1,8 @@
 {
   "id": 94119480,
   "name": "Adreus, Keeper of Armageddon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 5 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up card your opponent controls; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94119480.jpg"

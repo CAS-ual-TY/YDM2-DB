@@ -1,7 +1,8 @@
 {
   "id": 6284176,
   "name": "Kanzashi the Rikka Queen",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 6 monsters\nIf a monster(s) is Tributed (except during the Damage Step): You can detach 1 material from this card, then target 1 monster in either GY; Special Summon it, but negate its effects, also it becomes a Plant monster. If a Plant monster(s) you control would be destroyed by a card effect, you can Tribute 1 Plant monster from your hand or field instead. You can only use each effect of \"Kanzashi the Rikka Queen\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6284176.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 65830223,
   "name": "Coffin Seller",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a monster(s) is sent to your opponent\u0027s GY: Inflict 300 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65830223.jpg"

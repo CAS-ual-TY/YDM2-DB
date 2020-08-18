@@ -1,7 +1,8 @@
 {
   "id": 95360850,
   "name": "Shield Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During damage calculation, in either player\u0027s turn: You can banish this card from your Graveyard; monsters you control cannot be destroyed by this battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95360850.jpg"

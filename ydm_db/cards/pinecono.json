@@ -1,7 +1,8 @@
 {
   "id": 67445676,
   "name": "Pinecono",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent to the Graveyard by the effect of \"Acorno\": You can Special Summon this card from the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67445676.jpg"

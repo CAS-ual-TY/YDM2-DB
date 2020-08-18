@@ -1,7 +1,8 @@
 {
   "id": 86585274,
   "name": "High Priestess of Prophecy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can reveal 3 \"Spellbook\" Spells in your hand; Special Summon this card from your hand. Once per turn: You can banish 1 \"Spellbook\" Spell from your hand or GY, then target 1 card on the field; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86585274.jpg"

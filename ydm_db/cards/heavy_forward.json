@@ -1,7 +1,8 @@
 {
   "id": 34721681,
   "name": "Heavy Forward",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is activated: You can add 1 \"Infinitrack\" monster from your Deck to your hand. Once per turn: You can target 1 Machine Xyz Monster you control, then activate 1 of these effects;\n? Change its battle position.\n? Attach this card to it as material.\nYou can only activate 1 \"Heavy Forward\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34721681.jpg"

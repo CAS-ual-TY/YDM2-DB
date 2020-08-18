@@ -1,7 +1,8 @@
 {
   "id": 8240199,
   "name": "Sage with Eyes of Blue",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can add 1 Level 1 LIGHT Tuner from your Deck to your hand, except \"Sage with Eyes of Blue\". You can discard this card, then target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your Deck. You can only use this effect of \"Sage with Eyes of Blue\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8240199.jpg"

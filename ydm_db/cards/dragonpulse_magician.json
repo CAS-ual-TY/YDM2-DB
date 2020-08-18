@@ -1,7 +1,8 @@
 {
   "id": 15146890,
   "name": "Dragonpulse Magician",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This boy magician has the gift of seeing the natural lines of energy that run through the earth, which his people call the Pulse of the Dragon. His exuberance and skill put him in high regard with his mentor, the \"Dragonpit Magician\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15146890.jpg"

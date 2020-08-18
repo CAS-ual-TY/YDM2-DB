@@ -1,7 +1,8 @@
 {
   "id": 49258578,
   "name": "Gate Deeg",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49258578.jpg"

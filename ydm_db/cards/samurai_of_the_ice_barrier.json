@@ -1,7 +1,8 @@
 {
   "id": 64926005,
   "name": "Samurai of the Ice Barrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this face-up Attack Position card is changed to face-up Defense Position: Destroy this card, and if you do, draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64926005.jpg"

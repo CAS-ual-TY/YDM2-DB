@@ -1,7 +1,8 @@
 {
   "id": 49563947,
   "name": "Neo Aqua Madoor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The true nature of this wizard, who rules all water. It defends itself with a vast, impenetrable wall of ice.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49563947.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 15303296,
   "name": "Ryu-Kishin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A very elusive creature that looks like a harmless statue until it attacks.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15303296.jpg"

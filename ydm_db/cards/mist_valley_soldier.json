@@ -1,7 +1,8 @@
 {
   "id": 22837504,
   "name": "Mist Valley Soldier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While you control this face-up card, any opponent\u0027s monster that battles this card, but is not destroyed by the battle, returns to its owner\u0027s hand at the end of the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22837504.jpg"

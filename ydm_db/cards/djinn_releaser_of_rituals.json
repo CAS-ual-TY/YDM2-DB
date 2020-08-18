@@ -1,7 +1,8 @@
 {
   "id": 8903700,
   "name": "Djinn Releaser of Rituals",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If a player Ritual Summons using this card, the other player cannot Special Summon while that Ritual Summoned monster is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8903700.jpg"

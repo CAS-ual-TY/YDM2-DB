@@ -1,7 +1,8 @@
 {
   "id": 85255550,
   "name": "Swordsman from a Distant Land",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacked an opponent\u0027s monster, after damage calculation: Destroy that monster during the 5th End Phase after the attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85255550.jpg"

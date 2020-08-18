@@ -1,7 +1,8 @@
 {
   "id": 78835747,
   "name": "Performapal Kaleidoscorp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78835747.jpg"

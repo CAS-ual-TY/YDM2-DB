@@ -1,7 +1,8 @@
 {
   "id": 91831066,
   "name": "Aquarium Lighting",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If an \"Aquaactress\" monster you control battles an opponent\u0027s monster, during damage calculation: Your battling monster\u0027s ATK and DEF each become double its current ATK and DEF during that damage calculation only. If this card is sent from the field to the Graveyard: You can target 1 Aqua-Type monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Aqua-Type monsters. You can only control 1 \"Aquarium Lighting\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91831066.jpg"

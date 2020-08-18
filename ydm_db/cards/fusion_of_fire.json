@@ -1,7 +1,8 @@
 {
   "id": 25800447,
   "name": "Fusion of Fire",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "(This card is always treated as a \"Salamangreat\" card.)\nFusion Summon 1 \"Salamangreat\" Fusion Monster from your Extra Deck, using monsters from your hand and/or either field as Fusion Material. You can only activate 1 \"Fusion of Fire\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25800447.jpg"

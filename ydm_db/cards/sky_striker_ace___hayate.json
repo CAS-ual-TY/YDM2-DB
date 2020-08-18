@@ -1,7 +1,8 @@
 {
   "id": 8491308,
   "name": "Sky Striker Ace - Hayate",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 non-WIND \"Sky Striker Ace\" monster\nYou can only Special Summon \"Sky Striker Ace - Hayate(s)\" once per turn. This card can attack directly. After damage calculation, if this card battled: You can send 1 \"Sky Striker\" card from your Deck to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8491308.jpg"

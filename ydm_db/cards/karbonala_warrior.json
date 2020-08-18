@@ -1,7 +1,8 @@
 {
   "id": 54541900,
   "name": "Karbonala Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"M-Warrior #1\" + \"M-Warrior #2\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54541900.jpg"

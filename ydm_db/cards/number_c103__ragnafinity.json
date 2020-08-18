@@ -1,7 +1,8 @@
 {
   "id": 20785975,
   "name": "Number C103: Ragnafinity",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "3 Level 5 monsters\nOnce per turn, during either player\u0027s turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the difference between that monster\u0027s original ATK and current ATK, and if you do, banish it. When this card is destroyed and sent to the Graveyard while it has Xyz Material: You can Special Summon this card from your Graveyard. \"Number 103: Ragnazero\" must be in your Graveyard to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20785975.jpg"

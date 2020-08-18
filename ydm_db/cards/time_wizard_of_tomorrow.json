@@ -1,10 +1,11 @@
 {
-  "id": 100267001,
+  "id": 26273196,
   "name": "Time Wizard of Tomorrow",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Time Wizard\" + 1 Effect Monster\nOnce per turn, if this card was Fusion Summoned: You can toss a coin and call it. If you call it right, destroy as many monsters on the field as possible, and if you do, inflict damage to your opponent equal to half the combined original ATK of the face-up destroyed monsters. If you call it wrong, destroy as many monsters on the field as possible, and if you do, you take damage equal to half the combined original ATK of the face-up destroyed monsters.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/100267001.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26273196.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

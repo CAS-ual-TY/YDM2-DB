@@ -1,7 +1,8 @@
 {
   "id": 39505816,
   "name": "Cataclysmic Scorching Sunburner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a face-up FIRE monster(s) you control is destroyed by battle or an opponent\u0027s card effect: You can Special Summon this card from your hand, then, you can inflict damage to your opponent equal to half the ATK of 1 of those destroyed FIRE monsters in your GY. You can only use this effect of \"Cataclysmic Scorching Sunburner\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39505816.jpg"

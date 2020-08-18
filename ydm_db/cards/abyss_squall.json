@@ -1,7 +1,8 @@
 {
   "id": 34707034,
   "name": "Abyss-squall",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 3 \"Mermail\" monsters in your Graveyard; Special Summon those targets in face-up Defense Position. Their effects are negated and they cannot declare an attack. Destroy them during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34707034.jpg"

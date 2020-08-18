@@ -1,7 +1,8 @@
 {
   "id": 94192409,
   "name": "Compulsory Evacuation Device",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 monster on the field; return that target to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94192409.jpg"

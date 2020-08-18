@@ -1,7 +1,8 @@
 {
   "id": 76614340,
   "name": "Gem-Knight Ruby",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Gem-Knight Garnet\" + 1 \"Gem-Knight\" monster\nMust first be Fusion Summoned with the above Fusion Material Monsters. Once per turn: You can Tribute 1 face-up \"Gem-\" monster; this card gains ATK equal to the Tributed monster\u0027s ATK on the field, until the End Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76614340.jpg"

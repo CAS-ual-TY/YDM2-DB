@@ -1,7 +1,8 @@
 {
   "id": 2067935,
   "name": "Gladiator Beast Lanista",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 \"Gladiator Beast\" monster in your Graveyard; banish that target, and this card\u0027s name becomes the target\u0027s name until the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Lanista\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2067935.jpg"

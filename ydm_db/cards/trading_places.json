@@ -1,7 +1,8 @@
 {
   "id": 63875853,
   "name": "Trading Places",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your LP is higher than your opponent\u0027s, switch your LP with your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63875853.jpg"

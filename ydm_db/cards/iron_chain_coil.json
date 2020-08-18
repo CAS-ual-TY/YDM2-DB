@@ -1,7 +1,8 @@
 {
   "id": 53152590,
   "name": "Iron Chain Coil",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can select 1 \"Iron Chain\" monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53152590.jpg"

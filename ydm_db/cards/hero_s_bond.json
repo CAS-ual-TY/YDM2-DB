@@ -1,7 +1,8 @@
 {
   "id": 76442616,
   "name": "HERO\u0027s Bond",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If there is a face-up \"HERO\" monster on the field: Special Summon 2 Level 4 or lower \"Elemental HERO\" monsters from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76442616.jpg"

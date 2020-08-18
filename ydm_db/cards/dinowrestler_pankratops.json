@@ -1,7 +1,8 @@
 {
   "id": 82385847,
   "name": "Dinowrestler Pankratops",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Dinowrestler Pankratops\" once per turn this way. (Quick Effect): You can Tribute 1 \"Dinowrestler\" monster, then target 1 card your opponent controls; destroy it. You can only use this effect of \"Dinowrestler Pankratops\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82385847.jpg"

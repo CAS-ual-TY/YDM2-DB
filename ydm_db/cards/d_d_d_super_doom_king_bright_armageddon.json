@@ -1,7 +1,8 @@
 {
   "id": 72402069,
   "name": "D/D/D Super Doom King Bright Armageddon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 \"D/D\" Tuner + 1+ non-Tuner \"D/D/D\" monsters\nYour opponent cannot target monsters you control with card effects. If another monster is Normal or Special Summoned while this monster is on the field (except during the Damage Step): You can make your opponent choose 1 Pendulum Monster they control, and all other monsters they currently control have their effects negated. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72402069.jpg"

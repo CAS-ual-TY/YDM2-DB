@@ -1,7 +1,8 @@
 {
   "id": 94878265,
   "name": "Moja",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 Beast-Type monster from your Graveyard to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94878265.jpg"

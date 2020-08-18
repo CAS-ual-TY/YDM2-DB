@@ -1,7 +1,8 @@
 {
   "id": 24019092,
   "name": "Igknight Paladin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This Igknight has a reputation as a thinker with a cool head. But the truth is that his emotions just take longer to heat up.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24019092.jpg"

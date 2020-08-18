@@ -1,7 +1,8 @@
 {
   "id": 7541475,
   "name": "Kabuki Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, before damage calculation, if your monster attacked an opponent\u0027s monster: You can change the battle position of that monster your opponent controls. Once per turn, before damage calculation, if an opponent\u0027s monster attacked your monster: You can change the battle position of that monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7541475.jpg"

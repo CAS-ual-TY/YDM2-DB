@@ -1,7 +1,8 @@
 {
   "id": 72714392,
   "name": "Blackwing - Vayu the Emblem of Honor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This face-up card on the field cannot be used as a Synchro Material. If this card is in the Graveyard: You can target 1 non-Tuner \"Blackwing\" monster in your Graveyard; banish both this card and that target, and if you do, Special Summon 1 \"Blackwing\" Synchro Monster from your Extra Deck whose Level equals the total Levels of the banished monsters, but its effects are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72714392.jpg"

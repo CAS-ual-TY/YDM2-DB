@@ -1,7 +1,8 @@
 {
   "id": 56308388,
   "name": "Time Thief Winder",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can detach 1 material from an Xyz Monster you control; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Time Thief\" card from your Deck to your hand, except \"Time Thief Winder\". You can only use each effect of \"Time Thief Winder\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56308388.jpg"

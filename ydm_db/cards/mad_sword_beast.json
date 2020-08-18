@@ -1,7 +1,8 @@
 {
   "id": 79870141,
   "name": "Mad Sword Beast",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79870141.jpg"

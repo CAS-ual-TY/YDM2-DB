@@ -1,7 +1,8 @@
 {
   "id": 71799173,
   "name": "Guardian of Order",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control 2 or more LIGHT monsters, you can Special Summon this card (from your hand). You can only control 1 \"Guardian of Order\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71799173.jpg"

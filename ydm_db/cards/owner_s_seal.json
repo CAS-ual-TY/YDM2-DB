@@ -1,7 +1,8 @@
 {
   "id": 9720537,
   "name": "Owner\u0027s Seal",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Return control of all monsters on the field to their original owners.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9720537.jpg"

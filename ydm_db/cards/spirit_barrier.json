@@ -1,7 +1,8 @@
 {
   "id": 53239672,
   "name": "Spirit Barrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While you control a monster, you take no battle damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53239672.jpg"

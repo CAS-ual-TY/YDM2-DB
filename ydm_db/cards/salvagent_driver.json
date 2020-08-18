@@ -1,7 +1,8 @@
 {
   "id": 62306203,
   "name": "Salvagent Driver",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a Cyberse Link Monster you control is destroyed by an opponent\u0027s card effect while this card is in your hand or GY (except during the Damage Step): You can Special Summon this card. You can discard 1 Spell, then target 1 Cyberse monster in your GY; Special Summon it, but it cannot attack directly this turn. You can only use each effect of \"Salvagent Driver\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62306203.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 91989718,
   "name": "Attack Reflector Unit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Tribute 1 \"Cyber Dragon\". Special Summon 1 \"Cyber Barrier Dragon\" from your hand or Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91989718.jpg"

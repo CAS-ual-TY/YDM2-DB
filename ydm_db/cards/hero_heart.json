@@ -1,7 +1,8 @@
 {
   "id": 67951831,
   "name": "Hero Heart",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 face-up \"Elemental HERO\" monster you control; halve its ATK until the end of this turn, but it can attack twice during this turn\u0027s Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67951831.jpg"

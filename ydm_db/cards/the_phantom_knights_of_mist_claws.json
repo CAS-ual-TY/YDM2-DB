@@ -1,7 +1,8 @@
 {
   "id": 9336190,
   "name": "The Phantom Knights of Mist Claws",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 of your banished \"The Phantom Knights\" monsters; add it to your hand. When an opponent\u0027s monster declares a direct attack while this card is in your GY: You can target 1 Level 4 or lower \"The Phantom Knights\" monster in your GY; Special Summon that monster, and if you do, Special Summon this card as a Normal Monster with the same original Level as that monster (Warrior/DARK/ATK 0/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, banish this card when it leaves the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9336190.jpg"

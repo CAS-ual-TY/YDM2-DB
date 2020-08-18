@@ -1,7 +1,8 @@
 {
   "id": 40703222,
   "name": "Multiply",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Tribute 1 face-up \"Kuriboh\"; Special Summon as many \"Kuriboh Tokens\" (Fiend/DARK/Level 1/ATK 300/DEF 200) as possible, in Defense Position. They cannot be Tributed for a Tribute Summon.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40703222.jpg"

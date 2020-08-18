@@ -1,7 +1,8 @@
 {
   "id": 91250514,
   "name": "Tongue Twister",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91250514.jpg"

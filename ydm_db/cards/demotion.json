@@ -1,7 +1,8 @@
 {
   "id": 72575145,
   "name": "Demotion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Downgrade the monster equipped with this card by 2 Levels.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72575145.jpg"

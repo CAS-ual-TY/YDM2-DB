@@ -1,7 +1,8 @@
 {
   "id": 12206212,
   "name": "Harpie Lady Sisters",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Elegant Egotist\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12206212.jpg"

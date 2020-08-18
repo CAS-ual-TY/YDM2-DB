@@ -1,7 +1,8 @@
 {
   "id": 17444133,
   "name": "Kaiser Sea Horse",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17444133.jpg"

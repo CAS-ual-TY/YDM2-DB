@@ -1,7 +1,8 @@
 {
   "id": 54629413,
   "name": "Guerilla Kite",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent. You can only use this effect of \"Guerilla Kite\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54629413.jpg"

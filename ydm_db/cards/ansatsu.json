@@ -1,7 +1,8 @@
 {
   "id": 48365709,
   "name": "Ansatsu",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A silent and deadly warrior specializing in assassinations.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48365709.jpg"

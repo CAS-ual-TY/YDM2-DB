@@ -1,7 +1,8 @@
 {
   "id": 58538870,
   "name": "Oppressed People",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "They are oppressed, but believe they will have their freedom someday.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58538870.jpg"

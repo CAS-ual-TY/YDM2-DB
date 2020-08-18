@@ -1,7 +1,8 @@
 {
   "id": 16587243,
   "name": "Neo Bug",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A huge bug-like monster said to come from another planet. It gathers in swarms.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16587243.jpg"

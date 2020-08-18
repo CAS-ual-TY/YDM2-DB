@@ -1,7 +1,8 @@
 {
   "id": 78794994,
   "name": "Symbols of Duty",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Send 1 Normal Monster you control to the Graveyard, then target 1 monster in either player\u0027s Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78794994.jpg"

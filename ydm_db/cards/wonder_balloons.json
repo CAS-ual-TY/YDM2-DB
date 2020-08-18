@@ -1,7 +1,8 @@
 {
   "id": 78574395,
   "name": "Wonder Balloons",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can send any number of cards from your hand to the GY; place 1 Balloon Counter on this card for each card sent to the GY. All monsters your opponent controls lose 300 ATK for each Balloon Counter on this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78574395.jpg"

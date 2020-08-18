@@ -1,7 +1,8 @@
 {
   "id": 75195825,
   "name": "Master Pendulum, the Dracoslayer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Luster Pendulum, the Dracoslayer\" continues his journey to uncover the secrets of Dragon Alchemy, believing it is the key to dispelling his curse and restoring his memory. His power continues to grow... perhaps the same power used by the Dracofiends?",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75195825.jpg"

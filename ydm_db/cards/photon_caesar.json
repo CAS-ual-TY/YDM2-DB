@@ -1,7 +1,8 @@
 {
   "id": 13492423,
   "name": "Photon Caesar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal or Flip Summoned: You can Special Summon 1 \"Photon Caesar\" from your hand or Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13492423.jpg"

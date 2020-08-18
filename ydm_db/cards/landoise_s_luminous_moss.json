@@ -1,7 +1,8 @@
 {
   "id": 74717840,
   "name": "Landoise\u0027s Luminous Moss",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only if you control a face-up \"Naturia\" monster. The opponent\u0027s Effect Monsters cannot activate their effects this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/74717840.jpg"

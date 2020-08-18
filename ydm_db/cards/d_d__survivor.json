@@ -1,7 +1,8 @@
 {
   "id": 48092532,
   "name": "D.D. Survivor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48092532.jpg"

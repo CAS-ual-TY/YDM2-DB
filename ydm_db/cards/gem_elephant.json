@@ -1,7 +1,8 @@
 {
   "id": 19019586,
   "name": "Gem-Elephant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card attacked or was attacked: You can send 1 Normal Monster from your hand to the Graveyard; this card gains 1000 DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19019586.jpg"

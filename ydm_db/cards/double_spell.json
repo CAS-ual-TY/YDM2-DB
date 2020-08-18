@@ -1,7 +1,8 @@
 {
   "id": 24096228,
   "name": "Double Spell",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 Spell Card, then target 1 Spell Card in your opponent\u0027s Graveyard; place that target in the appropriate Zone on your side of the field, and as this card\u0027s effect resolution, follow its card text as if you had used it yourself.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24096228.jpg"

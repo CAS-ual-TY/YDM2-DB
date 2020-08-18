@@ -1,7 +1,8 @@
 {
   "id": 76634149,
   "name": "Kairyu-Shin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76634149.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 82768499,
   "name": "Spiral Flame Strike",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate 1 of these effects;\n? If you control an \"Odd-Eyes\" card: Target 1 card on the field; destroy it.\n? Add to your hand, 1 Level 7 \"Odd-Eyes\" monster from your Deck, or 1 face-up Level 7 \"Odd-Eyes\" Pendulum Monster from your Extra Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82768499.jpg"

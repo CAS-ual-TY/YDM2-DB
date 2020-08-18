@@ -1,7 +1,8 @@
 {
   "id": 25171661,
   "name": "Infernity Dwarf",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While you have no cards in your hand, if a monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25171661.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 27863269,
   "name": "Rocket Pilder",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While the equipped monster is attacking, it cannot be destroyed by battle. At the end of the Damage Step, if the equipped monster attacked: The attack target loses ATK equal to the ATK of the equipped monster, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27863269.jpg"

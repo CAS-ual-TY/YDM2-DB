@@ -1,7 +1,8 @@
 {
   "id": 40225398,
   "name": "Twin-Sword Marauder",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per Battle Phase, if this card attacks a Defense Position monster, it can make a second attack in a row. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40225398.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 5284653,
   "name": "Evilswarm Obliviwisp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card battles a monster, after damage calculation: Negate the effects of that monster (including in the Graveyard).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5284653.jpg"

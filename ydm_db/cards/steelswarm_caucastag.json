@@ -1,7 +1,8 @@
 {
   "id": 84488827,
   "name": "Steelswarm Caucastag",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Tribute Summoned by Tributing 2 \"Steelswarm\" monsters: Activate 1 of these effects.\n? Destroy all monsters on the field, except this card.\n? Destroy all Spell and Trap Cards on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84488827.jpg"

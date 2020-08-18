@@ -1,7 +1,8 @@
 {
   "id": 56606928,
   "name": "Eternal Drought",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Destroy all face-up Fish-Type monsters on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56606928.jpg"

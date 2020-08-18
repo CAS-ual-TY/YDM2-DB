@@ -1,7 +1,8 @@
 {
   "id": 13316346,
   "name": "Boot-Up Soldier - Dread Dynamo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While you control a \"Gadget\" monster, this card gains 2000 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13316346.jpg"

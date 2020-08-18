@@ -1,7 +1,8 @@
 {
   "id": 8632967,
   "name": "Evo-Karma",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a monster(s) is Special Summoned by the effect of an \"Evoltile\" monster you control, your opponent cannot activate cards or effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8632967.jpg"

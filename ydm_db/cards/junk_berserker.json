@@ -1,7 +1,8 @@
 {
   "id": 59771339,
   "name": "Junk Berserker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nYou can banish 1 \"Junk\" monster from your Graveyard, then target 1 face-up monster your opponent controls; that target loses ATK equal to the banished monster\u0027s ATK. At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59771339.jpg"

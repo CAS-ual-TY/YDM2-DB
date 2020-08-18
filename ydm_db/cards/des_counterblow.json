@@ -1,7 +1,8 @@
 {
   "id": 39131963,
   "name": "Des Counterblow",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Destroy any monster that inflicts Battle Damage to a player\u0027s Life Points by attacking directly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39131963.jpg"

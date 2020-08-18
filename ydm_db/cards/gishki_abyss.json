@@ -1,7 +1,8 @@
 {
   "id": 67111213,
   "name": "Gishki Abyss",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Summoned: You can add 1 \"Gishki\" monster with 1000 or less DEF from your Deck to your hand, except \"Gishki Abyss\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67111213.jpg"

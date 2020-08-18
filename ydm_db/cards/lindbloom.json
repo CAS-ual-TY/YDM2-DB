@@ -1,7 +1,8 @@
 {
   "id": 52339733,
   "name": "Lindbloom",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a monster you control battles an opponent\u0027s monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52339733.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 5975022,
   "name": "Gladiator Beast Murmillo",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 face-up monster; destroy that target. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Murmillo\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5975022.jpg"

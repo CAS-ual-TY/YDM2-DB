@@ -1,7 +1,8 @@
 {
   "id": 23898021,
   "name": "Lilith, Lady of Lament",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned, its original ATK becomes 1000. (Quick Effect): You can Tribute 1 DARK monster; reveal 3 Normal Traps from your Deck, your opponent randomly chooses 1 for you to Set on your field, and you shuffle the rest back into your Deck. You can only use this effect of \"Lilith, Lady of Lament\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23898021.jpg"

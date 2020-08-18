@@ -1,7 +1,8 @@
 {
   "id": 37630732,
   "name": "Power Bond",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37630732.jpg"

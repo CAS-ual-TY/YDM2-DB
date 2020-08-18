@@ -1,7 +1,8 @@
 {
   "id": 88724332,
   "name": "Night Dragolich",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Change all non-Wyrm-Type Attack Position monsters that were Special Summoned from the Main or Extra Deck to Defense Position. All non-Wyrm-Type monsters that were Special Summoned from the Main or Extra Deck lose DEF equal to their original DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88724332.jpg"

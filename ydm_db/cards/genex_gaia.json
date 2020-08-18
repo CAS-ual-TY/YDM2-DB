@@ -1,7 +1,8 @@
 {
   "id": 89333528,
   "name": "Genex Gaia",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card would be destroyed, you can destroy 1 \"Genex Controller\" monster you control instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89333528.jpg"

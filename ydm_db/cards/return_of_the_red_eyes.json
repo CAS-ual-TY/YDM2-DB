@@ -1,7 +1,8 @@
 {
   "id": 39387565,
   "name": "Return of the Red-Eyes",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a \"Red-Eyes\" monster, except \"Red-Eyes B. Chick\": You can target 1 Normal Monster in your Graveyard; Special Summon it. If this card in your possession is destroyed by an opponent\u0027s card effect and sent to your Graveyard: You can target 1 \"Red-Eyes\" monster in your Graveyard, except \"Red-Eyes B. Chick\"; Special Summon it. You can only use each effect of \"Return of the Red-Eyes\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39387565.jpg"

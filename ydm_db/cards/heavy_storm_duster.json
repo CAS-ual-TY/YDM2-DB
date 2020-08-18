@@ -1,7 +1,8 @@
 {
   "id": 23924608,
   "name": "Heavy Storm Duster",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target up to 2 Spells/Traps on the field; destroy them. You cannot conduct your Battle Phase the turn you activate this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23924608.jpg"

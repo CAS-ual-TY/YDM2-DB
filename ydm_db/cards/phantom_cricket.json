@@ -1,7 +1,8 @@
 {
   "id": 56605802,
   "name": "Phantom Cricket",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Return 1 face-down monster from the field to the top of its owner\u0027s Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56605802.jpg"

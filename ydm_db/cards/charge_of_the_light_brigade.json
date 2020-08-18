@@ -1,7 +1,8 @@
 {
   "id": 94886282,
   "name": "Charge of the Light Brigade",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Send the top 3 cards of your Deck to the Graveyard; add 1 Level 4 or lower \"Lightsworn\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94886282.jpg"

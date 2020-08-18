@@ -1,7 +1,8 @@
 {
   "id": 43912676,
   "name": "Celestia",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All Wyrm-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 3 Wyrm-Type monsters from your Graveyard, then target 1 card on the field; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43912676.jpg"

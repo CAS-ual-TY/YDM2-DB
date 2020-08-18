@@ -1,7 +1,8 @@
 {
   "id": 81167171,
   "name": "Hero Spirit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the Battle Phase, if an \"Elemental HERO\" monster you controlled was destroyed by battle this turn: Make the Battle Damage from 1 of your opponent\u0027s monsters 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81167171.jpg"

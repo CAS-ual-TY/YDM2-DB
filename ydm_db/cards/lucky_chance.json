@@ -1,7 +1,8 @@
 {
   "id": 96012004,
   "name": "Lucky Chance",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per Chain, if a monster effect is activated that tosses a coin once: Call heads or tails. If your call matches the coin toss for that monster effect, draw 1 card immediately after that effect resolves.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96012004.jpg"

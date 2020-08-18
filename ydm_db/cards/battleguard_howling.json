@@ -1,7 +1,8 @@
 {
   "id": 78621186,
   "name": "Battleguard Howling",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Warrior monster you control is targeted for an attack, or by an opponent\u0027s monster effect: Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the original ATK of the face-up monster you targeted with this card, and if you do, return it to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78621186.jpg"

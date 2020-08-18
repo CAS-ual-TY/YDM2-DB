@@ -1,7 +1,8 @@
 {
   "id": 8041569,
   "name": "Laval Lakeside Lady",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is in your Graveyard and you have 3 or more \"Laval\" monsters with different names in your Graveyard: You can banish this card and 1 other \"Laval\" monster from your Graveyard to target 1 Set card your opponent controls; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8041569.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 5237827,
   "name": "Vylon Ohm",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned: Target 1 Equip Spell Card in your Graveyard; banish that target, and if you do, add it to your hand during your next Standby Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5237827.jpg"

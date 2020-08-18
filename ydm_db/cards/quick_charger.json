@@ -1,7 +1,8 @@
 {
   "id": 49479374,
   "name": "Quick Charger",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Add 2 Level 4 or lower \"Batteryman\" monsters from your Graveyard to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49479374.jpg"

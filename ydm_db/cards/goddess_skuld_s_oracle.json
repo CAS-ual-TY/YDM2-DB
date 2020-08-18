@@ -1,7 +1,8 @@
 {
   "id": 38576155,
   "name": "Goddess Skuld\u0027s Oracle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is activated: If all monsters you control are \"Valkyrie\" monsters (min. 1), you can add 1 \"Goddess Verdande\u0027s Guidance\" from your Deck to your hand. Once per turn, during your Main Phase: You can look at the top 3 cards of your opponent\u0027s Deck, and if you do, place them on top of their Deck in any order, but you cannot Normal or Special Summon monsters for the rest of this turn, except Fairy monsters. You can only activate 1 \"Goddess Skuld\u0027s Oracle\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38576155.jpg"

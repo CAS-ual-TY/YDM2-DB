@@ -1,7 +1,8 @@
 {
   "id": 83957459,
   "name": "Rhinotaurus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If 2 or more of your opponent\u0027s monsters are destroyed by battle with your monsters during the same Battle Phase, this card can make a second attack during that Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83957459.jpg"

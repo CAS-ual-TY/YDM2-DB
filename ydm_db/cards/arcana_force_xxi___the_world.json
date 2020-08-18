@@ -1,7 +1,8 @@
 {
   "id": 23846921,
   "name": "Arcana Force XXI - The World",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Summoned, toss a coin: ? Heads: During your End Phase, you can send 2 monsters you control to the Graveyard to skip your opponent\u0027s next turn. ? Tails: During your opponent\u0027s Draw Phase, add the top card of their Graveyard to their hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23846921.jpg"

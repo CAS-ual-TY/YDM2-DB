@@ -1,7 +1,8 @@
 {
   "id": 74728028,
   "name": "Xyz Reception",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level as that monster from your hand. Its effects are negated, also its ATK and DEF become 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/74728028.jpg"

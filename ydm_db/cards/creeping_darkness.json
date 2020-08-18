@@ -1,7 +1,8 @@
 {
   "id": 78811937,
   "name": "Creeping Darkness",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Banish 2 DARK monsters from your GY; add 1 Level 4 DARK monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78811937.jpg"

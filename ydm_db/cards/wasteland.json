@@ -1,7 +1,8 @@
 {
   "id": 23424603,
   "name": "Wasteland",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All Dinosaur, Zombie, and Rock monsters on the field gain 200 ATK/DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23424603.jpg"

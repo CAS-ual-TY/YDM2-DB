@@ -1,7 +1,8 @@
 {
   "id": 7969770,
   "name": "Trancefamiliar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can target 1 monster you control; move that target to another of your Main Monster Zones.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7969770.jpg"

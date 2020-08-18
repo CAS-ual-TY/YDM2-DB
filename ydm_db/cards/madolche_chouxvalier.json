@@ -1,7 +1,8 @@
 {
   "id": 75363626,
   "name": "Madolche Chouxvalier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card you control is destroyed by your opponent\u0027s card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. Your opponent cannot target face-up \"Madolche\" monsters for attacks, except \"Madolche Chouxvalier\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75363626.jpg"

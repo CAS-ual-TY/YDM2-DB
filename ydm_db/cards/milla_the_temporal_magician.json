@@ -1,7 +1,8 @@
 {
   "id": 33225925,
   "name": "Milla the Temporal Magician",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: Target 1 Set card your opponent controls; look at it. Your opponent cannot activate Spell/Trap Cards in response to this effect\u0027s activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33225925.jpg"

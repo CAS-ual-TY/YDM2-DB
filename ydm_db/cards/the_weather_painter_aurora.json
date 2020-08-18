@@ -1,7 +1,8 @@
 {
   "id": 27784944,
   "name": "The Weather Painter Aurora",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can place 1 \"The Weather\" Spell/Trap from your hand, Deck, or GY face-up in your Spell \u0026 Trap Zone. Your opponent cannot target \"The Weather\" Spells/Traps you control with card effects, also they cannot be destroyed by your opponent\u0027s card effects. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card\u0027s effect: You can Special Summon this banished card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27784944.jpg"

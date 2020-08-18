@@ -1,7 +1,8 @@
 {
   "id": 26533075,
   "name": "Security Orb",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent\u0027s monster declares an attack: Target that attacking monster; change that target\u0027s battle position. If this Set card is destroyed by your opponent\u0027s Spell/Trap effect and sent to the GY: Destroy 1 monster on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26533075.jpg"

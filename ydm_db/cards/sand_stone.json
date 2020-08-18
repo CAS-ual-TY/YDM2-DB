@@ -1,7 +1,8 @@
 {
   "id": 73051941,
   "name": "Sand Stone",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Appears from underground and attacks with long, snake-like tentacles.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73051941.jpg"

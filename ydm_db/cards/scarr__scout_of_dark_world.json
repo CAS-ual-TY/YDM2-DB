@@ -1,7 +1,8 @@
 {
   "id": 5498296,
   "name": "Scarr, Scout of Dark World",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: Add 1 Level 4 or lower \"Dark World\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5498296.jpg"

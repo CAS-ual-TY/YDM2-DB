@@ -1,7 +1,8 @@
 {
   "id": 88190453,
   "name": "Chain Thrasher",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can attack 1 additional time during the same Battle Phase for each \"Chain Thrasher\" in your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88190453.jpg"

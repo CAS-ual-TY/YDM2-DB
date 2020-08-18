@@ -1,7 +1,8 @@
 {
   "id": 20419926,
   "name": "Execute Protocols",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During each Battle Phase: You can banish 1 DARK Link Monster from your GY, then target 1 \"Borrel\" monster you control; until the end of this turn, it gains ATK equal to the ATK of the monster banished to activate this effect. You can only use this effect of \"Execute Protocols\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20419926.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 16246527,
   "name": "Armored Rat",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The fur on this monster rat is tough enough to repel swords.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16246527.jpg"

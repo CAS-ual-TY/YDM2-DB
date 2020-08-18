@@ -1,7 +1,8 @@
 {
   "id": 45939611,
   "name": "Little Fairy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Up to twice per turn: You can send 1 card from your hand to the Graveyard; increase this card\u0027s Level by 1.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45939611.jpg"

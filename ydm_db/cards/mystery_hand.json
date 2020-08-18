@@ -1,7 +1,8 @@
 {
   "id": 62793020,
   "name": "Mystery Hand",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster twists reality and reaches between dimensions to attack its enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62793020.jpg"

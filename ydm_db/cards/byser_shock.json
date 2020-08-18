@@ -1,7 +1,8 @@
 {
   "id": 17597059,
   "name": "Byser Shock",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Summoned: Return all Set cards on the field to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17597059.jpg"

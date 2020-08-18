@@ -1,7 +1,8 @@
 {
   "id": 20721928,
   "name": "Elemental HERO Sparkman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20721928.jpg",

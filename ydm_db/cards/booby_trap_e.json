@@ -1,7 +1,8 @@
 {
   "id": 24425055,
   "name": "Booby Trap E",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 card; Set 1 Continuous Trap Card from your hand or Graveyard to your field. That Set card can be activated during this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24425055.jpg"

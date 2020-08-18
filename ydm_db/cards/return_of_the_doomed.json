@@ -1,7 +1,8 @@
 {
   "id": 19827717,
   "name": "Return of the Doomed",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 Monster Card from your hand to the Graveyard. Return 1 of your monsters destroyed and sent to your Graveyard as a result of battle during this turn to your hand at the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19827717.jpg"

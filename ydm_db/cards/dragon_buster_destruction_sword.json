@@ -1,7 +1,8 @@
 {
   "id": 76218313,
   "name": "Dragon Buster Destruction Sword",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or your side of the field to that target. While this card is equipped to a monster, your opponent cannot Special Summon monsters from the Extra Deck. While this card is equipped to a monster: You can Special Summon this equipped card. You can only use this effect of \"Dragon Buster Destruction Sword\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76218313.jpg"

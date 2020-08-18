@@ -1,7 +1,8 @@
 {
   "id": 65591858,
   "name": "Chronomaly Winged Sphinx",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can target 1 Level 5 \"Chronomaly\" monster in your Graveyard; Special Summon that target. You cannot Special Summon monsters the turn you activate this effect, except \"Chronomaly\" monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65591858.jpg"

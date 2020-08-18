@@ -1,7 +1,8 @@
 {
   "id": 80208158,
   "name": "D.D. Esper Star Sparrow",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "There can only be 1 \"D.D. Esper Star Sparrow\" on the field. Your opponent cannot target other monsters you control with effects or for attacks. When an opponent\u0027s monster declares a direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Defense Position. If Summoned this way, banish it when it leaves the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80208158.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 48800175,
   "name": "The Melody of Awakening Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 card; add up to 2 Dragon monsters with 3000 or more ATK and 2500 or less DEF from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48800175.jpg"

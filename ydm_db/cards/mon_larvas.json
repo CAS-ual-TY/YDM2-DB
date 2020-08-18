@@ -1,7 +1,8 @@
 {
   "id": 7225792,
   "name": "Mon Larvas",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A further step in the evolutionary chain, it is much more powerful than \"Larvas\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7225792.jpg"

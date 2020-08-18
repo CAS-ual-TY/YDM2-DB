@@ -1,7 +1,8 @@
 {
   "id": 24432029,
   "name": "Genex Blastfan",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Special Summoned, you can add 1 DARK \"Genex\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24432029.jpg"

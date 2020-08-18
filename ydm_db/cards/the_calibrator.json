@@ -1,7 +1,8 @@
 {
   "id": 54706054,
   "name": "The Calibrator",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains ATK equal to the combined Ranks of all face-up Xyz Monsters your opponent controls x 300.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54706054.jpg"

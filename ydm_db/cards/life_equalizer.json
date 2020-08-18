@@ -1,7 +1,8 @@
 {
   "id": 17178486,
   "name": "Life Equalizer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only when the difference between both players\u0027 Life Points is 8000 or more. Both players\u0027 Life Points become 3000.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17178486.jpg"

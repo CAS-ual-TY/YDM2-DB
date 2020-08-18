@@ -1,7 +1,8 @@
 {
   "id": 37433748,
   "name": "SPYRAL GEAR - Last Resort",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can target 1 \"SPYRAL\" monster you control; equip this monster from your hand or field to that target. While this card is equipped to a monster by this effect, the equipped monster cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. Once per turn, if this card is equipped to a monster by this effect: You can send 1 other card you control to the Graveyard; the equipped monster can attack directly this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37433748.jpg"

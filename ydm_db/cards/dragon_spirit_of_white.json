@@ -1,7 +1,8 @@
 {
   "id": 45467446,
   "name": "Dragon Spirit of White",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "(This card is always treated as a \"Blue-Eyes\" card.)\nThis card is treated as a Normal Monster while in the hand or GY. When this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; banish it. If your opponent controls a monster (Quick Effect): You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45467446.jpg"

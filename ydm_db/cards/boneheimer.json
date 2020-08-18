@@ -1,7 +1,8 @@
 {
   "id": 98456117,
   "name": "Boneheimer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster wanders the seas, sucking dry any creatures it may encounter.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98456117.jpg"

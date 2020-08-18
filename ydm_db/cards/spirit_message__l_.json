@@ -1,7 +1,8 @@
 {
   "id": 30170981,
   "name": "Spirit Message \"L\"",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can only be placed on the field by the effect of \"Destiny Board\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30170981.jpg"

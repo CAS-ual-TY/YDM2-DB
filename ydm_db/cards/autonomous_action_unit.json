@@ -1,7 +1,8 @@
 {
   "id": 71453557,
   "name": "Autonomous Action Unit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Pay 1500 Life Points, then target 1 monster in your opponent\u0027s Graveyard; Special Summon that target to your side of the field in face-up Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71453557.jpg"

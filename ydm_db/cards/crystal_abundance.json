@@ -1,7 +1,8 @@
 {
   "id": 72881007,
   "name": "Crystal Abundance",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Send 4 \"Crystal Beast\" cards from your Spell \u0026 Trap Card Zone to the Graveyard; send all cards on the field to the Graveyard, then Special Summon as many \"Crystal Beast\" monsters as possible from your Graveyard, up to the number of cards your opponent controlled that were sent to the Graveyard by this card\u0027s effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72881007.jpg"

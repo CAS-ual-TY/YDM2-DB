@@ -1,7 +1,8 @@
 {
   "id": 87836938,
   "name": "Vylon Vanguard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by a card effect and sent to the Graveyard: You can draw 1 card for each Equip Card that was equipped to this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87836938.jpg"

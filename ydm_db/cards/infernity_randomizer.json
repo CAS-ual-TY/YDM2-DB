@@ -1,7 +1,8 @@
 {
   "id": 13582837,
   "name": "Infernity Randomizer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster x 200. For a Spell or Trap Card, you take 500 damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13582837.jpg"

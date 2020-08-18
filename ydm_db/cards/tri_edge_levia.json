@@ -1,7 +1,8 @@
 {
   "id": 68836428,
   "name": "Tri-Edge Levia",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "3 Level 3 monsters\nBanish any monster destroyed by battle with this card. Once per turn, during either player\u0027s turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; it loses 800 ATK, also its effects are negated. These changes last until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68836428.jpg"

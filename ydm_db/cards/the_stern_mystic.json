@@ -1,7 +1,8 @@
 {
   "id": 87557188,
   "name": "The Stern Mystic",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Reveal all face-down cards on the field (Flip Effects are not activated), then return them to their original positions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87557188.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 31305911,
   "name": "Marshmallon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31305911.jpg"

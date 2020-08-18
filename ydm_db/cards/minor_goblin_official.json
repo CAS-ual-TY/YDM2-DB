@@ -1,7 +1,8 @@
 {
   "id": 1918087,
   "name": "Minor Goblin Official",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only activate this card when your opponent\u0027s Life Points are 3000 or less. Inflict 500 points of damage to your opponent\u0027s Life Points during each of his/her Standby Phases.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1918087.jpg"

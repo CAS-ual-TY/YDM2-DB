@@ -1,7 +1,8 @@
 {
   "id": 63211608,
   "name": "Genex Ally Reliever",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you negate the activation of a Spell Card, Trap Card, or Effect Monster\u0027s effect activated by your opponent, you can Special Summon this card from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63211608.jpg"

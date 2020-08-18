@@ -1,7 +1,8 @@
 {
   "id": 46035545,
   "name": "D/D Savant Nikola",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card in the Pendulum Zone is destroyed: You can target 1 \"D/D/D\" monster you control; return it to the hand, and if you do, place up to 2 face-up \"D/D\" Pendulum Monsters from your Extra Deck in your Pendulum Zones, but they cannot activate their Pendulum Effects this turn. You can only use this effect of \"D/D Savant Nikola\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46035545.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 980973,
   "name": "Armed Dragon LV3",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/980973.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 32775808,
   "name": "Archfiend\u0027s Manifestation",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Summoned Skull\" + 1 DARK monster\nThis card\u0027s name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. All \"Summoned Skull\" you control gain 500 ATK. If this Fusion Summoned card you control is sent to your GY by an opponent\u0027s card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32775808.jpg"

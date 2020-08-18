@@ -1,7 +1,8 @@
 {
   "id": 33198837,
   "name": "Naturia Beast",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 EARTH Tuner + 1+ non-Tuner EARTH monsters \nWhen a Spell Card is activated (Quick Effect): You can send the top 2 cards of your Deck to the GY; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33198837.jpg"

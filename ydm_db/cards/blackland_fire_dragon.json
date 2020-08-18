@@ -1,7 +1,8 @@
 {
   "id": 87564352,
   "name": "Blackland Fire Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A dragon that dwells in the depths of darkness, its vulnerability lies in its poor eyesight.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87564352.jpg"

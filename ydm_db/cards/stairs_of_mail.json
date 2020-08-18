@@ -1,7 +1,8 @@
 {
   "id": 19671102,
   "name": "Stairs of Mail",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Main Phase: You can activate this effect; discard 1 \"Tindangle\" card, and if you do, apply 1 of these effects.\n? Change 1 face-down Defense Position monster you control to face-up Attack Position.\n? Change 1 face-up Attack Position monster you control to face-down Defense Position.\nThis turn, you cannot discard another card with the same name for the effect of \"Stairs of Mail\" (even if this card leaves the field).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19671102.jpg"

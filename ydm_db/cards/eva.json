@@ -1,7 +1,8 @@
 {
   "id": 40177746,
   "name": "Eva",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent to the GY: You can banish up to 2 other LIGHT Fairy monsters from your field and/or GY; add the same number of Level 2 or lower LIGHT Fairy monsters with different names from your Deck to your hand, except \"Eva\". You can only use this effect of \"Eva\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40177746.jpg"

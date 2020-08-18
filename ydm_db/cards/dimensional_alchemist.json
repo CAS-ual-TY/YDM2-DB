@@ -1,7 +1,8 @@
 {
   "id": 36733451,
   "name": "Dimensional Alchemist",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can activate this effect to remove from play the top card of your Deck and give this card 500 ATK until the End Phase. When this card is destroyed and sent from your side of the field to your Graveyard, you can select 1 of your removed from play monsters and return it to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36733451.jpg"

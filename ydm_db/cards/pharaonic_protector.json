@@ -1,7 +1,8 @@
 {
   "id": 89959682,
   "name": "Pharaonic Protector",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The mummy of a soldier that has been guarding the royal family for thousands of years. Even now, its spirit does not allow anybody to trespass.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89959682.jpg"

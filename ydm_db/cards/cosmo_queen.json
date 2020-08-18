@@ -1,7 +1,8 @@
 {
   "id": 38999506,
   "name": "Cosmo Queen",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Queen of the galaxies and mistress of the stars.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38999506.jpg"

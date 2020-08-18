@@ -1,7 +1,8 @@
 {
   "id": 63120904,
   "name": "Orca Mega-Fortress of Darkness",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "By Tributing 1 \"Torpedo Fish\" on your side of the field, destroy 1 monster on the field. By Tributing 1 \"Cannonball Spear Shellfish\" on your side of the field, destroy 1 Spell or Trap Card on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63120904.jpg"

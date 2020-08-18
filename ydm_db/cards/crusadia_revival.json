@@ -1,7 +1,8 @@
 {
   "id": 69039982,
   "name": "Crusadia Revival",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All \"Crusadia\" Link Monsters on the field gain 500 ATK. Once per turn: You can target 1 \"Crusadia\" Link Monster you control; this turn (even if this card leaves the field), it can attack all monsters your opponent controls once each, also other monsters you control cannot attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69039982.jpg"

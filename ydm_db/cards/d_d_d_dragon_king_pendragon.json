@@ -1,7 +1,8 @@
 {
   "id": 56619314,
   "name": "D/D/D Dragon King Pendragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is in your hand: You can Tribute 1 Dragon-Type monster and 1 other Fiend-Type monster from your hand and/or your side of the field; Special Summon this card. Once per turn: You can discard 1 card; this card gains 500 ATK, then you can destroy 1 Spell/Trap Card on the field. This ATK increase lasts until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56619314.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 24073068,
   "name": "Gouki Suprex",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 \"Gouki\" monster from your hand. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Suprex\". You can only use this effect of \"Gouki Suprex\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24073068.jpg"

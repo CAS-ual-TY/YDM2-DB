@@ -1,7 +1,8 @@
 {
   "id": 33413638,
   "name": "Cockroach Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is sent to the Graveyard, it is returned to the top of the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33413638.jpg"

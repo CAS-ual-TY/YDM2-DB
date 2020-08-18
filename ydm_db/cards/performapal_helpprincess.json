@@ -1,7 +1,8 @@
 {
   "id": 88358139,
   "name": "Performapal Helpprincess",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When you Normal or Special Summon a \"Performapal\" monster(s), except \"Performapal Helpprincess\" (except during the Damage Step): You can Special Summon this card from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88358139.jpg"

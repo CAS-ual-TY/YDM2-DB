@@ -1,7 +1,8 @@
 {
   "id": 71315423,
   "name": "Worm Millidith",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: You can equip this card to a monster your opponent controls as an Equip Card. Inflict 400 damage to the controller of the equipped monster during each Standby Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71315423.jpg"

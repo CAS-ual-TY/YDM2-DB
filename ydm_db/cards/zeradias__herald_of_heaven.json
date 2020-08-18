@@ -1,7 +1,8 @@
 {
   "id": 12171659,
   "name": "Zeradias, Herald of Heaven",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can discard this card to the GY; add 1 \"The Sanctuary in the Sky\" from your Deck to your hand. If \"The Sanctuary in the Sky\" is not on the field, destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12171659.jpg"

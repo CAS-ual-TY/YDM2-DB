@@ -1,7 +1,8 @@
 {
   "id": 35762283,
   "name": "Heart of the Underdog",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Draw Phase, when you draw a Normal Monster(s): You can reveal it; draw 1 more card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35762283.jpg"

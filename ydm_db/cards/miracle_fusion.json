@@ -1,7 +1,8 @@
 {
   "id": 45906428,
   "name": "Miracle Fusion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or your GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45906428.jpg"

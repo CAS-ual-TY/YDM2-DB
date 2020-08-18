@@ -1,7 +1,8 @@
 {
   "id": 66540884,
   "name": "Archfiend Heiress",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent to the Graveyard because of a card effect or being destroyed by battle: You can add 1 \"Archfiend\" card from your Deck to your hand, except \"Archfiend Heiress\". You can only use the effect of \"Archfiend Heiress\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66540884.jpg"

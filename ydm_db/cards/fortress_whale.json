@@ -1,7 +1,8 @@
 {
   "id": 62337487,
   "name": "Fortress Whale",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Ritual Summon this card with \"Fortress Whale\u0027s Oath\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62337487.jpg"

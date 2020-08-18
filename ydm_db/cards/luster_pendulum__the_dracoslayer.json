@@ -1,7 +1,8 @@
 {
   "id": 92746535,
   "name": "Luster Pendulum, the Dracoslayer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot Special Summon Fusion, Synchro or Xyz Monsters using this card as a Material, except \"Dracoslayer\" monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92746535.jpg"

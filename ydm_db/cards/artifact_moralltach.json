@@ -1,7 +1,8 @@
 {
   "id": 85103922,
   "name": "Artifact Moralltach",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell. During your opponent\u0027s turn, if this Set card in the Spell \u0026 Trap Zone is destroyed and sent to your GY: Special Summon it. If this card is Special Summoned during your opponent\u0027s turn: You can destroy 1 face-up card your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85103922.jpg"

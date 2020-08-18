@@ -1,7 +1,8 @@
 {
   "id": 51976476,
   "name": "Double Trap Hole",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent Special Summons a monster(s) in Defense Position: Banish those monster(s) that were Summoned in (and currently in) Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51976476.jpg"

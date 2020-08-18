@@ -1,7 +1,8 @@
 {
   "id": 423705,
   "name": "Gearfried the Iron Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/423705.jpg"

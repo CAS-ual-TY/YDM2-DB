@@ -1,7 +1,8 @@
 {
   "id": 10026986,
   "name": "Worm King",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can be Tribute Summoned in face-up Attack Position by Tributing 1 Reptile-Type \"Worm\" monster. You can Tribute 1 Reptile-Type \"Worm\" monster to select 1 card your opponent controls, and destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10026986.jpg"

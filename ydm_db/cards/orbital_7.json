@@ -1,7 +1,8 @@
 {
   "id": 71071546,
   "name": "Orbital 7",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is flipped face-up: Place 1 You Got It Boss! Counter on it. You can remove all You Got It Boss! Counters on this card; its ATK becomes 2000. After you change this card\u0027s ATK with this effect, it cannot attack your opponent directly for the rest of this turn, and is sent to the Graveyard during the End Phase. You can Tribute this card to target 1 \"Photon\" or \"Galaxy\" monster in your Graveyard; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71071546.jpg"

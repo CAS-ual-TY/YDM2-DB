@@ -1,7 +1,8 @@
 {
   "id": 61844784,
   "name": "Magic Reflector",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 face-up Spell Card you control; place 1 counter on it. If it would ever be destroyed, remove the counter instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61844784.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 46659709,
   "name": "Galaxy Soldier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can send 1 other LIGHT monster from your hand to the GY; Special Summon this card from your hand in Defense Position. When this card is Special Summoned: You can add 1 \"Galaxy\" monster from your Deck to your hand. You can only use this effect of \"Galaxy Soldier\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46659709.jpg"

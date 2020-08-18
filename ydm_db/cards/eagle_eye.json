@@ -1,7 +1,8 @@
 {
   "id": 53693416,
   "name": "Eagle Eye",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned successfully, no Trap Cards can be activated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53693416.jpg"

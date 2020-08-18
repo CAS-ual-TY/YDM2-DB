@@ -1,7 +1,8 @@
 {
   "id": 423585,
   "name": "Summoner Monk",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/423585.jpg"

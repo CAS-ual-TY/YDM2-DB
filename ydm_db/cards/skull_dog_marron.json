@@ -1,7 +1,8 @@
 {
   "id": 86652646,
   "name": "Skull Dog Marron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A lost dog that wandered off 1000 years ago. He\u0027s still waiting for his master to come for him.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86652646.jpg"

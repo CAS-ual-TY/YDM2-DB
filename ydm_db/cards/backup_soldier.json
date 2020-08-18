@@ -1,7 +1,8 @@
 {
   "id": 36280194,
   "name": "Backup Soldier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While there are 5 or more monsters in your Graveyard: Target up to 3 non-Effect Monsters with 1500 or less ATK in your Graveyard; add them to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36280194.jpg"

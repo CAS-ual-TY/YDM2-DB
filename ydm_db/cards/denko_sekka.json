@@ -1,7 +1,8 @@
 {
   "id": 13974207,
   "name": "Denko Sekka",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Special Summoned. While you control no Set Spells/Traps, neither player can Set Spells/Traps nor activate Spell/Trap Cards that are Set on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13974207.jpg"

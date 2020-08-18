@@ -1,7 +1,8 @@
 {
   "id": 93882364,
   "name": "Genex Worker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Tribute this card to Special Summon 1 \"Genex\" monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93882364.jpg"

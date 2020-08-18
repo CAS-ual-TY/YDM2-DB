@@ -1,7 +1,8 @@
 {
   "id": 13048472,
   "name": "Pre-Preparation of Rites",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is listed on that Ritual Spell. You can only activate 1 \"Pre-Preparation of Rites\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13048472.jpg"

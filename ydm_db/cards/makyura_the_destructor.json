@@ -1,7 +1,8 @@
 {
   "id": 21593977,
   "name": "Makyura the Destructor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the turn this card was sent to the Graveyard, you can activate Trap Cards from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21593977.jpg"

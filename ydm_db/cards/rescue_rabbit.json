@@ -1,7 +1,8 @@
 {
   "id": 85138716,
   "name": "Rescue Rabbit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Special Summoned from the Deck. You can banish this face-up card you control; Special Summon 2 Level 4 or lower Normal Monsters with the same name from your Deck, but destroy them during the End Phase. You can only use this effect of \"Rescue Rabbit\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85138716.jpg"

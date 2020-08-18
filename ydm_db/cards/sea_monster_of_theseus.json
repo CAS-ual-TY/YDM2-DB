@@ -1,7 +1,8 @@
 {
   "id": 96334243,
   "name": "Sea Monster of Theseus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Tuners",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96334243.jpg"

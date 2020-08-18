@@ -1,7 +1,8 @@
 {
   "id": 51482758,
   "name": "Remove Trap",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Select 1 face-up Trap Card on the field and destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51482758.jpg"

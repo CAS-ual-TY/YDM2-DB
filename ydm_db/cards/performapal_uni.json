@@ -1,7 +1,8 @@
 {
   "id": 7714344,
   "name": "Performapal Uni",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can Special Summon 1 Level 3 or lower \"Performapal\" monster from your hand in Attack Position. During your opponent\u0027s turn: You can banish 1 \"Performapal\" monster, except \"Performapal Uni\", and this card from your Graveyard; the next time you would take battle damage this turn, you do not (this is a Quick Effect).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7714344.jpg"

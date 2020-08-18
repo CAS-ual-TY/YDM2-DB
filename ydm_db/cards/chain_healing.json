@@ -1,7 +1,8 @@
 {
   "id": 25050038,
   "name": "Chain Healing",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Gain 500 Life Points. If this card was activated as Chain Link 2 or 3, add this card to the Deck and shuffle it. If this card was activated as Chain Link 4 or higher, return this card to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25050038.jpg"

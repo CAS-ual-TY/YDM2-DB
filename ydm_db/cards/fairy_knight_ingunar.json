@@ -1,7 +1,8 @@
 {
   "id": 19684740,
   "name": "Fairy Knight Ingunar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "3 Level 6 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect\u0027s activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19684740.jpg"

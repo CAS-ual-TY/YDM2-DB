@@ -1,7 +1,8 @@
 {
   "id": 15259703,
   "name": "Toon World",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate this card by paying 1000 LP.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15259703.jpg",

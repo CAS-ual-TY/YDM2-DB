@@ -1,7 +1,8 @@
 {
   "id": 16255442,
   "name": "Beckoning Light",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard your entire hand, then for each card you discarded to the GY by this effect, add 1 LIGHT monster from your GY to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16255442.jpg"

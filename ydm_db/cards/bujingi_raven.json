@@ -1,7 +1,8 @@
 {
   "id": 11958188,
   "name": "Bujingi Raven",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a \"Bujin\" monster you control is destroyed by battle with an opponent\u0027s monster and sent to your Graveyard: You can send this card from your hand to the Graveyard; destroy that opponent\u0027s monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11958188.jpg"

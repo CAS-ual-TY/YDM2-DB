@@ -1,7 +1,8 @@
 {
   "id": 77608643,
   "name": "Destiny HERO - Captain Tenacious",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during your Standby Phase: You can target 1 \"Destiny HERO\" monster in your Graveyard that was destroyed by battle since your last Standby Phase, if you controlled this face-up card when the target was destroyed; Special Summon that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77608643.jpg"

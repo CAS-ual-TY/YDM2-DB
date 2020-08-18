@@ -1,7 +1,8 @@
 {
   "id": 45462149,
   "name": "Code Talker Inverted",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Cyberse monsters\nIf this card is Link Summoned: You can Special Summon 1 Cyberse monster from your hand to your zone this card points to. You can only use this effect of \"Code Talker Inverted\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45462149.jpg"

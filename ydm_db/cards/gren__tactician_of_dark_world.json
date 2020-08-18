@@ -1,7 +1,8 @@
 {
   "id": 51232472,
   "name": "Gren, Tactician of Dark World",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is discarded to the Graveyard by a card effect: Target 1 Spell/Trap Card on the field; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51232472.jpg"

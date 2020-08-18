@@ -1,7 +1,8 @@
 {
   "id": 15510988,
   "name": "Thunder Kid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster stores electricity within his body, and can unleash it with catastrophic power.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15510988.jpg"

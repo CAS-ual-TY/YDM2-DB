@@ -1,7 +1,8 @@
 {
   "id": 44179224,
   "name": "Abyss Actor - Curtain Raiser",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Gains 1100 ATK if you control no other monsters. Once per turn: You can send 1 \"Abyss Script\" Spell from your Deck to the GY; add 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44179224.jpg"

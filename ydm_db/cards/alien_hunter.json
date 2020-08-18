@@ -1,7 +1,8 @@
 {
   "id": 62315111,
   "name": "Alien Hunter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card destroys a monster with an A-Counter by battle, it can attack once again in a row.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62315111.jpg"

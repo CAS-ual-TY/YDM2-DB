@@ -1,7 +1,8 @@
 {
   "id": 11125718,
   "name": "Lancer Dragonute",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11125718.jpg"

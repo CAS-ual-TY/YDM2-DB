@@ -1,7 +1,8 @@
 {
   "id": 45943123,
   "name": "Torpedo Takedown",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 WATER Xyz Monster you control; detach 1 material from it, inflict 400 damage to your opponent for each card in your hand, and if you do, that monster gains ATK equal to the damage inflicted, until the end of this turn. You can banish this card and 1 WATER Xyz Monster from your GY; draw 2 cards. You can only use 1 \"Torpedo Takedown\" effect per turn, and only once that turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45943123.jpg"

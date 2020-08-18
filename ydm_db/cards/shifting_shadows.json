@@ -1,7 +1,8 @@
 {
   "id": 59237154,
   "name": "Shifting Shadows",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, by paying 300 Life Points, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59237154.jpg"

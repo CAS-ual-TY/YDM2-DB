@@ -1,7 +1,8 @@
 {
   "id": 29139104,
   "name": "Avalanching Aussa",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can Tribute 1 EARTH monster (except this card) to Special Summon 1 EARTH monster from your hand. The monster Special Summoned by this effect is destroyed if \"Avalanching Aussa\" is removed from your side of the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29139104.jpg"

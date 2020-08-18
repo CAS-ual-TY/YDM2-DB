@@ -1,7 +1,8 @@
 {
   "id": 65384019,
   "name": "Alchemy Cycle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the Graveyard, draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65384019.jpg"

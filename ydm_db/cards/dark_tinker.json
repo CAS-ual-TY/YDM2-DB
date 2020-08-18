@@ -1,7 +1,8 @@
 {
   "id": 76614003,
   "name": "Dark Tinker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76614003.jpg"

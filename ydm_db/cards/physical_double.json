@@ -1,7 +1,8 @@
 {
   "id": 63442604,
   "name": "Physical Double",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your opponent\u0027s turn: Target 1 face-up monster your opponent controls; Special Summon 1 \"Mirage Token\" with the same Level, Type, Attribute, ATK, and DEF as that target. Destroy this Token during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63442604.jpg"

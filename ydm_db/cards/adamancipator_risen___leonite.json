@@ -1,7 +1,8 @@
 {
   "id": 47674738,
   "name": "Adamancipator Risen - Leonite",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nDuring your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can add 1 excavated \"Adamancipator\" card to your hand, also place the rest on the bottom of your Deck in any order. During your opponent\u0027s turn, if a FIRE monster is in your GY (Quick Effect): You can target 1 Rock monster in your GY; Special Summon it. You can only use each effect of \"Adamancipator Risen - Leonite\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47674738.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 60800381,
   "name": "Junk Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60800381.jpg"

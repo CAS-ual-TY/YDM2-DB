@@ -1,7 +1,8 @@
 {
   "id": 34550857,
   "name": "Lyrilusc - Cobalt Sparrow",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Special Summoned: You can add 1 Level 1 Winged Beast-Type monster from your Deck to your hand. You can only use this effect of \"Lyrilusc - Cobalt Sparrow\" once per turn. A WIND Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n? Your opponent cannot target this card with card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34550857.jpg"

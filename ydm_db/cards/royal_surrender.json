@@ -1,7 +1,8 @@
 {
   "id": 56058888,
   "name": "Royal Surrender",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only when your opponent activates a Continuous Trap Card. Negate the activation and the effect of the card and destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56058888.jpg"

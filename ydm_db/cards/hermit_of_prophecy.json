@@ -1,7 +1,8 @@
 {
   "id": 90743290,
   "name": "Hermit of Prophecy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a \"Spellbook\" Spell Card is activated, increase this card\u0027s Level by 2 and ATK by 300.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90743290.jpg"

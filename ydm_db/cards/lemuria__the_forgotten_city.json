@@ -1,7 +1,8 @@
 {
   "id": 34103656,
   "name": "Lemuria, the Forgotten City",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card\u0027s name is treated as \"Umi\". All WATER monsters gain 200 ATK and DEF. Once per turn, during your Main Phase: You can have all WATER monsters you currently control gain Levels equal to the number of WATER monsters you currently control, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34103656.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 54773234,
   "name": "Forbidden Scripture",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a monster battles an opponent\u0027s monster, during damage calculation: Negate all other card effects on the field until the end of the Damage Step, also damage calculation for this battle uses each monster\u0027s original ATK and DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54773234.jpg"

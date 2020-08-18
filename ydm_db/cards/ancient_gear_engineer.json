@@ -1,7 +1,8 @@
 {
   "id": 1953925,
   "name": "Ancient Gear Engineer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1953925.jpg"

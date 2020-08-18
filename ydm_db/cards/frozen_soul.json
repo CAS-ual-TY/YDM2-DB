@@ -1,7 +1,8 @@
 {
   "id": 57069605,
   "name": "Frozen Soul",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only activate this card when your Life Points are at least 2000 lower than your opponent\u0027s. Skip your opponent\u0027s next Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57069605.jpg"

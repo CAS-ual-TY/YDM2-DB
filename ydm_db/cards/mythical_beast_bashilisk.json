@@ -1,7 +1,8 @@
 {
   "id": 80959027,
   "name": "Mythical Beast Bashilisk",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field; return 1 \"Mythical Beast\" card from your Pendulum Zone or face-up from your Extra Deck to the hand. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80959027.jpg"

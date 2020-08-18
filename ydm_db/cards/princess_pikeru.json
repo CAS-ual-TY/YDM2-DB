@@ -1,7 +1,8 @@
 {
   "id": 75917088,
   "name": "Princess Pikeru",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Trial of the Princesses\". During your Standby Phase, gain 800 Life Points for each monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75917088.jpg"

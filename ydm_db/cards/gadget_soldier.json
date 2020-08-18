@@ -1,7 +1,8 @@
 {
   "id": 86281779,
   "name": "Gadget Soldier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A rust-free machine warrior born to battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86281779.jpg"

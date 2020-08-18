@@ -1,7 +1,8 @@
 {
   "id": 4941482,
   "name": "Informer Spider",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is sent from the field to the Graveyard by a card effect, take control of 1 Defense Position monster your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4941482.jpg"

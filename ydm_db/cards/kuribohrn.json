@@ -1,7 +1,8 @@
 {
   "id": 78355370,
   "name": "Kuribohrn",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "At the end of the Battle Phase: You can discard this card, then target 1 monster in your GY that was destroyed by battle and sent there this turn; Special Summon it. When an opponent\u0027s monster declares an attack: You can banish this card from your GY, then target any number of \"Kuriboh\" monsters in your GY; Special Summon them.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78355370.jpg"

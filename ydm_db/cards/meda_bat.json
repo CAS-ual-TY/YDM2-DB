@@ -1,7 +1,8 @@
 {
   "id": 76211194,
   "name": "Meda Bat",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76211194.jpg"

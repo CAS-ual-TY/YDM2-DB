@@ -1,7 +1,8 @@
 {
   "id": 33621868,
   "name": "Giganto",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A massive steel ball that mows down anything in its path.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33621868.jpg"

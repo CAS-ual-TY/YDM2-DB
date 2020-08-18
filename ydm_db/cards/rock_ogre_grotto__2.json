@@ -1,7 +1,8 @@
 {
   "id": 62193699,
   "name": "Rock Ogre Grotto #2",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A golem formed by boulders, this monster turns its enemies to stone and crushes them to dust.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62193699.jpg"

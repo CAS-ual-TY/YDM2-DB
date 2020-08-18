@@ -1,7 +1,8 @@
 {
   "id": 15237615,
   "name": "Empress Judge",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Queen\u0027s Double\" + \"Hibikime\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15237615.jpg"

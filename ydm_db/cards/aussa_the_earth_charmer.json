@@ -1,7 +1,8 @@
 {
   "id": 37970940,
   "name": "Aussa the Earth Charmer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: While this card is face-up on the field, take control of 1 EARTH monster your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37970940.jpg"

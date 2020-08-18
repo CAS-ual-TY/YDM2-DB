@@ -1,7 +1,8 @@
 {
   "id": 52675689,
   "name": "Invitation to a Dark Sleep",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this monster is summoned (excluding Special Summon), select 1 of your opponent\u0027s monsters. As long as this card remains face-up on the field, the selected monster cannot attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52675689.jpg"

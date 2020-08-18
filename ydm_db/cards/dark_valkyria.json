@@ -1,7 +1,8 @@
 {
   "id": 83269557,
   "name": "Dark Valkyria",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n? Once, while this card is face-up on the field: You can place 1 Spell Counter on it. This card gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 monster on the field; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83269557.jpg"

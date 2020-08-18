@@ -1,7 +1,8 @@
 {
   "id": 33875961,
   "name": "Dark Catapulter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Standby Phase, if this card is in Defense Position, put 1 counter on this card. You can remove from play a number of card(s) in your Graveyard equal to the number of counters on this card to destroy that many Spell or Trap Card(s) on the field. Then remove all counter(s) from this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33875961.jpg"

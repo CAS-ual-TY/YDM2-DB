@@ -1,7 +1,8 @@
 {
   "id": 71340250,
   "name": "Mixeroid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Tribute 1 Machine monster; Special Summon 1 non-WIND \"roid\" monster from your Deck. You can pay half your LP and banish any number of Machine monsters from your GY, including this card; Special Summon from your Extra Deck, 1 \"roid\" Fusion Monster with the same Level as the number of those banished monsters, ignoring its Summoning conditions, but destroy it during the End Phase. You can only use each effect of \"Mixeroid\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71340250.jpg"

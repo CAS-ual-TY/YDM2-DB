@@ -1,7 +1,8 @@
 {
   "id": 6631034,
   "name": "Frostosaurus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster\u0027s metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6631034.jpg"

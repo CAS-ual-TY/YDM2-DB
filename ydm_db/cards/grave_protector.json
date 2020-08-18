@@ -1,7 +1,8 @@
 {
   "id": 11448373,
   "name": "Grave Protector",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Any monster destroyed by battle is shuffled into the Deck instead of going to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11448373.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 49674183,
   "name": "Fallen Angel of Roses",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Special Summon this card (from your hand) by returning 1 Plant-Type monster you control to the hand, except \"Fallen Angel of Roses\", but banish it when it leaves the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49674183.jpg"

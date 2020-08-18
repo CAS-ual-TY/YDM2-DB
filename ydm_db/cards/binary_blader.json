@@ -1,7 +1,8 @@
 {
   "id": 80088625,
   "name": "Binary Blader",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Normal Monsters\nThis card gains these effects based on the number of monsters co-linked to this card.\n? 1+: When this card declares an attack on an opponent\u0027s monster: You can activate this effect; this turn, this card can make a second attack during each Battle Phase, but opponent\u0027s monsters cannot be destroyed by battle with this card.\n? 2: After damage calculation, if this card battled an opponent\u0027s monster: You can banish that opponent\u0027s monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80088625.jpg"

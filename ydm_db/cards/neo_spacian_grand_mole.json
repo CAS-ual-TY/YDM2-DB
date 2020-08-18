@@ -1,7 +1,8 @@
 {
   "id": 80344569,
   "name": "Neo-Spacian Grand Mole",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "At the start of the Damage Step, if this card battles an opponent\u0027s monster: You can return both the opponent\u0027s monster and this card to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80344569.jpg"

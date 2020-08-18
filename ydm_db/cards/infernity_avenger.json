@@ -1,7 +1,8 @@
 {
   "id": 85475641,
   "name": "Infernity Avenger",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a monster you control, except \"Infernity Avenger\", is destroyed by battle with an opponent\u0027s monster and sent to the Graveyard, while you have no cards in your hand, you can Special Summon this card from your Graveyard. In that case, the Level of this card is equal to the Level of your destroyed monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85475641.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 38525760,
   "name": "Hazy Flame Cerbereus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Normal Summon this card without Tributing, but its original ATK becomes 1000. Your opponent cannot target this card with card effects. When this card is destroyed and sent to the Graveyard: You can add 1 \"Hazy\" card from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38525760.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 19877898,
   "name": "Ultimate Insect LV7",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent\u0027s monsters lose 700 ATK and DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19877898.jpg"

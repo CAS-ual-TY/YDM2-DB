@@ -1,7 +1,8 @@
 {
   "id": 92481084,
   "name": "Temple of the Mind\u0027s Eye",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Any battle damage a player takes becomes 1000.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92481084.jpg"

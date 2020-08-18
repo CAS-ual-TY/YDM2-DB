@@ -1,7 +1,8 @@
 {
   "id": 94664694,
   "name": "Mad Archfiend",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Attack Position card is targeted for an attack: Change it to Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94664694.jpg"

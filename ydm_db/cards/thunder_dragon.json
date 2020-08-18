@@ -1,7 +1,8 @@
 {
   "id": 31786629,
   "name": "Thunder Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can discard this card; add up to 2 \"Thunder Dragon\" from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31786629.jpg"

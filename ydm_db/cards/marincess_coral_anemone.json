@@ -1,7 +1,8 @@
 {
   "id": 79130389,
   "name": "Marincess Coral Anemone",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 WATER monsters\nYou can target 1 WATER monster with 1500 or less ATK in your GY; Special Summon it to your zone this card points to, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If this card is sent from the field to the GY: You can target 1 \"Marincess\" card in your GY, except \"Marincess Coral Anemone\"; add it to your hand. You can only use each effect of \"Marincess Coral Anemone\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79130389.jpg"

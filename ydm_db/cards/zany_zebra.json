@@ -1,7 +1,8 @@
 {
   "id": 97466438,
   "name": "Zany Zebra",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal or Special Summoned: You can choose 1 unused Monster Zone or Spell \u0026 Trap Zone; while this card is face-up in the Monster Zone, that Zone cannot be used.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97466438.jpg"

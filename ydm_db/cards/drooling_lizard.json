@@ -1,7 +1,8 @@
 {
   "id": 16353197,
   "name": "Drooling Lizard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A blood-sucking snake in human form that attacks any living being that passes nearby.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16353197.jpg"

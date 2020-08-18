@@ -1,7 +1,8 @@
 {
   "id": 55673611,
   "name": "Psychic Trigger",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only while your Life Points are lower than your opponent\u0027s. Select 2 Psychic-Type monsters in your Graveyard. Remove them from play and draw 2 cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55673611.jpg"

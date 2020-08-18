@@ -1,7 +1,8 @@
 {
   "id": 12735388,
   "name": "Rainbow Veil",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If the equipped monster battles an opponent\u0027s monster, while that monster is on the field its effect(s) is negated during the Battle Phase only.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12735388.jpg"

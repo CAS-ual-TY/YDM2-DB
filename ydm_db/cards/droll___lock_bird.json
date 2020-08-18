@@ -1,7 +1,8 @@
 {
   "id": 94145021,
   "name": "Droll \u0026 Lock Bird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a card(s) is added from the Main Deck to your opponent\u0027s hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player\u0027s Main Deck to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94145021.jpg"

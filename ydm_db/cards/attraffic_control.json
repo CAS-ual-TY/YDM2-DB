@@ -1,7 +1,8 @@
 {
   "id": 46083380,
   "name": "Attraffic Control",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent controls 3 or more monsters, they cannot declare an attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46083380.jpg"

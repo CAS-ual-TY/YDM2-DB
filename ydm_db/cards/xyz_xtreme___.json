@@ -1,7 +1,8 @@
 {
   "id": 57319935,
   "name": "Xyz Xtreme !!",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When an Xyz Monster you control is destroyed by battle: Pay 1000 Life Points; you reveal 1 Xyz Monster from the Extra Deck with a Rank less than or equal to that destroyed monster\u0027s, and so can your opponent (simultaneously). The player who revealed the monster with lower ATK takes damage equal to the difference between the revealed monsters\u0027 ATK\u0027s. If the opponent doesn\u0027t reveal a monster, inflict damage to your opponent equal to the ATK of your revealed monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57319935.jpg"

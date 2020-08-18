@@ -1,7 +1,8 @@
 {
   "id": 50613779,
   "name": "Damage Mage",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When you take damage from a card effect: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50613779.jpg"

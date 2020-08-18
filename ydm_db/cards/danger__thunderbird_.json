@@ -1,7 +1,8 @@
 {
   "id": 90807199,
   "name": "Danger! Thunderbird!",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Thunderbird!\", Special Summon 1 \"Danger! Thunderbird!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 Set card your opponent controls; destroy it. You can only use this effect of \"Danger! Thunderbird!\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90807199.jpg"

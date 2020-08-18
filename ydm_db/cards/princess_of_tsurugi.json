@@ -1,7 +1,8 @@
 {
   "id": 51371017,
   "name": "Princess of Tsurugi",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent\u0027s side of the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51371017.jpg"

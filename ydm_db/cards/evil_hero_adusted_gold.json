@@ -1,7 +1,8 @@
 {
   "id": 13650422,
   "name": "Evil HERO Adusted Gold",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can discard this card; add 1 \"Dark Fusion\", or 1 card that specifically lists \"Dark Fusion\" in its text, from your Deck to your hand, except \"Evil HERO Adusted Gold\". You can only use this effect of \"Evil HERO Adusted Gold\" once per turn. Cannot attack unless you control a Fusion Monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13650422.jpg"

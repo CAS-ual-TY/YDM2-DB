@@ -1,7 +1,8 @@
 {
   "id": 7623640,
   "name": "Ceruli, Guru of Dark World",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is discarded to the Graveyard by a card effect: Special Summon this card from the Graveyard to your opponent\u0027s side of the field in face-up Defense Position. When this card is Special Summoned by the effect of a \"Dark World\" card: Your opponent must discard 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7623640.jpg"

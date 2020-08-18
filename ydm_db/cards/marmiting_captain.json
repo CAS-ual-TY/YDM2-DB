@@ -1,7 +1,8 @@
 {
   "id": 48737767,
   "name": "Marmiting Captain",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Normal Summoned: You can shuffle 1 card from your hand into the Deck, then draw 1 card, then you can Special Summon it if it is a monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48737767.jpg"

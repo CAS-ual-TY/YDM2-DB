@@ -1,7 +1,8 @@
 {
   "id": 97923414,
   "name": "Inpachi",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A log that attacks lost travelers in the forest. Originally a big tree, it was cut down and possessed by a wicked spirit.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97923414.jpg"

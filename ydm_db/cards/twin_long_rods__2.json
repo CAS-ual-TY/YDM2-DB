@@ -1,7 +1,8 @@
 {
   "id": 29692206,
   "name": "Twin Long Rods #2",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "An amphibious creature with two whip-like tails.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29692206.jpg"

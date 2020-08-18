@@ -1,7 +1,8 @@
 {
   "id": 21225115,
   "name": "Fossil Dragon Skullgios",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Rock monster + 1 Level 7 or higher monster in your opponent\u0027s GY\nMust first be Special Summoned with \"Fossil Fusion\". Before damage calculation, if this card battles an opponent\u0027s monster: You can switch the current ATK/DEF of that opponent\u0027s monster until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Fusion Summoned card battles an opponent\u0027s monster, any battle damage it inflicts to your opponent is doubled.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21225115.jpg"

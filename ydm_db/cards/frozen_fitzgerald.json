@@ -1,7 +1,8 @@
 {
   "id": 94515289,
   "name": "Frozen Fitzgerald",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 DARK Tuner + 1 non-Tuner Beast-Type monster\nIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When this card is destroyed by battle and sent to the Graveyard, while you control no monsters, you can discard 1 card to Special Summon this card from the Graveyard in face-up Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94515289.jpg"

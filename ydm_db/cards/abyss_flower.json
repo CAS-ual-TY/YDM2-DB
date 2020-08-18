@@ -1,7 +1,8 @@
 {
   "id": 40387124,
   "name": "Abyss Flower",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A rarely seen flower that blossoms quietly on the edge of darkness.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40387124.jpg"

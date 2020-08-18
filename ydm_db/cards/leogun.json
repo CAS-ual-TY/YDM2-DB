@@ -1,7 +1,8 @@
 {
   "id": 10538007,
   "name": "Leogun",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Huge monster with a lion\u0027s mane similar to the King of Beasts.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10538007.jpg"

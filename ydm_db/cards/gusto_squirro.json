@@ -1,7 +1,8 @@
 {
   "id": 336369,
   "name": "Gusto Squirro",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 Level 5 or higher \"Gusto\" monster from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/336369.jpg"

@@ -1,0 +1,21 @@
+{
+  "id": 43218406,
+  "name": "Gizmek Okami, the Dreaded Deluge Dragon",
+  "illegal": false,
+  "custom": false,
+  "text": "You can pay 1500 LP; destroy all monsters on the field that were Special Summoned from the Extra Deck, also you can only attack with 1 monster this turn. You can only use each of the following effects of \"Gizmek Okami, the Dreaded Deluge Dragon\" once per turn. If 2 or more monsters Special Summoned from the Extra Deck are on the field: You can Special Summon this card from your hand. If this card in your possession is sent to your GY by an opponent\u0027s card: You can banish 1 monster from your opponent\u0027s GY, then gain LP equal to its ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43218406.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2950,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2950,
+  "level": 10,
+  "is_tuner": false
+}

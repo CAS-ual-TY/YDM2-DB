@@ -1,7 +1,8 @@
 {
   "id": 69243953,
   "name": "Butterfly Dagger - Elma",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The equipped monster gains 300 ATK. When this card is destroyed and sent to the Graveyard while equipped: You can return this card to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69243953.jpg"

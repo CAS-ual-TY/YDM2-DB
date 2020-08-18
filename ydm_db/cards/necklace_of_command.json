@@ -1,7 +1,8 @@
 {
   "id": 48576971,
   "name": "Necklace of Command",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a monster you control that\u0027s equipped with this card is destroyed by battle, and this card is sent to the Graveyard, you can either:\n? Draw 1 card. OR\n? Discard 1 random card from your opponent\u0027s hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48576971.jpg"

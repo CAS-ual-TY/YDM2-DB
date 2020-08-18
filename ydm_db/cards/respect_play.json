@@ -1,7 +1,8 @@
 {
   "id": 8951260,
   "name": "Respect Play",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During their respective turns, each player must show their opponent their hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8951260.jpg"

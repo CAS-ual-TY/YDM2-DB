@@ -1,7 +1,8 @@
 {
   "id": 80770678,
   "name": "Spirit of the Harp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A spirit that soothes the soul with the music of its heavenly harp.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80770678.jpg"

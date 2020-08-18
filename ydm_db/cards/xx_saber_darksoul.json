@@ -1,7 +1,8 @@
 {
   "id": 31383545,
   "name": "XX-Saber Darksoul",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31383545.jpg"

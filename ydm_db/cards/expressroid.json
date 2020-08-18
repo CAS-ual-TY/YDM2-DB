@@ -1,7 +1,8 @@
 {
   "id": 984114,
   "name": "Expressroid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Summoned: You can target 2 \"roid\" monsters in your GY, except \"Expressroid\"; add those targets to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/984114.jpg"

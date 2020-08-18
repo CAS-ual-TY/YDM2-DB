@@ -1,7 +1,8 @@
 {
   "id": 3146695,
   "name": "Psychic Reactor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a Psychic-Type monster: Apply this effect to all Psychic-Type monsters you currently control, for the rest of this turn. When a Psychic-Type monster you control battles an opponent\u0027s monster, after damage calculation: Banish that Psychic-Type monster, also banish that opponent\u0027s monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3146695.jpg"

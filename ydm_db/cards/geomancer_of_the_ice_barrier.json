@@ -1,7 +1,8 @@
 {
   "id": 56704140,
   "name": "Geomancer of the Ice Barrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56704140.jpg"

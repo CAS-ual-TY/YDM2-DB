@@ -1,7 +1,8 @@
 {
   "id": 95204084,
   "name": "Koa\u0027ki Meiru Tornado",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can return 1 \"Iron Core of Koa\u0027ki Meiru\" from your hand to the top of the Deck to destroy all Special Summoned monsters your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95204084.jpg"

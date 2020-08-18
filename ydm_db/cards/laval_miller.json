@@ -1,7 +1,8 @@
 {
   "id": 89893715,
   "name": "Laval Miller",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can send 2 \"Laval\" monsters from your Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89893715.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 73061465,
   "name": "Spellbreaker of the Ice Barrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard. If you do, Spell Cards cannot be activated until the End Phase of your next turn, as long as this card remains face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73061465.jpg"

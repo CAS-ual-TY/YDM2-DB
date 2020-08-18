@@ -1,7 +1,8 @@
 {
   "id": 18180762,
   "name": "The Thing That Hides in the Mud",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster melts its way underground to attack enemies from below.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18180762.jpg"

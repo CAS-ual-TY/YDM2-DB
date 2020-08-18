@@ -1,7 +1,8 @@
 {
   "id": 85827713,
   "name": "Ghostrick Night",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While a \"Ghostrick\" monster is on the field, your opponent cannot Flip Summon. When this card in your possession is destroyed by your opponent\u0027s card and sent to your Graveyard: Your opponent cannot declare attacks for the rest of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85827713.jpg"

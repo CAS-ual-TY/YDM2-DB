@@ -1,7 +1,8 @@
 {
   "id": 61777313,
   "name": "Vanadis of the Nordic Ascendant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "For a Synchro Summon, you can substitute this card for any 1 \"Nordic\" Tuner. If this card is used as Synchro Material, all other Synchro Materials must be \"Nordic\" monsters. Once per turn: You can send 1 \"Nordic\" monster from your Deck to the GY; this card\u0027s Level becomes the Level of that monster, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61777313.jpg"

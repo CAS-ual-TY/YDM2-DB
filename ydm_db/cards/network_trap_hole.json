@@ -1,7 +1,8 @@
 {
   "id": 84640866,
   "name": "Network Trap Hole",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent Special Summons a monster(s) from the Main Deck or GY: Banish it face-down.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84640866.jpg"

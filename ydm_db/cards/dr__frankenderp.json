@@ -1,7 +1,8 @@
 {
   "id": 27995943,
   "name": "Dr. Frankenderp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal or Special Summoned: You can pay 500 LP; look at the top card of your Deck, then place it on the bottom of your Deck, OR reveal it and add it to your hand, but skip your next Draw Phase if added to the hand. You can only use this effect of \"Dr. Frankenderp\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27995943.jpg"

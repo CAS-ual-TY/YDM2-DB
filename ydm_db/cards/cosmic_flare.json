@@ -1,7 +1,8 @@
 {
   "id": 84012625,
   "name": "Cosmic Flare",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 \"Stardust\" Synchro Monster you control; this turn, if that Synchro Monster you control battles an opponent\u0027s monster, shuffle that opponent\u0027s monster into the Deck at the start of the Damage Step. If a \"Stardust\" Synchro Monster you control would Tribute itself to activate its effect, you can banish this card from your Graveyard instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84012625.jpg"

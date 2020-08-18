@@ -1,7 +1,8 @@
 {
   "id": 31443476,
   "name": "Quick Launch",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Special Summon 1 \"Rokket\" monster from your Deck, but it cannot attack, also destroy it during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31443476.jpg"

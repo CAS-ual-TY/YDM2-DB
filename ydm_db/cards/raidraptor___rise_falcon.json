@@ -1,7 +1,8 @@
 {
   "id": 73887236,
   "name": "Raidraptor - Rise Falcon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "3 Level 4 Winged Beast-Type monsters\nThis card can attack all Special Summoned monsters your opponent controls, once each. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Special Summoned monster your opponent controls; this card gains ATK equal to that monster\u0027s current ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73887236.jpg"

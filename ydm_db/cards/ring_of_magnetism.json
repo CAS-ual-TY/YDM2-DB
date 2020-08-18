@@ -1,7 +1,8 @@
 {
   "id": 20436034,
   "name": "Ring of Magnetism",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only equip this card to a monster on your side of the field. Decrease the ATK and DEF of a monster equipped with this card by 500 points. In addition, all the monsters on your opponent\u0027s side of the field can only attack the monster equipped with this card, if they attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20436034.jpg"

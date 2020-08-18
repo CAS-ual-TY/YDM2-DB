@@ -1,7 +1,8 @@
 {
   "id": 4206964,
   "name": "Trap Hole",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4206964.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 24487411,
   "name": "Detonate Deleter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2+ Cyberse monsters\nOnce per turn, at the start of the Damage Step, when this card battles a face-up monster that is not a Link-3 or higher Link Monster: You can destroy that monster. Once per turn: You can Tribute 1 monster this card points to, then target 1 monster your opponent controls; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24487411.jpg"

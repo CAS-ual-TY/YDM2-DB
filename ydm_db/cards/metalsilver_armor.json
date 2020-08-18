@@ -1,7 +1,8 @@
 {
   "id": 33114323,
   "name": "Metalsilver Armor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33114323.jpg"

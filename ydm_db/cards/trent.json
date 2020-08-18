@@ -1,7 +1,8 @@
 {
   "id": 78780140,
   "name": "Trent",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A guardian of the woods, this massive tree is believed to be immortal.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78780140.jpg"

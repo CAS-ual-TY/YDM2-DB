@@ -1,7 +1,8 @@
 {
   "id": 77428945,
   "name": "Terrene Toothed Tsuchinoko",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is Special Summoned: Change all other Special Summoned monsters on the field to face-down Defense Position. You can only use the effect of \"Terrene Toothed Tsuchinoko\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77428945.jpg"

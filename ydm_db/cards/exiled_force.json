@@ -1,7 +1,8 @@
 {
   "id": 74131780,
   "name": "Exiled Force",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Tribute this card to target 1 monster on the field; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/74131780.jpg"

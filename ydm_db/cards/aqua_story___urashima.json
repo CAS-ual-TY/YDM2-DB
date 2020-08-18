@@ -1,7 +1,8 @@
 {
   "id": 28325165,
   "name": "Aqua Story - Urashima",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you have an \"Aquaactress\" monster in your Graveyard: Target 1 monster on the field; until the end of this turn, its effects are negated, its ATK and DEF become 100, also it is unaffected by your opponent\u0027s card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28325165.jpg"

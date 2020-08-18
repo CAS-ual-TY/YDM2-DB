@@ -1,7 +1,8 @@
 {
   "id": 44394295,
   "name": "Shaddoll Fusion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If your opponent controls a monster that was Special Summoned from the Extra Deck, you can also use monsters in your Deck as Fusion Material. You can only activate 1 \"Shaddoll Fusion\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44394295.jpg"

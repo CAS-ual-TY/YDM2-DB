@@ -1,7 +1,8 @@
 {
   "id": 31447217,
   "name": "Wingweaver",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A six-winged fairy who prays for peace and hope.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31447217.jpg"

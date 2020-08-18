@@ -1,7 +1,8 @@
 {
   "id": 20838380,
   "name": "Shark Stickers",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Fish, Sea Serpent, or Aqua-Type monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20838380.jpg"

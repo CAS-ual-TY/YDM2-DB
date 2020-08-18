@@ -1,7 +1,8 @@
 {
   "id": 42431843,
   "name": "Ancient Brain",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A fallen fairy that is powerful in the dark.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42431843.jpg"

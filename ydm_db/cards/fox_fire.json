@@ -1,7 +1,8 @@
 {
   "id": 88753985,
   "name": "Fox Fire",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the End Phase, if this card was destroyed by battle and sent to the Graveyard this turn and was face-up at the start of the Damage Step: Special Summon this card from the Graveyard. This face-up card cannot be Tributed for a Tribute Summon.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88753985.jpg"

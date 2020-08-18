@@ -1,7 +1,8 @@
 {
   "id": 25397880,
   "name": "Chronicler of Nephthys",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can target 1 \"Nephthys\" card in your GY, except \"Chronicler of Nephthys\"; destroy 1 card in your hand, and if you do, add that target to your hand. During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can add 1 \"Nephthys\" card from your GY to your hand, except \"Chronicler of Nephthys\". You can only use each effect of \"Chronicler of Nephthys\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25397880.jpg"

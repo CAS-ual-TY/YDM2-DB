@@ -1,7 +1,8 @@
 {
   "id": 54747648,
   "name": "Green Turtle Summoner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Target 1 monster your opponent controls; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54747648.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 16759958,
   "name": "Aromaseraphy Angelica",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn: You can discard this card, then target 1 \"Aroma\" monster in your Graveyard; gain LP equal to that target\u0027s ATK. While your LP is higher than your opponent\u0027s, you control an \"Aroma\" monster, and this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Aromaseraphy Angelica\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16759958.jpg"

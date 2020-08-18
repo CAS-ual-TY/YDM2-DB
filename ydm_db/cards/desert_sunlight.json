@@ -1,7 +1,8 @@
 {
   "id": 93747864,
   "name": "Desert Sunlight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "All monsters on your side of the field are changed to face-up Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93747864.jpg"

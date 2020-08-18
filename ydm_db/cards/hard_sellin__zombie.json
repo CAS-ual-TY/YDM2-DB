@@ -1,7 +1,8 @@
 {
   "id": 94374859,
   "name": "Hard-sellin\u0027 Zombie",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a monster you control inflicts Battle Damage to your opponent, select 1 card from your opponent\u0027s Graveyard and return it to the bottom of their Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94374859.jpg"

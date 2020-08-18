@@ -1,7 +1,8 @@
 {
   "id": 12743620,
   "name": "Uni-Song Tuning",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 Tuner in either GY and 1 face-up monster on the field; banish that Tuner in the GY, then, until the end of this turn, the Level of the targeted monster on the field becomes the Level of the banished Tuner, also it is treated as a Tuner. You can only activate 1 \"Uni-Song Tuning\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12743620.jpg"

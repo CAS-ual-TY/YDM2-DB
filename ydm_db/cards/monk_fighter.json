@@ -1,7 +1,8 @@
 {
   "id": 3810071,
   "name": "Monk Fighter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Battle Damage to this card\u0027s controller from a battle involving this card becomes 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3810071.jpg"

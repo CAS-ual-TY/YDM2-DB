@@ -1,7 +1,8 @@
 {
   "id": 37256334,
   "name": "Performapal Card Gardna",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains DEF equal to the combined original DEF of all other \"Performapal\" monsters you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37256334.jpg"

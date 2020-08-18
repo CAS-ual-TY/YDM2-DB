@@ -1,7 +1,8 @@
 {
   "id": 85682655,
   "name": "Wind-Up Juggler",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "After damage calculation, if this card battled an opponent\u0027s monster: You can destroy that opponent\u0027s monster. This effect can be used only once while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85682655.jpg"

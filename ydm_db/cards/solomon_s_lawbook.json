@@ -1,7 +1,8 @@
 {
   "id": 23471572,
   "name": "Solomon\u0027s Lawbook",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Skip your next Standby Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23471572.jpg"

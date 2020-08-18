@@ -1,7 +1,8 @@
 {
   "id": 51786039,
   "name": "Nebula Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can reveal this card and 1 other Level 8 Dragon monster in your hand; Special Summon both in Defense Position, but negate their effects, also you cannot Normal or Special Summon monsters for the rest of this turn, except LIGHT or DARK Dragon monsters. You can banish this card from your GY, then target 1 Level 4 LIGHT or DARK Dragon monster in your GY; add it to your hand. You can only use each effect of \"Nebula Dragon\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51786039.jpg"

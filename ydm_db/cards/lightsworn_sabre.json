@@ -1,7 +1,8 @@
 {
   "id": 30502181,
   "name": "Lightsworn Sabre",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to a \"Lightsworn\" monster. It gains 700 ATK. When this card is sent from your Deck to the Graveyard: You can target 1 \"Lightsworn\" monster you control; equip this card to that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30502181.jpg"

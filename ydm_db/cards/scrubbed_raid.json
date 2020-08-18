@@ -1,7 +1,8 @@
 {
   "id": 79205581,
   "name": "Scrubbed Raid",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the Battle Phase, you can send 1 card you control to the Graveyard, except this card, to end the Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79205581.jpg"

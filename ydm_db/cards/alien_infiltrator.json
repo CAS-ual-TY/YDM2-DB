@@ -1,7 +1,8 @@
 {
   "id": 76573247,
   "name": "Alien Infiltrator",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent\u0027s side of the field is in the same column as this card, it can attack your opponent directly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76573247.jpg"

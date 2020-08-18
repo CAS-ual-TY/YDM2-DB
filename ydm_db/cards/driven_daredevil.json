@@ -1,7 +1,8 @@
 {
   "id": 93353691,
   "name": "Driven Daredevil",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Warrior-Type Tuner + 1 or more non-Tuner Warrior-Type monsters\nThis card cannot be destroyed by battle when attacked by a monster with higher ATK. After damage calculation, if this card was attacked by a monster with higher ATK: Destroy the opponent\u0027s monster it battled.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93353691.jpg"

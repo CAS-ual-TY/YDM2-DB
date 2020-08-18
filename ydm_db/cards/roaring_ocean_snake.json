@@ -1,7 +1,8 @@
 {
   "id": 19066538,
   "name": "Roaring Ocean Snake",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Mystic Lamp\" + \"Hyosube\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19066538.jpg"

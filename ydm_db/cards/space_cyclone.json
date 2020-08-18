@@ -1,7 +1,8 @@
 {
   "id": 69176131,
   "name": "Space Cyclone",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Detach 1 Xyz Material from a monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69176131.jpg"

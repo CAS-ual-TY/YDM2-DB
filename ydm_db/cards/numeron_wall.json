@@ -1,7 +1,8 @@
 {
   "id": 42352091,
   "name": "Numeron Wall",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control no cards, or all cards you control are \"Numeron Wall\" (Quick Effect): You can send this card from your hand or field to the GY; activate 1 \"Numeron Network\" from your hand or Deck. You can only use this effect of \"Numeron Wall\" once per turn. When you take battle damage: You can Special Summon this card from your hand, and if you do, end the Battle Phase after the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42352091.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 4031928,
   "name": "Change of Heart",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 monster your opponent controls; take control of it until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4031928.jpg"

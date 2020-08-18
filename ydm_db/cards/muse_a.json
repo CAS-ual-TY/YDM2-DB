@@ -1,7 +1,8 @@
 {
   "id": 69992868,
   "name": "Muse-A",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A fairy of the arts that is unbeatable on the harp.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69992868.jpg"

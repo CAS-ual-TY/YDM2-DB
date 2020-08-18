@@ -1,7 +1,8 @@
 {
   "id": 31292357,
   "name": "Performage Hat Tricker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If 2 or more monsters are on the field, you can Special Summon this card (from your hand). During either player\u0027s turn, when a card or effect is activated that would inflict damage to you: You can place 1 Performage Counter on this card (max. 3), then make that effect damage to you 0. When the 3rd Performage Counter is placed on this card, it\u0027s ATK and DEF become 3300.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31292357.jpg"

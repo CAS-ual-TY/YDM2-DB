@@ -1,7 +1,8 @@
 {
   "id": 50491121,
   "name": "Heroic Challenger - Spartan",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, when an opponent\u0027s monster declares an attack: You can target 1 face-up \"Heroic\" monster you control, except this card; this card gains ATK equal to that face-up monster\u0027s original ATK, until the end of the Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50491121.jpg"

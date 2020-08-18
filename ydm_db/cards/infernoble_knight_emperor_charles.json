@@ -1,0 +1,21 @@
+{
+  "id": 77656797,
+  "name": "Infernoble Knight Emperor Charles",
+  "illegal": false,
+  "custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf an Equip Card becomes equipped to a monster on the field, even during the Damage Step: You can destroy 1 card on the field. During the End Phase: You can equip 1 Equip Spell from your hand or GY to this card, then you can equip 1 FIRE Warrior monster from your Deck to this card as an Equip Spell that gives it 500 ATK. You can only use each effect of \"Infernoble Knight Emperor Charles\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77656797.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 9,
+  "is_tuner": false
+}

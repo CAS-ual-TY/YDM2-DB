@@ -1,7 +1,8 @@
 {
   "id": 36584821,
   "name": "Gren Maju Da Eiza",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card\u0027s ATK/DEF are each equal to the number of your banished cards x 400.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36584821.jpg"

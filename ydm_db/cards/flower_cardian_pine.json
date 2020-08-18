@@ -1,7 +1,8 @@
 {
   "id": 81752019,
   "name": "Flower Cardian Pine",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned: Draw 1 card, show it, then send it to the Graveyard unless it is a \"Flower Cardian\" monster. You can only use this effect of \"Flower Cardian Pine\" once per turn. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent\u0027s card effect and sent to your Graveyard: You can draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81752019.jpg"

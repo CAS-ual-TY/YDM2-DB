@@ -1,7 +1,8 @@
 {
   "id": 96782886,
   "name": "Mind Master",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can pay 800 Life Points and Tribute 1 Psychic-Type monster, except \"Mind Master\", to Special Summon 1 Level 4 or lower Psychic-Type monster from your Deck in face-up Attack Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96782886.jpg"

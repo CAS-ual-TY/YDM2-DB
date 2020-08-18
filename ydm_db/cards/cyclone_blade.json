@@ -1,7 +1,8 @@
 {
   "id": 22147147,
   "name": "Cyclone Blade",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Equip only to a \"Destiny HERO\" monster. At the end of the Damage Step, if the equipped monster attacked: Target 1 Spell/Trap Card on the field; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22147147.jpg"

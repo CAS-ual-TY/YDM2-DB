@@ -1,7 +1,8 @@
 {
   "id": 54766667,
   "name": "Light Effigy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you Tribute Summon a LIGHT Normal Monster, you can treat this 1 monster as 2 Tributes.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54766667.jpg"

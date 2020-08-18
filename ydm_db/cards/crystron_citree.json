@@ -1,7 +1,8 @@
 {
   "id": 20050865,
   "name": "Crystron Citree",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your opponent\u0027s Main Phase or Battle Phase: You can target 1 non-Tuner monster in your Graveyard; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine-Type Synchro Monster using only that monster and this card (this is a Quick Effect). These Synchro Materials are banished instead of being sent to the Graveyard. You can only use this effect of \"Crystron Citree\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20050865.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 22953211,
   "name": "Bellcat Fighter",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "3 monsters, including a Token\nWhen this card destroys an opponent\u0027s monster by battle: You can Special Summon 1 \"Bellcat Token\" (Machine/WIND/Level 4/ATK 2000/DEF 2000) in Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22953211.jpg"

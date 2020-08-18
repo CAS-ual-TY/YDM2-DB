@@ -1,7 +1,8 @@
 {
   "id": 16516630,
   "name": "Blackwing - Boreas the Sharp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During your Main Phase 1: You can banish this card from the Graveyard, then target 1 \"Blackwing\" monster you control; if that monster attacks this turn, you take no battle damage from that attack, it is not destroyed by that battle, also destroy the opponent\u0027s monster that it battled, after damage calculation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16516630.jpg"

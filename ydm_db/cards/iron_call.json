@@ -1,7 +1,8 @@
 {
   "id": 64662453,
   "name": "Iron Call",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a Machine monster: Target 1 Level 4 or lower Machine monster in your GY; Special Summon that target, but its effects are negated, also destroy it during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64662453.jpg"

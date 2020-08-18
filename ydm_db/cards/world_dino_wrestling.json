@@ -1,7 +1,8 @@
 {
   "id": 90173539,
   "name": "World Dino Wrestling",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While you control a \"Dinowrestler\" monster, each player can attack with only 1 monster during each Battle Phase. If your \"Dinowrestler\" monster attacks an opponent\u0027s monster, it gains 200 ATK during damage calculation only. If your opponent controls more monsters than you do: You can banish this card from the GY; Special Summon 1 \"Dinowrestler\" monster from your Deck. You can only use this effect of \"World Dino Wrestling\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90173539.jpg"

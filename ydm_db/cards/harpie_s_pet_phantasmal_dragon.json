@@ -1,7 +1,8 @@
 {
   "id": 85909450,
   "name": "Harpie\u0027s Pet Phantasmal Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "3 Level 4 WIND monsters\nThis card\u0027s effects can only be applied/resolved while it has Xyz Material. This card can attack your opponent directly. Your opponent cannot target any \"Harpie\" monsters with effects or for attacks. During each of your End Phases: Detach 1 Xyz Material from this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85909450.jpg"

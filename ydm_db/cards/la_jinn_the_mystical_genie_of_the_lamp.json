@@ -1,7 +1,8 @@
 {
   "id": 97590747,
   "name": "La Jinn the Mystical Genie of the Lamp",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A genie of the lamp that is at the beck and call of its master.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97590747.jpg",

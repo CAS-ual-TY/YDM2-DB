@@ -1,7 +1,8 @@
 {
   "id": 77847678,
   "name": "Shien\u0027s Scheme",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a \"Six Samurai\" monster you control is destroyed by battle: Special Summon up to 2 \"Six Samurai\" monsters from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77847678.jpg"

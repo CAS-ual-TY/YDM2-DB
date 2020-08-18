@@ -1,7 +1,8 @@
 {
   "id": 85893201,
   "name": "Chain Ignition",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, if a monster(s) your opponent controls is destroyed by your opponent\u0027s card effect (except during the Damage Step): You can target 1 card on the field; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85893201.jpg"

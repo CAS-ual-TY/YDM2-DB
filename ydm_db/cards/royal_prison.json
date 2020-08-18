@@ -1,7 +1,8 @@
 {
   "id": 26586849,
   "name": "Royal Prison",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Monsters cannot be Special Summoned from the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26586849.jpg"

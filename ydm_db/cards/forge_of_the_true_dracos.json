@@ -1,7 +1,8 @@
 {
   "id": 87765315,
   "name": "Forge of the True Dracos",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a \"Dracoslayer\" monster, that is not a Pendulum Monster, and a \"Dracoverlord\" monster are on the field: Shuffle as many cards on the field as possible into the Deck, then you can Special Summon 1 \"Dracoslayer\" or \"Dracoverlord\" monster from your Deck, ignoring its Summoning conditions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87765315.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 50304345,
   "name": "Evil HERO Infernal Prodigy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control no monsters, you can Special Summon this card (from your hand) in Attack Position. Once per turn, during the End Phase, if this card was Tributed this turn to Tribute Summon a \"HERO\" monster: Draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50304345.jpg"

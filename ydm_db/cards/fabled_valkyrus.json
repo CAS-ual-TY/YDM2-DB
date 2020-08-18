@@ -1,7 +1,8 @@
 {
   "id": 54048462,
   "name": "Fabled Valkyrus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nOnce per turn, you can discard 1 Fiend-Type monster to draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54048462.jpg"

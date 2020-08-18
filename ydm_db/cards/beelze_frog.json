@@ -1,7 +1,8 @@
 {
   "id": 49522489,
   "name": "Beelze Frog",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 300 ATK for each \"T.A.D.P.O.L.E.\" in your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49522489.jpg"

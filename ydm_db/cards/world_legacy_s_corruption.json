@@ -1,7 +1,8 @@
 {
   "id": 62279666,
   "name": "World Legacy\u0027s Corruption",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, if a face-up Link Monster you control is destroyed by battle, or leaves the field because of an opponent\u0027s card effect: You can Special Summon 1 \"World Legacy\" monster from your hand or Deck in Defense Position. You can only control 1 \"World Legacy\u0027s Corruption\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62279666.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 1475311,
   "name": "Allure of Darkness",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1475311.jpg"

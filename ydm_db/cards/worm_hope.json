@@ -1,7 +1,8 @@
 {
   "id": 11159464,
   "name": "Worm Hope",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: When this card is flipped face-up by an opponent\u0027s monster\u0027s attack, draw 1 card.\nWhen this card is sent from the field to the Graveyard, send 1 card from your hand to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11159464.jpg"

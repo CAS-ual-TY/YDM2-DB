@@ -1,7 +1,8 @@
 {
   "id": 33950246,
   "name": "Royal Command",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Flip monsters\u0027 effects cannot be activated, also their effects are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33950246.jpg"

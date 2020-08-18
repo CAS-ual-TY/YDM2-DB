@@ -1,7 +1,8 @@
 {
   "id": 81481818,
   "name": "Patchwork Fluffal",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card is also treated as a \"Frightfur\" monster while face-up on the field. This card on the field can be used as a substitute for any 1 Fusion Material whose name is specifically listed on a \"Frightfur\" Fusion Monster, but the other Fusion Material(s) must be correct.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81481818.jpg"

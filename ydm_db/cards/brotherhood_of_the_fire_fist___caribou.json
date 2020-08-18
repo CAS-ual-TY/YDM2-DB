@@ -1,7 +1,8 @@
 {
   "id": 93751476,
   "name": "Brotherhood of the Fire Fist - Caribou",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the End Phase, if this card is in the Graveyard because it was destroyed by a card effect and sent there this turn: You can Special Summon 1 Level 4 \"Fire Fist\" monster from your Deck, except \"Brotherhood of the Fire Fist - Caribou\". If this card is sent to the Graveyard for the Synchro Summon of a \"Fire Fist\" monster: You can Set 1 \"Fire Formation\" Spell Card directly from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93751476.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 91711547,
   "name": "Flamvell Fiend",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card inflicts Battle Damage to your opponent, inflict 200 damage to your opponent for each Pyro-Type monster in your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91711547.jpg"

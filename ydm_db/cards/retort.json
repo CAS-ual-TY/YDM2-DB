@@ -1,7 +1,8 @@
 {
   "id": 22747316,
   "name": "Retort",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your opponent activates a Spell/Trap Card with the same name as one in your Graveyard: Negate the activation, and if you do, destroy that card. Then you can add 1 card with that name from your Graveyard to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22747316.jpg"

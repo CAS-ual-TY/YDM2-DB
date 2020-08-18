@@ -1,7 +1,8 @@
 {
   "id": 36006208,
   "name": "Fire Lake of the Burning Abyss",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Send 2 face-up \"Burning Abyss\" monsters you control to the Graveyard, then target up to 3 cards on the field; destroy those targets.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36006208.jpg"

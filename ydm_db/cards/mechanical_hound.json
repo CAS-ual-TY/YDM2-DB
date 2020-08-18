@@ -1,7 +1,8 @@
 {
   "id": 22512237,
   "name": "Mechanical Hound",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While you have no cards in your hand, your opponent cannot activate Spell Cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22512237.jpg"

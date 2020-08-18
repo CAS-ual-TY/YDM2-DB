@@ -1,7 +1,8 @@
 {
   "id": 45593005,
   "name": "Morphtronic Magnen Bar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "? While in Attack Position: Once per turn, if you control exactly 2 other face-up Attack Position monsters, and no additional monsters, this card gains the combined ATK of the other two monsters you control until the End Phase. The other two monsters cannot attack the turn you activate this effect.\n? While in Defense Position: Monsters you control cannot attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45593005.jpg"

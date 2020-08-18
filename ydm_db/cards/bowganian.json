@@ -1,7 +1,8 @@
 {
   "id": 52090844,
   "name": "Bowganian",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, during your Standby Phase: Inflict 600 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52090844.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 40921545,
   "name": "Evilswarm Ketos",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Tribute this card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40921545.jpg"

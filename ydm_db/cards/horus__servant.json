@@ -1,7 +1,8 @@
 {
   "id": 9264485,
   "name": "Horus\u0027 Servant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Your opponent cannot target face-up \"Horus the Black Flame Dragon\" monsters with Spells, Traps, or card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9264485.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 81791932,
   "name": "Snake Whistle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only when a Reptile-Type monster you control is destroyed. Special Summon 1 Level 4 or lower Reptile-Type monster from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81791932.jpg"

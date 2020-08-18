@@ -1,7 +1,8 @@
 {
   "id": 57470761,
   "name": "Tyrant Wing",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Target 1 Dragon monster on the field; equip this card to it. It gains 400 ATK/DEF, also it can make up to 2 attacks on monsters during each Battle Phase. Once per turn, during the End Phase, if the monster equipped with this card by this effect attacked an opponent\u0027s monster this turn: Destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57470761.jpg"

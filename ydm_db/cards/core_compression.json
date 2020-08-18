@@ -1,7 +1,8 @@
 {
   "id": 13997673,
   "name": "Core Compression",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Reveal 1 \"Iron Core of Koa\u0027ki Meiru\" in your hand and discard 1 \"Koa\u0027ki Meiru\" monster to activate this card. Draw 2 cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13997673.jpg"

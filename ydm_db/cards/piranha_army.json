@@ -1,7 +1,8 @@
 {
   "id": 50823978,
   "name": "Piranha Army",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The Battle Damage this card inflicts by attacking your opponent\u0027s Life Points directly is doubled.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50823978.jpg"

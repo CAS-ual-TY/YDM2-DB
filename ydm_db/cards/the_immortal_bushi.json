@@ -1,7 +1,8 @@
 {
   "id": 52035300,
   "name": "The Immortal Bushi",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a Warrior-Type monster. During your Standby Phase, if this card is in your Graveyard and all the monsters in your Graveyard are Warrior-Type: You can Special Summon this card. You must also control no monsters to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52035300.jpg"

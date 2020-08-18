@@ -1,7 +1,8 @@
 {
   "id": 46474915,
   "name": "Magical Ghost",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This creature casts a spell of terror and confusion just before attacking its enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46474915.jpg"

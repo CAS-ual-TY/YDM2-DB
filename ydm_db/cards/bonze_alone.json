@@ -1,7 +1,8 @@
 {
   "id": 263926,
   "name": "Bonze Alone",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal or Special Summoned if you control a monster. You can Special Summon this card (from your hand) in Attack Position. If another monster(s) is Summoned to your field while you control this monster: Destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/263926.jpg"

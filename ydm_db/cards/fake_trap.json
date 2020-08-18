@@ -1,7 +1,8 @@
 {
   "id": 3027001,
   "name": "Fake Trap",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only when your opponent activates a Spell, Trap, or Effect Monster\u0027s effect that would destroy a Trap Card(s) you control. Destroy this card instead. (If the cards that would have been destroyed are face-down, you can look at them to confirm.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3027001.jpg"

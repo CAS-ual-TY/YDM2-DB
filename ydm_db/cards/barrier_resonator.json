@@ -1,7 +1,8 @@
 {
   "id": 89127526,
   "name": "Barrier Resonator",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn: You can send this card from your hand to the Graveyard, then target 1 Tuner monster you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89127526.jpg"

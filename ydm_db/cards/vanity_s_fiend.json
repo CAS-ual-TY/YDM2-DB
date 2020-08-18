@@ -1,7 +1,8 @@
 {
   "id": 47084486,
   "name": "Vanity\u0027s Fiend",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47084486.jpg"

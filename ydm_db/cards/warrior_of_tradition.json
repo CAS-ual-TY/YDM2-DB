@@ -1,7 +1,8 @@
 {
   "id": 56413937,
   "name": "Warrior of Tradition",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Sonic Maid\" + \"Beautiful Headhuntress\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56413937.jpg"

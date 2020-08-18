@@ -1,7 +1,8 @@
 {
   "id": 72083436,
   "name": "Pegasus Wing",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you have a Union monster in your GY: Target any number of \"Valkyrie\" monsters you control; those monsters can attack directly this turn, but if they do so using this effect, their battle damage inflicted to your opponent is halved.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72083436.jpg"

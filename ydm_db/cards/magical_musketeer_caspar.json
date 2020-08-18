@@ -1,7 +1,8 @@
 {
   "id": 32841045,
   "name": "Magical Musketeer Caspar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During either player\u0027s turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card\u0027s column (except during the Damage Step): You can add 1 \"Magical Musket\" card from your Deck to your hand, but not a card with the same name as that activated card. You can only use this effect of \"Magical Musketeer Caspar\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32841045.jpg"

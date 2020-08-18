@@ -1,7 +1,8 @@
 {
   "id": 20210570,
   "name": "Regulus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn, you can select 1 Field Spell Card in your Graveyard. Return it to the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20210570.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 75421661,
   "name": "Dododo Swordsman",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "While this Flip Summoned card is face-up on the field, it gains 3500 ATK. When this card is flipped face-up: You can target up to 2 face-up monsters on the field; destroy them.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75421661.jpg"

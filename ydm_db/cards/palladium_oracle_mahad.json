@@ -1,7 +1,8 @@
 {
   "id": 71703785,
   "name": "Palladium Oracle Mahad",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When you draw this card: You can reveal this card; Special Summon it from your hand. If this card battles a DARK monster, its ATK is doubled during the Damage Step only. If this card is destroyed by battle or card effect: You can Special Summon 1 \"Dark Magician\" from your hand, Deck, or Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71703785.jpg"

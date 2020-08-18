@@ -1,7 +1,8 @@
 {
   "id": 83887306,
   "name": "Two-Pronged Attack",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Select and destroy 2 of your monsters and 1 of your opponent\u0027s monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83887306.jpg"

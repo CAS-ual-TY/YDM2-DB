@@ -1,7 +1,8 @@
 {
   "id": 61665245,
   "name": "Summon Sorceress",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2+ monsters with the same Type, except Tokens\nIf this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position, to your opponent\u0027s zone this card points to. You can target 1 face-up monster this card points to; Special Summon 1 monster from your Deck in Defense Position, with the same Type as that monster, to a zone this card points to, but negate its effects. You can only use this effect of \"Summon Sorceress\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61665245.jpg"

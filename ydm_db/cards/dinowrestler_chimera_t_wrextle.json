@@ -1,7 +1,8 @@
 {
   "id": 22900219,
   "name": "Dinowrestler Chimera T Wrextle",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 \"Dinowrestler\" Link Monster + 1 \"Dinowrestler\" monster\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. Your opponent\u0027s monsters cannot target monsters for attacks, except this one. If this card destroys a monster by battle: It gains 500 ATK. If this card is destroyed by card effect: Destroy all your opponent\u0027s Attack Position monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22900219.jpg"

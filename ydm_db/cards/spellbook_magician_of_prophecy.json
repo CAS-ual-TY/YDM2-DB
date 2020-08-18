@@ -1,7 +1,8 @@
 {
   "id": 14824019,
   "name": "Spellbook Magician of Prophecy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal Summoned or flipped face-up: Add 1 \"Spellbook\" Spell from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14824019.jpg"

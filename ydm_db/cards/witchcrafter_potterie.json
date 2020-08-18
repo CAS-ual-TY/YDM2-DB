@@ -1,7 +1,8 @@
 {
   "id": 59851535,
   "name": "Witchcrafter Potterie",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your Deck, except \"Witchcrafter Potterie\". If you have no cards in your hand: You can banish this card from your GY, then target 1 \"Witchcrafter\" card in your GY; add it to your hand. You can only use each effect of \"Witchcrafter Potterie\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59851535.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 49702428,
   "name": "Dark Burning Attack",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a \"Dark Magician Girl\" monster: Destroy all face-up monsters your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49702428.jpg"

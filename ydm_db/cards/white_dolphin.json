@@ -1,7 +1,8 @@
 {
   "id": 92409659,
   "name": "White Dolphin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A white dolphin with a horn that summons huge tidal waves.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92409659.jpg"

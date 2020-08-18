@@ -1,7 +1,8 @@
 {
   "id": 6205579,
   "name": "Fusion Parasite",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can be used as a substitute for any 1 Fusion Material whose name is specifically listed on the Fusion Monster Card, but the other Fusion Material(s) must be correct. Cannot be used as Fusion Material otherwise. If this card is Special Summoned (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6205579.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 21977828,
   "name": "Inzektor Giga-Weevil",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can target 1 face-up \"Inzektor\" monster you control; equip this card from your hand to that target. While this card is equipped to a monster, that monster\u0027s original DEF becomes 2600. If this card is sent to the Graveyard while equipped to a monster: You can target 1 \"Inzektor\" monster in your Graveyard; Special Summon that target. This effect of \"Inzektor Giga-Weevil\" can only be used once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21977828.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 18716735,
   "name": "Raremetalfoes Bismugear",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card on the field is destroyed by battle or card effect: You can add 1 \"Metalfoes\" monster from your Deck to your hand during the End Phase of this turn. You can only use this effect of \"Raremetalfoes Bismugear\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18716735.jpg"

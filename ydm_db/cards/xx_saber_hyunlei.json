@@ -1,7 +1,8 @@
 {
   "id": 2203790,
   "name": "XX-Saber Hyunlei",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2203790.jpg"

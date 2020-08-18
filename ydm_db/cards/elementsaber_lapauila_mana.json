@@ -1,7 +1,8 @@
 {
   "id": 71797713,
   "name": "Elementsaber Lapauila Mana",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can send 2 other monsters from your hand to the GY; Special Summon this card from your hand. You can only use this effect of \"Elementsaber Lapauila Mana\" once per turn. Apply the following effect(s) to \"Elementsaber\" and \"Elemental Lord\" monsters you control, depending on the original Attributes of any \"Elementsaber\" monsters sent to the GY to activate this card\u0027s effect.\n? EARTH or WIND: Cannot be destroyed by battle.\n? WATER or FIRE: Cannot be destroyed by effects.\n? LIGHT or DARK: Your opponent cannot target it with card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71797713.jpg"

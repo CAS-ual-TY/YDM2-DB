@@ -1,7 +1,8 @@
 {
   "id": 1845204,
   "name": "Instant Fusion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Pay 1000 LP; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck, but it cannot attack, also it is destroyed during the End Phase. (This is treated as a Fusion Summon.) You can only activate 1 \"Instant Fusion\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1845204.jpg"

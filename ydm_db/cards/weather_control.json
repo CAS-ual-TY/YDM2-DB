@@ -1,7 +1,8 @@
 {
   "id": 37243151,
   "name": "Weather Control",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This creature controls weather and is often the cause of mountain storms.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37243151.jpg"

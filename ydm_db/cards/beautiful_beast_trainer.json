@@ -1,7 +1,8 @@
 {
   "id": 29616941,
   "name": "Beautiful Beast Trainer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A rare female beast-master with a very dangerous whip.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29616941.jpg"

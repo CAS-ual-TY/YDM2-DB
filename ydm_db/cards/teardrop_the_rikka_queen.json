@@ -1,7 +1,8 @@
 {
   "id": 33779875,
   "name": "Teardrop the Rikka Queen",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 8 monsters\nYou can detach 1 material from this card, then target 1 monster on the field; Tribute it. This is a Quick Effect if this card has a Plant monster as material. You can only use this effect of \"Teardrop the Rikka Queen\" once per turn. Each time a monster(s) is Tributed: This card gains 200 ATK for each, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33779875.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 31733941,
   "name": "Red-Eyes Toon Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can Special Summon 1 Toon monster from your hand, except \"Red-Eyes Toon Dragon\", ignoring its Summoning conditions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31733941.jpg"

@@ -1,0 +1,21 @@
+{
+  "id": 29303524,
+  "name": "Seleglare the Luminous Lunar Dragon",
+  "illegal": false,
+  "custom": false,
+  "text": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1500. During the Main Phase (Quick Effect): You can target 1 monster your opponent controls with ATK less than or equal to this card; return this card to the hand, and if you do, take control of that opponent\u0027s monster until the End Phase. You can only use this effect of \"Seleglare the Luminous Lunar Dragon\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29303524.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

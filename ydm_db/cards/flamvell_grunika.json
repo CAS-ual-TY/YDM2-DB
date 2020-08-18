@@ -1,7 +1,8 @@
 {
   "id": 77372241,
   "name": "Flamvell Grunika",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the Level of the destroyed monster x 200.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77372241.jpg"

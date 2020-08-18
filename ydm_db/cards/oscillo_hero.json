@@ -1,7 +1,8 @@
 {
   "id": 82065276,
   "name": "Oscillo Hero",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A strange warrior from another dimension.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82065276.jpg"

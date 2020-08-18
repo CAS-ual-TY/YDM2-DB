@@ -1,7 +1,8 @@
 {
   "id": 54959865,
   "name": "Neo-Spacian Air Hummingbird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can gain 500 LP for each card in your opponent\u0027s hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54959865.jpg"

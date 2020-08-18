@@ -1,7 +1,8 @@
 {
   "id": 59419719,
   "name": "Fossil Fusion",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Fusion Summon 1 \"Fossil\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from either player\u0027s GY, and if you banished monsters from both GYs, neither player can target the Summoned monster with monster effects. If a face-up \"Fossil\" Fusion Monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Fossil Fusion\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59419719.jpg"

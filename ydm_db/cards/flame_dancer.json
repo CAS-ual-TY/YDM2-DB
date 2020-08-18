@@ -1,7 +1,8 @@
 {
   "id": 12883044,
   "name": "Flame Dancer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster moves while swinging its burning rope.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12883044.jpg"

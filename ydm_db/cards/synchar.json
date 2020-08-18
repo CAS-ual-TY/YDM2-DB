@@ -1,7 +1,8 @@
 {
   "id": 75646173,
   "name": "Synchar",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This two-headed creature spits laser blasts at its enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75646173.jpg"

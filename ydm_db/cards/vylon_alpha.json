@@ -1,7 +1,8 @@
 {
   "id": 56768355,
   "name": "Vylon Alpha",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 \"Vylon\" Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Equip Spell Card in your Graveyard; equip that target to this card. While this card is equipped with an Equip Card, it cannot be destroyed by Spell/Trap effects, except for Equip Cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56768355.jpg"

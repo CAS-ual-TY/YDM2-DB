@@ -1,7 +1,8 @@
 {
   "id": 34614289,
   "name": "U.A. Blockbacker",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Blockbacker\". You can only Special Summon \"U.A. Blockbacker\" once per turn this way. Once per turn, when your opponent Special Summons a monster(s): You can change their battle positions, and if you do, negate their effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34614289.jpg"

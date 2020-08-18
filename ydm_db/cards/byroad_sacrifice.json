@@ -1,7 +1,8 @@
 {
   "id": 36935434,
   "name": "Byroad Sacrifice",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only if a monster on your side of the field is destroyed by battle. Special Summon 1 \"Cyber Ogre\" from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36935434.jpg"

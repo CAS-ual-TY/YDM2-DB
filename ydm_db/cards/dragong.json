@@ -1,7 +1,8 @@
 {
   "id": 83980492,
   "name": "Dragong",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This gong harbors the soul of an untamed dragon. It soars through the skies with an incredible roar, marshaling all those who hear its call to battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83980492.jpg"

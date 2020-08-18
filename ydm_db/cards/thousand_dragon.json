@@ -1,7 +1,8 @@
 {
   "id": 41462083,
   "name": "Thousand Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Time Wizard\" + \"Baby Dragon\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41462083.jpg",

@@ -1,7 +1,8 @@
 {
   "id": 16964437,
   "name": "Dark Horizon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When you take battle or effect damage: Special Summon 1 DARK Spellcaster-Type monster from your Deck with ATK less than or equal to the damage you took.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16964437.jpg"

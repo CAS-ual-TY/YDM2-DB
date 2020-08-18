@@ -1,7 +1,8 @@
 {
   "id": 64538655,
   "name": "Sasuke Samurai #4",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card battles a monster, toss a coin and call heads or tails before damage calculation. If you call it right, destroy the opponent\u0027s monster with this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64538655.jpg"

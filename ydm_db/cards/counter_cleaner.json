@@ -1,7 +1,8 @@
 {
   "id": 38834303,
   "name": "Counter Cleaner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Pay 500 Life Points. Remove all counters from the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38834303.jpg"

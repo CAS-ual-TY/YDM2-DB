@@ -1,7 +1,8 @@
 {
   "id": 50712728,
   "name": "Gravekeeper\u0027s Curse",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Summoned: Inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50712728.jpg"

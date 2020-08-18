@@ -1,7 +1,8 @@
 {
   "id": 73911410,
   "name": "Sword Slasher",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A lethal engine of destruction that wields two well-honed blades.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73911410.jpg"

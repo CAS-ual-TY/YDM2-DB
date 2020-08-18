@@ -1,7 +1,8 @@
 {
   "id": 37042505,
   "name": "Special Dititanium Metal",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control \"Jinzo\": Activate 1 of these effects.\n? Machine monsters you currently control cannot be destroyed by your opponent\u0027s card effects until the end of this turn.\n? When a card or effect is activated that targets a Machine monster(s) you control: Negate that effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37042505.jpg"

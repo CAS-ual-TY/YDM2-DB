@@ -1,7 +1,8 @@
 {
   "id": 90508760,
   "name": "X-Saber Airbellum",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent\u0027s hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90508760.jpg"

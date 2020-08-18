@@ -1,7 +1,8 @@
 {
   "id": 97687912,
   "name": "Fairy Meteor Crush",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97687912.jpg"

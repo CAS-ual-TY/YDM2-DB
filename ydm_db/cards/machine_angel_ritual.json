@@ -1,7 +1,8 @@
 {
   "id": 39996157,
   "name": "Machine Angel Ritual",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If a LIGHT monster(s) you control would be destroyed by battle or card effect while this card is in your GY, you can banish this card instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39996157.jpg"

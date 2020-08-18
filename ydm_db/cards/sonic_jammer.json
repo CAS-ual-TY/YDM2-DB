@@ -1,7 +1,8 @@
 {
   "id": 84550200,
   "name": "Sonic Jammer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84550200.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 49513164,
   "name": "Invoked Raidjin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Aleister the Invoker\" + 1 WIND monster\nOnce per turn, during either player\u0027s turn: You can target 1 face-up monster on the field; change it to face-down Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49513164.jpg"

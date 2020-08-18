@@ -1,7 +1,8 @@
 {
   "id": 79491903,
   "name": "Reptilianne Naga",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be destroyed by battle. The ATK of any monster that battles this card becomes 0 at the end of that Battle Phase. During your End Phase, change this face-up Defense Position card on the field to face-up Attack Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79491903.jpg"

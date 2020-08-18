@@ -1,7 +1,8 @@
 {
   "id": 70345785,
   "name": "Yamadron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This monster has three fire-breathing heads and can form a sea of blazing flames.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70345785.jpg"

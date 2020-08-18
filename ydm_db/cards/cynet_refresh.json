@@ -1,7 +1,8 @@
 {
   "id": 36368606,
   "name": "Cynet Refresh",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When an opponent\u0027s Cyberse monster declares an attack: Destroy all monsters in the Main Monster Zones. During the End Phase of this turn, Special Summon from the GY as many Cyberse Link Monsters as possible, to their owner\u0027s fields, that were destroyed by this effect. When an opponent\u0027s monster activates its effect: You can banish this card from your GY; Cyberse Link Monsters you currently control are unaffected by card effects, except their own, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36368606.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 53363708,
   "name": "Supermagic Sword of Raptinus",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "At the start of the Battle Phase: You can change the equipped monster\u0027s battle position, and if you do, immediately after this effect resolves, Normal Summon 1 monster. You can only use this effect of \"Supermagic Sword of Raptinus\" once per turn. Apply this effect depending on the equipped monster\u0027s battle position.\n? Attack Position: Your opponent cannot target the equipped monster with card effects.\n? Defense Position: The equipped monster cannot be destroyed by battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53363708.jpg"

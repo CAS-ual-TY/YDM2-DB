@@ -1,7 +1,8 @@
 {
   "id": 33413279,
   "name": "Explosive Magician",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1+ non-Tuner Spellcaster monsters\nYou can remove 2 Spell Counters from your field, then target 1 Spell/Trap your opponent controls; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33413279.jpg"

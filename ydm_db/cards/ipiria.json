@@ -1,7 +1,8 @@
 {
   "id": 70744296,
   "name": "Ipiria",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Summoned: Draw 1 card. You can only use this effect of \"Ipiria\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70744296.jpg"

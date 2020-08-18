@@ -1,7 +1,8 @@
 {
   "id": 71283180,
   "name": "Tornado Bird",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "FLIP: Return 2 Spell or Trap Cards on the field to their owners\u0027 hands.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71283180.jpg"

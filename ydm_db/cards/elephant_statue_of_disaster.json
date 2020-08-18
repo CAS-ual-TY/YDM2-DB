@@ -1,7 +1,8 @@
 {
   "id": 12160911,
   "name": "Elephant Statue of Disaster",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is sent from your hand to your Graveyard by an opponent\u0027s card effect: Inflict 2000 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12160911.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 40213117,
   "name": "Amores of Prophecy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Once per turn: You can reveal 1 \"Spellbook\" Spell Card in your hand; Special Summon 1 Level 4 or lower Spellcaster-Type monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40213117.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 91607976,
   "name": "Morphtronic Clocken",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "? While in Attack Position: This card gains 500 ATK for each Morph Counter on it. ? While in Defense Position: Once per turn, you can place 1 Morph Counter on this card. You can Tribute this card to inflict 1000 damage to your opponent for each Morph Counter on it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91607976.jpg"

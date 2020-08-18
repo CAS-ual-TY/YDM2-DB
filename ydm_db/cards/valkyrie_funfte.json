@@ -1,7 +1,8 @@
 {
   "id": 46701379,
   "name": "Valkyrie Funfte",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Valkyrie\" monsters you control gain 200 ATK for each of your opponent\u0027s banished monsters. If you control a \"Valkyrie\" monster other than \"Valkyrie Funfte\": You can send 1 Spell/Trap from your Deck to the GY. You can only use this effect of \"Valkyrie Funfte\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46701379.jpg"

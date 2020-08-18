@@ -1,7 +1,8 @@
 {
   "id": 51632798,
   "name": "Fusilier Dragon, the Dual-Mode Beast",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Normal Summon/Set this card without Tributing, but its original ATK and DEF become halved.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51632798.jpg"

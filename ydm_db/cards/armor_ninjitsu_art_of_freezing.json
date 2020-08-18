@@ -1,7 +1,8 @@
 {
   "id": 65150219,
   "name": "Armor Ninjitsu Art of Freezing",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When an opponent\u0027s monster declares an attack, if you control a \"Ninja\" monster: You can flip this card face-up; negate that attack and end the Battle Phase. While this card is face-up on the field and you control a \"Ninja\" monster, monsters your opponent controls cannot change their battle positions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65150219.jpg"

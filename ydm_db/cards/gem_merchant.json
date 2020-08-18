@@ -1,7 +1,8 @@
 {
   "id": 53408006,
   "name": "Gem-Merchant",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "During the Damage Step, in either player\u0027s turn, when a face-up EARTH Normal Monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; that monster gains 1000 ATK and DEF until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53408006.jpg"

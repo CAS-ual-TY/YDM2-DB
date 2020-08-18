@@ -1,7 +1,8 @@
 {
   "id": 691925,
   "name": "Solar Recharge",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Discard 1 \"Lightsworn\" monster; draw 2 cards, then send the top 2 cards of your Deck to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/691925.jpg"

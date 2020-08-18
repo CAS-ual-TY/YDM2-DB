@@ -1,7 +1,8 @@
 {
   "id": 17016362,
   "name": "Performage Trapeze Magician",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 4 Spellcaster-Type monsters\nYou never take damage if the amount is less than or equal to this card\u0027s ATK. Once per turn, during either player\u0027s Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster the turn player controls (other than this card); it can make a second attack during each Battle Phase this turn, also destroy it at the end of the Battle Phase. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent\u0027s card effect and sent to your Graveyard: You can Special Summon 1 \"Performage\" monster from the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17016362.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 88686573,
   "name": "Nimble Angler",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is sent from the hand or Deck to the Graveyard: You can Special Summon up to 2 Level 3 or lower \"Nimble\" monsters from your Deck, except \"Nimble Angler\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88686573.jpg"

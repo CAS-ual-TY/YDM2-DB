@@ -1,7 +1,8 @@
 {
   "id": 85306040,
   "name": "Goblin Elite Attack Force",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the end of your next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85306040.jpg"

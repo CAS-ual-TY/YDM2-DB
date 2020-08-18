@@ -1,7 +1,8 @@
 {
   "id": 32787239,
   "name": "Performapal Trumpanda",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When your Pendulum Monster is targeted for an attack: You can negate the attack. You can only use this effect of \"Performapal Trumpanda\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32787239.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 33064647,
   "name": "One-Eyed Shield Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33064647.jpg"

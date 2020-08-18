@@ -1,7 +1,8 @@
 {
   "id": 15866454,
   "name": "Spiritualism",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Return 1 Spell/Trap Card your opponent controls to the hand. This card\u0027s activation and effect cannot be negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15866454.jpg"

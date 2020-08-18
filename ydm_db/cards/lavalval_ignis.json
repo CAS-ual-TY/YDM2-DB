@@ -1,7 +1,8 @@
 {
   "id": 3989465,
   "name": "Lavalval Ignis",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 3 monsters\nIf this card attacks or is attacked, during the Damage Step (in either player\u0027s turn): You can detach 1 Xyz Material from this card once per battle; this card gains 500 ATK until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3989465.jpg"

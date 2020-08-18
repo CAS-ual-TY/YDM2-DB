@@ -1,7 +1,8 @@
 {
   "id": 35577420,
   "name": "Light Spiral",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a card(s) is sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" monster, remove from play the top card of your opponent\u0027s Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35577420.jpg"

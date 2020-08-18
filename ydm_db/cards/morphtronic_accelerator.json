@@ -1,7 +1,8 @@
 {
   "id": 44424095,
   "name": "Morphtronic Accelerator",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Return 1 \"Morphtronic\" monster from your hand to the Deck. Destroy 1 card on the field, and draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44424095.jpg"

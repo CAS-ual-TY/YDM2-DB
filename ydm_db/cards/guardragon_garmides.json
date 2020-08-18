@@ -1,7 +1,8 @@
 {
   "id": 43411769,
   "name": "Guardragon Garmides",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a Normal Monster(s) is sent to your GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is in your GY: You can send 1 Dragon monster from your hand to the GY; add this card to your hand. You can only use each effect of \"Guardragon Garmides\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43411769.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 47480070,
   "name": "Amazoness Paladin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card gains 100 ATK for each \"Amazoness\" monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47480070.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 66288028,
   "name": "Fortress Warrior",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You take no battle damage from attacks involving this card. Once per turn, this card cannot be destroyed by battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66288028.jpg"

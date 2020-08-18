@@ -1,7 +1,8 @@
 {
   "id": 35699,
   "name": "SPYRAL Sleeper",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 3 \"SPYRAL\" cards from your Graveyard, and cannot be Special Summoned by other ways. Once per turn, during either player\u0027s turn: You can target 1 \"SPYRAL\" card you control and up to 2 cards your opponent controls; destroy them. If this card on the field is destroyed by battle or card effect and sent to the Graveyard: Destroy as many cards you control as possible, and if you do, Special Summon 1 \"SPYRAL Super Agent\" from your hand, Deck, or Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35699.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 12694768,
   "name": "Abaki",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed and sent to the Graveyard by battle, both players take 500 damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12694768.jpg"

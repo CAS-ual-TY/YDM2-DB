@@ -1,7 +1,8 @@
 {
   "id": 92391084,
   "name": "Wilmee",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A rabid rabbit that shears through opposition with its sharp skewers.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92391084.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 89238128,
   "name": "Cyberse Accelerator",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2+ monsters, except Tokens\nDuring the Battle Phase (Quick Effect): You can target 1 Cyberse monster this card points to and activate 1 of these effects;\n? It gains 2000 ATK until the end of this turn.\n? It can make up to 2 attacks on monsters during each Battle Phase this turn.\nThis card cannot attack the turn this effect is activated. You can only use this effect of \"Cyberse Accelerator\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89238128.jpg"

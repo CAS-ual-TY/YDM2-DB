@@ -1,7 +1,8 @@
 {
   "id": 49370026,
   "name": "Genin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A creature that defeats its enemies using sleight-of-hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49370026.jpg"

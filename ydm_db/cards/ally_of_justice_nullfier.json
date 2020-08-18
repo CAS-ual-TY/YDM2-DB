@@ -1,7 +1,8 @@
 {
   "id": 76650663,
   "name": "Ally of Justice Nullfier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Any LIGHT monster that has battled this card has its effects negated (starting after damage calculation).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76650663.jpg"

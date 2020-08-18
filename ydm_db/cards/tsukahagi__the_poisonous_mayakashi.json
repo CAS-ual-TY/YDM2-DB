@@ -1,7 +1,8 @@
 {
   "id": 5325155,
   "name": "Tsukahagi, the Poisonous Mayakashi",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can only control 1 \"Tsukahagi, the Poisonous Mayakashi\". If a \"Mayakashi\" monster(s) in your possession, except \"Tsukahagi, the Poisonous Mayakashi\", is destroyed by battle or an opponent\u0027s card effect, while this card is in the GY: You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5325155.jpg"

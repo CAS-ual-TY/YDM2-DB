@@ -1,7 +1,8 @@
 {
   "id": 56105047,
   "name": "Gogogo Ghost",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Special Summoned: You can target 1 \"Gogogo Golem\" in your Graveyard; Special Summon that target in face-up Defense Position, then change this card to Defense Position. You can only use the effect of \"Gogogo Ghost\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56105047.jpg"

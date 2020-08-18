@@ -1,7 +1,8 @@
 {
   "id": 78060096,
   "name": "Terrorking Salmon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "A feared salmon, master of the Sea of Darkness. Its roe is the best delicacy in the World of Darkness.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78060096.jpg"

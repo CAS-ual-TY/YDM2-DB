@@ -1,7 +1,8 @@
 {
   "id": 38007744,
   "name": "Chronomaly Moai Carrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If your opponent controls a card and you control no cards, you can Special Summon this card (from your hand).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38007744.jpg"

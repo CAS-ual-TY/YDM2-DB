@@ -1,7 +1,8 @@
 {
   "id": 23323812,
   "name": "Telepathic Power",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Psychic-Type monster you control is destroyed by battle with an opponent\u0027s attacking monster: Target the opponent\u0027s monster; destroy that target, and if you do, gain LP equal to the destroyed monster\u0027s ATK on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23323812.jpg"

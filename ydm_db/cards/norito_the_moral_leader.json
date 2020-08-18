@@ -1,7 +1,8 @@
 {
   "id": 14152862,
   "name": "Norito the Moral Leader",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2 Level 6 Spellcaster monsters\nOnce per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14152862.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 11234702,
   "name": "T.G. Screw Serpent",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Normal or Special Summoned: You can target 1 Level 4 or lower \"T.G.\" monster in your GY, except \"T.G. Screw Serpent\"; Special Summon that monster, but its effects are negated. You can banish this card from your GY, then target 1 \"T.G.\" monster you control; increase or reduce its Level by 1 until the end of this turn. You can only use each effect of \"T.G. Screw Serpent\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11234702.jpg"

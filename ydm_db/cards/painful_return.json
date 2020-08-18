@@ -1,7 +1,8 @@
 {
   "id": 57902193,
   "name": "Painful Return",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Your opponent chooses 1 monster in your Graveyard. During the End Phase, add that monster to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57902193.jpg"

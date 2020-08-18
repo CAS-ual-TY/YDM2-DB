@@ -1,7 +1,8 @@
 {
   "id": 30341772,
   "name": "Utopia Buster",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If you control a \"Utopia\" monster: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied), and if you do, inflict damage to your opponent equal to the destroyed monster\u0027s ATK on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30341772.jpg"

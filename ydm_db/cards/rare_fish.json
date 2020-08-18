@@ -1,7 +1,8 @@
 {
   "id": 80516007,
   "name": "Rare Fish",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Fusionist\" + \"Enchanting Mermaid\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80516007.jpg"

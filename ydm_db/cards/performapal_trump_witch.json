@@ -1,7 +1,8 @@
 {
   "id": 91584698,
   "name": "Performapal Trump Witch",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can Tribute this card; add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91584698.jpg"

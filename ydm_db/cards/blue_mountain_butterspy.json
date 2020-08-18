@@ -1,7 +1,8 @@
 {
   "id": 54582424,
   "name": "Blue Mountain Butterspy",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Cannot be Normal Summoned/Set. When you Normal Summon a Warrior monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54582424.jpg"

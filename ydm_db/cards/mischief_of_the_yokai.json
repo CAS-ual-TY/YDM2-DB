@@ -1,7 +1,8 @@
 {
   "id": 29795530,
   "name": "Mischief of the Yokai",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each face-up monster on the field loses 2 Levels, until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up monster, and reduce its Level by 1, until the End Phase. This effect cannot be activated the turn this card is sent to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29795530.jpg"

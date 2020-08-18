@@ -1,7 +1,8 @@
 {
   "id": 97809599,
   "name": "Seal of the Ancients",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Pay 1000 Life Points. Pick up and see all face-down cards on your opponent\u0027s side of the field, then return them to their original positions. (The effects of the face-down cards are not activated.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97809599.jpg"

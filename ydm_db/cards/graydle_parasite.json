@@ -1,7 +1,8 @@
 {
   "id": 49966595,
   "name": "Graydle Parasite",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When an opponent\u0027s monster declares a direct attack: You can Special Summon 1 \"Graydle\" monster from your Deck in Attack Position, if you control no monsters. When a \"Graydle\" monster you control declares a direct attack: You can target 1 monster in your opponent\u0027s Graveyard; Special Summon that target to their side of the field, if they control no monsters. You can only use each effect of \"Graydle Parasite\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49966595.jpg"

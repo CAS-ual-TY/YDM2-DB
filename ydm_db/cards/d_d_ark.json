@@ -1,7 +1,8 @@
 {
   "id": 36614113,
   "name": "D/D Ark",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is destroyed by card effect: You can Special Summon 1 face-up \"D/D\" Pendulum Monster from your Extra Deck, except \"D/D Ark\", but negate its effects. You can only use this effect of \"D/D Ark\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36614113.jpg"

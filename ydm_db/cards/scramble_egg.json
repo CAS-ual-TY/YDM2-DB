@@ -1,7 +1,8 @@
 {
   "id": 75078585,
   "name": "Scramble Egg",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If a monster you control is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 \"Sonic Chick\" from your hand, Deck or GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75078585.jpg"

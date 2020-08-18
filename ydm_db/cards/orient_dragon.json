@@ -1,7 +1,8 @@
 {
   "id": 68124775,
   "name": "Orient Dragon",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target 1 Synchro Monster your opponent controls; banish that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68124775.jpg"

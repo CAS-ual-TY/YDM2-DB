@@ -1,7 +1,8 @@
 {
   "id": 4376658,
   "name": "Familiar-Possessed - Hiita",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can send 1 \"Hiita the Fire Charmer\" and 1 FIRE monster you control to the Graveyard to Special Summon this card from your hand or Deck. If you do, this card gets the following effect: ? During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4376658.jpg",

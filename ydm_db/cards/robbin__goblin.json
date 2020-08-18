@@ -1,7 +1,8 @@
 {
   "id": 88279736,
   "name": "Robbin\u0027 Goblin",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88279736.jpg"

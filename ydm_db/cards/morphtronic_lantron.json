@@ -1,7 +1,8 @@
 {
   "id": 76865611,
   "name": "Morphtronic Lantron",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "? While in Attack Position: Any effect damage you would take from an opponent\u0027s card effect is inflicted to your opponent instead.\n? While in Defense Position: When this card is destroyed by battle and sent to the Graveyard, you take no Battle Damage this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76865611.jpg"

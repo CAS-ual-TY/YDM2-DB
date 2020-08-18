@@ -1,7 +1,8 @@
 {
   "id": 42810973,
   "name": "Junk Archer",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 monster your opponent controls; banish it. During the End Phase of this turn, return it to your opponent\u0027s side of the field, in the same battle position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42810973.jpg"

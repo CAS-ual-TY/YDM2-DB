@@ -1,7 +1,8 @@
 {
   "id": 96462121,
   "name": "Outrigger Extension",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Your opponent cannot target Machine Xyz Monsters you control with card effects. Once per turn: You can target 1 \"Infinitrack\" Xyz Monster you control; Special Summon from your Extra Deck, 1 Machine monster that is 2 Ranks higher than that target, by using that target as material, also you cannot Special Summon monsters for the rest of this turn, except EARTH Machine monsters (even if this card leaves the field). (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96462121.jpg"

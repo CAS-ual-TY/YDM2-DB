@@ -1,7 +1,8 @@
 {
   "id": 58641905,
   "name": "Ring of Defense",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When a Trap effect that inflicts damage is activated: Make that effect damage 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58641905.jpg"

@@ -1,7 +1,8 @@
 {
   "id": 4259068,
   "name": "Spell Economics",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You do not pay Life Points to activate Spell Cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4259068.jpg"

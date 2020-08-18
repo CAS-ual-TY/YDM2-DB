@@ -1,7 +1,8 @@
 {
   "id": 77084837,
   "name": "Inaba White Rabbit",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "This card cannot be Special Summoned. This card returns to the owner\u0027s hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. This monster attacks your opponent\u0027s Life Points directly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77084837.jpg"

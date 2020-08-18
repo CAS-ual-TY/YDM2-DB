@@ -1,7 +1,8 @@
 {
   "id": 3792766,
   "name": "Trickstar Delfiendium",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "2+ \"Trickstar\" monsters\nWhen this card declares an attack while pointing to a \"Trickstar\" monster: You can target your banished \"Trickstar\" cards, up to the number of Link Monsters your opponent controls; add them to your hand, and if you do, this card gains 1000 ATK for each card added, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3792766.jpg"

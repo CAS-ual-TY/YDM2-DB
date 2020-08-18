@@ -1,7 +1,8 @@
 {
   "id": 52687916,
   "name": "Trishula, Dragon of the Ice Barrier",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent\u0027s hand, field, and GY. (The card in the hand is chosen at random.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52687916.jpg"

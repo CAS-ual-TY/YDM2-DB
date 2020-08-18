@@ -1,7 +1,8 @@
 {
   "id": 18489208,
   "name": "Cursed Fig",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: Target 2 Set Spell/Trap Cards on the field; while this card is in the Graveyard, those Set cards cannot be activated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18489208.jpg"

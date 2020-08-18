@@ -1,7 +1,8 @@
 {
   "id": 2359348,
   "name": "Pendulum Area",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If all monsters you control are Pendulum Monsters (min. 1): Target 2 cards in your Pendulum Zones; destroy both cards, and if you do, neither player can Special Summon for the rest of this turn, except by Pendulum Summon.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2359348.jpg"

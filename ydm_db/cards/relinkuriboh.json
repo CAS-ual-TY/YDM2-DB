@@ -1,7 +1,8 @@
 {
   "id": 50185950,
   "name": "Relinkuriboh",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "If this card is Tributed: Draw 1 card. If your monster would be destroyed by battle, you can banish this card from your GY instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50185950.jpg"

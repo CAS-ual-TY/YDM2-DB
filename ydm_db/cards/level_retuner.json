@@ -1,7 +1,8 @@
 {
   "id": 86223870,
   "name": "Level Retuner",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Reduce the Level of 1 face-up monster you control by up to 2.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86223870.jpg"

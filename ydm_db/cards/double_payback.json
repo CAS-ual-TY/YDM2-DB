@@ -1,7 +1,8 @@
 {
   "id": 5914184,
   "name": "Double Payback",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Activate only when you take 1000 or more damage from your opponent\u0027s card effect: Place 1 Payback Counter on this card for every 1000 damage you took. During the End Phase of your opponent\u0027s next turn: Destroy this card, and if you do, inflict 2000 damage to your opponent for each Payback Counter on this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5914184.jpg"

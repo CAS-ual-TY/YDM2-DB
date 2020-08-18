@@ -1,7 +1,8 @@
 {
   "id": 21767650,
   "name": "Mermail Abyssmander",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "You can banish this card from your Graveyard to activate 1 of these effects;\n? Increase the Levels of all \"Mermail\" monsters you currently control by 1.\n? Increase the Levels of all \"Mermail\" monsters you currently control by 2.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21767650.jpg"

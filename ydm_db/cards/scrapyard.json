@@ -1,7 +1,8 @@
 {
   "id": 1050684,
   "name": "Scrapyard",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Add 1 \"Scrap\" Tuner monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1050684.jpg"

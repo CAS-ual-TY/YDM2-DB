@@ -1,7 +1,8 @@
 {
   "id": 44203504,
   "name": "Robotic Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "The Commander of Machine-Types, he serves the Machine King. He is famous for the way he controls his troops.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44203504.jpg"

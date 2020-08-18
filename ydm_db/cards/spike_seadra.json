@@ -1,7 +1,8 @@
 {
   "id": 85326399,
   "name": "Spike Seadra",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85326399.jpg"

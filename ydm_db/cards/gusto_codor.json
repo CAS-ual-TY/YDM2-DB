@@ -1,7 +1,8 @@
 {
   "id": 9897998,
   "name": "Gusto Codor",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: You can Special Summon 1 WIND Psychic-Type monster with 1500 or less DEF from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9897998.jpg"

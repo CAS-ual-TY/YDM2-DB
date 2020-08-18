@@ -1,7 +1,8 @@
 {
   "id": 73507661,
   "name": "Fairy Wind",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "Destroy as many face-up Spell/Trap Cards on the field as possible (other than this card), and if you do, each player takes damage equal to the total number of cards destroyed by this effect x 300.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73507661.jpg"

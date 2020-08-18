@@ -1,7 +1,8 @@
 {
   "id": 19353570,
   "name": "Kagemucha Knight",
-  "is_illegal": false,
+  "illegal": false,
+  "custom": false,
   "text": "When you Normal Summon a Level 3 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19353570.jpg"
