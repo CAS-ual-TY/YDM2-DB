@@ -1,8 +1,8 @@
 {
   "id": 40838625,
   "name": "Quaking Mirror Force",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When an opponent\u0027s monster declares an attack: Change all your opponent\u0027s Attack Position monsters to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40838625.jpg"

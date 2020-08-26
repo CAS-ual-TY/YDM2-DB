@@ -1,8 +1,8 @@
 {
   "id": 75652080,
   "name": "Double Cyclone",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Spell/Trap you control and 1 Spell/Trap your opponent controls; destroy them.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75652080.jpg"

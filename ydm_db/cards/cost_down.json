@@ -1,8 +1,8 @@
 {
   "id": 23265313,
   "name": "Cost Down",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23265313.jpg"

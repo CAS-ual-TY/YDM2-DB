@@ -1,8 +1,8 @@
 {
   "id": 21417692,
   "name": "Dark Elf",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card requires a cost of 1000 of your own Life Points to attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21417692.jpg"

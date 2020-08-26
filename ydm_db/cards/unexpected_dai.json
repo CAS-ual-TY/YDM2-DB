@@ -1,8 +1,8 @@
 {
   "id": 911883,
   "name": "Unexpected Dai",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control no monsters: Special Summon 1 Level 4 or lower Normal Monster from the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/911883.jpg"

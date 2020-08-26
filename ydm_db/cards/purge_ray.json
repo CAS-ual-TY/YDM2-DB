@@ -1,8 +1,8 @@
 {
   "id": 64161630,
   "name": "Purge Ray",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Tribute 1 Xyz Monster; during the End Phase, Special Summon from your Extra Deck, 1 \"Number\" monster with the same Type, but 1 Rank lower, as the Tributed monster had when it was on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64161630.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 16222645,
   "name": "Sasuke Samurai",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16222645.jpg"

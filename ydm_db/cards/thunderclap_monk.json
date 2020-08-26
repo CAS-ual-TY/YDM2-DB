@@ -1,8 +1,8 @@
 {
   "id": 66722103,
   "name": "Thunderclap Monk",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent activates a monster effect while you control this Special Summoned monster (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. If this card is sent from the field to the GY: You can Special Summon 1 Thunder monster from your hand in Defense Position. You can only use each effect of \"Thunderclap Monk\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66722103.jpg"

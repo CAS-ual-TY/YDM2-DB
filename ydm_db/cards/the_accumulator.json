@@ -1,8 +1,8 @@
 {
   "id": 70410002,
   "name": "The Accumulator",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Gains ATK equal to the combined Link Ratings of all Link Monsters on the field x 300.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70410002.jpg"

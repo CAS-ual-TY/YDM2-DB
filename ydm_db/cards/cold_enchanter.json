@@ -1,8 +1,8 @@
 {
   "id": 24661486,
   "name": "Cold Enchanter",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can discard 1 card to target 1 face-up monster on the field; place an Ice Counter on that target. This card gains 300 ATK for each Ice Counter on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24661486.jpg"

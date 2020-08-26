@@ -1,8 +1,8 @@
 {
   "id": 34475451,
   "name": "Construction Train Signal Red",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When an opponent\u0027s monster declares an attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card and proceed to damage calculation. This card cannot be destroyed by that battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34475451.jpg"

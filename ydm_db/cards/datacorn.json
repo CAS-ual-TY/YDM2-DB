@@ -1,8 +1,8 @@
 {
   "id": 84816244,
   "name": "Datacorn",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is Special Summoned: You can Special Summon 1 \"Data Acorn Token\" (Cyberse/DARK/Level 1/ATK 0/DEF 0). You can only use this effect of \"Datacorn\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84816244.jpg"

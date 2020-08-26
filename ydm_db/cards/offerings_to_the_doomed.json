@@ -1,8 +1,8 @@
 {
   "id": 19230408,
   "name": "Offerings to the Doomed",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19230408.jpg",

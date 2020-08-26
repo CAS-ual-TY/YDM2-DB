@@ -1,8 +1,8 @@
 {
   "id": 25123082,
   "name": "Spellbook of Power",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Spellcaster monster you control; this turn, it gains 1000 ATK. And if it does, each time it destroys an opponent\u0027s monster by battle this turn: You can add 1 \"Spellbook\" Spell from your Deck to your hand. You can only activate 1 \"Spellbook of Power\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25123082.jpg"

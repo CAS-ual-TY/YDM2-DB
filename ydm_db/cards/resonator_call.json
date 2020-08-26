@@ -1,8 +1,8 @@
 {
   "id": 23008320,
   "name": "Resonator Call",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Add 1 \"Resonator\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23008320.jpg"

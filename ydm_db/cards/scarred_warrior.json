@@ -1,8 +1,8 @@
 {
   "id": 45298492,
   "name": "Scarred Warrior",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nYour opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45298492.jpg"

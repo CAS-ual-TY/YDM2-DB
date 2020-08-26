@@ -1,8 +1,8 @@
 {
   "id": 27632240,
   "name": "Altitude Knight",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, if another monster on the field returns to the hand or Main Deck: Send 1 WIND monster from your Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27632240.jpg"

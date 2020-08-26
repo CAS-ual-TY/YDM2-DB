@@ -1,8 +1,8 @@
 {
   "id": 22200403,
   "name": "Hypnosister",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card gains effects based on the total number of cards in both players\u0027 Pendulum Zones.\n? 1 or more: This card gains 800 ATK and DEF.\n? 2 or more: At the start of the Damage Step, if this card battles a Pendulum Summoned monster: Destroy that monster.\n? 3 or more: Monsters your opponent controls must attack this card, if able.\n? 4: If this card destroys a monster by battle or by its own effect: Draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22200403.jpg"

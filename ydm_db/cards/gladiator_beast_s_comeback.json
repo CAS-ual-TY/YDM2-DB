@@ -1,8 +1,8 @@
 {
   "id": 20201255,
   "name": "Gladiator Beast\u0027s Comeback",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Special Summon 1 \"Gladiator Beast\" monster from your hand or GY, with a different Type from the monsters you control. It cannot be destroyed by battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20201255.jpg"

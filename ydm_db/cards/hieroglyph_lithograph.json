@@ -1,8 +1,8 @@
 {
   "id": 10248192,
   "name": "Hieroglyph Lithograph",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Pay 1000 Life Points. During the current Duel, your hand size limit becomes 7.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10248192.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 86569121,
   "name": "Melchid the Four-Face Beast",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster has four different masks for four different attacks.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86569121.jpg"

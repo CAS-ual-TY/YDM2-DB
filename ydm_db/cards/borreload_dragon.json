@@ -1,8 +1,8 @@
 {
   "id": 31833038,
   "name": "Borreload Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "3+ Effect Monsters\nNeither player can target this card with monster effects. Once per turn (Quick Effect): You can target 1 face-up monster on the field; it loses 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect\u0027s activation. At the start of the Damage Step, if this card attacks an opponent\u0027s monster: You can place that opponent\u0027s monster in a zone this card points to and take control of it, but send it to the GY during the End Phase of the next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31833038.jpg",

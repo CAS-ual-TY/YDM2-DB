@@ -1,8 +1,8 @@
 {
   "id": 42172465,
   "name": "World Reassembly",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Special Summon 1 \"World Legacy\" monster from your hand or Deck, but destroy it during the End Phase of the next turn. You can only activate 1 \"World Reassembly\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42172465.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 2122975,
   "name": "Trap Reclamation",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 card and chain this card to a Trap Card you activated. Whenever that Trap Card is sent to the Graveyard, return it to its owner\u0027s hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2122975.jpg"

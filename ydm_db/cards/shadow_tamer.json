@@ -1,8 +1,8 @@
 {
   "id": 37620434,
   "name": "Shadow Tamer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "(This card is always treated as an \"Archfiend\" card.)\nFLIP: Target 1 Fiend-Type monster your opponent controls; take control of that target until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37620434.jpg"

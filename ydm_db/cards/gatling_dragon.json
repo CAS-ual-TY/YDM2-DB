@@ -1,8 +1,8 @@
 {
   "id": 87751584,
   "name": "Gatling Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Barrel Dragon\" + \"Blowback Dragon\"\nOnce per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87751584.jpg"

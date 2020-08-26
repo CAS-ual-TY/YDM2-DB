@@ -1,8 +1,8 @@
 {
   "id": 13429800,
   "name": "Great White",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A giant white shark with razor-sharp teeth.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13429800.jpg"

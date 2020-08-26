@@ -1,8 +1,8 @@
 {
   "id": 68638985,
   "name": "Slime Toad",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A slime with the head of a frog, it attacks by croaking terribly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68638985.jpg"

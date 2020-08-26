@@ -1,8 +1,8 @@
 {
   "id": 2134346,
   "name": "Asura Priest",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. This card can attack all monsters your opponent controls once each.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2134346.jpg"

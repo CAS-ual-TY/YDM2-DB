@@ -1,8 +1,8 @@
 {
   "id": 94042337,
   "name": "Violent Rain",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster can call forth sudden torrents of battering rain.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94042337.jpg"

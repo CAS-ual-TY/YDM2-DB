@@ -1,8 +1,8 @@
 {
   "id": 57666212,
   "name": "Kuraz the Light Monarch",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is Normal or Special Summoned: You can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of the cards they controlled that was destroyed by this effect. This card cannot attack during the turn it is Normal or Special Summoned.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57666212.jpg"

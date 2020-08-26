@@ -1,8 +1,8 @@
 {
   "id": 96457619,
   "name": "Xyz Veil",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96457619.jpg"

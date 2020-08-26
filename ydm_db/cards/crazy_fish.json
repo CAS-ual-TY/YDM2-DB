@@ -1,8 +1,8 @@
 {
   "id": 53713014,
   "name": "Crazy Fish",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A flying fish that attacks with its pointed head.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53713014.jpg"

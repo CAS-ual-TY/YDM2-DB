@@ -1,8 +1,8 @@
 {
   "id": 89882100,
   "name": "Night Beam",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Set Spell/Trap your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card\u0027s activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89882100.jpg"

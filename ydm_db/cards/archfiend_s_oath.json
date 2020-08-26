@@ -1,8 +1,8 @@
 {
   "id": 22796548,
   "name": "Archfiend\u0027s Oath",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can pay 500 Life Points, then declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22796548.jpg"

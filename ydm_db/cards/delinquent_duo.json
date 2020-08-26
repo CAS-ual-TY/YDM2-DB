@@ -1,8 +1,8 @@
 {
   "id": 44763025,
   "name": "Delinquent Duo",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in their hand, discard 1 more card of their choice.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44763025.jpg"

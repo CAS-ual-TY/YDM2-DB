@@ -1,8 +1,8 @@
 {
   "id": 58760121,
   "name": "Worm Falco",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Change all face-up Reptile-Type \"Worm\" monsters you control to face-down Defense Position, except this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58760121.jpg"

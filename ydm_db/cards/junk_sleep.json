@@ -1,8 +1,8 @@
 {
   "id": 56294501,
   "name": "Junk Sleep",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can change all face-down Defense Position monsters you control to face-up Attack Position. During the End Phase: You can change all monsters you control to face-down Defense Position. You can only use each effect of \"Junk Sleep\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56294501.jpg"

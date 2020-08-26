@@ -1,8 +1,8 @@
 {
   "id": 13210191,
   "name": "Storm",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Destroy as many Spell/Trap Cards you control as possible, then destroy as many Spell/Trap Cards your opponent controls as possible, up to the number of cards destroyed by this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13210191.jpg"

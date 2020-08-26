@@ -1,8 +1,8 @@
 {
   "id": 43014054,
   "name": "Vice Berserker",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is sent to the Graveyard as a Synchro Material Monster, inflict 2000 damage to the player that Synchro Summoned, and the Synchro Monster that used this card as a Synchro Material Monster gains 2000 ATK until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43014054.jpg"

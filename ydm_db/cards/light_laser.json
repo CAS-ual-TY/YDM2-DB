@@ -1,8 +1,8 @@
 {
   "id": 11471117,
   "name": "Light Laser",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11471117.jpg"

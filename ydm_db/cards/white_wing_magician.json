@@ -1,8 +1,8 @@
 {
   "id": 11067666,
   "name": "White Wing Magician",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "(This card is always treated as a \"Synchro Dragon\" card.)\nIf this Pendulum Summoned card is used for a Synchro Summon, banish it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11067666.jpg"

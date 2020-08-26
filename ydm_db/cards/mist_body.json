@@ -1,8 +1,8 @@
 {
   "id": 47529357,
   "name": "Mist Body",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The equipped monster cannot be destroyed by battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47529357.jpg"

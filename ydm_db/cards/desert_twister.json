@@ -1,8 +1,8 @@
 {
   "id": 81977953,
   "name": "Desert Twister",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 WIND and 1 EARTH monsters from your GY. Once per turn: You can discard 1 card, then target 1 Spell/Trap on the field; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81977953.jpg"

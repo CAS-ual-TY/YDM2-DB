@@ -1,8 +1,8 @@
 {
   "id": 99249638,
   "name": "Union Driver",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. While this card is equipped to a monster: You can banish this Equip Card; equip 1 Level 4 or lower appropriate Union monster from your Deck to the monster this card was equipped to. You can only use this effect of \"Union Driver\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99249638.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 58324930,
   "name": "Anarchist Monk Ranshin",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card you control is sent to your Graveyard by your opponent\u0027s card (either by battle, by card effect, or by being destroyed): Target 1 monster in your opponent\u0027s Graveyard; banish that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58324930.jpg"

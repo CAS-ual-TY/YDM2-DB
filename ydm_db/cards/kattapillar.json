@@ -1,8 +1,8 @@
 {
   "id": 81179446,
   "name": "Kattapillar",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Attacks enemies by spitting thin, sticky webs.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81179446.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 45221020,
   "name": "Treasure Panda",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can banish up to 3 Spells/Traps from your GY face-down; Special Summon 1 Normal Monster from your Deck, whose Level equals the number of cards banished to activate this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45221020.jpg"

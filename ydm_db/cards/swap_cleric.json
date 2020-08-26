@@ -1,8 +1,8 @@
 {
   "id": 30968774,
   "name": "Swap Cleric",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is sent to the GY as Link Material: You can have that Link Monster lose 500 ATK, then draw 1 card. You can only use this effect of \"Swap Cleric\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30968774.jpg"

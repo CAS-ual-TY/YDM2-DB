@@ -1,8 +1,8 @@
 {
   "id": 94853057,
   "name": "Banisher of the Radiance",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Any card sent to the Graveyard is banished instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94853057.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 84824601,
   "name": "Botanical Girl",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is sent from the field to the Graveyard, you can add 1 Plant-Type monster with 1000 or less DEF from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84824601.jpg"

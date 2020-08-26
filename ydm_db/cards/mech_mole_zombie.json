@@ -1,8 +1,8 @@
 {
   "id": 63545455,
   "name": "Mech Mole Zombie",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This creature attacks by launching missile-like arms.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63545455.jpg"

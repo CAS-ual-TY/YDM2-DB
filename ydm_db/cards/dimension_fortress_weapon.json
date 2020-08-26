@@ -1,8 +1,8 @@
 {
   "id": 1596508,
   "name": "Dimension Fortress Weapon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cards cannot be sent from the Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1596508.jpg"

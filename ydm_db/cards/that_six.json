@@ -1,8 +1,8 @@
 {
   "id": 39454112,
   "name": "That Six",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time a player rolls a die (or dice), you can choose 1 die result, and apply the appropriate effect, based on the result.\n? 1, 3, or 5: The die result is treated as 6.\n? 2, 4, or 6: The die result is treated as 1.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39454112.jpg"

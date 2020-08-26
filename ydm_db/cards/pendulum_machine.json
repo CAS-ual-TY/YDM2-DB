@@ -1,8 +1,8 @@
 {
   "id": 24433920,
   "name": "Pendulum Machine",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A horrible torture machine with a large pendulum blade.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24433920.jpg",

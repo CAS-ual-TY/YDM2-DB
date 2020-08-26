@@ -1,8 +1,8 @@
 {
   "id": 9145181,
   "name": "Ritual Sealing",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Destroy 1 face-up Ritual Monster on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9145181.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 86174055,
   "name": "Speed Bird",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can target 2 Level 2 monsters in your Graveyard; Special Summon them, but their effects are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86174055.jpg"

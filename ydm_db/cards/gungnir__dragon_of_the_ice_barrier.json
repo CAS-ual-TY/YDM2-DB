@@ -1,8 +1,8 @@
 {
   "id": 65749035,
   "name": "Gungnir, Dragon of the Ice Barrier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner WATER monsters\nOnce per turn: You can discard up to 2 cards to the Graveyard to target the same number of cards your opponent controls; destroy them.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/65749035.jpg"

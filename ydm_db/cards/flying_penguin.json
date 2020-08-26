@@ -1,8 +1,8 @@
 {
   "id": 5628232,
   "name": "Flying Penguin",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A very rare penguin that takes to the air with ears shaped like wings.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5628232.jpg"

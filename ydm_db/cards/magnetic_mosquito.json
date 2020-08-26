@@ -1,8 +1,8 @@
 {
   "id": 50074522,
   "name": "Magnetic Mosquito",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Destroy all face-up Machine-Type monsters on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50074522.jpg"

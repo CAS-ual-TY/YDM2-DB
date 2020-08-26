@@ -1,8 +1,8 @@
 {
   "id": 93356623,
   "name": "Magical Musket - Cross-Domination",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control a \"Magical Musket\" monster: Target 1 face-up monster on the field; until the end of this turn, change its ATK/DEF to 0, also it has its effects negated. You can only activate 1 \"Magical Musket - Cross-Domination\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93356623.jpg"

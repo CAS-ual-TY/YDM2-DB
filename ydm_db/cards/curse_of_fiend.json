@@ -1,8 +1,8 @@
 {
   "id": 12470447,
   "name": "Curse of Fiend",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Change the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can only activate this card during your Standby Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12470447.jpg"

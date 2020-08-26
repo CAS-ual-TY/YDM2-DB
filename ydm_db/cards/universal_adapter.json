@@ -1,8 +1,8 @@
 {
   "id": 53077251,
   "name": "Universal Adapter",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster\u0027s current ATK, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53077251.jpg"

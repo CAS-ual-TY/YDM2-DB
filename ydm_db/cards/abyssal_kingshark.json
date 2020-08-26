@@ -1,8 +1,8 @@
 {
   "id": 44223284,
   "name": "Abyssal Kingshark",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, if this card would be destroyed by an effect that does not target it, it is not destroyed.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44223284.jpg"

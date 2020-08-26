@@ -1,8 +1,8 @@
 {
   "id": 70050374,
   "name": "Twin-Barrel Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is Summoned: Target 1 card your opponent controls; toss a coin twice, and if the result is 2 Heads, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70050374.jpg"

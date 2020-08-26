@@ -1,8 +1,8 @@
 {
   "id": 60222213,
   "name": "Raphion, the Timelord",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Inflict damage to your opponent equal to the ATK of 1 monster your opponent controls that battled this card this turn. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60222213.jpg"

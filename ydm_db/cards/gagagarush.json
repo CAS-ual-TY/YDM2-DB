@@ -1,8 +1,8 @@
 {
   "id": 13166204,
   "name": "Gagagarush",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a face-up \"Gagaga\" monster(s) you control is targeted by the effect of an opponent\u0027s monster: Negate the effect of that opponent\u0027s monster, and if you do, destroy it, then inflict damage to your opponent equal to the destroyed monster\u0027s ATK or DEF in the Graveyard (whichever is higher).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13166204.jpg"

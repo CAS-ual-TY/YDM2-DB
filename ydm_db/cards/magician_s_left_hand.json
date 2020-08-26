@@ -1,8 +1,8 @@
 {
   "id": 13758665,
   "name": "Magician\u0027s Left Hand",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Negate the effect of your opponent\u0027s first Trap Card or effect that resolves each turn while you control a Spellcaster monster, and if you do, destroy that card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13758665.jpg"

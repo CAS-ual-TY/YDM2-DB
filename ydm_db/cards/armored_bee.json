@@ -1,8 +1,8 @@
 {
   "id": 86915847,
   "name": "Armored Bee",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can target 1 face-up monster your opponent controls; halve that target\u0027s ATK until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86915847.jpg"

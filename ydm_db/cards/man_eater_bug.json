@@ -1,8 +1,8 @@
 {
   "id": 54652250,
   "name": "Man-Eater Bug",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Target 1 monster on the field; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54652250.jpg"

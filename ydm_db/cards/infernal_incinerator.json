@@ -1,8 +1,8 @@
 {
   "id": 23309606,
   "name": "Infernal Incinerator",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card can only be Normal Summoned or Set by discarding all other card(s) in your hand and Tributing 1 card you control with 2000 or more ATK. This card gains 200 ATK for each monster your opponent controls. This card loses 500 ATK for each other monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23309606.jpg"

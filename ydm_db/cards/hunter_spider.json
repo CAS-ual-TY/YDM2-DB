@@ -1,8 +1,8 @@
 {
   "id": 80141480,
   "name": "Hunter Spider",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster feeds on whatever it catches in its web.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80141480.jpg"

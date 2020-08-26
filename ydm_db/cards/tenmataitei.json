@@ -1,8 +1,8 @@
 {
   "id": 90122655,
   "name": "Tenmataitei",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Your opponent cannot activate cards or effects in response to the activation of any monster effect activated by a monster that was Normal Summoned/Set.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90122655.jpg"

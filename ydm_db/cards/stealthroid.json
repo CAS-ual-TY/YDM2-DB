@@ -1,8 +1,8 @@
 {
   "id": 98049038,
   "name": "Stealthroid",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another \"roid\" monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98049038.jpg"

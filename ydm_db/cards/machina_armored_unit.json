@@ -1,8 +1,8 @@
 {
   "id": 31828916,
   "name": "Machina Armored Unit",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, when a Machine monster is destroyed by battle and sent to your GY: You can Special Summon 1 Machine monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31828916.jpg"

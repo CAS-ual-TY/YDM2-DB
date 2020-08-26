@@ -1,8 +1,8 @@
 {
   "id": 31560081,
   "name": "Magician of Faith",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31560081.jpg"

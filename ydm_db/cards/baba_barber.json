@@ -1,8 +1,8 @@
 {
   "id": 67073561,
   "name": "Baba Barber",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "2 monsters\nAt the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of \"Baba Barber\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67073561.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 76547525,
   "name": "Red Wyvern",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nDuring either player\u0027s turn, if a monster with higher ATK than this Synchro Summoned card is on the field: You can destroy the 1 face-up monster on the field that has the highest ATK (your choice, if tied). This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76547525.jpg"

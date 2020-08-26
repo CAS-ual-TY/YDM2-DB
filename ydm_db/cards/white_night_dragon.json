@@ -1,8 +1,8 @@
 {
   "id": 79473793,
   "name": "White Night Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "During either player\u0027s turn, when a Spell/Trap Card that targets this card is activated: Negate the activation, and if you do, destroy it. When another face-up monster you control is targeted for an attack: You can send 1 Spell/Trap Card you control to the Graveyard; change the attack target to this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79473793.jpg"

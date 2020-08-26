@@ -1,8 +1,8 @@
 {
   "id": 81686058,
   "name": "Ill Witch",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster blasts enemies with unexpected bursts of wind.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81686058.jpg"

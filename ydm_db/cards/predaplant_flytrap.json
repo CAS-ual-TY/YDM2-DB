@@ -1,8 +1,8 @@
 {
   "id": 96622984,
   "name": "Predaplant Flytrap",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. At the start of the Damage Step, when this card battles a monster with an equal or lower Level: You can destroy that monster, then increase this card\u0027s Level by the original Level of the destroyed monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96622984.jpg"

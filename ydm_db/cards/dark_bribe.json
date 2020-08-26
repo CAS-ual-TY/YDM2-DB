@@ -1,8 +1,8 @@
 {
   "id": 77538567,
   "name": "Dark Bribe",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent activates a Spell/Trap Card: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77538567.jpg"

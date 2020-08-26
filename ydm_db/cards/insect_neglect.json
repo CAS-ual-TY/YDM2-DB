@@ -1,8 +1,8 @@
 {
   "id": 22991179,
   "name": "Insect Neglect",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent\u0027s monster declares an attack: You can banish 1 Insect monster from your GY; negate the attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22991179.jpg"

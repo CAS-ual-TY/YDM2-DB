@@ -1,8 +1,8 @@
 {
   "id": 88369727,
   "name": "Foolish Return",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 card in your opponent\u0027s Graveyard. Return it to the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88369727.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 2830619,
   "name": "Flame Viper",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A fire-breathing snake whose speed makes it a difficult target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2830619.jpg"

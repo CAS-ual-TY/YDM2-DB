@@ -1,8 +1,8 @@
 {
   "id": 34646691,
   "name": "Stumbling",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Any monster that is Normal Summoned, Flip Summoned or Special Summoned is changed to Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34646691.jpg"

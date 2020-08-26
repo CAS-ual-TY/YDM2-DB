@@ -1,8 +1,8 @@
 {
   "id": 4848423,
   "name": "Muscle Medic",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If a player would take damage from a battle involving this card, they gain that much LP, instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4848423.jpg"

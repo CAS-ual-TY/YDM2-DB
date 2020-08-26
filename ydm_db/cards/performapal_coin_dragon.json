@@ -1,8 +1,8 @@
 {
   "id": 9000988,
   "name": "Performapal Coin Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Other Dragon-Type monsters you control gain 500 ATK, also they cannot be destroyed by card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9000988.jpg"

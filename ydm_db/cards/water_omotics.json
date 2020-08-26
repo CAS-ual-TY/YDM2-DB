@@ -1,8 +1,8 @@
 {
   "id": 2483611,
   "name": "Water Omotics",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Transforms the water overflowing from a jar into attacking dragons.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2483611.jpg"

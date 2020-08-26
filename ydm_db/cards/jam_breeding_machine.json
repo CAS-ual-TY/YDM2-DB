@@ -1,8 +1,8 @@
 {
   "id": 21770260,
   "name": "Jam Breeding Machine",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "During each of your Standby Phases: Special Summon 1 \"Slime Token\" (Aqua-Type/WATER/LEVEL 1/ATK 500/DEF 500) in Attack Position. You cannot Summon any monsters, except \"Slime Tokens\" (but you can Set).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21770260.jpg"

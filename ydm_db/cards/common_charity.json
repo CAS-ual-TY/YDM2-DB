@@ -1,8 +1,8 @@
 {
   "id": 40465719,
   "name": "Common Charity",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Draw 2 cards, then banish 1 Normal Monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40465719.jpg"

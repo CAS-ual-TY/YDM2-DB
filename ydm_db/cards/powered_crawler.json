@@ -1,8 +1,8 @@
 {
   "id": 87742943,
   "name": "Powered Crawler",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is Normal or Special Summoned: You can destroy 1 monster your opponent controls with ATK less than this card\u0027s. You can only use this effect of \"Powered Crawler\" once per turn. All monsters your opponent controls must attack, if able.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87742943.jpg"

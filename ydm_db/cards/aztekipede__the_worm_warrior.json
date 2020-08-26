@@ -1,8 +1,8 @@
 {
   "id": 75081613,
   "name": "Aztekipede, the Worm Warrior",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by banishing 1 Insect-Type monster from your Graveyard, and cannot be Special Summoned by other ways. If this card inflicts battle damage to your opponent: Send the top card of their Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75081613.jpg"

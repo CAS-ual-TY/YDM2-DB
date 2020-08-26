@@ -1,8 +1,8 @@
 {
   "id": 46461247,
   "name": "Trap Master",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46461247.jpg"

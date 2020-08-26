@@ -1,8 +1,8 @@
 {
   "id": 7653207,
   "name": "Aqua Jet",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up Fish, Sea Serpent, or Aqua-Type monster you control; it gains 1000 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7653207.jpg"

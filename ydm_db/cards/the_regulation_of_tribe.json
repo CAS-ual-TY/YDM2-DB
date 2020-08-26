@@ -1,8 +1,8 @@
 {
   "id": 296499,
   "name": "The Regulation of Tribe",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Declare 1 Type of monster. Monsters of the declared Type cannot attack. Tribute 1 monster from your side of the field during each of your Standby Phases. If you do not, this card is destroyed.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/296499.jpg"

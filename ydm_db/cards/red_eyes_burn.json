@@ -1,8 +1,8 @@
 {
   "id": 71782404,
   "name": "Red-Eyes Burn",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If a face-up \"Red-Eyes\" monster(s) you control, except \"Red-Eyes B. Chick\", is destroyed by battle or card effect: Target 1 of those monsters; both players take damage equal to its original ATK. You can only activate 1 \"Red-Eyes Burn\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71782404.jpg"

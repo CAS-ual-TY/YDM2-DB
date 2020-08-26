@@ -1,8 +1,8 @@
 {
   "id": 19307353,
   "name": "Spirit Sculptor",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can Tribute 1 monster; add 1 monster from your Deck to your hand, whose combined original ATK/DEF equals the combined original ATK/DEF of the Tributed monster. You can only use this effect of \"Spirit Sculptor\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19307353.jpg"

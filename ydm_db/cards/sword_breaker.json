@@ -1,8 +1,8 @@
 {
   "id": 64689404,
   "name": "Sword Breaker",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "2 Level 6 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to declare 1 Monster Type; this card gains the following effect. At the start of the Damage Step, if this card battles a monster of a Type that has been declared: Destroy that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64689404.jpg"

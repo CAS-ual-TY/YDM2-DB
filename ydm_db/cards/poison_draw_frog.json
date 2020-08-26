@@ -1,8 +1,8 @@
 {
   "id": 56840658,
   "name": "Poison Draw Frog",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56840658.jpg"

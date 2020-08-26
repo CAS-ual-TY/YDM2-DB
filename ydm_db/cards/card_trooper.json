@@ -1,8 +1,8 @@
 {
   "id": 85087012,
   "name": "Card Trooper",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85087012.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 3784434,
   "name": "Rampaging Rhynos",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If this card attacks the monster in its same column, this card gains 500 ATK during the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3784434.jpg"

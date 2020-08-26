@@ -1,8 +1,8 @@
 {
   "id": 42364374,
   "name": "Arsenal Bug",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control no other Insect-Type monsters, this card\u0027s ATK and DEF become 1000.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42364374.jpg"

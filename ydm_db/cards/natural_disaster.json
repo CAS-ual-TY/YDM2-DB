@@ -1,8 +1,8 @@
 {
   "id": 18158397,
   "name": "Natural Disaster",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Inflict 500 damage to your opponent each time a card(s) they control is destroyed and sent to the Graveyard by the effect of a \"Cloudian\" monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18158397.jpg"

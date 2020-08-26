@@ -1,8 +1,8 @@
 {
   "id": 66594927,
   "name": "Meklord Control",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 \"Meklord\" monster you control; its ATK becomes the combined original ATK of all \"Meklord\" monsters you control, and if it does, your opponent takes no battle damage from attacks involving it until the end of this turn. If a \"Meklord\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 \"Meklord Control\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66594927.jpg"

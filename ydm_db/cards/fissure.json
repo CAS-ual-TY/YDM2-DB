@@ -1,8 +1,8 @@
 {
   "id": 66788016,
   "name": "Fissure",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66788016.jpg"

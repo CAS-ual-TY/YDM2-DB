@@ -1,8 +1,8 @@
 {
   "id": 84335863,
   "name": "White Rose Cloister",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control no monsters: You can Special Summon 1 \"Rose Dragon\" monster or 1 Plant monster from your hand. You can only use this effect of \"White Rose Cloister\" once per turn. During your Draw Phase, before you draw: You can declare 1 type of card (Monster, Spell, or Trap); reveal the top card of your Deck, and if it was the declared type, for the rest of this turn, Level 7 or higher Synchro Monsters you control gain 1000 ATK (even if this card leaves the field).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84335863.jpg"

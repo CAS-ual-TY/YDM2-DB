@@ -1,8 +1,8 @@
 {
   "id": 15894048,
   "name": "Ultimate Tyranno",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card can attack all monsters your opponent controls, once each. During your Battle Phase, if you control an \"Ultimate Tyranno\" that can attack, monsters other than \"Ultimate Tyranno\" cannot attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15894048.jpg"

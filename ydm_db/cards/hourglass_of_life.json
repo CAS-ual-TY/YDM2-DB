@@ -1,8 +1,8 @@
 {
   "id": 8783685,
   "name": "Hourglass of Life",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This creature grants power instead of shortening life.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8783685.jpg"

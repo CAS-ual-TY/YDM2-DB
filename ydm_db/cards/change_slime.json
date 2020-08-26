@@ -1,8 +1,8 @@
 {
   "id": 18914778,
   "name": "Change Slime",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A slime that can morph and adopt the shape and size of any monster it chooses.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18914778.jpg"

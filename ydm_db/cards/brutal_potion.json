@@ -1,8 +1,8 @@
 {
   "id": 30155789,
   "name": "Brutal Potion",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card becomes an Equip Card, and equips to 1 monster you control. Once per turn, when you inflict damage to your opponent with a card effect, the equipped monster gains 1000 ATK until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30155789.jpg"

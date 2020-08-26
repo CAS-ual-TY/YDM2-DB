@@ -1,8 +1,8 @@
 {
   "id": 39033131,
   "name": "Haunted Shrine",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control no monsters: Target 1 Zombie monster in your GY; Special Summon it. If you control no monsters: You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon it, but its effects are negated. You can only use 1 \"Haunted Shrine\" effect per turn, and only once that turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39033131.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 63035430,
   "name": "Skyscraper",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If an \"Elemental HERO\" monster attacks a monster that has a higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63035430.jpg"

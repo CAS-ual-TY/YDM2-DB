@@ -1,8 +1,8 @@
 {
   "id": 12071500,
   "name": "Dark Calling",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, that must be Special Summoned with \"Dark Fusion\", by banishing the Fusion Materials listed on it from your hand and/or GY. (This is treated as a Fusion Summon with \"Dark Fusion\".)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12071500.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 10000030,
   "name": "Magi Magi Magician Gal",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "2 Level 6 Spellcaster-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card and banish 1 card from your hand, then activate 1 of these effects.\n? Target 1 monster your opponent controls; take control of it until the End Phase.\n? Target 1 monster in your opponent\u0027s Graveyard; Special Summon it to your field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10000030.jpg"

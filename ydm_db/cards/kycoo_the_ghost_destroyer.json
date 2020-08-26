@@ -1,8 +1,8 @@
 {
   "id": 88240808,
   "name": "Kycoo the Ghost Destroyer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card inflicts battle damage to your opponent: You can target up to 2 monsters in their Graveyard; banish those targets. Your opponent cannot banish cards from either player\u0027s Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88240808.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 3136426,
   "name": "Level Limit - Area B",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Change all face-up Level 4 or higher monsters to Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3136426.jpg"

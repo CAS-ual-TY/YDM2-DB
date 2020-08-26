@@ -1,8 +1,8 @@
 {
   "id": 58242947,
   "name": "Junk Collector",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "(Quick Effect): You can banish this card on the field and 1 Normal Trap in your GY; apply that banished Trap\u0027s effect. (The Trap\u0027s activation requirements must still be correct, but costs are not paid.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58242947.jpg"

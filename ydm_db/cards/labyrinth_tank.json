@@ -1,8 +1,8 @@
 {
   "id": 99551425,
   "name": "Labyrinth Tank",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Giga-Tech Wolf\" + \"Cannon Soldier\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99551425.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 27870033,
   "name": "Pursuit Chaser",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a Defense Position monster is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27870033.jpg"

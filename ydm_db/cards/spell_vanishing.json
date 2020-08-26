@@ -1,8 +1,8 @@
 {
   "id": 29735721,
   "name": "Spell Vanishing",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 2 cards from your hand. Negate the activation of a Spell Card and destroy it. Also, look at your opponent\u0027s hand and Deck and if you find any Spell Cards of the same name as the destroyed Spell Card, send all of them to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29735721.jpg"

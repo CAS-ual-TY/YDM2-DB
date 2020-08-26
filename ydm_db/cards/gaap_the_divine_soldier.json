@@ -1,8 +1,8 @@
 {
   "id": 37955049,
   "name": "Gaap the Divine Soldier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "All monsters are changed to Attack Position, also their battle positions cannot be changed. (Flip Effects are not activated.) Once per turn: You can reveal any number of Fiend monsters in your hand; this card gains 300 ATK for each, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37955049.jpg"

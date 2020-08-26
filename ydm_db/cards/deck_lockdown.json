@@ -1,8 +1,8 @@
 {
   "id": 1149109,
   "name": "Deck Lockdown",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Neither player can add cards from the Deck to their hand except by drawing them. Monsters cannot be Special Summoned from the Main Deck. Destroy this card during your 2nd Standby Phase after activation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1149109.jpg"

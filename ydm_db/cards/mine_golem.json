@@ -1,8 +1,8 @@
 {
   "id": 76321376,
   "name": "Mine Golem",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76321376.jpg"

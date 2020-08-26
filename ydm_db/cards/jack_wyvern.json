@@ -1,8 +1,8 @@
 {
   "id": 23850421,
   "name": "Jack Wyvern",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can banish this card and 1 face-up Machine monster you control, then target 1 DARK monster in your GY; Special Summon it. You can only use this effect of \"Jack Wyvern\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23850421.jpg"

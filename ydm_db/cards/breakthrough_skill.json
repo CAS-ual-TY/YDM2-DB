@@ -1,8 +1,8 @@
 {
   "id": 78474168,
   "name": "Breakthrough Skill",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78474168.jpg"

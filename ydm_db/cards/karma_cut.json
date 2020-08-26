@@ -1,8 +1,8 @@
 {
   "id": 71587526,
   "name": "Karma Cut",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 card, then target 1 face-up monster your opponent controls; banish that target, then banish all cards with the same name as that monster from your opponent\u0027s Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71587526.jpg"

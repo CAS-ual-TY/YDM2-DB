@@ -1,8 +1,8 @@
 {
   "id": 95638658,
   "name": "Shooting Star Bow - Ceal",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The equipped monster loses 1000 ATK, but it can attack your opponent directly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95638658.jpg"

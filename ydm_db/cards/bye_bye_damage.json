@@ -1,8 +1,8 @@
 {
   "id": 20735371,
   "name": "Bye Bye Damage",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "During damage calculation, if your monster is attacked: Your battling monster cannot be destroyed by that battle, also if you take battle damage from that battle, your opponent takes effect damage equal to double that amount. You can only apply this effect of \"Bye Bye Damage\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20735371.jpg"

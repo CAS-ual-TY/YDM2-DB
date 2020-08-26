@@ -1,8 +1,8 @@
 {
   "id": 56433456,
   "name": "The Sanctuary in the Sky",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Battle damage to the controller of a Fairy monster from a battle involving that monster becomes 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56433456.jpg"

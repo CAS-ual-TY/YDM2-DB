@@ -1,8 +1,8 @@
 {
   "id": 36834155,
   "name": "Photon Pirate",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can banish 1 \"Photon\" monster from your Graveyard; this card gains 1000 ATK until the End Phase. You can use the effect of \"Photon Pirate\" up to twice per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36834155.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 75162696,
   "name": "Victoria",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can target 1 Dragon-Type monster in your opponent\u0027s Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75162696.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 20101223,
   "name": "Breath of Light",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Destroy all face-up Rock-Type monsters on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20101223.jpg"

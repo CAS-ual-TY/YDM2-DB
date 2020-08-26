@@ -1,8 +1,8 @@
 {
   "id": 9298235,
   "name": "Fluffal Crane",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a face-up \"Fluffal\" monster(s) you control is destroyed by your opponent\u0027s attack or card effect and sent to your Graveyard: Target 1 of those destroyed monsters; add it to your hand, and if you do, draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9298235.jpg"

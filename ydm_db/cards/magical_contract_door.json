@@ -1,8 +1,8 @@
 {
   "id": 18809562,
   "name": "Magical Contract Door",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Add 1 Spell Card from your hand to your opponent\u0027s hand, then add 1 Level 7 or 8 DARK monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18809562.jpg"

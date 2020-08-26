@@ -1,8 +1,8 @@
 {
   "id": 38296564,
   "name": "Safe Zone",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be destroyed by battle or your opponent\u0027s card effects, your opponent cannot target it with card effects, also it cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38296564.jpg"

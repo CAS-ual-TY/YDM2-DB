@@ -1,8 +1,8 @@
 {
   "id": 71068247,
   "name": "Totem Bird",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "2 Level 3 WIND monsters\nDuring either player\u0027s turn, when a Spell/Trap Card is activated: You can detach 2 Xyz Materials from this card; negate the activation, and if you do, destroy it. This card loses 300 ATK while it has no Xyz Materials.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71068247.jpg"

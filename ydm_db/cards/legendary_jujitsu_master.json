@@ -1,8 +1,8 @@
 {
   "id": 25773409,
   "name": "Legendary Jujitsu Master",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this Defense Position card battled a monster, at the end of the Damage Step: Place that monster on the top of the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25773409.jpg"

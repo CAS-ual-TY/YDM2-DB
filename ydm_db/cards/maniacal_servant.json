@@ -1,8 +1,8 @@
 {
   "id": 33455338,
   "name": "Maniacal Servant",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn during your opponent\u0027s Standby Phase, you can remove from play any number of DARK monsters from your Graveyard. This monster gains 500 DEF for each monster you removed, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33455338.jpg"

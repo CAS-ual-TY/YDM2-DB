@@ -1,8 +1,8 @@
 {
   "id": 12292422,
   "name": "Specimen Inspection",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Reveal 1 \"Fossil Fusion\" in your hand; send 1 monster from your hand to the GY, and if you do, declare 1 Type and Level, your opponent looks at their hand and Deck, and sends 1 monster of the declared Type and Level to the GY if there is any. You can only activate 1 \"Specimen Inspection\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12292422.jpg"

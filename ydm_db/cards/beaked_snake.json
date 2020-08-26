@@ -1,8 +1,8 @@
 {
   "id": 6103114,
   "name": "Beaked Snake",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster wraps itself around an opponent and pecks away with its huge beak.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6103114.jpg"

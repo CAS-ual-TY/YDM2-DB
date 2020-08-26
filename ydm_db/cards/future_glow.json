@@ -1,8 +1,8 @@
 {
   "id": 64107820,
   "name": "Future Glow",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate this card by banishing 1 Psychic-Type monster from your Graveyard, and note its Level; all Psychic-Type monsters you control gain ATK equal to that Level x 200.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64107820.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 95784434,
   "name": "Molting Escape",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to a Reptile-Type monster. Once per turn, if the equipped monster would be destroyed by battle, it is not destroyed. The equipped monster gains 300 ATK at the end of the Damage Step each time this effect is applied.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95784434.jpg"

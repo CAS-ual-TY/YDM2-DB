@@ -1,8 +1,8 @@
 {
   "id": 82971335,
   "name": "Fortune Lady Earth",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card\u0027s ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82971335.jpg"

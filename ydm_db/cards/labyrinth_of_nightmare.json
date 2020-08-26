@@ -1,8 +1,8 @@
 {
   "id": 66526672,
   "name": "Labyrinth of Nightmare",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, during each player\u0027s End Phase: Change the battle positions of all face-up monsters the turn player controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66526672.jpg"

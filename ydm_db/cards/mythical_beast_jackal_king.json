@@ -1,8 +1,8 @@
 {
   "id": 27354732,
   "name": "Mythical Beast Jackal King",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time a Spell is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn, when an opponent activates a monster effect (Quick Effect): You can remove 2 Spell Counters from your field; negate the activation, and if you do, destroy that card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27354732.jpg"

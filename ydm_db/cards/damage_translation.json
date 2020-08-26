@@ -1,8 +1,8 @@
 {
   "id": 35268887,
   "name": "Damage Translation",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Halve all effect damage you take this turn. During the End Phase this turn, Special Summon 1 \"Ghost Token\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position for each time you took effect damage this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35268887.jpg"

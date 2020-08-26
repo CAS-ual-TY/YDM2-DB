@@ -1,8 +1,8 @@
 {
   "id": 49645921,
   "name": "Saber Beetle",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49645921.jpg"

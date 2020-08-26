@@ -1,8 +1,8 @@
 {
   "id": 33112041,
   "name": "Volcanic Rat",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33112041.jpg"

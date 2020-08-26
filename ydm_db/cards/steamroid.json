@@ -1,8 +1,8 @@
 {
   "id": 44729197,
   "name": "Steamroid",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card attacks an opponent\u0027s monster, this card gains 500 ATK during the Damage Step only. If this card is attacked by an opponent\u0027s monster, this card loses 500 ATK during the Damage Step only.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44729197.jpg"

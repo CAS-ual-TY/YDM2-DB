@@ -1,8 +1,8 @@
 {
   "id": 83104731,
   "name": "Ancient Gear Golem",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83104731.jpg"

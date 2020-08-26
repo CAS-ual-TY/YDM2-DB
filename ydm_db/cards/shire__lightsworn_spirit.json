@@ -1,8 +1,8 @@
 {
   "id": 2420921,
   "name": "Shire, Lightsworn Spirit",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card gains 300 ATK for each \"Lightsworn\" monster with a different name in your Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2420921.jpg"

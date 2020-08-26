@@ -1,8 +1,8 @@
 {
   "id": 53046408,
   "name": "Emergency Provisions",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Send any number of other Spell/Trap Cards you control to the Graveyard; gain 1000 LP for each card sent to the Graveyard this way.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53046408.jpg"

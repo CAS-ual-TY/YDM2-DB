@@ -1,8 +1,8 @@
 {
   "id": 79777187,
   "name": "Bubble Barrier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each \"Performapal\" and \"Performage\" monster you control cannot be destroyed by battle or card effect once per turn. You take no battle damage from attacks involving \"Performapal\" and \"Performage\" monsters you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79777187.jpg"

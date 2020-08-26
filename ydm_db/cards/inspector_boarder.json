@@ -1,8 +1,8 @@
 {
   "id": 15397015,
   "name": "Inspector Boarder",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Normal or Special Summoned if you control a monster. Neither player can activate monster effects unless the number of monster effects that player has previously activated that turn is less than the number of monster card types currently on the field (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link). (If an effect\u0027s activation was negated, it still counts toward the total for that turn. Only count effects that were activated while this monster was face-up on the field.)",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15397015.jpg"

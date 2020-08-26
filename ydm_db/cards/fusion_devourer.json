@@ -1,8 +1,8 @@
 {
   "id": 98336111,
   "name": "Fusion Devourer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card battles a Fusion Monster, the ATK of the Fusion Monster becomes 0 during the Damage Step only.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98336111.jpg"

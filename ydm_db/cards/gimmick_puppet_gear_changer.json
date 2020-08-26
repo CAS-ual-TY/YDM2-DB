@@ -1,8 +1,8 @@
 {
   "id": 56427559,
   "name": "Gimmick Puppet Gear Changer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Special Summoned from the Deck. Once per turn: You can target 1 \"Gimmick Puppet\" monster you control, except this card; this card\u0027s Level becomes the Level of that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56427559.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 80193355,
   "name": "Dramatic Rescue",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only when a card is activated that targets an \"Amazoness\" monster. Return the targeted monster to its owner\u0027s hand and Special Summon 1 other monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80193355.jpg",

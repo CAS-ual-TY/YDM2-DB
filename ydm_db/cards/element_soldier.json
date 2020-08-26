@@ -1,8 +1,8 @@
 {
   "id": 66712593,
   "name": "Element Soldier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ? WATER: Control of this card cannot switch. ? EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66712593.jpg"

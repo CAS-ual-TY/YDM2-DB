@@ -1,8 +1,8 @@
 {
   "id": 68170903,
   "name": "A Feint Plan",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A player cannot attack face-down monsters during this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68170903.jpg"

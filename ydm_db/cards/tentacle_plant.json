@@ -1,8 +1,8 @@
 {
   "id": 60715406,
   "name": "Tentacle Plant",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A carnivorous plant that has an outgrowth of tentacles. It attacks someone nearby by extending its tentacles.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60715406.jpg"

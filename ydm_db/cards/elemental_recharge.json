@@ -1,8 +1,8 @@
 {
   "id": 36586443,
   "name": "Elemental Recharge",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Gain 1000 Life Points for each face-up \"Elemental HERO\" monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36586443.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 96216229,
   "name": "Gladiator Beast War Chariot",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When an Effect Monster\u0027s effect is activated, if you control a face-up \"Gladiator Beast\" monster: Negate the activation and destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96216229.jpg"

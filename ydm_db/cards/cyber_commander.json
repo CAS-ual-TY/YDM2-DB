@@ -1,8 +1,8 @@
 {
   "id": 6400512,
   "name": "Cyber Commander",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A strike force equipped with rocket launchers and bazookas.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6400512.jpg"

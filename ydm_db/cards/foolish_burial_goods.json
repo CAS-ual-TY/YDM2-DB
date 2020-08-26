@@ -1,8 +1,8 @@
 {
   "id": 35726888,
   "name": "Foolish Burial Goods",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Send 1 Spell/Trap from your Deck to the GY. You can only activate 1 \"Foolish Burial Goods\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35726888.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 10189126,
   "name": "Masked Sorcerer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card inflicts Battle Damage to your opponent\u0027s Life Points, draw 1 card from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10189126.jpg"

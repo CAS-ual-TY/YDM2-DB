@@ -1,8 +1,8 @@
 {
   "id": 10678778,
   "name": "Aegaion the Sea Castrum",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "2 Level 8 monsters\nDuring either player\u0027s turn: You can banish 1 random face-down monster from your opponent\u0027s Extra Deck, face-up, and if you do, this card\u0027s ATK becomes equal to the banished monster\u0027s. During either player\u0027s turn: You can detach 1 Xyz Material from this card, then target 1 of your opponent\u0027s banished Fusion, Synchro, or Xyz Monsters; return it to the Extra Deck, and if you do, destroy 1 monster your opponent controls with the same monster card type (Fusion, Synchro, or Xyz). You can only use each effect of \"Aegaion the Sea Castrum\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10678778.jpg"

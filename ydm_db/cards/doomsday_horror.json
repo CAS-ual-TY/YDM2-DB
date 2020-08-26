@@ -1,8 +1,8 @@
 {
   "id": 64379430,
   "name": "Doomsday Horror",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card\u0027s ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64379430.jpg"

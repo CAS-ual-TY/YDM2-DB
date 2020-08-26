@@ -1,8 +1,8 @@
 {
   "id": 75364199,
   "name": "Mutually Affured Destruction",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Both players must keep their hands revealed this turn. While their hands are revealed by this effect, if they both have a card with the same name in their hands, neither player can activate cards with that name, or their effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75364199.jpg"

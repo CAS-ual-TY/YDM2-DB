@@ -1,8 +1,8 @@
 {
   "id": 20277860,
   "name": "Armored Zombie",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This warrior blindly swings a deadly blade with devastating force.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20277860.jpg"

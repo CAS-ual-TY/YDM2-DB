@@ -1,8 +1,8 @@
 {
   "id": 50527144,
   "name": "Ghostrick Vanish",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Reveal 1 \"Ghostrick\" monster in your hand; this turn, \"Ghostrick\" cards you control, and face-down Defense Position monsters you control, cannot be targeted by, or be destroyed by, card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50527144.jpg"

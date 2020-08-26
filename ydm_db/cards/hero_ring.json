@@ -1,8 +1,8 @@
 {
   "id": 26647858,
   "name": "Hero Ring",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Warrior-Type monster with 1500 or less ATK; equip this card to that target. Monsters your opponent controls with 1900 or more ATK cannot attack that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26647858.jpg"

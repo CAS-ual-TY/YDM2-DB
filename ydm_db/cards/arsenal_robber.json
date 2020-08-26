@@ -1,8 +1,8 @@
 {
   "id": 55348096,
   "name": "Arsenal Robber",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Your opponent selects 1 Equip Spell Card from his/her Deck and sends it to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55348096.jpg"

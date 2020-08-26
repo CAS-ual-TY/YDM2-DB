@@ -1,8 +1,8 @@
 {
   "id": 3492538,
   "name": "Insect Armor with Laser Cannon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to an Insect monster. It gains 700 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3492538.jpg"

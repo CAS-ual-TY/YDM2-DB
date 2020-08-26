@@ -1,8 +1,8 @@
 {
   "id": 60391791,
   "name": "Senri Eye",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, during each of your Standby Phases, you can pay 100 Life Points to look at 1 card on the top of your opponent\u0027s Deck and return it to its original position. Your opponent cannot look at the card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60391791.jpg"

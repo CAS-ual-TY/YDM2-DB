@@ -1,8 +1,8 @@
 {
   "id": 72959823,
   "name": "Panzer Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Machine monster + 1 Dragon monster\nIf this card is destroyed and sent to the GY: You can target 1 card on the field; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72959823.jpg"

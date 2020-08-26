@@ -1,8 +1,8 @@
 {
   "id": 69257165,
   "name": "Mind Pollutant",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 monster to target 1 monster of that Level your opponent controls; take control of that target until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69257165.jpg"

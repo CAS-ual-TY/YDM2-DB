@@ -1,8 +1,8 @@
 {
   "id": 68507541,
   "name": "Amazoness Pet Liger",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Amazoness Tiger\" + 1 \"Amazoness\" monster\nOnce per battle, if this card attacks, during damage calculation: You can make this card gain 500 ATK during that damage calculation only. If your \"Amazoness\" monster attacked an opponent\u0027s monster, after damage calculation: You can target 1 face-up monster your opponent controls; it loses 800 ATK. Monsters your opponent controls cannot attack \"Amazoness\" monsters you control, except this one.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68507541.jpg"

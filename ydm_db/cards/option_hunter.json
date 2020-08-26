@@ -1,8 +1,8 @@
 {
   "id": 33248692,
   "name": "Option Hunter",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Gain Life Points equal to the original ATK of the destroyed monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33248692.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 82452993,
   "name": "Lone Wolf",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only if the 1 and only monster on your side of the field is \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". That monster cannot be destroyed as a result of battle, and is unaffected by any of your opponent\u0027s monster effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82452993.jpg"

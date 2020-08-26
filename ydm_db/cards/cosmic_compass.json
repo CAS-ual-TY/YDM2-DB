@@ -1,8 +1,8 @@
 {
   "id": 27450400,
   "name": "Cosmic Compass",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is Normal Summoned: You can Special Summon a number of \"Compass Tokens\" (Machine/EARTH/Level 1/ATK 0/DEF 0) up to the number of monsters your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27450400.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 21507589,
   "name": "Fish and Swaps",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 card to target 2 of your banished Fish, Sea Serpent, or Aqua-Type monsters; add them to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21507589.jpg"

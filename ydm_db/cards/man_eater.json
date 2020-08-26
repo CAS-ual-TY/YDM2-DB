@@ -1,8 +1,8 @@
 {
   "id": 93553943,
   "name": "Man Eater",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Man-eating plant with poison feelers for attacking enemies.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93553943.jpg"

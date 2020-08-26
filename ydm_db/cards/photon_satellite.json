@@ -1,8 +1,8 @@
 {
   "id": 63223260,
   "name": "Photon Satellite",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can target 1 other \"Photon\" monster you control; the Levels of both that monster and this card become the combined current Levels of those 2 monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63223260.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 70124586,
   "name": "Holding Legs",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is Summoned: Return all Set Spell and Trap Cards on the field to the hand. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated until the end of your opponent\u0027s next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70124586.jpg"

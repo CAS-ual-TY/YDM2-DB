@@ -1,8 +1,8 @@
 {
   "id": 69893315,
   "name": "Dice Armadillo",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "An armadillo monster that rolls up to form a dice-like shape.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69893315.jpg"

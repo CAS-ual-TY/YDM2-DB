@@ -1,8 +1,8 @@
 {
   "id": 57953380,
   "name": "Card of Safe Return",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a monster is Special Summoned from your Graveyard, you can draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57953380.jpg"

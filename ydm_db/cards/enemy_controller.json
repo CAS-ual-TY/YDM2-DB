@@ -1,8 +1,8 @@
 {
   "id": 98045062,
   "name": "Enemy Controller",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate 1 of these effects.\n? Target 1 face-up monster your opponent controls; change that target\u0027s battle position.\n? Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98045062.jpg"

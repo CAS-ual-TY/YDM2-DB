@@ -1,8 +1,8 @@
 {
   "id": 69550259,
   "name": "Speedroid Block-n-Roll",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is sent to the GY as Synchro Material: You can Special Summon 1 \"Speedroid Token\" (Machine/WIND/ATK 0/DEF 0) with a Level equal to the original Level of the Synchro Monster that used this card as material. You can only use this effect of \"Speedroid Block-n-Roll\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/69550259.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 48445393,
   "name": "Scrapstorm",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48445393.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 87350908,
   "name": "Masked Chopper",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card destroys an opponent\u0027s monster by battle, inflict 2000 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87350908.jpg"

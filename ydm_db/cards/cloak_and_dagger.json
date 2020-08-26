@@ -1,8 +1,8 @@
 {
   "id": 8323633,
   "name": "Cloak and Dagger",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Declare 1 Monster Card name. If your opponent Normal Summons, Special Summons, or flips that monster(s) face-up, remove that monster(s) and this card from play.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/8323633.jpg"

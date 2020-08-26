@@ -1,8 +1,8 @@
 {
   "id": 60234913,
   "name": "Ritual of Grace",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card is used to Ritual Summon \"Divine Grace - Northwemko\". You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand. During your Main Phase, you can remove from play this card from your Graveyard to make 1 face-up Ritual Monster you control become un-targetable by effects this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60234913.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 17375316,
   "name": "Confiscation",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Pay 1000 Life Points. Look at your opponent\u0027s hand, select 1 card in it and discard that card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17375316.jpg"

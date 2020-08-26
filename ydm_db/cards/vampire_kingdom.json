@@ -1,8 +1,8 @@
 {
   "id": 62188962,
   "name": "Vampire Kingdom",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Zombie-Type monsters gain 500 ATK during damage calculation only. Once per turn, when a card(s) is sent from your opponent\u0027s Deck to the Graveyard: Target 1 card on the field; send 1 DARK \"Vampire\" monster from your hand or Deck to the Graveyard, and if you do, destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62188962.jpg"

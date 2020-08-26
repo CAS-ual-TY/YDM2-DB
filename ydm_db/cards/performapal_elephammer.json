@@ -1,8 +1,8 @@
 {
   "id": 340002,
   "name": "Performapal Elephammer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control 2 or more \"Performapal\" cards, you can Normal Summon this card without Tributing. Cannot attack unless you control another \"Performapal\" card. When this card declares an attack: You can return all Spell and Trap Cards your opponent controls to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/340002.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 95376428,
   "name": "Extra Net",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If a monster(s) is Special Summoned from the Extra Deck: The opponent of the player that conducted the Special Summon can apply this effect.\n? Draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95376428.jpg"

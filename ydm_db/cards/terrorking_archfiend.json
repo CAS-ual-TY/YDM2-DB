@@ -1,8 +1,8 @@
 {
   "id": 35975813,
   "name": "Terrorking Archfiend",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card cannot be Normal Summoned or Flip Summoned unless you have an Archfiend Monster Card on your side of the field. The controller of this card pays 800 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 2 or 5, negate the effect and destroy the opponent\u0027s card. The effects of an Effect Monster that this card destroyed as a result of battle are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35975813.jpg"

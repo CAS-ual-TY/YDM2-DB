@@ -1,8 +1,8 @@
 {
   "id": 36629203,
   "name": "Ally of Justice Core Destroyer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36629203.jpg"

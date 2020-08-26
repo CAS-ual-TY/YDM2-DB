@@ -1,8 +1,8 @@
 {
   "id": 76532077,
   "name": "Bottomless Shifting Sand",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "At the end of your opponent\u0027s turn, destroy the face-up monster(s) with the highest ATK on the field. During your own Standby Phase, if you have 4 or less cards in your hand, this card is destroyed.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76532077.jpg"

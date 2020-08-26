@@ -1,8 +1,8 @@
 {
   "id": 2106266,
   "name": "Galloping Gaia",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Your opponent cannot activate cards or effects during the Battle Phase while \"Gaia the Dragon Champion\" is in your Monster Zone. You can activate 1 of the following effects.\n? You can reveal 1 \"Gaia The Fierce Knight\" monster in your hand; add 1 Level 5 Dragon monster from your Deck to your hand.\n? You can reveal 1 Level 5 Dragon monster in your hand; add 1 \"Gaia The Fierce Knight\" monster from your Deck to your hand.\nYou can only use this effect of \"Galloping Gaia\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2106266.jpg"

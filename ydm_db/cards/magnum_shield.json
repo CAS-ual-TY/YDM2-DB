@@ -1,8 +1,8 @@
 {
   "id": 84877802,
   "name": "Magnum Shield",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.\n? Attack Position: It gains ATK equal to its original DEF.\n? Defense Position: It gains DEF equal to its original ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84877802.jpg"

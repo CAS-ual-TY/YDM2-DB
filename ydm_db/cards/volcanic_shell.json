@@ -1,8 +1,8 @@
 {
   "id": 33365932,
   "name": "Volcanic Shell",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. This card must be in the GY to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33365932.jpg"

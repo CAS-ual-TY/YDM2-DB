@@ -1,8 +1,8 @@
 {
   "id": 21074344,
   "name": "Herald of Green Light",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent activates a Spell Card (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21074344.jpg"

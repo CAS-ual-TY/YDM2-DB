@@ -1,8 +1,8 @@
 {
   "id": 63515678,
   "name": "Mystical Capture Chain",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A mystical chain that binds enemies, rendering them immobile.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63515678.jpg"

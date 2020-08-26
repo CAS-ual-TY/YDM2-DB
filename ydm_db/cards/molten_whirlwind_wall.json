@@ -1,8 +1,8 @@
 {
   "id": 37436476,
   "name": "Molten Whirlwind Wall",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "All face-up \"Laval\" monsters you control gain 100 ATK for each \"Laval\" monster in your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37436476.jpg"

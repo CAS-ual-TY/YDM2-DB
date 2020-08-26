@@ -1,8 +1,8 @@
 {
   "id": 96287685,
   "name": "Jar Turtle",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time \"Jar of Greed\" is activated, draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96287685.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 22539270,
   "name": "Scrap Lube",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 \"Scrap\" monster in your Graveyard. Special Summon that monster from the Graveyard. Its effects are negated. When this card is removed from the field, destroy that monster. When that monster is removed from the field, destroy this card. You cannot conduct your Battle Phase the turn you activate this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22539270.jpg"

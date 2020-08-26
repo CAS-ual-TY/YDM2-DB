@@ -1,8 +1,8 @@
 {
   "id": 1005587,
   "name": "Void Trap Hole",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent Special Summons a monster(s) with 2000 or more ATK: Negate the effects of 1 of those monsters with 2000 or more ATK, and if you do, destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1005587.jpg"

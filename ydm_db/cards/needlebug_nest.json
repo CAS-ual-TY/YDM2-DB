@@ -1,8 +1,8 @@
 {
   "id": 84968490,
   "name": "Needlebug Nest",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Send the top 5 cards of your Deck to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84968490.jpg"

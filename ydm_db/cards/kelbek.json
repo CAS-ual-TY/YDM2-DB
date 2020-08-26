@@ -1,8 +1,8 @@
 {
   "id": 54878498,
   "name": "Kelbek",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A monster that attacks this card returns to the hand. Damage calculation is applied normally.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54878498.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 32750510,
   "name": "Ice Master",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can Special Summon this card (from your hand) by Tributing 2 WATER monsters. Once per turn: You can target 1 face-up monster on the field; place an Ice Counter on that target. You can Tribute this card; destroy all monsters with an Ice Counter(s).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32750510.jpg"

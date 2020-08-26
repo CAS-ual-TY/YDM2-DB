@@ -1,8 +1,8 @@
 {
   "id": 73431236,
   "name": "Iron Blacksmith Kotetsu",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Add 1 Equip Spell from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73431236.jpg"

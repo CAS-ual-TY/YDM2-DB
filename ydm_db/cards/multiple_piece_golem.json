@@ -1,8 +1,8 @@
 {
   "id": 71628381,
   "name": "Multiple Piece Golem",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Big Piece Golem\" + \"Medium Piece Golem\"\nAt the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Extra Deck. Then, if all of the Fusion Material Monsters that were used for the Fusion Summon of this card are in your Graveyard, you can Special Summon them.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71628381.jpg"

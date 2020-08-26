@@ -1,8 +1,8 @@
 {
   "id": 36458063,
   "name": "Witch\u0027s Strike",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If your opponent negates the Normal or Special Summon of a monster(s), or the activation of a card or effect: Destroy all cards your opponent controls and in their hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36458063.jpg"

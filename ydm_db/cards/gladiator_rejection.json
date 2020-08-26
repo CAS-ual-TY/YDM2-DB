@@ -1,8 +1,8 @@
 {
   "id": 93684009,
   "name": "Gladiator Rejection",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Your opponent cannot target \"Gladiator Beast\" monsters you control with card effects, except during the Battle Phase. If a \"Gladiator Beast\" monster(s) is Special Summoned from your Main Deck (except during the Damage Step): You can Special Summon 1 \"Gladiator Beast\" monster from your Deck with a different Type from the monsters you control, in Defense Position. You can only use this effect of \"Gladiator Rejection\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93684009.jpg"

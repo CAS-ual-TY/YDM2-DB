@@ -1,8 +1,8 @@
 {
   "id": 2618045,
   "name": "Photon Chargeman",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can make this card\u0027s ATK become double its original ATK, until your next Standby Phase. This card cannot attack the turn you activate this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2618045.jpg"

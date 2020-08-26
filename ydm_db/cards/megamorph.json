@@ -1,8 +1,8 @@
 {
   "id": 22046459,
   "name": "Megamorph",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "While your LP is lower than your opponent\u0027s, the equipped monster\u0027s ATK becomes double its original ATK. While your LP is higher, the equipped monster\u0027s ATK becomes half its original ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22046459.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 74983881,
   "name": "Sweet Corn",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, during your Main Phase 2: You can pay 500 Life Points; Special Summon 1 \"Maize Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/74983881.jpg"

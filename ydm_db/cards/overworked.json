@@ -1,8 +1,8 @@
 {
   "id": 71272951,
   "name": "Overworked",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Destroy each monster whose ATK is higher than its original ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71272951.jpg"

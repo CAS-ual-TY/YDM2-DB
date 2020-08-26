@@ -1,8 +1,8 @@
 {
   "id": 17649753,
   "name": "Worm Rakuyeh",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card can only declare an attack the turn it was flipped face-up. If this card attacks, it is changed to face-down Defense Position at the end of the Battle Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17649753.jpg"

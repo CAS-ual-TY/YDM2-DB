@@ -1,8 +1,8 @@
 {
   "id": 40383551,
   "name": "Cold Feet",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40383551.jpg"

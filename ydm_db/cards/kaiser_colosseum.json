@@ -1,8 +1,8 @@
 {
   "id": 35059553,
   "name": "Kaiser Colosseum",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card\u0027s controller. The cards that are already on the field before this card\u0027s activation are unaffected by this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35059553.jpg"

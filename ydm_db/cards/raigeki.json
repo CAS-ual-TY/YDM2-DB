@@ -1,8 +1,8 @@
 {
   "id": 12580477,
   "name": "Raigeki",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Destroy all monsters your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12580477.jpg"

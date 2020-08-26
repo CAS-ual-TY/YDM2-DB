@@ -1,8 +1,8 @@
 {
   "id": 25173686,
   "name": "Straight Flush",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only when all of your opponent\u0027s Spell \u0026 Trap Card Zones are occupied. Destroy all cards in your opponent\u0027s Spell \u0026 Trap Card Zones.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25173686.jpg"

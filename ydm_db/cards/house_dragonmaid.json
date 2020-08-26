@@ -1,8 +1,8 @@
 {
   "id": 41232647,
   "name": "House Dragonmaid",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 \"Dragonmaid\" monster + 1 Dragon monster\nOnce per turn, during the Standby Phase: You can target 1 other \"Dragonmaid\" monster you control; Special Summon 1 \"Dragonmaid\" monster from your hand or GY in Defense Position, whose Level is 1 higher or 1 lower than it. When another face-up Dragon monster(s) you control returns to your hand (except during the Damage Step): You can target 1 monster your opponent controls; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41232647.jpg"

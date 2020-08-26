@@ -1,8 +1,8 @@
 {
   "id": 98847704,
   "name": "Release Restraint Wave",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up Equip Spell Card you control; destroy the Equip Spell Card and all face-down Spell and Trap Cards your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98847704.jpg"

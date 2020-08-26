@@ -1,8 +1,8 @@
 {
   "id": 42709949,
   "name": "Phalanx Pike",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The equipped monster gains 900 ATK for each card in either Graveyard that has the same name it does.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42709949.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 98931003,
   "name": "Nanana",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Level 7 or Rank 7 monster you control; it gains 700 ATK/DEF until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98931003.jpg"

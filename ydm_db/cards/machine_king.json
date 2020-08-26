@@ -1,8 +1,8 @@
 {
   "id": 46700124,
   "name": "Machine King",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card gains 100 ATK for each Machine-Type monster on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46700124.jpg"

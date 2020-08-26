@@ -1,8 +1,8 @@
 {
   "id": 11384280,
   "name": "Cannon Soldier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can Tribute 1 monster; inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11384280.jpg"

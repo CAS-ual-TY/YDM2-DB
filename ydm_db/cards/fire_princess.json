@@ -1,8 +1,8 @@
 {
   "id": 64752646,
   "name": "Fire Princess",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time you gain Life Points, inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/64752646.jpg"

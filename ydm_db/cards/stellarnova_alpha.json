@@ -1,8 +1,8 @@
 {
   "id": 41510920,
   "name": "Stellarnova Alpha",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a Spell/Trap Card, or monster effect, is activated: Send 1 face-up \"tellarknight\" monster you control to the Graveyard; negate the activation, and if you do, destroy that card, then draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41510920.jpg"

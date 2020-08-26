@@ -1,8 +1,8 @@
 {
   "id": 67987302,
   "name": "Earthbound Linewalker",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Earthbound Immortal\" monsters cannot be destroyed by their own effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67987302.jpg"

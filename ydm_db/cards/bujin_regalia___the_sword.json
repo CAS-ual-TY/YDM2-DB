@@ -1,8 +1,8 @@
 {
   "id": 30338466,
   "name": "Bujin Regalia - The Sword",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate 1 of these effects.\n? Target 1 \"Bujin\" monster in your Graveyard; add that target to your hand.\n? Target 1 of your banished \"Bujin\" monsters; send that target to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30338466.jpg"

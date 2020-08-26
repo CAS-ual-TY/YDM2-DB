@@ -1,8 +1,8 @@
 {
   "id": 72171665,
   "name": "Magical Broker",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be destroyed by battle or card effects while you control a Continuous Spell/Trap. During your opponent\u0027s turn (Quick Effect): You can send 1 face-up Continuous Spell/Trap you control to the GY; draw 1 card. You can only use this effect of \"Magical Broker\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72171665.jpg"

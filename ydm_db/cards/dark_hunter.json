@@ -1,8 +1,8 @@
 {
   "id": 19357125,
   "name": "Dark Hunter",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card\u0027s effect changes depending on the number of DARK monsters in your Graveyard. ? 1 or fewer: This card loses 400 ATK. ? 2 to 4: This card gains 400 ATK. ? 5 or more: You can send this card to the Graveyard to destroy all face-down monsters your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19357125.jpg"

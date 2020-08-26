@@ -1,8 +1,8 @@
 {
   "id": 34290067,
   "name": "Corroding Shark",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A zombie shark that can deliver its lethal curse with a spell.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34290067.jpg"

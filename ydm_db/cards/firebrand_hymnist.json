@@ -1,8 +1,8 @@
 {
   "id": 373085,
   "name": "Firebrand Hymnist",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is Normal Summoned: You can send cards from the top of your opponent\u0027s Deck to the GY, equal to the number of cards they control. If this card is Special Summoned: You can send cards from the top of your Deck to the GY, equal to the number of cards your opponent controls. You can only use this effect of \"Firebrand Hymnist\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/373085.jpg"

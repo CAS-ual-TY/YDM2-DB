@@ -1,8 +1,8 @@
 {
   "id": 42599677,
   "name": "Flame Champion",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A warrior protected by a flaming shield that nullifies any attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42599677.jpg"

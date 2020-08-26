@@ -1,8 +1,8 @@
 {
   "id": 10537981,
   "name": "Return Soul",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only during the End Phase. You can return up to 3 monsters destroyed this turn from the Graveyard to their owners\u0027 Decks.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10537981.jpg"

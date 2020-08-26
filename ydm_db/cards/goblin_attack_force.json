@@ -1,8 +1,8 @@
 {
   "id": 78658564,
   "name": "Goblin Attack Force",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78658564.jpg"

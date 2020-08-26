@@ -1,8 +1,8 @@
 {
   "id": 61173621,
   "name": "Edge Imp Chain",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card declares an attack: You can add 1 \"Edge Imp Chain\" from your Deck to your hand. If this card is sent from the hand or field to the Graveyard: You can add 1 \"Frightfur\" card from your Deck to your hand. You can only use 1 \"Edge Imp Chain\" effect per turn, and only once that turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/61173621.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 83584898,
   "name": "Darkworld Shackles",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The equipped monster cannot attack, also its ATK and DEF become 100. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83584898.jpg"

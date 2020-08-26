@@ -1,8 +1,8 @@
 {
   "id": 75326861,
   "name": "Dark Highlander",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Fiend-Type Tuner + 1 or more non-Tuner Fiend-Type monsters\nNeither player can Synchro Summon. Once per turn: You can target 1 monster your opponent controls that is equipped with an Equip Card; destroy all Equip Cards equipped to that monster, and if you do, inflict 400 damage to your opponent for each card destroyed.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75326861.jpg"

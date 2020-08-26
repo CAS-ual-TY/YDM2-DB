@@ -1,8 +1,8 @@
 {
   "id": 48653261,
   "name": "Guard Penalty",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 monster on the field. If it is changed to Defense Position this turn, draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48653261.jpg"

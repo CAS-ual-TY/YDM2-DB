@@ -1,8 +1,8 @@
 {
   "id": 92092092,
   "name": "Space Dragster",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Special Summon this card as an Effect Monster (Machine-Type/Tuner/FIRE/Level 1/ATK 0/DEF 1800). (This card is also still a Trap Card.) If Summoned this way, other Tuners you control cannot be destroyed by battle or your opponent\u0027s card effects while this card is in the Monster Zone.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/92092092.jpg"

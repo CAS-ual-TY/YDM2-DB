@@ -1,8 +1,8 @@
 {
   "id": 37120512,
   "name": "Sword of Dark Destruction",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to a DARK monster. It gains 400 ATK and loses 200 DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37120512.jpg"

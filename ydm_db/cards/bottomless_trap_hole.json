@@ -1,8 +1,8 @@
 {
   "id": 29401950,
   "name": "Bottomless Trap Hole",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/29401950.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 75833426,
   "name": "Madolche Tea Break",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a Spell/Trap Card is activated, if you have no monsters in your Graveyard: Negate the activation, and if you do, return it to the hand, then, if you control a face-up \"Madolche Puddingcess\", you can destroy 1 card your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75833426.jpg"

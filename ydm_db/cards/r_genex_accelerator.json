@@ -1,8 +1,8 @@
 {
   "id": 73783043,
   "name": "R-Genex Accelerator",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a \"Genex\" monster is added from your Deck to your hand, you can reveal that monster to Special Summon it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73783043.jpg"

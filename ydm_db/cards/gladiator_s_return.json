@@ -1,8 +1,8 @@
 {
   "id": 24285858,
   "name": "Gladiator\u0027s Return",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 3 \"Gladiator Beast\" cards in your Graveyard; shuffle all 3 targets into the Deck, then draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24285858.jpg"

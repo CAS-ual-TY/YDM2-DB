@@ -1,8 +1,8 @@
 {
   "id": 33453260,
   "name": "Comic Hand",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control \"Toon World\", equip to an opponent\u0027s monster. Take control of it. It is treated as a Toon monster. If your opponent controls no Toon monsters, it can attack your opponent directly. If \"Toon World\" is not on the field, destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33453260.jpg"

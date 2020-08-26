@@ -1,8 +1,8 @@
 {
   "id": 34320307,
   "name": "Living Vase",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A living vase that bites enemies and blinds them with a blast of pollen from its flower.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34320307.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 97396380,
   "name": "Fencing Fire Ferret",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is destroyed and sent to the GY: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97396380.jpg"

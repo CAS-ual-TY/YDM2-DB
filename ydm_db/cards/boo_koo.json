@@ -1,8 +1,8 @@
 {
   "id": 68963107,
   "name": "Boo Koo",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A book-like wizard with a wealth of magic written inside.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68963107.jpg"

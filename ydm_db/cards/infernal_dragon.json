@@ -1,8 +1,8 @@
 {
   "id": 47754278,
   "name": "Infernal Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, during the End Phase, if this card attacked this turn: Destroy this card. When this card on the field is destroyed and sent to the GY: You can Tribute 1 monster; Special Summon this card from the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47754278.jpg"

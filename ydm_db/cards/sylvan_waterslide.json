@@ -1,8 +1,8 @@
 {
   "id": 49838105,
   "name": "Sylvan Waterslide",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time an opponent\u0027s monster declares a direct attack: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. During your Draw Phase, instead of conducting your normal draw: Excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, add it to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49838105.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 96474800,
   "name": "Magic Deflector",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "For the rest of this turn, negate all Equip, Field, Continuous and Quick-Play Spell Card effects on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/96474800.jpg"

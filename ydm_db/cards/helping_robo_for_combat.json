@@ -1,8 +1,8 @@
 {
   "id": 47025270,
   "name": "Helping Robo for Combat",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card destroys an opponent\u0027s monster by battle: Draw 1 card, then return 1 card from your hand to the bottom of the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47025270.jpg"

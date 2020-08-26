@@ -1,8 +1,8 @@
 {
   "id": 55013285,
   "name": "Troop Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is destroyed by battle and sent to the GY: Special Summon 1 \"Troop Dragon\" from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55013285.jpg"

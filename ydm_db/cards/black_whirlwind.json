@@ -1,8 +1,8 @@
 {
   "id": 91351370,
   "name": "Black Whirlwind",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a \"Blackwing\" monster is Normal Summoned to your field: You can add 1 \"Blackwing\" monster from your Deck to your hand with less ATK than that monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91351370.jpg"

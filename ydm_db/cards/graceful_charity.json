@@ -1,8 +1,8 @@
 {
   "id": 79571449,
   "name": "Graceful Charity",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Draw 3 cards, then discard 2 cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79571449.jpg"

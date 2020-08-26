@@ -1,8 +1,8 @@
 {
   "id": 36995273,
   "name": "Degenerate Circuit",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The controller of this card pays 500 Life Points during each of their Standby Phases (this is not optional). Monster Cards that would be returned from the field to the hand are removed from play instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36995273.jpg"

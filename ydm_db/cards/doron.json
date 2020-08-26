@@ -1,8 +1,8 @@
 {
   "id": 756652,
   "name": "Doron",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster splits in two and attacks from opposite sides.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/756652.jpg"

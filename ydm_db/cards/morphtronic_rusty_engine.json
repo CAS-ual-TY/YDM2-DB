@@ -1,8 +1,8 @@
 {
   "id": 20686759,
   "name": "Morphtronic Rusty Engine",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to a \"Morphtronic\" monster. If the equipped monster is destroyed, inflict damage to each player equal to its original ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20686759.jpg"

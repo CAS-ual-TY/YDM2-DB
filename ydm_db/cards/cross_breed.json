@@ -1,8 +1,8 @@
 {
   "id": 20862918,
   "name": "Cross Breed",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Banish 2 monsters from your hand and/or face-up field with the same original Type and Attribute, but different names; add 1 monster with the same original Type and Attribute as those monsters, but a different name, from your Deck to your hand. You can only activate 1 \"Cross Breed\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20862918.jpg"

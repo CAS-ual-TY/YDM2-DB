@@ -1,8 +1,8 @@
 {
   "id": 18739764,
   "name": "Destruct Potion",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 monster you control. Destroy it, and gain Life Points equal to its ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18739764.jpg"

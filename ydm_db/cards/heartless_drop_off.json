@@ -1,8 +1,8 @@
 {
   "id": 47439573,
   "name": "Heartless Drop Off",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a face-up card(s) on the field and/or in the GY is added to your opponent\u0027s hand by an effect: Look at their hand, also banish the added card(s) and all cards with the same name, if any.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47439573.jpg"

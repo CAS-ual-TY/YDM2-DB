@@ -1,8 +1,8 @@
 {
   "id": 56094445,
   "name": "Ancient Gear Soldier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56094445.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 54860010,
   "name": "Worm Prince",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card destroys an opponent\u0027s monster by battle, you can add 1 Reptile-Type \"Worm\" monster from your Deck to your hand. Destroy this card during the End Phase if you do not control another Reptile-Type \"Worm\" monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54860010.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 95568112,
   "name": "Rain Bozu",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Gains ATK equal to the difference between the number of cards in both players\u0027 Extra Decks x 200 during your turn only. Gains DEF equal to the difference between the number of cards in both players\u0027 Extra Decks x 200 during your opponent\u0027s turn only. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95568112.jpg"

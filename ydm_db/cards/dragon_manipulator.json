@@ -1,8 +1,8 @@
 {
   "id": 63018132,
   "name": "Dragon Manipulator",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Take control of 1 face-up Dragon-Type monster on your opponent\u0027s side of the field until the end of the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63018132.jpg"

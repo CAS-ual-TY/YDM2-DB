@@ -1,8 +1,8 @@
 {
   "id": 16191953,
   "name": "Master Gig",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can pay 1000 Life Points to destroy monsters your opponent controls equal to the number of face-up Psychic-Type monsters you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16191953.jpg"

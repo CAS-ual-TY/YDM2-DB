@@ -1,8 +1,8 @@
 {
   "id": 40619741,
   "name": "Vylon Soldier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card declares an attack: You can target monsters your opponent controls, up to the number of Equip Cards equipped to this card; change those targets\u0027 battle positions.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40619741.jpg"

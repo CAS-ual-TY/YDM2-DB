@@ -1,8 +1,8 @@
 {
   "id": 37043180,
   "name": "D.D. Warrior",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "After damage calculation, when this card battles a monster: Banish that monster, also banish this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37043180.jpg"

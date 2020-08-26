@@ -1,8 +1,8 @@
 {
   "id": 49980185,
   "name": "Supernatural Regeneration",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only during the End Phase. Gain 1000 Life Points for each Psychic-Type monster sent to the Graveyard this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49980185.jpg"

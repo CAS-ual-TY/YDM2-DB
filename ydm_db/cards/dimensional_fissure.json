@@ -1,8 +1,8 @@
 {
   "id": 81674782,
   "name": "Dimensional Fissure",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Any monster sent to the Graveyard is banished instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81674782.jpg"

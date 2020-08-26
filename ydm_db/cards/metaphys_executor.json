@@ -1,8 +1,8 @@
 {
   "id": 45148985,
   "name": "Metaphys Executor",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 5 \"Metaphys\" cards with different names from your GY and/or face-up from your field. Cannot be destroyed, or banished, by card effects. Once per turn, if your opponent controls more cards than you do: You can target 1 of your banished \"Metaphys\" monsters; Special Summon it, but banish it during the End Phase of the next turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45148985.jpg"

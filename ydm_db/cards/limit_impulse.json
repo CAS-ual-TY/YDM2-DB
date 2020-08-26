@@ -1,8 +1,8 @@
 {
   "id": 82324105,
   "name": "Limit Impulse",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Send 2 cards from your hand to the GY; Special Summon 2 \"Soul Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0). They cannot be Tributed except for a Tribute Summon.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/82324105.jpg"

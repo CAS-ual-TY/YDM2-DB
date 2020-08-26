@@ -1,8 +1,8 @@
 {
   "id": 3797883,
   "name": "Slot Machine",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The machine\u0027s ability is said to vary according to its slot results.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3797883.jpg"

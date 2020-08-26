@@ -1,8 +1,8 @@
 {
   "id": 2414168,
   "name": "Interrupt Resistor",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, during damage calculation, when another Defense Position monster you control is attacked by an opponent\u0027s monster (Quick Effect): You can activate this effect; during this damage calculation, your attacked monster\u0027s DEF becomes equal to this card\u0027s DEF, also it cannot be destroyed by that battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2414168.jpg"

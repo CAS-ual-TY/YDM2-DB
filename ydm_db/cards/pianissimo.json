@@ -1,8 +1,8 @@
 {
   "id": 70899775,
   "name": "Pianissimo",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up monster you control; this turn, that face-up monster\u0027s original ATK becomes 100, also that face-up monster cannot be destroyed by battle or card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70899775.jpg"

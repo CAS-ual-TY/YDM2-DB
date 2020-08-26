@@ -1,8 +1,8 @@
 {
   "id": 21488686,
   "name": "Psychic Rejuvenation",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Gain 1000 Life Points for each face-up Psychic-Type monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21488686.jpg"

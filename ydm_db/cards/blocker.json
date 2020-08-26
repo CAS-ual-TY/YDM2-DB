@@ -1,8 +1,8 @@
 {
   "id": 34743446,
   "name": "Blocker",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Constructed from several components, this monster can launch them in a pincer attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34743446.jpg"

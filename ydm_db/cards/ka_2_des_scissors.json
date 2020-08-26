@@ -1,8 +1,8 @@
 {
   "id": 52768103,
   "name": "KA-2 Des Scissors",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card destroys a monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent\u0027s Life Points equal to the Level of the destroyed monster x 500 points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52768103.jpg"

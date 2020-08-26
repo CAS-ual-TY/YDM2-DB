@@ -1,8 +1,8 @@
 {
   "id": 20457551,
   "name": "Iron Core Armor",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to a \"Koa\u0027ki Meiru\" monster. During damage calculation only, monsters that battle with the equipped monster lose ATK equal to the equipped monster\u0027s Level x 100. If the equipped monster would be destroyed during the End Phase, you can send this card to the Graveyard instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20457551.jpg"

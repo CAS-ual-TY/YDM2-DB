@@ -1,8 +1,8 @@
 {
   "id": 67196946,
   "name": "Star Blast",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Pay any number of Life Points in multiples of 500; reduce the Level of 1 monster you control or that is in your hand by 1 for each 500 Life Points you paid, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67196946.jpg"

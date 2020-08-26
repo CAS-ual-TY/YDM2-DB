@@ -1,8 +1,8 @@
 {
   "id": 54326448,
   "name": "Flamvell Archer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can Tribute 1 face-up Pyro-Type monster you control to have all \"Flamvell\" monsters on the field gain 800 ATK until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54326448.jpg"

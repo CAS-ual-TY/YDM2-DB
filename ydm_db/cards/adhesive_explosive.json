@@ -1,8 +1,8 @@
 {
   "id": 53828396,
   "name": "Adhesive Explosive",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Before damage calculation, if this card was attacked by an opponent\u0027s monster and was in face-down Defense Position at the start of the Damage Step: Equip this card to the attacking monster. Then, during your opponent\u0027s next Standby Phase, destroy the monster this card is equipped to.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53828396.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 17814387,
   "name": "Reinforcements",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17814387.jpg"

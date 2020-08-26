@@ -1,8 +1,8 @@
 {
   "id": 33656832,
   "name": "Acrobatic Magician",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If the activation of a Spell/Trap Card is negated (except during the Damage Step): You can Special Summon this card from your hand. When this card is destroyed by battle: You can place this card in your Pendulum Zone.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33656832.jpg"

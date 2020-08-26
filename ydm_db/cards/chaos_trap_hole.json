@@ -1,8 +1,8 @@
 {
   "id": 11593137,
   "name": "Chaos Trap Hole",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a LIGHT or DARK monster(s) would be Summoned: Pay 2000 LP; negate the Summon of the LIGHT and DARK monster(s), and if you do, banish it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/11593137.jpg"

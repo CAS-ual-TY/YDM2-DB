@@ -1,8 +1,8 @@
 {
   "id": 59969392,
   "name": "Archfiend Zombie-Skull",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Plaguespreader Zombie\" + 2+ non-Tuner Zombie monsters\nZombie monsters you control cannot be destroyed by card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59969392.jpg"

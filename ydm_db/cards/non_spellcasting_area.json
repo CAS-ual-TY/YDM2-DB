@@ -1,8 +1,8 @@
 {
   "id": 20065549,
   "name": "Non-Spellcasting Area",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20065549.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 38116136,
   "name": "Machine Attacker",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This machine, created to lead charges into enemy territory, mows down enemies by rushing.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38116136.jpg"

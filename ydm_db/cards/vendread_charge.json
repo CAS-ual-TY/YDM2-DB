@@ -1,8 +1,8 @@
 {
   "id": 76798740,
   "name": "Vendread Charge",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Send 1 Zombie monster from your hand or face-up from your field to the GY; Special Summon 1 \"Vendread\" monster from your Deck. You can only activate 1 \"Vendread Charge\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76798740.jpg"

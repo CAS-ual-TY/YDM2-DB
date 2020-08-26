@@ -1,8 +1,8 @@
 {
   "id": 55624610,
   "name": "Scrap Hunter",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can select 1 face-up \"Scrap\" monster you control, except this card. Destroy it and send 1 Tuner monster from your Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55624610.jpg"

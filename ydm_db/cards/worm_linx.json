@@ -1,8 +1,8 @@
 {
   "id": 44811425,
   "name": "Worm Linx",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: During each End Phase, if this card is face-up, draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44811425.jpg"

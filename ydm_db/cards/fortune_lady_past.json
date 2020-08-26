@@ -1,8 +1,8 @@
 {
   "id": 57869175,
   "name": "Fortune Lady Past",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card\u0027s ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card\u0027s Level by 1 (max. 12). You can target 1 \"Fortune Lady\" monster you control; banish any number of other Spellcaster monsters from your hand, field, and/or GY, and if you do, increase or reduce that monster\u0027s Level by the number of monsters banished, until the end of this turn. You can only use this effect of \"Fortune Lady Past\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57869175.jpg"

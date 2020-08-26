@@ -1,8 +1,8 @@
 {
   "id": 12467005,
   "name": "Tackle Crusader",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is sent to the Graveyard: You can activate 1 of these effects.\n? Target 1 face-up monster your opponent controls; change that target to face-down Defense Position.\n? Target 1 face-up Spell/Trap Card your opponent controls; return that target to the hand. This turn, your opponent cannot activate cards with the same name as the card returned to the hand by this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12467005.jpg"

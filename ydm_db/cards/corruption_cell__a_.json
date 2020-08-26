@@ -1,8 +1,8 @@
 {
   "id": 2561846,
   "name": "Corruption Cell \"A\"",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Place 1 A-Counter on 1 face-up monster on your opponent\u0027s side of the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2561846.jpg"

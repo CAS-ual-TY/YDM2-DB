@@ -1,8 +1,8 @@
 {
   "id": 40172183,
   "name": "Narrow Pass",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card can only be activated when both players have 2 monsters or less on their respective sides of the field. Both players can only Normal Summon up to 2 additional monsters on their sides of the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40172183.jpg"

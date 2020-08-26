@@ -1,8 +1,8 @@
 {
   "id": 35307484,
   "name": "Malicevorous Spoon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a \"Malicevorous\" monster with a different name is Normal or Special Summoned to your side of the field (except during the Damage Step): You can target 1 Level 2 Fiend-Type monster in your Graveyard; Special Summon that target. Its effects are negated. You can only use the effect of \"Malicevorous Spoon\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/35307484.jpg"

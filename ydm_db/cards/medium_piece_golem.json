@@ -1,8 +1,8 @@
 {
   "id": 58843503,
   "name": "Medium Piece Golem",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is Summoned, if you control a \"Big Piece Golem\", you can Special Summon 1 \"Small Piece Golem\" from your Deck. That monster\u0027s effect is negated while it is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58843503.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 80204957,
   "name": "Karakuri Cash Cache",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 face-up \"Karakuri\" monster you control. Add 1 Level 4 or lower \"Karakuri\" monster from your Deck to your hand and change the battle position of the selected monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80204957.jpg"

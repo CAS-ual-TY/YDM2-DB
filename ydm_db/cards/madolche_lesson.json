@@ -1,8 +1,8 @@
 {
   "id": 12940613,
   "name": "Madolche Lesson",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 \"Madolche\" monster in your Graveyard; shuffle that target into the Deck, and if you do, all \"Madolche\" monsters you currently control gain 800 ATK and DEF, then you can shuffle 1 other monster from your Graveyard into the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12940613.jpg"

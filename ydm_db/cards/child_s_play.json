@@ -1,8 +1,8 @@
 {
   "id": 12021072,
   "name": "Child\u0027s Play",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time your opponent Summons a monster(s), gain 300 LP. Your monsters cannot be destroyed by battle while you have 10,000 or more LP.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/12021072.jpg"

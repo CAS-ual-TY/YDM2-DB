@@ -1,8 +1,8 @@
 {
   "id": 98049915,
   "name": "Mystic Lamp",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster can attack your opponent\u0027s Life Points directly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98049915.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 70231910,
   "name": "Dark Core",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 card, then target 1 face-up monster on the field; banish that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70231910.jpg"

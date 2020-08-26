@@ -1,8 +1,8 @@
 {
   "id": 77568553,
   "name": "Acid Crawler",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A giant caterpillar that secretes an acid mist that melts anything.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77568553.jpg"

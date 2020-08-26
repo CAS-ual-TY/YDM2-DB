@@ -1,8 +1,8 @@
 {
   "id": 77036039,
   "name": "Assault Mercenary",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can return 1 \"Assault Mode Activate\" from your hand or Graveyard to the Deck to destroy 1 Spell or Trap Card your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77036039.jpg"

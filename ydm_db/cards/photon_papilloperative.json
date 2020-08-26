@@ -1,8 +1,8 @@
 {
   "id": 28150174,
   "name": "Photon Papilloperative",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Defense Position monster on the field; change it to face-up Attack Position, and if you do, it loses 600 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28150174.jpg"

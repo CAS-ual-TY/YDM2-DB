@@ -1,8 +1,8 @@
 {
   "id": 41113025,
   "name": "Diskblade Rider",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can target 1 Normal Trap Card in your Graveyard; banish that target, and if you do, this card gains 500 ATK until the end of your opponent\u0027s turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41113025.jpg"

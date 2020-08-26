@@ -1,8 +1,8 @@
 {
   "id": 24019261,
   "name": "Emergency Assistance",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate during your Main Phase 2, to Special Summon 1 Level 4 monster from your Graveyard that was destroyed by a card effect and sent to the Graveyard this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/24019261.jpg"

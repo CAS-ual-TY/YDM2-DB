@@ -1,8 +1,8 @@
 {
   "id": 75198893,
   "name": "Scanner",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can select 1 of your opponent\u0027s monsters that is removed from play. Until the End Phase, this card\u0027s name is treated as the selected monster\u0027s name, and this card has the same Attribute, Level, ATK, and DEF as the selected monster. If this card is removed from the field while this effect is applied, remove it from play.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/75198893.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 53927679,
   "name": "Fire Trooper",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is Summoned, you can send it to the Graveyard to inflict 1000 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53927679.jpg"

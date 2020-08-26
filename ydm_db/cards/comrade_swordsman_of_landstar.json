@@ -1,8 +1,8 @@
 {
   "id": 83602069,
   "name": "Comrade Swordsman of Landstar",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "All Warrior-Type monsters you control gain 400 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83602069.jpg"

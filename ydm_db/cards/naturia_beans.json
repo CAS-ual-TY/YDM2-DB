@@ -1,8 +1,8 @@
 {
   "id": 44789585,
   "name": "Naturia Beans",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, this card cannot be destroyed by battle. When this face-up card is selected as an attack target, inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/44789585.jpg"

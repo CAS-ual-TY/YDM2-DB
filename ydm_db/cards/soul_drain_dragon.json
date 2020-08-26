@@ -1,8 +1,8 @@
 {
   "id": 55735315,
   "name": "Soul Drain Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a Dragon-Type Xyz Monster\u0027s effect in your possession, and cannot be Special Summoned by other ways. When Special Summoned, if your Life Points are lower than your opponent\u0027s: This card gains ATK equal to your current Life Point deficit, and if it does, your opponent takes no further damage this turn. This card cannot attack your opponent directly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55735315.jpg"

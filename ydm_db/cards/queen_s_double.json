@@ -1,8 +1,8 @@
 {
   "id": 5901497,
   "name": "Queen\u0027s Double",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster may attack your opponent\u0027s Life Points directly.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5901497.jpg"

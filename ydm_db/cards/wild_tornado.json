@@ -1,8 +1,8 @@
 {
   "id": 47766694,
   "name": "Wild Tornado",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up card in the Spell \u0026 Trap Zone; destroy that face-up card, then, its controller can Set 1 Spell/Trap from their hand. If this Set card is destroyed and sent to the GY: Target 1 face-up card on the field; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47766694.jpg"

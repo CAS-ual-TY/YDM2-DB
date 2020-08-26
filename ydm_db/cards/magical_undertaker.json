@@ -1,8 +1,8 @@
 {
   "id": 30608985,
   "name": "Magical Undertaker",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30608985.jpg"

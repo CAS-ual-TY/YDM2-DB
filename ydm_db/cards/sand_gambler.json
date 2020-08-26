@@ -1,8 +1,8 @@
 {
   "id": 50593156,
   "name": "Sand Gambler",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Toss a coin 3 times. If all 3 results are Heads, destroy all monsters on your opponent\u0027s side of the field. If all 3 results are Tails, destroy all monsters on your side of the field. You can only activate this effect once per turn, during your Main Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50593156.jpg"

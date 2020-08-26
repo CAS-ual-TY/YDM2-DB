@@ -1,8 +1,8 @@
 {
   "id": 73988674,
   "name": "Tri-and-Guess",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If each player has an Extra Deck: Declare 1 Extra Deck monster card type (Fusion, Synchro, or Xyz); both players reveal their Extra Deck, and the player who has more cards of the declared card type gains 3000 Life Points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73988674.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 89609515,
   "name": "Laval Phlogis",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is sent to the Graveyard: All \"Laval\" monsters you currently control gain 300 ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89609515.jpg"

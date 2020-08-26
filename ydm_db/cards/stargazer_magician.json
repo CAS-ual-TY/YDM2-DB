@@ -1,8 +1,8 @@
 {
   "id": 94415058,
   "name": "Stargazer Magician",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, when exactly 1 other Pendulum Monster you control (and no other cards) is returned to your hand by an opponent\u0027s card effect (except during the Damage Step): You can Special Summon 1 monster from your hand with the same name as that returned to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94415058.jpg"

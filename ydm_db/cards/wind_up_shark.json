@@ -1,8 +1,8 @@
 {
   "id": 25484449,
   "name": "Wind-Up Shark",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a \"Wind-Up\" monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. Once per turn: You can activate 1 of these effects.\n? Increase this card\u0027s Level by 1, until the End Phase.\n? Reduce this card\u0027s Level by 1, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25484449.jpg"

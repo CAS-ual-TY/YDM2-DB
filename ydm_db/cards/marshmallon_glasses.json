@@ -1,8 +1,8 @@
 {
   "id": 66865880,
   "name": "Marshmallon Glasses",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "While \"Marshmallon\" is in your Monster Zone, your opponent cannot target monsters other than \"Marshmallon\" for attacks.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66865880.jpg"

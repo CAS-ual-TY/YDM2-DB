@@ -1,8 +1,8 @@
 {
   "id": 88190790,
   "name": "Assault Armor",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to a Warrior-Type monster that is the only monster you control. It gains 300 ATK. During your Main Phase 1, you can send this equipped card to the Graveyard to allow the equipped monster to attack twice during each Battle Phase this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88190790.jpg"

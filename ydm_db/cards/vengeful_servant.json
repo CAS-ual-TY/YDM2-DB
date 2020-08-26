@@ -1,8 +1,8 @@
 {
   "id": 21702241,
   "name": "Vengeful Servant",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When control of the equipped monster changes, inflict damage equal to its original ATK to its new controller.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21702241.jpg"

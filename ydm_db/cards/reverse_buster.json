@@ -1,8 +1,8 @@
 {
   "id": 90640901,
   "name": "Reverse Buster",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/90640901.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 98380593,
   "name": "Supremacy Berry",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If your Life Points were lower than your opponent\u0027s when this card was activated, gain 2000 Life Points. If your Life Points were higher than your opponent\u0027s, you take 1000 damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98380593.jpg"

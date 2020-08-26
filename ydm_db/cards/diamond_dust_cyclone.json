@@ -1,8 +1,8 @@
 {
   "id": 19980975,
   "name": "Diamond-Dust Cyclone",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 monster with 4 or more Fog Counters. Destroy it and then draw 1 card for every 4 Fog Counters that were on it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19980975.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 39507162,
   "name": "Blade Knight",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39507162.jpg"

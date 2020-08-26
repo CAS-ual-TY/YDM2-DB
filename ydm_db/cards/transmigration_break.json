@@ -1,8 +1,8 @@
 {
   "id": 66100045,
   "name": "Transmigration Break",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Any cards that would be returned to the Deck from the Graveyard are removed from play instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/66100045.jpg"

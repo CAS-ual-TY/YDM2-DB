@@ -1,8 +1,8 @@
 {
   "id": 85519211,
   "name": "Minefield Eruption",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Inflict 1000 damage to your opponent for each face-up \"Mine Golem\" on your side of the field. After that, destroy all face-up \"Mine Golem\"(s) on your side of the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85519211.jpg"

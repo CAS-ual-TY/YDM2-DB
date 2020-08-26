@@ -1,8 +1,8 @@
 {
   "id": 54936498,
   "name": "Influence Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can target 1 face-up monster you control; it becomes Dragon-Type until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/54936498.jpg"

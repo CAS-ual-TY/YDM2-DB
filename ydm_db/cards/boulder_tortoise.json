@@ -1,8 +1,8 @@
 {
   "id": 9540040,
   "name": "Boulder Tortoise",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A stone turtle that is nearly indestructible.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9540040.jpg"

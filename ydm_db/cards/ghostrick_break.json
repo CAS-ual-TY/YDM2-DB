@@ -1,8 +1,8 @@
 {
   "id": 80802524,
   "name": "Ghostrick Break",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When exactly 1 face-up \"Ghostrick\" monster you control (and no other cards) is destroyed by battle or an opponent\u0027s card effect and sent to your Graveyard: Target 2 \"Ghostrick\" monsters in your Graveyard with different names from the destroyed monster; Special Summon them in face-down Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80802524.jpg"

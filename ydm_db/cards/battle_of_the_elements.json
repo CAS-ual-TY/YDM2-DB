@@ -1,8 +1,8 @@
 {
   "id": 60530944,
   "name": "Battle of the Elements",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only while all monsters on the field are face-up. Both players send monsters they control to the Graveyard so that they each control only 1 Attribute.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60530944.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 10992251,
   "name": "Gradius",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A high-performance jet fighter with power capsules for variable attack capabilities.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10992251.jpg"

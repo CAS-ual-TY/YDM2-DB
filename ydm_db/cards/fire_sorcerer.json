@@ -1,8 +1,8 @@
 {
   "id": 27132350,
   "name": "Fire Sorcerer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of damage to your opponent\u0027s Life Points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27132350.jpg"

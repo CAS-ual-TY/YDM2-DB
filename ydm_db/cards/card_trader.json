@@ -1,8 +1,8 @@
 {
   "id": 48712195,
   "name": "Card Trader",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48712195.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 49905576,
   "name": "Meltiel, Sage of the Sky",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time a Counter Trap Card is activated, immediately after it resolves, gain 1000 LP, and if you do, if \"The Sanctuary in the Sky\" is on the field, destroy 1 card your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49905576.jpg"

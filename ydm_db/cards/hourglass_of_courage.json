@@ -1,8 +1,8 @@
 {
   "id": 43530283,
   "name": "Hourglass of Courage",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is Normal or Flip Summoned, its original ATK and DEF are halved until the End Phase of your next turn. After that, the original ATK and DEF are doubled.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/43530283.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 38120068,
   "name": "Trade-In",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 Level 8 monster; draw 2 cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38120068.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 48276469,
   "name": "Chain Burst",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time a player activates a Trap Card, they take 1000 damage immediately after it resolves.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48276469.jpg"

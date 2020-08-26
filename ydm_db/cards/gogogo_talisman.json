@@ -1,8 +1,8 @@
 {
   "id": 63583431,
   "name": "Gogogo Talisman",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "While you control 2 or more \"Gogogo\" monsters, you take no effect damage. Once per turn, when an attack is declared involving a \"Gogogo\" monster you control: You can activate this effect; that monster you control cannot be destroyed by that battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63583431.jpg"

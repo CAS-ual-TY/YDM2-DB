@@ -1,8 +1,8 @@
 {
   "id": 58477767,
   "name": "Queen\u0027s Pawn",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only when an \"Amazoness\" monster you control destroys an opponent\u0027s monster by battle and sends it to the Graveyard. Special Summon 1 Level 4 or lower \"Amazoness\" monster from your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58477767.jpg"

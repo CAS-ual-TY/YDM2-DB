@@ -1,8 +1,8 @@
 {
   "id": 26257572,
   "name": "Corridor of Agony",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Monsters that were Special Summoned from the Main Deck cannot activate their effects, their effects are negated, and they cannot declare an attack, as long as they remain face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26257572.jpg"

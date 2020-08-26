@@ -1,8 +1,8 @@
 {
   "id": 2370081,
   "name": "Steel Shell",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A WATER monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2370081.jpg"

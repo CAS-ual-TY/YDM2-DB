@@ -1,8 +1,8 @@
 {
   "id": 50755,
   "name": "Magician\u0027s Circle",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a Spellcaster monster declares an attack: Each player Special Summons 1 Spellcaster monster with 2000 or less ATK from their Deck in Attack Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50755.jpg"

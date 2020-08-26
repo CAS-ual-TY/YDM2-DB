@@ -1,8 +1,8 @@
 {
   "id": 40830387,
   "name": "Ancient Gear Fist",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Equip only to an \"Ancient Gear\" monster. At the end of the Damage Step, if the equipped monster battled a monster and is still on the field: Destroy the monster it battled.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40830387.jpg"

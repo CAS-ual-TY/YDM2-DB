@@ -1,8 +1,8 @@
 {
   "id": 17722185,
   "name": "Invincibility Barrier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can banish 1 face-up Ritual, Fusion, Synchro, Xyz, Pendulum, or Link Monster you control; this turn, the effects of monsters with the same card type as that banished monster (Ritual, Fusion, Synchro, Xyz, Pendulum, or Link) are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17722185.jpg"

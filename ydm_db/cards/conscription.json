@@ -1,8 +1,8 @@
 {
   "id": 31000575,
   "name": "Conscription",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Excavate the top card of your opponent\u0027s Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your field. Otherwise, add that card to your opponent\u0027s hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31000575.jpg"

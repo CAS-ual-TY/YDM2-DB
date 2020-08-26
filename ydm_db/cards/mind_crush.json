@@ -1,8 +1,8 @@
 {
   "id": 15800838,
   "name": "Mind Crush",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Declare 1 card name; if that card is in your opponent\u0027s hand, they must discard all copies of it, otherwise you discard 1 random card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/15800838.jpg"

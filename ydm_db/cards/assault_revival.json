@@ -1,8 +1,8 @@
 {
   "id": 56252810,
   "name": "Assault Revival",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Remove from play 1 \"Assault Mode Activate\" from your Graveyard. Destroy all monsters you control and Special Summon 1 \"/Assault Mode\" monster from your Graveyard, ignoring its Summoning conditions. Its effect(s) is negated, and it cannot be Tributed. If it is removed from the field, remove it from play.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56252810.jpg"

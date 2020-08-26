@@ -1,8 +1,8 @@
 {
   "id": 27191436,
   "name": "Burst Return",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control a face-up \"Elemental HERO Burstinatrix\": Return all face-up \"Elemental HERO\" monsters on the field to the hand, except \"Elemental HERO Burstinatrix\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27191436.jpg"

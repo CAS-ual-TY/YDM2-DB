@@ -1,8 +1,8 @@
 {
   "id": 3429238,
   "name": "Drill Warrior",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Drill Synchron\" + 1 or more non-Tuner monsters\nOnce per turn, during your Main Phase 1: You can halve this card\u0027s ATK, and if you do, it can attack your opponent directly this turn. Once per turn: You can discard 1 card, and if you do, banish this card. During your next Standby Phase: Special Summon this card banished by this effect, then add 1 monster from your Graveyard to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3429238.jpg"

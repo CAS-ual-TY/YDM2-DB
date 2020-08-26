@@ -1,8 +1,8 @@
 {
   "id": 77330185,
   "name": "XX-Saber Garsem",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 \"X-Saber\" monster from your Deck to your hand. This card gains 200 ATK for each face-up \"X-Saber\" monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77330185.jpg"

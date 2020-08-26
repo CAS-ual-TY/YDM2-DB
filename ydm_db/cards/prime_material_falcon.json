@@ -1,8 +1,8 @@
 {
   "id": 1287123,
   "name": "Prime Material Falcon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When an Effect Monster\u0027s effect to destroy a Spell or Trap Card(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1287123.jpg"

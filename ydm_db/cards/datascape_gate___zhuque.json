@@ -1,8 +1,8 @@
 {
   "id": 13364097,
   "name": "Datascape Gate - Zhuque",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can target 1 face-up card on the field; shuffle 2 of your banished \"Datascape\" cards with different names into the Deck, then destroy that target. During your Main Phase: You can banish this card from your GY, then target 1 \"Datascape\" monster you control; increase or reduce its Level/Rank by 3 until the end of this turn. You can only use each effect of \"Datascape Gate - Zhuque\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13364097.jpg"

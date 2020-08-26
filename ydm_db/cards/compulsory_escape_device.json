@@ -1,8 +1,8 @@
 {
   "id": 48216773,
   "name": "Compulsory Escape Device",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each player chooses 1 monster they control, then shuffles it into the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48216773.jpg"

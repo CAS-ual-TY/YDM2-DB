@@ -1,8 +1,8 @@
 {
   "id": 10755153,
   "name": "Guardian Ceal",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Summoned unless you control a face-up \"Shooting Star Bow - Ceal\". You can send 1 Equip Spell Card you control that is equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10755153.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 88616795,
   "name": "Spellbook of Wisdom",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Spellcaster monster on the field, then activate 1 of these effects;\n? That face-up monster is unaffected by other Spell effects this turn.\n? That face-up monster is unaffected by Trap effects this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88616795.jpg"

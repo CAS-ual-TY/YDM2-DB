@@ -1,8 +1,8 @@
 {
   "id": 55401221,
   "name": "Batteryman D",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Your opponent cannot select a Thunder-Type monster you control as an attack target (except \"Batteryman D\").",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55401221.jpg"

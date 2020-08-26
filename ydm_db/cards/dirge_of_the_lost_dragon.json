@@ -1,8 +1,8 @@
 {
   "id": 40971261,
   "name": "Dirge of the Lost Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate this card by declaring 1 card name. Each time the declared card, or its effect, is activated, halve its owner\u0027s LP immediately after it resolves. During the End Phase, if this card halved a player\u0027s LP this turn, send this card to the GY. While your opponent controls a monster, this card cannot be destroyed by card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40971261.jpg"

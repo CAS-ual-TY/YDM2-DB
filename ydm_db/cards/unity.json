@@ -1,8 +1,8 @@
 {
   "id": 14731897,
   "name": "Unity",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 monster on your side of the field. The DEF of the selected monster becomes equal to the combined original DEF of all face-up monsters on your side of the field, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14731897.jpg"

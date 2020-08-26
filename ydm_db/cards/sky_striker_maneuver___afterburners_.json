@@ -1,8 +1,8 @@
 {
   "id": 99550630,
   "name": "Sky Striker Maneuver - Afterburners!",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control no monsters in your Main Monster Zone: Target 1 face-up monster on the field; destroy it, then, if you have 3 or more Spells in your GY, you can destroy 1 Spell/Trap on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99550630.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 99745551,
   "name": "Danger!? Tsuchinoko?",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger!? Tsuchinoko?\", Special Summon 1 \"Danger!? Tsuchinoko?\" from your hand, and if you do, draw 1 card. If this card is discarded: You can Special Summon this card. You can only use this effect of \"Danger!? Tsuchinoko?\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99745551.jpg"

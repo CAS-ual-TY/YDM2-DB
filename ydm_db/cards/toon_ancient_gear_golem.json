@@ -1,8 +1,8 @@
 {
   "id": 7171149,
   "name": "Toon Ancient Gear Golem",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7171149.jpg"

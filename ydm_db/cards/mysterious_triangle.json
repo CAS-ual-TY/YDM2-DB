@@ -1,8 +1,8 @@
 {
   "id": 53291093,
   "name": "Mysterious Triangle",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Destroy 1 monster on the field with an A-Counter. Then, you can Special Summon 1 Level 4 \"Alien\" monster from your Deck. Destroy it during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53291093.jpg"

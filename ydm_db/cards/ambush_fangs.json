@@ -1,8 +1,8 @@
 {
   "id": 77972406,
   "name": "Ambush Fangs",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only when a face-up \"Venom\" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/77972406.jpg"

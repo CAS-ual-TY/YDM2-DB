@@ -1,8 +1,8 @@
 {
   "id": 27408609,
   "name": "Golden Homunculus",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card gains 300 ATK and DEF for each of your banished cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27408609.jpg"

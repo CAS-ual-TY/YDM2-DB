@@ -1,8 +1,8 @@
 {
   "id": 14568951,
   "name": "Blue Dragon Ninja",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, during either player\u0027s turn: You can discard 1 \"Ninja\" monster and 1 \"Ninjitsu Art\" card to target 1 face-up monster your opponent controls; this turn, that monster\u0027s effects are negated, also that monster cannot attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14568951.jpg"

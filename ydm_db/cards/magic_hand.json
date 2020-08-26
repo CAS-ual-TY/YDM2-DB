@@ -1,8 +1,8 @@
 {
   "id": 22530212,
   "name": "Magic Hand",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent adds a card(s) from their Deck to their hand, except by drawing them (except during the Damage Step): You can send that card(s) to the Graveyard, and if you do, inflict 800 damage to your opponent. This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22530212.jpg"

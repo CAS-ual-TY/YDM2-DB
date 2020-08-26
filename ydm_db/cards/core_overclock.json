@@ -1,8 +1,8 @@
 {
   "id": 36560997,
   "name": "Core Overclock",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "All face-up \"Koa\u0027ki Meiru\" monsters you control gain 500 ATK. Once per turn, during your Main Phase, you can discard 1 \"Iron Core of Koa\u0027ki Meiru\" to have all face-up \"Koa\u0027ki Meiru\" monsters you control gain 1000 ATK, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36560997.jpg"

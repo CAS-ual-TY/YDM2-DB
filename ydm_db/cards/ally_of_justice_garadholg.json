@@ -1,8 +1,8 @@
 {
   "id": 25771826,
   "name": "Ally of Justice Garadholg",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card battles a LIGHT monster, it gains 200 ATK during the Damage Step only.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25771826.jpg"

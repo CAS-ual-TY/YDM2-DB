@@ -1,8 +1,8 @@
 {
   "id": 95642274,
   "name": "The Humble Sentry",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Reveal your hand, choose 1 card, and shuffle it into the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95642274.jpg"

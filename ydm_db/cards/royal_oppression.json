@@ -1,8 +1,8 @@
 {
   "id": 93016201,
   "name": "Royal Oppression",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93016201.jpg"

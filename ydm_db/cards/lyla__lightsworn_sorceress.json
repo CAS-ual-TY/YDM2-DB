@@ -1,8 +1,8 @@
 {
   "id": 22624373,
   "name": "Lyla, Lightsworn Sorceress",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can target 1 Spell/Trap your opponent controls; this card\u0027s battle position cannot be changed until the end of your next turn, also change this card you control from face-up Attack Position to face-up Defense Position, and if you do, destroy that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22624373.jpg"

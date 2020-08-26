@@ -1,8 +1,8 @@
 {
   "id": 17490535,
   "name": "Alien Brain",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a Reptile-Type monster you control is destroyed by battle with an opponent\u0027s attacking monster and sent to the Graveyard: Take control of the opponent\u0027s monster, and if you do, it becomes Reptile-Type.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17490535.jpg"

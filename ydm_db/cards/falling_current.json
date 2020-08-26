@@ -1,8 +1,8 @@
 {
   "id": 26099457,
   "name": "Falling Current",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up monster you control and declare a Level between 1 and 3; it becomes that Level.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26099457.jpg"

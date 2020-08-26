@@ -1,8 +1,8 @@
 {
   "id": 21250202,
   "name": "Odd-Eyes Persona Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn (Quick Effect): You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; it has its effects negated, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/21250202.jpg"

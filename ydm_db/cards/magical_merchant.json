@@ -1,8 +1,8 @@
 {
   "id": 32362575,
   "name": "Magical Merchant",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32362575.jpg"

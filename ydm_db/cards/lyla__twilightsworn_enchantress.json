@@ -1,8 +1,8 @@
 {
   "id": 10071151,
   "name": "Lyla, Twilightsworn Enchantress",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 face-up Spell/Trap on the field; destroy it. Once per turn, if your other \"Lightsworn\" monster\u0027s effect is activated: Send the top 3 cards of your Deck to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/10071151.jpg"

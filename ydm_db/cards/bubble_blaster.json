@@ -1,8 +1,8 @@
 {
   "id": 53586134,
   "name": "Bubble Blaster",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can only equip this card to \"Elemental Hero Bubbleman\". Increase the ATK of the equipped monster by 800 points. If the equipped monster would be destroyed as a result of battle, destroy this card instead, and make the Battle Damage to the controller of the equipped monster 0.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53586134.jpg"

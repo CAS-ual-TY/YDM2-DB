@@ -1,8 +1,8 @@
 {
   "id": 88928798,
   "name": "Guard Mines",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88928798.jpg"

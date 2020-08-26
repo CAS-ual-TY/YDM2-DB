@@ -1,8 +1,8 @@
 {
   "id": 47453433,
   "name": "Back to Square One",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 card, then target 1 monster on the field; place that target on the top of the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/47453433.jpg"

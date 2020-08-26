@@ -1,8 +1,8 @@
 {
   "id": 18960169,
   "name": "Goblin Decoy Squad",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card inflicts Battle Damage to your opponent, you can draw 1 card. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card\u0027s battle position cannot be changed until the end of your next turn, except with a card effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/18960169.jpg"

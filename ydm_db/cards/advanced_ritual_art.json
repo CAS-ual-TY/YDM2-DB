@@ -1,8 +1,8 @@
 {
   "id": 46052429,
   "name": "Advanced Ritual Art",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card is used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the GY whose total Levels equal the Level of that Ritual Monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/46052429.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 28002611,
   "name": "Gadget Hauler",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can send any number of \"Morphtronic\" monsters from your hand to the Graveyard to have this card gain 800 ATK for each.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28002611.jpg"

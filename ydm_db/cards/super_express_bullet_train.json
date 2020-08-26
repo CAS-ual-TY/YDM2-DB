@@ -1,8 +1,8 @@
 {
   "id": 52481437,
   "name": "Super Express Bullet Train",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot declare an attack unless you send 2 other cards you control to the GY. You can only use each of these effects of \"Super Express Bullet Train\" once per turn.\n? If all monsters you control are EARTH Machines (min. 1): You can Special Summon this card from your hand.\n? During the End Phase, if this card is in the GY because it was sent there this turn: You can target 1 Machine monster in your GY, except \"Super Express Bullet Train\"; add it to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52481437.jpg"

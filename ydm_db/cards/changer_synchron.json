@@ -1,8 +1,8 @@
 {
   "id": 25652655,
   "name": "Changer Synchron",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is sent to the Graveyard for a Synchro Summon, select 1 monster your opponent controls and change its battle position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25652655.jpg"

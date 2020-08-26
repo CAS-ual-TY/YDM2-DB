@@ -1,8 +1,8 @@
 {
   "id": 3603242,
   "name": "Shreddder",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can send 1 Machine-Type monster from your hand to the Graveyard, then target 1 monster your opponent controls with a Level less than or equal to the sent monster\u0027s; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3603242.jpg"

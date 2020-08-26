@@ -1,8 +1,8 @@
 {
   "id": 73787254,
   "name": "Saber Vault",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each face-up \"X-Saber\" monster on the field gains 100 ATK x its Level, and loses 100 DEF x its Level.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73787254.jpg"

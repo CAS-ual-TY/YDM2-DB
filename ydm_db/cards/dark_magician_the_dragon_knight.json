@@ -1,8 +1,8 @@
 {
   "id": 41721210,
   "name": "Dark Magician the Dragon Knight",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Dark Magician\" + 1 Dragon monster\nThis card\u0027s name becomes \"Dark Magician\" while on the field or in the GY. Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent\u0027s card effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/41721210.jpg"

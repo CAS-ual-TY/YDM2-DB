@@ -1,8 +1,8 @@
 {
   "id": 98585345,
   "name": "Winged Kuriboh LV10",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Transcendent Wings\". During your opponent\u0027s Battle Phase (Quick Effect): You can Tribute this face-up card; destroy as many Attack Position monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98585345.jpg"

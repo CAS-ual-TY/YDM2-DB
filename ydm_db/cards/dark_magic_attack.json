@@ -1,8 +1,8 @@
 {
   "id": 2314238,
   "name": "Dark Magic Attack",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control \"Dark Magician\": Destroy all Spells and Traps your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2314238.jpg"

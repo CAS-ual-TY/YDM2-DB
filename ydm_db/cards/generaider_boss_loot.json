@@ -1,8 +1,8 @@
 {
   "id": 1942635,
   "name": "Generaider Boss Loot",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "While you control a Token, your opponent\u0027s monsters cannot target \"Generaider\" Effect Monsters for attacks. If a \"Generaider\" Effect Monster is destroyed by battle: Your opponent draws 1 card. You can only use this effect of \"Generaider Boss Loot\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1942635.jpg"

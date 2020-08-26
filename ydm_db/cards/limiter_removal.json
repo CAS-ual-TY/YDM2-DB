@@ -1,8 +1,8 @@
 {
   "id": 23171610,
   "name": "Limiter Removal",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Double the ATK of all Machine monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23171610.jpg"

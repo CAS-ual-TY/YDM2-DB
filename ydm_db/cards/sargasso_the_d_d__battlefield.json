@@ -1,8 +1,8 @@
 {
   "id": 1127737,
   "name": "Sargasso the D.D. Battlefield",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time a monster is Xyz Summoned: The Summoning player takes 500 damage. During each player\u0027s End Phase, the turn player takes 500 damage if they control a face-up Xyz Monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/1127737.jpg"

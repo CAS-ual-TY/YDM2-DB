@@ -1,8 +1,8 @@
 {
   "id": 7540107,
   "name": "Gouki Guts",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This Defense Position card cannot be destroyed by battle. You can only use each of the following effects of \"Gouki Guts\" once per turn.\n? During your Main Phase: You can make all \"Gouki\" monsters you control gain 200 ATK.\n? If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Guts\".",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7540107.jpg"

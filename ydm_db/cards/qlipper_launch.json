@@ -1,8 +1,8 @@
 {
   "id": 30845999,
   "name": "Qlipper Launch",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Until the end of this turn, all Normal Summoned/Set \"Qli\" monsters currently on the field gain 300 ATK, but are unaffected by other Spell/Trap effects, also their effects are negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30845999.jpg"

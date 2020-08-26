@@ -1,8 +1,8 @@
 {
   "id": 62279055,
   "name": "Magic Cylinder",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When an opponent\u0027s monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62279055.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 91665064,
   "name": "Security Block",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Cyberse monster on the field; this turn, neither player takes battle damage, also that monster cannot be destroyed by battle.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91665064.jpg"

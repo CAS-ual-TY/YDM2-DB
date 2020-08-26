@@ -1,8 +1,8 @@
 {
   "id": 34149830,
   "name": "Desperate Tag",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If a face-up Attack Position monster you control is destroyed by battle, during damage calculation, you can reduce the Battle Damage from this battle to 0 and Special Summon 1 Level 4 or lower Warrior-Type monster from your hand at the end of the Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34149830.jpg"

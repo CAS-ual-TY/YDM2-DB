@@ -1,8 +1,8 @@
 {
   "id": 91862578,
   "name": "Enraged Muka Muka",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card gains 400 ATK and DEF for each card in your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/91862578.jpg"

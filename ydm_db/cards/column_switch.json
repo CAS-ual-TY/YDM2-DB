@@ -1,8 +1,8 @@
 {
   "id": 37480144,
   "name": "Column Switch",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 monster in your Main Monster Zone; move that target to another of your Main Monster Zones.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37480144.jpg"

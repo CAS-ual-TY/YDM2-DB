@@ -1,8 +1,8 @@
 {
   "id": 62023839,
   "name": "Fishborg Archer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is in your Graveyard and you control no monsters during either of your Main Phases: You can discard 1 WATER monster; Special Summon this card from your Graveyard, but destroy all monsters you control at the beginning of this turn\u0027s Battle Phase, except for WATER monsters. You can only use the effect of \"Fishborg Archer\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/62023839.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 5556499,
   "name": "Machina Fortress",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can discard Machine monster(s) whose total Levels equal 8 or more, then Special Summon this card (from your hand or GY). If this card is destroyed by battle and sent to the GY: Target 1 card your opponent controls; destroy that target. Before resolving an opponent\u0027s monster effect that targets this face-up card, look at your opponent\u0027s hand and discard 1 card from their hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/5556499.jpg"

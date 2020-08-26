@@ -1,8 +1,8 @@
 {
   "id": 63102017,
   "name": "Stop Defense",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 Defense Position monster on your opponent\u0027s side of the field and change it to Attack Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/63102017.jpg"

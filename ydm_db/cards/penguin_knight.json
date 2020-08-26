@@ -1,8 +1,8 @@
 {
   "id": 36039163,
   "name": "Penguin Knight",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/36039163.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 50621530,
   "name": "Powered Tuner",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card gains 500 ATK for each face-up Tuner monster on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50621530.jpg"

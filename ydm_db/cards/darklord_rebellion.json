@@ -1,8 +1,8 @@
 {
   "id": 50501121,
   "name": "Darklord Rebellion",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the Graveyard; destroy 1 card on the field. You can only activate 1 \"Darklord Rebellion\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/50501121.jpg"

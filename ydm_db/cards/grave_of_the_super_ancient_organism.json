@@ -1,8 +1,8 @@
 {
   "id": 83266092,
   "name": "Grave of the Super Ancient Organism",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "All Level 6 or higher Special Summoned monsters on the field cannot declare attacks or activate their effects.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83266092.jpg"

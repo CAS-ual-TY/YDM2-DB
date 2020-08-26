@@ -1,8 +1,8 @@
 {
   "id": 97783659,
   "name": "Blood Sucker",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97783659.jpg"

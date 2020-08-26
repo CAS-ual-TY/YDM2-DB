@@ -1,8 +1,8 @@
 {
   "id": 34822850,
   "name": "Void Expansion",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "During your Standby Phase: You can Special Summon 1 \"Infernoid Token\" (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). To Special Summon an \"Infernoid\" monster using its own procedure, you can banish \"Infernoid\" monster(s) you control instead of those in the Graveyard (or any combination of both). Your opponent cannot target \"Infernoid\" monsters you control for attacks or with card effects, except the \"Infernoid\" monster you control with the highest Level (either, if tied).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/34822850.jpg"

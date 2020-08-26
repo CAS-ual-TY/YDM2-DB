@@ -1,8 +1,8 @@
 {
   "id": 87526784,
   "name": "Crashbug X",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 \"Crashbug Z\" from your Deck. You must control a face-up \"Crashbug Y\" to activate and to resolve this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/87526784.jpg"

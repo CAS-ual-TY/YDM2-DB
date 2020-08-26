@@ -1,8 +1,8 @@
 {
   "id": 80186010,
   "name": "Destroyersaurus",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can discard this card to the Graveyard; add 1 \"Jurassic World\" from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80186010.jpg"

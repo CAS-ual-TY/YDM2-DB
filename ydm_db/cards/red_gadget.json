@@ -1,8 +1,8 @@
 {
   "id": 86445415,
   "name": "Red Gadget",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card is Normal or Special Summoned: You can add 1 \"Yellow Gadget\" from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86445415.jpg"

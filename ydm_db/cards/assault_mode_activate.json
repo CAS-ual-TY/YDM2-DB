@@ -1,8 +1,8 @@
 {
   "id": 80280737,
   "name": "Assault Mode Activate",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster, whose name includes the Tributed monster\u0027s name, from your Deck in Attack Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80280737.jpg"

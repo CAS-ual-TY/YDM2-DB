@@ -1,8 +1,8 @@
 {
   "id": 20188127,
   "name": "Fairy of the Spring",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Equip Spell Card in your Graveyard; add that target to your hand. That Equip Spell Card cannot be activated this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20188127.jpg"

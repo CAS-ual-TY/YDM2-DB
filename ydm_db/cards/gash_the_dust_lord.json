@@ -1,8 +1,8 @@
 {
   "id": 19012345,
   "name": "Gash the Dust Lord",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card inflicts battle damage to your opponent: Increase the Level of this card by 1 (max. 12).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19012345.jpg"

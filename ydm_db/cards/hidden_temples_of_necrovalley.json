@@ -1,8 +1,8 @@
 {
   "id": 70000776,
   "name": "Hidden Temples of Necrovalley",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only if both a \"Gravekeeper\u0027s\" monster and \"Necrovalley\" are on the field. Neither player can Special Summon monsters, except \"Gravekeeper\u0027s\" monsters. If either a \"Gravekeeper\u0027s\" monster or \"Necrovalley\" is not on the field, destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70000776.jpg"

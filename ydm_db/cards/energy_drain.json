@@ -1,8 +1,8 @@
 {
   "id": 56916805,
   "name": "Energy Drain",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 face-up monster you control; it gains 200 ATK/DEF for each card your opponent currently has in their hand, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56916805.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 26638543,
   "name": "Metrognome",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "While you have 2 cards in your Pendulum Zones with the same Pendulum Scale, this card gains ATK and DEF equal to the Pendulum Scale x 100, and can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Destroy all cards in the Pendulum Zones.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26638543.jpg"

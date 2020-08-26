@@ -1,8 +1,8 @@
 {
   "id": 73879377,
   "name": "Armed Dragon LV7",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster\u0027s ATK.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/73879377.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 39892082,
   "name": "Balloon Lizard",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Put 1 counter on this card during each of your Standby Phases. When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters X 400 points.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/39892082.jpg"

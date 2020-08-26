@@ -1,8 +1,8 @@
 {
   "id": 76774528,
   "name": "Scrap Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can target 1 card you control and 1 card your opponent controls; destroy them. When this card in your possession is destroyed by your opponent\u0027s card and sent to your GY: Target 1 non-Synchro \"Scrap\" monster in your GY; Special Summon that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/76774528.jpg"

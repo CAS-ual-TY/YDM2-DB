@@ -1,8 +1,8 @@
 {
   "id": 89571015,
   "name": "Storm Cipher",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot attack directly, or attack monsters in the Extra Monster Zone. Unaffected by monster effects activated in the Extra Monster Zone. Cannot be destroyed by battle with monsters in the Extra Monster Zone.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/89571015.jpg"

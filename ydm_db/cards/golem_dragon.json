@@ -1,8 +1,8 @@
 {
   "id": 9666558,
   "name": "Golem Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Your opponent cannot target face-up Dragon-Type monsters for attacks, except this one.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9666558.jpg"

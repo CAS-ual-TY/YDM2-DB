@@ -1,8 +1,8 @@
 {
   "id": 6602300,
   "name": "Blaze Fenix, the Burning Bombardment Bird",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Machine-Type monster + 1 Pyro-Type monster\nOnce per turn, during your Main Phase: You can inflict 300 damage to your opponent for each card on the field. This card cannot attack during the turn you activate this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6602300.jpg"

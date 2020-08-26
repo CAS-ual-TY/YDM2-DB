@@ -1,8 +1,8 @@
 {
   "id": 19974580,
   "name": "Iron Chain Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nYou can remove from play all \"Iron Chain\" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent\u0027s Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/19974580.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 45871897,
   "name": "Lost Guardian",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The original DEF of this card equals the number of your banished Rock-Type monsters × 700.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45871897.jpg"

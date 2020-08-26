@@ -1,8 +1,8 @@
 {
   "id": 67169062,
   "name": "Pot of Avarice",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67169062.jpg"

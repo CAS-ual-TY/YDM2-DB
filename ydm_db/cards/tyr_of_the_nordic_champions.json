@@ -1,8 +1,8 @@
 {
   "id": 2333365,
   "name": "Tyr of the Nordic Champions",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Your opponent\u0027s monsters cannot target \"Nordic\" monsters for attacks, except \"Tyr of the Nordic Champions\". If there is no other \"Nordic\" monster on the field, destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/2333365.jpg"

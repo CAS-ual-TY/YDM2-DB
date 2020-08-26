@@ -1,8 +1,8 @@
 {
   "id": 31615285,
   "name": "Cactus Bouncer",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Special Summoned. While another Plant monster is on the field, neither player can Special Summon monsters.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/31615285.jpg"

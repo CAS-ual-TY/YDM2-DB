@@ -1,8 +1,8 @@
 {
   "id": 79418153,
   "name": "Lancer Archfiend",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, when your monster declares an attack on your opponent\u0027s Defense Position monster: You can activate this effect; during that battle, if that monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/79418153.jpg"

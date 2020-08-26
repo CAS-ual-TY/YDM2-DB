@@ -1,8 +1,8 @@
 {
   "id": 83678433,
   "name": "Midnight Fiend",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster only appears when a midnight tribute is made.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/83678433.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 40279770,
   "name": "Black Feather Beacon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only when you take damage from a card effect. Special Summon 1 Level 4 or lower \"Blackwing\" monster from your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40279770.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 52833089,
   "name": "Black Thunder",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only when a \"Blackwing\" monster you control is destroyed by battle and sent to the Graveyard. Inflict 400 damage to your opponent for each card your opponent controls.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/52833089.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 94079037,
   "name": "Mine Mole",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, this card cannot be destroyed by battle. If this card is sent to the Graveyard as a Synchro Material Monster of a Beast-Type monster, draw 1 card. If this card is removed from the field by your opponent\u0027s card effect, remove this card from play.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/94079037.jpg"

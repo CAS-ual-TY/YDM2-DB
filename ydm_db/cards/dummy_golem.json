@@ -1,8 +1,8 @@
 {
   "id": 13532663,
   "name": "Dummy Golem",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Your opponent selects 1 monster they control. Switch control of the selected monster and this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13532663.jpg"

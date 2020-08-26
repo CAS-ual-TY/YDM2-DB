@@ -1,8 +1,8 @@
 {
   "id": 42548470,
   "name": "Weights \u0026 Zenmaisures",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 2 face-up \"Wind-Up\" monsters you control with different Levels; your opponent chooses 1 of them, and the Level of the other monster becomes the same as the chosen monster\u0027s, until the End Phase. Then, if your opponent chose the monster with a lower Level, you can draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42548470.jpg"

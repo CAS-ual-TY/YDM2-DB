@@ -1,8 +1,8 @@
 {
   "id": 80234301,
   "name": "Prisman",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This crystalline monster focuses light to create a lethal laser.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80234301.jpg"

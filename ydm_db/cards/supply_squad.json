@@ -1,8 +1,8 @@
 {
   "id": 17626381,
   "name": "Supply Squad",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/17626381.jpg"

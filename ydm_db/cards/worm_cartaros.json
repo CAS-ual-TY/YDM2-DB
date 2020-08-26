@@ -1,8 +1,8 @@
 {
   "id": 51043243,
   "name": "Worm Cartaros",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Add 1 Level 4 or lower Reptile-Type \"Worm\" monster from your Deck to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51043243.jpg"

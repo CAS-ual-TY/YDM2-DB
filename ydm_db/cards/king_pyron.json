@@ -1,8 +1,8 @@
 {
   "id": 20438745,
   "name": "King Pyron",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n? Once per turn, you can inflict 1000 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20438745.jpg"

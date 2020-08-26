@@ -1,8 +1,8 @@
 {
   "id": 78734254,
   "name": "Neo-Spacian Marine Dolphin",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card\u0027s name is also treated as \"Neo-Spacian Aqua Dolphin\". This card cannot be Special Summoned except with \"NEX\". Once per turn, you can discard 1 card to look at your opponent\u0027s hand and select 1 Monster Card in it. If you control a monster with ATK greater than or equal to the selected monster\u0027s, destroy the selected monster and inflict 500 damage to your opponent.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/78734254.jpg"

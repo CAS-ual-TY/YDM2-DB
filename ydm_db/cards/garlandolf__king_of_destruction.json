@@ -1,8 +1,8 @@
 {
   "id": 30646525,
   "name": "Garlandolf, King of Destruction",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Ritual of Destruction\". When this card is Ritual Summoned, destroy all other face-up monsters on the field with DEF less than or equal to this card\u0027s ATK. This card gains 100 ATK for each monster destroyed by this effect.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30646525.jpg"

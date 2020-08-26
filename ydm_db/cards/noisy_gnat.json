@@ -1,8 +1,8 @@
 {
   "id": 45620686,
   "name": "Noisy Gnat",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can send this card from your hand to the Graveyard to target 1 face-up monster on the field; increase that target\u0027s Level by 1, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/45620686.jpg"

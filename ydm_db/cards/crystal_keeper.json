@@ -1,8 +1,8 @@
 {
   "id": 14469229,
   "name": "Crystal Keeper",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If a \"Crystal Beast\" monster you control battles an opponent\u0027s monster, during damage calculation (Quick Effect): You can Tribute this card from your hand or face-up from your field; your battling monster\u0027s ATK/DEF become double its original ATK/DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/14469229.jpg"

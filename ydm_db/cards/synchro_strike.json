@@ -1,8 +1,8 @@
 {
   "id": 30123142,
   "name": "Synchro Strike",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target Synchro Summoned monster gains 500 ATK for each Synchro Material Monster used to Summon it, until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30123142.jpg"

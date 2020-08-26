@@ -1,8 +1,8 @@
 {
   "id": 22201234,
   "name": "Lightsworn Barrier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a \"Lightsworn\" monster you control is targeted for an attack: You can send the top 2 cards of your Deck to the Graveyard, then target the attacking monster; negate the attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/22201234.jpg"

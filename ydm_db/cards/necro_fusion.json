@@ -1,8 +1,8 @@
 {
   "id": 81223446,
   "name": "Necro Fusion",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY face-down, but it cannot attack this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/81223446.jpg"

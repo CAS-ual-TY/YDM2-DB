@@ -1,8 +1,8 @@
 {
   "id": 59811955,
   "name": "Ancient Gear Workshop",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 \"Ancient Gear\" monster in your Graveyard; add that target to your hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/59811955.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 71098407,
   "name": "Memory Loss",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a face-up Attack Position monster your opponent controls just activated an effect (except during the Damage Step): Negate that effect, and if you do, change that monster to face-up Defense Position.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/71098407.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 38053381,
   "name": "Generaider Boss Stage",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, if a card(s) is added from the Main Deck to your opponent\u0027s hand (except during the Damage Step): You can Special Summon 1 \"Generaider\" monster from your Deck in Defense Position. If you Special Summon a \"Generaider\" monster(s) during your opponent\u0027s turn (except during the Damage Step): You can Special Summon as many \"Generaider Tokens\" (Fairy/LIGHT/Level 4/ATK 1500/DEF 1500) as possible in Attack Position, but destroy them during the End Phase (even if this card leaves the field). You can only use this effect of \"Generaider Boss Stage\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38053381.jpg"

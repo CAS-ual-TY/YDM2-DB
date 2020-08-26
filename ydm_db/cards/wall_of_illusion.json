@@ -1,8 +1,8 @@
 {
   "id": 13945283,
   "name": "Wall of Illusion",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/13945283.jpg"

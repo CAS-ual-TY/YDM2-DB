@@ -1,8 +1,8 @@
 {
   "id": 84970821,
   "name": "Curse of Darkness",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Each time a Spell Card is activated, immediately after it resolves, the player that activated it takes 1000 damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/84970821.jpg"

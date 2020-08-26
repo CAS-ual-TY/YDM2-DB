@@ -1,8 +1,8 @@
 {
   "id": 85636437,
   "name": "Edge of the Ring",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If your LP is lower than your opponent\u0027s: Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half of the original ATK of that monster, also, for the rest of this turn after this card resolves, your opponent takes no damage.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/85636437.jpg"

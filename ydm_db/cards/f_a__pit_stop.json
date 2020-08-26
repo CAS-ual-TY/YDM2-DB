@@ -1,8 +1,8 @@
 {
   "id": 38532954,
   "name": "F.A. Pit Stop",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 \"F.A.\" monster you control; reduce its Level by 2, and if you do, draw cards equal to the number of \"F.A. Pit Stop\" in your GY +1. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"F.A.\" monster in your GY; Special Summon it. You can only use each effect of \"F.A. Pit Stop\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/38532954.jpg"

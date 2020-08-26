@@ -1,8 +1,8 @@
 {
   "id": 16751086,
   "name": "Warm Worm",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is destroyed, send the top 3 cards of your opponent\u0027s Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/16751086.jpg"

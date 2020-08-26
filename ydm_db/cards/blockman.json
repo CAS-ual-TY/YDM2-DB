@@ -1,8 +1,8 @@
 {
   "id": 48115277,
   "name": "Blockman",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can Tribute this card; Special Summon in Defense Position, a number of \"Block Tokens\" (Rock-Type/EARTH/Level 4/ATK 1000/DEF 1500) equal to the number of your turns this card has been face-up on your field. These Tokens cannot declare an attack.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/48115277.jpg"

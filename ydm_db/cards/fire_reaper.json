@@ -1,8 +1,8 @@
 {
   "id": 53581214,
   "name": "Fire Reaper",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A reaper with a flaming arrow that burns an enemy to a crisp.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/53581214.jpg"

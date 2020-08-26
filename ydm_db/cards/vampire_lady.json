@@ -1,8 +1,8 @@
 {
   "id": 26495087,
   "name": "Vampire Lady",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When this card inflicts battle damage to your opponent: Declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/26495087.jpg"

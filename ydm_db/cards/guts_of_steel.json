@@ -1,8 +1,8 @@
 {
   "id": 33970665,
   "name": "Guts of Steel",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 3 \"Scrap\" monsters in your Graveyard. Your opponent picks 1 of them, you Special Summon it to either player\u0027s side of the field, and remove the rest from play.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/33970665.jpg"

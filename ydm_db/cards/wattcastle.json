@@ -1,8 +1,8 @@
 {
   "id": 58924378,
   "name": "Wattcastle",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Any monster that attacks a \"Watt\" monster loses 1000 ATK after damage calculation.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58924378.jpg"

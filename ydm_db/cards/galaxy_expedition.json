@@ -1,8 +1,8 @@
 {
   "id": 60222582,
   "name": "Galaxy Expedition",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If you control a Level 5 or higher \"Photon\" or \"Galaxy\" monster: Special Summon 1 Level 5 or higher \"Photon\" or \"Galaxy\" monster from your Deck in Defense Position. You can only activate 1 \"Galaxy Expedition\" per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/60222582.jpg"

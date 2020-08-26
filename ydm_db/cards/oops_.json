@@ -1,8 +1,8 @@
 {
   "id": 55573346,
   "name": "Oops!",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 card you control; destroy it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55573346.jpg"

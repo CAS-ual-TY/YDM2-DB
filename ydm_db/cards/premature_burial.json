@@ -1,8 +1,8 @@
 {
   "id": 70828912,
   "name": "Premature Burial",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70828912.jpg"

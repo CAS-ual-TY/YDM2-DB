@@ -1,8 +1,8 @@
 {
   "id": 72076281,
   "name": "Bat",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A mechanical bat that drops blasts from its wings.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72076281.jpg"

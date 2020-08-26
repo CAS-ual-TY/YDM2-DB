@@ -1,8 +1,8 @@
 {
   "id": 51534754,
   "name": "Yomi Ship",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51534754.jpg"

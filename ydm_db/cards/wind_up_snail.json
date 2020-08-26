@@ -1,8 +1,8 @@
 {
   "id": 58475908,
   "name": "Wind-Up Snail",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "During your Main Phase: You can target 1 Set card on the field; return that target to the hand. This effect can be used only once while this card is face-up on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58475908.jpg"

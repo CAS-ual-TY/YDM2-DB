@@ -1,8 +1,8 @@
 {
   "id": 549481,
   "name": "Prevent Rat",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This creature is shielded with a tough hide of hair and is excellent at defending itself.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/549481.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 67371383,
   "name": "Amphibian Beast",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "On land or in the sea, the speed of this monster is unmatchable.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67371383.jpg"

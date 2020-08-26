@@ -1,8 +1,8 @@
 {
   "id": 30585393,
   "name": "Puzzle Reborn",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If exactly 1 monster you control (and no other cards) is destroyed by a card effect: Target that monster; Special Summon that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/30585393.jpg"

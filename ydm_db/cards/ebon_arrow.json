@@ -1,8 +1,8 @@
 {
   "id": 88341502,
   "name": "Ebon Arrow",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 face-up monster you control. Until the End Phase, it loses 500 ATK and during battle between that attacking monster and a Defense Position monster whose DEF is lower than the selected monster\u0027s ATK, inflict the difference as Battle Damage to your opponent. When the selected monster destroys a monster by battle and sends it to the Graveyard this turn, inflict damage to your opponent equal to the destroyed monster\u0027s original DEF.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/88341502.jpg"

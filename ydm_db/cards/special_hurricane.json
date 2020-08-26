@@ -1,8 +1,8 @@
 {
   "id": 42598242,
   "name": "Special Hurricane",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Discard 1 card from your hand. Destroy all Special Summoned monsters on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42598242.jpg"

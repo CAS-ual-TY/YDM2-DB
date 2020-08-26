@@ -1,8 +1,8 @@
 {
   "id": 7811875,
   "name": "Gravity Collapse",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate by sending 1 face-up Synchro Monster you control to the Graveyard when your opponent Summons a monster. Negate the Summon and destroy that card. Your opponent cannot Summon a monster until the End Phase of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/7811875.jpg"

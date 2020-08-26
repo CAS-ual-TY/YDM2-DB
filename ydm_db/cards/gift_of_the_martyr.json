@@ -1,8 +1,8 @@
 {
   "id": 98792570,
   "name": "Gift of the Martyr",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Send 1 monster on your side of the field to the Graveyard. Select 1 monster on your side of the field. The selected monster gains ATK equal to the ATK of the sent monster until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/98792570.jpg"

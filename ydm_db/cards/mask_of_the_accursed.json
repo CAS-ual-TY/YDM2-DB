@@ -1,8 +1,8 @@
 {
   "id": 56948373,
   "name": "Mask of the Accursed",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The equipped monster cannot attack. Once per turn, during your Standby Phase: Inflict 500 damage to the controller of the equipped monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/56948373.jpg"

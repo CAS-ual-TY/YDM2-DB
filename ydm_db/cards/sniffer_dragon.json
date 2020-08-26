@@ -1,8 +1,8 @@
 {
   "id": 27877771,
   "name": "Sniffer Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is Normal or Special Summoned: You can add 1 \"Sniffer Dragon\" from your Deck to your hand. You can only use this effect of \"Sniffer Dragon\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/27877771.jpg"

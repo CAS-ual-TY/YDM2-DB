@@ -1,8 +1,8 @@
 {
   "id": 68774379,
   "name": "Cyber Barrier Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Attack Reflector Unit\". Once per turn, while this card is in Attack Position, your opponent\u0027s next attack is negated.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/68774379.jpg"

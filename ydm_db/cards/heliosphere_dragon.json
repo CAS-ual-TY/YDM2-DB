@@ -1,8 +1,8 @@
 {
   "id": 51043053,
   "name": "Heliosphere Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "While your opponent has 4 or less cards in their hand and this card is the only monster you control, your opponent cannot declare an attack. Once per turn, if you control a Level 8 Dragon-Type monster: You can make this card become Level 8 until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/51043053.jpg"

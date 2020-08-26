@@ -1,8 +1,8 @@
 {
   "id": 712559,
   "name": "Amazoness Village",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "All \"Amazoness\" monsters gain 200 ATK. Once per turn, when an \"Amazoness\" monster is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 \"Amazoness\" monster from your Deck with a Level less than or equal to that \"Amazoness\" monster in the GY.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/712559.jpg"

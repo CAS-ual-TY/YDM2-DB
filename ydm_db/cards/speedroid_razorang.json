@@ -1,8 +1,8 @@
 {
   "id": 80559548,
   "name": "Speedroid Razorang",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot attack the turn it is Normal Summoned. Once per turn: You can target 1 face-up monster on the field; change this card to Defense Position, and if you do, that target loses 800 ATK until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80559548.jpg"

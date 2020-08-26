@@ -1,8 +1,8 @@
 {
   "id": 40173854,
   "name": "Amphibious Bugroth",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "\"Ground Attacker Bugroth\" + \"Defender of the Sea\"",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/40173854.jpg"

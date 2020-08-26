@@ -1,8 +1,8 @@
 {
   "id": 72053645,
   "name": "Weather Report",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Destroys all of your opponent\u0027s face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during your opponent\u0027s turn).",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72053645.jpg"

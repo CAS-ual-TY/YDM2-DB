@@ -1,8 +1,8 @@
 {
   "id": 20470500,
   "name": "Armed Sea Hunter",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "After damage calculation, if this card battles an Effect Monster: Negate the effects of that monster (including in the Graveyard). You must control another face-up WATER monster to activate and to resolve this effect. If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20470500.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 72150572,
   "name": "Anti-Fusion Device",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Destroy 1 face-up Fusion Monster on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72150572.jpg"

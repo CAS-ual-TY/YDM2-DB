@@ -1,8 +1,8 @@
 {
   "id": 97922283,
   "name": "Howl of the Wild",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When a monster you control destroys an opponent\u0027s monster by battle and sends it to the Graveyard, inflict 300 damage to your opponent for each face-up Beast-Type monster you control.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/97922283.jpg"

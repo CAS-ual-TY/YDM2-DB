@@ -1,8 +1,8 @@
 {
   "id": 49217579,
   "name": "Mirage Knight",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Dark Flare Knight\" and cannot be Special Summoned by other ways. During damage calculation only, this card gains ATK equal to the original ATK of the opponent\u0027s monster it is battling. During the End Phase of a turn this card attacked or was attacked: Banish this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49217579.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 23408872,
   "name": "Tradetoad",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can Tribute 1 Aqua-Type monster to select 1 \"Frog\" monster in your Graveyard, except \"Frog the Jam\". Special Summon that monster from your Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/23408872.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 20193924,
   "name": "White Night Queen",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Cannot be Special Summoned. Once per turn: You can target 1 Set card; destroy that target.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/20193924.jpg"

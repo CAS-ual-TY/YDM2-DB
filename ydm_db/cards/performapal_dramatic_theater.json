@@ -1,8 +1,8 @@
 {
   "id": 55553602,
   "name": "Performapal Dramatic Theater",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Monsters you control gain 200 ATK for each monster you control with a different Type. Once per turn, if you control 4 \"Performapal\" monsters with different Types: You can Special Summon 1 \"Odd-Eyes\" monster from your hand, Deck, or Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55553602.jpg"

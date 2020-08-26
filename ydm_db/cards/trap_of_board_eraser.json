@@ -1,8 +1,8 @@
 {
   "id": 3055837,
   "name": "Trap of Board Eraser",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can only activate this card when an effect that inflicts damage to your Life Points is activated (except Battle Damage). Negate the Effect Damage you receive and your opponent then selects 1 card from his/her hand and discards it.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/3055837.jpg"

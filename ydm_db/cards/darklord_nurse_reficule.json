@@ -1,8 +1,8 @@
 {
   "id": 67316075,
   "name": "Darklord Nurse Reficule",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/67316075.jpg"

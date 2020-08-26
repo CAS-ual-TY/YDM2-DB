@@ -1,8 +1,8 @@
 {
   "id": 42679662,
   "name": "Evilswarm Azzathoth",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "FLIP: Target 1 Special Summoned monster on the field; shuffle that target into the Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/42679662.jpg"

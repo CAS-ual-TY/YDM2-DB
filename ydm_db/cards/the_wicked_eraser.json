@@ -1,8 +1,8 @@
 {
   "id": 57793869,
   "name": "The Wicked Eraser",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. The ATK and DEF of this card are each equal to the number of cards your opponent controls x 1000. When this card is destroyed and sent to the Graveyard, destroy all cards on the field. During your Main Phase, you can destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/57793869.jpg"

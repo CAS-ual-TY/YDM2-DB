@@ -1,8 +1,8 @@
 {
   "id": 37806313,
   "name": "Caravan of the Ice Barrier",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn, you can select 2 \"Ice Barrier\" monsters in your Graveyard. Return the selected monsters to the Deck and each player draws 1 card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/37806313.jpg"

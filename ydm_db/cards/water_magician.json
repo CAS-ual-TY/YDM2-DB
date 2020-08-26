@@ -1,8 +1,8 @@
 {
   "id": 93343894,
   "name": "Water Magician",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "This monster swamps an opponent with an almost endless supply of water.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/93343894.jpg"

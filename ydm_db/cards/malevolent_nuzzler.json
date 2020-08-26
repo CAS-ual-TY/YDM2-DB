@@ -1,8 +1,8 @@
 {
   "id": 99597615,
   "name": "Malevolent Nuzzler",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/99597615.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 80723580,
   "name": "Giant Trap Hole",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When 2 or more monsters are Special Summoned at the same time: Destroy all monsters on the field.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/80723580.jpg"

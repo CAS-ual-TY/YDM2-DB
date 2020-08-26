@@ -1,8 +1,8 @@
 {
   "id": 58012707,
   "name": "Giant Ballpark",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "During damage calculation, if a player would take battle damage: You can make neither player take any battle damage from that battle, and if you do, send 1 Level 4 or lower Insect monster from your Deck to the GY, then, if you sent a Normal Monster this way, you can Special Summon any number of monsters with the same name as that monster, from your hand, Deck, and/or GY. If a monster(s) you control is sent to the GY by an opponent\u0027s card effect (except during the Damage Step): You can Special Summon 1 Insect Normal Monster from your GY. You can only use each effect of \"Giant Ballpark\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/58012707.jpg"

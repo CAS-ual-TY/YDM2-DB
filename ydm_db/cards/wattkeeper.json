@@ -1,8 +1,8 @@
 {
   "id": 32061744,
   "name": "Wattkeeper",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Select 1 Level 4 or lower \"Watt\" monster in your Graveyard. Special Summon that monster from the Graveyard. Destroy it during the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/32061744.jpg"

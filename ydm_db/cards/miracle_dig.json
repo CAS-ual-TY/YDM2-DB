@@ -1,8 +1,8 @@
 {
   "id": 6343408,
   "name": "Miracle Dig",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If 5 or more of your monsters are currently removed from play, return 3 of them to the Graveyard.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/6343408.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 49127943,
   "name": "Man-Eating Plant",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "A meat-eating plant that is attractive to the eye but dangerous when approached.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/49127943.jpg"

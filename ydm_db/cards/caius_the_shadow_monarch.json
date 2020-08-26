@@ -1,8 +1,8 @@
 {
   "id": 9748752,
   "name": "Caius the Shadow Monarch",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "If this card is Tribute Summoned: Target 1 card on the field; banish that target, and if you do, inflict 1000 damage to your opponent if it is a DARK monster.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/9748752.jpg"

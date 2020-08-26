@@ -1,8 +1,8 @@
 {
   "id": 25132288,
   "name": "Light End Dragon",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nAt attack declaration, if this card battles another monster: You can have this card lose 500 ATK and DEF (permanently), and the monster this card is battling loses 1500 ATK and DEF until the End Phase.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/25132288.jpg"

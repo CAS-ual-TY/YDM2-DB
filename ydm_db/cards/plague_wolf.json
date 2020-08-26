@@ -1,8 +1,8 @@
 {
   "id": 55696885,
   "name": "Plague Wolf",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Once per turn: You can make this card\u0027s ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/55696885.jpg"

@@ -1,8 +1,8 @@
 {
   "id": 86821010,
   "name": "Power Break",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Activate only while you control a face-up \"Power Tool Dragon\". Select up to 3 Equip Cards on your side of the field and/or in your Graveyard and return them to the Deck, and inflict 500 damage to your opponent for each card returned.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/86821010.jpg"

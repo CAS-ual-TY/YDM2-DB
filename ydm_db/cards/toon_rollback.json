@@ -1,8 +1,8 @@
 {
   "id": 70560957,
   "name": "Toon Rollback",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "Target 1 Toon monster you control; it can make a second attack during each Battle Phase this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/70560957.jpg"

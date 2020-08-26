@@ -1,8 +1,8 @@
 {
   "id": 4440873,
   "name": "Drastic Drop Off",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent adds a card(s) from their Deck to their hand, including drawing: They must discard 1 of those cards.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/4440873.jpg"

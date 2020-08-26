@@ -1,8 +1,8 @@
 {
   "id": 72648810,
   "name": "Unwavering Bond",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your opponent activates a Pendulum Monster\u0027s effect, or an effect of a card in the Pendulum Zone: Negate the activation, and if you do, banish that card.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/72648810.jpg"

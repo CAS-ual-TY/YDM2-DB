@@ -1,8 +1,8 @@
 {
   "id": 95658967,
   "name": "Ritual Sanctuary",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "You can discard 1 Spell; add 1 LIGHT Ritual Monster or 1 Ritual Spell from your Deck to your hand. You can shuffle any number of Spells from your GY into the Deck, then target 1 LIGHT Fairy monster in your GY whose Level equals the number of cards you shuffled into the Deck; Special Summon it. You can only use each effect of \"Ritual Sanctuary\" once per turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/95658967.jpg"

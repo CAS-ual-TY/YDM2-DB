@@ -1,8 +1,8 @@
 {
   "id": 28593329,
   "name": "Dark Angel",
-  "illegal": false,
-  "custom": false,
+  "is_illegal": false,
+  "is_custom": false,
   "text": "When your Fairy monster is targeted for an attack: You can Tribute it and send this card from your hand to the GY, then target 1 face-up monster you control; change the attack target to your targeted monster, and if you do, it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn.",
   "images": [
     "https://storage.googleapis.com/ygoprodeck.com/pics/28593329.jpg"
