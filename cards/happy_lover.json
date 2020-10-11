@@ -1,0 +1,21 @@
+{
+  "id": 99030164,
+  "name": "Happy Lover",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99030164.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

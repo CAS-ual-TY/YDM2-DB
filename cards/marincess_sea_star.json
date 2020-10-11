@@ -1,0 +1,21 @@
+{
+  "id": 62886670,
+  "name": "Marincess Sea Star",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand to the GY, then target 1 \"Marincess\" monster you control; it gains 800 ATK until the end of this turn. You can use this effect of \"Marincess Sea Star\" up to twice per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62886670.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

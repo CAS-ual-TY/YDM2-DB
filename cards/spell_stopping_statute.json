@@ -1,0 +1,12 @@
+{
+  "id": 10069180,
+  "name": "Spell-Stopping Statute",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only when your opponent activates a Continuous Spell Card. Negate the activation and the effect of the card and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10069180.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

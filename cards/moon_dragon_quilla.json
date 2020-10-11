@@ -1,0 +1,21 @@
+{
+  "id": 66818682,
+  "name": "Moon Dragon Quilla",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Supay\" + 1+ non-Tuner monsters\nIf this card is targeted for an attack: Gain LP equal to half the attacking monster\u0027s ATK. If this card on the field is destroyed: You can target 1 \"Sun Dragon Inti\" in your GY; Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66818682.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

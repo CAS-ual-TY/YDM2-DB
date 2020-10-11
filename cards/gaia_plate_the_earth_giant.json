@@ -1,0 +1,21 @@
+{
+  "id": 14258627,
+  "name": "Gaia Plate the Earth Giant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card by removing from play any 2 Rock-Type monsters in your Graveyard. During your Standby Phase, remove from play 1 Rock-Type monster in your Graveyard, or send this card to the Graveyard. Halve the ATK and DEF of any monster that battles with this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14258627.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 57238939,
+  "name": "Genex Ally Remote",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, you can select 1 face-up Tuner monster on the field. The selected monster\u0027s name is treated as \"Genex Controller\" until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57238939.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": true
+}

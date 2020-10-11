@@ -1,0 +1,20 @@
+{
+  "id": 60292055,
+  "name": "Elphase",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 3 or higher Cyberse monsters\nGains 300 ATK for each monster this card points to. If this Link Summoned card leaves the field: You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it, but for the rest of this turn, its effects (if any) are negated and it cannot be used as Link Material. You can only use this effect of \"Elphase\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60292055.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 10
+}

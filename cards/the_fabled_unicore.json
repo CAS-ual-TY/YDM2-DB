@@ -1,0 +1,21 @@
+{
+  "id": 44155002,
+  "name": "The Fabled Unicore",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nWhile you and your opponent have the same number of cards in hand, negate all Spell, Trap, and Effect Monster effects activated by your opponent, and destroy that Spell/Trap/Monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44155002.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Beast",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

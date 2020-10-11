@@ -1,0 +1,21 @@
+{
+  "id": 40991587,
+  "name": "The Lady in Wight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Face-up Level 3 or lower Zombie-Type monsters on the field, except \"The Lady in Wight\", cannot be destroyed by battle and are unaffected by Spell/Trap effects. This card\u0027s name becomes \"Skull Servant\" while it is in the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40991587.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 85852291,
+  "name": "Magical Mallet",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85852291.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 7392745,
+  "name": "Chewbone",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Special Summon 3 \"Chewbone Jr. Tokens\" (Zombie-Type/EARTH/Level 1/ATK 100/DEF 300) to your opponent\u0027s field in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7392745.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 71717923,
+  "name": "Mormolith",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute 1 face-up EARTH monster to destroy all face-up monsters with DEF equal to or less than the ATK of the Tributed card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71717923.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

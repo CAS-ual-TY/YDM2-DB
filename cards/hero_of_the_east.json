@@ -1,0 +1,21 @@
+{
+  "id": 89987208,
+  "name": "Hero of the East",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Feel da strength ah dis sword-swingin\u0027 samurai from da Far East.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89987208.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

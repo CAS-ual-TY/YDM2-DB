@@ -1,0 +1,20 @@
+{
+  "id": 95493471,
+  "name": "Neo Super Quantal Mech King Blaster Magna",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Effect Monsters including a \"Super Quant\" monster\nThis Link Summoned card cannot be destroyed by your opponent\u0027s card effects. Each time a \"Super Quant\" Xyz Monster(s) with a different name from the cards you control is Special Summoned from the Extra Deck to a zone(s) this card points to: Draw 1 card. If a face-up Xyz Monster(s) this card points to is destroyed by battle or an opponent\u0027s card effect: You can Special Summon 1 \"Super Quant\" monster from your Deck with the same original Attribute as 1 of those destroyed Xyz Monsters. You can only use this effect of \"Neo Super Quantal Mech King Blaster Magna\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95493471.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": 112
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2525268,
+  "name": "Defender, the Magical Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Once per turn, if a Spellcaster monster(s) on the field would be destroyed, you can remove 1 Spell Counter from your field for each of those monsters instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2525268.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

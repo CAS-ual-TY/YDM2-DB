@@ -1,0 +1,21 @@
+{
+  "id": 51916032,
+  "name": "Jinzo - Jector",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card\u0027s name becomes \"Jinzo\" while on the field or in the Graveyard. You can Tribute this card; add 1 \"Jinzo\" monster from your Deck to your hand, except \"Jinzo - Jector\", then reveal all Set cards in your opponent\u0027s Spell \u0026 Trap Zones, and if there are Trap Cards among them, you can Special Summon \"Jinzo\" monsters from your hand, up to the number of Trap Cards revealed. You can only use this effect of \"Jinzo - Jector\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51916032.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

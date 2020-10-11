@@ -1,0 +1,12 @@
+{
+  "id": 44716890,
+  "name": "Toll Hike",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each player must send 1 card from their hand to the GY to declare an attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44716890.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

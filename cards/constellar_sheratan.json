@@ -1,0 +1,21 @@
+{
+  "id": 78486968,
+  "name": "Constellar Sheratan",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Constellar\" monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78486968.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 3,
+  "is_tuner": false
+}

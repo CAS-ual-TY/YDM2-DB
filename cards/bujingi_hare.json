@@ -1,0 +1,21 @@
+{
+  "id": 59251766,
+  "name": "Bujingi Hare",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During either player\u0027s turn: You can banish this card from your Graveyard, then target 1 Beast-Warrior-Type \"Bujin\" monster you control; once during this turn, it cannot be destroyed by battle or by card effects. You can only use the effect of \"Bujingi Hare\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59251766.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

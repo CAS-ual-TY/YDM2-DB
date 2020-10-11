@@ -1,0 +1,12 @@
+{
+  "id": 94156050,
+  "name": "Reverse Glasses",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Halve the ATK of all face-up monsters currently on the field, until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94156050.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

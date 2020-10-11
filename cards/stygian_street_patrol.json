@@ -1,0 +1,21 @@
+{
+  "id": 13521194,
+  "name": "Stygian Street Patrol",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of that monster in the GY x 100. You can banish this card from your GY; Special Summon 1 Fiend monster with 2000 or less ATK from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13521194.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

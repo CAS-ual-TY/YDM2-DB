@@ -1,0 +1,21 @@
+{
+  "id": 63737050,
+  "name": "Ryu Okami",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent Special Summons a monster(s): Your opponent sends 1 card from their Extra Deck to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63737050.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2900,
+  "species": "Wyrm",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 8,
+  "is_tuner": false
+}

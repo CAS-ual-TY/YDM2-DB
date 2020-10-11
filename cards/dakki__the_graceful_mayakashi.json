@@ -1,0 +1,21 @@
+{
+  "id": 42542842,
+  "name": "Dakki, the Graceful Mayakashi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can only control 1 \"Dakki, the Graceful Mayakashi\". When a \"Mayakashi\" monster(s) is Special Summoned to your field from the Extra Deck, while this card is in the GY (except during the Damage Step): You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42542842.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
+}

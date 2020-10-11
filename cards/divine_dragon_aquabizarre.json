@@ -1,0 +1,21 @@
+{
+  "id": 67964209,
+  "name": "Divine Dragon Aquabizarre",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, you can Tribute 1 other face-up WATER monster and select 1 Continuous or Field Spell Card in your Graveyard to return it to the top of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67964209.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2100,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

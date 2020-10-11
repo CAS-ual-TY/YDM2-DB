@@ -1,0 +1,12 @@
+{
+  "id": 17322533,
+  "name": "Pinpoint Landing",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If exactly 1 monster is Special Summoned, from the hand to your field: You can draw 1 card. You can only use this effect of \"Pinpoint Landing\" once per turn. During your End Phase, if you have not drawn a card by this effect this turn, send this card to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17322533.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

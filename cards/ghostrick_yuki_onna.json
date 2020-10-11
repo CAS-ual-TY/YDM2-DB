@@ -1,0 +1,21 @@
+{
+  "id": 54490275,
+  "name": "Ghostrick Yuki-onna",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When this card is destroyed by battle and sent to the Graveyard: You can change the monster that destroyed it to face-down Defense Position, and if you do, it cannot change its battle position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54490275.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

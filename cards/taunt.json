@@ -1,0 +1,13 @@
+{
+  "id": 90740329,
+  "name": "Taunt",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only during your opponent\u0027s Main Phase 1; select 1 monster on your side of the field. While the selected card remains on the field, if your opponent attacks with a monster(s) this turn, they must select the selected monster as the attack target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90740329.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90740330.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

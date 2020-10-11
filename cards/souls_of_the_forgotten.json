@@ -1,0 +1,21 @@
+{
+  "id": 4920010,
+  "name": "Souls of the Forgotten",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4920010.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 900,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

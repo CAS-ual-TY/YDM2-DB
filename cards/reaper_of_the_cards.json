@@ -1,0 +1,21 @@
+{
+  "id": 33066139,
+  "name": "Reaper of the Cards",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33066139.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1380,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1930,
+  "level": 5,
+  "is_tuner": false
+}

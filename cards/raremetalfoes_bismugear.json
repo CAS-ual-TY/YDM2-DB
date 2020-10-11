@@ -1,0 +1,24 @@
+{
+  "id": 18716735,
+  "name": "Raremetalfoes Bismugear",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card on the field is destroyed by battle or card effect: You can add 1 \"Metalfoes\" monster from your Deck to your hand during the End Phase of this turn. You can only use this effect of \"Raremetalfoes Bismugear\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18716735.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap Card directly from your Deck.\n",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
+}

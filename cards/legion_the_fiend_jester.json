@@ -1,0 +1,21 @@
+{
+  "id": 25280974,
+  "name": "Legion the Fiend Jester",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase, you can Tribute Summon 1 Spellcaster monster in face-up Attack Position, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is sent from the field to the GY: You can add 1 Spellcaster Normal Monster from your Deck or GY to your hand. You can only use this effect of \"Legion the Fiend Jester\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25280974.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1300,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

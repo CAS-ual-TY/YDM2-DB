@@ -1,0 +1,21 @@
+{
+  "id": 51555725,
+  "name": "Scrap Breaker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent controls a monster, you can Special Summon this card from your hand. When this card is Special Summoned this way, select 1 face-up \"Scrap\" monster you control, and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51555725.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 6,
+  "is_tuner": false
+}

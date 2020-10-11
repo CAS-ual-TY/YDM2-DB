@@ -1,0 +1,12 @@
+{
+  "id": 16317140,
+  "name": "Hyper Blaze",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "To Special Summon \"Uria, Lord of Searing Flames\" using its own procedure, you can send face-down Traps you control to the GY instead of face-up ones (or any combination of both). Once per attack, when an attack is declared involving your \"Uria, Lord of Searing Flames\": You can send 1 Trap from your hand or Deck to the GY; its ATK/DEF become 1000 x the number of Traps on the field and in the GYs for the rest of this turn (even if this card leaves the field). Once per turn: You can discard 1 card; take 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your GY, and either Special Summon it (if it has been properly Summoned), ignoring its Summoning conditions, or add it to your hand (even if not).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16317140.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 26517393,
+  "name": "Spirit of the Fall Wind",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal Summoned: You can add 1 Flip monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26517393.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

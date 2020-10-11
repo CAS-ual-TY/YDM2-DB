@@ -1,0 +1,20 @@
+{
+  "id": 40424929,
+  "name": "Battlecruiser Dianthus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 3 monsters\nYou can detach 1 Xyz Material from this card; inflict 200 damage to your opponent for each card in their hand. You can only use the effect of \"Battlecruiser Dianthus\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40424929.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Plant",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "rank": 3
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5901497,
+  "name": "Queen\u0027s Double",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster may attack your opponent\u0027s Life Points directly.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5901497.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 350,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

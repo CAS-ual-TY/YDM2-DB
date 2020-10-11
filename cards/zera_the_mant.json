@@ -1,0 +1,21 @@
+{
+  "id": 69123138,
+  "name": "Zera the Mant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Zera Ritual\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69123138.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Fiend",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2300,
+  "level": 8,
+  "is_tuner": false
+}

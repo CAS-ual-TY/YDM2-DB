@@ -1,0 +1,21 @@
+{
+  "id": 56597272,
+  "name": "Cloudian - Sheep Cloud",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard, Special Summon 2 \"Cloudian Tokens\" (Fairy-Type/WATER/Level 1/ATK 0/DEF 0) in Defense Position. These tokens cannot be Tributed for a Tribute Summon, unless it is for a \"Cloudian\" monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56597272.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

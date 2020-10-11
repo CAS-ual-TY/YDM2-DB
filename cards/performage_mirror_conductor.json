@@ -1,0 +1,24 @@
+{
+  "id": 71578874,
+  "name": "Performage Mirror Conductor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, during either player\u0027s turn: You can target 1 face-up monster on the field; switch its current ATK and DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71578874.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn: You can target 1 face-up Special Summoned monster on the field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower) until the end of this turn (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

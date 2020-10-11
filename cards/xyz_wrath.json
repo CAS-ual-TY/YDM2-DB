@@ -1,0 +1,12 @@
+{
+  "id": 99064191,
+  "name": "Xyz Wrath",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, when a Level 5 or higher monster\u0027s effect is activated (except during the Damage Step), and you control an Xyz Monster: You can discard 1 card; negate the effect, and if you do, destroy that monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99064191.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

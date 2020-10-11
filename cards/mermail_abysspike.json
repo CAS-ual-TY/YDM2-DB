@@ -1,0 +1,21 @@
+{
+  "id": 58471134,
+  "name": "Mermail Abysspike",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal or Special Summoned: You can discard 1 WATER monster to the Graveyard; add 1 Level 3 WATER monster from your Deck to your hand. You can only use this effect of \"Mermail Abysspike\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58471134.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

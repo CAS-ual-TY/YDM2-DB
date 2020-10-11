@@ -1,0 +1,24 @@
+{
+  "id": 45103815,
+  "name": "Risebell the Summoner",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45103815.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 800,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
+}

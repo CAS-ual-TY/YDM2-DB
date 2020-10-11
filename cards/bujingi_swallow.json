@@ -1,0 +1,21 @@
+{
+  "id": 86868952,
+  "name": "Bujingi Swallow",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase 1: You can send this card from your hand to the Graveyard, then target 1 \"Bujin\" monster you control; it can make a second attack during each Battle Phase this turn. Other monsters cannot attack during the turn you activate this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86868952.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

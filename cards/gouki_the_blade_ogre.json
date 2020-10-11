@@ -1,0 +1,20 @@
+{
+  "id": 95515058,
+  "name": "Gouki The Blade Ogre",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ \"Gouki\" monsters\nGains 300 ATK for each monster it points to. Once per turn: You can Tribute 1 monster this card points to on either field; this card can make a second attack during each Battle Phase this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95515058.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Warrior",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": 98
+}

@@ -1,0 +1,21 @@
+{
+  "id": 48675364,
+  "name": "Archfiend General",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card to the Graveyard to add 1 \"Pandemonium\" from your Deck to your hand. If this card is on the field but \"Pandemonium\" is not on the field, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48675364.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2100,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

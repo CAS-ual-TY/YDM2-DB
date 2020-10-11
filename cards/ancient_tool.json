@@ -1,0 +1,21 @@
+{
+  "id": 49587396,
+  "name": "Ancient Tool",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A destructive machine discovered in the Ruins of the Ancients.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49587396.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

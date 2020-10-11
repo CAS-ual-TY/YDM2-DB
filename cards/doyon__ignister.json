@@ -1,0 +1,21 @@
+{
+  "id": 88413677,
+  "name": "Doyon @Ignister",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 \"@Ignister\" monster in your GY; add it to your hand. If this card is sent to the GY as material for the Link Summon of a Cyberse monster: You can target 1 \"A.I.\" Spell/Trap in your GY; add it to your hand. You can only use each effect of \"Doyon @Ignister\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88413677.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

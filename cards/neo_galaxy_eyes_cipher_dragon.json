@@ -1,0 +1,20 @@
+{
+  "id": 12632096,
+  "name": "Neo Galaxy-Eyes Cipher Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 9 monsters\nIf this card has a \"Cipher\" card as Xyz Material, it gains this effect.\n? Once per turn: You can detach up to 3 Xyz Materials from this card; monsters you control cannot attack your opponent directly for the rest of this turn, except this card, also for each Material detached, take control of 1 opponent\u0027s face-up monster until the End Phase, but while this effect is applied, they have their effects negated, their ATK\u0027s become 4500, also their names become \"Neo Galaxy-Eyes Cipher Dragon\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12632096.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 4500,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "rank": 9
+}

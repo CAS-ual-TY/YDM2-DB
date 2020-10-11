@@ -1,0 +1,12 @@
+{
+  "id": 45311864,
+  "name": "Goblin Thief",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Inflict 500 points of damage to your opponent\u0027s Life Points and increase your Life Points by 500 points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45311864.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 71652522,
+  "name": "Battle Teleportation",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate if you control only 1 face-up Psychic-Type monster, and select that monster. It can attack your opponent directly this turn. At the end of the Battle Phase, give control of that monster to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71652522.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

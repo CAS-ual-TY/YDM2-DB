@@ -1,0 +1,20 @@
+{
+  "id": 79559912,
+  "name": "D/D/D Wave High King Caesar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 6 Fiend monsters\nWhen a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card, then you can make 1 other \"D/D\" monster you control and this card gain 1800 ATK until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Dark Contract\" card from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79559912.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2800,
+  "species": "Fiend",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "rank": 6
+}

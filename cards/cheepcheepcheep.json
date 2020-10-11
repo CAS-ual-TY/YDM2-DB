@@ -1,0 +1,21 @@
+{
+  "id": 27189308,
+  "name": "Cheepcheepcheep",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: You can Special Summon 1 Level 5 or higher Tuner monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27189308.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 300,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

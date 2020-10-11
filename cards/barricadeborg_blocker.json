@@ -1,0 +1,20 @@
+{
+  "id": 13117073,
+  "name": "Barricadeborg Blocker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters with different names\nIf this card is Link Summoned: You can discard 1 card; during the End Phase of this turn, add 1 Continuous or Field Spell from your GY to your hand. You can only use this effect of \"Barricadeborg Blocker\" once per turn. Face-up Spells you control cannot be destroyed by your opponent\u0027s card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13117073.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 160
+}

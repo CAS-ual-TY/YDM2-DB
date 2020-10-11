@@ -1,0 +1,21 @@
+{
+  "id": 52624755,
+  "name": "Peten the Dark Clown",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 \"Peten the Dark Clown\" from your hand or Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52624755.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

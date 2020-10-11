@@ -1,0 +1,24 @@
+{
+  "id": 72181263,
+  "name": "D/D Orthros",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When you take battle or effect damage: You can Special Summon this card from your hand. If this card is Special Summoned to your field, you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72181263.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": true,
+  "pendulum_text": "Once per turn: You can target 1 Spell/Trap Card on the field and 1 other \"D/D\" or \"Dark Contract\" card you control; destroy them.\n",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

@@ -1,0 +1,21 @@
+{
+  "id": 44877690,
+  "name": "Sacred Spirit of the Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Special Summoned. This card returns to the hand during the End Phase of the turn it is Normal Summoned or flipped face-up, unless you control another face-up \"Ice Barrier\" monster. In that case, this card\u0027s effect changes to select 1 monster your opponent controls and return it to the hand, instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44877690.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 81755371,
+  "name": "Dark Effigy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you Tribute Summon a DARK Normal Monster, you can treat this 1 monster as 2 Tributes.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81755371.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

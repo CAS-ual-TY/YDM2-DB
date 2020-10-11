@@ -1,0 +1,21 @@
+{
+  "id": 41440148,
+  "name": "Performapal Hip Hippo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "After you Normal Summon this card, you can Tribute Summon 1 Level 7 or higher monster in face-up Attack Position during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41440148.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

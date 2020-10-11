@@ -1,0 +1,21 @@
+{
+  "id": 255998,
+  "name": "Rapid Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase 1, you can activate this card\u0027s effect. If you do, it can attack your opponent directly this turn. Other monsters cannot attack during the turn you activate this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/255998.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

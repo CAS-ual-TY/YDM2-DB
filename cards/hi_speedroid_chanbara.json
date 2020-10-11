@@ -1,0 +1,21 @@
+{
+  "id": 42110604,
+  "name": "Hi-Speedroid Chanbara",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nThis card can make a second attack during each Battle Phase. At the start of the Damage Step, if this card battles: It gains 200 ATK. If this card is sent to the GY: You can target 1 of your banished \"Speedroid\" cards; add it to your hand. You can only Special Summon \"Hi-Speedroid Chanbara(s)\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42110604.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

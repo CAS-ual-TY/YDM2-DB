@@ -1,0 +1,21 @@
+{
+  "id": 42908201,
+  "name": "Desmanian Devil",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card destroys an opponent\u0027s monster by battle: You can add 1 Level 4 or lower Beast monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42908201.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

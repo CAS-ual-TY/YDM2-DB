@@ -1,0 +1,21 @@
+{
+  "id": 96005454,
+  "name": "Hunter Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This dragon has taken down countless prey with its sharp fangs. It strikes very quickly, because if it does not strike first it is vulnerable to a counter-attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96005454.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
+}

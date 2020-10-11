@@ -1,0 +1,12 @@
+{
+  "id": 29724053,
+  "name": "Summon Gate",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each player can Special Summon a maximum of 3 monsters from the Extra Deck each turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29724053.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

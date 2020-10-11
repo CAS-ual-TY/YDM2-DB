@@ -1,0 +1,12 @@
+{
+  "id": 24668830,
+  "name": "Germ Infection",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The ATK of a non Machine-Type monster equipped with this card is decreased by 300 points at each of its Standby Phases.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24668830.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

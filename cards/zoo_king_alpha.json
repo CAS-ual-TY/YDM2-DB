@@ -1,0 +1,21 @@
+{
+  "id": 73304257,
+  "name": "Zoo King Alpha",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while the total ATK of all monsters your opponent controls is higher than the total ATK of all monsters you control. You can target any number of Beast, Beast-Warrior, and/or Winged Beast monsters you control; \"Zoo King Alpha\" you control cannot attack directly for the rest of this turn, also return the targeted monsters to the hand, then return the same number of face-up monsters your opponent controls to the hand. You can only use this effect of \"Zoo King Alpha\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73304257.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

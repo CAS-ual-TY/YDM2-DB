@@ -1,0 +1,21 @@
+{
+  "id": 36021814,
+  "name": "King of the Skull Servants",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your GY x 1000. When this card is destroyed by battle and sent to the GY: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your GY; Special Summon this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36021814.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

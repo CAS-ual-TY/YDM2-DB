@@ -1,0 +1,21 @@
+{
+  "id": 70975131,
+  "name": "Watch Cat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters: You can Special Summon this card from your hand. During your End Phase, if this card was Special Summoned this turn: You can banish this card; Set 1 Continuous Spell directly from your Deck. You can only use each effect of \"Watch Cat\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70975131.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 1,
+  "is_tuner": false
+}

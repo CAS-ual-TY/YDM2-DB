@@ -1,0 +1,21 @@
+{
+  "id": 2504891,
+  "name": "Skull Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Tainted Wisdom\" + \"Ancient Brain\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2504891.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2650,
+  "species": "Spellcaster",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2250,
+  "level": 7,
+  "is_tuner": false
+}

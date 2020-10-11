@@ -1,0 +1,12 @@
+{
+  "id": 9581215,
+  "name": "Chain Hole",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent activates a monster effect in response to a card or effect activation: Negate that opponent\u0027s effect, then, your opponent can banish 1 card from their hand or Deck with the same original name as that negated card. If they did not, you can banish 1 random card from their hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9581215.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

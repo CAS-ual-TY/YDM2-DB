@@ -1,0 +1,21 @@
+{
+  "id": 48063985,
+  "name": "Ritual Beast Ulti-Cannahawk",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use \"Polymerization\".) Once per turn: You can target 2 of your banished \"Ritual Beast\" cards; return them to the Graveyard, and if you do, add 1 \"Ritual Beast\" card from your Deck to your hand. During either player\u0027s turn: You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48063985.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Thunder",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

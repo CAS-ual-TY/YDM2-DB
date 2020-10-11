@@ -1,0 +1,21 @@
+{
+  "id": 15150365,
+  "name": "White Magical Hat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card inflicts Battle Damage to your opponent\u0027s Life Points, your opponent discards 1 card randomly from his/her hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15150365.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 34688023,
+  "name": "Edge Imp Saw",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can send 1 \"Fluffal\" monster from your hand to the Graveyard; draw 2 cards, then place 1 card from your hand on either the top or bottom of your Deck. You can only use this effect of \"Edge Imp Saw\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34688023.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

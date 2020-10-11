@@ -1,0 +1,21 @@
+{
+  "id": 40666140,
+  "name": "Ljosalf of the Nordic Alfar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can target 1 face-up monster you control, except this card; Special Summon 1 \"Nordic\" monster from your hand with a Level less than or equal to that face-up monster\u0027s Level.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40666140.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

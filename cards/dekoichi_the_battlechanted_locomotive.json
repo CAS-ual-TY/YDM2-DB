@@ -1,0 +1,21 @@
+{
+  "id": 87621407,
+  "name": "Dekoichi the Battlechanted Locomotive",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Draw 1 card, then draw 1 additional card for each face-up \"Bokoichi the Freightening Car\" you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87621407.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

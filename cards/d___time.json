@@ -1,0 +1,12 @@
+{
+  "id": 99075257,
+  "name": "D - Time",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a face-up \"Elemental HERO\" monster you control leaves the field: Add 1 \"Destiny HERO\" monster from your Deck to your hand whose Level is less than or equal to that \"Elemental HERO\" monster\u0027s original Level.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99075257.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

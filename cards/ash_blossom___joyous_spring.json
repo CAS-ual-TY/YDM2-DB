@@ -1,0 +1,22 @@
+{
+  "id": 14558127,
+  "name": "Ash Blossom \u0026 Joyous Spring",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n? Add a card from the Deck to the hand.\n? Special Summon from the Deck.\n? Send a card from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom \u0026 Joyous Spring\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14558127.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14558128.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": true
+}

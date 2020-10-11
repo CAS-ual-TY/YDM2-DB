@@ -1,0 +1,21 @@
+{
+  "id": 16001119,
+  "name": "Red Potan",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 \"Potan\" monster you control; it is treated as a Tuner until the end of the next turn. If a monster is Synchro Summoned while this monster is on the field (except during the Damage Step): You can Special Summon 1 \"Potan\" monster from your hand or Deck. You can only use each effect of \"Red Potan\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16001119.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 100,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

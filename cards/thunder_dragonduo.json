@@ -1,0 +1,21 @@
+{
+  "id": 55591586,
+  "name": "Thunder Dragonduo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, if a monster effect is activated in the hand: This card gains 300 ATK until the end of this turn. When this card destroys an opponent\u0027s monster by battle: You can banish 1 card from your GY; add 1 Thunder monster from your Deck to your hand. Once per turn, during your opponent\u0027s End Phase: You can target 1 of your banished cards; place it on the top or bottom of your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55591586.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 49888191,
+  "name": "Garnecia Elefantis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A monster so heavy that each step rocks the earth.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49888191.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

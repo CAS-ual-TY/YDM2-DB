@@ -1,0 +1,21 @@
+{
+  "id": 18654201,
+  "name": "Criosphinx",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a monster is returned from the field to the owner\u0027s hand, the owner of the returned monster selects and sends 1 card in their hand to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18654201.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 82324312,
+  "name": "Goblin Recon Squad",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card successfully attacks directly, you can look at 1 random card in your opponent\u0027s hand. If it is a Spell Card, send it to the Graveyard. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card\u0027s battle position cannot be changed until the end of your next turn, except with a card effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82324312.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

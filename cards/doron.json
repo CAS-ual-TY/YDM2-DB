@@ -1,0 +1,21 @@
+{
+  "id": 756652,
+  "name": "Doron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster splits in two and attacks from opposite sides.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/756652.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

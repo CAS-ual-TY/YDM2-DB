@@ -1,0 +1,12 @@
+{
+  "id": 27821104,
+  "name": "Asceticism of the Six Samurai",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 \"Six Samurai\" monster you control; Special Summon 1 \"Six Samurai\" monster from your Deck with the same ATK but a different name, and if you do, destroy it during the End Phase of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27821104.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

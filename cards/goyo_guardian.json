@@ -1,0 +1,21 @@
+{
+  "id": 7391448,
+  "name": "Goyo Guardian",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 EARTH Tuner + 1 or more non-Tuner monsters\nWhen this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7391448.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

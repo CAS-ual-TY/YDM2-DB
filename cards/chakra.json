@@ -1,0 +1,21 @@
+{
+  "id": 65393205,
+  "name": "Chakra",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Resurrection of Chakra\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65393205.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2450,
+  "species": "Fiend",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

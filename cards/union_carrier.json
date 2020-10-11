@@ -1,0 +1,20 @@
+{
+  "id": 83152482,
+  "name": "Union Carrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute. The equipped monster gains 1000 ATK. If you equipped it from the Deck, you cannot Special Summon monsters with that Equip Card\u0027s name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83152482.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 40
+}

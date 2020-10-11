@@ -1,0 +1,21 @@
+{
+  "id": 67105242,
+  "name": "Earthbound Spirit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67105242.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

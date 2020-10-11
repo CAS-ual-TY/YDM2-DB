@@ -1,0 +1,21 @@
+{
+  "id": 100311002,
+  "name": "Dragunity Legatus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a \"Dragunity\" monster or \"Dragon Ravine\": You can Special Summon this card from your hand. If you control a \"Dragunity\" Monster Card(s) in your Spell \u0026 Trap Zone: You can target 1 Spell/Trap on the field; destroy it. You can only use each effect of \"Dragunity Legatus\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100311002.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 12496261,
+  "name": "Dragunity Knight - Luin",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can target 1 \"Dragunity\" monster in your GY; equip it to this card. If this card is sent to the GY: You can target 1 \"Dragunity\" monster you control; equip this card to that target. It gains 1000 ATK/DEF. You can only use each effect of \"Dragunity Knight - Luin\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12496261.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 6,
+  "is_tuner": true
+}

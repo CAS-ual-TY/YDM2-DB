@@ -1,0 +1,20 @@
+{
+  "id": 97273514,
+  "name": "Inzektor Picofalena",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Insect monsters\nIf this card is Link Summoned: You can discard 1 card, then target 1 other Insect monster you control; equip 1 Insect monster from your Deck to it as an Equip Spell that gains this effect.\n? The equipped monster gains 500 ATK/DEF.\nYou can target 3 Insect monsters in your GY; shuffle them into the Deck, then draw 1 card. You can only use each effect of \"Inzektor Picofalena\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97273514.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Insect",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

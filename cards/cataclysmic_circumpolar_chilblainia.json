@@ -1,0 +1,21 @@
+{
+  "id": 62850093,
+  "name": "Cataclysmic Circumpolar Chilblainia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up WATER monster(s) you control is destroyed by battle or an opponent\u0027s card effect: You can Special Summon this card from your hand, then you can send 1 random card from your opponent\u0027s hand to the GY. You can only use this effect of \"Cataclysmic Circumpolar Chilblainia\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62850093.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 45231177,
+  "name": "Flame Swordsman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45231177.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45231178.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

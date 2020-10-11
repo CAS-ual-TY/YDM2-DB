@@ -1,0 +1,21 @@
+{
+  "id": 88123329,
+  "name": "Spiritual Beast Rampengu",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can banish 1 \"Ritual Beast\" monster from your Extra Deck and send 1 \"Ritual Beast\" monster with the same Type as that monster from your Deck to the Graveyard. You can only Special Summon \"Spiritual Beast Rampengu(s)\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88123329.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
+}

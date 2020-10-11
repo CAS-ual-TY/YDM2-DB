@@ -1,0 +1,12 @@
+{
+  "id": 49010598,
+  "name": "Divine Wrath",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49010598.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

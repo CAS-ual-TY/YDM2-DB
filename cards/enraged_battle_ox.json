@@ -1,0 +1,21 @@
+{
+  "id": 76909279,
+  "name": "Enraged Battle Ox",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a Beast, Beast-Warrior, or Winged Beast-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76909279.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 60666820,
+  "name": "Nefarious Archfiend Eater of Nefariousness",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can only control 1 \"Nefarious Archfiend Eater of Nefariousness\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). Once per turn, during your opponent\u0027s End Phase, if this card is in your Graveyard: You can target 1 face-up monster you control; destroy it, and if you do, Special Summon this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60666820.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

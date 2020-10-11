@@ -1,0 +1,21 @@
+{
+  "id": 75064463,
+  "name": "Harpie Queen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card\u0027s name becomes \"Harpie Lady\" while on the field or in the GY. You can discard this card to the GY; add 1 \"Harpies\u0027 Hunting Ground\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75064463.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1900,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

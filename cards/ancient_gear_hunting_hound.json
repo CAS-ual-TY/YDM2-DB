@@ -1,0 +1,21 @@
+{
+  "id": 42878636,
+  "name": "Ancient Gear Hunting Hound",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal Summoned: Inflict 600 damage to your opponent. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Once per turn: You can Fusion Summon 1 \"Ancient Gear\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42878636.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 53493204,
+  "name": "Goddess with the Third Eye",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53493204.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

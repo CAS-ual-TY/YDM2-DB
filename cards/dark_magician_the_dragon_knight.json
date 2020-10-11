@@ -1,0 +1,21 @@
+{
+  "id": 41721210,
+  "name": "Dark Magician the Dragon Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Dark Magician\" + 1 Dragon monster\nThis card\u0027s name becomes \"Dark Magician\" while on the field or in the GY. Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent\u0027s card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41721210.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 57043117,
+  "name": "Giant Soldier of Steel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 3 Rock-Type monsters\nThis card is unaffected by other monsters\u0027 effects. Once per turn, during either player\u0027s turn: You can detach 1 Xyz Material from this card; it gains 1000 DEF until the end of this turn, and if it does, you take no effect damage from your opponent\u0027s card effects this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57043117.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Rock",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 3
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13492423,
+  "name": "Photon Caesar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal or Flip Summoned: You can Special Summon 1 \"Photon Caesar\" from your hand or Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13492423.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 45644898,
+  "name": "Master with Eyes of Blue",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can target 1 Level 1 LIGHT Tuner in your GY; add it to your hand. You can shuffle this card from your GY into the Deck, then target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your GY, other than the sent monster. You can only use this effect of \"Master with Eyes of Blue\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45644898.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 1,
+  "is_tuner": true
+}

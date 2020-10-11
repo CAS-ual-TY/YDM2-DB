@@ -1,0 +1,12 @@
+{
+  "id": 85101228,
+  "name": "Morphtronic Bind",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control a face-up \"Morphtronic\" monster, all Level 4 or higher monsters your opponent controls cannot attack or change their battle positions.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85101228.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

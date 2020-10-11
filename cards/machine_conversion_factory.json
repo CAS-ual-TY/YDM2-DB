@@ -1,0 +1,12 @@
+{
+  "id": 25769732,
+  "name": "Machine Conversion Factory",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Equip only to a Machine monster. It gains 300 ATK/DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25769732.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

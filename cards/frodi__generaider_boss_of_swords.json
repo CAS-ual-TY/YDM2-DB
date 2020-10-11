@@ -1,0 +1,21 @@
+{
+  "id": 40998517,
+  "name": "Frodi, Generaider Boss of Swords",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can only control 1 \"Frodi, Generaider Boss of Swords\". (Quick Effect): You can Tribute any number of \"Generaider\" monsters and/or Warrior monsters, then target that many monsters on the field; destroy them, then your opponent can draw cards equal to the number of monsters destroyed on their field. You can only use this effect of \"Frodi, Generaider Boss of Swords\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40998517.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 9,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 35488287,
+  "name": "Brotherhood of the Fire Fist - Panda",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you activate a \"Fire Formation\" Spell/Trap Card (except during the Damage Step): You can Special Summon this card from your hand, then you can Special Summon 1 \"Fire Fist\" monster from your GY, except \"Brotherhood of the Fire Fist - Panda\", also you cannot Special Summon monsters for the rest of this turn, except \"Fire Fist\" monsters. If a \"Fire Fist\" monster(s) you control would be destroyed by your opponent\u0027s card effect, you can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY instead. You can only use each effect of \"Brotherhood of the Fire Fist - Panda\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35488287.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2100,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 5,
+  "is_tuner": false
+}

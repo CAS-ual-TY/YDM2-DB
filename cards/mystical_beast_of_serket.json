@@ -1,0 +1,21 @@
+{
+  "id": 89194033,
+  "name": "Mystical Beast of Serket",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you do not control \"Temple of the Kings\", destroy this card. Banish any monster destroyed by battle with this card. If this card destroys a monster by battle: It gains 500 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89194033.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

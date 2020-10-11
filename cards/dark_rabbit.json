@@ -1,0 +1,21 @@
+{
+  "id": 99261403,
+  "name": "Dark Rabbit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "He leaps up, down, and all around! Nobody can lay a hand on this funny bunny.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99261403.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1100,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

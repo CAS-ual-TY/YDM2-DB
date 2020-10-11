@@ -1,0 +1,12 @@
+{
+  "id": 41482598,
+  "name": "Mirage of Nightmare",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, during your opponent\u0027s Standby Phase: Draw cards until you have 4 cards in your hand. If you do, during your next Standby Phase after that: Randomly discard the same number of cards you drew (or your entire hand, if you do not have enough cards).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41482598.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 40318957,
+  "name": "Performapal Skullcrobat Joker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Performapal\" monster, \"Magician\" Pendulum Monster, or \"Odd-Eyes\" monster from your Deck to your hand, except \"Performapal Skullcrobat Joker\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40318957.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Performapal\" monsters, \"Magician\" Pendulum Monsters, and \"Odd-Eyes\" monsters. This effect cannot be negated.\n",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
+}

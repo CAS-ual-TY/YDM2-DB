@@ -1,0 +1,21 @@
+{
+  "id": 43366227,
+  "name": "Seven Swords Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, when an Equip Card is equipped to this card: Inflict 800 damage to your opponent. Once per turn: You can target 1 Equip Card equipped to this card; send it to the Graveyard. When an Equip Card equipped to this card is sent to the Graveyard (except during the Damage Step): You can target 1 face-up monster your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43366227.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

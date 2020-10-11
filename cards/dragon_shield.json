@@ -1,0 +1,12 @@
+{
+  "id": 63300440,
+  "name": "Dragon Shield",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Equip only to a Dragon-Type monster. It cannot be destroyed by battle or by card effects. Neither player takes any battle damage from attacks involving it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63300440.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

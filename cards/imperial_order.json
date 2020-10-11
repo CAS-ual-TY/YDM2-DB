@@ -1,0 +1,12 @@
+{
+  "id": 61740673,
+  "name": "Imperial Order",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Negate all Spell effects on the field. Once per turn, during the Standby Phase, you must pay 700 LP (this is not optional), or this card is destroyed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61740673.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

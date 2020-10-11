@@ -1,0 +1,21 @@
+{
+  "id": 88559132,
+  "name": "Turret Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) by Tributing 1 Warrior-Type monster, and if you do, it gains ATK equal to the Tributed monster\u0027s original ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88559132.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

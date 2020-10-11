@@ -1,0 +1,21 @@
+{
+  "id": 63175639,
+  "name": "Fool of Prophecy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can send 1 \"Spellbook\" Spell Card from your Deck to the Graveyard. During the End Phase of the turn this card activated this effect: You can Tribute this card; Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck. You must have 5 or more \"Spellbook\" Spell Cards with different names in your Graveyard to activate and to resolve this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63175639.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

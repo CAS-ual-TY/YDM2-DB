@@ -1,0 +1,21 @@
+{
+  "id": 101103017,
+  "name": "Windwitch - Freeze Bell",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If all monsters you control are \"Windwitch\" monsters (min. 1): You can Special Summon this card from your hand. You can only use this effect of \"Windwitch - Freeze Bell\" once per turn. Once per turn: You can increase this card\u0027s Level by 1. A WIND Synchro Monster that used this card as material cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101103017.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

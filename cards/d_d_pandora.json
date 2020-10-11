@@ -1,0 +1,21 @@
+{
+  "id": 32146097,
+  "name": "D/D Pandora",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard, or when this card in your possession is destroyed by an opponent\u0027s card effect and sent to your Graveyard, and you control no cards: You can draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32146097.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 5,
+  "is_tuner": false
+}

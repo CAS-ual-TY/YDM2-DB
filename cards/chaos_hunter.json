@@ -1,0 +1,21 @@
+{
+  "id": 97940434,
+  "name": "Chaos Hunter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand. Your opponent cannot banish cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97940434.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 7,
+  "is_tuner": false
+}

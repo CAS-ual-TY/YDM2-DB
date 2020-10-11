@@ -1,0 +1,21 @@
+{
+  "id": 86520461,
+  "name": "Fossil Warrior Skull Bone",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Rock monster + 1 Level 4 or lower monster\nMust first be Special Summoned with \"Fossil Fusion\". This card can make a second attack on monsters during each Battle Phase. You can banish this card from your GY; add 1 \"Time Stream\" from your Deck to your hand. You can only use this effect of \"Fossil Warrior Skull Bone\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86520461.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Rock",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

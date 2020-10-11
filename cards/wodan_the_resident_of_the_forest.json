@@ -1,0 +1,21 @@
+{
+  "id": 42883273,
+  "name": "Wodan the Resident of the Forest",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Increase this card\u0027s ATK by 100 points for every Plant-Type monster that is face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42883273.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

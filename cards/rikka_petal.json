@@ -1,0 +1,21 @@
+{
+  "id": 71734607,
+  "name": "Rikka Petal",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase: You can take 1 \"Rikka\" monster from your Deck, except \"Rikka Petal\", and either add it to your hand or send it to the GY, also you cannot Special Summon for the rest of this turn, except Plant monsters. During your opponent\u0027s End Phase, while this card is in your GY, if you control no monsters or all monsters you control are Plant monsters: You can Special Summon this card. You can only use each effect of \"Rikka Petal\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71734607.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

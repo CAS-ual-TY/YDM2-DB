@@ -1,0 +1,21 @@
+{
+  "id": 3779662,
+  "name": "Gladiator Beast Andabata",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Gladiator Beast Augustus\" + 2 \"Gladiator Beast\" monsters\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) If Summoned this way: You can Special Summon 1 Level 7 or lower \"Gladiator Beast\" Fusion Monster from your Extra Deck, ignoring its Summoning conditions. At the end of the Battle Phase, if this card battled: You can return it to the Extra Deck; Special Summon 2 \"Gladiator Beast\" monsters from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3779662.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Beast-Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

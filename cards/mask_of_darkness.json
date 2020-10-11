@@ -1,0 +1,21 @@
+{
+  "id": 28933734,
+  "name": "Mask of Darkness",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Target 1 Trap in your GY; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28933734.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 900,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

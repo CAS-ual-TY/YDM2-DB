@@ -1,0 +1,21 @@
+{
+  "id": 90640901,
+  "name": "Reverse Buster",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90640901.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

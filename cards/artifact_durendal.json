@@ -1,0 +1,20 @@
+{
+  "id": 69840739,
+  "name": "Artifact Durendal",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 5 monsters\nOnce per turn, during either player\u0027s turn, you can activate 1 of these effects.\n? When a monster effect is activated on the field OR when a Normal Spell/Trap Card is activated: You can detach 1 Xyz Material from this card; the activated effect becomes \"Destroy 1 Spell/Trap Card your opponent controls\".\n? You can detach 1 Xyz Material from this card; each player with a hand shuffles their entire hand into the Deck, then draws the same number of cards they shuffled into the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69840739.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Fairy",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "rank": 5
+}

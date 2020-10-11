@@ -1,0 +1,21 @@
+{
+  "id": 81566151,
+  "name": "Elemental HERO Flare Neos",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Elemental HERO Neos\" + \"Neo-Spacian Flare Scarab\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) This card gains 400 ATK for each Spell/Trap Card on the field. During the End Phase: Shuffle this card into the Extra Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81566151.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2500,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

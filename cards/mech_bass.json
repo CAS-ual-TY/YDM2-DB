@@ -1,0 +1,21 @@
+{
+  "id": 50176820,
+  "name": "Mech Bass",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A mechanized bass with a large mouth and a cannon on its back. The cannon fires blinding plasma rays.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50176820.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

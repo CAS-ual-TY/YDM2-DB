@@ -1,0 +1,21 @@
+{
+  "id": 94853057,
+  "name": "Banisher of the Radiance",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Any card sent to the Graveyard is banished instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94853057.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

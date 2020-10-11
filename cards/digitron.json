@@ -1,0 +1,21 @@
+{
+  "id": 32295838,
+  "name": "Digitron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A subspecies found in electronic space. There\u0027s little information on it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32295838.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

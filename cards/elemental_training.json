@@ -1,0 +1,12 @@
+{
+  "id": 11167052,
+  "name": "Elemental Training",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent cannot target \"Palace of the Elemental Lords\" you control with card effects, also it cannot be destroyed by card effects. Once per turn: You can Tribute 1 monster; Special Summon 1 \"Elementsaber\" monster from your Deck with a different original Attribute than that monster\u0027s. You can send this face-up card from the field to the GY; discard your entire hand, then add \"Elemental Lord\" monsters from your GY to your hand, equal to the number of cards discarded.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11167052.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

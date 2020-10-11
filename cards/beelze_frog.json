@@ -1,0 +1,21 @@
+{
+  "id": 49522489,
+  "name": "Beelze Frog",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card gains 300 ATK for each \"T.A.D.P.O.L.E.\" in your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49522489.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

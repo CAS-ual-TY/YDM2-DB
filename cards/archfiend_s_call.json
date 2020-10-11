@@ -1,0 +1,21 @@
+{
+  "id": 64635042,
+  "name": "Archfiend\u0027s Call",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nThis card\u0027s name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. Your opponent cannot target any \"Summoned Skull\" you control with card effects. If this Synchro Summoned card you control is sent to your GY by an opponent\u0027s card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64635042.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

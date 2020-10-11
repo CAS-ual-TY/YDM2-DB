@@ -1,0 +1,21 @@
+{
+  "id": 3810071,
+  "name": "Monk Fighter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Battle Damage to this card\u0027s controller from a battle involving this card becomes 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3810071.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

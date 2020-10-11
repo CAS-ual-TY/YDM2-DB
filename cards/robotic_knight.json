@@ -1,0 +1,21 @@
+{
+  "id": 44203504,
+  "name": "Robotic Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The Commander of Machine-Types, he serves the Machine King. He is famous for the way he controls his troops.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44203504.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

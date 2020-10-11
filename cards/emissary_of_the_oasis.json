@@ -1,0 +1,21 @@
+{
+  "id": 6103294,
+  "name": "Emissary of the Oasis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While a face-up Level 3 or lower Normal Monster is on your side of the field, your opponent cannot select this card as an attack target. While this card is face-up on your side of the field, any Battle Damage to the controller of this card from battle involving a Level 3 or lower Normal Monster becomes 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6103294.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}

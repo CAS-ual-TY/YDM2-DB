@@ -1,0 +1,12 @@
+{
+  "id": 82003859,
+  "name": "Toll",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each player must pay 500 Life Points to declare an attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82003859.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

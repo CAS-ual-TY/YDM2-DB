@@ -1,0 +1,21 @@
+{
+  "id": 63060238,
+  "name": "Elemental HERO Blazeman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Polymerization\" from your Deck to your hand. During your Main Phase: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except Fusion Monsters, also send 1 \"Elemental HERO\" monster from your Deck to the GY, except \"Elemental HERO Blazeman\", and if you do, this card\u0027s Attribute and ATK/DEF become the same as the monster sent to the GY, until the end of this turn. You can only use 1 \"Elemental HERO Blazeman\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63060238.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

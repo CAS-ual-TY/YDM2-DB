@@ -1,0 +1,21 @@
+{
+  "id": 96334243,
+  "name": "Sea Monster of Theseus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Tuners",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96334243.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2200,
+  "species": "Zombie",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

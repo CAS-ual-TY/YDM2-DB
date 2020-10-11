@@ -1,0 +1,21 @@
+{
+  "id": 76203291,
+  "name": "Golden Flying Fish",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute 1 other Fish-Type monster, then target 1 card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76203291.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2980764,
+  "name": "Consecrated Light",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Neither player can Normal or Special Summon DARK monsters or declare an attack with a DARK monster. This card cannot be destroyed by battle with a DARK monster, also you take no battle damage from that battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2980764.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

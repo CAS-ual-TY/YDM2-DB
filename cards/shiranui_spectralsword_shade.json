@@ -1,0 +1,21 @@
+{
+  "id": 79783880,
+  "name": "Shiranui Spectralsword Shade",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute this card, then target 2 of your banished Zombie monsters, except \"Shiranui Spectralsword Shade\", including a \"Shiranui\" monster; Special Summon them in Defense Position, but negate their effects, also, you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of \"Shiranui Spectralsword Shade\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79783880.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 3,
+  "is_tuner": true
+}

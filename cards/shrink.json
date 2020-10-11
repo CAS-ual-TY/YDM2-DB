@@ -1,0 +1,12 @@
+{
+  "id": 55713623,
+  "name": "Shrink",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55713623.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

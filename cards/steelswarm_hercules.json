@@ -1,0 +1,21 @@
+{
+  "id": 94092230,
+  "name": "Steelswarm Hercules",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. Requires 3 \"Steelswarm\" Tributes to Normal Summon (cannot be Normal Set). Once per turn: You can pay half your Life Points; destroy all other cards on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94092230.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

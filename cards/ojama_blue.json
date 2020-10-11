@@ -1,0 +1,21 @@
+{
+  "id": 64627453,
+  "name": "Ojama Blue",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed by battle and sent to the GY: You can add 2 \"Ojama\" cards from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64627453.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}

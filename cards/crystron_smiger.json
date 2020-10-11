@@ -1,0 +1,21 @@
+{
+  "id": 83443619,
+  "name": "Crystron Smiger",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 face-up card you control; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Machine-Type Synchro Monsters, also, destroy that card, and if you do, Special Summon 1 \"Crystron\" Tuner from your Deck. You can banish this card from your Graveyard; add 1 \"Crystron\" Spell/Trap Card from your Deck to your hand. You can only use 1 \"Crystron Smiger\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83443619.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

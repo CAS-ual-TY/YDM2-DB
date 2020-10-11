@@ -1,0 +1,21 @@
+{
+  "id": 75991898,
+  "name": "Lavalval Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner FIRE monsters\n You can shuffle 2 \"Laval\" monsters from your Graveyard into your Main Deck to target 1 card your opponent controls; return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75991898.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 5,
+  "is_tuner": false
+}

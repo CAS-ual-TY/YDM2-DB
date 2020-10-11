@@ -1,0 +1,21 @@
+{
+  "id": 73481154,
+  "name": "Destroyer Golem",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A golem with a massive right hand for crushing its victims.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73481154.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

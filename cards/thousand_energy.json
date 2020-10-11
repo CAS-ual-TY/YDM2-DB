@@ -1,0 +1,12 @@
+{
+  "id": 5703682,
+  "name": "Thousand Energy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Increase the original ATK and DEF of all face-up Level 2 Normal Monsters (except Tokens) on your side of the field by 1000 points until the End Phase. Destroy all Level 2 Normal Monsters on your side of the field during the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5703682.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

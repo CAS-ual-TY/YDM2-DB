@@ -1,0 +1,21 @@
+{
+  "id": 32452818,
+  "name": "Beaver Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "What this creature lacks in size it makes up for in defense when battling in the prairie.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32452818.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

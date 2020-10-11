@@ -1,0 +1,21 @@
+{
+  "id": 56369281,
+  "name": "Wolf Axwielder",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once it has started battle, this monster attacks fiercely and cannot stop.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56369281.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1650,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

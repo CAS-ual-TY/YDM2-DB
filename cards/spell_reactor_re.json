@@ -1,0 +1,21 @@
+{
+  "id": 15175429,
+  "name": "Spell Reactor RE",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, when your opponent activates a Spell Card, you can destroy the Spell Card and inflict 800 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15175429.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

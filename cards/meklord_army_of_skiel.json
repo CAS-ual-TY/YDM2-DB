@@ -1,0 +1,21 @@
+{
+  "id": 75733063,
+  "name": "Meklord Army of Skiel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card gains 200 ATK for each \"Meklord\" monster on the field, except this card. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Meklord Army\" monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75733063.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

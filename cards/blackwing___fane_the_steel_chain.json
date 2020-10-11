@@ -1,0 +1,21 @@
+{
+  "id": 9109991,
+  "name": "Blackwing - Fane the Steel Chain",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Target 1 Attack Position monster your opponent controls; change that target to Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9109991.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

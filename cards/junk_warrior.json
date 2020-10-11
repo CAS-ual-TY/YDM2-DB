@@ -1,0 +1,21 @@
+{
+  "id": 60800381,
+  "name": "Junk Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60800381.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
+}

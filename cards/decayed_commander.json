@@ -1,0 +1,21 @@
+{
+  "id": 10209545,
+  "name": "Decayed Commander",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 \"Zombie Tiger\" from your hand. If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10209545.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

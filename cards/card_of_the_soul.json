@@ -1,0 +1,12 @@
+{
+  "id": 7044562,
+  "name": "Card of the Soul",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Look at your Deck, and if you do, you can add 1 monster from your Deck to your hand, whose sum of ATK and DEF equals your LP. You can only activate 1 \"Card of the Soul\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7044562.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

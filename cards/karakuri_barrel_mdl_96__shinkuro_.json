@@ -1,0 +1,21 @@
+{
+  "id": 92300891,
+  "name": "Karakuri Barrel mdl 96 \"Shinkuro\"",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. Once per turn, this card cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92300891.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

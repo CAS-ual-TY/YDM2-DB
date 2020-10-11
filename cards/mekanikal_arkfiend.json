@@ -1,0 +1,21 @@
+{
+  "id": 93715853,
+  "name": "Mekanikal Arkfiend",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card inflicts battle damage to your opponent: You can Special Summon 1 Normal Monster from your hand or Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93715853.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

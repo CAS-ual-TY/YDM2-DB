@@ -1,0 +1,21 @@
+{
+  "id": 84173492,
+  "name": "Indomitable Fighter Lei Lei",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card\u0027s battle position cannot be changed until the end of your next turn, except with a card effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84173492.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

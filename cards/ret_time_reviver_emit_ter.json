@@ -1,0 +1,21 @@
+{
+  "id": 55702233,
+  "name": "Ret-time Reviver Emit-ter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand or GY: You can target 1 face-up monster on each field; change them to face-down Defense Position, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Ret-time Reviver Emit-ter\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55702233.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
+}

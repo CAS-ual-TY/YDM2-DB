@@ -1,0 +1,21 @@
+{
+  "id": 89907227,
+  "name": "White Aura Bihamut",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner Synchro Monster + 1+ non-Tuner monsters\nDuring your turn, when this card is Synchro Summoned: You can Special Summon 1 \"Divine Dragon Token\" (Fish/WATER/Level 10/ATK 3300/DEF 3000) in Defense Position. Once per opponent\u0027s turn, while you control no Tokens (Quick Effect): You can Special Summon 1 \"Divine Dragon Token\". If this card you control is destroyed by an opponent\u0027s card effect and sent to your GY, while you control a \"Divine Dragon Token\": You can Special Summon this card in Defense position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89907227.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 3300,
+  "species": "Fish",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

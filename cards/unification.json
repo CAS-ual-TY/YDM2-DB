@@ -1,0 +1,12 @@
+{
+  "id": 95352218,
+  "name": "Unification",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, during each player\u0027s Standby Phase: The turn player declares a Level from among the face-up monsters they control, then sends all face-up monsters they control with a different Level to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95352218.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

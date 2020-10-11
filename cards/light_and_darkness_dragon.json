@@ -1,0 +1,21 @@
+{
+  "id": 47297616,
+  "name": "Light and Darkness Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. While face-up on the field, this card is also DARK-Attribute. Once per Chain, during either player\u0027s turn, when a Spell Card, Trap Card, or monster effect is activated: This card loses exactly 500 ATK and DEF and that activation is negated. When this card is destroyed and sent to the Graveyard: Target 1 monster in your Graveyard (if possible); destroy all cards you control, also Special Summon that monster (if any).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47297616.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 8,
+  "is_tuner": false
+}

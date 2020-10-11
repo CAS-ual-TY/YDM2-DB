@@ -1,0 +1,21 @@
+{
+  "id": 48868994,
+  "name": "Morphtronic Vacuumen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "? While in Attack Position: Once per turn, you can send 1 Equip Card equipped to this card to the Graveyard to inflict 500 damage to your opponent. \n ? While in Defense Position: Once per turn, you can equip 1 face-up Attack Position monster your opponent controls to this card as an Equip Card. (You can only equip 1 monster at a time to this card by this effect.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48868994.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

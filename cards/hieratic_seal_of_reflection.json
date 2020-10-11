@@ -1,0 +1,12 @@
+{
+  "id": 47360060,
+  "name": "Hieratic Seal of Reflection",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a Spell Card, Trap Card, or monster effect is activated: Tribute 1 \"Hieratic\" monster; negate the activation, and if you do, destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47360060.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

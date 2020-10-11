@@ -1,0 +1,21 @@
+{
+  "id": 40659562,
+  "name": "Guardian Sphinx",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Return all monsters your opponent controls to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40659562.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 5,
+  "is_tuner": false
+}

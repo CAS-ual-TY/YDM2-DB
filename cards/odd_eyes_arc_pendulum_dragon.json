@@ -1,0 +1,24 @@
+{
+  "id": 14105623,
+  "name": "Odd-Eyes Arc Pendulum Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Made from miracles, this valiant and beautiful dragon has gleaming eyes that reflect an arc drawn in the sky.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14105623.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false,
+  "pendulum_text": "If an \"Odd-Eyes\" card(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Odd-Eyes\" monster from your hand, Deck, or GY. You can only use this effect of \"Odd-Eyes Arc Pendulum Dragon\" once per turn.\n",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
+}

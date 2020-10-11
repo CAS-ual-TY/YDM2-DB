@@ -1,0 +1,21 @@
+{
+  "id": 48355999,
+  "name": "Rokket Synchron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can target 1 Level 5 or higher DARK Dragon monster in your GY; Special Summon it in Defense Position, negate its effects, destroy it during the End Phase, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48355999.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 11510448,
+  "name": "Zoodiac Tigermortar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Tigermortar\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. Once per turn: You can detach 1 Xyz Material from this card, then target 1 Xyz Monster you control and 1 \"Zoodiac\" monster in your Graveyard; attach that \"Zoodiac\" monster to that Xyz Monster as Xyz Material.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11510448.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast-Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 4
+}

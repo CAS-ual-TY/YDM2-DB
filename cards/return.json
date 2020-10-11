@@ -1,0 +1,12 @@
+{
+  "id": 47247413,
+  "name": "Return",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent adds a card(s) from the Graveyard to their hand: They must shuffle 1 of those cards into their Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47247413.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

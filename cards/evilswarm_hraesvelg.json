@@ -1,0 +1,21 @@
+{
+  "id": 35209994,
+  "name": "Evilswarm Hraesvelg",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Target 1 face-up card your opponent controls; return that target to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35209994.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1150,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1850,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 45184165,
+  "name": "Raidraptor - Skull Eagle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster\u0027s effect: You can banish this card from your Graveyard, then target 1 \"Raidraptor\" card in your Graveyard; add it to your hand. You can only use this effect of \"Raidraptor - Skull Eagle\" once per turn. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n? If it is Xyz Summoned: It gains 300 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45184165.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

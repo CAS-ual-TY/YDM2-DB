@@ -1,0 +1,21 @@
+{
+  "id": 37349495,
+  "name": "Naturia Eggplant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is sent from the field to the Graveyard, you can select 1 \"Naturia\" monster in your Graveyard, except \"Naturia Eggplant\", and add it to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37349495.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

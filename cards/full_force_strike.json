@@ -1,0 +1,12 @@
+{
+  "id": 81000306,
+  "name": "Full-Force Strike",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 face-up monster you control; this turn, it cannot be destroyed by battle, players take no battle damage from its attacks, and if it attacks an opponent\u0027s monster, destroy that opponent\u0027s monster after damage calculation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81000306.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

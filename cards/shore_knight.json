@@ -1,0 +1,21 @@
+{
+  "id": 14771222,
+  "name": "Shore Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, if the battle position of this face-up card on the field is changed: Send 1 WATER monster from your Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14771222.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 65301952,
+  "name": "Alchemic Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 4 Spellcaster-Type monsters\nThis card gains 200 ATK for each Spell Card in your Graveyard. Once per turn, during your End Phase: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard; choose 1 Spell Card from your Deck, then Set it in your Spell \u0026 Trap Card Zone.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65301952.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Spellcaster",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "rank": 4
+}

@@ -1,0 +1,21 @@
+{
+  "id": 72664875,
+  "name": "Crimson Nova Trinity the Dark Cubic Lord",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 x \"Crimson Nova the Dark Cubic Lord\"\nMust be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. Cannot be targeted, or destroyed by, your opponent\u0027s card effects. When this card declares an attack: Halve your opponent\u0027s LP. When this card destroys a monster by battle: You can activate this effect; this card can make a second attack during this Battle Phase. If you take effect damage: Inflict damage to your opponent equal to the damage you took.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72664875.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4500,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

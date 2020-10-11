@@ -1,0 +1,12 @@
+{
+  "id": 1372887,
+  "name": "Shared Ride",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "For the rest of this turn, each time a card(s) is added from the Main Deck or GY to your opponent\u0027s hand, except by drawing them, you immediately draw 1 card. You can only activate 1 \"Shared Ride\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1372887.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

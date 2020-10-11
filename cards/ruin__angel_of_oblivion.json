@@ -1,0 +1,21 @@
+{
+  "id": 50139096,
+  "name": "Ruin, Angel of Oblivion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Cycle of the World\". This card\u0027s name becomes \"Ruin, Queen of Oblivion\" while in the hand or on the field. If this card is Ritual Summoned: It can make up to 2 attacks on monsters during each Battle Phase this turn. If this card is sent to the GY: You can target 1 Ritual Monster you control; while it is face-up on your field, your opponent cannot activate cards or effects when your Ritual Monsters declare an attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50139096.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Fairy",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

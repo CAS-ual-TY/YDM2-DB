@@ -1,0 +1,21 @@
+{
+  "id": 11321183,
+  "name": "Dark Blade",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11321183.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

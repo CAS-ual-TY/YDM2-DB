@@ -1,0 +1,21 @@
+{
+  "id": 71746462,
+  "name": "Sea Kamen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A merciless monster that tears opponents to shreds with razor-like claws.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71746462.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

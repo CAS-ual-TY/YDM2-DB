@@ -1,0 +1,21 @@
+{
+  "id": 25866285,
+  "name": "Naturia Stinkbug",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a face-up \"Naturia\" monster you control is selected as an attack target, you can send this face-up card you control to the Graveyard to negate that attack and end the Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25866285.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 200,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 3,
+  "is_tuner": true
+}

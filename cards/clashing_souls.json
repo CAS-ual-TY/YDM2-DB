@@ -1,0 +1,12 @@
+{
+  "id": 57496978,
+  "name": "Clashing Souls",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During damage calculation, if your Attack Position monster battles an opponent\u0027s Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player\u0027s monster would be destroyed by that battle, send all cards that player controls to the Graveyard instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57496978.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

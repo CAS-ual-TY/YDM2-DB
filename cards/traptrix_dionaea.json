@@ -1,0 +1,21 @@
+{
+  "id": 45803070,
+  "name": "Traptrix Dionaea",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can target 1 \"Traptrix\" monster in your Graveyard; Special Summon that target in Defense Position. When this card is Special Summoned: You can target 1 \"Hole\" Normal Trap Card in your Graveyard; Set that target, but banish it during the End Phase of your next turn if it is still on the field. You can only use this effect of \"Traptrix Dionaea\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45803070.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

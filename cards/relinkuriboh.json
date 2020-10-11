@@ -1,0 +1,21 @@
+{
+  "id": 50185950,
+  "name": "Relinkuriboh",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Tributed: Draw 1 card. If your monster would be destroyed by battle, you can banish this card from your GY instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50185950.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

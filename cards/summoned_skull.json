@@ -1,0 +1,24 @@
+{
+  "id": 70781052,
+  "name": "Summoned Skull",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70781052.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70781053.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70781054.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70781055.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

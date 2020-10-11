@@ -1,0 +1,21 @@
+{
+  "id": 19420830,
+  "name": "Cataclysmic Cryonic Coldo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up WIND monster(s) you control is destroyed by battle or an opponent\u0027s card effect: You can Special Summon this card from your hand, then, you can place 1 Spell/Trap from the field on top of the Deck. You can only use this effect of \"Cataclysmic Cryonic Coldo\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19420830.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2600,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 8,
+  "is_tuner": false
+}

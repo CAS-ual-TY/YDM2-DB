@@ -1,0 +1,21 @@
+{
+  "id": 128454,
+  "name": "Performapal Springoose",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish this card from your Graveyard, then target 2 cards among the Pendulum Monsters you control and/or the \"Magician\" and \"Performapal\" cards in your Pendulum Zone; return both to the hand. You can only use this effect of \"Performapal Springoose\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/128454.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1100,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 5,
+  "is_tuner": false
+}

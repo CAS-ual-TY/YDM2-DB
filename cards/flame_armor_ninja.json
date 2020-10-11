@@ -1,0 +1,21 @@
+{
+  "id": 33034646,
+  "name": "Flame Armor Ninja",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Summoned: You can target 1 \"Ninja\" monster you control; increase its Level by 1.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33034646.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

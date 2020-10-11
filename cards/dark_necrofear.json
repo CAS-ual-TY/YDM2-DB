@@ -1,0 +1,21 @@
+{
+  "id": 31829185,
+  "name": "Dark Necrofear",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent\u0027s card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31829185.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

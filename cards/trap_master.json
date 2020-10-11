@@ -1,0 +1,21 @@
+{
+  "id": 46461247,
+  "name": "Trap Master",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46461247.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
+}

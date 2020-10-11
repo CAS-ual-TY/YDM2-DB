@@ -1,0 +1,21 @@
+{
+  "id": 62113340,
+  "name": "Divine Dragon Ragnarok",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A legendary dragon sent by the gods as their instrument. Legends say that if provoked, the whole world will sink beneath the sea.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62113340.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

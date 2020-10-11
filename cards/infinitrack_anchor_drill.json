@@ -1,0 +1,21 @@
+{
+  "id": 62034800,
+  "name": "Infinitrack Anchor Drill",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can Special Summon 1 EARTH Machine monster from your hand in Defense Position, except \"Infinitrack Anchor Drill\". You can target 1 other Machine monster you control; the Levels of both that monster and this card become the combined original Levels of those 2 monsters, until the end of this turn. You can only use each effect of \"Infinitrack Anchor Drill\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62034800.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

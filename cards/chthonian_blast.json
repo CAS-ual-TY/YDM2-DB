@@ -1,0 +1,12 @@
+{
+  "id": 18271561,
+  "name": "Chthonian Blast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a face-up monster you control is destroyed and sent to the Graveyard: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied), and if you do, inflict damage to both players equal to half of that monster\u0027s ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18271561.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

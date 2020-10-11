@@ -1,0 +1,21 @@
+{
+  "id": 56532353,
+  "name": "Neo Blue-Eyes Ultimate Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nAt the end of the Damage Step, if this is the only face-up card you control, and this Fusion Summoned card attacked: You can send 1 \"Blue-Eyes\" Fusion Monster from your Extra Deck to the Graveyard; this card can attack again in a row. You can use this effect of \"Neo Blue-Eyes Ultimate Dragon\" up to twice per turn. During either player\u0027s turn, when a card or effect is activated that targets a \"Blue-Eyes\" monster(s) you control: You can banish this card from your Graveyard; negate the activation, and if you do, destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56532353.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 4500,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3800,
+  "level": 12,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 77910045,
+  "name": "Fatal Abacus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each time 1 monster is sent from the field to the Graveyard, inflict 500 points of damage per card to the respective card owner\u0027s Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77910045.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

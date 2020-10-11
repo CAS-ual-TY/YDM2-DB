@@ -1,0 +1,12 @@
+{
+  "id": 32233746,
+  "name": "Vanquishing Light",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a monster(s) would be Summoned: Tribute 1 \"Lightsworn\" monster; negate the Summon, and if you do, destroy that monster(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32233746.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

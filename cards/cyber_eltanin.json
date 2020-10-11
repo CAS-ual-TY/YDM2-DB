@@ -1,0 +1,21 @@
+{
+  "id": 33093439,
+  "name": "Cyber Eltanin",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT Machine monsters from your field and GY. This card\u0027s ATK/DEF become the number of monsters banished for its Special Summon x 500. If this card is Special Summoned: Send all other face-up monsters on the field to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33093439.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

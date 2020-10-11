@@ -1,0 +1,21 @@
+{
+  "id": 31477025,
+  "name": "Mr. Volcano",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This seemingly mild-mannered creature has an extremely volatile temper.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31477025.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2100,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
+}

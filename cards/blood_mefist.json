@@ -1,0 +1,21 @@
+{
+  "id": 30757396,
+  "name": "Blood Mefist",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your opponent\u0027s Standby Phase: You can inflict 300 damage to your opponent for each card your opponent controls. Each time your opponent Sets a Spell or Trap Card(s): Inflict 300 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30757396.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Fiend",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 8,
+  "is_tuner": false
+}

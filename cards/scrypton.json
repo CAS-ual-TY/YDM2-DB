@@ -1,0 +1,21 @@
+{
+  "id": 56161953,
+  "name": "Scrypton",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish 1 Cyberse monster from your GY, except \"Scrypton\"; Special Summon this card from your hand. If this card is sent to the GY as material for the Link Summon of a Cyberse monster: You can target 1 banished monster; shuffle it into the Deck. You can only use each effect of \"Scrypton\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56161953.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

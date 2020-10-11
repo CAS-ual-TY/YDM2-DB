@@ -1,0 +1,12 @@
+{
+  "id": 52128900,
+  "name": "Synchro Gift",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Select 2 face-up monsters you control (1 Synchro Monster and 1 non-Synchro monster). Until the End Phase of this turn, reduce the ATK of the Synchro Monster to 0, and the other monster gains ATK equal to the Synchro Monster\u0027s original ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52128900.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

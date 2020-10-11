@@ -1,0 +1,21 @@
+{
+  "id": 53577438,
+  "name": "Mathmech Nabla",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute 1 Cyberse monster; Special Summon 1 \"Mathmech\" monster from your Deck. If this card is sent to the GY: You can target 1 Cyberse monster you control in the Extra Monster Zone; it can make up to 2 attacks on monsters during each Battle Phase this turn. You can only use each effect of \"Mathmech Nabla\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53577438.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": true
+}

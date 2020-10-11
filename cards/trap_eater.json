@@ -1,0 +1,21 @@
+{
+  "id": 13821299,
+  "name": "Trap Eater",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by sending 1 face-up Trap Card your opponent controls to the Graveyard, and cannot be Special Summoned by other ways.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13821299.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": true
+}

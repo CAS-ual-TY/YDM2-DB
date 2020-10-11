@@ -1,0 +1,21 @@
+{
+  "id": 80234301,
+  "name": "Prisman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This crystalline monster focuses light to create a lethal laser.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80234301.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

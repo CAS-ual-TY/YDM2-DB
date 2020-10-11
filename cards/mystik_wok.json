@@ -1,0 +1,12 @@
+{
+  "id": 80161395,
+  "name": "Mystik Wok",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Tribute 1 monster. Select either its ATK or DEF and gain that many Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80161395.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

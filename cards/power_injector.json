@@ -1,0 +1,21 @@
+{
+  "id": 89547299,
+  "name": "Power Injector",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn you can pay 600 Life Points to have all face-up Psychic-Type monsters gain 500 ATK during this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89547299.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

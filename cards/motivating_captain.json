@@ -1,0 +1,21 @@
+{
+  "id": 18837926,
+  "name": "Motivating Captain",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but it has its effects negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18837926.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 1,
+  "is_tuner": false
+}

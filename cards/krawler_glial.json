@@ -1,0 +1,21 @@
+{
+  "id": 51205763,
+  "name": "Krawler Glial",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: You can Special Summon 1 \"Krawler\" monster from your hand or GY, in face-up Attack Position or face-down Defense Position, except \"Krawler Glial\".\nIf this face-up card in its owner\u0027s control leaves the field because of an opponent\u0027s card effect: You can Special Summon 2 \"Krawler\" monsters with different names from your Deck in face-down Defense Position, except \"Krawler Glial\". You can only use each effect of \"Krawler Glial\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51205763.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1500,
+  "level": 2,
+  "is_tuner": false
+}

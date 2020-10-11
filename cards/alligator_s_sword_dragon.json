@@ -1,0 +1,21 @@
+{
+  "id": 3366982,
+  "name": "Alligator\u0027s Sword Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Baby Dragon\" + \"Alligator\u0027s Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3366982.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1700,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

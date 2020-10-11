@@ -1,0 +1,21 @@
+{
+  "id": 31314549,
+  "name": "Raidraptor - Singing Lanius",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a face-up Xyz Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Raidraptor - Singing Lanius\" once per turn this way.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31314549.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
+}

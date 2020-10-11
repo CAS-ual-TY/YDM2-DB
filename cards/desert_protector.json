@@ -1,0 +1,21 @@
+{
+  "id": 38981606,
+  "name": "Desert Protector",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card gains 300 DEF for each Spell and Trap Card on the field. If an Insect-Type monster you control would be destroyed, you can destroy this card instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38981606.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

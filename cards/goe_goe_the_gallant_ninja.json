@@ -1,0 +1,21 @@
+{
+  "id": 10236520,
+  "name": "Goe Goe the Gallant Ninja",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card inflicts Battle Damage to your opponent: Your opponent must discard 2 random cards. Your opponent must have at least 5 cards in their hand for you to activate and to resolve this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10236520.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

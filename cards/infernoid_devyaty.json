@@ -1,0 +1,21 @@
+{
+  "id": 23440231,
+  "name": "Infernoid Devyaty",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 \"Infernoid\" monsters from your hand or GY while the total Levels and Ranks of all Effect Monsters you control are 8 or lower. When this card is Special Summoned: You can destroy all Spells and Traps on the field, except \"Void\" cards. Once per turn, when another monster\u0027s effect is activated (Quick Effect): You can Tribute 1 monster; negate the activation, and if you do, banish it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23440231.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2900,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2900,
+  "level": 9,
+  "is_tuner": false
+}

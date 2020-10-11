@@ -1,0 +1,21 @@
+{
+  "id": 47432275,
+  "name": "Kuribon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During damage calculation, if this card is attacked by your opponent\u0027s monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster\u0027s ATK, also you return this card to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47432275.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

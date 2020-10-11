@@ -1,0 +1,12 @@
+{
+  "id": 48310593,
+  "name": "Finite Cards",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The hand size limit of each player becomes 3.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48310593.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

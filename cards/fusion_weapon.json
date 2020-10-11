@@ -1,0 +1,12 @@
+{
+  "id": 27967615,
+  "name": "Fusion Weapon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Equip only to a Level 6 or lower Fusion Monster. The equipped monster gains 1500 ATK and DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27967615.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15291624,
+  "name": "Thunder Dragon Colossus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Thunder Dragon\" + 1 Thunder monster\nMust be either Fusion Summoned, or Special Summoned during the turn a Thunder monster\u0027s effect was activated in the hand, by Tributing 1 Thunder Effect non-Fusion Monster (in which case you do not use \"Polymerization\"). Cards cannot be added from the Main Deck to your opponent\u0027s hand except by drawing them. If this card would be destroyed by battle or card effect, you can banish 1 Thunder monster from your GY instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15291624.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Thunder",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 8,
+  "is_tuner": false
+}

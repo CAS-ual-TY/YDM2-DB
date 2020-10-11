@@ -1,0 +1,21 @@
+{
+  "id": 1557341,
+  "name": "Rose, Warrior of Revenge",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1557341.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 4,
+  "is_tuner": true
+}

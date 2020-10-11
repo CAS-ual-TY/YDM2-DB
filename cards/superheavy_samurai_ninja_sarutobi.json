@@ -1,0 +1,21 @@
+{
+  "id": 76471944,
+  "name": "Superheavy Samurai Ninja Sarutobi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player\u0027s turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card on the field; destroy it, and if you do, inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76471944.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

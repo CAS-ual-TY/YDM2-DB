@@ -1,0 +1,21 @@
+{
+  "id": 31557782,
+  "name": "Ancient Gear",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control an \"Ancient Gear\", you can Special Summon this card (from your hand) in face-up Attack Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31557782.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

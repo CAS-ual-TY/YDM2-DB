@@ -1,0 +1,21 @@
+{
+  "id": 900787,
+  "name": "Dragunity Knight - Gae Bulg",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters \n If this card attacks or is attacked, during the Damage Step you can remove from play 1 (only) Winged Beast-Type monster from your Graveyard, to have this card gain the ATK of that monster until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/900787.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 6,
+  "is_tuner": false
+}

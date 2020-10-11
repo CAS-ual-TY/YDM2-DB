@@ -1,0 +1,21 @@
+{
+  "id": 20228463,
+  "name": "Ceremonial Bell",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Both players must keep their hands revealed.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20228463.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1850,
+  "level": 3,
+  "is_tuner": false
+}

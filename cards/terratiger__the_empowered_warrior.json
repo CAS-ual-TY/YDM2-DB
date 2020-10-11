@@ -1,0 +1,21 @@
+{
+  "id": 56681873,
+  "name": "Terratiger, the Empowered Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Normal Monster from your hand in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56681873.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 89484053,
+  "name": "Salamangreat Mole",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase, if you Link Summoned this turn: You can Special Summon this card from your hand to your zone a Link Monster points to. If you control no monsters: You can banish this card from your GY, then target 5 \"Salamangreat\" cards in your GY; shuffle them into the Deck, then draw 2 cards. You can only use each effect of \"Salamangreat Mole\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89484053.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

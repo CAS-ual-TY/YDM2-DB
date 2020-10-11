@@ -1,0 +1,21 @@
+{
+  "id": 96891787,
+  "name": "Dogmatika Theo, the Iron Punch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Theo, the Iron Punch\" once per turn. If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; until the end of this turn, this card gains 600 ATK, and if it does, the targeted monster loses 600 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96891787.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

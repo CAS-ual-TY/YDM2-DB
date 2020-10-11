@@ -1,0 +1,21 @@
+{
+  "id": 93900406,
+  "name": "Mushroom Man #2",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A player controlling this monster loses 300 Life Points during each of his/her Standby Phases when this card is face-up on the field. Control of this card is shifted to your opponent by paying 500 Life Points at your own End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93900406.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1250,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

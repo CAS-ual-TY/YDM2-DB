@@ -1,0 +1,21 @@
+{
+  "id": 43228023,
+  "name": "Blue-Eyes Alternative Ultimate Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nYour opponent cannot target or destroy this card with card effects. Once per turn: You can target 1 card your opponent controls; destroy it. If this card was Fusion Summoned using a monster whose original name is \"Blue-Eyes Alternative White Dragon\" as material, you can target up to 3 cards your opponent controls instead. This card cannot attack the turn this effect is activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43228023.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 4500,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3800,
+  "level": 12,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 59496924,
+  "name": "Kozmo Landwalker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a \"Kozmo\" card(s) you control would be destroyed by battle or an opponent\u0027s card effect, you can destroy 1 other \"Kozmo\" card you control instead. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 5 or lower \"Kozmo\" monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59496924.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

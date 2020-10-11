@@ -1,0 +1,21 @@
+{
+  "id": 98162021,
+  "name": "Shien\u0027s Daredevil",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: Place 1 Bushido Counter on it (max. 1). This card gains 300 ATK while it has a Bushido Counter on it. Once per turn: You can target 1 face-up card on the field that you can place a Bushido Counter on; remove 1 Bushido Counter from this card, then place it on that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98162021.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

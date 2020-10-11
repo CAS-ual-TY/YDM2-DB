@@ -1,0 +1,21 @@
+{
+  "id": 8972398,
+  "name": "Omni Dragon Brotaur",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a monster you control is destroyed by battle or an opponent\u0027s card effect: You can Special Summon this card from the GY (if it was there when the monster was destroyed) or hand (even if not), but banish it when it leaves the field. If this card is Special Summoned: You can target 1 face-up monster on the field; discard 1 card, and if you do, add 1 monster from your Deck to your hand, with the same Type and Attribute as that target, but a different name. You can only use each effect of \"Omni Dragon Brotaur\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8972398.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

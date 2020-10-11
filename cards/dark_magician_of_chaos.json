@@ -1,0 +1,21 @@
+{
+  "id": 40737112,
+  "name": "Dark Magician of Chaos",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the End Phase, if this card was Normal or Special Summoned this turn: You can target 1 Spell in your GY; add it to your hand. You can only use this effect of \"Dark Magician of Chaos\" once per turn. If this card destroys an opponent\u0027s monster by battle, after damage calculation: Banish that opponent\u0027s monster. If this face-up card would leave the field, banish it instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40737112.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 75390004,
+  "name": "Megazowler",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Nothing stands in the way of this spike-covered dinosaur!",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75390004.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

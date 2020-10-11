@@ -1,0 +1,21 @@
+{
+  "id": 4367330,
+  "name": "Zoodiac Bunnyblast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is destroyed by battle or card effect: You can target 1 \"Zoodiac\" card in your Graveyard, except \"Zoodiac Bunnyblast\"; add it to your hand. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\n? During either player\u0027s turn, when your opponent activates a Spell Card or effect that targets this card: You can detach 1 Xyz Material from this card; negate the activation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4367330.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

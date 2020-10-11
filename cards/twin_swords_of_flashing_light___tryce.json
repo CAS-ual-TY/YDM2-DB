@@ -1,0 +1,12 @@
+{
+  "id": 21900719,
+  "name": "Twin Swords of Flashing Light - Tryce",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Send 1 card from your hand to the Graveyard; equip this card to a monster. It loses 500 ATK, but it can make a second attack during each Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21900719.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

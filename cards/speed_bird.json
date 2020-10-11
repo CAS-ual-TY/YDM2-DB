@@ -1,0 +1,21 @@
+{
+  "id": 86174055,
+  "name": "Speed Bird",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard: You can target 2 Level 2 monsters in your Graveyard; Special Summon them, but their effects are negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86174055.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 72453068,
+  "name": "Loss Time",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent\u0027s LP is 4000 or higher, your LP become 1000 less than theirs. You can only activate 1 \"Loss Time\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72453068.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

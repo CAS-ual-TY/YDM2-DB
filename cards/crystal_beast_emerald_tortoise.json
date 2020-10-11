@@ -1,0 +1,21 @@
+{
+  "id": 68215963,
+  "name": "Crystal Beast Emerald Tortoise",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can target 1 monster you control that attacked this turn; change that target to Defense Position. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell \u0026 Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68215963.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 600,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

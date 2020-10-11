@@ -1,0 +1,22 @@
+{
+  "id": 59438930,
+  "name": "Ghost Ogre \u0026 Snow Rabbit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a monster on the field activates its effect, or when a Spell/Trap that is already face-up on the field activates its effect (Quick Effect): You can send this card from your hand or field to the GY; destroy that card on the field. You can only use this effect of \"Ghost Ogre \u0026 Snow Rabbit\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59438930.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59438931.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": true
+}

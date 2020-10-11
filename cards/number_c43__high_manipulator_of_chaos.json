@@ -1,0 +1,20 @@
+{
+  "id": 32446630,
+  "name": "Number C43: High Manipulator of Chaos",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "4 Level 3 DARK monsters\n All Tokens you control can make a second attack during each Battle Phase. If this card has \"Number 43: Manipulator of Souls\" as an Xyz Material, it gains this effect.\n? Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Manipulator Token\" (Fiend-Type/DARK/Level 1/ATK ?/DEF ?). (When Summoned, its ATK and DEF each become equal to half the opponent\u0027s current LP.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32446630.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 3
+}

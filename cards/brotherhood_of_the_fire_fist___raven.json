@@ -1,0 +1,21 @@
+{
+  "id": 44860890,
+  "name": "Brotherhood of the Fire Fist - Raven",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent from the field to the GY: You can Set 1 \"Fire Formation\" Spell directly from your Deck. \"Fire Formation\" Spells/Traps you control cannot be destroyed by your opponent\u0027s card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44860890.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 200,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

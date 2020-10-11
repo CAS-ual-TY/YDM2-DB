@@ -1,0 +1,21 @@
+{
+  "id": 72355272,
+  "name": "Metaphys Nephthys",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Special Summoned by the effect of a \"Metaphys\" monster: You can banish all Set Spells and Traps on the field. If this card is banished, during the Standby Phase of the next turn: You can shuffle this banished card into the Deck; add 1 \"Metaphys\" card from your Deck to your hand, except \"Metaphys Nephthys\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72355272.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Wyrm",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 8,
+  "is_tuner": false
+}

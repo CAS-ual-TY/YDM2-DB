@@ -1,0 +1,12 @@
+{
+  "id": 73026394,
+  "name": "Fusion Guard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only when an effect that inflicts damage is activated. Negate its activation and effect, and randomly send 1 Fusion Monster from your Extra Deck to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73026394.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 68366996,
+  "name": "Gemini Soldier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n? Once per turn, if this card would be destroyed by battle, it is not destroyed. If this card battles, after damage calculation, you can Special Summon 1 Level 4 or lower Gemini monster from your Deck, except \"Gemini Soldier\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68366996.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Gemini",
+  "has_effect": true,
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 46132282,
+  "name": "Powered Inzektron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: This turn, this card cannot be destroyed by battle or by card effects, also you take no damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46132282.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

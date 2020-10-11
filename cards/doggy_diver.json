@@ -1,0 +1,21 @@
+{
+  "id": 1003028,
+  "name": "Doggy Diver",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent controls a monster and all face-up monsters you control (min. 1) are Level 4, you can Special Summon this card (from your hand). You can only Special Summon \"Doggy Diver\" once per turn this way. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a Warrior-Type monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1003028.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

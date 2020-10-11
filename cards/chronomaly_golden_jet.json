@@ -1,0 +1,21 @@
+{
+  "id": 88552992,
+  "name": "Chronomaly Golden Jet",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can increase the Levels of all \"Chronomaly\" monsters you currently control by 1.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88552992.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

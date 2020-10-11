@@ -1,0 +1,21 @@
+{
+  "id": 94535485,
+  "name": "Hand-Holding Genie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Monsters your opponent controls cannot target monsters for attacks, except this one. This card gains DEF equal to the combined original DEF of all other face-up Defense Position monsters you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94535485.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

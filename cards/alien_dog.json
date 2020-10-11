@@ -1,0 +1,21 @@
+{
+  "id": 15475415,
+  "name": "Alien Dog",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When you Normal Summon an \"Alien\" monster, you can Special Summon this card from your hand. When you do, place 2 A-Counters on face-up monster(s) your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15475415.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

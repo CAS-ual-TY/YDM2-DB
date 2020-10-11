@@ -1,0 +1,21 @@
+{
+  "id": 96163807,
+  "name": "Tristan, Knight of the Underworld",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can target 1 Zombie monster with 0 DEF in your GY; add it to your hand. Gains 300 ATK if you control another Zombie monster(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96163807.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

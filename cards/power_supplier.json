@@ -1,0 +1,21 @@
+{
+  "id": 55063681,
+  "name": "Power Supplier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, you can select 1 face-up monster you control. It gains 400 ATK while you control this face-up card. (A monster cannot gain more than 400 ATK from this card\u0027s effect.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55063681.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 77522571,
+  "name": "Frightfur Meister",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase: You can Special Summon 1 Level 4 or lower \"Fluffal\", \"Frightfur\", or \"Edge Imp\" monster from your Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. You can Tribute 2 or more Fiend monsters; Special Summon 1 \"Frightfur\" Fusion Monster from your Extra Deck whose Level equals the total original Levels of the Tributed monsters. (This is treated as a Fusion Summon.) You can only use each effect of \"Frightfur Meister\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77522571.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false,
+  "pendulum_text": "You can Tribute 1 Level 4 or lower \"Fluffal\", \"Frightfur\", or \"Edge Imp\" monster; Special Summon 1 Fiend monster from your Deck with the same Level the Tributed monster had on the field, but with a different name. You can only use this effect of \"Frightfur Meister\" once per turn.\n",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
+}

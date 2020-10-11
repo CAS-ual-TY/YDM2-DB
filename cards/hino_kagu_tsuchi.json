@@ -1,0 +1,21 @@
+{
+  "id": 75745607,
+  "name": "Hino-Kagu-Tsuchi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Special Summoned. This card returns to its owner\u0027s hand during the End Phase of the turn it is Normal Summoned or flipped face-up. If this card inflicts Battle Damage to your opponent, they discard all cards in their hand during the next Draw Phase, before they draw.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75745607.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2800,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
+}

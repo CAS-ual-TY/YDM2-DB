@@ -1,0 +1,21 @@
+{
+  "id": 15510988,
+  "name": "Thunder Kid",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster stores electricity within his body, and can unleash it with catastrophic power.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15510988.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 700,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

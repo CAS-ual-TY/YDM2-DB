@@ -1,0 +1,12 @@
+{
+  "id": 91530236,
+  "name": "Spirit Charmers",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Discard 1 card; take 2 cards from your Deck with different names from each other, that are \"Charmer\" monsters, \"Familiar-Possessed\" monsters, and/or \"Possessed\" Spells/Traps, add 1 of them to your hand, and Set the other. You can only activate 1 \"Spirit Charmers\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91530236.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 18482591,
+  "name": "Warlock of the Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control another face-up \"Ice Barrier\" monster, both players must Set Spell Cards before activating them, and cannot activate them until their next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18482591.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 400,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

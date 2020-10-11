@@ -1,0 +1,21 @@
+{
+  "id": 7150545,
+  "name": "Buzzsaw Shark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 WATER monster you control; Special Summon from your Deck in Defense Position, 1 Fish monster with the same Level as that monster, but with a different name, and if you do, it cannot activate its effects this turn, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Buzzsaw Shark\" once per turn. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 3 or 5 monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7150545.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

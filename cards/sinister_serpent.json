@@ -1,0 +1,21 @@
+{
+  "id": 8131171,
+  "name": "Sinister Serpent",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Standby Phase, if this card is in your GY: You can add it to your hand, also banish 1 \"Sinister Serpent\" from your GY during your opponent\u0027s next End Phase. You can only use this effect of \"Sinister Serpent\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8131171.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 300,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 250,
+  "level": 1,
+  "is_tuner": false
+}

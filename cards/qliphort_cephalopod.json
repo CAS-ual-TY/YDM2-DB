@@ -1,0 +1,24 @@
+{
+  "id": 87588741,
+  "name": "Qliphort Cephalopod",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card\u0027s current Level. When this card is Tribute Summoned by Tributing a \"Qli\" monster(s): You can activate this effect; if your opponent has more monsters in their Graveyard than you do, you gain LP equal to the difference x 300, and if you do, inflict the same amount of damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87588741.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 7,
+  "is_tuner": false,
+  "pendulum_text": "You can only Special Summon \"Qli\" monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK.\n",
+  "pendulum_scale_left_blue": 9,
+  "pendulum_scale_right_red": 9
+}

@@ -1,0 +1,21 @@
+{
+  "id": 57662975,
+  "name": "Darkstorm Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n? Once per turn: You can send 1 face-up Spell/Trap Card you control to the Graveyard; destroy all Spell and Trap Cards on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/57662975.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Gemini",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

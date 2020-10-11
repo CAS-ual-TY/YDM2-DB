@@ -1,0 +1,21 @@
+{
+  "id": 94096018,
+  "name": "SPYGAL Misty",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent\u0027s Deck, and if you do, draw 1 card if it is a card of that type. Once per turn, during either player\u0027s turn: You can target 1 \"SPYRAL Super Agent\" you control and 1 monster your opponent controls; return both monsters to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94096018.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

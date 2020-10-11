@@ -1,0 +1,21 @@
+{
+  "id": 5772618,
+  "name": "Hi-Speedroid Kitedrake",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n? Destroy all other cards on the field.\n? Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by an opponent\u0027s card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5772618.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

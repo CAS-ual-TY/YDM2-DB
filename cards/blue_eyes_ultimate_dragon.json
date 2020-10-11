@@ -1,0 +1,23 @@
+{
+  "id": 23995346,
+  "name": "Blue-Eyes Ultimate Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23995346.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23995347.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23995348.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 4500,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 3800,
+  "level": 12,
+  "is_tuner": false
+}

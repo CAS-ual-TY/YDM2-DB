@@ -1,0 +1,21 @@
+{
+  "id": 77603950,
+  "name": "Phantom Dewan",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A sorcerer that can paralyze an enemy with a single curse.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77603950.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 700,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

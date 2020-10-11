@@ -1,0 +1,21 @@
+{
+  "id": 95503687,
+  "name": "Lumina, Lightsworn Summoner",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can discard 1 card, then target 1 Level 4 or lower \"Lightsworn\" monster in your GY; Special Summon that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95503687.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

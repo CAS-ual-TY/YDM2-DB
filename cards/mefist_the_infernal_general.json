@@ -1,0 +1,21 @@
+{
+  "id": 46820049,
+  "name": "Mefist the Infernal General",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Make your opponent discard 1 random card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46820049.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 5,
+  "is_tuner": false
+}

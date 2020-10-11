@@ -1,0 +1,21 @@
+{
+  "id": 43797906,
+  "name": "Warrior of Atlantis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card to the Graveyard; add 1 \"A Legendary Ocean\" from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43797906.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1900,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

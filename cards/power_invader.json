@@ -1,0 +1,21 @@
+{
+  "id": 18842395,
+  "name": "Power Invader",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent controls 2 or more monsters, you can Normal Summon this card without Tributing.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18842395.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

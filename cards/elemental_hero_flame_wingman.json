@@ -1,0 +1,21 @@
+{
+  "id": 35809262,
+  "name": "Elemental HERO Flame Wingman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35809262.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2100,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

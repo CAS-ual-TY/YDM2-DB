@@ -1,0 +1,21 @@
+{
+  "id": 28003512,
+  "name": "The Judgement Hand",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An all-powerful hand that delivers ruthless attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28003512.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

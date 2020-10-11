@@ -1,0 +1,21 @@
+{
+  "id": 93302695,
+  "name": "Kozmoll Wickedwitch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During either player\u0027s turn: You can banish this card; Special Summon 1 Level 5 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmoll Wickedwitch\" once per turn. Once per turn, during either player\u0027s turn: You can pay 1000 LP; this turn, this card cannot be destroyed by battle or card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93302695.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
+}

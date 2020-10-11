@@ -1,0 +1,21 @@
+{
+  "id": 88650530,
+  "name": "Worm Apocalypse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Target 1 Spell/Trap Card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88650530.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

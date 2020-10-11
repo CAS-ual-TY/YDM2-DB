@@ -1,0 +1,21 @@
+{
+  "id": 9794980,
+  "name": "Knightmare Incarnation Idlee",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Level 9 monsters you control cannot be destroyed by card effects. You can only use each of the following effects of \"Knightmare Incarnation Idlee\" once per turn.\n? If the total Link Rating of the monsters on the field is 8 or more (Quick Effect): You can Special Summon this card from your hand.\n? If this card is Special Summoned, while your opponent controls more Link Monsters than you do: You can send all Link Monsters on the field to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9794980.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2100,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 9,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 20277376,
+  "name": "Divine Dragon Apocralyph",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can discard 1 card, then target 1 Dragon-Type monster in your Graveyard; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20277376.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

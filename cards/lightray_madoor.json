@@ -1,0 +1,21 @@
+{
+  "id": 82579942,
+  "name": "Lightray Madoor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If 3 or more of your LIGHT monsters are banished, you can Special Summon this card (from your hand). Once per turn, this card cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82579942.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 6,
+  "is_tuner": false
+}

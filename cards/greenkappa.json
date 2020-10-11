@@ -1,0 +1,21 @@
+{
+  "id": 61831093,
+  "name": "Greenkappa",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Target 2 Set Spell/Trap Cards on the field; destroy those targets.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61831093.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 650,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

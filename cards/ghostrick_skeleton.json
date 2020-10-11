@@ -1,0 +1,21 @@
+{
+  "id": 51196805,
+  "name": "Ghostrick Skeleton",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: Banish cards from the top of your opponent\u0027s Deck face-down, up to the number of \"Ghostrick\" monsters you control. You can only use this effect of \"Ghostrick Skeleton\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51196805.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
+}

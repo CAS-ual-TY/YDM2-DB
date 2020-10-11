@@ -1,0 +1,21 @@
+{
+  "id": 52038441,
+  "name": "Ghost Mourner \u0026 Moonlit Chill",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can discard this card, then target 1 of those face-up monsters; negate its effects until the end of this turn, also if that face-up monster leaves the field this turn, its controller takes damage equal to its original ATK. You can only use this effect of \"Ghost Mourner \u0026 Moonlit Chill\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52038441.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": true
+}

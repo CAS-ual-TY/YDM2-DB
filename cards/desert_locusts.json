@@ -1,0 +1,21 @@
+{
+  "id": 63410069,
+  "name": "Desert Locusts",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: The turn player discards 1 card. You can only use this effect of \"Desert Locusts\" once per turn. Once per Chain, during your opponent\u0027s Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63410069.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Insect",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": true
+}

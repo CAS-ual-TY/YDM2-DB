@@ -1,0 +1,21 @@
+{
+  "id": 34100324,
+  "name": "Harpie Girl",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A Harpie chick who aspires to flit about beautifully and gorgeously, but attack sharply.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34100324.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 500,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

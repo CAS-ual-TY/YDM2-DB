@@ -1,0 +1,21 @@
+{
+  "id": 37104630,
+  "name": "Atlantean Heavy Infantry",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase, you can Normal Summon 1 Level 4 or lower Sea Serpent-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When this card is sent to the Graveyard to activate a WATER monster\u0027s effect: Target 1 face-up card your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37104630.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 2,
+  "is_tuner": false
+}

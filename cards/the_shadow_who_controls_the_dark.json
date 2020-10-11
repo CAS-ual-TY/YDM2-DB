@@ -1,0 +1,21 @@
+{
+  "id": 63125616,
+  "name": "The Shadow Who Controls the Dark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63125616.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

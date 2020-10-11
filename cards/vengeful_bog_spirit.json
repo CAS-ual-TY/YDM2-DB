@@ -1,0 +1,12 @@
+{
+  "id": 95220856,
+  "name": "Vengeful Bog Spirit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Monsters cannot attack the turn they are Summoned.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95220856.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

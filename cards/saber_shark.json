@@ -1,0 +1,21 @@
+{
+  "id": 63193879,
+  "name": "Saber Shark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 Fish-Type monster on the field, then activate 1 of these effects.\n? Increase its Level by 1.\n? Reduce its Level by 1.\nYou cannot Special Summon any monsters during the turn you activate this effect, except WATER monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63193879.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 56921677,
+  "name": "Heraldic Beast Basilisk",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "After damage calculation: Destroy any opponent\u0027s monster that battles this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56921677.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

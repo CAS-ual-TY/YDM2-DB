@@ -1,0 +1,21 @@
+{
+  "id": 85528209,
+  "name": "Superheavy Samurai Beast Kyubi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If you have no Spell/Trap Cards in your Graveyard, this card gains 900 DEF for each Special Summoned monster your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85528209.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 9,
+  "is_tuner": false
+}

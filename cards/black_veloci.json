@@ -1,0 +1,21 @@
+{
+  "id": 52319752,
+  "name": "Black Veloci",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card attacks an opponent\u0027s monster, this card gains 400 ATK during the Damage Step only. If this card is attacked by an opponent\u0027s monster, this card loses 400 ATK during the Damage Step only.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52319752.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
+}

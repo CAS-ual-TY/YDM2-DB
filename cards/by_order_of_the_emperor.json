@@ -1,0 +1,12 @@
+{
+  "id": 35011819,
+  "name": "By Order of the Emperor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a monster effect is activated that activates when a monster is Normal Summoned: You can negate the activation, then the player whose effect activation was negated draws 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35011819.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

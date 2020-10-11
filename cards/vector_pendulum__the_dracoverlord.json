@@ -1,0 +1,24 @@
+{
+  "id": 69512157,
+  "name": "Vector Pendulum, the Dracoverlord",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This Overlord overran an entire world with his army of Dracofiends, using his Dragon Alchemy to convert all life into his terrible minions. The source of this power is unidentified, and probably extra-dimensional.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69512157.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1850,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "Negate all card effects in your opponent\u0027s Pendulum Zones.\n",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

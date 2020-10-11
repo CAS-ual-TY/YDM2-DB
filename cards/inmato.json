@@ -1,0 +1,21 @@
+{
+  "id": 39703254,
+  "name": "Inmato",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When 1 other face-up Plant-Type monster is targeted by the effect of a Spell or Trap Card your opponent controls, you can Tribute this card to draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39703254.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

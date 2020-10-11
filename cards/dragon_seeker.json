@@ -1,0 +1,21 @@
+{
+  "id": 28563545,
+  "name": "Dragon Seeker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned or Flip Summoned, destroy 1 face-up Dragon-Type monster on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28563545.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 6,
+  "is_tuner": false
+}

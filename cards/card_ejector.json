@@ -1,0 +1,21 @@
+{
+  "id": 26701483,
+  "name": "Card Ejector",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can target 1 card in your opponent\u0027s Graveyard; banish that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26701483.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}

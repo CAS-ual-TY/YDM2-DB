@@ -1,0 +1,21 @@
+{
+  "id": 93379652,
+  "name": "Gem-Knight Prismaura",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Gem-Knight\" monster + 1 Thunder-Type monster\nMust first be Fusion Summoned. Once per turn: You can send 1 \"Gem-Knight\" card from your hand to the Graveyard to target 1 face-up card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93379652.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2450,
+  "species": "Thunder",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 7,
+  "is_tuner": false
+}

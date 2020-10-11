@@ -1,0 +1,21 @@
+{
+  "id": 7670542,
+  "name": "Bio Plant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A monster created from a major accident in an underground lab.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7670542.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
+}

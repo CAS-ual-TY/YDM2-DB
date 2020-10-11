@@ -1,0 +1,20 @@
+{
+  "id": 2411269,
+  "name": "Agave Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters, except Tokens\nIf this card is Link Summoned: You can apply these effects in sequence, depending on the Types of monsters in the GYs (skip over any that do not apply). You can only use this effect of \"Agave Dragon\" once per turn.\n? Inflict 100 damage to your opponent for each Dragon.\n? This card gains 200 ATK for each Dinosaur.\n? All monsters your opponent currently controls lose 300 ATK for each Sea Serpent.\n? You gain 400 LP for each Wyrm.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2411269.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Wyrm",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": 216
+}

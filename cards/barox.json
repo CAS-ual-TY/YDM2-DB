@@ -1,0 +1,21 @@
+{
+  "id": 6840573,
+  "name": "Barox",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Frenzied Panda\" + \"Ryu-Kishin\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6840573.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1380,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1530,
+  "level": 5,
+  "is_tuner": false
+}

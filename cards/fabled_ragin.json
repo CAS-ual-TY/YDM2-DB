@@ -1,0 +1,21 @@
+{
+  "id": 47395382,
+  "name": "Fabled Ragin",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\n When this card is Synchro Summoned, if you have 1 or less cards in your hand, you can draw until you have 2 cards in your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47395382.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Fiend",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

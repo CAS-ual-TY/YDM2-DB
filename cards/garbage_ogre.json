@@ -1,0 +1,21 @@
+{
+  "id": 18698739,
+  "name": "Garbage Ogre",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand to the Graveyard; add 1 \"Garbage Lord\" from your Deck to your hand. You can only use the effect of \"Garbage Ogre\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18698739.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 78004197,
+  "name": "Goldd, Wu-Lord of Dark World",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent\u0027s card effect, you can target up to 2 cards your opponent controls; Special Summon this card from the Graveyard, then destroy those targets (if any).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78004197.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

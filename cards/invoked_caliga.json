@@ -1,0 +1,21 @@
+{
+  "id": 13529466,
+  "name": "Invoked Caliga",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Aleister the Invoker\" + 1 DARK monster\nIf a player\u0027s monster effect attempts to activate, none of that player\u0027s monsters can activate their effects for the rest of this turn while this card is face-up on the field. Each player can attack with only 1 monster during each Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13529466.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

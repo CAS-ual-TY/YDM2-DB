@@ -1,0 +1,21 @@
+{
+  "id": 75646173,
+  "name": "Synchar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This two-headed creature spits laser blasts at its enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75646173.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

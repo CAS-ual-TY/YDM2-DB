@@ -1,0 +1,21 @@
+{
+  "id": 62514770,
+  "name": "Labradorite Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62514770.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": true
+}

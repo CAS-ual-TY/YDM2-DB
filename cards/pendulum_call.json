@@ -1,0 +1,12 @@
+{
+  "id": 53208660,
+  "name": "Pendulum Call",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Discard 1 card; add 2 \"Magician\" Pendulum Monsters with different names from your Deck to your hand, also, until the end of your opponent\u0027s next turn after this card resolves, \"Magician\" cards in your Pendulum Zones cannot be destroyed by card effects. You can only activate 1 \"Pendulum Call\" per turn. You cannot activate this card if you activated a \"Magician\" monster\u0027s Pendulum Effect this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53208660.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

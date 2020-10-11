@@ -1,0 +1,21 @@
+{
+  "id": 89362180,
+  "name": "Skelesaurus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.\n? This card becomes EARTH Dinosaur-Type. When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field in Defense Position, and if you do, it becomes Zombie-Type.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89362180.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Gemini",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 56649609,
+  "name": "Phantasm Spiral Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A ferocious serpent that was being hunted by Atlanteans. Battle-weary and ragged, it came upon an ancient light, and gained new strength for its battle. With its increased power, it launched an invasion of enemy territory with a renewed assault.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56649609.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2900,
+  "species": "Wyrm",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
+}

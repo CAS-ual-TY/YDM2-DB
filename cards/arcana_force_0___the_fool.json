@@ -1,0 +1,21 @@
+{
+  "id": 62892347,
+  "name": "Arcana Force 0 - The Fool",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be destroyed by battle. This card cannot be changed to Defense Position, except with a card effect. When this card is Summoned: Toss a coin and gain the appropriate effect. ? Heads: Negate your card effects that target this card, and destroy them. ? Tails: Negate your opponent\u0027s card effects that target this card, and destroy them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62892347.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

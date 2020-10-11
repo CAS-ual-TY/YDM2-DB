@@ -1,0 +1,21 @@
+{
+  "id": 72426662,
+  "name": "Demise, King of Armageddon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"End of the World\". You can pay 2000 LP; destroy all other cards on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72426662.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Fiend",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

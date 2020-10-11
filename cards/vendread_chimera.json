@@ -1,0 +1,21 @@
+{
+  "id": 13482075,
+  "name": "Vendread Chimera",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. When a card or effect is activated that would destroy a card on the field (Quick Effect): You can banish 1 Zombie monster from your GY; negate the activation, and if you do, destroy that card. If this card is Tributed, or banished, for a Ritual Summon: All monsters your opponent controls lose 500 ATK/DEF. You can only use each effect of \"Vendread Chimera\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13482075.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Zombie",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

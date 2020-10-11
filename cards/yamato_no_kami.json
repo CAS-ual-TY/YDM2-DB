@@ -1,0 +1,21 @@
+{
+  "id": 82841979,
+  "name": "Yamato-no-Kami",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 Spirit monster from your Graveyard. This card returns to its owner\u0027s hand during the End Phase of the turn it is Special Summoned. If this card destroys an opponent\u0027s monster by battle, you can destroy 1 Spell or Trap Card your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82841979.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

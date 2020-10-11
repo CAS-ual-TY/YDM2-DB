@@ -1,0 +1,21 @@
+{
+  "id": 2648201,
+  "name": "ZW - Sleipnir Mail",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 \"Utopia\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1000 ATK. When this card you control is sent to your Graveyard because the equipped monster was destroyed by your opponent\u0027s card (by battle or card effect): You can target 1 \"Utopia\" monster in your Graveyard; Special Summon that target. You can only control 1 \"ZW - Sleipnir Mail\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2648201.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

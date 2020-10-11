@@ -1,0 +1,24 @@
+{
+  "id": 2396042,
+  "name": "Steel Cavalry of Dinon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "At the start of the Damage Step, if this card battles a Pendulum Monster: This card\u0027s ATK and DEF become half its current ATK and DEF until the end of the Damage Step.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2396042.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5
+}

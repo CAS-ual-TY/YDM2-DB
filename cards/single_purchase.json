@@ -1,0 +1,12 @@
+{
+  "id": 68661341,
+  "name": "Single Purchase",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have 3 or more cards in your hand (other than this card), and none of them are monsters: Banish your entire hand face-up; add 1 monster from your Deck to your hand. If you do, you cannot Normal or Special Summon any monsters for the rest of this turn, except monsters with that name.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68661341.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 84988419,
+  "name": "Bloom Diva the Melodious Choir",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Melodious Maestra\" monster + 1 \"Melodious\" monster\nCannot be destroyed by battle or card effects, also you take no battle damage from attacks involving this card. If this card battles a Special Summoned monster, after damage calculation: You can inflict damage to your opponent equal to the difference between the original ATK of that opponent\u0027s monster and this card, and if you do, destroy that opponent\u0027s monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84988419.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

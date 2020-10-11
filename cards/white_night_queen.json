@@ -1,0 +1,21 @@
+{
+  "id": 20193924,
+  "name": "White Night Queen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. Once per turn: You can target 1 Set card; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20193924.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 7,
+  "is_tuner": false
+}

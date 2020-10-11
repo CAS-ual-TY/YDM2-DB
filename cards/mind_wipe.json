@@ -1,0 +1,12 @@
+{
+  "id": 52817046,
+  "name": "Mind Wipe",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only if your opponent has 3 or less cards in their hand. Your opponent adds their hand to the Deck and shuffles it, then draws the same number of cards they added to the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52817046.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

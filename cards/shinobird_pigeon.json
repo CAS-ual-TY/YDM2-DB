@@ -1,0 +1,21 @@
+{
+  "id": 92200612,
+  "name": "Shinobird Pigeon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. Once per turn: You can target 1 other Spirit monster on the field; return it to the hand. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92200612.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 11250655,
+  "name": "Emperor of the Land and Sea",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A reptilian monster that sprays fire in every direction.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11250655.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 76660409,
+  "name": "Pendulum Back",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have 2 cards in your Pendulum Zones: Target 2 monsters in your Graveyard, each with a Level between (exclusive) the Pendulum Scales of the cards in your Pendulum Zones; add them to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76660409.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

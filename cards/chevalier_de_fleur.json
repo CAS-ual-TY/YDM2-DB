@@ -1,0 +1,21 @@
+{
+  "id": 45037489,
+  "name": "Chevalier de Fleur",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Fleur Synchron\" + 1 or more non-Tuner monsters\nOnce during each of your turns, when your opponent activates a Spell/Trap Card, you can negate the activation and destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45037489.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2700,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 8,
+  "is_tuner": false
+}

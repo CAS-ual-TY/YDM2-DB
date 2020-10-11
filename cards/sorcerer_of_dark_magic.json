@@ -1,0 +1,21 @@
+{
+  "id": 88619463,
+  "name": "Sorcerer of Dark Magic",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 2 Level 6 or higher Spellcaster-Type monsters, and cannot be Special Summoned by other ways. During either player\u0027s turn, when a Trap Card is activated: You can negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88619463.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 9,
+  "is_tuner": false
+}

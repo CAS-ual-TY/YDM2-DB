@@ -1,0 +1,21 @@
+{
+  "id": 46272804,
+  "name": "Lancer Lindwurm",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46272804.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

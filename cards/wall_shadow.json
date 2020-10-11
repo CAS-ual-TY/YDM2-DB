@@ -1,0 +1,21 @@
+{
+  "id": 63162310,
+  "name": "Wall Shadow",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Magical Labyrinth\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63162310.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 7,
+  "is_tuner": false
+}

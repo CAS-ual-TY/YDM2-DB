@@ -1,0 +1,12 @@
+{
+  "id": 19844995,
+  "name": "Power Filter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Neither player can Special Summon monsters with 1000 or less ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19844995.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

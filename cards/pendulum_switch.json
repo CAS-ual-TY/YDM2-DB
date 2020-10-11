@@ -1,0 +1,12 @@
+{
+  "id": 42378577,
+  "name": "Pendulum Switch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 card in your Pendulum Zone; Special Summon it. You can target 1 Pendulum Monster in your Monster Zone; place that Pendulum Monster in your Pendulum Zone. You can only use 1 \"Pendulum Switch\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/42378577.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

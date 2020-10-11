@@ -1,0 +1,21 @@
+{
+  "id": 94566432,
+  "name": "Kaiser Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94566432.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

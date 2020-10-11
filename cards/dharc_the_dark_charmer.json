@@ -1,0 +1,21 @@
+{
+  "id": 19327348,
+  "name": "Dharc the Dark Charmer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19327348.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

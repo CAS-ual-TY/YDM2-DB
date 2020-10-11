@@ -1,0 +1,21 @@
+{
+  "id": 22339232,
+  "name": "Wightmare",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card\u0027s name becomes \"Skull Servant\" while in the GY. You can discard this card, then activate 1 of the following effects.\n? Target 1 of your banished \"Skull Servant\" or \"Wightmare\"; return it to the GY.\n? Target 1 of your banished \"The Lady in Wight\" or \"King of the Skull Servants\"; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22339232.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

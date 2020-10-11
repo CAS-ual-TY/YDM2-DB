@@ -1,0 +1,21 @@
+{
+  "id": 88728507,
+  "name": "Vampire Sorcerer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card in your possession is sent to your GY by your opponent\u0027s card: You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap from your Deck to your hand. You can banish this card from your GY; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88728507.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 96570609,
+  "name": "Ehther the Heavenly Monarch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: You can send 2 \"Monarch\" Spell/Trap Cards with different names from your hand and/or Deck to the Graveyard, and if you do, Special Summon 1 monster with 2400 or more ATK and 1000 DEF from your Deck, but return it to the hand during the End Phase. During your opponent\u0027s Main Phase, if this card is in your hand: You can banish 1 \"Monarch\" Spell/Trap Card from your Graveyard; immediately after this effect resolves, Tribute Summon this card (this is a Quick Effect).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96570609.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false
+}

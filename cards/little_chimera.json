@@ -1,0 +1,21 @@
+{
+  "id": 68658728,
+  "name": "Little Chimera",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/68658728.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 550,
+  "level": 2,
+  "is_tuner": false
+}

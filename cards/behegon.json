@@ -1,0 +1,21 @@
+{
+  "id": 94022093,
+  "name": "Behegon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94022093.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1350,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

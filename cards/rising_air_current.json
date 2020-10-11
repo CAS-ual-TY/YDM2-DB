@@ -1,0 +1,12 @@
+{
+  "id": 45778932,
+  "name": "Rising Air Current",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All WIND monsters gain 500 ATK and lose 400 DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45778932.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

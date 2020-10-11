@@ -1,0 +1,21 @@
+{
+  "id": 20318029,
+  "name": "Thunder Dragonmatrix",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(Quick Effect): You can discard this card, then target 1 Thunder monster you control; it gains 500 ATK. If this card is banished, or sent from the field to the GY: You can add 1 \"Thunder Dragonmatrix\" from your Deck to your hand. You can only use 1 \"Thunder Dragonmatrix\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20318029.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 1,
+  "is_tuner": false
+}

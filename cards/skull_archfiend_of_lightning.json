@@ -1,0 +1,21 @@
+{
+  "id": 61370518,
+  "name": "Skull Archfiend of Lightning",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During each of your Standby Phases, you must pay 500 Life Points (this is not optional), or this card is destroyed. Before resolving an opponent\u0027s card effect that targets this card, roll a six-sided die, negate the effect if you roll 1, 3, or 6, and if you do, destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61370518.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

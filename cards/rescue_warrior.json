@@ -1,0 +1,21 @@
+{
+  "id": 70630741,
+  "name": "Rescue Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You take no Battle Damage from battles involving this card. If this card is destroyed by battle, select 1 face-up monster your opponent controls that you own, and take control of it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70630741.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

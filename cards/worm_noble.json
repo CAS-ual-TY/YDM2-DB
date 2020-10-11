@@ -1,0 +1,21 @@
+{
+  "id": 7700132,
+  "name": "Worm Noble",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: If this card is flipped face-up by an opponent\u0027s monster\u0027s attack, inflict damage to your opponent equal to half the attacking monster\u0027s ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7700132.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 74163487,
+  "name": "Restoration Point Guard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Cyberse monsters\nOnce per turn, if another Link Monster is Link Summoned: This card cannot be destroyed by battle or card effects for the rest of this turn. If a Link Monster, that was Link Summoned using this card as material, is destroyed by an opponent\u0027s card effect, while this card is in the GY (except during the Damage Step): You can Special Summon this card. You can only use this effect of \"Restoration Point Guard\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74163487.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 192
+}

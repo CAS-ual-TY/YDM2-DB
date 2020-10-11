@@ -1,0 +1,21 @@
+{
+  "id": 66066482,
+  "name": "Inzektor Firefly",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an \"Inzektor\" card equips to this card: You can look at all Set cards your opponent controls. While this card is equipped to a monster, that monster\u0027s Level is increased by 1, also it gains ATK and DEF equal to this card\u0027s ATK and DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66066482.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

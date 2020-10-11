@@ -1,0 +1,21 @@
+{
+  "id": 86483512,
+  "name": "Datascape Savant - Laolao",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can target 1 \"Datascape\" card you control; you cannot Special Summon monsters for the rest of this turn, except Level/Rank 3 or higher monsters, also send 1 \"Datascape\" card from your Deck to the GY with a different card type (Monster, Spell, or Trap) from the targeted card, and if you do, Special Summon this card, then you can Special Summon from your GY in Defense Position, 1 \"Datascape\" monster with a different name than the card you sent to the GY, but negate its effects. You can only use this effect of \"Datascape Savant - Laolao\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86483512.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2400,
+  "level": 6,
+  "is_tuner": true
+}

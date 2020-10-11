@@ -1,0 +1,21 @@
+{
+  "id": 59290628,
+  "name": "Nightmare Horse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can attack your opponent\u0027s Life Points directly even if there is a monster on your opponent\u0027s side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59290628.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

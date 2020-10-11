@@ -1,0 +1,21 @@
+{
+  "id": 58098303,
+  "name": "Flame Ogre",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Special Summoned. When this card is Normal Summoned, draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58098303.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 7,
+  "is_tuner": false
+}

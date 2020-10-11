@@ -1,0 +1,21 @@
+{
+  "id": 49389523,
+  "name": "Lightning Tricorn",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner Beast-Type monsters\nIf this card is destroyed by your opponent\u0027s card (either by battle or by card effect), you can select 1 \"Thunder Unicorn\" or \"Voltic Bicorn\" in your Graveyard and Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49389523.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Beast",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

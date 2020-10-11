@@ -1,0 +1,21 @@
+{
+  "id": 40196604,
+  "name": "Dark Shade",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A crystal monster that unleashes a brilliant light to blind enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40196604.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

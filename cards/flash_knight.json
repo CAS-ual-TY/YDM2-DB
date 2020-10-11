@@ -1,0 +1,24 @@
+{
+  "id": 17390179,
+  "name": "Flash Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The power of the pendulum flashes forth from this shining knight.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17390179.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7
+}

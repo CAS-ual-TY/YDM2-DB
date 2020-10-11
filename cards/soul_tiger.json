@@ -1,0 +1,21 @@
+{
+  "id": 15734813,
+  "name": "Soul Tiger",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn\u0027t want to run into in a dark alley.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15734813.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

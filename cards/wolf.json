@@ -1,0 +1,21 @@
+{
+  "id": 49417509,
+  "name": "Wolf",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Dis alpha wolf yoozes his sense a smell ta find da enemy. \u0027ey, quit sniffin at my socks!",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49417509.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

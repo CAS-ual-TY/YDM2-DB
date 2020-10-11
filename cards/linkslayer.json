@@ -1,0 +1,21 @@
+{
+  "id": 35595518,
+  "name": "Linkslayer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can discard up to 2 cards, then target that many Spells/Traps on the field; destroy them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35595518.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 5,
+  "is_tuner": false
+}

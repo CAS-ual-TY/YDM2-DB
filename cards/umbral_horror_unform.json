@@ -1,0 +1,21 @@
+{
+  "id": 33551032,
+  "name": "Umbral Horror Unform",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard while attacking a monster: You can Special Summon 2 \"Umbral Horror\" monsters from your Deck. You can only use the effect of \"Umbral Horror Unform\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33551032.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

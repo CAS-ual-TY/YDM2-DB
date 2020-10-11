@@ -1,0 +1,21 @@
+{
+  "id": 25795273,
+  "name": "Al-Lumi\u0027raj",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All monsters on the field lose ATK and DEF equal to their own Level/Rank x 300.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25795273.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1600,
+  "species": "Wyrm",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": true
+}

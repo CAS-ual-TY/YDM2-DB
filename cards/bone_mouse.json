@@ -1,0 +1,21 @@
+{
+  "id": 21239280,
+  "name": "Bone Mouse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A mouse that has returned as a zombie to seek revenge on cats.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21239280.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

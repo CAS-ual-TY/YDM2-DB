@@ -1,0 +1,21 @@
+{
+  "id": 56387350,
+  "name": "Vampire Baby",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard this turn: You can Special Summon that monster to your side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56387350.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 700,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

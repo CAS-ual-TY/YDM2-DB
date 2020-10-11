@@ -1,0 +1,21 @@
+{
+  "id": 29929832,
+  "name": "Marine Beast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Water Magician\" + \"Behegon\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29929832.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Fish",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

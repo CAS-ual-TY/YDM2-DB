@@ -1,0 +1,21 @@
+{
+  "id": 5818798,
+  "name": "Gazelle the King of Mythical Beasts",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster moves so fast that it looks like an illusion to mortal eyes.\n\n\n(This card is always treated as a \"Phantom Beast\" card.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5818798.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

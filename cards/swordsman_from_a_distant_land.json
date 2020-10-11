@@ -1,0 +1,21 @@
+{
+  "id": 85255550,
+  "name": "Swordsman from a Distant Land",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card attacked an opponent\u0027s monster, after damage calculation: Destroy that monster during the 5th End Phase after the attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85255550.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 250,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 250,
+  "level": 1,
+  "is_tuner": false
+}

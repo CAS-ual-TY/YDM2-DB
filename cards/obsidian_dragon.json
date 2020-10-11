@@ -1,0 +1,21 @@
+{
+  "id": 90464188,
+  "name": "Obsidian Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Negate the effects of Spell and Trap Cards that target only 1 face-up DARK monster you control, and destroy them.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90464188.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

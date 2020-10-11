@@ -1,0 +1,21 @@
+{
+  "id": 40542825,
+  "name": "Familiar-Possessed - Lyna",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the GY. When Summoned this way: You can add 1 Spellcaster monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40542825.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1850,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 16135253,
+  "name": "Agido",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed and sent to the Graveyard as a result of battle, roll a six-sided die. You can Special Summon 1 Fairy-Type monster from your Graveyard whose Level is equal to the number rolled. (If the result is 6, you can Special Summon a Level 6 or higher monster.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16135253.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

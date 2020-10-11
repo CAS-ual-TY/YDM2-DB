@@ -1,0 +1,12 @@
+{
+  "id": 41587307,
+  "name": "Broken Bamboo Sword",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The equipped monster gains 0 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41587307.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

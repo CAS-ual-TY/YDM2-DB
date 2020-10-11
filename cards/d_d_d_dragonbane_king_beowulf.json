@@ -1,0 +1,21 @@
+{
+  "id": 8463720,
+  "name": "D/D/D Dragonbane King Beowulf",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"D/D/D\" monster + 1 \"D/D\" monster\nIf a \"D/D\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your Standby Phase: You can destroy all cards in the Spell \u0026 Trap Zones.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8463720.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

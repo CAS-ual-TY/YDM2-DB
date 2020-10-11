@@ -1,0 +1,20 @@
+{
+  "id": 54719828,
+  "name": "Number 16: Shock Master",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to declare 1 card type (Monster, Spell, or Trap); that type of card (if Spell or Trap) cannot be activated, or (if Monster) cannot activate its effects, until the end of your opponent\u0027s next turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54719828.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Fairy",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "rank": 4
+}

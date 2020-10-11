@@ -1,0 +1,21 @@
+{
+  "id": 61190918,
+  "name": "Toon Buster Blader",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot attack the turn it is Summoned. Gains 500 ATK for each Dragon monster your opponent controls or is in their GY. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61190918.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Toon",
+  "has_effect": true,
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
+}

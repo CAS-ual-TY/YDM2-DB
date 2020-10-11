@@ -1,0 +1,12 @@
+{
+  "id": 94192409,
+  "name": "Compulsory Evacuation Device",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 monster on the field; return that target to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94192409.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

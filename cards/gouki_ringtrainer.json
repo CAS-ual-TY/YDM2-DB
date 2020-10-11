@@ -1,0 +1,21 @@
+{
+  "id": 93581434,
+  "name": "Gouki Ringtrainer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters: You can reveal this card in your hand, then target 1 \"Gouki\" Link Monster in your GY; Special Summon this card from your hand, then, Special Summon the target, but it loses 500 ATK. You can only use this effect of \"Gouki Ringtrainer\" once per turn. While you control a \"Gouki\" Link Monster, this card cannot be destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93581434.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

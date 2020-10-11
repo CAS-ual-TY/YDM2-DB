@@ -1,0 +1,21 @@
+{
+  "id": 29692206,
+  "name": "Twin Long Rods #2",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An amphibious creature with two whip-like tails.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29692206.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 850,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

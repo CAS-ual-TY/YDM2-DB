@@ -1,0 +1,21 @@
+{
+  "id": 46247282,
+  "name": "Iron Dragon Tiamaton",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by the following effect. If 3 or more cards are in the same column (Quick Effect): You can Special Summon this card from your hand. You can only use this effect of \"Iron Dragon Tiamaton\" once per turn. If this card is Special Summoned: Destroy all other cards in this card\u0027s column. Neither player can use the unused zones in this card\u0027s column.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46247282.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

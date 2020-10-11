@@ -1,0 +1,21 @@
+{
+  "id": 53530069,
+  "name": "Spirit of the Breeze",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "As long as this card remains in face-up Attack Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53530069.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

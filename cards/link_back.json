@@ -1,0 +1,12 @@
+{
+  "id": 3567660,
+  "name": "Link Back",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 Link Monster you control in the Extra Monster Zone; move that monster you control to your Main Monster Zone it points to, then, you can send cards from the top of your Deck to the GY equal to its Link Rating. You can only activate 1 \"Link Back\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3567660.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

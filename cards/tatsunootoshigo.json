@@ -1,0 +1,21 @@
+{
+  "id": 47922711,
+  "name": "Tatsunootoshigo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A bizarre monster with the torso of a horse and a fish\u0027s tail. It gallops through the sea as if it were the wind.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47922711.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1350,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

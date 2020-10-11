@@ -1,0 +1,24 @@
+{
+  "id": 62312469,
+  "name": "Dark Doriado",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can choose 4 monsters from your Deck (1 EARTH, 1 WATER, 1 FIRE, and 1 WIND), then place them on the top of the Deck in any order.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62312469.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "All EARTH, WATER, FIRE, and WIND monsters you control gain 200 ATK and DEF for every different Attribute among the monsters you control.\n",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5
+}

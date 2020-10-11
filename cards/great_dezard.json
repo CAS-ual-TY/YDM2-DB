@@ -1,0 +1,21 @@
+{
+  "id": 88989706,
+  "name": "Great Dezard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this monster destroys the following number of monsters as a result of battle, the following effects are activated in order:\nOne: As long as this card remains face-up on the field, negate the activation and effects of all Spell and Trap Cards that target this card and destroy them.\nTwo: You can Special Summon 1 \"Fushioh Richie\" from your hand or your Deck by Tributing this card during your Main Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88989706.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 6,
+  "is_tuner": false
+}

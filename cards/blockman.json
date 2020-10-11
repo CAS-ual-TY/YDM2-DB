@@ -1,0 +1,21 @@
+{
+  "id": 48115277,
+  "name": "Blockman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute this card; Special Summon in Defense Position, a number of \"Block Tokens\" (Rock-Type/EARTH/Level 4/ATK 1000/DEF 1500) equal to the number of your turns this card has been face-up on your field. These Tokens cannot declare an attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48115277.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

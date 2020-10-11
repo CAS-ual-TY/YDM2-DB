@@ -1,0 +1,21 @@
+{
+  "id": 89111398,
+  "name": "Dark Dust Spirit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Destroy all other face-up monsters on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89111398.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

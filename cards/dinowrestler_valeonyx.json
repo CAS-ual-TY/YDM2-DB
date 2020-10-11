@@ -1,0 +1,21 @@
+{
+  "id": 80831552,
+  "name": "Dinowrestler Valeonyx",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand). While you control a Link-3 or higher \"Dinowrestler\" monster, face-up monsters you control are unaffected by the activated effects of your opponent\u0027s Link-3 or lower monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80831552.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

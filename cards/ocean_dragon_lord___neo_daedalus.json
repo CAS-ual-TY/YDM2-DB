@@ -1,0 +1,21 @@
+{
+  "id": 10485110,
+  "name": "Ocean Dragon Lord - Neo-Daedalus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Levia-Dragon - Daedalus\". You can send \"Umi\" you control to the Graveyard to send all cards in both players\u0027 hands and on the field to the Graveyard, except this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10485110.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2900,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 8,
+  "is_tuner": false
+}

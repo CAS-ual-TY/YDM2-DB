@@ -1,0 +1,21 @@
+{
+  "id": 91996584,
+  "name": "Whiptail Crow",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Attacks from the skies with a whip-like tail.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91996584.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1650,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

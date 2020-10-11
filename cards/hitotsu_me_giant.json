@@ -1,0 +1,21 @@
+{
+  "id": 76184692,
+  "name": "Hitotsu-Me Giant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76184692.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

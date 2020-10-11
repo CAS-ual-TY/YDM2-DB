@@ -1,0 +1,24 @@
+{
+  "id": 58016954,
+  "name": "Shaddoll Zefranaga",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Pendulum Summoned or sent to the GY: You can target 1 card in either player\u0027s Pendulum Zone; return it to the hand. You must have a \"Zefra\" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of \"Shaddoll Zefranaga\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58016954.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 900,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 2,
+  "is_tuner": false,
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.\n",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": 39180960,
+  "name": "Rigorous Reaver",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Each player discards 1 card.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39180960.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
+}

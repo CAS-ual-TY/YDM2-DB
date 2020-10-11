@@ -1,0 +1,21 @@
+{
+  "id": 92391084,
+  "name": "Wilmee",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A rabid rabbit that shears through opposition with its sharp skewers.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92391084.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

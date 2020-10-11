@@ -1,0 +1,21 @@
+{
+  "id": 30532390,
+  "name": "Sky Scout",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "With eyes like a hawk and a flying speed exceeding Mach 5, this monster is a master of the sky.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30532390.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
+}

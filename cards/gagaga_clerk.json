@@ -1,0 +1,21 @@
+{
+  "id": 44250812,
+  "name": "Gagaga Clerk",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a \"Gagaga\" monster other than \"Gagaga Clerk\", you can Special Summon this card (from your hand).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44250812.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

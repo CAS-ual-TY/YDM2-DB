@@ -1,0 +1,21 @@
+{
+  "id": 76446915,
+  "name": "Disk Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster hides in a saucer and only appears when executing an attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76446915.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1350,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

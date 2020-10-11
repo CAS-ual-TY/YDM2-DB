@@ -1,0 +1,21 @@
+{
+  "id": 50259460,
+  "name": "Versago the Destroyer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50259460.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1100,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

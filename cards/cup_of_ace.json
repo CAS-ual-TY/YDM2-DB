@@ -1,0 +1,12 @@
+{
+  "id": 37812118,
+  "name": "Cup of Ace",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Toss a coin: ? Heads: Draw 2 cards. ? Tails: Your opponent draws 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37812118.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

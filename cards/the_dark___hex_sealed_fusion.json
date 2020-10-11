@@ -1,0 +1,21 @@
+{
+  "id": 52101615,
+  "name": "The Dark - Hex-Sealed Fusion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can substitute this card for any 1 Fusion Material Monster, but the other Fusion Material Monster(s) must be correct. You can Tribute Fusion Material Monsters on the field, including this face-up card; Special Summon 1 corresponding DARK Fusion Monster from your Extra Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52101615.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

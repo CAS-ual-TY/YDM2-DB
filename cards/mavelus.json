@@ -1,0 +1,21 @@
+{
+  "id": 59036972,
+  "name": "Mavelus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Tyhone\" + \"Wings of Wicked Flame\"",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59036972.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1300,
+  "species": "Winged Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

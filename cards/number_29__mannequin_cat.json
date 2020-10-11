@@ -1,0 +1,20 @@
+{
+  "id": 54191698,
+  "name": "Number 29: Mannequin Cat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 2 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 monster in your opponent\u0027s GY; Special Summon it to your opponent\u0027s field. If a monster(s) is Special Summoned to your opponent\u0027s field, while you control this monster (except during the Damage Step): You can target 1 face-up monster your opponent controls; Special Summon 1 monster with the same Type or Attribute from your hand, Deck, or GY. You can only use this effect of \"Number 29: Mannequin Cat\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54191698.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Beast",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "rank": 2
+}

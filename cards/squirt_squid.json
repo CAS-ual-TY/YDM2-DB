@@ -1,0 +1,21 @@
+{
+  "id": 65500515,
+  "name": "Squirt Squid",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, when this card is targeted for an attack by an opponent\u0027s monster: You can move this card you control to another of your Main Monster Zones, then, Special Summon 1 \"Squid Ink Token\" (Aqua/WATER/Level 2/ATK ?/DEF 0). This Token\u0027s ATK becomes that opponent\u0027s monster\u0027s ATK. While this card is in your leftmost or rightmost Main Monster Zone, your opponent\u0027s monsters with ATK less than or equal to this card\u0027s DEF cannot target it for attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65500515.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 2,
+  "is_tuner": false
+}

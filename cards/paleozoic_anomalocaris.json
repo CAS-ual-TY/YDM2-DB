@@ -1,0 +1,21 @@
+{
+  "id": 61307542,
+  "name": "Paleozoic Anomalocaris",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 or more Level 2 monsters\nThis card is unaffected by other monsters\u0027 effects. Once per turn, if a Trap Card(s) is sent from your Spell \u0026 Trap Zone to the Graveyard (except during the Damage Step): You can excavate the top card of your Deck, and if it is a Trap Card, add it to your hand. Otherwise, send it to the Graveyard. Once per turn, during either player\u0027s turn, if this card has a Trap Card as Xyz Material: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61307542.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61307543.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2400,
+  "species": "Aqua",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 2
+}

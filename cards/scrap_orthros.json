@@ -1,0 +1,21 @@
+{
+  "id": 64550682,
+  "name": "Scrap Orthros",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a \"Scrap\" monster. If Summoned this way: Target 1 \"Scrap\" monster you control; destroy that target. If this card is destroyed by the effect of a \"Scrap\" card and sent to the GY: You can target 1 \"Scrap\" monster in your GY, except \"Scrap Orthros\"; add that target to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64550682.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": true
+}

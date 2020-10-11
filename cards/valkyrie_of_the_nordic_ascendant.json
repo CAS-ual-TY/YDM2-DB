@@ -1,0 +1,21 @@
+{
+  "id": 40844552,
+  "name": "Valkyrie of the Nordic Ascendant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is not treated as a \"Valkyrie\" card.)\nWhen this card is Normal Summoned, if your opponent controls a monster and you control no other cards: You can banish 2 \"Nordic\" monsters from your hand; Special Summon 2 \"Einherjar Tokens\" (Warrior/EARTH/Level 4/ATK 1000/DEF 1000) in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40844552.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 400,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 2,
+  "is_tuner": true
+}

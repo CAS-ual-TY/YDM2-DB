@@ -1,0 +1,12 @@
+{
+  "id": 35539880,
+  "name": "Birthright",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate this card by targeting 1 Normal Monster in your Graveyard; Special Summon that target in face-up Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35539880.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 65878864,
+  "name": "Nobleman-Eater Bug",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Destroy 2 monsters on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65878864.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 1200,
+  "level": 5,
+  "is_tuner": false
+}

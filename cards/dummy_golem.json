@@ -1,0 +1,21 @@
+{
+  "id": 13532663,
+  "name": "Dummy Golem",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Your opponent selects 1 monster they control. Switch control of the selected monster and this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13532663.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

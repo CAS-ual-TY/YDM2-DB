@@ -1,0 +1,21 @@
+{
+  "id": 66661678,
+  "name": "Royal Knight of the Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Tribute Summoned, Special Summon 1 \"Ice Coffin Token\" (Aqua-Type/WATER/Level 1/ATK 1000/DEF 0) in Attack Position to your opponent\u0027s side of the field. This Token cannot be Tributed for a Tribute Summon.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66661678.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

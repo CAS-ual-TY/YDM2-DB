@@ -1,0 +1,21 @@
+{
+  "id": 78868119,
+  "name": "Deep Sea Diva",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78868119.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 200,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

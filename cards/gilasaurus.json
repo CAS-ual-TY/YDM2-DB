@@ -1,0 +1,21 @@
+{
+  "id": 45894482,
+  "name": "Gilasaurus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand). If Summoned this way: Activate this effect; your opponent can Special Summon 1 monster from their GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45894482.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}

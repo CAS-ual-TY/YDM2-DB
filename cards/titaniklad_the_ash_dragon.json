@@ -1,0 +1,21 @@
+{
+  "id": 41373230,
+  "name": "Titaniklad the Ash Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Fallen of Albaz\" + 1 monster with 2500 or more ATK\nGains ATK equal to the combined original Levels of the monsters used for its Fusion Summon x 100. After this card is Fusion Summoned, for the rest of this turn, it is unaffected by the activated effects of any other monsters Special Summoned from the Extra Deck. During the End Phase, if this card is in the GY because it was sent there this turn: You can add to your hand, or Special Summon, 1 \"Fallen of Albaz\" or \"Dogmatika\" monster from your Deck. You can only use this effect of \"Titaniklad the Ash Dragon\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41373230.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

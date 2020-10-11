@@ -1,0 +1,21 @@
+{
+  "id": 94119974,
+  "name": "Two-Headed King Rex",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A powerful monster whose two heads attack as one.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/94119974.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

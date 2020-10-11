@@ -1,0 +1,12 @@
+{
+  "id": 97997309,
+  "name": "Spellbook of Fate",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Spellcaster-Type monster: You can banish up to 3 \"Spellbook\" Spell Cards from your Graveyard; apply this effect, depending on the number of Spell Cards banished for this card\u0027s activation. You can only activate 1 \"Spellbook of Fate\" per turn.\n? 1: Return 1 Set Spell/Trap Card on the field to the hand.\n? 2: Change 1 monster on the field to face-down Defense Position or face-up Attack Position.\n? 3: Banish 1 card your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97997309.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2511717,
+  "name": "Legendary Six Samurai - Kageki",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Six Samurai\" monster from your hand. While you control a \"Six Samurai\" monster with a different name, this card gains 1500 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2511717.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

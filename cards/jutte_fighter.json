@@ -1,0 +1,21 @@
+{
+  "id": 60410769,
+  "name": "Jutte Fighter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60410769.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 2,
+  "is_tuner": true
+}

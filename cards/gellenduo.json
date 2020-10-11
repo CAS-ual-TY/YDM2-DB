@@ -1,0 +1,21 @@
+{
+  "id": 11662742,
+  "name": "Gellenduo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by battle. If you take any damage: Destroy this face-up card. This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Fairy monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11662742.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

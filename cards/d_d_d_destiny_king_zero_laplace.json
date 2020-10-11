@@ -1,0 +1,24 @@
+{
+  "id": 21686473,
+  "name": "D/D/D Destiny King Zero Laplace",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) by Tributing 1 \"D/D/D\" monster. Before damage calculation, if this card battles an opponent\u0027s monster: You can activate this effect; this card\u0027s ATK becomes double that opponent\u0027s monster\u0027s original ATK until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. The first time this card would be destroyed by battle each turn, it is not destroyed, also you take no battle damage from that battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21686473.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false,
+  "pendulum_text": "During your Main Phase: You can add 1 face-up \"D/D/D\" Pendulum Monster from your Extra Deck to your hand, except \"D/D/D Destiny King Zero Laplace\". You can only use this effect of \"D/D/D Destiny King Zero Laplace\" once per turn.\n",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
+}

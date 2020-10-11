@@ -1,0 +1,21 @@
+{
+  "id": 18372968,
+  "name": "Razor Lizard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control another Reptile-Type monster, if this card attacks a face-down Defense Position monster, destroy the monster immediately with this card\u0027s effect without flipping it face-up or applying damage calculation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18372968.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 33833230,
+  "name": "Performapal Seal Eel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal or Special Summoned: You can target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated this turn. Neither player can activate cards or effects in response to this effect\u0027s activation.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33833230.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 100,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn: You can target 1 face-up monster your opponent controls; that face-up monster has its effects negated until the end of this turn (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

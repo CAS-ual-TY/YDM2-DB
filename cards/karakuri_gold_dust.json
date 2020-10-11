@@ -1,0 +1,12 @@
+{
+  "id": 16708652,
+  "name": "Karakuri Gold Dust",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only during the Battle Phase. Select 2 face-up \"Karakuri\" monsters in Attack Position. Change 1 of the selected monsters to Defense Position, and the other gains ATK equal to the ATK of the monster changed to Defense Position, until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16708652.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

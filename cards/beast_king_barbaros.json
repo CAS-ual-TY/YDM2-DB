@@ -1,0 +1,21 @@
+{
+  "id": 78651105,
+  "name": "Beast King Barbaros",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78651105.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 90502999,
+  "name": "Ground Collapse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Select 2 Main Monster Zones on the field. Neither player can use the selected zones. You cannot select a zone that is occupied by a Monster Card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90502999.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

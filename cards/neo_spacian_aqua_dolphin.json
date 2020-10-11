@@ -1,0 +1,21 @@
+{
+  "id": 17955766,
+  "name": "Neo-Spacian Aqua Dolphin",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can discard 1 card; look at your opponent\u0027s hand and choose 1 monster. If you control a monster with ATK greater than or equal to the ATK of the chosen card, destroy the chosen card, and if you do, inflict 500 damage to your opponent. Otherwise, take 500 damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17955766.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 600,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

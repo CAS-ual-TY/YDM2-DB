@@ -1,0 +1,21 @@
+{
+  "id": 3606209,
+  "name": "One Who Hunts Souls",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This dangerous creature brandishes a soul-sucking sword.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3606209.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

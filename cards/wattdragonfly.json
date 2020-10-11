@@ -1,0 +1,21 @@
+{
+  "id": 97885363,
+  "name": "Wattdragonfly",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is destroyed by your opponent\u0027s card (either by battle or by card effect), you can Special Summon 1 \"Watt\" monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97885363.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 900,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
+}

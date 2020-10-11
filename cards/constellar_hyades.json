@@ -1,0 +1,20 @@
+{
+  "id": 47579719,
+  "name": "Constellar Hyades",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 3 LIGHT monsters\nOnce per turn: You can detach 1 Xyz Material from this card; change all monsters your opponent controls to face-up Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47579719.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1900,
+  "species": "Beast-Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "rank": 3
+}

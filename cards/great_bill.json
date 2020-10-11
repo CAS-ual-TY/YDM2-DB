@@ -1,0 +1,21 @@
+{
+  "id": 55691901,
+  "name": "Great Bill",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Nothing escapes from this beast\u0027s massive mouth.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55691901.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1250,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

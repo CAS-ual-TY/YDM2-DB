@@ -1,0 +1,21 @@
+{
+  "id": 77848740,
+  "name": "Madolche Petingcessoeur",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card in your possession is destroyed by an opponent\u0027s card and sent to your GY: Shuffle this card into the Deck. You can only use each of the following effects of \"Madolche Petingcessoeur\" once per turn.\n? If you have no monsters in your GY: You can Special Summon this card from your hand.\n? If this card is Special Summoned: You can Special Summon 1 \"Madolche\" monster from your hand or Deck, except \"Madolche Petingcessoeur\", and if you do, reduce its Level by 1, also you cannot Special Summon monsters for the rest of this turn, except \"Madolche\" monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77848740.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 7573135,
+  "name": "Gladiator Beast Augustus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: You can Special Summon 1 \"Gladiator Beast\" monster from your hand in Defense Position. Shuffle it into the Deck during the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Augustus\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7573135.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false
+}

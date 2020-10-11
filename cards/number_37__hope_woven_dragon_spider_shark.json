@@ -1,0 +1,20 @@
+{
+  "id": 37279508,
+  "name": "Number 37: Hope Woven Dragon Spider Shark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 WATER monsters\nWhen any player\u0027s monster declares an attack: You can detach 1 Xyz Material from this card; all monsters your opponent currently controls lose 1000 ATK until the end of this turn. When this card is destroyed by battle or card effect and sent to the Graveyard: You can target 1 other monster in your Graveyard; Special Summon it. You can only use each effect of \"Number 37: Hope Woven Dragon Spider Shark\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37279508.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2600,
+  "species": "Sea Serpent",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "rank": 4
+}

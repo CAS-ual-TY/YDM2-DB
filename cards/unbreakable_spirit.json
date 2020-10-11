@@ -1,0 +1,12 @@
+{
+  "id": 88494120,
+  "name": "Unbreakable Spirit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control only 1 face-up monster: Target that monster; until the end of this turn, it gains ATK equal to the ATK of the monster your opponent currently controls with the lowest ATK (your choice, if tied).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/88494120.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

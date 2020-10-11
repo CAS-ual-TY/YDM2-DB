@@ -1,0 +1,21 @@
+{
+  "id": 45078193,
+  "name": "Cyberdark Cannon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent to the GY while equipped to a monster: You can draw 1 card. You can only use each of the following effects of \"Cyberdark Cannon\" once per turn.\n? You can discard this card; add 1 Machine \"Cyberdark\" monster from your Deck to your hand.\n? During damage calculation, if a monster equipped with this card battles: You can send 1 monster from your Deck to the GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45078193.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 45195443,
+  "name": "Elemental HERO Solid Soldier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"HERO\" monster from your hand. If this card is sent from the Monster Zone to the GY by a Spell effect: You can target 1 \"HERO\" monster in your GY, except \"Elemental HERO Solid Soldier\"; Special Summon it in Defense Position. You can only use this effect of \"Elemental HERO Solid Soldier\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45195443.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

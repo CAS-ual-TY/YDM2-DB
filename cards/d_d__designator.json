@@ -1,0 +1,12 @@
+{
+  "id": 33423043,
+  "name": "D.D. Designator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Declare 1 card name. Look at your opponent\u0027s hand, and if they have the declared card in their hand, remove that 1 card from play. If they do not have the declared card in their hand, remove 1 random card in your hand from play.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33423043.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

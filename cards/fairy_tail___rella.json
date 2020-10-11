@@ -1,0 +1,21 @@
+{
+  "id": 52022648,
+  "name": "Fairy Tail - Rella",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Neither player can target monsters on the field with Spell Cards or effects, except this one. Once per turn: You can discard 1 Spell; equip 1 Equip Spell from your hand, Deck, or GY to this card, but return that Equip Spell to the hand during the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52022648.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1850,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

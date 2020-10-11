@@ -1,0 +1,21 @@
+{
+  "id": 47319141,
+  "name": "Wing Eagle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This flying creature never misses its intended target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/47319141.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

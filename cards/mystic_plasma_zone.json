@@ -1,0 +1,12 @@
+{
+  "id": 18161786,
+  "name": "Mystic Plasma Zone",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Increase the ATK of all DARK monsters by 500 points and decreases their DEF by 400 points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18161786.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

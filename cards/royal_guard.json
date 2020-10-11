@@ -1,0 +1,21 @@
+{
+  "id": 39239728,
+  "name": "Royal Guard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A mechanized soldier created to protect royalty.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39239728.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
+}

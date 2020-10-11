@@ -1,0 +1,21 @@
+{
+  "id": 30276969,
+  "name": "Reese the Ice Mistress",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be destroyed by battle with a Level 4 or higher monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30276969.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Sea Serpent",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 2,
+  "is_tuner": true
+}

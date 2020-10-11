@@ -1,0 +1,21 @@
+{
+  "id": 12600382,
+  "name": "Exodia Necross",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Contract with Exodia\", and cannot be Special Summoned by other ways. Cannot be destroyed by battle or Spell/Trap effect. Once per turn, during your Standby Phase: This card gains 500 ATK. Destroy this card unless all 5 of these cards are in your Graveyard - \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\" and \"Left Leg of the Forbidden One\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12600382.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

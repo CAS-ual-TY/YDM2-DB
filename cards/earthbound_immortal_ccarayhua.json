@@ -1,0 +1,21 @@
+{
+  "id": 79798060,
+  "name": "Earthbound Immortal Ccarayhua",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. If this card is destroyed by a card effect, except by its own effect: Destroy all cards on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79798060.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 10,
+  "is_tuner": false
+}

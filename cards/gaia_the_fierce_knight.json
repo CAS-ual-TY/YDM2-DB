@@ -1,0 +1,22 @@
+{
+  "id": 6368038,
+  "name": "Gaia The Fierce Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6368038.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/6368039.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
+}

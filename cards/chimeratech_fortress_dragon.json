@@ -1,0 +1,21 @@
+{
+  "id": 79229522,
+  "name": "Chimeratech Fortress Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Cyber Dragon\" + 1+ Machine monsters\nCannot be used as Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the GY. (You do not use \"Polymerization\".) The original ATK of this card becomes 1000 x the number of Fusion Materials used for its Special Summon.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79229522.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

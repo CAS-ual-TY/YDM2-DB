@@ -1,0 +1,21 @@
+{
+  "id": 20060230,
+  "name": "Hard Armor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A living suit of armor that attacks enemies with a bone-jarring tackle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20060230.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

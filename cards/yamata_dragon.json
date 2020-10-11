@@ -1,0 +1,21 @@
+{
+  "id": 76862289,
+  "name": "Yamata Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Special Summoned. This card returns to its owner\u0027s hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, draw cards until you have 5 cards in your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76862289.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 3100,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 220414,
+  "name": "Performapal Turn Trooper",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "At the start of your Battle Phase: You can place 1 counter on this card (max. 2). This card gains the following effect, based on the number of counters on it.\n? 1: Once per turn, when an opponent\u0027s monster declares an attack: You can negate that attack.\n? 2: You can Tribute this card; banish all monsters on the field, until your opponent\u0027s 2nd End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/220414.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

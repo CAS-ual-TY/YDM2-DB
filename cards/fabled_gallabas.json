@@ -1,0 +1,21 @@
+{
+  "id": 60434101,
+  "name": "Fabled Gallabas",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard 1 card to the Graveyard to select and destroy 1 face-up monster your opponent controls with DEF less than or equal to this card\u0027s ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/60434101.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

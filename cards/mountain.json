@@ -1,0 +1,12 @@
+{
+  "id": 50913601,
+  "name": "Mountain",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50913601.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

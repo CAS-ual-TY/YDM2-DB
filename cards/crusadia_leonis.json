@@ -1,0 +1,21 @@
+{
+  "id": 28031913,
+  "name": "Crusadia Leonis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Leonis\" once per turn this way. You can target 1 \"Crusadia\" Link Monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use this effect of \"Crusadia Leonis\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28031913.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

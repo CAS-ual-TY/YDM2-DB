@@ -1,0 +1,21 @@
+{
+  "id": 41685633,
+  "name": "Thunder Dragon Titan",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 \"Thunder Dragon\" monsters\nMust be either Fusion Summoned, or Special Summoned by banishing 1 Thunder monster from your hand and 1 Thunder Fusion Monster you control, except \"Thunder Dragon Titan\" (in which case you do not use \"Polymerization\"). When a Thunder monster\u0027s effect is activated in the hand, even during the Damage Step (Quick Effect): You can destroy 1 card on the field. If this card would be destroyed by card effect, you can banish 2 cards from your GY instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41685633.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3200,
+  "species": "Thunder",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3200,
+  "level": 10,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 18514525,
+  "name": "Prank-Kids Rocket Ride",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Prank-Kids\" monsters\nIf this card is Fusion Summoned: You can have this card lose 1000 ATK this turn, also it can attack directly this turn. You can Tribute this card, then target 2 \"Prank-Kids\" non-Fusion Monsters with different names in your GY; Special Summon them, but they cannot attack this turn. You can only use each effect of \"Prank-Kids Rocket Ride\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18514525.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Pyro",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

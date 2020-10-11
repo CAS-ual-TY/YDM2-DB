@@ -1,0 +1,21 @@
+{
+  "id": 2088870,
+  "name": "Worm Victory",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Destroy all face-up monsters on the field, except Reptile-Type \"Worm\" monsters. This card gains 500 ATK for each Reptile-Type \"Worm\" monster in your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/2088870.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

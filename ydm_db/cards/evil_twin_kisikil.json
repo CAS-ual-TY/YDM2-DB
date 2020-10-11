@@ -1,0 +1,20 @@
+{
+  "id": 9205573,
+  "name": "Evil?Twin Kisikil",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters, including a \"Kisikil\" monster\nIf this card is Special Summoned while you control a \"Lilla\" monster: You can draw 1 card. During the Main Phase, if you control no \"Lilla\" monsters (Quick Effect): You can Special Summon 1 \"Lilla\" monster from your GY, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fiend monsters. You can only use each effect of \"Evil?Twin Kisikil\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9205573.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1100,
+  "species": "Fiend",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": 40
+}

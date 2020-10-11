@@ -1,0 +1,20 @@
+{
+  "id": 96864105,
+  "name": "Number C73: Abyss Supra Splash",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 6 monsters\nIf a monster you control battles an opponent\u0027s monster, during damage calculation (in either player\u0027s turn): You can detach 1 Xyz Material from this card once per battle; your battling monster gains ATK equal to the ATK of the opponent\u0027s monster it is battling, during that damage calculation only. If this card has \"Number 73: Abyss Splash\" as Xyz Material, it gains this effect.\n? This card cannot be destroyed by card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/96864105.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 6
+}

@@ -1,0 +1,21 @@
+{
+  "id": 31924889,
+  "name": "Arcanite Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner Spellcaster monsters\nIf this card is Synchro Summoned: Place 2 Spell Counters on it. This card gains 1000 ATK for each Spell Counter on it. You can remove 1 Spell Counter from your field, then target 1 card your opponent controls; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31924889.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 400,
+  "species": "Spellcaster",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

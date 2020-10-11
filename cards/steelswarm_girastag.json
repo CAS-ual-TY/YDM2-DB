@@ -1,0 +1,21 @@
+{
+  "id": 58494728,
+  "name": "Steelswarm Girastag",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 \"Steelswarm\" monster. When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster(s): You can target 1 card your opponent controls; send that target to the Graveyard and gain 1000 Life Points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58494728.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 84990171,
+  "name": "Bean Soldier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A plant-warrior that attacks with seeds and sword.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84990171.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

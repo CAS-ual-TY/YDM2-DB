@@ -1,0 +1,21 @@
+{
+  "id": 7841112,
+  "name": "Majestic Star Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Majestic Dragon\" + \"Stardust Dragon\" + 1 non-Tuner monster\nDuring either player\u0027s turn, when your opponent activates a card or effect: You can Tribute this card; negate the activation, and if you do, destroy all cards your opponent controls. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn, and you can activate 1 of its effects as this card\u0027s effect once this turn. During the End Phase: Target 1 \"Stardust Dragon\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7841112.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3800,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

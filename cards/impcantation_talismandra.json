@@ -1,0 +1,21 @@
+{
+  "id": 80701178,
+  "name": "Impcantation Talismandra",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can reveal 1 Ritual Monster in your hand; Special Summon both this card from your hand and 1 \"Impcantation\" monster from your Deck, except \"Impcantation Talismandra\". If this card is Special Summoned from the Deck: You can add 1 Ritual Monster from your Deck to your hand. You can only use 1 \"Impcantation Talismandra\" effect per turn, and only once that turn. You cannot Special Summon monsters from the Extra Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80701178.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 50750868,
+  "name": "T.G. Trident Launcher",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Effect Monsters, including a \"T.G.\" Tuner\nIf this card is Link Summoned, you can: Special Summon 3 \"T.G.\" monsters (1 from your hand, 1 from your Deck, and 1 from your GY) in Defense Position to your zones this card points to, also you cannot Special Summon monsters for the rest of this turn, except \"T.G.\" monsters. You can only use this effect of \"T.G. Trident Launcher\" once per turn. Your opponent cannot target \"T.G.\" Synchro Monsters this card points to with card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50750868.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": 112
+}

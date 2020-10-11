@@ -1,0 +1,21 @@
+{
+  "id": 50005633,
+  "name": "Swordstalker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A monster formed by the vengeful souls of those who passed away in battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50005633.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

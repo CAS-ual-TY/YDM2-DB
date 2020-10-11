@@ -1,0 +1,21 @@
+{
+  "id": 62899696,
+  "name": "Speedroid Maliciousmagnet",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be used as Synchro Material except for a Synchro Summon by its own effect. During your Main Phase, if this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; immediately after this effect resolves, Synchro Summon 1 WIND Synchro Monster using only this card you control and that monster. You can only use this effect of \"Speedroid Maliciousmagnet\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62899696.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
+}

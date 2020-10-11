@@ -1,0 +1,21 @@
+{
+  "id": 26993374,
+  "name": "X-Saber Uruz",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card destroys an opponent\u0027s monster by battle and sends it to the Graveyard, you can Tribute this card to return the destroyed card to the top of its owner\u0027s Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26993374.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

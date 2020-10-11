@@ -1,0 +1,21 @@
+{
+  "id": 49375719,
+  "name": "Cyber Tutu",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If the ATK of each monster your opponent controls is higher than the ATK of this card, this card can attack your opponent directly.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49375719.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

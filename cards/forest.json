@@ -1,0 +1,12 @@
+{
+  "id": 87430998,
+  "name": "Forest",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All Insect, Beast, Plant, and Beast-Warrior monsters on the field gain 200 ATK/DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87430998.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 48588176,
+  "name": "Danipon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed by battle and sent to the GY: You can add 1 Insect monster with 1000 or less DEF from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48588176.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

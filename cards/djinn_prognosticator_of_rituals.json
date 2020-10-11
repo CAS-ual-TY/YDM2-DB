@@ -1,0 +1,21 @@
+{
+  "id": 4141820,
+  "name": "Djinn Prognosticator of Rituals",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When you Ritual Summon a monster, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon. If you Ritual Summon using this card, if that Ritual Summoned monster inflicts battle damage to your opponent, they discard 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4141820.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

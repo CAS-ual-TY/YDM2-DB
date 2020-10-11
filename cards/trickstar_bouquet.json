@@ -1,0 +1,12 @@
+{
+  "id": 99890852,
+  "name": "Trickstar Bouquet",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 \"Trickstar\" monster you control and 1 face-up monster on the field; return that \"Trickstar\" monster to the hand, and if you do, the other monster gains ATK equal to the original ATK of the returned monster, until the end of this turn. You can only activate 1 \"Trickstar Bouquet\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99890852.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

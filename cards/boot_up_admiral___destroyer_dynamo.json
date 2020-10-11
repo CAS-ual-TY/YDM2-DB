@@ -1,0 +1,21 @@
+{
+  "id": 36322312,
+  "name": "Boot-Up Admiral - Destroyer Dynamo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 2 \"Gadget\" Monster Cards from your hand and/or face-up field to the GY. Cannot be destroyed by battle or card effects while you control a \"Gadget\" monster or a \"Gadget\" Monster Card equipped to a monster. Once per turn: You can target 1 other card on the field; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36322312.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 58132856,
+  "name": "Toy Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell. During the End Phase, if this Set card in your Spell \u0026 Trap Zone was destroyed by an opponent\u0027s card effect and sent to the GY this turn: Special Summon this card. If this card is Flip Summoned: Destroy Spells and Traps on the field, equal to the number of \"Toy Magicians\" on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58132856.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

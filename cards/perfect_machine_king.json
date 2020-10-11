@@ -1,0 +1,21 @@
+{
+  "id": 18891691,
+  "name": "Perfect Machine King",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card gains 500 ATK for each other Machine-Type monster on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18891691.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2700,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

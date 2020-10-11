@@ -1,0 +1,21 @@
+{
+  "id": 1784619,
+  "name": "Uraby",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1784619.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

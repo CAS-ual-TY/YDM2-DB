@@ -1,0 +1,21 @@
+{
+  "id": 43464884,
+  "name": "Three Trolling Trolls",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 Beast-Warrior monster in your GY; this card\u0027s Attribute and Level become the same as that monster\u0027s, until the end of this turn. During your Main Phase: You can Special Summon 1 Beast-Warrior monster with the same Attribute and Level as this card from your hand. You can only use each effect of \"Three Trolling Trolls\" once per turn. You cannot Special Summon monsters the turn you activate either of this card\u0027s effects, except Beast-Warrior monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/43464884.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1300,
+  "level": 3,
+  "is_tuner": true
+}

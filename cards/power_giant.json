@@ -1,0 +1,21 @@
+{
+  "id": 7025445,
+  "name": "Power Giant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) by sending 1 Level 4 or lower monster from your hand to the Graveyard. If you do, decrease this card\u0027s Level by the Level of that monster. If this card attacks or is attacked, until the end of the Damage Step any effect damage you take becomes 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/7025445.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

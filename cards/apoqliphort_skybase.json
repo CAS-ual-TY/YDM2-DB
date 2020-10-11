@@ -1,0 +1,21 @@
+{
+  "id": 40061558,
+  "name": "Apoqliphort Skybase",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. Requires 3 \"Qli\" Tributes to Normal Summon/Set. If this card is Normal Summoned/Set, it is unaffected by Spell/Trap effects and by activated effects from any monster whose original Level/Rank is lower than this card\u0027s current Level. Once per turn: You can target 1 monster your opponent controls; take control of it until the End Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40061558.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 9,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 67959180,
+  "name": "Goddess of Whim",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can toss a coin and call Heads or Tails. If you call it right, double this card\u0027s ATK during this turn. If you call it wrong, halve its ATK during this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67959180.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 950,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

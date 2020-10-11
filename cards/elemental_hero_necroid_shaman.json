@@ -1,0 +1,21 @@
+{
+  "id": 81003500,
+  "name": "Elemental HERO Necroid Shaman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Elemental HERO Wildheart\" + \"Elemental HERO Necroshade\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 monster your opponent controls; destroy that target, then Special Summon 1 monster from your opponent\u0027s Graveyard to their side of the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81003500.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

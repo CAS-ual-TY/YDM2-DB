@@ -1,0 +1,21 @@
+{
+  "id": 100200185,
+  "name": "Dark Alligator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute Summon this card by Tributing 1 Reptile monster. When this card is Tribute Summoned: You can Special Summon \"Alligator Tokens\" (Reptile/DARK/Level 1/ATK 2000/DEF 0), up to the number of Reptile monsters Tributed for this card\u0027s Summon. If this Tribute Summoned card is destroyed by battle, or is destroyed by an opponent\u0027s card effect while in its owner\u0027s Monster Zone: You can add 1 Reptile monster from your Deck to your hand, except \"Dark Alligator\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100200185.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 92015800,
+  "name": "Number 76: Harmonizer Gradielle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 7 monsters\nThis card\u0027s Attribute is also treated as each of its attached materials\u0027 Attributes. Cannot be destroyed by battle with a monster of the same Attribute, also cannot be destroyed by the activated effects of your opponent\u0027s monsters with the same Attribute. (Quick Effect): You can target 1 monster in your opponent\u0027s GY; detach 1 material from this card, and if you do, attach that target to this card as material. You can only use this effect of \"Number 76: Harmonizer Gradielle\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92015800.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2700,
+  "species": "Fairy",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "rank": 7
+}

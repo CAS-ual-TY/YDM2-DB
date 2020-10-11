@@ -1,0 +1,21 @@
+{
+  "id": 34267821,
+  "name": "Artifact Lancea",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell. During your opponent\u0027s turn, if this Set card in the Spell \u0026 Trap Zone is destroyed and sent to your GY: Special Summon it. During your opponent\u0027s turn (Quick Effect): You can Tribute this card from your hand or face-up field; neither player can banish cards for the rest of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34267821.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 46363422,
+  "name": "Skilled White Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Buster Blader\" from your hand, Deck, or Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46363422.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 95568112,
+  "name": "Rain Bozu",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gains ATK equal to the difference between the number of cards in both players\u0027 Extra Decks x 200 during your turn only. Gains DEF equal to the difference between the number of cards in both players\u0027 Extra Decks x 200 during your opponent\u0027s turn only. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95568112.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 7,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in both players\u0027 Extra Decks x 100, until the end of this turn (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
+}

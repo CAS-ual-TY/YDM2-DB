@@ -1,0 +1,20 @@
+{
+  "id": 13030280,
+  "name": "CXyz Comics Hero Legend Arthur",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 5 monsters\nOnce per turn, this card cannot be destroyed by battle. If this card has \"Comics Hero King Arthur\" as an Xyz Material, it gains this effect.\n? When this card destroys a monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; banish the destroyed monster, and if you do, inflict damage to your opponent equal to its original ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13030280.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "rank": 5
+}

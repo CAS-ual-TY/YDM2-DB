@@ -1,0 +1,21 @@
+{
+  "id": 37679169,
+  "name": "Kozmo Delta Shuttle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can send 1 \"Kozmo\" monster from your Deck to the Graveyard, then target 1 face-up monster on the field; it loses ATK and DEF equal to the sent monster\u0027s Level x 100. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 4 or lower \"Kozmo\" monster from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37679169.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

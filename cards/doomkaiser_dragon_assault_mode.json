@@ -1,0 +1,21 @@
+{
+  "id": 1764972,
+  "name": "Doomkaiser Dragon/Assault Mode",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". When this card is Special Summoned, Special Summon any number of Zombie-Type monsters from either player\u0027s Graveyard(s) to your side of the field. Those monsters\u0027 effects are negated, and they are destroyed during the End Phase this turn. When this card on the field is destroyed, you can Special Summon 1 \"Doomkaiser Dragon\" from your Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1764972.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2900,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

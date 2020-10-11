@@ -1,0 +1,21 @@
+{
+  "id": 78613627,
+  "name": "Des Kangaroo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If the ATK of a monster that attacks this monster in Defense Position is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78613627.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

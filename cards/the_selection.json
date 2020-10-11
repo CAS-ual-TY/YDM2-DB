@@ -1,0 +1,12 @@
+{
+  "id": 30888983,
+  "name": "The Selection",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Pay 1000 Life Points. Negate the Summon of a monster that has the same Type as a monster on the field, and destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30888983.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

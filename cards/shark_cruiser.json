@@ -1,0 +1,21 @@
+{
+  "id": 20358953,
+  "name": "Shark Cruiser",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this face-up card you control is destroyed by your opponent\u0027s card effect, you can Special Summon up to 2 Level 4 or lower WATER monsters from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20358953.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 5,
+  "is_tuner": false
+}

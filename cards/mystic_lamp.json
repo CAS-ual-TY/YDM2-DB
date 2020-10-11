@@ -1,0 +1,21 @@
+{
+  "id": 98049915,
+  "name": "Mystic Lamp",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster can attack your opponent\u0027s Life Points directly.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98049915.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

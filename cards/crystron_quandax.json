@@ -1,0 +1,21 @@
+{
+  "id": 39964797,
+  "name": "Crystron Quandax",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per Chain, during your opponent\u0027s Main or Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using materials including this card you control. If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 \"Crystron\" monster in your GY, except a Synchro Monster; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39964797.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": true
+}

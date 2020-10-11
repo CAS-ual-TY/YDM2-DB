@@ -1,0 +1,22 @@
+{
+  "id": 27911549,
+  "name": "Parasite Paracide",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Put this card face-up in your opponent\u0027s Deck and shuffle it. When your opponent draws this card, it is Special Summoned to their side of the field in face-up Defense Position, and inflicts 1000 damage to them. Then, while this card is face-up on the field, all monsters your opponent controls become Insect-Type monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27911549.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27911550.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
+}

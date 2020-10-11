@@ -1,0 +1,21 @@
+{
+  "id": 81846453,
+  "name": "Martial Metal Marcher",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can target 1 Tuner in your GY; Special Summon it in Defense Position, but negate its effects. You can only use this effect of \"Martial Metal Marcher\" once per turn. A Synchro Monster that used this card as material is treated as a Tuner while face-up on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81846453.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 500,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 3,
+  "is_tuner": true
+}

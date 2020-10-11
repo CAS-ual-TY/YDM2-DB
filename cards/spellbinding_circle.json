@@ -1,0 +1,13 @@
+{
+  "id": 18807109,
+  "name": "Spellbinding Circle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18807109.jpg",
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18807108.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

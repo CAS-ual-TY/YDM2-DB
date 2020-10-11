@@ -1,0 +1,21 @@
+{
+  "id": 71175527,
+  "name": "Pilica, Descendant of Gusto",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal or Special Summoned: You can target 1 WIND Tuner monster in your Graveyard; Special Summon that target in face-up Defense Position. Its effects are negated. If you activated this effect, you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Pilica, Descendant of Gusto\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71175527.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

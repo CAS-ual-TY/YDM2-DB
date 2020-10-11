@@ -1,0 +1,21 @@
+{
+  "id": 21263083,
+  "name": "Pale Beast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/21263083.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 51497409,
+  "name": "D/D/D Stone King Darius",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 3 Fiend-Type monsters\nOnce per turn, during either player\u0027s turn: You can detach 1 Xyz Material from this card, then target 1 \"Dark Contract\" card you control; destroy it, and if you do, draw 1 card. If this card battles an opponent\u0027s monster, during damage calculation: You can detach 1 Xyz Material from this card; make this card unable to be destroyed by that battle, destroy the opponent\u0027s monster that battled it after damage calculation, and if you do, inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51497409.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Fiend",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "rank": 3
+}

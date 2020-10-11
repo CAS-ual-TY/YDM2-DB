@@ -1,0 +1,21 @@
+{
+  "id": 27279764,
+  "name": "Apoqliphort Towers",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. Requires 3 \"Qli\" Tributes to Normal Summon/Set. If this card is Normal Summoned/Set, it is unaffected by Spell/Trap effects and by activated effects from any monster whose original Level/Rank is lower than this card\u0027s current Level. All Special Summoned monsters lose 500 ATK and DEF. Once per turn: You can make your opponent send 1 monster from their hand or their side of the field to the Graveyard (their choice).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27279764.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 10,
+  "is_tuner": false
+}

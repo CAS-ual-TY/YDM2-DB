@@ -1,0 +1,12 @@
+{
+  "id": 61405855,
+  "name": "Sword of Dragon\u0027s Soul",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Equip only to a Warrior monster. It gains 700 ATK. After damage calculation, if the equipped monster battled a Dragon monster: Destroy that monster at the end of that Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61405855.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

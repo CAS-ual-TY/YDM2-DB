@@ -1,0 +1,21 @@
+{
+  "id": 29357956,
+  "name": "Gladiator Beast Nerokius",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 \"Gladiator Beast\" monsters\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Cannot be destroyed by battle. If this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Extra Deck; Special Summon 2 \"Gladiator Beast\" monsters from your Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29357956.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Winged Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 8,
+  "is_tuner": false
+}

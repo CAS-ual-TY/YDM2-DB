@@ -1,0 +1,21 @@
+{
+  "id": 61254509,
+  "name": "Tripod Fish",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Special Summoned from the Graveyard: You can target 1 face-up Fish, Sea Serpent, or Aqua-Type monster on the field; increase its Level by 1.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61254509.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 300,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
+}

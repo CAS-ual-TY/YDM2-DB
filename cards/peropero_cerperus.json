@@ -1,0 +1,21 @@
+{
+  "id": 69764158,
+  "name": "Peropero Cerperus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you take damage by battle or an opponent\u0027s card effect while this card is in the GY: You can banish this card from the GY, then target 1 card on the field; destroy it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69764158.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

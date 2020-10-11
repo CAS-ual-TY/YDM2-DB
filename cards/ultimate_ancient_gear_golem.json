@@ -1,0 +1,21 @@
+{
+  "id": 12652643,
+  "name": "Ultimate Ancient Gear Golem",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Ancient Gear Golem\" + 2 \"Ancient Gear\" monsters\nMust be Fusion Summoned. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. If this card is destroyed: You can target 1 \"Ancient Gear Golem\" in your GY; Special Summon it, ignoring its Summoning conditions.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12652643.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 4400,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3400,
+  "level": 10,
+  "is_tuner": false
+}

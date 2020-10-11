@@ -1,0 +1,12 @@
+{
+  "id": 25789292,
+  "name": "Forbidden Chalice",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 face-up monster on the field; until the end of this turn, that target gains 400 ATK, but its effects are negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25789292.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

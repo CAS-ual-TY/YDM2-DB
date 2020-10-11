@@ -1,0 +1,21 @@
+{
+  "id": 41578483,
+  "name": "Millennium-Eyes Restrict",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Relinquished\" + 1 Effect Monster\nOnce per turn, when your opponent activates a monster effect (Quick Effect): You can target 1 Effect Monster your opponent controls or in their GY; equip that target to this card you control. This card gains ATK/DEF equal to that equipped monster\u0027s. Monsters with that equipped monster\u0027s name cannot attack, also their effects on the field and their activated effects are negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41578483.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

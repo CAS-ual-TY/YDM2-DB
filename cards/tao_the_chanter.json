@@ -1,0 +1,21 @@
+{
+  "id": 46247516,
+  "name": "Tao the Chanter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Master of Yin and Yang, this wizard handles a delicate balance of spells and counter spells.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46247516.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

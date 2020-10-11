@@ -1,0 +1,21 @@
+{
+  "id": 65240384,
+  "name": "Big Shield Gardna",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a Spell Card is activated that targets this face-down card (and no other cards) (Quick Effect): Change this card to face-up Defense Position, and if you do, negate the activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65240384.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 4,
+  "is_tuner": false
+}

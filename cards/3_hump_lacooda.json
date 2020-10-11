@@ -1,0 +1,21 @@
+{
+  "id": 86988864,
+  "name": "3-Hump Lacooda",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If there are 3 face-up \"3-Hump Lacooda\" cards on your side of the field, Tribute 2 of them to draw 3 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86988864.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

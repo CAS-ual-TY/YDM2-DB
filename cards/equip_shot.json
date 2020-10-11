@@ -1,0 +1,12 @@
+{
+  "id": 62878208,
+  "name": "Equip Shot",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only during the Battle Phase. Select 1 Equip Card equipped to a face-up Attack Position monster you control, and select 1 face-up Attack Position monster your opponent controls. Equip that monster with the selected Equip Card. Then, conduct battle between your previously equipped monster and the selected monster (other effects cannot be activated during this battle).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62878208.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

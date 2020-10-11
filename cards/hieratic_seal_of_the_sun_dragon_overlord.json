@@ -1,0 +1,21 @@
+{
+  "id": 13140300,
+  "name": "Hieratic Seal of the Sun Dragon Overlord",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A mysterious engraved Hieratic relic. It was thought to be a simple stone, but it was actually infused with the power of a sun-wielding dragon. Aeons passed, and the power of the relic grew and grew until it finally shone like the sun itself.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/13140300.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

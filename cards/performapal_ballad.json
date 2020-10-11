@@ -1,0 +1,24 @@
+{
+  "id": 66768175,
+  "name": "Performapal Ballad",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your \"Performapal\" monster attacked, after damage calculation: You can target 1 face-up monster your opponent controls; that target loses ATK equal to the ATK of that \"Performapal\" monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66768175.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false,
+  "pendulum_text": "Once per turn, at the start of the Damage Step, when your \"Performapal\" monster battles an opponent\u0027s face-up monster: You can make that opponent\u0027s monster lose 600 ATK (even if this card leaves the field).\n",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
+}

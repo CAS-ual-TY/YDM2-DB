@@ -1,0 +1,21 @@
+{
+  "id": 37160778,
+  "name": "Fairywitch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Though destined to be a fairy, this creature chose the way of the witch instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37160778.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

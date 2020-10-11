@@ -1,0 +1,21 @@
+{
+  "id": 26400609,
+  "name": "Tidal, Dragon Ruler of Waterfalls",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand or Graveyard: You can banish a total of 2 WATER and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent\u0027s End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 WATER monster to the Graveyard; send 1 monster from your Deck to the Graveyard. If this card is banished: You can add 1 WATER Dragon-Type monster from your Deck to your hand. You can only use 1 \"Tidal, Dragon Ruler of Waterfalls\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/26400609.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 18236002,
+  "name": "Prank-Kids Lampsies",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can inflict 500 damage to your opponent, then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Lampsies\". You can only use this effect of \"Prank-Kids Lampsies\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18236002.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

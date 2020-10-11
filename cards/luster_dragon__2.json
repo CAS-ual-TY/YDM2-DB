@@ -1,0 +1,21 @@
+{
+  "id": 17658803,
+  "name": "Luster Dragon #2",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17658803.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2400,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1400,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 637216,
+  "name": "Monster Express",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 face-up monster you control; send 1 monster from your Extra Deck to the GY with the same original Type as that face-up monster, but for the rest of this turn, you cannot Special Summon monsters, except monsters with the same original Type as the monster sent to the GY by this effect. You can only use this effect of \"Monster Express\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/637216.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

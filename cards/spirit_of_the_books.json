@@ -1,0 +1,21 @@
+{
+  "id": 14037717,
+  "name": "Spirit of the Books",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This wise spirit dwells in books, using its accumulated knowledge to defeat enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14037717.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

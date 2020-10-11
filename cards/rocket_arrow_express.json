@@ -1,0 +1,21 @@
+{
+  "id": 79850798,
+  "name": "Rocket Arrow Express",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling no cards, and cannot be Special Summoned by other ways. You cannot conduct your Battle Phase the turn you Special Summon this card. You cannot activate cards or effects, or Set any cards. During each of your Standby Phases, destroy this card unless you send your entire hand to the Graveyard (min.1).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/79850798.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 5000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

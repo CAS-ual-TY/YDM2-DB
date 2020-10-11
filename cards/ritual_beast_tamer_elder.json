@@ -1,0 +1,21 @@
+{
+  "id": 14513016,
+  "name": "Ritual Beast Tamer Elder",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "After you Normal Summon this card, you can Normal Summon 1 \"Ritual Beast\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only Special Summon \"Ritual Beast Tamer Elder(s)\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14513016.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 200,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}

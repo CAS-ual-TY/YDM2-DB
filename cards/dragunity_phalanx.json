@@ -1,0 +1,21 @@
+{
+  "id": 59755122,
+  "name": "Dragunity Phalanx",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, while this card is equipped to a monster: You can Special Summon this equipped card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59755122.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1100,
+  "level": 2,
+  "is_tuner": true
+}

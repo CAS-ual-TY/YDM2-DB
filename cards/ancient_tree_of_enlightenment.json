@@ -1,0 +1,21 @@
+{
+  "id": 86421986,
+  "name": "Ancient Tree of Enlightenment",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86421986.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

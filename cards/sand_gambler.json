@@ -1,0 +1,21 @@
+{
+  "id": 50593156,
+  "name": "Sand Gambler",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Toss a coin 3 times. If all 3 results are Heads, destroy all monsters on your opponent\u0027s side of the field. If all 3 results are Tails, destroy all monsters on your side of the field. You can only activate this effect once per turn, during your Main Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50593156.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

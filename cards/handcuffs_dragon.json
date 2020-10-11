@@ -1,0 +1,21 @@
+{
+  "id": 97904474,
+  "name": "Handcuffs Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed by battle with an attacking monster your opponent controls and is sent to the Graveyard, you can equip this card to that monster. The equipped monster loses 1800 ATK. When it is destroyed and this card is sent to the Graveyard, you can Special Summon this card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97904474.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

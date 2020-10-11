@@ -1,0 +1,20 @@
+{
+  "id": 33897356,
+  "name": "Shootingcode Talker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Cyberse monsters\nAt the start of your Battle Phase: You can activate this effect; this Battle Phase, this card can make attacks on your opponent\u0027s monsters, up to the number of monsters this card currently points to +1, but this turn, when it attacks your opponent\u0027s only monster, this card loses 400 ATK during that damage calculation only. At the end of each Battle Phase: You can draw cards equal to the number of monsters this card destroyed by battle this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/33897356.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2300,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": 162
+}

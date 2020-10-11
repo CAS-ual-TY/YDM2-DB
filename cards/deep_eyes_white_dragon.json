@@ -1,0 +1,21 @@
+{
+  "id": 22804410,
+  "name": "Deep-Eyes White Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a face-up \"Blue-Eyes\" monster(s) you control is destroyed by battle or an opponent\u0027s card effect, and you have a Dragon-Type monster in your Graveyard: You can Special Summon this card from your hand, and if you do, inflict 600 damage to your opponent for each Dragon-Type monster with different names in your Graveyard. If this card is Normal or Special Summoned: Target 1 Dragon-Type monster in your Graveyard; this card\u0027s ATK becomes equal to that monster\u0027s. If this card on the field is destroyed by a card effect: Destroy all monsters your opponent controls.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/22804410.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

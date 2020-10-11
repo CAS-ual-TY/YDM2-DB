@@ -1,0 +1,20 @@
+{
+  "id": 95372220,
+  "name": "Flash Charge Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Dragon monsters\nYou cannot Summon/Set monsters to a zone this card points to. Once per turn, if a monster(s) is Normal or Special Summoned, to a zone(s) this card points to (except during the Damage Step): You can destroy 1 monster this card points to, and if you do, inflict 500 damage to your opponent. When a card or effect is activated that targets this face-up card (Quick Effect): You can Tribute 1 monster; negate the activation. ",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95372220.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": 7
+}

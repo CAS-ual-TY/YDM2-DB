@@ -1,0 +1,24 @@
+{
+  "id": 93368494,
+  "name": "Mayosenju Daibak",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned, except by Pendulum Summon. This card\u0027s Pendulum Summon cannot be negated. If this card is Normal or Special Summoned: You can target up to 2 cards on the field; return them to the hand. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93368494.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 10,
+  "is_tuner": false,
+  "pendulum_text": "When a \"Yosenju\" monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase.\n",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7
+}

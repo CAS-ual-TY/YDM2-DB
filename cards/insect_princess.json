@@ -1,0 +1,21 @@
+{
+  "id": 37957847,
+  "name": "Insect Princess",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All Insect monsters your opponent controls are changed to Attack Position. If this card destroys an Insect monster by battle: This card gains 500 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37957847.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1900,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

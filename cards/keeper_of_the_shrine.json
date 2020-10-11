@@ -1,0 +1,21 @@
+{
+  "id": 66752837,
+  "name": "Keeper of the Shrine",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Dragon monster. While this card is in your hand or GY, if a face-up Dragon monster on the field, except \"Keeper of the Shrine\", is sent to the GY by a card effect or because it was destroyed by battle: You can Special Summon this card, then, if that monster sent to the GY is a Normal Monster, you can add 1 Dragon Normal Monster from your GY to your hand. You can only use this effect of \"Keeper of the Shrine\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66752837.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

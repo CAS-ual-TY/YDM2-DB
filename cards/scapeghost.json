@@ -1,0 +1,21 @@
+{
+  "id": 67284107,
+  "name": "Scapeghost",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: You can Special Summon any number of \"Black Sheep Tokens\" (Zombie/DARK/Level 1/ATK 0/DEF 0).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67284107.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
+}

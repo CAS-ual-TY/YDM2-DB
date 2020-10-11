@@ -1,0 +1,12 @@
+{
+  "id": 90669991,
+  "name": "Pineapple Blast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When you Normal Summon a monster, if your opponent controls more monsters than you do: Destroy your opponent\u0027s monsters so that your opponent controls the same number of monsters as you (your opponent chooses which of their monsters are destroyed).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90669991.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

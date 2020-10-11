@@ -1,0 +1,21 @@
+{
+  "id": 45711266,
+  "name": "Jurrac Ptera",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is attacked, return the attacking monster to the hand after damage calculation and this card gains DEF equal to the returned monster\u0027s Level x 100.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/45711266.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

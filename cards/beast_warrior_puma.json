@@ -1,0 +1,21 @@
+{
+  "id": 16796157,
+  "name": "Beast-Warrior Puma",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute this card; add 1 \"D.D. Esper Star Sparrow\" from your Deck or Graveyard to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16796157.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

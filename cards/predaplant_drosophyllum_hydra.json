@@ -1,0 +1,21 @@
+{
+  "id": 99913726,
+  "name": "Predaplant Drosophyllum Hydra",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand or GY) by Tributing 1 monster on either player\u0027s field with a Predator Counter. You can only Special Summon \"Predaplant Drosophyllum Hydra\" once per turn this way. If this card is on the field or in your GY (Quick Effect): You can banish 1 other \"Predaplant\" monster from your GY, then target 1 face-up monster on the field; it loses 500 ATK. You can only use this effect of \"Predaplant Drosophyllum Hydra\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99913726.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 5,
+  "is_tuner": false
+}

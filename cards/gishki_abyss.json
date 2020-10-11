@@ -1,0 +1,21 @@
+{
+  "id": 67111213,
+  "name": "Gishki Abyss",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Summoned: You can add 1 \"Gishki\" monster with 1000 or less DEF from your Deck to your hand, except \"Gishki Abyss\".",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/67111213.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

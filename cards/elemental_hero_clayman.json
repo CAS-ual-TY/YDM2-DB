@@ -1,0 +1,21 @@
+{
+  "id": 84327329,
+  "name": "Elemental HERO Clayman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An Elemental HERO with a clay body built-to-last. He\u0027ll preserve his Elemental HERO colleagues at any cost.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/84327329.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

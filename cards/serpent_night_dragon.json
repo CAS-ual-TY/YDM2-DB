@@ -1,0 +1,21 @@
+{
+  "id": 66516792,
+  "name": "Serpent Night Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A dragon created from the soul of a wicked knight.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66516792.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2350,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
+}

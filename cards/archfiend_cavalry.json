@@ -1,0 +1,21 @@
+{
+  "id": 92039899,
+  "name": "Archfiend Cavalry",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card on the field is destroyed by card effect and sent to the GY: You can target 1 \"Archfiend\" monster in your GY, except \"Archfiend Cavalry\"; Special Summon it, but it cannot attack this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92039899.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

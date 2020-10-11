@@ -1,0 +1,21 @@
+{
+  "id": 38517737,
+  "name": "Blue-Eyes Alternative White Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing \"Blue-Eyes White Dragon\" in your hand. You can only Special Summon \"Blue-Eyes Alternative White Dragon\" once per turn this way. This card\u0027s name becomes \"Blue-Eyes White Dragon\" while it is on the field or in the Graveyard. Once per turn: You can target 1 monster your opponent controls; destroy it. This card cannot attack the turn this effect is activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38517737.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

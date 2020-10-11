@@ -1,0 +1,21 @@
+{
+  "id": 62315111,
+  "name": "Alien Hunter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card destroys a monster with an A-Counter by battle, it can attack once again in a row.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62315111.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

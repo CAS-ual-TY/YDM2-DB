@@ -1,0 +1,21 @@
+{
+  "id": 1566817,
+  "name": "Cupid Serve",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Unaffected by the activated effects of monsters, except monsters whose Level is equal or lower than this card. You can banish up to 3 cards from your GY; increase this card\u0027s Level by that number, until the end of this turn. You can only use this effect of \"Cupid Serve\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1566817.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 29088922,
+  "name": "Fortune Lady Water",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card\u0027s ATK/DEF become its Level x 300. Once per turn, during your Standby Phase: Increase this card\u0027s Level by 1 (max. 12). If this card is Special Summoned while you control a \"Fortune Lady\" monster except \"Fortune Lady Water\": Draw 2 cards.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29088922.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

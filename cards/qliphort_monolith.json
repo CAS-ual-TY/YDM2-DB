@@ -1,0 +1,24 @@
+{
+  "id": 51194046,
+  "name": "Qliphort Monolith",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Unhandled exception at 0x1i-666 in qliphort.exe: Access violation writing location 0x00-000\nContinue, ignoring this error? \u003cY/N\u003e...[ ]\nXlmgzxg drgs gsv Hzxivw Givv rh uliyrwwvm. Gsv hxlfitv szh yvvm fmovzhsvw.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/51194046.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false,
+  "pendulum_text": "You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. Once per turn, during the End Phase, if you Tribute Summoned this turn: You can draw a number of cards equal to the number of \"Qli\" monsters you Tributed for Tribute Summons this turn.\n",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
+}

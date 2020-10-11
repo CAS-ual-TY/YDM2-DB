@@ -1,0 +1,21 @@
+{
+  "id": 38904695,
+  "name": "Infernity Hell Archfiend",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can target 1 face-up card on the field; negate its effects until the end of this turn, then, if you have no cards in your hand, you can destroy that card. If this card battles an opponent\u0027s monster while you have no cards in your hand, any battle damage it inflicts to your opponent is doubled. A DARK Synchro Monster that used this card as material can make up to 2 attacks on monsters during each Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38904695.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Fiend",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 30068120,
+  "name": "Edge Imp Sabres",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of \"Edge Imp Sabres\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/30068120.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

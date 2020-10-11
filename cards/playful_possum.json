@@ -1,0 +1,21 @@
+{
+  "id": 69529567,
+  "name": "Playful Possum",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase: You can destroy this face-up card on the field. Your opponent must control a monster with a higher ATK than this card for you to activate and to resolve this effect. During your Standby Phase, if this card was destroyed by this effect: You can Special Summon this card from the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/69529567.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

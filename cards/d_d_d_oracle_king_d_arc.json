@@ -1,0 +1,21 @@
+{
+  "id": 82956492,
+  "name": "D/D/D Oracle King d\u0027Arc",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"D/D\" monsters\nAny effect that would inflict damage to you makes you gain that much LP, instead.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82956492.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

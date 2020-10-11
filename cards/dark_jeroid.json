@@ -1,0 +1,21 @@
+{
+  "id": 90980792,
+  "name": "Dark Jeroid",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Summoned: Target 1 face-up monster on the field; it loses 800 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/90980792.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

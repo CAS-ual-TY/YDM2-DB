@@ -1,0 +1,21 @@
+{
+  "id": 29253591,
+  "name": "Dragunity Couse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be used as Synchro Material, except for the Synchro Summon of a \"Dragunity\" monster. This card on the field can be treated as a Level 4 monster when used for a Synchro Summon. If this card is currently equipped to a monster: You can Special Summon this equipped card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29253591.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 2,
+  "is_tuner": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 11475049,
+  "name": "Artifact Achilleshield",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell Card. During your opponent\u0027s turn, if this Set card in the Spell \u0026 Trap Zone is destroyed and sent to your Graveyard: Special Summon it. If this card is Special Summoned during your opponent\u0027s turn: Your opponent cannot target \"Artifact\" monsters you control for attacks for the rest of this turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11475049.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 5,
+  "is_tuner": false
+}

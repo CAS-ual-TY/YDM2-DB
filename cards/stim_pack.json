@@ -1,0 +1,12 @@
+{
+  "id": 83225447,
+  "name": "Stim-Pack",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83225447.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

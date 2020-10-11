@@ -1,0 +1,20 @@
+{
+  "id": 662853,
+  "name": "Sanctity of Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3+ Dragon Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/662853.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 5,
+  "link_arrows": 248
+}

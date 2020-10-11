@@ -1,0 +1,21 @@
+{
+  "id": 64154377,
+  "name": "Embryonic Beast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An imperfect monster with a belly vortex that sucks in opponents of any size.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64154377.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 750,
+  "level": 2,
+  "is_tuner": false
+}

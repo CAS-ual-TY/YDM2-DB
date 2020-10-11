@@ -1,0 +1,21 @@
+{
+  "id": 75380687,
+  "name": "Amulet Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Dark Magician\" + 1 Dragon monster\nMust be Fusion Summoned with the above Fusion Materials or with \"The Eye of Timaeus\". If this card is Special Summoned: Target any number of Spells in any GY(s) (min.1); banish those targets, and if you do, this card gains 100 ATK for each card banished by this effect. If this card is destroyed: You can target 1 Spellcaster monster in your GY; Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75380687.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2900,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

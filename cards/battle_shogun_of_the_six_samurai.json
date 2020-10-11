@@ -1,0 +1,20 @@
+{
+  "id": 74752631,
+  "name": "Battle Shogun of the Six Samurai",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Warrior monsters, including a \"Six Samurai\" monster\nIf this card is Link Summoned: You can discard 1 card; add 1 card from your Deck to your hand that has an effect that places a Bushido Counter(s). You can only use this effect of \"Battle Shogun of the Six Samurai\" once per turn. Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, place 1 Bushido Counter on this card. This card gains 100 ATK for each Bushido Counter on your field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/74752631.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 80
+}

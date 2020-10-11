@@ -1,0 +1,21 @@
+{
+  "id": 39823987,
+  "name": "Sun Dragon Inti",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Fire Ant Ascator\" + 1+ non-Tuner monsters\nIf this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card, and if you do, inflict damage to your opponent equal to half the ATK that monster had on the field. Once per turn, during the Standby Phase of the next turn after this card on the field was destroyed: You can target 1 \"Moon Dragon Quilla\" in your GY; Special Summon that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/39823987.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

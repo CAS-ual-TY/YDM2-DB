@@ -1,0 +1,21 @@
+{
+  "id": 35272499,
+  "name": "Predaplant Ophrys Scorpio",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can send 1 monster from your hand to the GY; Special Summon 1 \"Predaplant\" monster from your Deck, except \"Predaplant Ophrys Scorpio\". You can only use this effect of \"Predaplant Ophrys Scorpio\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35272499.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

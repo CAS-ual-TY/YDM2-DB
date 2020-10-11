@@ -1,0 +1,21 @@
+{
+  "id": 16886617,
+  "name": "Reptilianne Vaskii",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 2 face-up monsters with 0 ATK from anywhere on the field. Once per turn, you can select and destroy 1 face-up monster your opponent controls. There can only be 1 face-up \"Reptilianne Vaskii\" on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/16886617.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 73414375,
+  "name": "Dimension Jar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Both players can remove from play up to 3 monsters from their opponent\u0027s Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73414375.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

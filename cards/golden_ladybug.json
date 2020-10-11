@@ -1,0 +1,21 @@
+{
+  "id": 87102774,
+  "name": "Golden Ladybug",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Standby Phase: You can reveal this card in your hand, and it will remain revealed until the end of this turn;  gain 500 LP.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87102774.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 24701235,
+  "name": "Nikitama",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. During the turn this card was Normal Summoned or flipped face-up, you can Normal Summon 1 Spirit monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When this card is sent to the Graveyard: Draw 1 card. You must control a Spirit monster to activate and to resolve this effect.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/24701235.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Spirit",
+  "has_effect": false,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

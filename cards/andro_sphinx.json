@@ -1,0 +1,21 @@
+{
+  "id": 15013468,
+  "name": "Andro Sphinx",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can pay 500 Life Points to Special Summon this card when \"Pyramid of Light\" is on the field. This card cannot attack during the turn that it is Normal Summoned or Special Summoned. This card cannot be Special Summoned from the Graveyard. If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent\u0027s Life Points equal to half of the ATK of the destroyed monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/15013468.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

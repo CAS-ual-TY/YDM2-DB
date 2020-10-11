@@ -1,0 +1,21 @@
+{
+  "id": 50725996,
+  "name": "Dark Magician Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Knight\u0027s Title\" and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50725996.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
+}

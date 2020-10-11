@@ -1,0 +1,21 @@
+{
+  "id": 95040215,
+  "name": "Blackwing - Nothung the Starlight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Special Summoned: Inflict 800 damage to your opponent, then 1 face-up monster your opponent controls loses 800 ATK and DEF. You can only use this effect of \"Blackwing - Nothung the Starlight\" once per turn. During your Main Phase, you can Normal Summon 1 \"Blackwing\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95040215.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Winged Beast",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

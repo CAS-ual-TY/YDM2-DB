@@ -1,0 +1,21 @@
+{
+  "id": 92667214,
+  "name": "Clown Zombie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92667214.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1350,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

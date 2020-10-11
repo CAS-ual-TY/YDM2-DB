@@ -1,0 +1,21 @@
+{
+  "id": 19740112,
+  "name": "Barrier Statue of the Drought",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "No monsters can be Special Summoned, except for EARTH monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19740112.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

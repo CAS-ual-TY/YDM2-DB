@@ -1,0 +1,12 @@
+{
+  "id": 80101899,
+  "name": "Trap Trick",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Banish 1 Normal Trap from your Deck, except \"Trap Trick\", and Set 1 card with the same name directly from your Deck, also it can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 \"Trap Trick\" per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/80101899.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17521642,
+  "name": "Zero Force",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only when a face-up monster you control is removed from play. The ATK of all face-up monsters on the field becomes 0.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17521642.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

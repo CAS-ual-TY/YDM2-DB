@@ -1,0 +1,21 @@
+{
+  "id": 75434695,
+  "name": "Elemental HERO Woodsman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, during your Standby Phase: You can add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75434695.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

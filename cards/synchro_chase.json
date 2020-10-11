@@ -1,0 +1,12 @@
+{
+  "id": 23442438,
+  "name": "Synchro Chase",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent cannot activate cards or effects in response to the effect activations of your Synchro Monsters with \"Warrior\", \"Synchron\", or \"Stardust\" in their original names. If you Synchro Summon a \"Warrior\", \"Synchron\", or \"Stardust\" Synchro Monster: You can target 1 monster in your GY used as its material; Special Summon it in Defense Position. You can only use this effect of \"Synchro Chase\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23442438.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

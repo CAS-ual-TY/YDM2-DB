@@ -1,0 +1,21 @@
+{
+  "id": 98266377,
+  "name": "Elemental HERO Heat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card gains 200 ATK for each \"Elemental HERO\" monster you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98266377.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

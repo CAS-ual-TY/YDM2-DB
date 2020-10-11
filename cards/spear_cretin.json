@@ -1,0 +1,21 @@
+{
+  "id": 58551308,
+  "name": "Spear Cretin",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: When this card is sent to the Graveyard after being flipped, each player selects 1 monster from their Graveyard, and Special Summons it in face-up Attack Position or face-down Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58551308.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 46145256,
+  "name": "Barrier Statue of the Heavens",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "No monsters can be Special Summoned, except for LIGHT monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/46145256.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

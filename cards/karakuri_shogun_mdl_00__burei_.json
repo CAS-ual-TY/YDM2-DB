@@ -1,0 +1,21 @@
+{
+  "id": 23874409,
+  "name": "Karakuri Shogun mdl 00 \"Burei\"",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner Machine-Type monsters\nWhen this card is Synchro Summoned: You can Special Summon 1 \"Karakuri\" monster from your Deck. Once per turn: You can target 1 monster on the field; change its battle position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23874409.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2600,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 7,
+  "is_tuner": false
+}

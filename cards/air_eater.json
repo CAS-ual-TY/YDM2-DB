@@ -1,0 +1,21 @@
+{
+  "id": 8353769,
+  "name": "Air Eater",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A monster that feeds on oxygen, suffocating any who stand near.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8353769.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2100,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

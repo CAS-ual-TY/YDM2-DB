@@ -1,0 +1,21 @@
+{
+  "id": 66451379,
+  "name": "Graydle Alligator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card in your Monster Zone is destroyed by battle or Spell effect and sent to your Graveyard: You can target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster. When this card leaves the field, destroy the equipped monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/66451379.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

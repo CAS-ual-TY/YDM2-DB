@@ -1,0 +1,21 @@
+{
+  "id": 55615891,
+  "name": "Elemental HERO Wild Wingman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Elemental HERO Wildheart\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can discard 1 card to target 1 Spell/Trap Card on the field; destroy that target.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55615891.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 8,
+  "is_tuner": false
+}

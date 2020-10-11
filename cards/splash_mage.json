@@ -1,0 +1,20 @@
+{
+  "id": 59859086,
+  "name": "Splash Mage",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Cyberse monsters\nYou can target 1 Cyberse monster in your GY; Special Summon it in Defense Position, but negate its effects, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. You can only use this effect of \"Splash Mage\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59859086.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 20
+}

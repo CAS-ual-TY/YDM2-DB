@@ -1,0 +1,21 @@
+{
+  "id": 75356564,
+  "name": "Petit Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A very small dragon known for its vicious attacks.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/75356564.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 38982356,
+  "name": "Hyo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "None can survive the cold touch of this sub-zero warrior.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/38982356.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
+}

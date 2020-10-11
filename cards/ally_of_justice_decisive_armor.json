@@ -1,0 +1,21 @@
+{
+  "id": 9888196,
+  "name": "Ally of Justice Decisive Armor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 2 or more non-Tuner monsters \n Once per turn, if your opponent controls a face-up LIGHT monster(s), you can activate 1 of these effects:\n? Select 1 Set card your opponent controls, and destroy it.\n? Send 1 card from your hand to the Graveyard to destroy all Spell/Trap Cards your opponent controls.\n? Send all cards in your hand to the Graveyard to look at your opponent\u0027s hand and send all LIGHT monsters in their hand to the Graveyard. Then, inflict damage to your opponent equal to the total ATK of the opponent\u0027s monsters sent to the Graveyard.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9888196.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3300,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3300,
+  "level": 10,
+  "is_tuner": false
+}

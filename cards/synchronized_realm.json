@@ -1,0 +1,12 @@
+{
+  "id": 61032879,
+  "name": "Synchronized Realm",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each time you Synchro Summon a Synchro Monster, inflict 500 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61032879.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 56003780,
+  "name": "Salamangreat Jack Jaguar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card attacks a Defense Position monster, inflict piercing battle damage. If you control a \"Salamangreat\" Link Monster, while this card is in your GY: You can target 1 \"Salamangreat\" monster in your GY, except \"Salamangreat Jack Jaguar\"; shuffle that target into the Deck, and if you do, Special Summon this card to your zone your \"Salamangreat\" Link Monster points to. You can only use this effect of \"Salamangreat Jack Jaguar\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56003780.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

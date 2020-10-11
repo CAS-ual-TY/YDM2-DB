@@ -1,0 +1,21 @@
+{
+  "id": 97973387,
+  "name": "Droll Bird",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/97973387.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 600,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

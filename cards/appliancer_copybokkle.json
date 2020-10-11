@@ -1,0 +1,21 @@
+{
+  "id": 41830887,
+  "name": "Appliancer Copybokkle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 \"Appliancer\" monster you control; Special Summon this card from your hand, and if you do, this card\u0027s name becomes the targeted monster\u0027s name until the End Phase. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Appliancer\" monster you control; Special Summon 1 monster with the same name from your hand or GY. You can only use each effect of \"Appliancer Copybokkle\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41830887.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

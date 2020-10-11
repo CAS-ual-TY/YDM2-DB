@@ -1,0 +1,21 @@
+{
+  "id": 12883044,
+  "name": "Flame Dancer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster moves while swinging its burning rope.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12883044.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 550,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 450,
+  "level": 2,
+  "is_tuner": false
+}

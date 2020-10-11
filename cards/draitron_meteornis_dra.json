@@ -1,0 +1,21 @@
+{
+  "id": 100415029,
+  "name": "Draitron Meteornis\u003dDRA",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Meteornis Draitron\". Your opponent cannot target this card with monster effects. If this card was Ritual Summoned using monsters whose total Levels equal 2 or less, it can attack all opponent\u0027s Special Summoned monsters once each. During your opponent\u0027s turn (Quick Effect): You can banish any number of monsters from your GY whose total ATK equal 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK; send it to the GY. You can only use this effect of \"Draitron MeteornisDRA\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100415029.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 4000,
+  "species": "Machine",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
+}

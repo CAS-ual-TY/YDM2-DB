@@ -1,0 +1,21 @@
+{
+  "id": 72076281,
+  "name": "Bat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A mechanical bat that drops blasts from its wings.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72076281.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 300,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 350,
+  "level": 1,
+  "is_tuner": false
+}

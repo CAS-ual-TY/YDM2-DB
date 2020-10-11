@@ -1,0 +1,21 @@
+{
+  "id": 78564023,
+  "name": "Blackwing - Etesian of Two Swords",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a \"Blackwing\" monster you control battles an opponent\u0027s monster, and your opponent still controls that monster at the end of the Damage Step: You can send this card from your hand to the Graveyard; inflict 1000 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/78564023.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

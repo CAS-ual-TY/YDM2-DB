@@ -1,0 +1,12 @@
+{
+  "id": 59197169,
+  "name": "Yami",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All Fiend and Spellcaster monsters on the field gain 200 ATK/DEF, also all Fairy monsters on the field lose 200 ATK/DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59197169.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

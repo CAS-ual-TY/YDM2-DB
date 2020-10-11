@@ -1,0 +1,21 @@
+{
+  "id": 31615285,
+  "name": "Cactus Bouncer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. While another Plant monster is on the field, neither player can Special Summon monsters.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31615285.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Plant",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
+}

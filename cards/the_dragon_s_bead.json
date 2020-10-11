@@ -1,0 +1,12 @@
+{
+  "id": 92408984,
+  "name": "The Dragon\u0027s Bead",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Discard 1 card from your hand. Negate the effect of a Trap Card that targets 1 face-up Dragon-Type monster and destroy the Trap Card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92408984.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

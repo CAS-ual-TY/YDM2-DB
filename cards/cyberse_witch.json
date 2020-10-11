@@ -1,0 +1,20 @@
+{
+  "id": 11674673,
+  "name": "Cyberse Witch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Cyberse monsters\nIf a monster is Special Summoned to a zone this card points to (except during the Damage Step): You can banish 1 Spell from your GY; add 1 Cyberse Ritual Monster and 1 \"Cynet Ritual\" from your Deck to your hand. During your Main Phase, if this effect was activated this turn: You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Cyberse Witch\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11674673.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": 96
+}

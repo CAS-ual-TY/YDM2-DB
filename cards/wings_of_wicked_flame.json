@@ -1,0 +1,21 @@
+{
+  "id": 92944626,
+  "name": "Wings of Wicked Flame",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Crimson wings of fire make this a very lethal creature.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/92944626.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 700,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 23115241,
+  "name": "X-Saber Anu Piranha",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A female X-Saber Warrior, known for her graceful attacks and calm decision making in battle. Her ambition is merciless, and strikes fear in the hearts of her enemies.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/23115241.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

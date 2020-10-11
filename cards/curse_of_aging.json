@@ -1,0 +1,12 @@
+{
+  "id": 41398771,
+  "name": "Curse of Aging",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Discard 1 card from your hand. Decrease the ATK and DEF of all monsters on your opponent\u0027s side of the field by 500 points until the end of the turn this card is activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/41398771.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 54098121,
+  "name": "Mysterious Puppeteer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each time you or your opponent Normal Summons or Flip Summons a monster, increase your Life Points by 500 points.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54098121.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

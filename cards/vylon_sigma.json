@@ -1,0 +1,21 @@
+{
+  "id": 48370501,
+  "name": "Vylon Sigma",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 LIGHT Tuner + 1 or more non-Tuner LIGHT monsters\nWhen this card declares an attack, if it is the only monster you control: You can equip 1 Equip Spell Card from your Deck to this face-up card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48370501.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Fairy",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 7,
+  "is_tuner": false
+}

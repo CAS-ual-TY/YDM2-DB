@@ -1,0 +1,21 @@
+{
+  "id": 58332301,
+  "name": "Evil HERO Dark Gaia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Fiend-Type monster + 1 Rock-Type monster\nMust be Special Summoned with \"Dark Fusion\" and cannot be Special Summoned by other ways. The original ATK of this card is equal to the combined original ATK of the Fusion Material Monsters used to Fusion Summon it. When this card declares an attack: You can change all Defense Position monsters your opponent controls to face-up Attack Position. (Flip Effects are not activated at this time.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58332301.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

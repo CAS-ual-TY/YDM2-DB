@@ -1,0 +1,21 @@
+{
+  "id": 101102019,
+  "name": "U.A. Playing Manager",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you Normal or Special Summon an \"U.A.\" monster(s): You can Special Summon this card from your hand. If this card is Special Summoned: You can activate 1 of these effects;\n? Target 1 card on the field; destroy it.\n? Negate the effects of all face-up monsters currently on the field until the end of this turn, except \"U.A.\" monsters\u0027.\nYou can only use each effect of \"U.A. Playing Manager\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101102019.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

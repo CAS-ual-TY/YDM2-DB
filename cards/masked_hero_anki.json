@@ -1,0 +1,21 @@
+{
+  "id": 59642500,
+  "name": "Masked HERO Anki",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Must be Special Summoned by \"Mask Change\". This card can attack directly, but when it does so using this effect, the battle damage inflicted to your opponent is halved. When this card destroys an opponent\u0027s monster by battle and sends it to the GY: You can add 1 \"Change\" Quick-Play Spell Card from your Deck to your hand. You can only use this effect of \"Masked HERO Anki\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/59642500.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 8,
+  "is_tuner": false
+}

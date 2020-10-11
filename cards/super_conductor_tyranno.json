@@ -1,0 +1,21 @@
+{
+  "id": 85520851,
+  "name": "Super Conductor Tyranno",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can Tribute 1 monster; inflict 1000 damage to your opponent. This card cannot declare an attack the turn this effect is activated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/85520851.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3300,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 8,
+  "is_tuner": false
+}

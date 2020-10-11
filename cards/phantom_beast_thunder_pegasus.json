@@ -1,0 +1,21 @@
+{
+  "id": 34961968,
+  "name": "Phantom Beast Thunder-Pegasus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent\u0027s monster declares an attack, you can remove from play this card from your Graveyard to make the Battle Damage taken by 1 \"Gazelle the King of Mythical Beasts\" or \"Phantom Beast\" monster 0. When this happens, that monster is not destroyed by battle.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/34961968.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 700,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

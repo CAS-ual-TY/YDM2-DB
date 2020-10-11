@@ -1,0 +1,21 @@
+{
+  "id": 63211608,
+  "name": "Genex Ally Reliever",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you negate the activation of a Spell Card, Trap Card, or Effect Monster\u0027s effect activated by your opponent, you can Special Summon this card from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/63211608.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

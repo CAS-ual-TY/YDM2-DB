@@ -1,0 +1,21 @@
+{
+  "id": 54497620,
+  "name": "Gadget Driver",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand to the Graveyard and select any number of face-up \"Morphtronic\" monsters you control. Change the battle position of the selected monster(s). This effect can be activated during either player\u0027s turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54497620.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 19211362,
+  "name": "Nemeses Flag",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 of your banished monsters, except \"Nemeses Flag\"; Special Summon this card from your hand, and if you do, shuffle that target into the Deck. During your Main Phase: You can add 1 \"Nemeses\" monster from your Deck to your hand, except \"Nemeses Flag\". You can only use each effect of \"Nemeses Flag\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19211362.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1100,
+  "species": "Pyro",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 87209160,
+  "name": "Tribrigade Phractaur",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand or field to the GY; send 1 Level 3 or lower Beast, Beast-Warrior, or Winged Beast monster from your Deck to the GY. You can banish any number of Beast, Beast-Warrior, and/or Winged Beast monsters from your GY; Special Summon 1 Beast, Beast-Warrior, or Winged Beast Link Monster from your Extra Deck with a Link Rating equal to the number banished, also you cannot use monsters as Link Material for the rest of this turn, except Beast, Beast-Warrior, and Winged Beast monsters. You can only use each effect of \"Tribrigade Phractaur\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/87209160.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1900,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

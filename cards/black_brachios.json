@@ -1,0 +1,21 @@
+{
+  "id": 50896944,
+  "name": "Black Brachios",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can target 1 monster on the field; change that target to face-up Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/50896944.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 98898173,
+  "name": "The Melting Red Shadow",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster melts away to materialize under its enemies, taking them by surprise.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/98898173.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}
