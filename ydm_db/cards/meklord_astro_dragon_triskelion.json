@@ -1,0 +1,21 @@
+{
+  "id": 4837861,
+  "name": "Meklord Astro Dragon Triskelion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 \"Meklord\" monsters with different names from your GY. Once per turn, when this card declares an attack: You can look at your opponent\u0027s Extra Deck and equip 1 monster from it to this card. This card gains ATK equal to the combined ATK of those equipped monsters. While equipped with a Synchro Monster, this card can make up to 3 attacks on monsters during each Battle Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/4837861.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

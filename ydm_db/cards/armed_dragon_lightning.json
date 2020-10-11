@@ -1,0 +1,12 @@
+{
+  "id": 101103053,
+  "name": "Armed Dragon Lightning",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If an \"Armed Dragon\" monster(s) you control would be destroyed by a card effect, you can send this card to the GY instead. You can target 1 \"Armed Dragon\" monster you control, then activate 1 of these effects;\n? It gains ATK equal to its Level x 100.\n? Add 1 \"Armed Dragon\" monster from your GY to your hand with a Level less than or equal to that monster.\nYou can only use this effect of \"Armed Dragon Lightning\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101103053.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

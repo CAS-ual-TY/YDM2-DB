@@ -1,0 +1,21 @@
+{
+  "id": 101103026,
+  "name": "Oneiroi, the Dream Mirror Emissary",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a \"Dream Mirror\" monster is on the field: You can Special Summon this card from your hand, then you can make its Attribute become DARK. If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: Apply these effects (simultaneously).\n? If \"Dream Mirror of Joy\" is on the field, you can return 1 Spell/Trap your opponent controls to the hand.\n? If \"Dream Mirror of Terror\" is on the field, draw 1 card, then shuffle 1 card from your hand into the Deck.\nYou can only use each effect of \"Oneiroi, the Dream Mirror Emissary\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101103026.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

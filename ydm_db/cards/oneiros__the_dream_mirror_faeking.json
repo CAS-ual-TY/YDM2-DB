@@ -1,0 +1,21 @@
+{
+  "id": 101103042,
+  "name": "Oneiros, the Dream Mirror Faeking",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Dream Mirror\" monsters with different Attributes\nWhile face-up on the field, this card is also LIGHT-Attribute. You can only use each of the following effects of \"Oneiros, the Dream Mirror Faeking\" once per turn. When a monster effect is activated while \"Dream Mirror of Terror\" is in a Field Zone (Quick Effect): You can negate that effect. If \"Dream Mirror of Joy\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Oneiros, the Dream Mirror Erlking\" from your Extra Deck in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101103042.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

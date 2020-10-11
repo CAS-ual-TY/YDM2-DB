@@ -1,0 +1,21 @@
+{
+  "id": 73810864,
+  "name": "Live?Twin Lilla",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned while you control no other monsters: You can Special Summon 1 \"Kisikil\" monster from your hand or Deck.  You can only use this effect of \"Live?Twin Lilla\" once per turn. Your opponent must pay 500 LP to declare an attack.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/73810864.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}
