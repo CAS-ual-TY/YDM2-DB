@@ -1,0 +1,24 @@
+{
+  "id": 17241941,
+  "name": "Daikaminari Gyclops",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card, Special Summoned from the Extra Deck, is used for a Synchro Summon, banish it. If this card is Normal Summoned: You can change the battle position of this card. You can only use each of the following effects of \"Daikaminari Gyclops\" once per turn. If the battle position of this card is changed: You can target 1 face-up Spell/Trap on the field; destroy it. If this card in the Pendulum Zone is destroyed: You can return 1 card in your Pendulum Zone to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17241941.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5
+}

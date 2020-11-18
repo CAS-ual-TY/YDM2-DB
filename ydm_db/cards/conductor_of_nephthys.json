@@ -1,0 +1,21 @@
+{
+  "id": 8454126,
+  "name": "Conductor of Nephthys",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Rebirth of Nephthys\". If this card is Ritual Summoned: You can Special Summon 1 \"Nephthys\" Ritual Monster from your hand or Deck, except \"Conductor of Nephthys\" (this is treated as a Ritual Summon). If this card is Tributed or destroyed by a \"Nephthys\" card effect: You can activate this effect; during the next Standby Phase, destroy up to 3 \"Nephthys\" cards, except Ritual Monsters, 1 each from your hand, Deck, and field. You can only use each effect of \"Conductor of Nephthys\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8454126.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Spellcaster",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

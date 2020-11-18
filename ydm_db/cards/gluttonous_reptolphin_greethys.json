@@ -1,0 +1,21 @@
+{
+  "id": 8576764,
+  "name": "Gluttonous Reptolphin Greethys",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 Fish, Sea Serpent, or Aqua monster in your GY with an equal or lower Level than the number of cards in your opponent\u0027s hand; Special Summon it, but it cannot activate its effects this turn. You can only use this effect of \"Gluttonous Reptolphin Greethys\" once per turn. If this card is sent to the GY as Synchro Material: You can make the Synchro Monster that used this card as material gain 200 ATK/DEF for each card currently in your opponent\u0027s hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/8576764.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 62941499,
+  "name": "Sprigguns Ship Exblower",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 8 monsters\nYou can choose 1 opponent\u0027s Monster Zone or Spell \u0026 Trap Zone; detach any number of materials from this card, and if you do, destroy that many cards your opponent controls that are in the chosen zone and/or in the Monster Zones or Spell \u0026 Trap Zones to the top, bottom, or adjacent to the chosen zone. During your opponent\u0027s Main or Battle Phase (Quick Effect): You can banish this card until the End Phase. You can only use each effect of \"Sprigguns Ship Exblower\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62941499.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "rank": 8
+}

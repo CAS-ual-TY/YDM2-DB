@@ -1,0 +1,21 @@
+{
+  "id": 82791472,
+  "name": "Ancient Warriors - Rebellious Lu Feng",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while you control a monster with the highest ATK among the \"Ancient Warriors\" monsters on the field (even if it\u0027s tied). You can only Special Summon \"Ancient Warriors - Rebellious Lu Feng\" once per turn this way. Once per Main Phase (Quick Effect): You can destroy the 1 face-up monster your opponent controls with the highest ATK (your choice, if tied). You cannot activate monster effects the turn you activate this effect, except \"Ancient Warriors\" monsters. Once per turn, during the End Phase, if your opponent controls a face-up monster with the highest ATK on the field (even if it\u0027s tied): Give control of this card to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/82791472.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 8,
+  "is_tuner": false
+}

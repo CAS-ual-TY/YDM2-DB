@@ -1,0 +1,21 @@
+{
+  "id": 100200191,
+  "name": "Attendant of the Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute this card; Special Summon 1 Level 5 or higher \"Ice Barrier\" monster from your hand. If this card is in your GY, except the turn this card was sent to the GY: You can target 1 Level 3 or higher WATER monster you control; reduce its Level by 2, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Attendant of the Ice Barrier\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100200191.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
+}

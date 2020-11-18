@@ -1,0 +1,21 @@
+{
+  "id": 545781,
+  "name": "Mahaama the Fairy Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your opponent\u0027s turn, when either player takes battle damage (Quick Effect): You can Special Summon this card from your hand, then apply 1 of these effects.\n? Gain LP equal to that battle damage.\n? Inflict damage to your opponent equal to that battle damage.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/545781.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2500,
+  "level": 5,
+  "is_tuner": true
+}

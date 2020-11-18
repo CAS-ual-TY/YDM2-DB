@@ -1,0 +1,21 @@
+{
+  "id": 61089209,
+  "name": "Myutant Mist",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned, except with the effect of a \"Myutant\" card. Your opponent cannot target this card with Spell effects. You can only use each of the following effects of \"Myutant Mist\" once per turn. When your opponent activates a Trap Card or effect (Quick Effect): You can banish 1 card from your hand or field; draw 2 cards. If this card in its owner\u0027s possession is destroyed by an opponent\u0027s card: You can target 1 of your banished \"Myutant\" monsters; add it to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61089209.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2700,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
+}

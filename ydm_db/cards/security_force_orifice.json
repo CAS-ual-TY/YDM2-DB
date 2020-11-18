@@ -1,0 +1,21 @@
+{
+  "id": 95974848,
+  "name": "Security Force Orifice",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent cannot target monsters they control that face a \"Security Force\" monster you control with card effects. When a monster your opponent controls activates its effect (Quick Effect): You can banish 1 \"Security Force\" card from your hand; destroy that monster. You can only use this effect of \"Security Force Orifice\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/95974848.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

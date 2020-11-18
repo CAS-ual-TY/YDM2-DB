@@ -1,0 +1,21 @@
+{
+  "id": 62201847,
+  "name": "Myutant M-05",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Myutant\" monster from your Deck to your hand, except \"Myutant M-05\". You can Tribute this card, then banish 1 card from your hand or face-up field; Special Summon 1 monster from your hand or Deck, based on the banished card.\n? Monster: \"Myutant Beast\" ? Spell: \"Myutant Mist\" ? Trap: \"Myutant Arsenal\"\nYou can only use each effect of \"Myutant M-05\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/62201847.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

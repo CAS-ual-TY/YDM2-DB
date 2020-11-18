@@ -1,0 +1,21 @@
+{
+  "id": 9798352,
+  "name": "Prufinesse, the Tactical Trapper",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can banish 1 Trap from your Deck; increase this card\u0027s Level by 1. You can target 1 Trap in either GY; banish it, and if you do, increase this card\u0027s Level by 1. If this card in its owner\u0027s possession is destroyed by an opponent\u0027s card: You can Set 1 of your banished Normal Traps. You can only use each effect of \"Prufinesse, the Tactical Trapper\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9798352.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

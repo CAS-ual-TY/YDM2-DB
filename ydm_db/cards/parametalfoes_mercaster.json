@@ -1,0 +1,24 @@
+{
+  "id": 10024317,
+  "name": "Parametalfoes Mercaster",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card on the field is destroyed by battle or card effect: You can add 1 face-up \"Metalfoes\" Pendulum Monster from your Extra Deck to your hand, except \"Parametalfoes Mercaster\", but you cannot activate cards with that name in your Pendulum Zone for the rest of this turn. You can only use this effect of \"Parametalfoes Mercaster\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10024317.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": 19301729,
+  "name": "Digital Bug Resistrider",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be used as material for an Xyz Summon, except for the Xyz Summon of an Insect monster. When you Normal Summon a Level 3 Insect monster: You can Special Summon this card from your hand, then you can make the Levels of both this card and that monster become 5 or 7. If this card is Special Summoned from the hand: You can change the battle position of 1 Insect monster you control. An Xyz Monster that was Summoned using this card on the field as material gains this effect.\n? This card gains 1000 ATK/DEF.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/19301729.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

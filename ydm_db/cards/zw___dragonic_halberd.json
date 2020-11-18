@@ -1,0 +1,20 @@
+{
+  "id": 101104105,
+  "name": "ZW - Dragonic Halberd",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 5 monsters\nCannot attack directly. Once per turn: You can detach 1 material from this card; add 1 \"ZEXAL\" Spell/Trap from your Deck to your hand. You can target 1 \"Utopia\" monster you control; equip this card you control to it as an Equip Spell that gives it 3000 ATK. When the equipped monster destroys a monster by battle: You can Special Summon any number of \"ZW -\" Monster Cards equipped to the equipped monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101104105.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "rank": 5
+}

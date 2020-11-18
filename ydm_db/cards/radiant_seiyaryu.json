@@ -1,0 +1,21 @@
+{
+  "id": 100272041,
+  "name": "Radiant Seiyaryu",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned from the hand: You can target 1 card on the field; destroy it. Cannot be destroyed by battle with a DARK monster, also cannot be destroyed by a DARK monster\u0027s effect. Once per turn, at the start of the Damage Step, if this card attacks an opponent\u0027s monster: You can banish that opponent\u0027s monster until the End Phase, also this card can make a second attack in a row.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100272041.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
+}

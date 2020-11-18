@@ -1,0 +1,21 @@
+{
+  "id": 101104102,
+  "name": "ZS - Arms Sage",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control exactly 1 Level 4 monster, except \"ZS - Arms Sage\" (and no other monsters), you can Special Summon this card (from your hand). A \"Utopia\" Xyz Monster that was Summoned using this card on the field as material gains the following effect. You can only use the preceding effect of \"ZS - Arms Sage\" once per turn.\n? If it is Xyz Summoned: You can add 1 \"ZW -\" monster from your Deck to your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101104102.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

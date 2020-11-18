@@ -1,0 +1,21 @@
+{
+  "id": 58363151,
+  "name": "Security Force Platina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 of your banished \"Security Force\" monsters, except \"Security Force Platina\"; Special Summon it. You can only use this effect of \"Security Force Platina\" once per turn. Monsters your opponent controls that face a \"Security Force\" monster you control lose 600 ATK.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58363151.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

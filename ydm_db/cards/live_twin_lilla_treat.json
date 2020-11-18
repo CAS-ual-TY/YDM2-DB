@@ -1,0 +1,21 @@
+{
+  "id": 81078880,
+  "name": "Live?Twin Lilla Treat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a \"Kisikil\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Live?Twin Lilla Treat\" once per turn this way. When a player takes battle damage from an attack involving an \"Evil?Twin\" monster: You can banish this card from your GY, then target 1 face-up monster your opponent controls; it loses ATK equal to that battle damage. You can only use this effect of \"Live Twin Lilla Treat\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/81078880.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 61272280,
+  "name": "Magistus Dragon Vahram",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nA monster equipped with this card cannot be destroyed by your opponent\u0027s Spell/Trap effects. You can only use each of the following effects of \"Magistus Dragon Vahram\" once per turn. If this Synchro Summoned card is destroyed: You can destroy all face-up cards your opponent controls. At the start of the Damage Step, when a monster equipped with this card battles an opponent\u0027s monster: You can destroy that opponent\u0027s monster.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/61272280.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
+}

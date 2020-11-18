@@ -1,0 +1,21 @@
+{
+  "id": 17063599,
+  "name": "Miradora, Skywing of the Whirlwinds",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent Special Summons a monster(s) with 2000 or more ATK from the Extra Deck (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can target 1 face-up monster your opponent controls that was Special Summoned from the Extra Deck; while this monster is face-up on the field, that monster cannot activate its effects. You can only use each effect of \"Miradora, Skywing of the Whirlwinds\" once per turn, also the activation and effect of these effects cannot be negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17063599.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 7,
+  "is_tuner": false
+}

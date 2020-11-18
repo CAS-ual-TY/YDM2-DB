@@ -1,0 +1,21 @@
+{
+  "id": 100273005,
+  "name": "Golden Idol",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn (Quick Effect): You can look at your opponent\u0027s hand, also this card\u0027s name becomes \"Thousand-Eyes Idol\" until the End Phase. If this card is banished, or sent to the GY by a card effect: You can target 1 Effect Monster your opponent controls; equip that Effect Monster to 1 \"Relinquished\" monster or \"Eyes Restrict\" monster you control that cannot be Normal Summoned/Set. While a monster is equipped to it by this effect, it gains ATK equal to that equipped monster\u0027s. You can only use this effect of \"Golden Idol\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100273005.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 56196385,
+  "name": "Tri-Brigade Kit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish any number of Beast, Beast-Warrior, and/or Winged Beast monsters from your GY; Special Summon 1 Beast, Beast-Warrior, or Winged Beast Link Monster from your Extra Deck with a Link Rating equal to the number banished, also you cannot use monsters as Link Material for the rest of this turn, except Beast, Beast-Warrior, and Winged Beast monsters. If this card is sent to the GY: You can send 1 \"Tri-Brigade\" card from your Deck to the GY, except \"Tri-Brigade Kit\". You can only use each effect of \"Tri-Brigade Kit\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56196385.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 700,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}
