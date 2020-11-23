@@ -4,4 +4,5 @@ This is the official database for the Ygo Dueling Mod for Minecraft. It contains
 [https://github.com/CAS-ual-TY/YgoDuelingMod](https://github.com/CAS-ual-TY/YgoDuelingMod)
 ## Credit
 Big credit goes to ygoprodeck.com for providing necessary data.
-![](https://i.imgur.com/ogOdaqa.png)
+![ygoprodeck.com](https://i.imgur.com/ogOdaqa.png "ygoprodeck.com")
+[https://ygoprodeck.com/](https://ygoprodeck.com/)
