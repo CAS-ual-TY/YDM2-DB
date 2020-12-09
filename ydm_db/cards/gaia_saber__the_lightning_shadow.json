@@ -14,7 +14,7 @@
   "monster_type": "Link",
   "is_pendulum": false,
   "ability": "",
-  "has_effect": false,
+  "has_effect": true,
   "link_rating": 3,
   "link_arrows": 168
 }
