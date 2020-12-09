@@ -14,7 +14,7 @@
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
-  "has_effect": true,
+  "has_effect": false,
   "def": 200,
   "level": 3,
   "is_tuner": true

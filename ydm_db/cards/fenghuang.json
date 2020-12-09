@@ -14,7 +14,7 @@
   "monster_type": "",
   "is_pendulum": false,
   "ability": "Spirit",
-  "has_effect": true,
+  "has_effect": false,
   "def": 1800,
   "level": 6,
   "is_tuner": false

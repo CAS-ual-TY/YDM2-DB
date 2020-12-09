@@ -14,7 +14,7 @@
   "monster_type": "Fusion",
   "is_pendulum": false,
   "ability": "",
-  "has_effect": false,
+  "has_effect": true,
   "def": 1300,
   "level": 5,
   "is_tuner": false
