@@ -1,0 +1,21 @@
+{
+  "id": 101104020,
+  "name": "Mirror Judge of the Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control another \"Ice Barrier\" monster, each time your opponent activates a card or effect by paying LP, they lose 500 LP immediately after it resolves. You can only use each of the following effects of \"Mirror Judge of the Ice Barrier\" once per turn. You can target up to 2 \"Ice Barrier\" monsters in your GY and up to 2 cards in your opponent\u0027s GY; shuffle them into the Deck. If you control an \"Ice Barrier\" monster: You can banish this card from your GY, then target 1 Attack Position monster on the field; change it to Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101104020.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9482987,
+  "name": "Endymion, the Magistus of Mastery",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster from your Extra Deck. You can target 1 face-up Spell you control; destroy it, and if you do, draw 1 card, then place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Endymion, the Magistus of Mastery\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9482987.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1300,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 101104062,
+  "name": "Bujintersection",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Beast-Warrior \"Bujin\" monsters you control cannot be destroyed by your opponent\u0027s card effects, except during the Battle Phase. Once per turn: You can send 1 \"Bujin\" monster from your hand or face-up field to the GY, then target 1 face-up card your opponent controls; negate its effects until the end of this turn. During your End Phase: You can send this face-up card from the field to the GY, then target 1 \"Bujin\" monster in your GY; Special Summon it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101104062.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

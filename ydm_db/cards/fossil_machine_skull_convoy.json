@@ -1,0 +1,21 @@
+{
+  "id": 100274007,
+  "name": "Fossil Machine Skull Convoy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Rock monster in your GY + 1 Level 7 or higher monster\nMust first be Special Summoned with \"Fossil Fusion\". While you control this Fusion Summoned card, all monsters your opponent controls lose ATK equal to their own original DEF. This card can make up to 3 attacks on monsters during each Battle Phase. When this card destroys an opponent\u0027s monster by battle: You can inflict 1000 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100274007.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Rock",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 8,
+  "is_tuner": false
+}

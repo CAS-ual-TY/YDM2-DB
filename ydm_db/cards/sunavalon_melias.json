@@ -1,0 +1,20 @@
+{
+  "id": 100274019,
+  "name": "Sunavalon Melias",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Plant monsters, including a Link Monster\nIf this card is Link Summoned: You can Special Summon 1 \"Sunseed Genius Loci\" from your GY. Cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Once per turn: You can target 1 \"Sunvine\" Link Monster you control this card points to; this turn, it can attack a number of times up to the number of \"Sunavalon\" Link Monsters you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100274019.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Plant",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": 138
+}

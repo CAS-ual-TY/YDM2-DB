@@ -1,0 +1,12 @@
+{
+  "id": 101104057,
+  "name": "Amazement Special Show",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent activates a card or effect that targets an \"Amazement\" monster(s) you control: Target 1 of those \"Amazement\" monsters you control; return it to the hand, then you can Special Summon 1 \"Amazement\" monster from your hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/101104057.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

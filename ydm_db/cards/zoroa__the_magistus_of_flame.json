@@ -1,0 +1,21 @@
+{
+  "id": 36099130,
+  "name": "Zoroa, the Magistus of Flame",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster from your Extra Deck. If this card becomes equipped with a \"Magistus\" Monster Card: You can Special Summon 1 Level 4 Spellcaster monster from your hand or GY in Defense Position, except \"Zoroa, the Magistus of Flame\", but its effects are negated. You can only use each effect of \"Zoroa, the Magistus of Flame\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/36099130.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": true
+}

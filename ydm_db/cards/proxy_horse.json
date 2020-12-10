@@ -1,0 +1,21 @@
+{
+  "id": 100200192,
+  "name": "Proxy Horse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you would use this card you control as Link Material for a Cyberse monster, 1 Cyberse monster in your hand can also be used as material. During your End Phase: You can banish this card from your GY, then target 2 Link Monsters in your GY, including at least 1 Cyberse monster; return them to the Extra Deck. You can only use each effect of \"Proxy Horse\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100200192.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1100,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

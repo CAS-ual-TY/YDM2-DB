@@ -1,11 +1,11 @@
 {
-  "id": 100340004,
+  "id": 70703416,
   "name": "Frost Spirit of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
   "text": "While you control another \"Ice Barrier\" monster, monsters your opponent controls lose 500 ATK/DEF. During your Main Phase: You can send 1 Level 3 or lower \"Ice Barrier\" monster from your Deck to the GY, and if you do, this card\u0027s Level becomes the sent monster\u0027s Level, until the end of this turn. You can only use this effect of \"Frost Spirit of the Ice Barrier\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/100340004.jpg"
+    "https://storage.googleapis.com/ygoprodeck.com/pics/70703416.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
@@ -14,7 +14,7 @@
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
-  "has_effect": false,
+  "has_effect": true,
   "def": 200,
   "level": 1,
   "is_tuner": true

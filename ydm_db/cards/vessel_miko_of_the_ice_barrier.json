@@ -1,0 +1,21 @@
+{
+  "id": 44308317,
+  "name": "Vessel Miko of the Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control another \"Ice Barrier\" monster, Defense Position monsters your opponent controls cannot change their battle positions. You can only use each of the following effects of \"Vessel Miko of the Ice Barrier\" once per turn. If you control an \"Ice Barrier\" monster: You can Special Summon this card from your hand. If you control an \"Ice Barrier\" monster: You can banish this card from your GY; Special Summon 1 \"Ice Barrier Token\" (Aqua/WATER/Level 1/ATK 0/DEF 0).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/44308317.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

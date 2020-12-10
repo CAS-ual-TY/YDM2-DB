@@ -1,0 +1,21 @@
+{
+  "id": 35252119,
+  "name": "Virtual World Beast - Jiujiu",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nCannot be destroyed by battle or card effects while you have 2 or more monsters in your GY with the same original Type and Attribute, but different names. You can banish 2 monsters from your GY with the same original Type and Attribute, but different names, then target 1 card on the field; send it to the GY. You can only use this effect of \"Virtual World Beast - Jiujiu\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35252119.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2400,
+  "species": "Psychic",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

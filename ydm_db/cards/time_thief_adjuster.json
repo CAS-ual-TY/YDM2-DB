@@ -1,0 +1,21 @@
+{
+  "id": 64730881,
+  "name": "Time Thief Adjuster",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you Normal or Special Summon a \"Time Thief\" monster(s), except \"Time Thief Adjuster\": You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Time Thief\" card from your Deck to the GY, except \"Time Thief Adjuster\". You can only use 1 \"Time Thief Adjuster\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64730881.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Psychic",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

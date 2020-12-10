@@ -1,0 +1,21 @@
+{
+  "id": 100274009,
+  "name": "Fossil Machine Skull Buggy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Rock monster in your GY + 1 Level 4 or lower monster\nMust first be Special Summoned with \"Fossil Fusion\". When this card destroys an opponent\u0027s monster by battle: You can inflict 600 damage to your opponent. You can banish this card from your GY; add 1 monster that specifically lists \"Fossil Fusion\" in its text from your Deck to your hand. You can only use this effect of \"Fossil Machine Skull Buggy\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/100274009.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Rock",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}
