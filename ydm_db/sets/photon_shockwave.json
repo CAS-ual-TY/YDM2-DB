@@ -1,0 +1,676 @@
+{
+  "name": "Photon Shockwave",
+  "code": "PHSW",
+  "type": "Booster Pack (Series 7)",
+  "date": "05-11-2011",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 43096270,
+      "code": "PHSW-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69380702,
+      "code": "PHSW-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95788410,
+      "code": "PHSW-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31173519,
+      "code": "PHSW-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68167124,
+      "code": "PHSW-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94656263,
+      "code": "PHSW-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21051977,
+      "code": "PHSW-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67445676,
+      "code": "PHSW-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93830681,
+      "code": "PHSW-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20838380,
+      "code": "PHSW-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56223084,
+      "code": "PHSW-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93717133,
+      "code": "PHSW-011",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93717133,
+      "code": "PHSW-011",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93717133,
+      "code": "PHSW-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29116732,
+      "code": "PHSW-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55501446,
+      "code": "PHSW-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92595545,
+      "code": "PHSW-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28990150,
+      "code": "PHSW-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55488859,
+      "code": "PHSW-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81873903,
+      "code": "PHSW-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28877602,
+      "code": "PHSW-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54266211,
+      "code": "PHSW-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80651316,
+      "code": "PHSW-020",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80651316,
+      "code": "PHSW-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17045014,
+      "code": "PHSW-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53540729,
+      "code": "PHSW-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80538728,
+      "code": "PHSW-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16923472,
+      "code": "PHSW-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42328171,
+      "code": "PHSW-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25716180,
+      "code": "PHSW-026",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25716180,
+      "code": "PHSW-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51701885,
+      "code": "PHSW-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88205593,
+      "code": "PHSW-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24694698,
+      "code": "PHSW-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50088247,
+      "code": "PHSW-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87483942,
+      "code": "PHSW-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13478040,
+      "code": "PHSW-032",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 50866755,
+      "code": "PHSW-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86361354,
+      "code": "PHSW-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12755462,
+      "code": "PHSW-035",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 49144107,
+      "code": "PHSW-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85138716,
+      "code": "PHSW-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12533811,
+      "code": "PHSW-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48928529,
+      "code": "PHSW-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74416224,
+      "code": "PHSW-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11411223,
+      "code": "PHSW-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11411223,
+      "code": "PHSW-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47805931,
+      "code": "PHSW-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74294676,
+      "code": "PHSW-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74294676,
+      "code": "PHSW-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 698785,
+      "code": "PHSW-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 698785,
+      "code": "PHSW-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46083380,
+      "code": "PHSW-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73178098,
+      "code": "PHSW-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9576193,
+      "code": "PHSW-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46961802,
+      "code": "PHSW-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72355441,
+      "code": "PHSW-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72355441,
+      "code": "PHSW-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9354555,
+      "code": "PHSW-050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9354555,
+      "code": "PHSW-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35848254,
+      "code": "PHSW-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71233859,
+      "code": "PHSW-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8632967,
+      "code": "PHSW-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34026662,
+      "code": "PHSW-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61011311,
+      "code": "PHSW-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7405310,
+      "code": "PHSW-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33904024,
+      "code": "PHSW-057",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60398723,
+      "code": "PHSW-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96383838,
+      "code": "PHSW-059",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 33782437,
+      "code": "PHSW-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69176131,
+      "code": "PHSW-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95561280,
+      "code": "PHSW-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32065885,
+      "code": "PHSW-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68054593,
+      "code": "PHSW-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95448692,
+      "code": "PHSW-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21843307,
+      "code": "PHSW-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67232306,
+      "code": "PHSW-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94626050,
+      "code": "PHSW-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20721759,
+      "code": "PHSW-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57115864,
+      "code": "PHSW-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93504463,
+      "code": "PHSW-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29999161,
+      "code": "PHSW-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56993276,
+      "code": "PHSW-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82382815,
+      "code": "PHSW-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29876529,
+      "code": "PHSW-075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55271628,
+      "code": "PHSW-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81665333,
+      "code": "PHSW-077",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 28654932,
+      "code": "PHSW-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54059040,
+      "code": "PHSW-079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81443745,
+      "code": "PHSW-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80495985,
+      "code": "PHSW-081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16480084,
+      "code": "PHSW-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42874792,
+      "code": "PHSW-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79279397,
+      "code": "PHSW-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15667446,
+      "code": "PHSW-085",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15667446,
+      "code": "PHSW-085",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42752141,
+      "code": "PHSW-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78156759,
+      "code": "PHSW-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4545854,
+      "code": "PHSW-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41930553,
+      "code": "PHSW-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43359262,
+      "code": "PHSW-090",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43359262,
+      "code": "PHSW-090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5237827,
+      "code": "PHSW-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31632536,
+      "code": "PHSW-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64734090,
+      "code": "PHSW-093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 123709,
+      "code": "PHSW-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36227804,
+      "code": "PHSW-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69243722,
+      "code": "PHSW-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68120130,
+      "code": "PHSW-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74530899,
+      "code": "PHSW-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71341529,
+      "code": "PHSW-099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

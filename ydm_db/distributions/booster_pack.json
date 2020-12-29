@@ -1,0 +1,84 @@
+{
+  "name": "booster_pack",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 9,
+      "rarities": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "rarities": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare",
+            "Starlight Rare",
+            "Ghost Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

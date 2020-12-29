@@ -1,0 +1,190 @@
+{
+  "name": "Duelist Pack: Crow",
+  "code": "DP11",
+  "type": "Duelist Pack",
+  "date": "27-05-2011",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 2009101,
+      "code": "DP11-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49003716,
+      "code": "DP11-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22835145,
+      "code": "DP11-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58820853,
+      "code": "DP11-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11613567,
+      "code": "DP11-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46710683,
+      "code": "DP11-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9109991,
+      "code": "DP11-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26775203,
+      "code": "DP11-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52869807,
+      "code": "DP11-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41902352,
+      "code": "DP11-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87390067,
+      "code": "DP11-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14785765,
+      "code": "DP11-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69031175,
+      "code": "DP11-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76913983,
+      "code": "DP11-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33236860,
+      "code": "DP11-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9012916,
+      "code": "DP11-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94681654,
+      "code": "DP11-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64952266,
+      "code": "DP11-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67779172,
+      "code": "DP11-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4168871,
+      "code": "DP11-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88341502,
+      "code": "DP11-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59839761,
+      "code": "DP11-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86223870,
+      "code": "DP11-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22628574,
+      "code": "DP11-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89040386,
+      "code": "DP11-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25435080,
+      "code": "DP11-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52833089,
+      "code": "DP11-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88928798,
+      "code": "DP11-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40279770,
+      "code": "DP11-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72278479,
+      "code": "DP11-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

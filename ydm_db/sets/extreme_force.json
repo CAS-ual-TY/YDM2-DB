@@ -1,0 +1,610 @@
+{
+  "name": "Extreme Force",
+  "code": "EXFO",
+  "type": "Booster Pack (Series 10)",
+  "date": "22-03-2018",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 40516623,
+      "code": "EXFO-EN000",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14575467,
+      "code": "EXFO-EN001",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 37310367,
+      "code": "EXFO-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74715061,
+      "code": "EXFO-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 209710,
+      "code": "EXFO-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36694815,
+      "code": "EXFO-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63092423,
+      "code": "EXFO-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5087128,
+      "code": "EXFO-EN007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32472237,
+      "code": "EXFO-EN008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68860936,
+      "code": "EXFO-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94365540,
+      "code": "EXFO-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31759689,
+      "code": "EXFO-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67744384,
+      "code": "EXFO-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94142993,
+      "code": "EXFO-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20537097,
+      "code": "EXFO-EN014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66022706,
+      "code": "EXFO-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93020401,
+      "code": "EXFO-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29415459,
+      "code": "EXFO-EN017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56809158,
+      "code": "EXFO-EN018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92204263,
+      "code": "EXFO-EN019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28692962,
+      "code": "EXFO-EN020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55787576,
+      "code": "EXFO-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91182675,
+      "code": "EXFO-EN022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28570310,
+      "code": "EXFO-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54965929,
+      "code": "EXFO-EN024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80959027,
+      "code": "EXFO-EN025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27354732,
+      "code": "EXFO-EN026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53842431,
+      "code": "EXFO-EN027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80237445,
+      "code": "EXFO-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16632144,
+      "code": "EXFO-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53620899,
+      "code": "EXFO-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89015998,
+      "code": "EXFO-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15419596,
+      "code": "EXFO-EN032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42908201,
+      "code": "EXFO-EN033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88392300,
+      "code": "EXFO-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15397015,
+      "code": "EXFO-EN035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41782653,
+      "code": "EXFO-EN036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87170768,
+      "code": "EXFO-EN037",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 40669071,
+      "code": "EXFO-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77058170,
+      "code": "EXFO-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13452889,
+      "code": "EXFO-EN040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49847524,
+      "code": "EXFO-EN041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76232522,
+      "code": "EXFO-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2220237,
+      "code": "EXFO-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49725936,
+      "code": "EXFO-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75119040,
+      "code": "EXFO-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1508649,
+      "code": "EXFO-EN046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38502358,
+      "code": "EXFO-EN047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74997493,
+      "code": "EXFO-EN048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1482001,
+      "code": "EXFO-EN049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37880706,
+      "code": "EXFO-EN050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73275815,
+      "code": "EXFO-EN051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 269510,
+      "code": "EXFO-EN052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36668118,
+      "code": "EXFO-EN053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63053267,
+      "code": "EXFO-EN054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9547962,
+      "code": "EXFO-EN055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35546670,
+      "code": "EXFO-EN056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2930675,
+      "code": "EXFO-EN057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38325384,
+      "code": "EXFO-EN058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75719089,
+      "code": "EXFO-EN059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1118137,
+      "code": "EXFO-EN060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38203732,
+      "code": "EXFO-EN061",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64697431,
+      "code": "EXFO-EN062",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96540,
+      "code": "EXFO-EN063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37480144,
+      "code": "EXFO-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63875853,
+      "code": "EXFO-EN065",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 879958,
+      "code": "EXFO-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36368606,
+      "code": "EXFO-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62753201,
+      "code": "EXFO-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99157310,
+      "code": "EXFO-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35146019,
+      "code": "EXFO-EN070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62530723,
+      "code": "EXFO-EN071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98935722,
+      "code": "EXFO-EN072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24429467,
+      "code": "EXFO-EN073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61818176,
+      "code": "EXFO-EN074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97803170,
+      "code": "EXFO-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24207889,
+      "code": "EXFO-EN076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50696588,
+      "code": "EXFO-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92080692,
+      "code": "EXFO-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29185231,
+      "code": "EXFO-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55573346,
+      "code": "EXFO-EN080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 77511331,
+      "code": "EXFO-EN081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3909436,
+      "code": "EXFO-EN082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49394035,
+      "code": "EXFO-EN083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76798740,
+      "code": "EXFO-EN084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2287848,
+      "code": "EXFO-EN085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39271553,
+      "code": "EXFO-EN086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75676192,
+      "code": "EXFO-EN087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1061200,
+      "code": "EXFO-EN088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38459905,
+      "code": "EXFO-EN089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35606858,
+      "code": "EXFO-EN090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98095162,
+      "code": "EXFO-EN091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24484270,
+      "code": "EXFO-EN092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61888819,
+      "code": "EXFO-EN093",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59934749,
+      "code": "EXFO-EN094",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22423493,
+      "code": "EXFO-EN095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58811192,
+      "code": "EXFO-EN096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85216896,
+      "code": "EXFO-EN097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094258,
+      "code": "EXFO-EN098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75078585,
+      "code": "EXFO-EN099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

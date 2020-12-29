@@ -1,0 +1,520 @@
+{
+  "name": "Power of the Duelist",
+  "code": "POTD",
+  "type": "Booster Pack (Series 5)",
+  "date": "16-08-2006",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 89943723,
+      "code": "POTD-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37265642,
+      "code": "POTD-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17955766,
+      "code": "POTD-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17955766,
+      "code": "POTD-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89621922,
+      "code": "POTD-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89621922,
+      "code": "POTD-004",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43237273,
+      "code": "POTD-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43237273,
+      "code": "POTD-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42682609,
+      "code": "POTD-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41382147,
+      "code": "POTD-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99861526,
+      "code": "POTD-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99861526,
+      "code": "POTD-008",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36378213,
+      "code": "POTD-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25034083,
+      "code": "POTD-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24311595,
+      "code": "POTD-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28355718,
+      "code": "POTD-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28355718,
+      "code": "POTD-012",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54749427,
+      "code": "POTD-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17132130,
+      "code": "POTD-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17132130,
+      "code": "POTD-014",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55461064,
+      "code": "POTD-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80744121,
+      "code": "POTD-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81866673,
+      "code": "POTD-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81866673,
+      "code": "POTD-017",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90654356,
+      "code": "POTD-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79409334,
+      "code": "POTD-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15894048,
+      "code": "POTD-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15894048,
+      "code": "POTD-020",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63259351,
+      "code": "POTD-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36042004,
+      "code": "POTD-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44702857,
+      "code": "POTD-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62437709,
+      "code": "POTD-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25920413,
+      "code": "POTD-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62315111,
+      "code": "POTD-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98719226,
+      "code": "POTD-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98719226,
+      "code": "POTD-027",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24104865,
+      "code": "POTD-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24104865,
+      "code": "POTD-028",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51192573,
+      "code": "POTD-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51192573,
+      "code": "POTD-029",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97697678,
+      "code": "POTD-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55171412,
+      "code": "POTD-031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55171412,
+      "code": "POTD-031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81566151,
+      "code": "POTD-032",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81566151,
+      "code": "POTD-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28677304,
+      "code": "POTD-033",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28677304,
+      "code": "POTD-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64599569,
+      "code": "POTD-034",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64599569,
+      "code": "POTD-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98927491,
+      "code": "POTD-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36256625,
+      "code": "POTD-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36256625,
+      "code": "POTD-036",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16616620,
+      "code": "POTD-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78387742,
+      "code": "POTD-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41160595,
+      "code": "POTD-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41160595,
+      "code": "POTD-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23299957,
+      "code": "POTD-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89899996,
+      "code": "POTD-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3659803,
+      "code": "POTD-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3659803,
+      "code": "POTD-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22147147,
+      "code": "POTD-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22147147,
+      "code": "POTD-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77565204,
+      "code": "POTD-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77565204,
+      "code": "POTD-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14772491,
+      "code": "POTD-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42015635,
+      "code": "POTD-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42015635,
+      "code": "POTD-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80921533,
+      "code": "POTD-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53527835,
+      "code": "POTD-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53527835,
+      "code": "POTD-048",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15294090,
+      "code": "POTD-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43405287,
+      "code": "POTD-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43405287,
+      "code": "POTD-050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24082387,
+      "code": "POTD-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50470982,
+      "code": "POTD-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96875080,
+      "code": "POTD-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86742443,
+      "code": "POTD-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50684552,
+      "code": "POTD-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97705809,
+      "code": "POTD-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97705809,
+      "code": "POTD-056",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63477921,
+      "code": "POTD-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63477921,
+      "code": "POTD-057",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23869735,
+      "code": "POTD-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16946849,
+      "code": "POTD-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59258334,
+      "code": "POTD-060",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

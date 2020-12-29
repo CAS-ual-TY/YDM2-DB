@@ -1,0 +1,652 @@
+{
+  "name": "Rising Rampage",
+  "code": "RIRA",
+  "type": "Booster Pack (Series 10)",
+  "date": "12-09-2019",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 76722334,
+      "code": "RIRA-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63009228,
+      "code": "RIRA-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9097866,
+      "code": "RIRA-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36492575,
+      "code": "RIRA-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36492575,
+      "code": "RIRA-003",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36492575,
+      "code": "RIRA-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62886670,
+      "code": "RIRA-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98371278,
+      "code": "RIRA-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35770983,
+      "code": "RIRA-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61764082,
+      "code": "RIRA-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57869175,
+      "code": "RIRA-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58981727,
+      "code": "RIRA-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85970321,
+      "code": "RIRA-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21364070,
+      "code": "RIRA-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98159737,
+      "code": "RIRA-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24557335,
+      "code": "RIRA-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60942444,
+      "code": "RIRA-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97036149,
+      "code": "RIRA-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23431858,
+      "code": "RIRA-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50820852,
+      "code": "RIRA-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50820852,
+      "code": "RIRA-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96214561,
+      "code": "RIRA-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23619206,
+      "code": "RIRA-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59707204,
+      "code": "RIRA-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95192919,
+      "code": "RIRA-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95192919,
+      "code": "RIRA-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22586618,
+      "code": "RIRA-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84257883,
+      "code": "RIRA-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10642488,
+      "code": "RIRA-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57647597,
+      "code": "RIRA-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44680819,
+      "code": "RIRA-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17469113,
+      "code": "RIRA-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71074418,
+      "code": "RIRA-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71197066,
+      "code": "RIRA-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19420830,
+      "code": "RIRA-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18585765,
+      "code": "RIRA-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82319644,
+      "code": "RIRA-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46924949,
+      "code": "RIRA-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19307353,
+      "code": "RIRA-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45702357,
+      "code": "RIRA-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83035296,
+      "code": "RIRA-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43857222,
+      "code": "RIRA-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70252926,
+      "code": "RIRA-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6247535,
+      "code": "RIRA-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43735670,
+      "code": "RIRA-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79130389,
+      "code": "RIRA-041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5524387,
+      "code": "RIRA-042",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32519092,
+      "code": "RIRA-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78917791,
+      "code": "RIRA-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5402805,
+      "code": "RIRA-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30674956,
+      "code": "RIRA-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30674956,
+      "code": "RIRA-046",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68295149,
+      "code": "RIRA-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4280258,
+      "code": "RIRA-048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4280258,
+      "code": "RIRA-048",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31897444,
+      "code": "RIRA-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67073561,
+      "code": "RIRA-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3567660,
+      "code": "RIRA-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30552375,
+      "code": "RIRA-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66947913,
+      "code": "RIRA-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92345028,
+      "code": "RIRA-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91407982,
+      "code": "RIRA-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27895597,
+      "code": "RIRA-056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54880296,
+      "code": "RIRA-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39730727,
+      "code": "RIRA-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65124425,
+      "code": "RIRA-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92223430,
+      "code": "RIRA-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28617139,
+      "code": "RIRA-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64002884,
+      "code": "RIRA-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90384300,
+      "code": "RIRA-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26773909,
+      "code": "RIRA-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53167658,
+      "code": "RIRA-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99162753,
+      "code": "RIRA-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26557451,
+      "code": "RIRA-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52945066,
+      "code": "RIRA-068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84430165,
+      "code": "RIRA-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84218527,
+      "code": "RIRA-070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10612222,
+      "code": "RIRA-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21834870,
+      "code": "RIRA-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57823578,
+      "code": "RIRA-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59778096,
+      "code": "RIRA-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56001930,
+      "code": "RIRA-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22373487,
+      "code": "RIRA-076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83195035,
+      "code": "RIRA-077",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83195035,
+      "code": "RIRA-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19590644,
+      "code": "RIRA-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46984349,
+      "code": "RIRA-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85862791,
+      "code": "RIRA-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13117073,
+      "code": "RIRA-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49105782,
+      "code": "RIRA-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76500786,
+      "code": "RIRA-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2994495,
+      "code": "RIRA-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49389190,
+      "code": "RIRA-085",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75888208,
+      "code": "RIRA-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1872843,
+      "code": "RIRA-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38267552,
+      "code": "RIRA-088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74665651,
+      "code": "RIRA-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1050355,
+      "code": "RIRA-090",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37444964,
+      "code": "RIRA-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61884774,
+      "code": "RIRA-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54191698,
+      "code": "RIRA-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27240101,
+      "code": "RIRA-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63731062,
+      "code": "RIRA-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62487836,
+      "code": "RIRA-096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37414347,
+      "code": "RIRA-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11969228,
+      "code": "RIRA-098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44640691,
+      "code": "RIRA-099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

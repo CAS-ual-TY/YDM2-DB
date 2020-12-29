@@ -1,0 +1,25 @@
+{
+  "name": "battles_of_legend__armageddon",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare",
+            "Starlight Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "10000 Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

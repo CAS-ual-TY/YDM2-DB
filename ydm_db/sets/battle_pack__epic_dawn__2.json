@@ -1,0 +1,338 @@
+{
+  "code": "BP01_2",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "battle_pack__epic_dawn__2",
+  "cards": [
+    {
+      "id": 61831093,
+      "code": "BP01-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93920745,
+      "code": "BP01-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1347977,
+      "code": "BP01-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74131780,
+      "code": "BP01-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45141844,
+      "code": "BP01-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71413901,
+      "code": "BP01-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48343627,
+      "code": "BP01-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21502796,
+      "code": "BP01-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91133740,
+      "code": "BP01-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "BP01-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "BP01-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40619825,
+      "code": "BP01-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "BP01-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64047146,
+      "code": "BP01-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19230408,
+      "code": "BP01-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7165085,
+      "code": "BP01-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "BP01-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71453557,
+      "code": "BP01-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34236961,
+      "code": "BP01-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61127349,
+      "code": "BP01-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24874630,
+      "code": "BP01-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56460688,
+      "code": "BP01-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "BP01-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43040603,
+      "code": "BP01-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30683373,
+      "code": "BP01-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6178850,
+      "code": "BP01-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25789292,
+      "code": "BP01-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83584898,
+      "code": "BP01-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27243130,
+      "code": "BP01-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6430659,
+      "code": "BP01-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73178098,
+      "code": "BP01-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37390589,
+      "code": "BP01-087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60082869,
+      "code": "BP01-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59744639,
+      "code": "BP01-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59344077,
+      "code": "BP01-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "BP01-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29267084,
+      "code": "BP01-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98239899,
+      "code": "BP01-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38411870,
+      "code": "BP01-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37576645,
+      "code": "BP01-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54704216,
+      "code": "BP01-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38275183,
+      "code": "BP01-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36261276,
+      "code": "BP01-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "BP01-099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66518841,
+      "code": "BP01-100",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15552258,
+      "code": "BP01-101",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73729209,
+      "code": "BP01-102",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46502013,
+      "code": "BP01-103",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24673894,
+      "code": "BP01-104",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50078509,
+      "code": "BP01-105",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79161790,
+      "code": "BP01-106",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21636650,
+      "code": "BP01-107",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53656677,
+      "code": "BP01-108",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87106146,
+      "code": "BP01-109",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72022087,
+      "code": "BP01-110",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

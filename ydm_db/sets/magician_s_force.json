@@ -1,0 +1,658 @@
+{
+  "name": "Magician\u0027s Force",
+  "code": "MFC",
+  "type": "Booster Pack (Series 1-3)",
+  "date": "10-10-2003",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 38033121,
+      "code": "MFC-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12143771,
+      "code": "MFC-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58538870,
+      "code": "MFC-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85936485,
+      "code": "MFC-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62651957,
+      "code": "MFC-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65622692,
+      "code": "MFC-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64500000,
+      "code": "MFC-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11321183,
+      "code": "MFC-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47415292,
+      "code": "MFC-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84814897,
+      "code": "MFC-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10209545,
+      "code": "MFC-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47693640,
+      "code": "MFC-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73698349,
+      "code": "MFC-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19086954,
+      "code": "MFC-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46571052,
+      "code": "MFC-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12965761,
+      "code": "MFC-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59364406,
+      "code": "MFC-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85359414,
+      "code": "MFC-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11743119,
+      "code": "MFC-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48148828,
+      "code": "MFC-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84636823,
+      "code": "MFC-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11021521,
+      "code": "MFC-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47025270,
+      "code": "MFC-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73414375,
+      "code": "MFC-023",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 10809984,
+      "code": "MFC-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46303688,
+      "code": "MFC-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73398797,
+      "code": "MFC-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9786492,
+      "code": "MFC-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46181000,
+      "code": "MFC-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72575145,
+      "code": "MFC-029",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 8964854,
+      "code": "MFC-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35059553,
+      "code": "MFC-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71453557,
+      "code": "MFC-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8842266,
+      "code": "MFC-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34236961,
+      "code": "MFC-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70231910,
+      "code": "MFC-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7625614,
+      "code": "MFC-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33114323,
+      "code": "MFC-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60519422,
+      "code": "MFC-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2903036,
+      "code": "MFC-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38992735,
+      "code": "MFC-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65396880,
+      "code": "MFC-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91781589,
+      "code": "MFC-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38275183,
+      "code": "MFC-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64274292,
+      "code": "MFC-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90669991,
+      "code": "MFC-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27053506,
+      "code": "MFC-046",
+      "rarity": "Super Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 63442604,
+      "code": "MFC-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90846359,
+      "code": "MFC-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26931058,
+      "code": "MFC-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62325062,
+      "code": "MFC-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2111707,
+      "code": "MFC-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91998119,
+      "code": "MFC-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99724761,
+      "code": "MFC-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25119460,
+      "code": "MFC-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11813953,
+      "code": "MFC-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48202661,
+      "code": "MFC-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84696266,
+      "code": "MFC-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11091375,
+      "code": "MFC-058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47480070,
+      "code": "MFC-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55821894,
+      "code": "MFC-060",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 94004268,
+      "code": "MFC-061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73574678,
+      "code": "MFC-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10979723,
+      "code": "MFC-063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46363422,
+      "code": "MFC-064",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73752131,
+      "code": "MFC-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9156135,
+      "code": "MFC-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45141844,
+      "code": "MFC-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72630549,
+      "code": "MFC-068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8034697,
+      "code": "MFC-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35429292,
+      "code": "MFC-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71413901,
+      "code": "MFC-071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7802006,
+      "code": "MFC-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34206604,
+      "code": "MFC-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70791313,
+      "code": "MFC-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7180418,
+      "code": "MFC-075",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33184167,
+      "code": "MFC-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69579761,
+      "code": "MFC-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6967870,
+      "code": "MFC-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32362575,
+      "code": "MFC-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69456283,
+      "code": "MFC-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 95841282,
+      "code": "MFC-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32240937,
+      "code": "MFC-082",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 8634636,
+      "code": "MFC-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81325903,
+      "code": "MFC-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68057622,
+      "code": "MFC-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61127349,
+      "code": "MFC-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7512044,
+      "code": "MFC-087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34906152,
+      "code": "MFC-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60391791,
+      "code": "MFC-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6390406,
+      "code": "MFC-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33784505,
+      "code": "MFC-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69279219,
+      "code": "MFC-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96677818,
+      "code": "MFC-093",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 32062913,
+      "code": "MFC-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34029630,
+      "code": "MFC-095",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 67987611,
+      "code": "MFC-096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80193355,
+      "code": "MFC-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95451366,
+      "code": "MFC-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21840375,
+      "code": "MFC-099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68334074,
+      "code": "MFC-100",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94739788,
+      "code": "MFC-101",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20727787,
+      "code": "MFC-102",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53112492,
+      "code": "MFC-103",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99517131,
+      "code": "MFC-104",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98502113,
+      "code": "MFC-105",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24096228,
+      "code": "MFC-106",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87880531,
+      "code": "MFC-107",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

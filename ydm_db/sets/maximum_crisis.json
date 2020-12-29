@@ -1,0 +1,610 @@
+{
+  "name": "Maximum Crisis",
+  "code": "MACR",
+  "type": "Booster Pack (Series 9)",
+  "date": "08-06-2017",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 42378577,
+      "code": "MACR-000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73734821,
+      "code": "MACR-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 122520,
+      "code": "MACR-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36527535,
+      "code": "MACR-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73511233,
+      "code": "MACR-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9000988,
+      "code": "MACR-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35494087,
+      "code": "MACR-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62899696,
+      "code": "MACR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8284390,
+      "code": "MACR-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35272499,
+      "code": "MACR-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61677004,
+      "code": "MACR-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7161742,
+      "code": "MACR-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34550857,
+      "code": "MACR-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60954556,
+      "code": "MACR-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97949165,
+      "code": "MACR-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33334269,
+      "code": "MACR-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60832978,
+      "code": "MACR-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96227613,
+      "code": "MACR-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22211622,
+      "code": "MACR-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69610326,
+      "code": "MACR-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95004025,
+      "code": "MACR-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22499034,
+      "code": "MACR-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58984738,
+      "code": "MACR-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94982447,
+      "code": "MACR-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21377582,
+      "code": "MACR-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57761191,
+      "code": "MACR-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94160895,
+      "code": "MACR-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20155904,
+      "code": "MACR-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56649609,
+      "code": "MACR-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83048208,
+      "code": "MACR-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29432356,
+      "code": "MACR-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56827051,
+      "code": "MACR-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82821760,
+      "code": "MACR-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18210764,
+      "code": "MACR-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55705473,
+      "code": "MACR-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81109178,
+      "code": "MACR-035",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 14558127,
+      "code": "MACR-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40542825,
+      "code": "MACR-037",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 86937530,
+      "code": "MACR-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13331639,
+      "code": "MACR-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49820233,
+      "code": "MACR-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76815942,
+      "code": "MACR-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12219047,
+      "code": "MACR-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48608796,
+      "code": "MACR-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15092394,
+      "code": "MACR-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51497409,
+      "code": "MACR-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88581108,
+      "code": "MACR-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14970113,
+      "code": "MACR-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41375811,
+      "code": "MACR-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87769556,
+      "code": "MACR-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13758665,
+      "code": "MACR-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40252269,
+      "code": "MACR-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76647978,
+      "code": "MACR-052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13035077,
+      "code": "MACR-053",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49430782,
+      "code": "MACR-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75425320,
+      "code": "MACR-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2819435,
+      "code": "MACR-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48308134,
+      "code": "MACR-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75702749,
+      "code": "MACR-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1197847,
+      "code": "MACR-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47185546,
+      "code": "MACR-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74580251,
+      "code": "MACR-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 975299,
+      "code": "MACR-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37469904,
+      "code": "MACR-063",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73468603,
+      "code": "MACR-064",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 9852718,
+      "code": "MACR-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36247316,
+      "code": "MACR-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62645025,
+      "code": "MACR-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9030160,
+      "code": "MACR-068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35125879,
+      "code": "MACR-069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61529473,
+      "code": "MACR-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98918572,
+      "code": "MACR-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34302287,
+      "code": "MACR-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61397885,
+      "code": "MACR-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97795930,
+      "code": "MACR-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33280639,
+      "code": "MACR-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60675348,
+      "code": "MACR-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96073342,
+      "code": "MACR-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23068051,
+      "code": "MACR-078",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69452756,
+      "code": "MACR-079",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96857854,
+      "code": "MACR-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 6983839,
+      "code": "MACR-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74762582,
+      "code": "MACR-082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1151281,
+      "code": "MACR-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47556396,
+      "code": "MACR-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74640994,
+      "code": "MACR-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35699,
+      "code": "MACR-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37433748,
+      "code": "MACR-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73828446,
+      "code": "MACR-088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9212051,
+      "code": "MACR-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82257940,
+      "code": "MACR-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6442944,
+      "code": "MACR-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70026064,
+      "code": "MACR-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33909817,
+      "code": "MACR-093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69304426,
+      "code": "MACR-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47558785,
+      "code": "MACR-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84046493,
+      "code": "MACR-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10441498,
+      "code": "MACR-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47435107,
+      "code": "MACR-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73820802,
+      "code": "MACR-099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

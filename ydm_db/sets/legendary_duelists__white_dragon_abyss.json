@@ -1,0 +1,352 @@
+{
+  "name": "Legendary Duelists: White Dragon Abyss",
+  "code": "LED3",
+  "type": "Legendary Duelists",
+  "date": "27-09-2018",
+  "pull_type": "distribution",
+  "distribution": "legendary_duelists",
+  "cards": [
+    {
+      "id": 55410871,
+      "code": "LED3-000",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20654247,
+      "code": "LED3-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57043986,
+      "code": "LED3-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93437091,
+      "code": "LED3-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29432790,
+      "code": "LED3-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56920308,
+      "code": "LED3-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89631139,
+      "code": "LED3-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79814787,
+      "code": "LED3-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88241506,
+      "code": "LED3-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48800175,
+      "code": "LED3-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41620959,
+      "code": "LED3-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21082832,
+      "code": "LED3-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82315403,
+      "code": "LED3-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29719112,
+      "code": "LED3-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55704856,
+      "code": "LED3-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81193865,
+      "code": "LED3-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18597560,
+      "code": "LED3-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1546123,
+      "code": "LED3-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74157028,
+      "code": "LED3-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84058253,
+      "code": "LED3-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59281922,
+      "code": "LED3-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86686671,
+      "code": "LED3-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37630732,
+      "code": "LED3-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54082269,
+      "code": "LED3-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81470373,
+      "code": "LED3-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17465972,
+      "code": "LED3-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53860621,
+      "code": "LED3-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80254726,
+      "code": "LED3-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9012916,
+      "code": "LED3-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49003716,
+      "code": "LED3-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73652465,
+      "code": "LED3-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14785765,
+      "code": "LED3-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91351370,
+      "code": "LED3-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59839761,
+      "code": "LED3-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16643334,
+      "code": "LED3-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43147039,
+      "code": "LED3-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43147039,
+      "code": "LED3-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89132148,
+      "code": "LED3-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15520842,
+      "code": "LED3-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42925441,
+      "code": "LED3-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93717133,
+      "code": "LED3-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35950025,
+      "code": "LED3-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65367484,
+      "code": "LED3-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1362589,
+      "code": "LED3-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35112613,
+      "code": "LED3-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34838437,
+      "code": "LED3-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78310590,
+      "code": "LED3-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15308295,
+      "code": "LED3-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41803903,
+      "code": "LED3-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77297908,
+      "code": "LED3-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4682617,
+      "code": "LED3-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25629622,
+      "code": "LED3-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24907044,
+      "code": "LED3-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39024589,
+      "code": "LED3-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23784496,
+      "code": "LED3-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13662809,
+      "code": "LED3-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59057953,
+      "code": "LED3-055",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

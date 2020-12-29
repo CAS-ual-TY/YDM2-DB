@@ -1,0 +1,136 @@
+{
+  "name": "Turbo Pack: Booster Two",
+  "code": "TU02",
+  "type": "Turbo Pack",
+  "date": "09-01-2010",
+  "pull_type": "distribution",
+  "distribution": "turbo_pack",
+  "cards": [
+    {
+      "id": 27346636,
+      "code": "TU02-000",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9596126,
+      "code": "TU02-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25262697,
+      "code": "TU02-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28553439,
+      "code": "TU02-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "TU02-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16255442,
+      "code": "TU02-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63695531,
+      "code": "TU02-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69279219,
+      "code": "TU02-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98494543,
+      "code": "TU02-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28601770,
+      "code": "TU02-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53341729,
+      "code": "TU02-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99735427,
+      "code": "TU02-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58921041,
+      "code": "TU02-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99877698,
+      "code": "TU02-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47355498,
+      "code": "TU02-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71453557,
+      "code": "TU02-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53112492,
+      "code": "TU02-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2851070,
+      "code": "TU02-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80921533,
+      "code": "TU02-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17393207,
+      "code": "TU02-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36623431,
+      "code": "TU02-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

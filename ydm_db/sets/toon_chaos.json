@@ -1,0 +1,496 @@
+{
+  "name": "Toon Chaos",
+  "code": "TOCH",
+  "type": "60 Card Set",
+  "date": "19-06-2020",
+  "pull_type": "distribution",
+  "distribution": "toon_chaos",
+  "cards": [
+    {
+      "id": 28711704,
+      "code": "TOCH-001",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28711704,
+      "code": "TOCH-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64116319,
+      "code": "TOCH-002",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64116319,
+      "code": "TOCH-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64116319,
+      "code": "TOCH-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91500017,
+      "code": "TOCH-003",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91500017,
+      "code": "TOCH-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91500017,
+      "code": "TOCH-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27699122,
+      "code": "TOCH-004",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27699122,
+      "code": "TOCH-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27699122,
+      "code": "TOCH-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53094821,
+      "code": "TOCH-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53094821,
+      "code": "TOCH-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90488465,
+      "code": "TOCH-006",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90488465,
+      "code": "TOCH-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26873574,
+      "code": "TOCH-007",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26873574,
+      "code": "TOCH-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26873574,
+      "code": "TOCH-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53871273,
+      "code": "TOCH-008",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53871273,
+      "code": "TOCH-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99266988,
+      "code": "TOCH-009",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99266988,
+      "code": "TOCH-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25750986,
+      "code": "TOCH-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25750986,
+      "code": "TOCH-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56824871,
+      "code": "TOCH-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22091647,
+      "code": "TOCH-012",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22091647,
+      "code": "TOCH-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54485355,
+      "code": "TOCH-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81570454,
+      "code": "TOCH-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16146511,
+      "code": "TOCH-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27979109,
+      "code": "TOCH-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53363708,
+      "code": "TOCH-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53241226,
+      "code": "TOCH-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80758812,
+      "code": "TOCH-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45215225,
+      "code": "TOCH-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77522571,
+      "code": "TOCH-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30114823,
+      "code": "TOCH-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97854941,
+      "code": "TOCH-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67865534,
+      "code": "TOCH-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49036338,
+      "code": "TOCH-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "TOCH-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78010363,
+      "code": "TOCH-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9596126,
+      "code": "TOCH-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "TOCH-029",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "TOCH-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82301904,
+      "code": "TOCH-030",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82301904,
+      "code": "TOCH-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99365553,
+      "code": "TOCH-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25460258,
+      "code": "TOCH-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77498348,
+      "code": "TOCH-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67310848,
+      "code": "TOCH-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92510265,
+      "code": "TOCH-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38814750,
+      "code": "TOCH-036",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38814750,
+      "code": "TOCH-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7241272,
+      "code": "TOCH-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30539496,
+      "code": "TOCH-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38695361,
+      "code": "TOCH-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45195443,
+      "code": "TOCH-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48048590,
+      "code": "TOCH-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2347477,
+      "code": "TOCH-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58147549,
+      "code": "TOCH-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10920352,
+      "code": "TOCH-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29095552,
+      "code": "TOCH-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62624486,
+      "code": "TOCH-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89870349,
+      "code": "TOCH-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80889750,
+      "code": "TOCH-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54757758,
+      "code": "TOCH-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44508094,
+      "code": "TOCH-050",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44508094,
+      "code": "TOCH-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23085002,
+      "code": "TOCH-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71166481,
+      "code": "TOCH-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52615248,
+      "code": "TOCH-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "TOCH-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95750695,
+      "code": "TOCH-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94243005,
+      "code": "TOCH-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35261759,
+      "code": "TOCH-057",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35261759,
+      "code": "TOCH-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60018643,
+      "code": "TOCH-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49238328,
+      "code": "TOCH-059",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49238328,
+      "code": "TOCH-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58120309,
+      "code": "TOCH-060",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

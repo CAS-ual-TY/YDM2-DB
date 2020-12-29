@@ -1,0 +1,58 @@
+{
+  "name": "millenium_pack",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 12,
+      "rarities": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 4,
+      "rarities": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare",
+            "Ghost Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "name": "Judgment of the Light",
+  "code": "JOTL",
+  "type": "Booster Pack (Series 8)",
+  "date": "27-09-2013",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 11066358,
+      "code": "JOTL-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6330307,
+      "code": "JOTL-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33725002,
+      "code": "JOTL-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19113101,
+      "code": "JOTL-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45118716,
+      "code": "JOTL-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72502414,
+      "code": "JOTL-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8091563,
+      "code": "JOTL-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45496268,
+      "code": "JOTL-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71880877,
+      "code": "JOTL-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8875971,
+      "code": "JOTL-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44273680,
+      "code": "JOTL-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70668285,
+      "code": "JOTL-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7152333,
+      "code": "JOTL-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33551032,
+      "code": "JOTL-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70546737,
+      "code": "JOTL-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6930746,
+      "code": "JOTL-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32339440,
+      "code": "JOTL-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69723159,
+      "code": "JOTL-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5818294,
+      "code": "JOTL-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32202803,
+      "code": "JOTL-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68601507,
+      "code": "JOTL-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94096616,
+      "code": "JOTL-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31480215,
+      "code": "JOTL-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67489919,
+      "code": "JOTL-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94973028,
+      "code": "JOTL-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20368763,
+      "code": "JOTL-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66762372,
+      "code": "JOTL-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93751476,
+      "code": "JOTL-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29146185,
+      "code": "JOTL-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66540884,
+      "code": "JOTL-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92039899,
+      "code": "JOTL-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28423537,
+      "code": "JOTL-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55428242,
+      "code": "JOTL-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91812341,
+      "code": "JOTL-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28201945,
+      "code": "JOTL-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54706054,
+      "code": "JOTL-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80190753,
+      "code": "JOTL-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27189308,
+      "code": "JOTL-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53573406,
+      "code": "JOTL-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80978111,
+      "code": "JOTL-039",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 16366810,
+      "code": "JOTL-040",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 53451824,
+      "code": "JOTL-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89856523,
+      "code": "JOTL-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15240238,
+      "code": "JOTL-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52639377,
+      "code": "JOTL-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88033975,
+      "code": "JOTL-045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15028680,
+      "code": "JOTL-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41517789,
+      "code": "JOTL-047",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41517789,
+      "code": "JOTL-047",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41517789,
+      "code": "JOTL-047",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87911394,
+      "code": "JOTL-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87911394,
+      "code": "JOTL-048",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14306092,
+      "code": "JOTL-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40390147,
+      "code": "JOTL-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77799846,
+      "code": "JOTL-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13183454,
+      "code": "JOTL-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49678559,
+      "code": "JOTL-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76067258,
+      "code": "JOTL-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2061963,
+      "code": "JOTL-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49456901,
+      "code": "JOTL-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49456901,
+      "code": "JOTL-056",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75840616,
+      "code": "JOTL-057",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75840616,
+      "code": "JOTL-057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1249315,
+      "code": "JOTL-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48333324,
+      "code": "JOTL-059",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48333324,
+      "code": "JOTL-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74728028,
+      "code": "JOTL-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1127737,
+      "code": "JOTL-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37511832,
+      "code": "JOTL-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73906480,
+      "code": "JOTL-063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 904185,
+      "code": "JOTL-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36499284,
+      "code": "JOTL-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63883999,
+      "code": "JOTL-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5288597,
+      "code": "JOTL-067",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31677606,
+      "code": "JOTL-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68661341,
+      "code": "JOTL-069",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 94156050,
+      "code": "JOTL-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31554054,
+      "code": "JOTL-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67949763,
+      "code": "JOTL-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94933468,
+      "code": "JOTL-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30338466,
+      "code": "JOTL-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66727115,
+      "code": "JOTL-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93211810,
+      "code": "JOTL-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29616929,
+      "code": "JOTL-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66604523,
+      "code": "JOTL-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92099232,
+      "code": "JOTL-079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28493337,
+      "code": "JOTL-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 80555062,
+      "code": "JOTL-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16943770,
+      "code": "JOTL-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42338879,
+      "code": "JOTL-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53550467,
+      "code": "JOTL-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89732524,
+      "code": "JOTL-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15721123,
+      "code": "JOTL-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42216237,
+      "code": "JOTL-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78610936,
+      "code": "JOTL-088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14005031,
+      "code": "JOTL-089",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14466224,
+      "code": "JOTL-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51855378,
+      "code": "JOTL-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67136033,
+      "code": "JOTL-092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3534077,
+      "code": "JOTL-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30929786,
+      "code": "JOTL-094",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66413481,
+      "code": "JOTL-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62023839,
+      "code": "JOTL-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97396380,
+      "code": "JOTL-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24384095,
+      "code": "JOTL-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26570480,
+      "code": "JOTL-099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

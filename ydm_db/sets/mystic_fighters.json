@@ -1,0 +1,370 @@
+{
+  "name": "Mystic Fighters",
+  "code": "MYFI",
+  "type": "Deck Build Pack",
+  "date": "22-11-2019",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 27182739,
+      "code": "MYFI-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53577438,
+      "code": "MYFI-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80965043,
+      "code": "MYFI-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16360142,
+      "code": "MYFI-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52354896,
+      "code": "MYFI-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89743495,
+      "code": "MYFI-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15248594,
+      "code": "MYFI-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42632209,
+      "code": "MYFI-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88021907,
+      "code": "MYFI-009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14025912,
+      "code": "MYFI-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41410651,
+      "code": "MYFI-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87804365,
+      "code": "MYFI-012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14393464,
+      "code": "MYFI-013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40398073,
+      "code": "MYFI-014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76782778,
+      "code": "MYFI-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13171876,
+      "code": "MYFI-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49575521,
+      "code": "MYFI-017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16960120,
+      "code": "MYFI-018",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42055234,
+      "code": "MYFI-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88453933,
+      "code": "MYFI-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15848542,
+      "code": "MYFI-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41232647,
+      "code": "MYFI-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78231355,
+      "code": "MYFI-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14625090,
+      "code": "MYFI-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40110009,
+      "code": "MYFI-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77515704,
+      "code": "MYFI-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13903402,
+      "code": "MYFI-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40998517,
+      "code": "MYFI-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76382116,
+      "code": "MYFI-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2881864,
+      "code": "MYFI-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49275969,
+      "code": "MYFI-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75660578,
+      "code": "MYFI-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2665273,
+      "code": "MYFI-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38053381,
+      "code": "MYFI-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75448086,
+      "code": "MYFI-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1942635,
+      "code": "MYFI-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37931734,
+      "code": "MYFI-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64325438,
+      "code": "MYFI-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 720147,
+      "code": "MYFI-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85692042,
+      "code": "MYFI-040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77585513,
+      "code": "MYFI-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48686504,
+      "code": "MYFI-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14943837,
+      "code": "MYFI-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43748308,
+      "code": "MYFI-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89399912,
+      "code": "MYFI-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89185742,
+      "code": "MYFI-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8567955,
+      "code": "MYFI-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35183584,
+      "code": "MYFI-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88581108,
+      "code": "MYFI-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55991637,
+      "code": "MYFI-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81385346,
+      "code": "MYFI-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27770341,
+      "code": "MYFI-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43040603,
+      "code": "MYFI-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74117290,
+      "code": "MYFI-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74845897,
+      "code": "MYFI-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62265044,
+      "code": "MYFI-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43839002,
+      "code": "MYFI-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48539234,
+      "code": "MYFI-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52417194,
+      "code": "MYFI-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10813327,
+      "code": "MYFI-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

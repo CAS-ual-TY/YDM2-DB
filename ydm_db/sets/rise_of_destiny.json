@@ -1,0 +1,520 @@
+{
+  "name": "Rise of Destiny",
+  "code": "RDS",
+  "type": "Booster Pack (Series 4)",
+  "date": "01-02-2005",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 35322812,
+      "code": "RDS-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62327910,
+      "code": "RDS-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8715625,
+      "code": "RDS-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34100324,
+      "code": "RDS-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61505339,
+      "code": "RDS-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61505339,
+      "code": "RDS-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97093037,
+      "code": "RDS-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34088136,
+      "code": "RDS-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34088136,
+      "code": "RDS-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60482781,
+      "code": "RDS-008",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60482781,
+      "code": "RDS-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1995985,
+      "code": "RDS-009",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1995985,
+      "code": "RDS-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81306586,
+      "code": "RDS-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23265594,
+      "code": "RDS-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18891691,
+      "code": "RDS-012",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18891691,
+      "code": "RDS-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65260293,
+      "code": "RDS-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92755808,
+      "code": "RDS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28143906,
+      "code": "RDS-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64538655,
+      "code": "RDS-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64538655,
+      "code": "RDS-016",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91932350,
+      "code": "RDS-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27927359,
+      "code": "RDS-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54415063,
+      "code": "RDS-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90810762,
+      "code": "RDS-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26205777,
+      "code": "RDS-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26205777,
+      "code": "RDS-021",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53693416,
+      "code": "RDS-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89698120,
+      "code": "RDS-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26082229,
+      "code": "RDS-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52571838,
+      "code": "RDS-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88975532,
+      "code": "RDS-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15960641,
+      "code": "RDS-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51355346,
+      "code": "RDS-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51355346,
+      "code": "RDS-028",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88753985,
+      "code": "RDS-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14148099,
+      "code": "RDS-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14148099,
+      "code": "RDS-030",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51632798,
+      "code": "RDS-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51632798,
+      "code": "RDS-031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87621407,
+      "code": "RDS-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87621407,
+      "code": "RDS-032",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13026402,
+      "code": "RDS-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13026402,
+      "code": "RDS-033",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40410110,
+      "code": "RDS-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86805855,
+      "code": "RDS-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86805855,
+      "code": "RDS-035",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13803864,
+      "code": "RDS-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49398568,
+      "code": "RDS-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49398568,
+      "code": "RDS-037",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75782277,
+      "code": "RDS-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12181376,
+      "code": "RDS-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12181376,
+      "code": "RDS-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48576971,
+      "code": "RDS-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48576971,
+      "code": "RDS-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63995093,
+      "code": "RDS-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63995093,
+      "code": "RDS-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75560629,
+      "code": "RDS-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75560629,
+      "code": "RDS-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1965724,
+      "code": "RDS-043",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 47453433,
+      "code": "RDS-044",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 74848038,
+      "code": "RDS-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74848038,
+      "code": "RDS-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 242146,
+      "code": "RDS-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37231841,
+      "code": "RDS-047",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 13626450,
+      "code": "RDS-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35686188,
+      "code": "RDS-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35686188,
+      "code": "RDS-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49010598,
+      "code": "RDS-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49010598,
+      "code": "RDS-050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76515293,
+      "code": "RDS-051",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 12503902,
+      "code": "RDS-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12503902,
+      "code": "RDS-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49998907,
+      "code": "RDS-053",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 75392615,
+      "code": "RDS-054",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 1781310,
+      "code": "RDS-055",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 48276469,
+      "code": "RDS-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48276469,
+      "code": "RDS-056",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74270067,
+      "code": "RDS-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74270067,
+      "code": "RDS-057",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1669772,
+      "code": "RDS-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37053871,
+      "code": "RDS-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74458486,
+      "code": "RDS-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74458486,
+      "code": "RDS-060",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    }
+  ]
+}

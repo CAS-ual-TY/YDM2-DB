@@ -1,0 +1,130 @@
+{
+  "name": "Tournament Pack: 3rd Season",
+  "code": "TP3",
+  "type": "Tournament Pack",
+  "date": "01-03-2003",
+  "pull_type": "distribution",
+  "distribution": "tournament_pack",
+  "cards": [
+    {
+      "id": 81843628,
+      "code": "TP3-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42364257,
+      "code": "TP3-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7359741,
+      "code": "TP3-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11901678,
+      "code": "TP3-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98069388,
+      "code": "TP3-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48305365,
+      "code": "TP3-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95144193,
+      "code": "TP3-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76775123,
+      "code": "TP3-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43487744,
+      "code": "TP3-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50045299,
+      "code": "TP3-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11868825,
+      "code": "TP3-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73134082,
+      "code": "TP3-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80770678,
+      "code": "TP3-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "TP3-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54541900,
+      "code": "TP3-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17881964,
+      "code": "TP3-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90219263,
+      "code": "TP3-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21417692,
+      "code": "TP3-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68658728,
+      "code": "TP3-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28470714,
+      "code": "TP3-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "name": "Gold Series 4: Pyramids Edition",
+  "code": "GLD4",
+  "type": "Gold Series",
+  "date": "24-06-2011",
+  "pull_type": "distribution",
+  "distribution": "gold_series",
+  "cards": [
+    {
+      "id": 32012841,
+      "code": "GLD4-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24433920,
+      "code": "GLD4-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6285791,
+      "code": "GLD4-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53493204,
+      "code": "GLD4-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99426834,
+      "code": "GLD4-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50259460,
+      "code": "GLD4-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33508719,
+      "code": "GLD4-007",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67959180,
+      "code": "GLD4-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79575620,
+      "code": "GLD4-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24317029,
+      "code": "GLD4-010",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23205979,
+      "code": "GLD4-011",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9596126,
+      "code": "GLD4-012",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "GLD4-013",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73891874,
+      "code": "GLD4-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90960358,
+      "code": "GLD4-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49905576,
+      "code": "GLD4-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84177693,
+      "code": "GLD4-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29424328,
+      "code": "GLD4-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55818463,
+      "code": "GLD4-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82213171,
+      "code": "GLD4-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71717923,
+      "code": "GLD4-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40921744,
+      "code": "GLD4-022",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78700060,
+      "code": "GLD4-023",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21502796,
+      "code": "GLD4-024",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94381039,
+      "code": "GLD4-025",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11819616,
+      "code": "GLD4-026",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 423585,
+      "code": "GLD4-027",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31038159,
+      "code": "GLD4-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7634581,
+      "code": "GLD4-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10000000,
+      "code": "GLD4-030",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99267150,
+      "code": "GLD4-031",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48156348,
+      "code": "GLD4-032",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56606928,
+      "code": "GLD4-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94716515,
+      "code": "GLD4-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "GLD4-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "GLD4-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74137509,
+      "code": "GLD4-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13604200,
+      "code": "GLD4-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89997728,
+      "code": "GLD4-039",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67169062,
+      "code": "GLD4-040",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81191584,
+      "code": "GLD4-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17589298,
+      "code": "GLD4-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38120068,
+      "code": "GLD4-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67227834,
+      "code": "GLD4-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88279736,
+      "code": "GLD4-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 126218,
+      "code": "GLD4-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93016201,
+      "code": "GLD4-047",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76515293,
+      "code": "GLD4-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35027493,
+      "code": "GLD4-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59616123,
+      "code": "GLD4-050",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    }
+  ]
+}

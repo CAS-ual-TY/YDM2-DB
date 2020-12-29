@@ -1,0 +1,160 @@
+{
+  "name": "OTS Tournament Pack 13",
+  "code": "OP13",
+  "type": "OTS Tournament Pack",
+  "date": "15-06-2020",
+  "pull_type": "distribution",
+  "distribution": "ots_tournament_pack",
+  "cards": [
+    {
+      "id": 14087893,
+      "code": "OP13-001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21044178,
+      "code": "OP13-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6511113,
+      "code": "OP13-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78868119,
+      "code": "OP13-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82012319,
+      "code": "OP13-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1561110,
+      "code": "OP13-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77075360,
+      "code": "OP13-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50954680,
+      "code": "OP13-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 440556,
+      "code": "OP13-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51405049,
+      "code": "OP13-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4474060,
+      "code": "OP13-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9212051,
+      "code": "OP13-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18590133,
+      "code": "OP13-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40991587,
+      "code": "OP13-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1596508,
+      "code": "OP13-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11747708,
+      "code": "OP13-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50091196,
+      "code": "OP13-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1686814,
+      "code": "OP13-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58901502,
+      "code": "OP13-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84040113,
+      "code": "OP13-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13032689,
+      "code": "OP13-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29401950,
+      "code": "OP13-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70342110,
+      "code": "OP13-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7811875,
+      "code": "OP13-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69599136,
+      "code": "OP13-025",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

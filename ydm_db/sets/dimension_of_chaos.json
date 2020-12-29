@@ -1,0 +1,646 @@
+{
+  "name": "Dimension of Chaos",
+  "code": "DOCS",
+  "type": "Booster Pack (Series 9)",
+  "date": "10-12-2015",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 93124273,
+      "code": "DOCS-000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15978426,
+      "code": "DOCS-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52963531,
+      "code": "DOCS-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88358139,
+      "code": "DOCS-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14756848,
+      "code": "DOCS-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41141943,
+      "code": "DOCS-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87535691,
+      "code": "DOCS-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14624296,
+      "code": "DOCS-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40028305,
+      "code": "DOCS-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72413000,
+      "code": "DOCS-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19808608,
+      "code": "DOCS-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45206713,
+      "code": "DOCS-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72291412,
+      "code": "DOCS-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8785161,
+      "code": "DOCS-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45184165,
+      "code": "DOCS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71578874,
+      "code": "DOCS-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7563579,
+      "code": "DOCS-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44968687,
+      "code": "DOCS-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70456282,
+      "code": "DOCS-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7841921,
+      "code": "DOCS-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33245030,
+      "code": "DOCS-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79234734,
+      "code": "DOCS-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6628343,
+      "code": "DOCS-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32013448,
+      "code": "DOCS-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69512157,
+      "code": "DOCS-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5506791,
+      "code": "DOCS-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31991800,
+      "code": "DOCS-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68395509,
+      "code": "DOCS-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94784213,
+      "code": "DOCS-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31178212,
+      "code": "DOCS-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67273917,
+      "code": "DOCS-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93662626,
+      "code": "DOCS-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20056760,
+      "code": "DOCS-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66451379,
+      "code": "DOCS-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93445074,
+      "code": "DOCS-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29834183,
+      "code": "DOCS-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65338781,
+      "code": "DOCS-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92723496,
+      "code": "DOCS-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28112535,
+      "code": "DOCS-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55106249,
+      "code": "DOCS-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91501248,
+      "code": "DOCS-040",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 27995943,
+      "code": "DOCS-041",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 54484652,
+      "code": "DOCS-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54484652,
+      "code": "DOCS-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80889750,
+      "code": "DOCS-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27873305,
+      "code": "DOCS-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53262004,
+      "code": "DOCS-045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53262004,
+      "code": "DOCS-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80666118,
+      "code": "DOCS-046",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80666118,
+      "code": "DOCS-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80666118,
+      "code": "DOCS-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16051717,
+      "code": "DOCS-047",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16051717,
+      "code": "DOCS-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52145422,
+      "code": "DOCS-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89544521,
+      "code": "DOCS-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15939229,
+      "code": "DOCS-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52323874,
+      "code": "DOCS-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88722973,
+      "code": "DOCS-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88722973,
+      "code": "DOCS-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14816688,
+      "code": "DOCS-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41201386,
+      "code": "DOCS-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87609391,
+      "code": "DOCS-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14094090,
+      "code": "DOCS-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40089744,
+      "code": "DOCS-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76473843,
+      "code": "DOCS-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13972452,
+      "code": "DOCS-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49366157,
+      "code": "DOCS-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76751255,
+      "code": "DOCS-061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2759860,
+      "code": "DOCS-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48144509,
+      "code": "DOCS-063",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75539614,
+      "code": "DOCS-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1033312,
+      "code": "DOCS-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48422921,
+      "code": "DOCS-066",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 74416026,
+      "code": "DOCS-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 811734,
+      "code": "DOCS-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37209439,
+      "code": "DOCS-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73694478,
+      "code": "DOCS-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 799183,
+      "code": "DOCS-071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36183881,
+      "code": "DOCS-072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2572890,
+      "code": "DOCS-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49966595,
+      "code": "DOCS-074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75361204,
+      "code": "DOCS-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75249652,
+      "code": "DOCS-076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2359348,
+      "code": "DOCS-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38844957,
+      "code": "DOCS-078",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1637760,
+      "code": "DOCS-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33622465,
+      "code": "DOCS-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 20513882,
+      "code": "DOCS-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56907986,
+      "code": "DOCS-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93302695,
+      "code": "DOCS-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29491334,
+      "code": "DOCS-084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55885348,
+      "code": "DOCS-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82270047,
+      "code": "DOCS-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28674152,
+      "code": "DOCS-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55063751,
+      "code": "DOCS-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81057455,
+      "code": "DOCS-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3758046,
+      "code": "DOCS-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74605254,
+      "code": "DOCS-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11609969,
+      "code": "DOCS-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46372010,
+      "code": "DOCS-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73360025,
+      "code": "DOCS-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9765723,
+      "code": "DOCS-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46259438,
+      "code": "DOCS-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72648577,
+      "code": "DOCS-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92536468,
+      "code": "DOCS-098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74069667,
+      "code": "DOCS-099",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

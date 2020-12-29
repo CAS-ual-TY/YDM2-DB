@@ -1,0 +1,604 @@
+{
+  "name": "Star Pack VRAINS",
+  "code": "SP18",
+  "type": "Star Pack",
+  "date": "29-03-2018",
+  "pull_type": "distribution",
+  "distribution": "star_pack",
+  "cards": [
+    {
+      "id": 36211150,
+      "code": "SP18-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36211150,
+      "code": "SP18-001",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63528891,
+      "code": "SP18-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63528891,
+      "code": "SP18-002",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36033786,
+      "code": "SP18-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36033786,
+      "code": "SP18-003",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62306203,
+      "code": "SP18-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62306203,
+      "code": "SP18-004",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9523599,
+      "code": "SP18-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9523599,
+      "code": "SP18-005",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62706865,
+      "code": "SP18-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62706865,
+      "code": "SP18-006",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29716911,
+      "code": "SP18-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29716911,
+      "code": "SP18-007",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92327802,
+      "code": "SP18-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92327802,
+      "code": "SP18-008",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35595518,
+      "code": "SP18-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35595518,
+      "code": "SP18-009",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71172240,
+      "code": "SP18-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71172240,
+      "code": "SP18-010",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18789533,
+      "code": "SP18-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18789533,
+      "code": "SP18-011",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7445307,
+      "code": "SP18-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7445307,
+      "code": "SP18-012",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 209710,
+      "code": "SP18-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 209710,
+      "code": "SP18-013",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60349525,
+      "code": "SP18-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60349525,
+      "code": "SP18-014",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97466712,
+      "code": "SP18-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97466712,
+      "code": "SP18-015",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23850421,
+      "code": "SP18-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23850421,
+      "code": "SP18-016",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60461077,
+      "code": "SP18-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60461077,
+      "code": "SP18-017",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24073068,
+      "code": "SP18-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24073068,
+      "code": "SP18-018",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97688360,
+      "code": "SP18-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97688360,
+      "code": "SP18-019",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61283655,
+      "code": "SP18-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61283655,
+      "code": "SP18-020",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98700941,
+      "code": "SP18-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98700941,
+      "code": "SP18-021",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35199656,
+      "code": "SP18-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35199656,
+      "code": "SP18-022",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91505214,
+      "code": "SP18-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91505214,
+      "code": "SP18-023",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28593329,
+      "code": "SP18-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28593329,
+      "code": "SP18-024",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91482773,
+      "code": "SP18-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91482773,
+      "code": "SP18-025",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27877771,
+      "code": "SP18-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27877771,
+      "code": "SP18-026",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63092423,
+      "code": "SP18-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63092423,
+      "code": "SP18-027",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53143898,
+      "code": "SP18-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53143898,
+      "code": "SP18-028",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52927340,
+      "code": "SP18-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52927340,
+      "code": "SP18-029",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89538537,
+      "code": "SP18-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89538537,
+      "code": "SP18-030",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1861629,
+      "code": "SP18-031",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67231737,
+      "code": "SP18-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67231737,
+      "code": "SP18-032",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34472920,
+      "code": "SP18-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34472920,
+      "code": "SP18-033",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78437364,
+      "code": "SP18-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78437364,
+      "code": "SP18-034",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30010480,
+      "code": "SP18-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30010480,
+      "code": "SP18-035",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66015185,
+      "code": "SP18-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66015185,
+      "code": "SP18-036",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93503294,
+      "code": "SP18-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93503294,
+      "code": "SP18-037",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91665064,
+      "code": "SP18-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91665064,
+      "code": "SP18-038",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62376646,
+      "code": "SP18-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62376646,
+      "code": "SP18-039",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35371948,
+      "code": "SP18-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35371948,
+      "code": "SP18-040",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28053763,
+      "code": "SP18-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28053763,
+      "code": "SP18-041",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98864751,
+      "code": "SP18-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98864751,
+      "code": "SP18-042",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 269510,
+      "code": "SP18-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 269510,
+      "code": "SP18-043",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91269402,
+      "code": "SP18-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91269402,
+      "code": "SP18-044",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95081386,
+      "code": "SP18-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95081386,
+      "code": "SP18-045",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58464739,
+      "code": "SP18-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58464739,
+      "code": "SP18-046",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80143954,
+      "code": "SP18-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80143954,
+      "code": "SP18-047",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27541563,
+      "code": "SP18-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27541563,
+      "code": "SP18-048",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53936268,
+      "code": "SP18-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53936268,
+      "code": "SP18-049",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27664101,
+      "code": "SP18-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27664101,
+      "code": "SP18-050",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    }
+  ]
+}

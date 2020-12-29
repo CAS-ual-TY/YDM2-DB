@@ -1,0 +1,17 @@
+{
+  "name": "duelist_saga__1",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

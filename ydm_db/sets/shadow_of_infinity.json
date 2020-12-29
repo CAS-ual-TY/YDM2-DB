@@ -1,0 +1,520 @@
+{
+  "name": "Shadow of Infinity",
+  "code": "SOI",
+  "type": "Booster Pack (Series 4)",
+  "date": "01-04-2006",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 6007213,
+      "code": "SOI-001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6007213,
+      "code": "SOI-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32491822,
+      "code": "SOI-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32491822,
+      "code": "SOI-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69890967,
+      "code": "SOI-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69890967,
+      "code": "SOI-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5285665,
+      "code": "SOI-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32679370,
+      "code": "SOI-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68774379,
+      "code": "SOI-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68774379,
+      "code": "SOI-006",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4162088,
+      "code": "SOI-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4162088,
+      "code": "SOI-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31557782,
+      "code": "SOI-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80045583,
+      "code": "SOI-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26439287,
+      "code": "SOI-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26439287,
+      "code": "SOI-010",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53828396,
+      "code": "SOI-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53828396,
+      "code": "SOI-011",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89222931,
+      "code": "SOI-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15317640,
+      "code": "SOI-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15317640,
+      "code": "SOI-013",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52702748,
+      "code": "SOI-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88190453,
+      "code": "SOI-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15595052,
+      "code": "SOI-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41589166,
+      "code": "SOI-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87978805,
+      "code": "SOI-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14472500,
+      "code": "SOI-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40867519,
+      "code": "SOI-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77252217,
+      "code": "SOI-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77252217,
+      "code": "SOI-021",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13250922,
+      "code": "SOI-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49645921,
+      "code": "SOI-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76039636,
+      "code": "SOI-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76039636,
+      "code": "SOI-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12538374,
+      "code": "SOI-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12538374,
+      "code": "SOI-025",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49522489,
+      "code": "SOI-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75917088,
+      "code": "SOI-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75917088,
+      "code": "SOI-027",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2316186,
+      "code": "SOI-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2316186,
+      "code": "SOI-028",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48700891,
+      "code": "SOI-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48700891,
+      "code": "SOI-029",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14255590,
+      "code": "SOI-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41249545,
+      "code": "SOI-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73648243,
+      "code": "SOI-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10032958,
+      "code": "SOI-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10032958,
+      "code": "SOI-033",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46427957,
+      "code": "SOI-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46427957,
+      "code": "SOI-034",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72426662,
+      "code": "SOI-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72426662,
+      "code": "SOI-035",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9910360,
+      "code": "SOI-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67951831,
+      "code": "SOI-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94940436,
+      "code": "SOI-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30435145,
+      "code": "SOI-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67829249,
+      "code": "SOI-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93224848,
+      "code": "SOI-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93224848,
+      "code": "SOI-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29612557,
+      "code": "SOI-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29612557,
+      "code": "SOI-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45305419,
+      "code": "SOI-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72709014,
+      "code": "SOI-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66607691,
+      "code": "SOI-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8198712,
+      "code": "SOI-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92001300,
+      "code": "SOI-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92001300,
+      "code": "SOI-047",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44182827,
+      "code": "SOI-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29590905,
+      "code": "SOI-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55985014,
+      "code": "SOI-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91989718,
+      "code": "SOI-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28378427,
+      "code": "SOI-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28378427,
+      "code": "SOI-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71587526,
+      "code": "SOI-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71587526,
+      "code": "SOI-053",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7076131,
+      "code": "SOI-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34460239,
+      "code": "SOI-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70865988,
+      "code": "SOI-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6859683,
+      "code": "SOI-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33248692,
+      "code": "SOI-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33248692,
+      "code": "SOI-058",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69632396,
+      "code": "SOI-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69632396,
+      "code": "SOI-059",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6137095,
+      "code": "SOI-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6137095,
+      "code": "SOI-060",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    }
+  ]
+}

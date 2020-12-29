@@ -1,0 +1,17 @@
+{
+  "name": "world_championship_2011_card_pack",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

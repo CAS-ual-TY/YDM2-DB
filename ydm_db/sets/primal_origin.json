@@ -1,0 +1,646 @@
+{
+  "name": "Primal Origin",
+  "code": "PRIO",
+  "type": "Booster Pack (Series 8)",
+  "date": "12-06-2014",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 20292186,
+      "code": "PRIO-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51865604,
+      "code": "PRIO-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98263709,
+      "code": "PRIO-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24658418,
+      "code": "PRIO-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51043053,
+      "code": "PRIO-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87047161,
+      "code": "PRIO-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23536866,
+      "code": "PRIO-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50920465,
+      "code": "PRIO-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86325573,
+      "code": "PRIO-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13313278,
+      "code": "PRIO-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59708927,
+      "code": "PRIO-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85103922,
+      "code": "PRIO-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12697630,
+      "code": "PRIO-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48086335,
+      "code": "PRIO-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85080444,
+      "code": "PRIO-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11475049,
+      "code": "PRIO-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47863787,
+      "code": "PRIO-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84268896,
+      "code": "PRIO-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10753491,
+      "code": "PRIO-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47741109,
+      "code": "PRIO-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73136204,
+      "code": "PRIO-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10530913,
+      "code": "PRIO-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46925518,
+      "code": "PRIO-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72913666,
+      "code": "PRIO-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9418365,
+      "code": "PRIO-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45803070,
+      "code": "PRIO-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72291078,
+      "code": "PRIO-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8696773,
+      "code": "PRIO-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34680482,
+      "code": "PRIO-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71175527,
+      "code": "PRIO-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7573135,
+      "code": "PRIO-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34968834,
+      "code": "PRIO-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60953949,
+      "code": "PRIO-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6351548,
+      "code": "PRIO-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33746252,
+      "code": "PRIO-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69230391,
+      "code": "PRIO-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6625096,
+      "code": "PRIO-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32623004,
+      "code": "PRIO-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68018709,
+      "code": "PRIO-038",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 95403418,
+      "code": "PRIO-039",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 31801517,
+      "code": "PRIO-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31801517,
+      "code": "PRIO-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68396121,
+      "code": "PRIO-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68396121,
+      "code": "PRIO-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94380860,
+      "code": "PRIO-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20785975,
+      "code": "PRIO-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67173574,
+      "code": "PRIO-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67173574,
+      "code": "PRIO-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93568288,
+      "code": "PRIO-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20563387,
+      "code": "PRIO-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56051086,
+      "code": "PRIO-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32446630,
+      "code": "PRIO-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69840739,
+      "code": "PRIO-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69840739,
+      "code": "PRIO-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95239444,
+      "code": "PRIO-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32224143,
+      "code": "PRIO-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68618157,
+      "code": "PRIO-052",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68618157,
+      "code": "PRIO-052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68618157,
+      "code": "PRIO-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95113856,
+      "code": "PRIO-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21501505,
+      "code": "PRIO-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67556500,
+      "code": "PRIO-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94950218,
+      "code": "PRIO-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20349913,
+      "code": "PRIO-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57734012,
+      "code": "PRIO-058",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93238626,
+      "code": "PRIO-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29223325,
+      "code": "PRIO-060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56611470,
+      "code": "PRIO-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82016179,
+      "code": "PRIO-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29400787,
+      "code": "PRIO-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55599882,
+      "code": "PRIO-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81994591,
+      "code": "PRIO-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28388296,
+      "code": "PRIO-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54773234,
+      "code": "PRIO-067",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81171949,
+      "code": "PRIO-068",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 13166648,
+      "code": "PRIO-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59650656,
+      "code": "PRIO-070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86049351,
+      "code": "PRIO-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12444060,
+      "code": "PRIO-072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49838105,
+      "code": "PRIO-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85827713,
+      "code": "PRIO-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11221418,
+      "code": "PRIO-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48716527,
+      "code": "PRIO-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74100225,
+      "code": "PRIO-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11109820,
+      "code": "PRIO-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47594939,
+      "code": "PRIO-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73988674,
+      "code": "PRIO-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 57690191,
+      "code": "PRIO-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93085839,
+      "code": "PRIO-082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20579538,
+      "code": "PRIO-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56574543,
+      "code": "PRIO-084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82962242,
+      "code": "PRIO-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29357956,
+      "code": "PRIO-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55742055,
+      "code": "PRIO-087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82140600,
+      "code": "PRIO-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18235309,
+      "code": "PRIO-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48531733,
+      "code": "PRIO-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6901008,
+      "code": "PRIO-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10389142,
+      "code": "PRIO-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51852507,
+      "code": "PRIO-093",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41493640,
+      "code": "PRIO-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76543119,
+      "code": "PRIO-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2648201,
+      "code": "PRIO-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1426714,
+      "code": "PRIO-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9024367,
+      "code": "PRIO-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36029076,
+      "code": "PRIO-099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Turbo Pack: Booster Five",
+  "code": "TU05",
+  "type": "Turbo Pack",
+  "date": "09-04-2011",
+  "pull_type": "distribution",
+  "distribution": "turbo_pack",
+  "cards": [
+    {
+      "id": 23693634,
+      "code": "TU05-000",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "TU05-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78868776,
+      "code": "TU05-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91133740,
+      "code": "TU05-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72345736,
+      "code": "TU05-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93260132,
+      "code": "TU05-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51119924,
+      "code": "TU05-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58996430,
+      "code": "TU05-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33093439,
+      "code": "TU05-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "TU05-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31550470,
+      "code": "TU05-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79852326,
+      "code": "TU05-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95492061,
+      "code": "TU05-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44223284,
+      "code": "TU05-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65685470,
+      "code": "TU05-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88671720,
+      "code": "TU05-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60417395,
+      "code": "TU05-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45906428,
+      "code": "TU05-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30683373,
+      "code": "TU05-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3819470,
+      "code": "TU05-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33950246,
+      "code": "TU05-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

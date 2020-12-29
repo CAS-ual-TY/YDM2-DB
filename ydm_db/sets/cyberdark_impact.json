@@ -1,0 +1,520 @@
+{
+  "name": "Cyberdark Impact",
+  "code": "CDIP",
+  "type": "Booster Pack (Series 5)",
+  "date": "15-11-2006",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 41230939,
+      "code": "CDIP-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41230939,
+      "code": "CDIP-001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77625948,
+      "code": "CDIP-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77625948,
+      "code": "CDIP-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3019642,
+      "code": "CDIP-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3019642,
+      "code": "CDIP-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64268668,
+      "code": "CDIP-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91663373,
+      "code": "CDIP-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91663373,
+      "code": "CDIP-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87257460,
+      "code": "CDIP-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23756165,
+      "code": "CDIP-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23756165,
+      "code": "CDIP-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50140163,
+      "code": "CDIP-008",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50140163,
+      "code": "CDIP-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85313220,
+      "code": "CDIP-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12817939,
+      "code": "CDIP-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12817939,
+      "code": "CDIP-010",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58206034,
+      "code": "CDIP-011",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58206034,
+      "code": "CDIP-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86209650,
+      "code": "CDIP-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12694768,
+      "code": "CDIP-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58098303,
+      "code": "CDIP-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84290642,
+      "code": "CDIP-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11685347,
+      "code": "CDIP-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47084486,
+      "code": "CDIP-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47084486,
+      "code": "CDIP-017",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84478195,
+      "code": "CDIP-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10963799,
+      "code": "CDIP-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47961808,
+      "code": "CDIP-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73356503,
+      "code": "CDIP-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19740112,
+      "code": "CDIP-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46145256,
+      "code": "CDIP-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72634965,
+      "code": "CDIP-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72634965,
+      "code": "CDIP-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9628664,
+      "code": "CDIP-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9628664,
+      "code": "CDIP-025",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45023678,
+      "code": "CDIP-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45023678,
+      "code": "CDIP-026",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71411377,
+      "code": "CDIP-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8806072,
+      "code": "CDIP-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44800181,
+      "code": "CDIP-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44800181,
+      "code": "CDIP-029",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71395725,
+      "code": "CDIP-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3784434,
+      "code": "CDIP-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3784434,
+      "code": "CDIP-031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39188539,
+      "code": "CDIP-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39188539,
+      "code": "CDIP-032",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76573247,
+      "code": "CDIP-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99532708,
+      "code": "CDIP-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40418351,
+      "code": "CDIP-035",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40418351,
+      "code": "CDIP-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37057012,
+      "code": "CDIP-036",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37057012,
+      "code": "CDIP-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2561846,
+      "code": "CDIP-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39956951,
+      "code": "CDIP-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39956951,
+      "code": "CDIP-038",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65450690,
+      "code": "CDIP-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1845204,
+      "code": "CDIP-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38834303,
+      "code": "CDIP-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64238008,
+      "code": "CDIP-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91623717,
+      "code": "CDIP-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37011715,
+      "code": "CDIP-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37011715,
+      "code": "CDIP-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63516460,
+      "code": "CDIP-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90500169,
+      "code": "CDIP-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36995273,
+      "code": "CDIP-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36995273,
+      "code": "CDIP-047",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63394872,
+      "code": "CDIP-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99788587,
+      "code": "CDIP-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99788587,
+      "code": "CDIP-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25173686,
+      "code": "CDIP-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62271284,
+      "code": "CDIP-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98666339,
+      "code": "CDIP-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98666339,
+      "code": "CDIP-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25050038,
+      "code": "CDIP-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51449743,
+      "code": "CDIP-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36935434,
+      "code": "CDIP-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63323539,
+      "code": "CDIP-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63323539,
+      "code": "CDIP-056",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98444741,
+      "code": "CDIP-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90440725,
+      "code": "CDIP-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90440725,
+      "code": "CDIP-058",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24838456,
+      "code": "CDIP-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50323155,
+      "code": "CDIP-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50323155,
+      "code": "CDIP-060",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    }
+  ]
+}

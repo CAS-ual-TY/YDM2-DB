@@ -1,0 +1,646 @@
+{
+  "name": "Duelist Alliance",
+  "code": "DUEA",
+  "type": "Booster Pack (Series 9)",
+  "date": "11-09-2014",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 21970285,
+      "code": "DUEA-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17390179,
+      "code": "DUEA-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43785278,
+      "code": "DUEA-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89189982,
+      "code": "DUEA-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16178681,
+      "code": "DUEA-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16178681,
+      "code": "DUEA-004",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42562690,
+      "code": "DUEA-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79967395,
+      "code": "DUEA-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15452043,
+      "code": "DUEA-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41440148,
+      "code": "DUEA-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78835747,
+      "code": "DUEA-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4239451,
+      "code": "DUEA-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41628550,
+      "code": "DUEA-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77013169,
+      "code": "DUEA-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3117804,
+      "code": "DUEA-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40502912,
+      "code": "DUEA-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76990617,
+      "code": "DUEA-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3395226,
+      "code": "DUEA-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39389320,
+      "code": "DUEA-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75878039,
+      "code": "DUEA-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2273734,
+      "code": "DUEA-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38667773,
+      "code": "DUEA-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65056481,
+      "code": "DUEA-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1050186,
+      "code": "DUEA-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37445295,
+      "code": "DUEA-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4939890,
+      "code": "DUEA-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30328508,
+      "code": "DUEA-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77723643,
+      "code": "DUEA-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3717252,
+      "code": "DUEA-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30106950,
+      "code": "DUEA-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66500065,
+      "code": "DUEA-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2095764,
+      "code": "DUEA-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35089369,
+      "code": "DUEA-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61488417,
+      "code": "DUEA-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8873112,
+      "code": "DUEA-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34267821,
+      "code": "DUEA-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60666820,
+      "code": "DUEA-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97750534,
+      "code": "DUEA-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33145233,
+      "code": "DUEA-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60549248,
+      "code": "DUEA-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96938986,
+      "code": "DUEA-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22923081,
+      "code": "DUEA-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69327790,
+      "code": "DUEA-041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95816395,
+      "code": "DUEA-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22200403,
+      "code": "DUEA-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58695102,
+      "code": "DUEA-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94693857,
+      "code": "DUEA-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21088856,
+      "code": "DUEA-046",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 57473560,
+      "code": "DUEA-047",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 94977269,
+      "code": "DUEA-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20366274,
+      "code": "DUEA-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20366274,
+      "code": "DUEA-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56350972,
+      "code": "DUEA-050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56350972,
+      "code": "DUEA-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83755611,
+      "code": "DUEA-051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83755611,
+      "code": "DUEA-051",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29143726,
+      "code": "DUEA-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56638325,
+      "code": "DUEA-053",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56638325,
+      "code": "DUEA-053",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56638325,
+      "code": "DUEA-053",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82633039,
+      "code": "DUEA-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18027138,
+      "code": "DUEA-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55416843,
+      "code": "DUEA-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81810441,
+      "code": "DUEA-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18205590,
+      "code": "DUEA-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44394295,
+      "code": "DUEA-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81788994,
+      "code": "DUEA-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17183908,
+      "code": "DUEA-061",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43577607,
+      "code": "DUEA-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80566312,
+      "code": "DUEA-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16960351,
+      "code": "DUEA-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43455065,
+      "code": "DUEA-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79844764,
+      "code": "DUEA-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15248873,
+      "code": "DUEA-067",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 42233477,
+      "code": "DUEA-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78621186,
+      "code": "DUEA-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5026221,
+      "code": "DUEA-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41510920,
+      "code": "DUEA-071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77505534,
+      "code": "DUEA-072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4904633,
+      "code": "DUEA-073",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30398342,
+      "code": "DUEA-074",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77783947,
+      "code": "DUEA-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3171055,
+      "code": "DUEA-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39276790,
+      "code": "DUEA-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76660409,
+      "code": "DUEA-078",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2055403,
+      "code": "DUEA-079",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39454112,
+      "code": "DUEA-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 58369990,
+      "code": "DUEA-081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84764038,
+      "code": "DUEA-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20758643,
+      "code": "DUEA-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57143342,
+      "code": "DUEA-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83531441,
+      "code": "DUEA-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20036055,
+      "code": "DUEA-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56421754,
+      "code": "DUEA-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82419869,
+      "code": "DUEA-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19814508,
+      "code": "DUEA-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14882493,
+      "code": "DUEA-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40371092,
+      "code": "DUEA-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76766706,
+      "code": "DUEA-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3160805,
+      "code": "DUEA-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93108839,
+      "code": "DUEA-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73176465,
+      "code": "DUEA-095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10560119,
+      "code": "DUEA-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72959823,
+      "code": "DUEA-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9348522,
+      "code": "DUEA-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45742626,
+      "code": "DUEA-099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

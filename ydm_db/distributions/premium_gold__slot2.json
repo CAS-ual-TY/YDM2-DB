@@ -1,0 +1,17 @@
+{
+  "name": "premium_gold__slot2",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 1,
+          "rarities": [
+            "Gold Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

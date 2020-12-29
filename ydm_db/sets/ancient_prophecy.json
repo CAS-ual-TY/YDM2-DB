@@ -1,0 +1,676 @@
+{
+  "name": "Ancient Prophecy",
+  "code": "ANPR",
+  "type": "Booster Pack (Series 6)",
+  "date": "09-10-2009",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 42024143,
+      "code": "ANPR-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47432275,
+      "code": "ANPR-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73837870,
+      "code": "ANPR-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10321588,
+      "code": "ANPR-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46710683,
+      "code": "ANPR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72714392,
+      "code": "ANPR-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72714392,
+      "code": "ANPR-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9109991,
+      "code": "ANPR-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45593005,
+      "code": "ANPR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72992744,
+      "code": "ANPR-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8487449,
+      "code": "ANPR-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34471458,
+      "code": "ANPR-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71870152,
+      "code": "ANPR-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7264861,
+      "code": "ANPR-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34659866,
+      "code": "ANPR-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70054514,
+      "code": "ANPR-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6142213,
+      "code": "ANPR-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33537328,
+      "code": "ANPR-016",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33537328,
+      "code": "ANPR-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69931927,
+      "code": "ANPR-017",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69931927,
+      "code": "ANPR-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6320631,
+      "code": "ANPR-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32314730,
+      "code": "ANPR-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68809475,
+      "code": "ANPR-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95204084,
+      "code": "ANPR-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31692182,
+      "code": "ANPR-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68087897,
+      "code": "ANPR-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94081496,
+      "code": "ANPR-024",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 20470500,
+      "code": "ANPR-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67964209,
+      "code": "ANPR-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93369354,
+      "code": "ANPR-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20358953,
+      "code": "ANPR-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62742651,
+      "code": "ANPR-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98147766,
+      "code": "ANPR-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25531465,
+      "code": "ANPR-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51020079,
+      "code": "ANPR-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98024118,
+      "code": "ANPR-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24419823,
+      "code": "ANPR-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51808422,
+      "code": "ANPR-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87292536,
+      "code": "ANPR-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23297235,
+      "code": "ANPR-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50781944,
+      "code": "ANPR-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86170989,
+      "code": "ANPR-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25862681,
+      "code": "ANPR-040",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25862681,
+      "code": "ANPR-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25862681,
+      "code": "ANPR-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13574687,
+      "code": "ANPR-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59969392,
+      "code": "ANPR-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25958491,
+      "code": "ANPR-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25958491,
+      "code": "ANPR-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52352005,
+      "code": "ANPR-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52352005,
+      "code": "ANPR-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98847704,
+      "code": "ANPR-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25231813,
+      "code": "ANPR-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51630558,
+      "code": "ANPR-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87624166,
+      "code": "ANPR-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24019261,
+      "code": "ANPR-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50418970,
+      "code": "ANPR-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87902575,
+      "code": "ANPR-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13997673,
+      "code": "ANPR-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59385322,
+      "code": "ANPR-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86780027,
+      "code": "ANPR-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12174035,
+      "code": "ANPR-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49669730,
+      "code": "ANPR-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85668449,
+      "code": "ANPR-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11052544,
+      "code": "ANPR-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48447192,
+      "code": "ANPR-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74845897,
+      "code": "ANPR-060",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 11830996,
+      "code": "ANPR-061",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 47325505,
+      "code": "ANPR-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73729209,
+      "code": "ANPR-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10118318,
+      "code": "ANPR-064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46502013,
+      "code": "ANPR-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73507661,
+      "code": "ANPR-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9995766,
+      "code": "ANPR-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46480475,
+      "code": "ANPR-068",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72885174,
+      "code": "ANPR-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8279188,
+      "code": "ANPR-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35268887,
+      "code": "ANPR-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71652522,
+      "code": "ANPR-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8057630,
+      "code": "ANPR-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34545235,
+      "code": "ANPR-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60530944,
+      "code": "ANPR-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7935043,
+      "code": "ANPR-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33323657,
+      "code": "ANPR-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60718396,
+      "code": "ANPR-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6112401,
+      "code": "ANPR-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32207100,
+      "code": "ANPR-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 78422252,
+      "code": "ANPR-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5817857,
+      "code": "ANPR-082",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5817857,
+      "code": "ANPR-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41201555,
+      "code": "ANPR-083",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41201555,
+      "code": "ANPR-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77600660,
+      "code": "ANPR-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4694209,
+      "code": "ANPR-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40189917,
+      "code": "ANPR-086",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40189917,
+      "code": "ANPR-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77584012,
+      "code": "ANPR-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3972721,
+      "code": "ANPR-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39967326,
+      "code": "ANPR-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6150044,
+      "code": "ANPR-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43378048,
+      "code": "ANPR-091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79473793,
+      "code": "ANPR-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42256406,
+      "code": "ANPR-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14258627,
+      "code": "ANPR-094",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14258627,
+      "code": "ANPR-094",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41753322,
+      "code": "ANPR-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37955049,
+      "code": "ANPR-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19028307,
+      "code": "ANPR-097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52512994,
+      "code": "ANPR-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16304628,
+      "code": "ANPR-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

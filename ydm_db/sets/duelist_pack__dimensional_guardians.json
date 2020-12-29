@@ -1,0 +1,280 @@
+{
+  "name": "Duelist Pack: Dimensional Guardians",
+  "code": "DPDG",
+  "type": "Duelist Pack",
+  "date": "25-05-2017",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 82768499,
+      "code": "DPDG-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66768175,
+      "code": "DPDG-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92767273,
+      "code": "DPDG-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28151978,
+      "code": "DPDG-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65646587,
+      "code": "DPDG-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91034681,
+      "code": "DPDG-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28039390,
+      "code": "DPDG-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54423935,
+      "code": "DPDG-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2158562,
+      "code": "DPDG-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42600274,
+      "code": "DPDG-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11460577,
+      "code": "DPDG-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76103404,
+      "code": "DPDG-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78316184,
+      "code": "DPDG-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39618799,
+      "code": "DPDG-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77235086,
+      "code": "DPDG-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3629090,
+      "code": "DPDG-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39996157,
+      "code": "DPDG-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11398951,
+      "code": "DPDG-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95658967,
+      "code": "DPDG-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97021916,
+      "code": "DPDG-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77360173,
+      "code": "DPDG-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13764881,
+      "code": "DPDG-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40159926,
+      "code": "DPDG-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40975574,
+      "code": "DPDG-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45313993,
+      "code": "DPDG-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72318602,
+      "code": "DPDG-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14886469,
+      "code": "DPDG-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8706701,
+      "code": "DPDG-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23008320,
+      "code": "DPDG-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16172067,
+      "code": "DPDG-030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80666118,
+      "code": "DPDG-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76547525,
+      "code": "DPDG-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78161960,
+      "code": "DPDG-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27503418,
+      "code": "DPDG-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81974607,
+      "code": "DPDG-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21999001,
+      "code": "DPDG-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58383100,
+      "code": "DPDG-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79094383,
+      "code": "DPDG-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12632096,
+      "code": "DPDG-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18963306,
+      "code": "DPDG-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61344030,
+      "code": "DPDG-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47882565,
+      "code": "DPDG-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63992027,
+      "code": "DPDG-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99397762,
+      "code": "DPDG-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98905,
+      "code": "DPDG-045",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

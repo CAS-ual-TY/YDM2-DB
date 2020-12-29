@@ -1,0 +1,130 @@
+{
+  "name": "Champion Pack: Game Four",
+  "code": "CP04",
+  "type": "Champion Pack",
+  "date": "06-09-2007",
+  "pull_type": "distribution",
+  "distribution": "champion_pack",
+  "cards": [
+    {
+      "id": 77936940,
+      "code": "CP04-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80604092,
+      "code": "CP04-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29401950,
+      "code": "CP04-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9156135,
+      "code": "CP04-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22587018,
+      "code": "CP04-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17375316,
+      "code": "CP04-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16556849,
+      "code": "CP04-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31423101,
+      "code": "CP04-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27174286,
+      "code": "CP04-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79853073,
+      "code": "CP04-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50755,
+      "code": "CP04-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "CP04-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57839750,
+      "code": "CP04-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13676474,
+      "code": "CP04-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47606319,
+      "code": "CP04-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88279736,
+      "code": "CP04-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95492061,
+      "code": "CP04-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98446407,
+      "code": "CP04-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48092532,
+      "code": "CP04-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12538374,
+      "code": "CP04-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

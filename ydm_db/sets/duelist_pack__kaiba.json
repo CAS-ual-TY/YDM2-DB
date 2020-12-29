@@ -1,0 +1,250 @@
+{
+  "name": "Duelist Pack: Kaiba",
+  "code": "DPKB",
+  "type": "Duelist Pack",
+  "date": "16-04-2010",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "DPKB-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76184692,
+      "code": "DPKB-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30113682,
+      "code": "DPKB-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50005633,
+      "code": "DPKB-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97590747,
+      "code": "DPKB-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66602787,
+      "code": "DPKB-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62651957,
+      "code": "DPKB-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14898066,
+      "code": "DPKB-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17985575,
+      "code": "DPKB-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34124316,
+      "code": "DPKB-010",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65622692,
+      "code": "DPKB-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64500000,
+      "code": "DPKB-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53839837,
+      "code": "DPKB-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50939127,
+      "code": "DPKB-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52824910,
+      "code": "DPKB-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82301904,
+      "code": "DPKB-016",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17444133,
+      "code": "DPKB-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76909279,
+      "code": "DPKB-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52624755,
+      "code": "DPKB-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89731911,
+      "code": "DPKB-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54912977,
+      "code": "DPKB-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79814787,
+      "code": "DPKB-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9433350,
+      "code": "DPKB-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73398797,
+      "code": "DPKB-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91998119,
+      "code": "DPKB-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23995346,
+      "code": "DPKB-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62873545,
+      "code": "DPKB-027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "DPKB-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "DPKB-029",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43973174,
+      "code": "DPKB-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61844784,
+      "code": "DPKB-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9786492,
+      "code": "DPKB-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23265313,
+      "code": "DPKB-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58641905,
+      "code": "DPKB-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24874630,
+      "code": "DPKB-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "DPKB-036",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36261276,
+      "code": "DPKB-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27174286,
+      "code": "DPKB-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57728570,
+      "code": "DPKB-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86871614,
+      "code": "DPKB-040",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

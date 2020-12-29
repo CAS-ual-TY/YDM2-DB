@@ -1,0 +1,130 @@
+{
+  "name": "Champion Pack: Game One",
+  "code": "CP01",
+  "type": "Champion Pack",
+  "date": "11-11-2006",
+  "pull_type": "distribution",
+  "distribution": "champion_pack",
+  "cards": [
+    {
+      "id": 50400231,
+      "code": "CP01-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "CP01-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46411259,
+      "code": "CP01-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "CP01-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16226786,
+      "code": "CP01-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65240384,
+      "code": "CP01-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23171610,
+      "code": "CP01-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "CP01-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2851070,
+      "code": "CP01-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "CP01-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67169062,
+      "code": "CP01-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15510988,
+      "code": "CP01-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1347977,
+      "code": "CP01-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83986578,
+      "code": "CP01-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69279219,
+      "code": "CP01-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95308449,
+      "code": "CP01-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82108372,
+      "code": "CP01-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3510565,
+      "code": "CP01-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75043725,
+      "code": "CP01-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36361633,
+      "code": "CP01-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

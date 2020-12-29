@@ -1,0 +1,130 @@
+{
+  "name": "Tournament Pack 8",
+  "code": "TP8",
+  "type": "Tournament Pack",
+  "date": "28-04-2006",
+  "pull_type": "distribution",
+  "distribution": "tournament_pack",
+  "cards": [
+    {
+      "id": 96008713,
+      "code": "TP8-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18144507,
+      "code": "TP8-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78636495,
+      "code": "TP8-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12493482,
+      "code": "TP8-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90844184,
+      "code": "TP8-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51945556,
+      "code": "TP8-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60229110,
+      "code": "TP8-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4929256,
+      "code": "TP8-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26205777,
+      "code": "TP8-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78577570,
+      "code": "TP8-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39168895,
+      "code": "TP8-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80604092,
+      "code": "TP8-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19737320,
+      "code": "TP8-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94022093,
+      "code": "TP8-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94042337,
+      "code": "TP8-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 732302,
+      "code": "TP8-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34743446,
+      "code": "TP8-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17238333,
+      "code": "TP8-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15507080,
+      "code": "TP8-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61454890,
+      "code": "TP8-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "name": "Spirit Warriors",
+  "code": "SPWA",
+  "type": "Deck Build Pack",
+  "date": "16-11-2017",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 71207871,
+      "code": "SPWA-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7291576,
+      "code": "SPWA-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44686185,
+      "code": "SPWA-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70180284,
+      "code": "SPWA-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6579928,
+      "code": "SPWA-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33964637,
+      "code": "SPWA-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79968632,
+      "code": "SPWA-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6357341,
+      "code": "SPWA-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83039729,
+      "code": "SPWA-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49721904,
+      "code": "SPWA-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29981921,
+      "code": "SPWA-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1828513,
+      "code": "SPWA-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72345736,
+      "code": "SPWA-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27970830,
+      "code": "SPWA-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54031490,
+      "code": "SPWA-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32841045,
+      "code": "SPWA-016",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68246154,
+      "code": "SPWA-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5230799,
+      "code": "SPWA-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31629407,
+      "code": "SPWA-019",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68024506,
+      "code": "SPWA-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94418111,
+      "code": "SPWA-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30907810,
+      "code": "SPWA-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67901914,
+      "code": "SPWA-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93356623,
+      "code": "SPWA-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20745268,
+      "code": "SPWA-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66149377,
+      "code": "SPWA-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92534075,
+      "code": "SPWA-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29628180,
+      "code": "SPWA-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65017789,
+      "code": "SPWA-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92411493,
+      "code": "SPWA-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28806532,
+      "code": "SPWA-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54895237,
+      "code": "SPWA-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91299846,
+      "code": "SPWA-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27784944,
+      "code": "SPWA-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54178659,
+      "code": "SPWA-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80577258,
+      "code": "SPWA-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27561302,
+      "code": "SPWA-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53956001,
+      "code": "SPWA-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89355716,
+      "code": "SPWA-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16849715,
+      "code": "SPWA-040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52834429,
+      "code": "SPWA-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78792195,
+      "code": "SPWA-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2511717,
+      "code": "SPWA-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48505422,
+      "code": "SPWA-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74094021,
+      "code": "SPWA-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98126725,
+      "code": "SPWA-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37742478,
+      "code": "SPWA-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27821104,
+      "code": "SPWA-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47436247,
+      "code": "SPWA-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9354555,
+      "code": "SPWA-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86825483,
+      "code": "SPWA-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46874015,
+      "code": "SPWA-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32603633,
+      "code": "SPWA-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21007444,
+      "code": "SPWA-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41458579,
+      "code": "SPWA-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78621186,
+      "code": "SPWA-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16255442,
+      "code": "SPWA-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98427577,
+      "code": "SPWA-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48497555,
+      "code": "SPWA-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80551130,
+      "code": "SPWA-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

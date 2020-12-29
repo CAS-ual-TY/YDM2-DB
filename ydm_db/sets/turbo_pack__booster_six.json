@@ -1,0 +1,136 @@
+{
+  "name": "Turbo Pack: Booster Six",
+  "code": "TU06",
+  "type": "Turbo Pack",
+  "date": "04-08-2011",
+  "pull_type": "distribution",
+  "distribution": "turbo_pack",
+  "cards": [
+    {
+      "id": 65192027,
+      "code": "TU06-000",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "TU06-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57139487,
+      "code": "TU06-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39191307,
+      "code": "TU06-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93369354,
+      "code": "TU06-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20932152,
+      "code": "TU06-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17259470,
+      "code": "TU06-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44508094,
+      "code": "TU06-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70902743,
+      "code": "TU06-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71645242,
+      "code": "TU06-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29071332,
+      "code": "TU06-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17573739,
+      "code": "TU06-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33550694,
+      "code": "TU06-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79853073,
+      "code": "TU06-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61831093,
+      "code": "TU06-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31036355,
+      "code": "TU06-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28553439,
+      "code": "TU06-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32296881,
+      "code": "TU06-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33846209,
+      "code": "TU06-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9666558,
+      "code": "TU06-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66094973,
+      "code": "TU06-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

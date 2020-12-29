@@ -1,0 +1,670 @@
+{
+  "name": "Gladiator\u0027s Assault",
+  "code": "GLAS",
+  "type": "Booster Pack (Series 5)",
+  "date": "12-12-2007",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 29590752,
+      "code": "GLAS-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44430454,
+      "code": "GLAS-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80825553,
+      "code": "GLAS-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58554959,
+      "code": "GLAS-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58554959,
+      "code": "GLAS-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95943058,
+      "code": "GLAS-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57610714,
+      "code": "GLAS-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57610714,
+      "code": "GLAS-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83604828,
+      "code": "GLAS-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20003527,
+      "code": "GLAS-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56597272,
+      "code": "GLAS-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56597272,
+      "code": "GLAS-008",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83982270,
+      "code": "GLAS-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17810268,
+      "code": "GLAS-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43318266,
+      "code": "GLAS-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79703905,
+      "code": "GLAS-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16197610,
+      "code": "GLAS-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61538782,
+      "code": "GLAS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98049038,
+      "code": "GLAS-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 984114,
+      "code": "GLAS-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42592719,
+      "code": "GLAS-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42592719,
+      "code": "GLAS-017",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79580323,
+      "code": "GLAS-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5975022,
+      "code": "GLAS-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41470137,
+      "code": "GLAS-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78868776,
+      "code": "GLAS-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4253484,
+      "code": "GLAS-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31247589,
+      "code": "GLAS-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77642288,
+      "code": "GLAS-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3030892,
+      "code": "GLAS-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30525991,
+      "code": "GLAS-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76520646,
+      "code": "GLAS-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3918345,
+      "code": "GLAS-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39303359,
+      "code": "GLAS-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66707058,
+      "code": "GLAS-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2196767,
+      "code": "GLAS-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38280762,
+      "code": "GLAS-032",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38280762,
+      "code": "GLAS-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65685470,
+      "code": "GLAS-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91070115,
+      "code": "GLAS-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38468214,
+      "code": "GLAS-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17032740,
+      "code": "GLAS-036",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17032740,
+      "code": "GLAS-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60493189,
+      "code": "GLAS-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22160245,
+      "code": "GLAS-038",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22160245,
+      "code": "GLAS-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21947653,
+      "code": "GLAS-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21947653,
+      "code": "GLAS-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58332301,
+      "code": "GLAS-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3897065,
+      "code": "GLAS-041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64463828,
+      "code": "GLAS-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90957527,
+      "code": "GLAS-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27346636,
+      "code": "GLAS-044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69270537,
+      "code": "GLAS-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96765646,
+      "code": "GLAS-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94820406,
+      "code": "GLAS-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19980975,
+      "code": "GLAS-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55375684,
+      "code": "GLAS-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82760689,
+      "code": "GLAS-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63741331,
+      "code": "GLAS-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90135989,
+      "code": "GLAS-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26120084,
+      "code": "GLAS-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52518793,
+      "code": "GLAS-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99013397,
+      "code": "GLAS-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25407406,
+      "code": "GLAS-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52496105,
+      "code": "GLAS-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98891840,
+      "code": "GLAS-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24285858,
+      "code": "GLAS-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51670553,
+      "code": "GLAS-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27178262,
+      "code": "GLAS-061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27178262,
+      "code": "GLAS-061",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64163367,
+      "code": "GLAS-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23282832,
+      "code": "GLAS-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60306104,
+      "code": "GLAS-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18158397,
+      "code": "GLAS-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45653036,
+      "code": "GLAS-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90557975,
+      "code": "GLAS-067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90557975,
+      "code": "GLAS-067",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26956670,
+      "code": "GLAS-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53341729,
+      "code": "GLAS-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99735427,
+      "code": "GLAS-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26834022,
+      "code": "GLAS-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52228131,
+      "code": "GLAS-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84613836,
+      "code": "GLAS-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21007444,
+      "code": "GLAS-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57006589,
+      "code": "GLAS-075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57006589,
+      "code": "GLAS-075",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84491298,
+      "code": "GLAS-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20985997,
+      "code": "GLAS-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57384901,
+      "code": "GLAS-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83778600,
+      "code": "GLAS-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19763315,
+      "code": "GLAS-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65984457,
+      "code": "GLAS-081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65984457,
+      "code": "GLAS-081",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92373006,
+      "code": "GLAS-082",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92373006,
+      "code": "GLAS-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28877100,
+      "code": "GLAS-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28877100,
+      "code": "GLAS-083",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64262809,
+      "code": "GLAS-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91250514,
+      "code": "GLAS-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27655513,
+      "code": "GLAS-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54040221,
+      "code": "GLAS-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90434926,
+      "code": "GLAS-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26533075,
+      "code": "GLAS-089",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26533075,
+      "code": "GLAS-089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28297833,
+      "code": "GLAS-090",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38445524,
+      "code": "GLAS-091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81510157,
+      "code": "GLAS-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67227834,
+      "code": "GLAS-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42534368,
+      "code": "GLAS-094",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

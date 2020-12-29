@@ -1,0 +1,634 @@
+{
+  "name": "War of the Giants Reinforcements",
+  "code": "WGRT",
+  "type": "Battle Pack",
+  "date": "17-01-2014",
+  "pull_type": "distribution",
+  "distribution": "war_of_the_giants_reinforcements",
+  "cards": [
+    {
+      "id": 77542832,
+      "code": "WGRT-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13945283,
+      "code": "WGRT-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16768387,
+      "code": "WGRT-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62340868,
+      "code": "WGRT-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39751094,
+      "code": "WGRT-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51534754,
+      "code": "WGRT-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87523462,
+      "code": "WGRT-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39978267,
+      "code": "WGRT-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39168895,
+      "code": "WGRT-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56647086,
+      "code": "WGRT-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25773409,
+      "code": "WGRT-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39507162,
+      "code": "WGRT-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59380081,
+      "code": "WGRT-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52323207,
+      "code": "WGRT-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53828396,
+      "code": "WGRT-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76763417,
+      "code": "WGRT-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2158562,
+      "code": "WGRT-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95701283,
+      "code": "WGRT-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54749427,
+      "code": "WGRT-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50287060,
+      "code": "WGRT-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99747800,
+      "code": "WGRT-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22624373,
+      "code": "WGRT-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23303072,
+      "code": "WGRT-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18489208,
+      "code": "WGRT-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68722455,
+      "code": "WGRT-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11613567,
+      "code": "WGRT-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41753322,
+      "code": "WGRT-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88650530,
+      "code": "WGRT-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84932271,
+      "code": "WGRT-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98954375,
+      "code": "WGRT-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88494899,
+      "code": "WGRT-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96146814,
+      "code": "WGRT-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69529567,
+      "code": "WGRT-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20351153,
+      "code": "WGRT-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45801022,
+      "code": "WGRT-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72328962,
+      "code": "WGRT-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6903857,
+      "code": "WGRT-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43332022,
+      "code": "WGRT-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81275309,
+      "code": "WGRT-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2137678,
+      "code": "WGRT-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98649372,
+      "code": "WGRT-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47349310,
+      "code": "WGRT-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43359262,
+      "code": "WGRT-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95905259,
+      "code": "WGRT-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20193924,
+      "code": "WGRT-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56410040,
+      "code": "WGRT-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79972330,
+      "code": "WGRT-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5244497,
+      "code": "WGRT-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49374988,
+      "code": "WGRT-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40921545,
+      "code": "WGRT-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8814959,
+      "code": "WGRT-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9861795,
+      "code": "WGRT-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8649148,
+      "code": "WGRT-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61132951,
+      "code": "WGRT-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44682448,
+      "code": "WGRT-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80208158,
+      "code": "WGRT-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5284653,
+      "code": "WGRT-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4058065,
+      "code": "WGRT-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83274244,
+      "code": "WGRT-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67922702,
+      "code": "WGRT-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4417407,
+      "code": "WGRT-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30811116,
+      "code": "WGRT-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54635862,
+      "code": "WGRT-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6930746,
+      "code": "WGRT-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "WGRT-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56830749,
+      "code": "WGRT-066",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83225447,
+      "code": "WGRT-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65169794,
+      "code": "WGRT-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22046459,
+      "code": "WGRT-069",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70231910,
+      "code": "WGRT-070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56460688,
+      "code": "WGRT-071",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47453433,
+      "code": "WGRT-072",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25774450,
+      "code": "WGRT-073",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34664411,
+      "code": "WGRT-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43422537,
+      "code": "WGRT-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37534148,
+      "code": "WGRT-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98847704,
+      "code": "WGRT-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52497105,
+      "code": "WGRT-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59560625,
+      "code": "WGRT-079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70344351,
+      "code": "WGRT-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38411870,
+      "code": "WGRT-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90669991,
+      "code": "WGRT-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62325062,
+      "code": "WGRT-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74458486,
+      "code": "WGRT-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31000575,
+      "code": "WGRT-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18271561,
+      "code": "WGRT-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77538567,
+      "code": "WGRT-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42793609,
+      "code": "WGRT-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89792713,
+      "code": "WGRT-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85352446,
+      "code": "WGRT-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11741041,
+      "code": "WGRT-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49204190,
+      "code": "WGRT-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75987257,
+      "code": "WGRT-093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73632127,
+      "code": "WGRT-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22869904,
+      "code": "WGRT-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71098407,
+      "code": "WGRT-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63630268,
+      "code": "WGRT-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94156050,
+      "code": "WGRT-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6614221,
+      "code": "WGRT-099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86585274,
+      "code": "WGRT-100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21249921,
+      "code": "WGRT-101",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80117527,
+      "code": "WGRT-102",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38296564,
+      "code": "WGRT-103",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31563350,
+      "code": "WGRT-104",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

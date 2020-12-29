@@ -1,0 +1,23 @@
+{
+  "name": "maximum_gold",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 5,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Premium Gold Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

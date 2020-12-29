@@ -1,0 +1,370 @@
+{
+  "name": "Hidden Summoners",
+  "code": "HISU",
+  "type": "Deck Build Pack",
+  "date": "15-11-2018",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 52904476,
+      "code": "HISU-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98999181,
+      "code": "HISU-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25397880,
+      "code": "HISU-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51782995,
+      "code": "HISU-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88176533,
+      "code": "HISU-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24175232,
+      "code": "HISU-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50669347,
+      "code": "HISU-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87054946,
+      "code": "HISU-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23459650,
+      "code": "HISU-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50847759,
+      "code": "HISU-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82832464,
+      "code": "HISU-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61441708,
+      "code": "HISU-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98446407,
+      "code": "HISU-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81119816,
+      "code": "HISU-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18236002,
+      "code": "HISU-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55725117,
+      "code": "HISU-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18514525,
+      "code": "HISU-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44509529,
+      "code": "HISU-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81997228,
+      "code": "HISU-019",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17382973,
+      "code": "HISU-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43886072,
+      "code": "HISU-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70875686,
+      "code": "HISU-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16269385,
+      "code": "HISU-023",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43664494,
+      "code": "HISU-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79059098,
+      "code": "HISU-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15447747,
+      "code": "HISU-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42542842,
+      "code": "HISU-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5325155,
+      "code": "HISU-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41729254,
+      "code": "HISU-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78936551,
+      "code": "HISU-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77714963,
+      "code": "HISU-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30607616,
+      "code": "HISU-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77092311,
+      "code": "HISU-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4103668,
+      "code": "HISU-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3486020,
+      "code": "HISU-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39475024,
+      "code": "HISU-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66870733,
+      "code": "HISU-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2364438,
+      "code": "HISU-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39753577,
+      "code": "HISU-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36107810,
+      "code": "HISU-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36630403,
+      "code": "HISU-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96729612,
+      "code": "HISU-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76647978,
+      "code": "HISU-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32441317,
+      "code": "HISU-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63356631,
+      "code": "HISU-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31786629,
+      "code": "HISU-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95492061,
+      "code": "HISU-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99423156,
+      "code": "HISU-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35818851,
+      "code": "HISU-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55863245,
+      "code": "HISU-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75500286,
+      "code": "HISU-051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48206762,
+      "code": "HISU-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74694807,
+      "code": "HISU-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65450690,
+      "code": "HISU-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22993208,
+      "code": "HISU-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59388357,
+      "code": "HISU-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17236839,
+      "code": "HISU-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22829942,
+      "code": "HISU-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90846359,
+      "code": "HISU-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53334471,
+      "code": "HISU-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

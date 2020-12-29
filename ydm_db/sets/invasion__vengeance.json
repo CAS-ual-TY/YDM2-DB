@@ -1,0 +1,610 @@
+{
+  "name": "Invasion: Vengeance",
+  "code": "INOV",
+  "type": "Booster Pack (Series 9)",
+  "date": "08-12-2016",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 92092092,
+      "code": "INOV-000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38955728,
+      "code": "INOV-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64450427,
+      "code": "INOV-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91449532,
+      "code": "INOV-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33833230,
+      "code": "INOV-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69228245,
+      "code": "INOV-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96622984,
+      "code": "INOV-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22011689,
+      "code": "INOV-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69105797,
+      "code": "INOV-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95500396,
+      "code": "INOV-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21999001,
+      "code": "INOV-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58383100,
+      "code": "INOV-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94388754,
+      "code": "INOV-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21772453,
+      "code": "INOV-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57261568,
+      "code": "INOV-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93665266,
+      "code": "INOV-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20050865,
+      "code": "INOV-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56049970,
+      "code": "INOV-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83443619,
+      "code": "INOV-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29838323,
+      "code": "INOV-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55326322,
+      "code": "INOV-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82321037,
+      "code": "INOV-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18716735,
+      "code": "INOV-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55100740,
+      "code": "INOV-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81599449,
+      "code": "INOV-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18993198,
+      "code": "INOV-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44088292,
+      "code": "INOV-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80476891,
+      "code": "INOV-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17871506,
+      "code": "INOV-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43266605,
+      "code": "INOV-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80250319,
+      "code": "INOV-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16759958,
+      "code": "INOV-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42143067,
+      "code": "INOV-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79538761,
+      "code": "INOV-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15936370,
+      "code": "INOV-034",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 42921475,
+      "code": "INOV-035",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 78316184,
+      "code": "INOV-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4810828,
+      "code": "INOV-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41209827,
+      "code": "INOV-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77693536,
+      "code": "INOV-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4688231,
+      "code": "INOV-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30086349,
+      "code": "INOV-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76471944,
+      "code": "INOV-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3966653,
+      "code": "INOV-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39964797,
+      "code": "INOV-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76359406,
+      "code": "INOV-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2743001,
+      "code": "INOV-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38148100,
+      "code": "INOV-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65536818,
+      "code": "INOV-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1621413,
+      "code": "INOV-049",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38026562,
+      "code": "INOV-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64414267,
+      "code": "INOV-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90809975,
+      "code": "INOV-052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37803970,
+      "code": "INOV-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3298689,
+      "code": "INOV-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30786387,
+      "code": "INOV-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66171432,
+      "code": "INOV-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3576031,
+      "code": "INOV-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39564736,
+      "code": "INOV-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65959844,
+      "code": "INOV-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92353449,
+      "code": "INOV-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38848158,
+      "code": "INOV-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65236257,
+      "code": "INOV-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91231901,
+      "code": "INOV-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37626500,
+      "code": "INOV-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64014615,
+      "code": "INOV-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90519313,
+      "code": "INOV-066",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 27503418,
+      "code": "INOV-067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63992027,
+      "code": "INOV-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99397762,
+      "code": "INOV-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26781870,
+      "code": "INOV-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52176579,
+      "code": "INOV-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99274184,
+      "code": "INOV-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25669282,
+      "code": "INOV-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51053997,
+      "code": "INOV-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84442536,
+      "code": "INOV-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20447641,
+      "code": "INOV-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57831349,
+      "code": "INOV-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83326048,
+      "code": "INOV-078",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29724053,
+      "code": "INOV-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56119752,
+      "code": "INOV-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 66698383,
+      "code": "INOV-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39581190,
+      "code": "INOV-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65976795,
+      "code": "INOV-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92970404,
+      "code": "INOV-084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28369508,
+      "code": "INOV-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64753157,
+      "code": "INOV-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91258852,
+      "code": "INOV-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27642961,
+      "code": "INOV-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54631665,
+      "code": "INOV-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35037880,
+      "code": "INOV-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4820694,
+      "code": "INOV-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91754175,
+      "code": "INOV-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27143874,
+      "code": "INOV-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54537489,
+      "code": "INOV-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2376209,
+      "code": "INOV-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38761908,
+      "code": "INOV-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64765016,
+      "code": "INOV-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1154611,
+      "code": "INOV-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37649320,
+      "code": "INOV-099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

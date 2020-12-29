@@ -1,0 +1,340 @@
+{
+  "name": "Gold Series: Haunted Mine",
+  "code": "GLD5",
+  "type": "Gold Series",
+  "date": "07-06-2012",
+  "pull_type": "distribution",
+  "distribution": "gold_series__haunted_mine",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "GLD5-001",
+      "rarity": "Ghost/Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19153634,
+      "code": "GLD5-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77044671,
+      "code": "GLD5-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40933924,
+      "code": "GLD5-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76922029,
+      "code": "GLD5-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76052811,
+      "code": "GLD5-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6967870,
+      "code": "GLD5-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71200730,
+      "code": "GLD5-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34193084,
+      "code": "GLD5-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61587183,
+      "code": "GLD5-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48768179,
+      "code": "GLD5-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74153887,
+      "code": "GLD5-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57281778,
+      "code": "GLD5-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26495087,
+      "code": "GLD5-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44436472,
+      "code": "GLD5-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70821187,
+      "code": "GLD5-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74713516,
+      "code": "GLD5-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1102515,
+      "code": "GLD5-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17259470,
+      "code": "GLD5-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77936940,
+      "code": "GLD5-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63665875,
+      "code": "GLD5-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40991587,
+      "code": "GLD5-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68722455,
+      "code": "GLD5-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44330098,
+      "code": "GLD5-024",
+      "rarity": "Ghost/Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37675138,
+      "code": "GLD5-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24040093,
+      "code": "GLD5-026",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55794644,
+      "code": "GLD5-027",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34230233,
+      "code": "GLD5-028",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8967776,
+      "code": "GLD5-029",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44665365,
+      "code": "GLD5-030",
+      "rarity": "Ghost/Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50321796,
+      "code": "GLD5-031",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33198837,
+      "code": "GLD5-032",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2956282,
+      "code": "GLD5-033",
+      "rarity": "Ghost/Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50091196,
+      "code": "GLD5-034",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66976526,
+      "code": "GLD5-035",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84013237,
+      "code": "GLD5-036",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "GLD5-037",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "GLD5-038",
+      "rarity": "Ghost/Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2204140,
+      "code": "GLD5-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4861205,
+      "code": "GLD5-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96677818,
+      "code": "GLD5-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68191243,
+      "code": "GLD5-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66835946,
+      "code": "GLD5-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27383110,
+      "code": "GLD5-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "GLD5-045",
+      "rarity": "Ghost/Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "GLD5-046",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63442604,
+      "code": "GLD5-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21840375,
+      "code": "GLD5-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79852326,
+      "code": "GLD5-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28649820,
+      "code": "GLD5-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70406920,
+      "code": "GLD5-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58120309,
+      "code": "GLD5-052",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3129635,
+      "code": "GLD5-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49514333,
+      "code": "GLD5-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21843307,
+      "code": "GLD5-055",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

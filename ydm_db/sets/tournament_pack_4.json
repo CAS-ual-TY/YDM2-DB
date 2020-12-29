@@ -1,0 +1,130 @@
+{
+  "name": "Tournament Pack 4",
+  "code": "TP4",
+  "type": "Tournament Pack",
+  "date": "01-10-2003",
+  "pull_type": "distribution",
+  "distribution": "tournament_pack",
+  "cards": [
+    {
+      "id": 51452091,
+      "code": "TP4-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33508719,
+      "code": "TP4-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22046459,
+      "code": "TP4-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1248895,
+      "code": "TP4-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66362965,
+      "code": "TP4-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28563545,
+      "code": "TP4-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58831685,
+      "code": "TP4-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26725158,
+      "code": "TP4-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16970158,
+      "code": "TP4-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70046172,
+      "code": "TP4-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "TP4-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23401839,
+      "code": "TP4-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23289281,
+      "code": "TP4-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22567609,
+      "code": "TP4-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83011278,
+      "code": "TP4-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17449108,
+      "code": "TP4-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59344077,
+      "code": "TP4-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85742772,
+      "code": "TP4-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21015833,
+      "code": "TP4-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79870141,
+      "code": "TP4-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

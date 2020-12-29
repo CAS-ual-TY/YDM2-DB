@@ -1,0 +1,370 @@
+{
+  "name": "Fusion Enforcers",
+  "code": "FUEN",
+  "type": "Deck Build Pack",
+  "date": "23-02-2017",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 53819028,
+      "code": "FUEN-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99913726,
+      "code": "FUEN-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26308721,
+      "code": "FUEN-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52792430,
+      "code": "FUEN-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89181134,
+      "code": "FUEN-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96622984,
+      "code": "FUEN-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22011689,
+      "code": "FUEN-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69105797,
+      "code": "FUEN-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25586143,
+      "code": "FUEN-009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51570882,
+      "code": "FUEN-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88069597,
+      "code": "FUEN-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14463695,
+      "code": "FUEN-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51858200,
+      "code": "FUEN-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87246309,
+      "code": "FUEN-014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13241004,
+      "code": "FUEN-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39246582,
+      "code": "FUEN-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65331686,
+      "code": "FUEN-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30068120,
+      "code": "FUEN-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61173621,
+      "code": "FUEN-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40636712,
+      "code": "FUEN-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11039171,
+      "code": "FUEN-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 464362,
+      "code": "FUEN-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57477163,
+      "code": "FUEN-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70245411,
+      "code": "FUEN-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6077601,
+      "code": "FUEN-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86120751,
+      "code": "FUEN-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13529466,
+      "code": "FUEN-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49513164,
+      "code": "FUEN-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85908279,
+      "code": "FUEN-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12307878,
+      "code": "FUEN-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48791583,
+      "code": "FUEN-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75286621,
+      "code": "FUEN-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11270236,
+      "code": "FUEN-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47679935,
+      "code": "FUEN-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74063034,
+      "code": "FUEN-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 458748,
+      "code": "FUEN-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47457347,
+      "code": "FUEN-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14644902,
+      "code": "FUEN-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 423585,
+      "code": "FUEN-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79109599,
+      "code": "FUEN-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74335036,
+      "code": "FUEN-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1845204,
+      "code": "FUEN-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18511384,
+      "code": "FUEN-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63356631,
+      "code": "FUEN-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40410110,
+      "code": "FUEN-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48686504,
+      "code": "FUEN-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89312388,
+      "code": "FUEN-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91584698,
+      "code": "FUEN-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "FUEN-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33550694,
+      "code": "FUEN-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74694807,
+      "code": "FUEN-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30548775,
+      "code": "FUEN-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44887817,
+      "code": "FUEN-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45247637,
+      "code": "FUEN-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28529976,
+      "code": "FUEN-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43225434,
+      "code": "FUEN-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17194258,
+      "code": "FUEN-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57355219,
+      "code": "FUEN-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22888900,
+      "code": "FUEN-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66127916,
+      "code": "FUEN-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

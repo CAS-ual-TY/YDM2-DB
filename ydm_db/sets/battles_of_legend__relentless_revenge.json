@@ -1,0 +1,640 @@
+{
+  "name": "Battles of Legend: Relentless Revenge",
+  "code": "BLRR",
+  "type": "60 Card Set",
+  "date": "28-06-2018",
+  "pull_type": "distribution",
+  "distribution": "60_card_set",
+  "cards": [
+    {
+      "id": 15744417,
+      "code": "BLRR-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41139112,
+      "code": "BLRR-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66765023,
+      "code": "BLRR-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78527720,
+      "code": "BLRR-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14512825,
+      "code": "BLRR-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41916534,
+      "code": "BLRR-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73405179,
+      "code": "BLRR-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 899287,
+      "code": "BLRR-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46294982,
+      "code": "BLRR-009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72283691,
+      "code": "BLRR-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9677699,
+      "code": "BLRR-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45072394,
+      "code": "BLRR-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72566043,
+      "code": "BLRR-013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8955148,
+      "code": "BLRR-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34959756,
+      "code": "BLRR-015",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60600126,
+      "code": "BLRR-016",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96699830,
+      "code": "BLRR-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33093439,
+      "code": "BLRR-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35050257,
+      "code": "BLRR-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71344451,
+      "code": "BLRR-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7733560,
+      "code": "BLRR-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34137269,
+      "code": "BLRR-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60222213,
+      "code": "BLRR-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6616912,
+      "code": "BLRR-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33015627,
+      "code": "BLRR-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74530899,
+      "code": "BLRR-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9409625,
+      "code": "BLRR-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36894320,
+      "code": "BLRR-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72883039,
+      "code": "BLRR-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8387138,
+      "code": "BLRR-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35772782,
+      "code": "BLRR-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71166481,
+      "code": "BLRR-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8165596,
+      "code": "BLRR-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34559295,
+      "code": "BLRR-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60944809,
+      "code": "BLRR-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7443908,
+      "code": "BLRR-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33837653,
+      "code": "BLRR-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60822251,
+      "code": "BLRR-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96220350,
+      "code": "BLRR-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32615065,
+      "code": "BLRR-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69109764,
+      "code": "BLRR-041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95504778,
+      "code": "BLRR-042",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22593417,
+      "code": "BLRR-043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68987122,
+      "code": "BLRR-044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95372220,
+      "code": "BLRR-045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "BLRR-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "BLRR-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70095154,
+      "code": "BLRR-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17955766,
+      "code": "BLRR-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54959865,
+      "code": "BLRR-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80344569,
+      "code": "BLRR-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43237273,
+      "code": "BLRR-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85087012,
+      "code": "BLRR-053",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79407975,
+      "code": "BLRR-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82639107,
+      "code": "BLRR-055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8967776,
+      "code": "BLRR-056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98558751,
+      "code": "BLRR-057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14152862,
+      "code": "BLRR-058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68819554,
+      "code": "BLRR-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67696066,
+      "code": "BLRR-060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90432163,
+      "code": "BLRR-061",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36426778,
+      "code": "BLRR-062",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69610326,
+      "code": "BLRR-063",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7394770,
+      "code": "BLRR-064",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25542642,
+      "code": "BLRR-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1508649,
+      "code": "BLRR-066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35146019,
+      "code": "BLRR-067",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49036338,
+      "code": "BLRR-068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35842855,
+      "code": "BLRR-069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53027855,
+      "code": "BLRR-070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59057152,
+      "code": "BLRR-071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57690191,
+      "code": "BLRR-072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3580032,
+      "code": "BLRR-073",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49959355,
+      "code": "BLRR-074",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55063751,
+      "code": "BLRR-075",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52840267,
+      "code": "BLRR-076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25339070,
+      "code": "BLRR-077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63845230,
+      "code": "BLRR-078",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14124483,
+      "code": "BLRR-079",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91505214,
+      "code": "BLRR-080",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77693536,
+      "code": "BLRR-081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4688231,
+      "code": "BLRR-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39964797,
+      "code": "BLRR-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6983839,
+      "code": "BLRR-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90590303,
+      "code": "BLRR-085",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31226177,
+      "code": "BLRR-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67598234,
+      "code": "BLRR-087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96729612,
+      "code": "BLRR-088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56111151,
+      "code": "BLRR-089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13048472,
+      "code": "BLRR-090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11163040,
+      "code": "BLRR-091",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66399653,
+      "code": "BLRR-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87112784,
+      "code": "BLRR-093",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14517422,
+      "code": "BLRR-094",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35726888,
+      "code": "BLRR-095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13035077,
+      "code": "BLRR-096",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37469904,
+      "code": "BLRR-097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61654098,
+      "code": "BLRR-098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97648103,
+      "code": "BLRR-099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "BLRR-100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29401950,
+      "code": "BLRR-101",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40605147,
+      "code": "BLRR-102",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87990236,
+      "code": "BLRR-103",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69452756,
+      "code": "BLRR-104",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21076084,
+      "code": "BLRR-105",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

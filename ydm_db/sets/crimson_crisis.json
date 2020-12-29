@@ -1,0 +1,676 @@
+{
+  "name": "Crimson Crisis",
+  "code": "CRMS",
+  "type": "Booster Pack (Series 6)",
+  "date": "07-04-2009",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 38898779,
+      "code": "CRMS-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88559132,
+      "code": "CRMS-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14943837,
+      "code": "CRMS-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40348946,
+      "code": "CRMS-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77336644,
+      "code": "CRMS-004",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77336644,
+      "code": "CRMS-004",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77336644,
+      "code": "CRMS-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13821299,
+      "code": "CRMS-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40225398,
+      "code": "CRMS-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76614003,
+      "code": "CRMS-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2009101,
+      "code": "CRMS-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49003716,
+      "code": "CRMS-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75498415,
+      "code": "CRMS-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2986553,
+      "code": "CRMS-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89493368,
+      "code": "CRMS-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52286175,
+      "code": "CRMS-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15175429,
+      "code": "CRMS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88671720,
+      "code": "CRMS-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16898077,
+      "code": "CRMS-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48381268,
+      "code": "CRMS-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75775867,
+      "code": "CRMS-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1764972,
+      "code": "CRMS-019",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1764972,
+      "code": "CRMS-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37169670,
+      "code": "CRMS-020",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37169670,
+      "code": "CRMS-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14553285,
+      "code": "CRMS-021",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14553285,
+      "code": "CRMS-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40048324,
+      "code": "CRMS-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77036039,
+      "code": "CRMS-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3431737,
+      "code": "CRMS-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49826746,
+      "code": "CRMS-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76214441,
+      "code": "CRMS-026",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76214441,
+      "code": "CRMS-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2619149,
+      "code": "CRMS-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46239604,
+      "code": "CRMS-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81278754,
+      "code": "CRMS-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75937826,
+      "code": "CRMS-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39703254,
+      "code": "CRMS-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75198893,
+      "code": "CRMS-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1596508,
+      "code": "CRMS-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38981606,
+      "code": "CRMS-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74976215,
+      "code": "CRMS-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1474910,
+      "code": "CRMS-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37869028,
+      "code": "CRMS-037",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 63253763,
+      "code": "CRMS-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 652362,
+      "code": "CRMS-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32646477,
+      "code": "CRMS-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69031175,
+      "code": "CRMS-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69031175,
+      "code": "CRMS-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95526884,
+      "code": "CRMS-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95526884,
+      "code": "CRMS-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31924889,
+      "code": "CRMS-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68319538,
+      "code": "CRMS-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68319538,
+      "code": "CRMS-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94303232,
+      "code": "CRMS-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21702241,
+      "code": "CRMS-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67196946,
+      "code": "CRMS-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94681654,
+      "code": "CRMS-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20686759,
+      "code": "CRMS-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56074358,
+      "code": "CRMS-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93469007,
+      "code": "CRMS-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29863101,
+      "code": "CRMS-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56252810,
+      "code": "CRMS-053",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 92346415,
+      "code": "CRMS-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28741524,
+      "code": "CRMS-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55136228,
+      "code": "CRMS-056",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 81524977,
+      "code": "CRMS-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28529976,
+      "code": "CRMS-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54913680,
+      "code": "CRMS-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80402389,
+      "code": "CRMS-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17896384,
+      "code": "CRMS-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53291093,
+      "code": "CRMS-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80280737,
+      "code": "CRMS-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16674846,
+      "code": "CRMS-064",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42079445,
+      "code": "CRMS-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89563150,
+      "code": "CRMS-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15552258,
+      "code": "CRMS-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42956963,
+      "code": "CRMS-068",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 88341502,
+      "code": "CRMS-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14730606,
+      "code": "CRMS-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41234315,
+      "code": "CRMS-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77229910,
+      "code": "CRMS-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14613029,
+      "code": "CRMS-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40012727,
+      "code": "CRMS-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76407432,
+      "code": "CRMS-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3891471,
+      "code": "CRMS-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49980185,
+      "code": "CRMS-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76384284,
+      "code": "CRMS-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2779999,
+      "code": "CRMS-079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39163598,
+      "code": "CRMS-080",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65282484,
+      "code": "CRMS-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1287123,
+      "code": "CRMS-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37675138,
+      "code": "CRMS-083",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37675138,
+      "code": "CRMS-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64160836,
+      "code": "CRMS-084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 564541,
+      "code": "CRMS-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37953640,
+      "code": "CRMS-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63948258,
+      "code": "CRMS-087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99342953,
+      "code": "CRMS-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36737092,
+      "code": "CRMS-089",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40703222,
+      "code": "CRMS-090",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27827272,
+      "code": "CRMS-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88190790,
+      "code": "CRMS-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3167573,
+      "code": "CRMS-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64382839,
+      "code": "CRMS-094",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87148330,
+      "code": "CRMS-095",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35984222,
+      "code": "CRMS-096",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62379337,
+      "code": "CRMS-097",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62379337,
+      "code": "CRMS-097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50263751,
+      "code": "CRMS-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73333463,
+      "code": "CRMS-099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

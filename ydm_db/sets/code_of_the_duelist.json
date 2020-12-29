@@ -1,0 +1,610 @@
+{
+  "name": "Code of the Duelist",
+  "code": "COTD",
+  "type": "Booster Pack (Series 10)",
+  "date": "21-09-2017",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 67267333,
+      "code": "COTD-000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36033786,
+      "code": "COTD-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63528891,
+      "code": "COTD-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9523599,
+      "code": "COTD-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35911108,
+      "code": "COTD-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62306203,
+      "code": "COTD-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98700941,
+      "code": "COTD-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35199656,
+      "code": "COTD-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61283655,
+      "code": "COTD-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97688360,
+      "code": "COTD-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24073068,
+      "code": "COTD-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60461077,
+      "code": "COTD-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97466712,
+      "code": "COTD-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23850421,
+      "code": "COTD-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60349525,
+      "code": "COTD-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96733134,
+      "code": "COTD-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22138839,
+      "code": "COTD-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59123937,
+      "code": "COTD-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95511642,
+      "code": "COTD-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22916281,
+      "code": "COTD-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58400390,
+      "code": "COTD-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84899094,
+      "code": "COTD-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21893603,
+      "code": "COTD-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57288708,
+      "code": "COTD-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84673417,
+      "code": "COTD-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10071151,
+      "code": "COTD-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56166150,
+      "code": "COTD-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83550869,
+      "code": "COTD-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19959563,
+      "code": "COTD-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56343672,
+      "code": "COTD-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82738277,
+      "code": "COTD-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18837926,
+      "code": "COTD-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45221020,
+      "code": "COTD-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81616639,
+      "code": "COTD-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18000338,
+      "code": "COTD-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44009443,
+      "code": "COTD-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70493141,
+      "code": "COTD-036",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 17988746,
+      "code": "COTD-037",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 43387895,
+      "code": "COTD-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70771599,
+      "code": "COTD-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6766208,
+      "code": "COTD-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42160203,
+      "code": "COTD-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79559912,
+      "code": "COTD-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5043010,
+      "code": "COTD-043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32448765,
+      "code": "COTD-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78437364,
+      "code": "COTD-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5821478,
+      "code": "COTD-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31226177,
+      "code": "COTD-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77610772,
+      "code": "COTD-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4709881,
+      "code": "COTD-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30194529,
+      "code": "COTD-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67598234,
+      "code": "COTD-051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3987233,
+      "code": "COTD-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35371948,
+      "code": "COTD-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62376646,
+      "code": "COTD-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98864751,
+      "code": "COTD-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35259350,
+      "code": "COTD-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61654098,
+      "code": "COTD-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97648103,
+      "code": "COTD-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24037702,
+      "code": "COTD-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60431417,
+      "code": "COTD-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97926515,
+      "code": "COTD-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23314220,
+      "code": "COTD-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69319869,
+      "code": "COTD-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96704974,
+      "code": "COTD-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22198672,
+      "code": "COTD-065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59687381,
+      "code": "COTD-066",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 95081386,
+      "code": "COTD-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21076084,
+      "code": "COTD-068",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58464739,
+      "code": "COTD-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84869738,
+      "code": "COTD-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21254443,
+      "code": "COTD-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57348141,
+      "code": "COTD-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83747250,
+      "code": "COTD-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10131855,
+      "code": "COTD-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56526564,
+      "code": "COTD-075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23924608,
+      "code": "COTD-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59919307,
+      "code": "COTD-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96404912,
+      "code": "COTD-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22802010,
+      "code": "COTD-079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58297729,
+      "code": "COTD-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 68989981,
+      "code": "COTD-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4388680,
+      "code": "COTD-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31772684,
+      "code": "COTD-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94666032,
+      "code": "COTD-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30650147,
+      "code": "COTD-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67045745,
+      "code": "COTD-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93449450,
+      "code": "COTD-087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39838559,
+      "code": "COTD-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66322203,
+      "code": "COTD-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43436049,
+      "code": "COTD-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54320860,
+      "code": "COTD-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91718579,
+      "code": "COTD-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27103517,
+      "code": "COTD-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54507222,
+      "code": "COTD-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32787239,
+      "code": "COTD-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30757127,
+      "code": "COTD-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39024589,
+      "code": "COTD-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26420373,
+      "code": "COTD-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95735217,
+      "code": "COTD-099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

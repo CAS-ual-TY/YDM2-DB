@@ -1,0 +1,42 @@
+{
+  "name": "genesis_impact",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 4,
+      "rarities": [
+        {
+          "count": 6,
+          "rarities": [
+            "Rare",
+            "Collector\u0027s Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "rarities": [
+        {
+          "count": 6,
+          "rarities": [
+            "Rare",
+            "Collector\u0027s Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

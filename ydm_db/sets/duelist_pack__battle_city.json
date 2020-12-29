@@ -1,0 +1,292 @@
+{
+  "name": "Duelist Pack: Battle City",
+  "code": "DPBC",
+  "type": "Duelist Pack",
+  "date": "19-06-2015",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 10000080,
+      "code": "DPBC-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59546797,
+      "code": "DPBC-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25280974,
+      "code": "DPBC-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97120394,
+      "code": "DPBC-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14057297,
+      "code": "DPBC-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5405694,
+      "code": "DPBC-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55761792,
+      "code": "DPBC-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "DPBC-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "DPBC-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78193831,
+      "code": "DPBC-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50287060,
+      "code": "DPBC-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "DPBC-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "DPBC-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "DPBC-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "DPBC-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89631139,
+      "code": "DPBC-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17985575,
+      "code": "DPBC-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43973174,
+      "code": "DPBC-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "DPBC-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57728570,
+      "code": "DPBC-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74677422,
+      "code": "DPBC-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 423705,
+      "code": "DPBC-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30860696,
+      "code": "DPBC-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71625222,
+      "code": "DPBC-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "DPBC-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91512835,
+      "code": "DPBC-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77585513,
+      "code": "DPBC-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3643300,
+      "code": "DPBC-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16435215,
+      "code": "DPBC-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28649820,
+      "code": "DPBC-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49064413,
+      "code": "DPBC-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94377247,
+      "code": "DPBC-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31829185,
+      "code": "DPBC-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 102380,
+      "code": "DPBC-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98494543,
+      "code": "DPBC-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1224927,
+      "code": "DPBC-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76812113,
+      "code": "DPBC-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12206212,
+      "code": "DPBC-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90219263,
+      "code": "DPBC-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77778835,
+      "code": "DPBC-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81480461,
+      "code": "DPBC-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26302522,
+      "code": "DPBC-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53183600,
+      "code": "DPBC-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90960358,
+      "code": "DPBC-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42386471,
+      "code": "DPBC-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "DPBC-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89997728,
+      "code": "DPBC-047",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

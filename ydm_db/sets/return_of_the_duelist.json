@@ -1,0 +1,676 @@
+{
+  "name": "Return of the Duelist",
+  "code": "REDU",
+  "type": "Booster Pack (Series 8)",
+  "date": "21-09-2012",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 19680539,
+      "code": "REDU-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14214060,
+      "code": "REDU-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50613779,
+      "code": "REDU-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87008374,
+      "code": "REDU-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13492423,
+      "code": "REDU-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50491121,
+      "code": "REDU-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26885836,
+      "code": "REDU-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52370835,
+      "code": "REDU-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89774530,
+      "code": "REDU-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25163248,
+      "code": "REDU-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52158283,
+      "code": "REDU-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88552992,
+      "code": "REDU-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15941690,
+      "code": "REDU-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51435705,
+      "code": "REDU-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87430304,
+      "code": "REDU-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14824019,
+      "code": "REDU-015",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14824019,
+      "code": "REDU-015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40213117,
+      "code": "REDU-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87608852,
+      "code": "REDU-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13002461,
+      "code": "REDU-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49191560,
+      "code": "REDU-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86585274,
+      "code": "REDU-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12980373,
+      "code": "REDU-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49374988,
+      "code": "REDU-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75363626,
+      "code": "REDU-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11868731,
+      "code": "REDU-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48252330,
+      "code": "REDU-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74641045,
+      "code": "REDU-026",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74641045,
+      "code": "REDU-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1045143,
+      "code": "REDU-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47030842,
+      "code": "REDU-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73428497,
+      "code": "REDU-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 923596,
+      "code": "REDU-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36318200,
+      "code": "REDU-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73702909,
+      "code": "REDU-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9791914,
+      "code": "REDU-033",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9791914,
+      "code": "REDU-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35195612,
+      "code": "REDU-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72580321,
+      "code": "REDU-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8078366,
+      "code": "REDU-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35073065,
+      "code": "REDU-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61468779,
+      "code": "REDU-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7852878,
+      "code": "REDU-039",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 34251483,
+      "code": "REDU-040",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 60645181,
+      "code": "REDU-041",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60645181,
+      "code": "REDU-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60645181,
+      "code": "REDU-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93730230,
+      "code": "REDU-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39139935,
+      "code": "REDU-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39139935,
+      "code": "REDU-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66523544,
+      "code": "REDU-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66523544,
+      "code": "REDU-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92918648,
+      "code": "REDU-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92918648,
+      "code": "REDU-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28912357,
+      "code": "REDU-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65301952,
+      "code": "REDU-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91895091,
+      "code": "REDU-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28290705,
+      "code": "REDU-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64689404,
+      "code": "REDU-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90673413,
+      "code": "REDU-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27068117,
+      "code": "REDU-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53466826,
+      "code": "REDU-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90951921,
+      "code": "REDU-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26345570,
+      "code": "REDU-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52340274,
+      "code": "REDU-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89739383,
+      "code": "REDU-057",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89739383,
+      "code": "REDU-057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25123082,
+      "code": "REDU-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52628687,
+      "code": "REDU-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88616795,
+      "code": "REDU-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14001430,
+      "code": "REDU-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51405049,
+      "code": "REDU-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87890143,
+      "code": "REDU-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14289852,
+      "code": "REDU-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40383551,
+      "code": "REDU-065",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 86778566,
+      "code": "REDU-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13166204,
+      "code": "REDU-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49551909,
+      "code": "REDU-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86555018,
+      "code": "REDU-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12940613,
+      "code": "REDU-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48439321,
+      "code": "REDU-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75833426,
+      "code": "REDU-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11228035,
+      "code": "REDU-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48216773,
+      "code": "REDU-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74611888,
+      "code": "REDU-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1005587,
+      "code": "REDU-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47594192,
+      "code": "REDU-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73599290,
+      "code": "REDU-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 983995,
+      "code": "REDU-079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36378044,
+      "code": "REDU-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 56174248,
+      "code": "REDU-081",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56174248,
+      "code": "REDU-081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82579942,
+      "code": "REDU-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14568951,
+      "code": "REDU-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41952656,
+      "code": "REDU-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87347365,
+      "code": "REDU-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14745409,
+      "code": "REDU-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40230018,
+      "code": "REDU-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76224717,
+      "code": "REDU-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13629812,
+      "code": "REDU-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7392745,
+      "code": "REDU-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4192696,
+      "code": "REDU-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9161357,
+      "code": "REDU-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35255456,
+      "code": "REDU-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12644061,
+      "code": "REDU-094",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84530620,
+      "code": "REDU-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21524779,
+      "code": "REDU-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57019473,
+      "code": "REDU-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84417082,
+      "code": "REDU-098",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84417082,
+      "code": "REDU-098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20802187,
+      "code": "REDU-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

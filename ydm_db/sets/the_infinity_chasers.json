@@ -1,0 +1,370 @@
+{
+  "name": "The Infinity Chasers",
+  "code": "INCH",
+  "type": "Deck Build Pack",
+  "date": "21-03-2019",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 35645105,
+      "code": "INCH-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62034800,
+      "code": "INCH-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98439949,
+      "code": "INCH-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34923554,
+      "code": "INCH-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61912252,
+      "code": "INCH-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97316367,
+      "code": "INCH-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24701066,
+      "code": "INCH-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60195675,
+      "code": "INCH-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97584719,
+      "code": "INCH-009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23689428,
+      "code": "INCH-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69073023,
+      "code": "INCH-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96462121,
+      "code": "INCH-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22866836,
+      "code": "INCH-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59851535,
+      "code": "INCH-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95245544,
+      "code": "INCH-015",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21744288,
+      "code": "INCH-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58139997,
+      "code": "INCH-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84523092,
+      "code": "INCH-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21522601,
+      "code": "INCH-019",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57916305,
+      "code": "INCH-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83301414,
+      "code": "INCH-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10805153,
+      "code": "INCH-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56894757,
+      "code": "INCH-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83289866,
+      "code": "INCH-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19673561,
+      "code": "INCH-025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55072170,
+      "code": "INCH-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82466274,
+      "code": "INCH-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18551923,
+      "code": "INCH-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45955628,
+      "code": "INCH-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81344637,
+      "code": "INCH-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17739335,
+      "code": "INCH-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44133040,
+      "code": "INCH-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70122149,
+      "code": "INCH-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17616743,
+      "code": "INCH-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43011492,
+      "code": "INCH-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79400597,
+      "code": "INCH-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6494106,
+      "code": "INCH-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42899204,
+      "code": "INCH-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79383919,
+      "code": "INCH-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15721123,
+      "code": "INCH-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59546797,
+      "code": "INCH-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52105192,
+      "code": "INCH-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68462976,
+      "code": "INCH-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45950291,
+      "code": "INCH-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63881033,
+      "code": "INCH-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13647631,
+      "code": "INCH-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73734821,
+      "code": "INCH-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27354732,
+      "code": "INCH-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31924889,
+      "code": "INCH-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29515122,
+      "code": "INCH-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22110647,
+      "code": "INCH-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95113856,
+      "code": "INCH-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51481927,
+      "code": "INCH-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67775894,
+      "code": "INCH-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53610653,
+      "code": "INCH-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9831539,
+      "code": "INCH-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87769556,
+      "code": "INCH-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13758665,
+      "code": "INCH-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23314220,
+      "code": "INCH-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "INCH-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

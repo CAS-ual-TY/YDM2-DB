@@ -1,0 +1,676 @@
+{
+  "name": "Generation Force",
+  "code": "GENF",
+  "type": "Booster Pack (Series 7)",
+  "date": "15-09-2011",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 96457619,
+      "code": "GENF-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26082117,
+      "code": "GENF-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62476815,
+      "code": "GENF-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98865920,
+      "code": "GENF-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25259669,
+      "code": "GENF-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51254277,
+      "code": "GENF-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98649372,
+      "code": "GENF-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24137081,
+      "code": "GENF-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50532786,
+      "code": "GENF-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87526784,
+      "code": "GENF-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23915499,
+      "code": "GENF-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50319138,
+      "code": "GENF-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86804246,
+      "code": "GENF-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12299841,
+      "code": "GENF-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59297550,
+      "code": "GENF-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85682655,
+      "code": "GENF-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12076263,
+      "code": "GENF-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58475908,
+      "code": "GENF-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84569017,
+      "code": "GENF-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11954712,
+      "code": "GENF-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47349310,
+      "code": "GENF-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84747429,
+      "code": "GENF-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10132124,
+      "code": "GENF-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47126872,
+      "code": "GENF-023",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47126872,
+      "code": "GENF-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73625877,
+      "code": "GENF-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19019586,
+      "code": "GENF-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46404281,
+      "code": "GENF-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72403299,
+      "code": "GENF-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9897998,
+      "code": "GENF-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45282603,
+      "code": "GENF-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71786742,
+      "code": "GENF-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8175346,
+      "code": "GENF-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34160055,
+      "code": "GENF-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71564150,
+      "code": "GENF-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7953868,
+      "code": "GENF-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33347467,
+      "code": "GENF-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70832512,
+      "code": "GENF-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6836211,
+      "code": "GENF-037",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 33225925,
+      "code": "GENF-038",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 69610924,
+      "code": "GENF-039",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69610924,
+      "code": "GENF-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69610924,
+      "code": "GENF-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5014629,
+      "code": "GENF-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32003338,
+      "code": "GENF-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32003338,
+      "code": "GENF-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68597372,
+      "code": "GENF-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68597372,
+      "code": "GENF-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95992081,
+      "code": "GENF-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95992081,
+      "code": "GENF-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31386180,
+      "code": "GENF-044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67775894,
+      "code": "GENF-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67775894,
+      "code": "GENF-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94770493,
+      "code": "GENF-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20264508,
+      "code": "GENF-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7653207,
+      "code": "GENF-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33057951,
+      "code": "GENF-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69042950,
+      "code": "GENF-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6430659,
+      "code": "GENF-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32835363,
+      "code": "GENF-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69320362,
+      "code": "GENF-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95714077,
+      "code": "GENF-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32703716,
+      "code": "GENF-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64107820,
+      "code": "GENF-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90592429,
+      "code": "GENF-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27980138,
+      "code": "GENF-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63485233,
+      "code": "GENF-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90470931,
+      "code": "GENF-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26864586,
+      "code": "GENF-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52263685,
+      "code": "GENF-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99657399,
+      "code": "GENF-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25642998,
+      "code": "GENF-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52140003,
+      "code": "GENF-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98535702,
+      "code": "GENF-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24920410,
+      "code": "GENF-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51324455,
+      "code": "GENF-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87313164,
+      "code": "GENF-069",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24707869,
+      "code": "GENF-070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50292967,
+      "code": "GENF-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86690572,
+      "code": "GENF-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13685271,
+      "code": "GENF-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59070329,
+      "code": "GENF-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86474024,
+      "code": "GENF-075",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12863633,
+      "code": "GENF-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48357738,
+      "code": "GENF-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85352446,
+      "code": "GENF-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11741041,
+      "code": "GENF-079",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11741041,
+      "code": "GENF-079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48135190,
+      "code": "GENF-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22842214,
+      "code": "GENF-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69846323,
+      "code": "GENF-082",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69846323,
+      "code": "GENF-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95231062,
+      "code": "GENF-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21620076,
+      "code": "GENF-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68124775,
+      "code": "GENF-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94119480,
+      "code": "GENF-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21507589,
+      "code": "GENF-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57902193,
+      "code": "GENF-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93396832,
+      "code": "GENF-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69572169,
+      "code": "GENF-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46759931,
+      "code": "GENF-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24103628,
+      "code": "GENF-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1945387,
+      "code": "GENF-093",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1945387,
+      "code": "GENF-093",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58147549,
+      "code": "GENF-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10920352,
+      "code": "GENF-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45170821,
+      "code": "GENF-096",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21143940,
+      "code": "GENF-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8949584,
+      "code": "GENF-098",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8949584,
+      "code": "GENF-098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37926346,
+      "code": "GENF-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

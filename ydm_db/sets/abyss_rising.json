@@ -1,0 +1,676 @@
+{
+  "name": "Abyss Rising",
+  "code": "ABYR",
+  "type": "Booster Pack (Series 8)",
+  "date": "05-12-2012",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 95772051,
+      "code": "ABYR-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9583383,
+      "code": "ABYR-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36088082,
+      "code": "ABYR-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62476197,
+      "code": "ABYR-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9861795,
+      "code": "ABYR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35866404,
+      "code": "ABYR-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61254509,
+      "code": "ABYR-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8649148,
+      "code": "ABYR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34143852,
+      "code": "ABYR-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61132951,
+      "code": "ABYR-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97526666,
+      "code": "ABYR-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33911264,
+      "code": "ABYR-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60316373,
+      "code": "ABYR-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96704018,
+      "code": "ABYR-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23899727,
+      "code": "ABYR-014",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23899727,
+      "code": "ABYR-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69293721,
+      "code": "ABYR-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96682430,
+      "code": "ABYR-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22076135,
+      "code": "ABYR-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58471134,
+      "code": "ABYR-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95466842,
+      "code": "ABYR-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21954587,
+      "code": "ABYR-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54359696,
+      "code": "ABYR-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90743290,
+      "code": "ABYR-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26732909,
+      "code": "ABYR-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53136004,
+      "code": "ABYR-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89521713,
+      "code": "ABYR-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26016357,
+      "code": "ABYR-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52404456,
+      "code": "ABYR-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88409165,
+      "code": "ABYR-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15893860,
+      "code": "ABYR-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51282878,
+      "code": "ABYR-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88686573,
+      "code": "ABYR-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14771222,
+      "code": "ABYR-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40160226,
+      "code": "ABYR-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87564935,
+      "code": "ABYR-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13959634,
+      "code": "ABYR-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40343749,
+      "code": "ABYR-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76442347,
+      "code": "ABYR-037",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 12836042,
+      "code": "ABYR-038",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 49221191,
+      "code": "ABYR-039",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49221191,
+      "code": "ABYR-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49221191,
+      "code": "ABYR-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75620895,
+      "code": "ABYR-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12014404,
+      "code": "ABYR-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48009503,
+      "code": "ABYR-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48009503,
+      "code": "ABYR-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74593218,
+      "code": "ABYR-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1992816,
+      "code": "ABYR-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1992816,
+      "code": "ABYR-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47387961,
+      "code": "ABYR-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74371660,
+      "code": "ABYR-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74371660,
+      "code": "ABYR-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 770365,
+      "code": "ABYR-047",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 770365,
+      "code": "ABYR-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37164373,
+      "code": "ABYR-048",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37164373,
+      "code": "ABYR-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73659078,
+      "code": "ABYR-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9053187,
+      "code": "ABYR-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36042825,
+      "code": "ABYR-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62437430,
+      "code": "ABYR-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9831539,
+      "code": "ABYR-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35220244,
+      "code": "ABYR-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61314842,
+      "code": "ABYR-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8719957,
+      "code": "ABYR-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34103656,
+      "code": "ABYR-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61592395,
+      "code": "ABYR-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97997309,
+      "code": "ABYR-059",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97997309,
+      "code": "ABYR-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33981008,
+      "code": "ABYR-060",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60470713,
+      "code": "ABYR-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96864811,
+      "code": "ABYR-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23269426,
+      "code": "ABYR-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69257165,
+      "code": "ABYR-064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95642274,
+      "code": "ABYR-065",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 22047978,
+      "code": "ABYR-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58531587,
+      "code": "ABYR-067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95920682,
+      "code": "ABYR-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21924381,
+      "code": "ABYR-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57319935,
+      "code": "ABYR-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34707034,
+      "code": "ABYR-071",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60202749,
+      "code": "ABYR-072",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60202749,
+      "code": "ABYR-072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97697447,
+      "code": "ABYR-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23681456,
+      "code": "ABYR-074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60080151,
+      "code": "ABYR-075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96474800,
+      "code": "ABYR-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22869904,
+      "code": "ABYR-077",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22869904,
+      "code": "ABYR-077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59957503,
+      "code": "ABYR-078",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 95352218,
+      "code": "ABYR-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22747316,
+      "code": "ABYR-080",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21767650,
+      "code": "ABYR-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58165765,
+      "code": "ABYR-082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84650463,
+      "code": "ABYR-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21044178,
+      "code": "ABYR-084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57043117,
+      "code": "ABYR-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83438826,
+      "code": "ABYR-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20822520,
+      "code": "ABYR-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56321639,
+      "code": "ABYR-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83715234,
+      "code": "ABYR-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7914843,
+      "code": "ABYR-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73778008,
+      "code": "ABYR-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31975743,
+      "code": "ABYR-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67675300,
+      "code": "ABYR-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3070049,
+      "code": "ABYR-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30464153,
+      "code": "ABYR-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66853752,
+      "code": "ABYR-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73776643,
+      "code": "ABYR-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48049769,
+      "code": "ABYR-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 440556,
+      "code": "ABYR-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

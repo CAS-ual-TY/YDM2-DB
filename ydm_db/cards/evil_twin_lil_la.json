@@ -16,5 +16,8 @@
   "ability": "",
   "has_effect": true,
   "link_rating": 1,
-  "link_arrows": 160
+  "link_arrows": [
+    "Left",
+    "Bottom"
+  ]
 }

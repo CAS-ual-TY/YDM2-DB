@@ -1,0 +1,42 @@
+{
+  "name": "astral_pack",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 4,
+      "rarities": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common",
+            "Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common",
+            "Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

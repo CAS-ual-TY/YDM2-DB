@@ -1,0 +1,316 @@
+{
+  "name": "Dragons of Legend",
+  "code": "DRLG",
+  "type": "60 Card Set",
+  "date": "25-04-2014",
+  "pull_type": "distribution",
+  "distribution": "60_card_set",
+  "cards": [
+    {
+      "id": 80019195,
+      "code": "DRLG-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16404809,
+      "code": "DRLG-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75380687,
+      "code": "DRLG-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43892408,
+      "code": "DRLG-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1784686,
+      "code": "DRLG-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89397517,
+      "code": "DRLG-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15381252,
+      "code": "DRLG-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42776960,
+      "code": "DRLG-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34022290,
+      "code": "DRLG-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18175965,
+      "code": "DRLG-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55569674,
+      "code": "DRLG-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81954378,
+      "code": "DRLG-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17052477,
+      "code": "DRLG-013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54447022,
+      "code": "DRLG-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80831721,
+      "code": "DRLG-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17236839,
+      "code": "DRLG-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43225434,
+      "code": "DRLG-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89719143,
+      "code": "DRLG-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16114248,
+      "code": "DRLG-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42502956,
+      "code": "DRLG-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79997591,
+      "code": "DRLG-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15981690,
+      "code": "DRLG-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41386308,
+      "code": "DRLG-023",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74875003,
+      "code": "DRLG-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 269012,
+      "code": "DRLG-025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47264717,
+      "code": "DRLG-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73652465,
+      "code": "DRLG-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9047460,
+      "code": "DRLG-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36442179,
+      "code": "DRLG-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72930878,
+      "code": "DRLG-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9925982,
+      "code": "DRLG-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35329581,
+      "code": "DRLG-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72714226,
+      "code": "DRLG-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8102334,
+      "code": "DRLG-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34507039,
+      "code": "DRLG-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61692648,
+      "code": "DRLG-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7080743,
+      "code": "DRLG-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34475451,
+      "code": "DRLG-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60879050,
+      "code": "DRLG-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36076683,
+      "code": "DRLG-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96864105,
+      "code": "DRLG-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33252803,
+      "code": "DRLG-042",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69757518,
+      "code": "DRLG-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96142517,
+      "code": "DRLG-044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22530212,
+      "code": "DRLG-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68535320,
+      "code": "DRLG-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95929069,
+      "code": "DRLG-047",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21414674,
+      "code": "DRLG-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55888045,
+      "code": "DRLG-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68812773,
+      "code": "DRLG-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94807487,
+      "code": "DRLG-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

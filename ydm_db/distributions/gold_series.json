@@ -1,0 +1,23 @@
+{
+  "name": "gold_series",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 22,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Gold Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

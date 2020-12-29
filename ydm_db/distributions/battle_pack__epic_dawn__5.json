@@ -1,0 +1,17 @@
+{
+  "name": "battle_pack__epic_dawn__5",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 1,
+          "rarities": [
+            "Starfoil Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

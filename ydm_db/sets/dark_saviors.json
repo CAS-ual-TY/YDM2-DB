@@ -1,0 +1,376 @@
+{
+  "name": "Dark Saviors",
+  "code": "DASA",
+  "type": "Deck Build Pack",
+  "date": "24-05-2018",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 34250214,
+      "code": "DASA-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70645913,
+      "code": "DASA-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6039967,
+      "code": "DASA-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33438666,
+      "code": "DASA-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79523365,
+      "code": "DASA-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6917479,
+      "code": "DASA-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32302078,
+      "code": "DASA-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69700783,
+      "code": "DASA-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5795882,
+      "code": "DASA-009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31189536,
+      "code": "DASA-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68688135,
+      "code": "DASA-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68688135,
+      "code": "DASA-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14212201,
+      "code": "DASA-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38250531,
+      "code": "DASA-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94073244,
+      "code": "DASA-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31467949,
+      "code": "DASA-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67466547,
+      "code": "DASA-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93850652,
+      "code": "DASA-017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20345391,
+      "code": "DASA-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66740005,
+      "code": "DASA-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93738004,
+      "code": "DASA-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25123713,
+      "code": "DASA-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1527418,
+      "code": "DASA-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38916526,
+      "code": "DASA-023",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64400161,
+      "code": "DASA-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91405870,
+      "code": "DASA-025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37890974,
+      "code": "DASA-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63288573,
+      "code": "DASA-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90673288,
+      "code": "DASA-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26077387,
+      "code": "DASA-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63166095,
+      "code": "DASA-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99550630,
+      "code": "DASA-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25955749,
+      "code": "DASA-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52340444,
+      "code": "DASA-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98338152,
+      "code": "DASA-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25733157,
+      "code": "DASA-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51227866,
+      "code": "DASA-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97616504,
+      "code": "DASA-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24010609,
+      "code": "DASA-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50005218,
+      "code": "DASA-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28985331,
+      "code": "DASA-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33420078,
+      "code": "DASA-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14536035,
+      "code": "DASA-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89997728,
+      "code": "DASA-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79844764,
+      "code": "DASA-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47475363,
+      "code": "DASA-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83011278,
+      "code": "DASA-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46571052,
+      "code": "DASA-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1371589,
+      "code": "DASA-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88728507,
+      "code": "DASA-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82962242,
+      "code": "DASA-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16404809,
+      "code": "DASA-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "DASA-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "DASA-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "DASA-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39910367,
+      "code": "DASA-055",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75014062,
+      "code": "DASA-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45869829,
+      "code": "DASA-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35726888,
+      "code": "DASA-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "DASA-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21350571,
+      "code": "DASA-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

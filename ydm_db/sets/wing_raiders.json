@@ -1,0 +1,370 @@
+{
+  "name": "Wing Raiders",
+  "code": "WIRA",
+  "type": "Deck Build Pack",
+  "date": "11-02-2016",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 90432163,
+      "code": "WIRA-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36426778,
+      "code": "WIRA-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63821877,
+      "code": "WIRA-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99315585,
+      "code": "WIRA-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36704180,
+      "code": "WIRA-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62709239,
+      "code": "WIRA-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16195942,
+      "code": "WIRA-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98153934,
+      "code": "WIRA-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25542642,
+      "code": "WIRA-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61936647,
+      "code": "WIRA-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98431356,
+      "code": "WIRA-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77462146,
+      "code": "WIRA-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24425055,
+      "code": "WIRA-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51814159,
+      "code": "WIRA-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97219708,
+      "code": "WIRA-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53251824,
+      "code": "WIRA-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5929801,
+      "code": "WIRA-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31314549,
+      "code": "WIRA-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60950180,
+      "code": "WIRA-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96345188,
+      "code": "WIRA-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83236601,
+      "code": "WIRA-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73347079,
+      "code": "WIRA-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81927732,
+      "code": "WIRA-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23603403,
+      "code": "WIRA-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50692511,
+      "code": "WIRA-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8559793,
+      "code": "WIRA-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86196216,
+      "code": "WIRA-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23581825,
+      "code": "WIRA-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21648584,
+      "code": "WIRA-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59975920,
+      "code": "WIRA-030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85374678,
+      "code": "WIRA-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12369277,
+      "code": "WIRA-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58753372,
+      "code": "WIRA-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85252081,
+      "code": "WIRA-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11646785,
+      "code": "WIRA-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57031794,
+      "code": "WIRA-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84025439,
+      "code": "WIRA-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10424147,
+      "code": "WIRA-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47819246,
+      "code": "WIRA-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28637168,
+      "code": "WIRA-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56585883,
+      "code": "WIRA-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71594310,
+      "code": "WIRA-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12014404,
+      "code": "WIRA-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31563350,
+      "code": "WIRA-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76067258,
+      "code": "WIRA-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75367227,
+      "code": "WIRA-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48739166,
+      "code": "WIRA-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68618157,
+      "code": "WIRA-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21501505,
+      "code": "WIRA-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7194917,
+      "code": "WIRA-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "WIRA-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "WIRA-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25789292,
+      "code": "WIRA-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94145683,
+      "code": "WIRA-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45950291,
+      "code": "WIRA-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29401950,
+      "code": "WIRA-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "WIRA-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53567095,
+      "code": "WIRA-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84968490,
+      "code": "WIRA-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26708437,
+      "code": "WIRA-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

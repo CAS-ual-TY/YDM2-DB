@@ -1,0 +1,682 @@
+{
+  "name": "Ancient Sanctuary",
+  "code": "AST",
+  "type": "Booster Pack (Series 1-3)",
+  "date": "01-06-2004",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 65403020,
+      "code": "AST-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39674352,
+      "code": "AST-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66073051,
+      "code": "AST-002",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 2468169,
+      "code": "AST-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39552864,
+      "code": "AST-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65957473,
+      "code": "AST-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91345518,
+      "code": "AST-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38730226,
+      "code": "AST-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64734921,
+      "code": "AST-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91123920,
+      "code": "AST-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27618634,
+      "code": "AST-010",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 63012333,
+      "code": "AST-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90407382,
+      "code": "AST-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26495087,
+      "code": "AST-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31812496,
+      "code": "AST-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53890795,
+      "code": "AST-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99284890,
+      "code": "AST-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25773409,
+      "code": "AST-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30190809,
+      "code": "AST-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52768103,
+      "code": "AST-019",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 98162242,
+      "code": "AST-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84550200,
+      "code": "AST-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25551951,
+      "code": "AST-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51945556,
+      "code": "AST-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87340664,
+      "code": "AST-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24435369,
+      "code": "AST-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50823978,
+      "code": "AST-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83228073,
+      "code": "AST-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19612721,
+      "code": "AST-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55001420,
+      "code": "AST-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82005435,
+      "code": "AST-030",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 18590133,
+      "code": "AST-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45985838,
+      "code": "AST-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81383947,
+      "code": "AST-033",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 18378582,
+      "code": "AST-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44762290,
+      "code": "AST-035",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 80161395,
+      "code": "AST-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "AST-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17655904,
+      "code": "AST-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43040603,
+      "code": "AST-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 303660,
+      "code": "AST-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10035717,
+      "code": "AST-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56433456,
+      "code": "AST-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82828051,
+      "code": "AST-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19312169,
+      "code": "AST-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45311864,
+      "code": "AST-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82705573,
+      "code": "AST-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18190572,
+      "code": "AST-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44595286,
+      "code": "AST-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71983925,
+      "code": "AST-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17078030,
+      "code": "AST-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44472639,
+      "code": "AST-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70861343,
+      "code": "AST-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16255442,
+      "code": "AST-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43250041,
+      "code": "AST-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79649195,
+      "code": "AST-055",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 53776525,
+      "code": "AST-056",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 27288416,
+      "code": "AST-057",
+      "rarity": "Super Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 99171160,
+      "code": "AST-058",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 26566878,
+      "code": "AST-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52550973,
+      "code": "AST-060",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 89959682,
+      "code": "AST-061",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 25343280,
+      "code": "AST-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51838385,
+      "code": "AST-063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88236094,
+      "code": "AST-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24221739,
+      "code": "AST-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51616747,
+      "code": "AST-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87010442,
+      "code": "AST-067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13409151,
+      "code": "AST-068",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 50593156,
+      "code": "AST-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86988864,
+      "code": "AST-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13386503,
+      "code": "AST-071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49771608,
+      "code": "AST-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85166216,
+      "code": "AST-073",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 12160911,
+      "code": "AST-074",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 48659020,
+      "code": "AST-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75043725,
+      "code": "AST-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11448373,
+      "code": "AST-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44436472,
+      "code": "AST-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70821187,
+      "code": "AST-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16226786,
+      "code": "AST-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 43714890,
+      "code": "AST-081",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 79109599,
+      "code": "AST-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6103294,
+      "code": "AST-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42598242,
+      "code": "AST-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78986941,
+      "code": "AST-085",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 5371656,
+      "code": "AST-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31476755,
+      "code": "AST-087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78864369,
+      "code": "AST-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4259068,
+      "code": "AST-089",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30653113,
+      "code": "AST-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67048711,
+      "code": "AST-091",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 3136426,
+      "code": "AST-092",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 30531525,
+      "code": "AST-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66926224,
+      "code": "AST-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2314238,
+      "code": "AST-095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39719977,
+      "code": "AST-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5703682,
+      "code": "AST-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32298781,
+      "code": "AST-098",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78697395,
+      "code": "AST-099",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 4081094,
+      "code": "AST-100",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 31076103,
+      "code": "AST-101",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67464807,
+      "code": "AST-102",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4869446,
+      "code": "AST-103",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30353551,
+      "code": "AST-104",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66742250,
+      "code": "AST-105",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93747864,
+      "code": "AST-106",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39131963,
+      "code": "AST-107",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66526672,
+      "code": "AST-108",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92924317,
+      "code": "AST-109",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39019325,
+      "code": "AST-110",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6133894,
+      "code": "AST-111",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

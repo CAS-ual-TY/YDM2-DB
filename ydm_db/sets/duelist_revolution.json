@@ -1,0 +1,676 @@
+{
+  "name": "Duelist Revolution",
+  "code": "DREV",
+  "type": "Booster Pack (Series 7)",
+  "date": "21-09-2010",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 45815891,
+      "code": "DREV-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61864793,
+      "code": "DREV-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97268402,
+      "code": "DREV-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97268402,
+      "code": "DREV-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34257001,
+      "code": "DREV-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60741115,
+      "code": "DREV-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96146814,
+      "code": "DREV-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23535429,
+      "code": "DREV-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69529567,
+      "code": "DREV-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96914272,
+      "code": "DREV-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22318971,
+      "code": "DREV-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58807980,
+      "code": "DREV-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95291684,
+      "code": "DREV-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21296383,
+      "code": "DREV-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58685438,
+      "code": "DREV-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94079037,
+      "code": "DREV-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20474741,
+      "code": "DREV-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57568840,
+      "code": "DREV-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83957459,
+      "code": "DREV-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20351153,
+      "code": "DREV-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56746202,
+      "code": "DREV-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83135907,
+      "code": "DREV-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19139516,
+      "code": "DREV-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55624610,
+      "code": "DREV-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82012319,
+      "code": "DREV-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18407024,
+      "code": "DREV-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45801022,
+      "code": "DREV-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81896771,
+      "code": "DREV-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17285476,
+      "code": "DREV-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44789585,
+      "code": "DREV-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20174189,
+      "code": "DREV-029",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20174189,
+      "code": "DREV-029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53162898,
+      "code": "DREV-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89567993,
+      "code": "DREV-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15951532,
+      "code": "DREV-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52346240,
+      "code": "DREV-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88845345,
+      "code": "DREV-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15839054,
+      "code": "DREV-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41224658,
+      "code": "DREV-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87622767,
+      "code": "DREV-037",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 14017402,
+      "code": "DREV-038",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14017402,
+      "code": "DREV-038",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14017402,
+      "code": "DREV-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40101111,
+      "code": "DREV-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77506119,
+      "code": "DREV-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77506119,
+      "code": "DREV-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13995824,
+      "code": "DREV-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13995824,
+      "code": "DREV-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49389523,
+      "code": "DREV-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49389523,
+      "code": "DREV-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76774528,
+      "code": "DREV-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76774528,
+      "code": "DREV-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2772236,
+      "code": "DREV-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2772236,
+      "code": "DREV-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49267971,
+      "code": "DREV-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75652080,
+      "code": "DREV-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1050684,
+      "code": "DREV-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48445393,
+      "code": "DREV-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74439492,
+      "code": "DREV-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1834107,
+      "code": "DREV-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37322745,
+      "code": "DREV-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74717840,
+      "code": "DREV-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 712559,
+      "code": "DREV-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36100154,
+      "code": "DREV-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63595262,
+      "code": "DREV-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9999961,
+      "code": "DREV-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36484016,
+      "code": "DREV-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62472614,
+      "code": "DREV-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98867329,
+      "code": "DREV-059",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 35262428,
+      "code": "DREV-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61650133,
+      "code": "DREV-061",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 98645731,
+      "code": "DREV-062",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34149830,
+      "code": "DREV-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60534585,
+      "code": "DREV-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97922283,
+      "code": "DREV-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23327298,
+      "code": "DREV-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60312997,
+      "code": "DREV-067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96700602,
+      "code": "DREV-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22205600,
+      "code": "DREV-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59699355,
+      "code": "DREV-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95084054,
+      "code": "DREV-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22082163,
+      "code": "DREV-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58477767,
+      "code": "DREV-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84962466,
+      "code": "DREV-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21350571,
+      "code": "DREV-075",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57355219,
+      "code": "DREV-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84749824,
+      "code": "DREV-077",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84749824,
+      "code": "DREV-077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20138923,
+      "code": "DREV-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56532632,
+      "code": "DREV-079",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56532632,
+      "code": "DREV-079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83027236,
+      "code": "DREV-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 71209500,
+      "code": "DREV-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7304544,
+      "code": "DREV-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44792253,
+      "code": "DREV-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70187958,
+      "code": "DREV-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7582066,
+      "code": "DREV-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33970665,
+      "code": "DREV-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79965360,
+      "code": "DREV-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6459419,
+      "code": "DREV-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32854013,
+      "code": "DREV-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35563539,
+      "code": "DREV-090",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47217354,
+      "code": "DREV-091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45586855,
+      "code": "DREV-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21636650,
+      "code": "DREV-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28332833,
+      "code": "DREV-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54326448,
+      "code": "DREV-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91711547,
+      "code": "DREV-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93882364,
+      "code": "DREV-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30399511,
+      "code": "DREV-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13521194,
+      "code": "DREV-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

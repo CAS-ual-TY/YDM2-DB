@@ -1,0 +1,610 @@
+{
+  "name": "Premium Gold: Infinite Gold",
+  "code": "PGL3",
+  "type": "Gold Series",
+  "date": "17-03-2016",
+  "pull_type": "distribution",
+  "distribution": "premium_gold__infinite_gold",
+  "cards": [
+    {
+      "id": 65612386,
+      "code": "PGL3-001",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1006081,
+      "code": "PGL3-002",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38491199,
+      "code": "PGL3-003",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35058857,
+      "code": "PGL3-004",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64880894,
+      "code": "PGL3-005",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90884403,
+      "code": "PGL3-006",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37279508,
+      "code": "PGL3-007",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63767246,
+      "code": "PGL3-008",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90162951,
+      "code": "PGL3-009",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26556950,
+      "code": "PGL3-010",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62541668,
+      "code": "PGL3-011",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99940363,
+      "code": "PGL3-012",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25334372,
+      "code": "PGL3-013",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62829077,
+      "code": "PGL3-014",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98827725,
+      "code": "PGL3-015",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24212820,
+      "code": "PGL3-016",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51606429,
+      "code": "PGL3-017",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97001138,
+      "code": "PGL3-018",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24590232,
+      "code": "PGL3-019",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50584941,
+      "code": "PGL3-020",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27552504,
+      "code": "PGL3-021",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68535320,
+      "code": "PGL3-022",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95929069,
+      "code": "PGL3-023",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31061682,
+      "code": "PGL3-024",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67050396,
+      "code": "PGL3-025",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94454495,
+      "code": "PGL3-026",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20849090,
+      "code": "PGL3-027",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56907986,
+      "code": "PGL3-028",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93302695,
+      "code": "PGL3-029",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29491334,
+      "code": "PGL3-030",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55885348,
+      "code": "PGL3-031",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67237709,
+      "code": "PGL3-032",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82270047,
+      "code": "PGL3-033",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98069388,
+      "code": "PGL3-034",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50323155,
+      "code": "PGL3-035",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99590524,
+      "code": "PGL3-036",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28654932,
+      "code": "PGL3-037",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1005587,
+      "code": "PGL3-038",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2055403,
+      "code": "PGL3-039",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1637760,
+      "code": "PGL3-040",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69512157,
+      "code": "PGL3-041",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23434538,
+      "code": "PGL3-042",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84764038,
+      "code": "PGL3-043",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20758643,
+      "code": "PGL3-044",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57143342,
+      "code": "PGL3-045",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 734741,
+      "code": "PGL3-046",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47728740,
+      "code": "PGL3-047",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73213494,
+      "code": "PGL3-048",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36553319,
+      "code": "PGL3-049",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62957424,
+      "code": "PGL3-050",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9342162,
+      "code": "PGL3-051",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59438930,
+      "code": "PGL3-052",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45593826,
+      "code": "PGL3-053",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81992475,
+      "code": "PGL3-054",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92746535,
+      "code": "PGL3-055",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57624336,
+      "code": "PGL3-056",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79229522,
+      "code": "PGL3-057",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18386170,
+      "code": "PGL3-058",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "PGL3-059",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31924889,
+      "code": "PGL3-060",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 601193,
+      "code": "PGL3-061",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18239909,
+      "code": "PGL3-062",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80117527,
+      "code": "PGL3-063",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29515122,
+      "code": "PGL3-064",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 581014,
+      "code": "PGL3-065",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73964868,
+      "code": "PGL3-066",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12014404,
+      "code": "PGL3-067",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21044178,
+      "code": "PGL3-068",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 440556,
+      "code": "PGL3-069",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22653490,
+      "code": "PGL3-070",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38495396,
+      "code": "PGL3-071",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38273745,
+      "code": "PGL3-072",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29669359,
+      "code": "PGL3-073",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14152862,
+      "code": "PGL3-074",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63746411,
+      "code": "PGL3-075",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82633039,
+      "code": "PGL3-076",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83531441,
+      "code": "PGL3-077",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44405066,
+      "code": "PGL3-078",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88722973,
+      "code": "PGL3-079",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58577036,
+      "code": "PGL3-080",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67723438,
+      "code": "PGL3-081",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93260132,
+      "code": "PGL3-082",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21143940,
+      "code": "PGL3-083",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1372887,
+      "code": "PGL3-084",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79844764,
+      "code": "PGL3-085",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93600443,
+      "code": "PGL3-086",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5133471,
+      "code": "PGL3-087",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44771289,
+      "code": "PGL3-088",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4227096,
+      "code": "PGL3-089",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14733538,
+      "code": "PGL3-090",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94739788,
+      "code": "PGL3-091",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20522190,
+      "code": "PGL3-092",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21481146,
+      "code": "PGL3-093",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73507661,
+      "code": "PGL3-094",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78474168,
+      "code": "PGL3-095",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59305593,
+      "code": "PGL3-096",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20036055,
+      "code": "PGL3-097",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36006208,
+      "code": "PGL3-098",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5650082,
+      "code": "PGL3-099",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75249652,
+      "code": "PGL3-100",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    }
+  ]
+}

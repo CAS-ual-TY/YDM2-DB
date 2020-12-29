@@ -1,0 +1,988 @@
+{
+  "name": "Maximum Gold",
+  "code": "MAGO",
+  "type": "Gold Series",
+  "date": "12-11-2020",
+  "pull_type": "distribution",
+  "distribution": "maximum_gold",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "MAGO-001",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "MAGO-002",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74677422,
+      "code": "MAGO-003",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40044918,
+      "code": "MAGO-004",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86197239,
+      "code": "MAGO-005",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94145021,
+      "code": "MAGO-006",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10802915,
+      "code": "MAGO-007",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34267821,
+      "code": "MAGO-008",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59438930,
+      "code": "MAGO-009",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14558127,
+      "code": "MAGO-010",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62015408,
+      "code": "MAGO-010",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14558127,
+      "code": "MAGO-011",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73642296,
+      "code": "MAGO-012",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60643553,
+      "code": "MAGO-013",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55885348,
+      "code": "MAGO-014",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38572779,
+      "code": "MAGO-015",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86120751,
+      "code": "MAGO-016",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55878039,
+      "code": "MAGO-017",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78661338,
+      "code": "MAGO-018",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27204311,
+      "code": "MAGO-019",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40398073,
+      "code": "MAGO-020",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13171876,
+      "code": "MAGO-021",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16960120,
+      "code": "MAGO-022",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88453933,
+      "code": "MAGO-023",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95440946,
+      "code": "MAGO-024",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66889139,
+      "code": "MAGO-025",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80532587,
+      "code": "MAGO-026",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41232647,
+      "code": "MAGO-027",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79606837,
+      "code": "MAGO-028",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64880894,
+      "code": "MAGO-029",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81846453,
+      "code": "MAGO-030",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73964868,
+      "code": "MAGO-031",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16195942,
+      "code": "MAGO-032",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10443957,
+      "code": "MAGO-033",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56832966,
+      "code": "MAGO-034",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27552504,
+      "code": "MAGO-035",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48905153,
+      "code": "MAGO-036",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41375811,
+      "code": "MAGO-037",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63288573,
+      "code": "MAGO-038",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85289965,
+      "code": "MAGO-039",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26692769,
+      "code": "MAGO-040",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4280258,
+      "code": "MAGO-041",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18144507,
+      "code": "MAGO-042",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97120394,
+      "code": "MAGO-043",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "MAGO-044",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "MAGO-045",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "MAGO-046",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48130397,
+      "code": "MAGO-047",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25789292,
+      "code": "MAGO-048",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57734012,
+      "code": "MAGO-049",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67237709,
+      "code": "MAGO-050",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "MAGO-051",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10045474,
+      "code": "MAGO-052",
+      "rarity": "Premium Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "MAGO-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35726888,
+      "code": "MAGO-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57995165,
+      "code": "MAGO-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88120966,
+      "code": "MAGO-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21521304,
+      "code": "MAGO-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16037007,
+      "code": "MAGO-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89516305,
+      "code": "MAGO-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48739166,
+      "code": "MAGO-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12744567,
+      "code": "MAGO-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88177324,
+      "code": "MAGO-062",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68396121,
+      "code": "MAGO-063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67489919,
+      "code": "MAGO-064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94973028,
+      "code": "MAGO-065",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26949946,
+      "code": "MAGO-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22110647,
+      "code": "MAGO-067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91350799,
+      "code": "MAGO-068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14001430,
+      "code": "MAGO-069",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79759367,
+      "code": "MAGO-070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92572371,
+      "code": "MAGO-071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49785720,
+      "code": "MAGO-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19059929,
+      "code": "MAGO-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91812341,
+      "code": "MAGO-074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45803070,
+      "code": "MAGO-075",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82738277,
+      "code": "MAGO-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59305593,
+      "code": "MAGO-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89732524,
+      "code": "MAGO-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1372887,
+      "code": "MAGO-079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4227096,
+      "code": "MAGO-080",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89883517,
+      "code": "MAGO-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53550467,
+      "code": "MAGO-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57690191,
+      "code": "MAGO-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93085839,
+      "code": "MAGO-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5361816,
+      "code": "MAGO-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55742055,
+      "code": "MAGO-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70000776,
+      "code": "MAGO-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37561138,
+      "code": "MAGO-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90434657,
+      "code": "MAGO-089",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84171830,
+      "code": "MAGO-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8522996,
+      "code": "MAGO-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48716527,
+      "code": "MAGO-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54241725,
+      "code": "MAGO-093",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62125438,
+      "code": "MAGO-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1003840,
+      "code": "MAGO-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5650082,
+      "code": "MAGO-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47475363,
+      "code": "MAGO-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53932291,
+      "code": "MAGO-098",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16725505,
+      "code": "MAGO-099",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3428069,
+      "code": "MAGO-100",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86240887,
+      "code": "MAGO-101",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67692580,
+      "code": "MAGO-102",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66399653,
+      "code": "MAGO-103",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39778366,
+      "code": "MAGO-104",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25451652,
+      "code": "MAGO-105",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52840267,
+      "code": "MAGO-106",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25339070,
+      "code": "MAGO-107",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14517422,
+      "code": "MAGO-108",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50501121,
+      "code": "MAGO-109",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7572887,
+      "code": "MAGO-110",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84478195,
+      "code": "MAGO-111",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10963799,
+      "code": "MAGO-112",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47961808,
+      "code": "MAGO-113",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73356503,
+      "code": "MAGO-114",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19740112,
+      "code": "MAGO-115",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46145256,
+      "code": "MAGO-116",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4334811,
+      "code": "MAGO-117",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34230233,
+      "code": "MAGO-118",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97526666,
+      "code": "MAGO-119",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3534077,
+      "code": "MAGO-120",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19667590,
+      "code": "MAGO-121",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90303176,
+      "code": "MAGO-122",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23893227,
+      "code": "MAGO-123",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57473560,
+      "code": "MAGO-124",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71039903,
+      "code": "MAGO-125",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63845230,
+      "code": "MAGO-126",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80794697,
+      "code": "MAGO-127",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16188701,
+      "code": "MAGO-128",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44656450,
+      "code": "MAGO-129",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66523544,
+      "code": "MAGO-130",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28912357,
+      "code": "MAGO-131",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85909450,
+      "code": "MAGO-132",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3814632,
+      "code": "MAGO-133",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90809975,
+      "code": "MAGO-134",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41999284,
+      "code": "MAGO-135",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46947713,
+      "code": "MAGO-136",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72006609,
+      "code": "MAGO-137",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37520316,
+      "code": "MAGO-138",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83746708,
+      "code": "MAGO-139",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63995093,
+      "code": "MAGO-140",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "MAGO-141",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71490127,
+      "code": "MAGO-142",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38120068,
+      "code": "MAGO-143",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96729612,
+      "code": "MAGO-144",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96363153,
+      "code": "MAGO-145",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53819808,
+      "code": "MAGO-146",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89882100,
+      "code": "MAGO-147",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35255456,
+      "code": "MAGO-148",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59388357,
+      "code": "MAGO-149",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45725480,
+      "code": "MAGO-150",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 911883,
+      "code": "MAGO-151",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47679935,
+      "code": "MAGO-152",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73468603,
+      "code": "MAGO-153",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17228908,
+      "code": "MAGO-154",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64697431,
+      "code": "MAGO-155",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24224830,
+      "code": "MAGO-156",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59160188,
+      "code": "MAGO-157",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70342110,
+      "code": "MAGO-158",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8038143,
+      "code": "MAGO-159",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24348804,
+      "code": "MAGO-160",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21076084,
+      "code": "MAGO-161",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24207889,
+      "code": "MAGO-162",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

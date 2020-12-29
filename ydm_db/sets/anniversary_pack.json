@@ -1,0 +1,57 @@
+{
+  "name": "Anniversary Pack",
+  "code": "YAP1",
+  "type": "Booster Pack (Misc.)",
+  "date": "08-12-2008",
+  "pull_type": "full_once",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "YAP1-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74677422,
+      "code": "YAP1-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70781052,
+      "code": "YAP1-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91152256,
+      "code": "YAP1-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31122090,
+      "code": "YAP1-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78193831,
+      "code": "YAP1-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77585513,
+      "code": "YAP1-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27416701,
+      "code": "YAP1-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

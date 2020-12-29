@@ -1,0 +1,676 @@
+{
+  "name": "Raging Battle",
+  "code": "RGBT",
+  "type": "Booster Pack (Series 6)",
+  "date": "23-06-2009",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 69695704,
+      "code": "RGBT-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51987571,
+      "code": "RGBT-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97385276,
+      "code": "RGBT-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23770284,
+      "code": "RGBT-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23770284,
+      "code": "RGBT-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50164989,
+      "code": "RGBT-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96553688,
+      "code": "RGBT-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23558733,
+      "code": "RGBT-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41160533,
+      "code": "RGBT-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59042331,
+      "code": "RGBT-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85431040,
+      "code": "RGBT-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22835145,
+      "code": "RGBT-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58820853,
+      "code": "RGBT-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85215458,
+      "code": "RGBT-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11613567,
+      "code": "RGBT-013",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11613567,
+      "code": "RGBT-013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57108202,
+      "code": "RGBT-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84592800,
+      "code": "RGBT-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10591919,
+      "code": "RGBT-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47985614,
+      "code": "RGBT-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83370323,
+      "code": "RGBT-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10875327,
+      "code": "RGBT-019",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10875327,
+      "code": "RGBT-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46263076,
+      "code": "RGBT-020",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46263076,
+      "code": "RGBT-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72258771,
+      "code": "RGBT-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19642889,
+      "code": "RGBT-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45041488,
+      "code": "RGBT-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12435193,
+      "code": "RGBT-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12435193,
+      "code": "RGBT-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54520292,
+      "code": "RGBT-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80925836,
+      "code": "RGBT-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17313545,
+      "code": "RGBT-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43708640,
+      "code": "RGBT-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80102359,
+      "code": "RGBT-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16191953,
+      "code": "RGBT-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42685062,
+      "code": "RGBT-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79080761,
+      "code": "RGBT-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15475415,
+      "code": "RGBT-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42463414,
+      "code": "RGBT-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78868119,
+      "code": "RGBT-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4252828,
+      "code": "RGBT-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41741922,
+      "code": "RGBT-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77135531,
+      "code": "RGBT-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4130270,
+      "code": "RGBT-039",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 40529384,
+      "code": "RGBT-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40529384,
+      "code": "RGBT-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76913983,
+      "code": "RGBT-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2403771,
+      "code": "RGBT-042",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2403771,
+      "code": "RGBT-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2403771,
+      "code": "RGBT-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39402797,
+      "code": "RGBT-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39402797,
+      "code": "RGBT-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76891401,
+      "code": "RGBT-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2295440,
+      "code": "RGBT-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38680149,
+      "code": "RGBT-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65079854,
+      "code": "RGBT-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1073952,
+      "code": "RGBT-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38568567,
+      "code": "RGBT-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64952266,
+      "code": "RGBT-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91351370,
+      "code": "RGBT-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37745919,
+      "code": "RGBT-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63730624,
+      "code": "RGBT-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90239723,
+      "code": "RGBT-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36623431,
+      "code": "RGBT-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63018036,
+      "code": "RGBT-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99002135,
+      "code": "RGBT-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25401880,
+      "code": "RGBT-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62896588,
+      "code": "RGBT-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98380593,
+      "code": "RGBT-060",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 25789292,
+      "code": "RGBT-061",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25789292,
+      "code": "RGBT-061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51773900,
+      "code": "RGBT-062",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97168905,
+      "code": "RGBT-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24566654,
+      "code": "RGBT-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50951359,
+      "code": "RGBT-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87046457,
+      "code": "RGBT-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23440062,
+      "code": "RGBT-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59839761,
+      "code": "RGBT-068",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86223870,
+      "code": "RGBT-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22628574,
+      "code": "RGBT-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59616123,
+      "code": "RGBT-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85101228,
+      "code": "RGBT-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11596936,
+      "code": "RGBT-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58990631,
+      "code": "RGBT-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84389640,
+      "code": "RGBT-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11373345,
+      "code": "RGBT-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47778083,
+      "code": "RGBT-077",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 83266092,
+      "code": "RGBT-078",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83266092,
+      "code": "RGBT-078",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10651797,
+      "code": "RGBT-079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46656406,
+      "code": "RGBT-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95090813,
+      "code": "RGBT-081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32485518,
+      "code": "RGBT-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68473226,
+      "code": "RGBT-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94878265,
+      "code": "RGBT-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21362970,
+      "code": "RGBT-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67757079,
+      "code": "RGBT-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94145683,
+      "code": "RGBT-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20140382,
+      "code": "RGBT-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56535497,
+      "code": "RGBT-089",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76714458,
+      "code": "RGBT-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25132288,
+      "code": "RGBT-091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46609443,
+      "code": "RGBT-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82693042,
+      "code": "RGBT-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91133740,
+      "code": "RGBT-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71759912,
+      "code": "RGBT-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37132349,
+      "code": "RGBT-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64627453,
+      "code": "RGBT-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90011152,
+      "code": "RGBT-098",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21672573,
+      "code": "RGBT-099",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "name": "Cosmo Blazer",
+  "code": "CBLZ",
+  "type": "Booster Pack (Series 8)",
+  "date": "21-03-2013",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 23562407,
+      "code": "CBLZ-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19700943,
+      "code": "CBLZ-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56105047,
+      "code": "CBLZ-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82593786,
+      "code": "CBLZ-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18988391,
+      "code": "CBLZ-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45082499,
+      "code": "CBLZ-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81471108,
+      "code": "CBLZ-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18865703,
+      "code": "CBLZ-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44250812,
+      "code": "CBLZ-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70655556,
+      "code": "CBLZ-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17643265,
+      "code": "CBLZ-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43138260,
+      "code": "CBLZ-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10532969,
+      "code": "CBLZ-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56921677,
+      "code": "CBLZ-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82315772,
+      "code": "CBLZ-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19310321,
+      "code": "CBLZ-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45705025,
+      "code": "CBLZ-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82293134,
+      "code": "CBLZ-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18698739,
+      "code": "CBLZ-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44682448,
+      "code": "CBLZ-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71071546,
+      "code": "CBLZ-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17475251,
+      "code": "CBLZ-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44860890,
+      "code": "CBLZ-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70355994,
+      "code": "CBLZ-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6353603,
+      "code": "CBLZ-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6353603,
+      "code": "CBLZ-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43748308,
+      "code": "CBLZ-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75132317,
+      "code": "CBLZ-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2521011,
+      "code": "CBLZ-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38525760,
+      "code": "CBLZ-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74010769,
+      "code": "CBLZ-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1409474,
+      "code": "CBLZ-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37803172,
+      "code": "CBLZ-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74298287,
+      "code": "CBLZ-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 282886,
+      "code": "CBLZ-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37781520,
+      "code": "CBLZ-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63175639,
+      "code": "CBLZ-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9560338,
+      "code": "CBLZ-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36569343,
+      "code": "CBLZ-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62953041,
+      "code": "CBLZ-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99348756,
+      "code": "CBLZ-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35842855,
+      "code": "CBLZ-040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61231400,
+      "code": "CBLZ-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98225108,
+      "code": "CBLZ-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24610207,
+      "code": "CBLZ-043",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 61019812,
+      "code": "CBLZ-044",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 97403510,
+      "code": "CBLZ-045",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97403510,
+      "code": "CBLZ-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97403510,
+      "code": "CBLZ-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23998625,
+      "code": "CBLZ-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23998625,
+      "code": "CBLZ-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60992364,
+      "code": "CBLZ-047",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60992364,
+      "code": "CBLZ-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96381979,
+      "code": "CBLZ-048",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96381979,
+      "code": "CBLZ-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23776077,
+      "code": "CBLZ-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59170782,
+      "code": "CBLZ-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95169481,
+      "code": "CBLZ-051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22653490,
+      "code": "CBLZ-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22653490,
+      "code": "CBLZ-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58058134,
+      "code": "CBLZ-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85446833,
+      "code": "CBLZ-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21831848,
+      "code": "CBLZ-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57836546,
+      "code": "CBLZ-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84220251,
+      "code": "CBLZ-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10719350,
+      "code": "CBLZ-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "CBLZ-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83108603,
+      "code": "CBLZ-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19596712,
+      "code": "CBLZ-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56981417,
+      "code": "CBLZ-062",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82386016,
+      "code": "CBLZ-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19870120,
+      "code": "CBLZ-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45869829,
+      "code": "CBLZ-065",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45869829,
+      "code": "CBLZ-065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82263578,
+      "code": "CBLZ-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18658572,
+      "code": "CBLZ-067",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 44046281,
+      "code": "CBLZ-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71541986,
+      "code": "CBLZ-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17536995,
+      "code": "CBLZ-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44920699,
+      "code": "CBLZ-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70329348,
+      "code": "CBLZ-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6713443,
+      "code": "CBLZ-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43708041,
+      "code": "CBLZ-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79206750,
+      "code": "CBLZ-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6691855,
+      "code": "CBLZ-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32086564,
+      "code": "CBLZ-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78474168,
+      "code": "CBLZ-078",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78474168,
+      "code": "CBLZ-078",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5479217,
+      "code": "CBLZ-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31863912,
+      "code": "CBLZ-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 59057152,
+      "code": "CBLZ-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96051150,
+      "code": "CBLZ-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22446869,
+      "code": "CBLZ-083",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22446869,
+      "code": "CBLZ-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59834564,
+      "code": "CBLZ-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85239662,
+      "code": "CBLZ-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21223277,
+      "code": "CBLZ-086",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21223277,
+      "code": "CBLZ-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58712976,
+      "code": "CBLZ-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84117021,
+      "code": "CBLZ-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11501629,
+      "code": "CBLZ-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46696593,
+      "code": "CBLZ-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10365322,
+      "code": "CBLZ-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18426196,
+      "code": "CBLZ-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80321197,
+      "code": "CBLZ-093",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18724123,
+      "code": "CBLZ-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28190303,
+      "code": "CBLZ-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58131925,
+      "code": "CBLZ-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74168099,
+      "code": "CBLZ-097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1662004,
+      "code": "CBLZ-098",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37057743,
+      "code": "CBLZ-099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

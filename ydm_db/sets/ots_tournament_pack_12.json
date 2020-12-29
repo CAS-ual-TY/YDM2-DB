@@ -1,0 +1,160 @@
+{
+  "name": "OTS Tournament Pack 12",
+  "code": "OP12",
+  "type": "OTS Tournament Pack",
+  "date": "05-12-2019",
+  "pull_type": "distribution",
+  "distribution": "ots_tournament_pack",
+  "cards": [
+    {
+      "id": 55878039,
+      "code": "OP12-001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43898403,
+      "code": "OP12-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "OP12-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36584821,
+      "code": "OP12-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28031913,
+      "code": "OP12-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56003780,
+      "code": "OP12-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21441617,
+      "code": "OP12-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92559258,
+      "code": "OP12-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98159737,
+      "code": "OP12-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23431858,
+      "code": "OP12-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55285840,
+      "code": "OP12-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14934922,
+      "code": "OP12-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47606319,
+      "code": "OP12-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44860890,
+      "code": "OP12-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71696014,
+      "code": "OP12-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53309998,
+      "code": "OP12-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80794697,
+      "code": "OP12-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89662401,
+      "code": "OP12-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9653271,
+      "code": "OP12-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74168099,
+      "code": "OP12-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42110604,
+      "code": "OP12-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "OP12-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27827272,
+      "code": "OP12-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69035382,
+      "code": "OP12-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "OP12-025",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

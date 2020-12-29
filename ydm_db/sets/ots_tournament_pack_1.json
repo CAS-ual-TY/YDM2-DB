@@ -1,0 +1,172 @@
+{
+  "name": "OTS Tournament Pack 1",
+  "code": "OP01",
+  "type": "OTS Tournament Pack",
+  "date": "18-03-2016",
+  "pull_type": "distribution",
+  "distribution": "ots_tournament_pack",
+  "cards": [
+    {
+      "id": 32296881,
+      "code": "OP01-001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47084486,
+      "code": "OP01-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58481572,
+      "code": "OP01-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94145021,
+      "code": "OP01-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89423971,
+      "code": "OP01-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73130445,
+      "code": "OP01-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40318957,
+      "code": "OP01-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17330916,
+      "code": "OP01-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53724621,
+      "code": "OP01-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22638495,
+      "code": "OP01-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58921041,
+      "code": "OP01-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30459350,
+      "code": "OP01-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14883228,
+      "code": "OP01-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32274490,
+      "code": "OP01-014",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 55550921,
+      "code": "OP01-015",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 92826944,
+      "code": "OP01-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79814787,
+      "code": "OP01-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80978111,
+      "code": "OP01-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31339260,
+      "code": "OP01-019",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 4779823,
+      "code": "OP01-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58069384,
+      "code": "OP01-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83746708,
+      "code": "OP01-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19230408,
+      "code": "OP01-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43040603,
+      "code": "OP01-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "OP01-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61650133,
+      "code": "OP01-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76224717,
+      "code": "OP01-027",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

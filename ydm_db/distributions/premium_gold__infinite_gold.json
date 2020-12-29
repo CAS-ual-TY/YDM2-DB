@@ -1,0 +1,23 @@
+{
+  "name": "premium_gold__infinite_gold",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 3,
+          "rarities": [
+            "Gold Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Gold Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

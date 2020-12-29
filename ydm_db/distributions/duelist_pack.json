@@ -1,0 +1,58 @@
+{
+  "name": "duelist_pack",
+  "pull_type": "distribution",
+  "pulls": [
+    {
+      "weight": 8,
+      "rarities": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 3,
+      "rarities": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "rarities": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

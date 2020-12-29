@@ -1,0 +1,520 @@
+{
+  "name": "The Lost Millennium",
+  "code": "TLM",
+  "type": "Booster Pack (Series 4)",
+  "date": "10-06-2005",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 21844576,
+      "code": "TLM-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58932615,
+      "code": "TLM-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84327329,
+      "code": "TLM-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20721928,
+      "code": "TLM-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57116033,
+      "code": "TLM-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57116033,
+      "code": "TLM-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83104731,
+      "code": "TLM-006",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83104731,
+      "code": "TLM-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10509340,
+      "code": "TLM-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10509340,
+      "code": "TLM-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56094445,
+      "code": "TLM-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82482194,
+      "code": "TLM-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82482194,
+      "code": "TLM-009",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19877898,
+      "code": "TLM-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19877898,
+      "code": "TLM-010",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45871897,
+      "code": "TLM-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82260502,
+      "code": "TLM-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82260502,
+      "code": "TLM-012",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18654201,
+      "code": "TLM-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18654201,
+      "code": "TLM-013",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45159319,
+      "code": "TLM-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71544954,
+      "code": "TLM-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71544954,
+      "code": "TLM-015",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13532663,
+      "code": "TLM-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40937767,
+      "code": "TLM-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40937767,
+      "code": "TLM-017",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76321376,
+      "code": "TLM-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3810071,
+      "code": "TLM-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49814180,
+      "code": "TLM-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49814180,
+      "code": "TLM-020",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75209824,
+      "code": "TLM-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2694423,
+      "code": "TLM-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48092532,
+      "code": "TLM-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48092532,
+      "code": "TLM-023",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75487237,
+      "code": "TLM-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75487237,
+      "code": "TLM-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1571945,
+      "code": "TLM-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37970940,
+      "code": "TLM-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74364659,
+      "code": "TLM-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 759393,
+      "code": "TLM-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37744402,
+      "code": "TLM-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63142001,
+      "code": "TLM-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9637706,
+      "code": "TLM-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36021814,
+      "code": "TLM-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62420419,
+      "code": "TLM-033",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62420419,
+      "code": "TLM-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99414168,
+      "code": "TLM-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99414168,
+      "code": "TLM-034",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35809262,
+      "code": "TLM-035",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35809262,
+      "code": "TLM-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61204971,
+      "code": "TLM-036",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61204971,
+      "code": "TLM-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42664989,
+      "code": "TLM-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42664989,
+      "code": "TLM-037",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87910978,
+      "code": "TLM-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87910978,
+      "code": "TLM-038",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98792570,
+      "code": "TLM-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34187685,
+      "code": "TLM-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61181383,
+      "code": "TLM-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97570038,
+      "code": "TLM-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23965037,
+      "code": "TLM-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60369732,
+      "code": "TLM-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96458440,
+      "code": "TLM-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96458440,
+      "code": "TLM-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23842445,
+      "code": "TLM-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23842445,
+      "code": "TLM-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59237154,
+      "code": "TLM-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96631852,
+      "code": "TLM-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22020907,
+      "code": "TLM-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22020907,
+      "code": "TLM-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58015506,
+      "code": "TLM-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85519211,
+      "code": "TLM-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21908319,
+      "code": "TLM-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21908319,
+      "code": "TLM-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58392024,
+      "code": "TLM-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84397023,
+      "code": "TLM-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20781762,
+      "code": "TLM-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57270476,
+      "code": "TLM-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83675475,
+      "code": "TLM-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83675475,
+      "code": "TLM-057",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10069180,
+      "code": "TLM-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10069180,
+      "code": "TLM-058",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56058888,
+      "code": "TLM-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56058888,
+      "code": "TLM-059",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82452993,
+      "code": "TLM-060",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "name": "Tournament Pack: 2nd Season",
+  "code": "TP2",
+  "type": "Tournament Pack",
+  "date": "01-10-2002",
+  "pull_type": "distribution",
+  "distribution": "tournament_pack",
+  "cards": [
+    {
+      "id": 33508719,
+      "code": "TP2-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28563545,
+      "code": "TP2-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58831685,
+      "code": "TP2-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26725158,
+      "code": "TP2-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16970158,
+      "code": "TP2-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38277918,
+      "code": "TP2-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3627449,
+      "code": "TP2-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43694075,
+      "code": "TP2-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99721536,
+      "code": "TP2-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31066283,
+      "code": "TP2-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16899564,
+      "code": "TP2-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38942059,
+      "code": "TP2-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30451366,
+      "code": "TP2-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56413937,
+      "code": "TP2-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47852924,
+      "code": "TP2-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59983499,
+      "code": "TP2-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59053232,
+      "code": "TP2-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96967123,
+      "code": "TP2-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71068263,
+      "code": "TP2-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14037717,
+      "code": "TP2-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75582395,
+      "code": "TP2-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3170832,
+      "code": "TP2-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79629370,
+      "code": "TP2-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4179849,
+      "code": "TP2-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94119974,
+      "code": "TP2-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14977074,
+      "code": "TP2-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38289717,
+      "code": "TP2-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62762898,
+      "code": "TP2-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95288024,
+      "code": "TP2-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93343894,
+      "code": "TP2-030",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

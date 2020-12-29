@@ -1,0 +1,136 @@
+{
+  "name": "Turbo Pack: Booster Eight",
+  "code": "TU08",
+  "type": "Turbo Pack",
+  "date": "01-06-2012",
+  "pull_type": "distribution",
+  "distribution": "turbo_pack",
+  "cards": [
+    {
+      "id": 71564252,
+      "code": "TU08-000",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82732705,
+      "code": "TU08-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "TU08-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "TU08-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70368879,
+      "code": "TU08-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46656406,
+      "code": "TU08-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64428736,
+      "code": "TU08-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45871897,
+      "code": "TU08-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3366982,
+      "code": "TU08-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36045450,
+      "code": "TU08-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31785398,
+      "code": "TU08-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53334471,
+      "code": "TU08-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85166216,
+      "code": "TU08-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12160911,
+      "code": "TU08-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67688478,
+      "code": "TU08-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23297235,
+      "code": "TU08-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95714077,
+      "code": "TU08-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68400115,
+      "code": "TU08-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28121403,
+      "code": "TU08-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20781762,
+      "code": "TU08-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50755,
+      "code": "TU08-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
