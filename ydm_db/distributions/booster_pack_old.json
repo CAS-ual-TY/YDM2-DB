@@ -3,7 +3,7 @@
   "pulls": [
     {
       "weight": 18,
-      "rarities": [
+      "entries": [
         {
           "count": 8,
           "rarities": [
@@ -22,7 +22,7 @@
     },
     {
       "weight": 5,
-      "rarities": [
+      "entries": [
         {
           "count": 7,
           "rarities": [
@@ -47,7 +47,7 @@
     },
     {
       "weight": 2,
-      "rarities": [
+      "entries": [
         {
           "count": 7,
           "rarities": [
@@ -74,7 +74,7 @@
     },
     {
       "weight": 1,
-      "rarities": [
+      "entries": [
         {
           "count": 7,
           "rarities": [
