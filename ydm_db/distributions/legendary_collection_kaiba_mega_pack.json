@@ -1,0 +1,22 @@
+{
+  "name": "legendary_collection_kaiba_mega_pack",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 6,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 4,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
