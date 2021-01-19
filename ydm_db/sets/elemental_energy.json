@@ -1,0 +1,521 @@
+{
+  "name": "Elemental Energy",
+  "code": "EEN",
+  "type": "Booster Pack (Series 4)",
+  "date": "30-11-2005",
+  "image": "https://ygoprodeck.com/pics_sets/EEN.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 7459013,
+      "code": "EEN-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51638941,
+      "code": "EEN-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97023549,
+      "code": "EEN-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "EEN-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "EEN-004",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "EEN-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "EEN-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "EEN-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "EEN-006",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59793705,
+      "code": "EEN-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59793705,
+      "code": "EEN-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86188410,
+      "code": "EEN-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23421244,
+      "code": "EEN-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50916353,
+      "code": "EEN-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50916353,
+      "code": "EEN-010",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96300057,
+      "code": "EEN-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23309606,
+      "code": "EEN-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22587018,
+      "code": "EEN-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58071123,
+      "code": "EEN-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85066822,
+      "code": "EEN-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85066822,
+      "code": "EEN-015",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11460577,
+      "code": "EEN-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44954628,
+      "code": "EEN-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44954628,
+      "code": "EEN-017",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70948327,
+      "code": "EEN-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6337436,
+      "code": "EEN-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6337436,
+      "code": "EEN-019",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33731070,
+      "code": "EEN-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79126789,
+      "code": "EEN-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79126789,
+      "code": "EEN-021",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6214884,
+      "code": "EEN-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6214884,
+      "code": "EEN-022",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32619583,
+      "code": "EEN-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32619583,
+      "code": "EEN-023",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78004197,
+      "code": "EEN-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78004197,
+      "code": "EEN-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5498296,
+      "code": "EEN-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31887905,
+      "code": "EEN-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68881649,
+      "code": "EEN-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4376658,
+      "code": "EEN-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31764353,
+      "code": "EEN-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58859575,
+      "code": "EEN-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84243274,
+      "code": "EEN-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84243274,
+      "code": "EEN-031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10248389,
+      "code": "EEN-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10248389,
+      "code": "EEN-032",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47737087,
+      "code": "EEN-033",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47737087,
+      "code": "EEN-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83121692,
+      "code": "EEN-034",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83121692,
+      "code": "EEN-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10526791,
+      "code": "EEN-035",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10526791,
+      "code": "EEN-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25366484,
+      "code": "EEN-036",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25366484,
+      "code": "EEN-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67169062,
+      "code": "EEN-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67169062,
+      "code": "EEN-037",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93554166,
+      "code": "EEN-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61850482,
+      "code": "EEN-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24643836,
+      "code": "EEN-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98259197,
+      "code": "EEN-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19394153,
+      "code": "EEN-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19394153,
+      "code": "EEN-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45898858,
+      "code": "EEN-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46910446,
+      "code": "EEN-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46910446,
+      "code": "EEN-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90374791,
+      "code": "EEN-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90374791,
+      "code": "EEN-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30548775,
+      "code": "EEN-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66947414,
+      "code": "EEN-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93431518,
+      "code": "EEN-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44676200,
+      "code": "EEN-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44676200,
+      "code": "EEN-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18271561,
+      "code": "EEN-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18271561,
+      "code": "EEN-050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29826127,
+      "code": "EEN-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65824822,
+      "code": "EEN-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92219931,
+      "code": "EEN-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28604635,
+      "code": "EEN-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55008284,
+      "code": "EEN-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91597389,
+      "code": "EEN-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72287557,
+      "code": "EEN-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71060915,
+      "code": "EEN-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27581098,
+      "code": "EEN-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54976796,
+      "code": "EEN-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54976796,
+      "code": "EEN-060",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    }
+  ]
+}

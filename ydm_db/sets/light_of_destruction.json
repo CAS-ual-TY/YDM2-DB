@@ -1,0 +1,677 @@
+{
+  "name": "Light of Destruction",
+  "code": "LODT",
+  "type": "Booster Pack (Series 5)",
+  "date": "18-06-2008",
+  "image": "https://ygoprodeck.com/pics_sets/LODT.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 71799173,
+      "code": "LODT-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37742478,
+      "code": "LODT-001",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37742478,
+      "code": "LODT-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73146473,
+      "code": "LODT-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 131182,
+      "code": "LODT-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36625827,
+      "code": "LODT-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63014935,
+      "code": "LODT-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9418534,
+      "code": "LODT-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35803249,
+      "code": "LODT-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62892347,
+      "code": "LODT-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8396952,
+      "code": "LODT-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35781051,
+      "code": "LODT-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61175706,
+      "code": "LODT-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97574404,
+      "code": "LODT-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34568403,
+      "code": "LODT-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60953118,
+      "code": "LODT-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97452817,
+      "code": "LODT-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23846921,
+      "code": "LODT-016",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23846921,
+      "code": "LODT-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69831560,
+      "code": "LODT-017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96235275,
+      "code": "LODT-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22624373,
+      "code": "LODT-019",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22624373,
+      "code": "LODT-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59019082,
+      "code": "LODT-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95503687,
+      "code": "LODT-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21502796,
+      "code": "LODT-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58996430,
+      "code": "LODT-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94381039,
+      "code": "LODT-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94381039,
+      "code": "LODT-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21785144,
+      "code": "LODT-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57774843,
+      "code": "LODT-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83269557,
+      "code": "LODT-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20663556,
+      "code": "LODT-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56052205,
+      "code": "LODT-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83446909,
+      "code": "LODT-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19441018,
+      "code": "LODT-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56839613,
+      "code": "LODT-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82324312,
+      "code": "LODT-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14729426,
+      "code": "LODT-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41113025,
+      "code": "LODT-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87102774,
+      "code": "LODT-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14506878,
+      "code": "LODT-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40991587,
+      "code": "LODT-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86489182,
+      "code": "LODT-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13474291,
+      "code": "LODT-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49879995,
+      "code": "LODT-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49879995,
+      "code": "LODT-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76263644,
+      "code": "LODT-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76263644,
+      "code": "LODT-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12652643,
+      "code": "LODT-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12652643,
+      "code": "LODT-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48156348,
+      "code": "LODT-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75141056,
+      "code": "LODT-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1539051,
+      "code": "LODT-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48934760,
+      "code": "LODT-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74329404,
+      "code": "LODT-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 313513,
+      "code": "LODT-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37812118,
+      "code": "LODT-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73206827,
+      "code": "LODT-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 691925,
+      "code": "LODT-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 691925,
+      "code": "LODT-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36099620,
+      "code": "LODT-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2084239,
+      "code": "LODT-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49479374,
+      "code": "LODT-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75967082,
+      "code": "LODT-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2362787,
+      "code": "LODT-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48356796,
+      "code": "LODT-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74741494,
+      "code": "LODT-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1149109,
+      "code": "LODT-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37534148,
+      "code": "LODT-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74029853,
+      "code": "LODT-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27551,
+      "code": "LODT-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37412656,
+      "code": "LODT-064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63806265,
+      "code": "LODT-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9201964,
+      "code": "LODT-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36690018,
+      "code": "LODT-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62784717,
+      "code": "LODT-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99189322,
+      "code": "LODT-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35577420,
+      "code": "LODT-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61962135,
+      "code": "LODT-071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98956134,
+      "code": "LODT-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34351849,
+      "code": "LODT-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61840587,
+      "code": "LODT-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97234686,
+      "code": "LODT-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23639291,
+      "code": "LODT-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60627999,
+      "code": "LODT-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96012004,
+      "code": "LODT-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23516703,
+      "code": "LODT-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59905358,
+      "code": "LODT-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7183277,
+      "code": "LODT-081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44178886,
+      "code": "LODT-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70676581,
+      "code": "LODT-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6061630,
+      "code": "LODT-084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33455338,
+      "code": "LODT-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57844634,
+      "code": "LODT-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79444933,
+      "code": "LODT-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6849042,
+      "code": "LODT-088",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6849042,
+      "code": "LODT-088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32233746,
+      "code": "LODT-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27769400,
+      "code": "LODT-090",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57902462,
+      "code": "LODT-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56784842,
+      "code": "LODT-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60399954,
+      "code": "LODT-093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9720537,
+      "code": "LODT-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17286057,
+      "code": "LODT-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76895648,
+      "code": "LODT-096",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76895648,
+      "code": "LODT-096",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30707994,
+      "code": "LODT-097",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30707994,
+      "code": "LODT-097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6614221,
+      "code": "LODT-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42009836,
+      "code": "LODT-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

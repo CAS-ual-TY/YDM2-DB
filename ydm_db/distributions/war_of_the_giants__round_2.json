@@ -1,0 +1,28 @@
+{
+  "name": "war_of_the_giants__round_2",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 9,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 6,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

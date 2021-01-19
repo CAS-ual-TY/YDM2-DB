@@ -1,0 +1,137 @@
+{
+  "name": "Turbo Pack: Booster Seven",
+  "code": "TU07",
+  "type": "Turbo Pack",
+  "date": "01-01-2012",
+  "image": "https://ygoprodeck.com/pics_sets/TU07.jpg",
+  "pull_type": "distribution",
+  "distribution": "turbo_pack",
+  "cards": [
+    {
+      "id": 26593852,
+      "code": "TU07-000",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "TU07-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4041838,
+      "code": "TU07-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "TU07-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23093604,
+      "code": "TU07-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21350571,
+      "code": "TU07-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66214679,
+      "code": "TU07-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87259077,
+      "code": "TU07-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23701465,
+      "code": "TU07-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84808313,
+      "code": "TU07-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83682725,
+      "code": "TU07-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37694547,
+      "code": "TU07-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6740720,
+      "code": "TU07-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66516792,
+      "code": "TU07-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19406822,
+      "code": "TU07-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14472500,
+      "code": "TU07-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10236520,
+      "code": "TU07-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17266660,
+      "code": "TU07-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75498415,
+      "code": "TU07-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70861343,
+      "code": "TU07-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89628781,
+      "code": "TU07-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

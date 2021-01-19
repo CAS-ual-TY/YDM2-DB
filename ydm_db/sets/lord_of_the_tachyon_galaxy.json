@@ -1,0 +1,677 @@
+{
+  "name": "Lord of the Tachyon Galaxy",
+  "code": "LTGY",
+  "type": "Booster Pack (Series 8)",
+  "date": "11-05-2013",
+  "image": "https://ygoprodeck.com/pics_sets/LTGY.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 76902476,
+      "code": "LTGY-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83272895,
+      "code": "LTGY-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19667590,
+      "code": "LTGY-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45651298,
+      "code": "LTGY-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82050203,
+      "code": "LTGY-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18444902,
+      "code": "LTGY-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45939611,
+      "code": "LTGY-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71923655,
+      "code": "LTGY-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18322364,
+      "code": "LTGY-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44717069,
+      "code": "LTGY-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70101178,
+      "code": "LTGY-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7500772,
+      "code": "LTGY-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43694481,
+      "code": "LTGY-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70089580,
+      "code": "LTGY-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6483224,
+      "code": "LTGY-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32872833,
+      "code": "LTGY-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79867938,
+      "code": "LTGY-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5361647,
+      "code": "LTGY-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32750341,
+      "code": "LTGY-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68144350,
+      "code": "LTGY-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4549095,
+      "code": "LTGY-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31533704,
+      "code": "LTGY-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67922702,
+      "code": "LTGY-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4417407,
+      "code": "LTGY-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30811116,
+      "code": "LTGY-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66200210,
+      "code": "LTGY-025",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66200210,
+      "code": "LTGY-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93294869,
+      "code": "LTGY-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39699564,
+      "code": "LTGY-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66084673,
+      "code": "LTGY-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92572371,
+      "code": "LTGY-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28577986,
+      "code": "LTGY-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65961085,
+      "code": "LTGY-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91350799,
+      "code": "LTGY-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28754338,
+      "code": "LTGY-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54149433,
+      "code": "LTGY-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90238142,
+      "code": "LTGY-035",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90238142,
+      "code": "LTGY-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27632240,
+      "code": "LTGY-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53027855,
+      "code": "LTGY-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90411554,
+      "code": "LTGY-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26400609,
+      "code": "LTGY-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53804307,
+      "code": "LTGY-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89399912,
+      "code": "LTGY-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25788011,
+      "code": "LTGY-042",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 52182715,
+      "code": "LTGY-043",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 88177324,
+      "code": "LTGY-044",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88177324,
+      "code": "LTGY-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88177324,
+      "code": "LTGY-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15561463,
+      "code": "LTGY-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15561463,
+      "code": "LTGY-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51960178,
+      "code": "LTGY-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23454876,
+      "code": "LTGY-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50449881,
+      "code": "LTGY-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86848580,
+      "code": "LTGY-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23232295,
+      "code": "LTGY-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59627393,
+      "code": "LTGY-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85121942,
+      "code": "LTGY-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85121942,
+      "code": "LTGY-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22110647,
+      "code": "LTGY-053",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58504745,
+      "code": "LTGY-054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85909450,
+      "code": "LTGY-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11398059,
+      "code": "LTGY-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57782164,
+      "code": "LTGY-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84877802,
+      "code": "LTGY-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10275411,
+      "code": "LTGY-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47660516,
+      "code": "LTGY-060",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47660516,
+      "code": "LTGY-060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83054225,
+      "code": "LTGY-061",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83054225,
+      "code": "LTGY-061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19059929,
+      "code": "LTGY-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46448938,
+      "code": "LTGY-063",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72932673,
+      "code": "LTGY-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19337371,
+      "code": "LTGY-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45725480,
+      "code": "LTGY-066",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72710085,
+      "code": "LTGY-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18114794,
+      "code": "LTGY-068",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 44509898,
+      "code": "LTGY-069",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71098407,
+      "code": "LTGY-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7092142,
+      "code": "LTGY-071",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44487250,
+      "code": "LTGY-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70875955,
+      "code": "LTGY-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6260554,
+      "code": "LTGY-074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33665663,
+      "code": "LTGY-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79759367,
+      "code": "LTGY-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6148016,
+      "code": "LTGY-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32542011,
+      "code": "LTGY-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68937720,
+      "code": "LTGY-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5325424,
+      "code": "LTGY-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 13391185,
+      "code": "LTGY-081",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13391185,
+      "code": "LTGY-081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49785720,
+      "code": "LTGY-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75180828,
+      "code": "LTGY-083",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75180828,
+      "code": "LTGY-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12275533,
+      "code": "LTGY-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44663232,
+      "code": "LTGY-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71068247,
+      "code": "LTGY-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7452945,
+      "code": "LTGY-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43841694,
+      "code": "LTGY-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70946699,
+      "code": "LTGY-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17932494,
+      "code": "LTGY-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26329679,
+      "code": "LTGY-091",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26329679,
+      "code": "LTGY-091",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2407234,
+      "code": "LTGY-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78358521,
+      "code": "LTGY-093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4756629,
+      "code": "LTGY-094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91020571,
+      "code": "LTGY-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27415516,
+      "code": "LTGY-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53797637,
+      "code": "LTGY-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89185742,
+      "code": "LTGY-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54813225,
+      "code": "LTGY-099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

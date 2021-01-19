@@ -1,0 +1,67 @@
+{
+  "name": "champion_pack",
+  "pulls": [
+    {
+      "weight": 972,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Common"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 576,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 144,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 36,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

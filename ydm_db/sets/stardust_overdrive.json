@@ -1,0 +1,677 @@
+{
+  "name": "Stardust Overdrive",
+  "code": "SOVR",
+  "type": "Booster Pack (Series 6)",
+  "date": "11-12-2009",
+  "image": "https://ygoprodeck.com/pics_sets/SOVR.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 39037517,
+      "code": "SOVR-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21159309,
+      "code": "SOVR-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68543408,
+      "code": "SOVR-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94538053,
+      "code": "SOVR-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20932152,
+      "code": "SOVR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57421866,
+      "code": "SOVR-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93816465,
+      "code": "SOVR-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20210570,
+      "code": "SOVR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56209279,
+      "code": "SOVR-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82693917,
+      "code": "SOVR-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29088922,
+      "code": "SOVR-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55586621,
+      "code": "SOVR-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82971335,
+      "code": "SOVR-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28966434,
+      "code": "SOVR-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54360049,
+      "code": "SOVR-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81759748,
+      "code": "SOVR-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17243896,
+      "code": "SOVR-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54248491,
+      "code": "SOVR-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80637190,
+      "code": "SOVR-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17021204,
+      "code": "SOVR-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43426903,
+      "code": "SOVR-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89810518,
+      "code": "SOVR-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16909657,
+      "code": "SOVR-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42303365,
+      "code": "SOVR-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79798060,
+      "code": "SOVR-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79798060,
+      "code": "SOVR-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15187079,
+      "code": "SOVR-025",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15187079,
+      "code": "SOVR-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41181774,
+      "code": "SOVR-026",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41181774,
+      "code": "SOVR-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74576482,
+      "code": "SOVR-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10060427,
+      "code": "SOVR-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47459126,
+      "code": "SOVR-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73853830,
+      "code": "SOVR-030",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73853830,
+      "code": "SOVR-030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9848939,
+      "code": "SOVR-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46237548,
+      "code": "SOVR-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72631243,
+      "code": "SOVR-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9126351,
+      "code": "SOVR-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35514096,
+      "code": "SOVR-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71519605,
+      "code": "SOVR-036",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 8903700,
+      "code": "SOVR-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34358408,
+      "code": "SOVR-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61757117,
+      "code": "SOVR-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61757117,
+      "code": "SOVR-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7841112,
+      "code": "SOVR-040",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7841112,
+      "code": "SOVR-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7841112,
+      "code": "SOVR-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33236860,
+      "code": "SOVR-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33236860,
+      "code": "SOVR-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60634565,
+      "code": "SOVR-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96029574,
+      "code": "SOVR-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33413279,
+      "code": "SOVR-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33413279,
+      "code": "SOVR-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69408987,
+      "code": "SOVR-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96907086,
+      "code": "SOVR-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32391631,
+      "code": "SOVR-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68786330,
+      "code": "SOVR-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95784434,
+      "code": "SOVR-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21179143,
+      "code": "SOVR-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68663748,
+      "code": "SOVR-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94068856,
+      "code": "SOVR-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20457551,
+      "code": "SOVR-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57441100,
+      "code": "SOVR-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33846209,
+      "code": "SOVR-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60234913,
+      "code": "SOVR-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96729612,
+      "code": "SOVR-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22123627,
+      "code": "SOVR-058",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 69112325,
+      "code": "SOVR-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95507060,
+      "code": "SOVR-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22991179,
+      "code": "SOVR-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68396778,
+      "code": "SOVR-062",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 94484482,
+      "code": "SOVR-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21879581,
+      "code": "SOVR-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57274196,
+      "code": "SOVR-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94662235,
+      "code": "SOVR-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20057949,
+      "code": "SOVR-067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56051648,
+      "code": "SOVR-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83546647,
+      "code": "SOVR-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29934351,
+      "code": "SOVR-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56339050,
+      "code": "SOVR-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82324105,
+      "code": "SOVR-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18712704,
+      "code": "SOVR-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55117418,
+      "code": "SOVR-074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81601517,
+      "code": "SOVR-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18096222,
+      "code": "SOVR-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54094821,
+      "code": "SOVR-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81489939,
+      "code": "SOVR-078",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 17874674,
+      "code": "SOVR-079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43262273,
+      "code": "SOVR-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65026212,
+      "code": "SOVR-081",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65026212,
+      "code": "SOVR-081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2420921,
+      "code": "SOVR-082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38815069,
+      "code": "SOVR-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65303664,
+      "code": "SOVR-084",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65303664,
+      "code": "SOVR-084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91798373,
+      "code": "SOVR-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37792478,
+      "code": "SOVR-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64187086,
+      "code": "SOVR-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90576781,
+      "code": "SOVR-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27970830,
+      "code": "SOVR-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99261403,
+      "code": "SOVR-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82878489,
+      "code": "SOVR-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11366199,
+      "code": "SOVR-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75162696,
+      "code": "SOVR-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14462257,
+      "code": "SOVR-094",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65422840,
+      "code": "SOVR-095",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59509952,
+      "code": "SOVR-096",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34022290,
+      "code": "SOVR-097",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97811903,
+      "code": "SOVR-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33900648,
+      "code": "SOVR-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

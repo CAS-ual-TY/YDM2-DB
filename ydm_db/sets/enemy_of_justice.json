@@ -1,0 +1,521 @@
+{
+  "name": "Enemy of Justice",
+  "code": "EOJ",
+  "type": "Booster Pack (Series 4)",
+  "date": "17-05-2006",
+  "image": "https://ygoprodeck.com/pics_sets/EOJ.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 41613948,
+      "code": "EOJ-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77608643,
+      "code": "EOJ-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13093792,
+      "code": "EOJ-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13093792,
+      "code": "EOJ-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40591390,
+      "code": "EOJ-004",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40591390,
+      "code": "EOJ-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49375719,
+      "code": "EOJ-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76763417,
+      "code": "EOJ-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2158562,
+      "code": "EOJ-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2158562,
+      "code": "EOJ-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76986005,
+      "code": "EOJ-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3370104,
+      "code": "EOJ-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3370104,
+      "code": "EOJ-009",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67646312,
+      "code": "EOJ-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93130021,
+      "code": "EOJ-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93130021,
+      "code": "EOJ-011",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81896370,
+      "code": "EOJ-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6924874,
+      "code": "EOJ-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6924874,
+      "code": "EOJ-013",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32918479,
+      "code": "EOJ-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69303178,
+      "code": "EOJ-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69303178,
+      "code": "EOJ-015",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95701283,
+      "code": "EOJ-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95701283,
+      "code": "EOJ-016",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68280530,
+      "code": "EOJ-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21074344,
+      "code": "EOJ-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21074344,
+      "code": "EOJ-018",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94689635,
+      "code": "EOJ-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94689635,
+      "code": "EOJ-019",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32296881,
+      "code": "EOJ-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67468948,
+      "code": "EOJ-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94853057,
+      "code": "EOJ-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94853057,
+      "code": "EOJ-022",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20951752,
+      "code": "EOJ-023",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20951752,
+      "code": "EOJ-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57346400,
+      "code": "EOJ-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93730409,
+      "code": "EOJ-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29139104,
+      "code": "EOJ-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56524813,
+      "code": "EOJ-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92518817,
+      "code": "EOJ-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29013526,
+      "code": "EOJ-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55401221,
+      "code": "EOJ-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20529766,
+      "code": "EOJ-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20529766,
+      "code": "EOJ-031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41436536,
+      "code": "EOJ-032",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41436536,
+      "code": "EOJ-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88820235,
+      "code": "EOJ-033",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88820235,
+      "code": "EOJ-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14225239,
+      "code": "EOJ-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55615891,
+      "code": "EOJ-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55615891,
+      "code": "EOJ-035",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81003500,
+      "code": "EOJ-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1036974,
+      "code": "EOJ-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74825788,
+      "code": "EOJ-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 213326,
+      "code": "EOJ-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37318031,
+      "code": "EOJ-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63703130,
+      "code": "EOJ-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 191749,
+      "code": "EOJ-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 191749,
+      "code": "EOJ-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54289683,
+      "code": "EOJ-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28890974,
+      "code": "EOJ-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48653261,
+      "code": "EOJ-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48653261,
+      "code": "EOJ-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38430673,
+      "code": "EOJ-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81674782,
+      "code": "EOJ-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75041269,
+      "code": "EOJ-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75041269,
+      "code": "EOJ-048",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17178486,
+      "code": "EOJ-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17178486,
+      "code": "EOJ-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36586443,
+      "code": "EOJ-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62980542,
+      "code": "EOJ-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62980542,
+      "code": "EOJ-051",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35464895,
+      "code": "EOJ-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99075257,
+      "code": "EOJ-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99075257,
+      "code": "EOJ-053",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62868900,
+      "code": "EOJ-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53567095,
+      "code": "EOJ-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94253609,
+      "code": "EOJ-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94253609,
+      "code": "EOJ-056",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30241314,
+      "code": "EOJ-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80551130,
+      "code": "EOJ-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80551130,
+      "code": "EOJ-058",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12117532,
+      "code": "EOJ-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43340443,
+      "code": "EOJ-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43340443,
+      "code": "EOJ-060",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    }
+  ]
+}

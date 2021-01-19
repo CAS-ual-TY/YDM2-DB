@@ -1,0 +1,611 @@
+{
+  "name": "Shining Victories",
+  "code": "SHVI",
+  "type": "Booster Pack (Series 9)",
+  "date": "16-06-2016",
+  "image": "https://ygoprodeck.com/pics_sets/SHVI.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 23220863,
+      "code": "SHVI-000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87979586,
+      "code": "SHVI-001",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 23377694,
+      "code": "SHVI-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59762399,
+      "code": "SHVI-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86157908,
+      "code": "SHVI-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12255007,
+      "code": "SHVI-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59640711,
+      "code": "SHVI-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85034450,
+      "code": "SHVI-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11439455,
+      "code": "SHVI-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48427163,
+      "code": "SHVI-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84812868,
+      "code": "SHVI-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11317977,
+      "code": "SHVI-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47705572,
+      "code": "SHVI-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83190280,
+      "code": "SHVI-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10194329,
+      "code": "SHVI-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46589034,
+      "code": "SHVI-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73977033,
+      "code": "SHVI-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19462747,
+      "code": "SHVI-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45467446,
+      "code": "SHVI-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72855441,
+      "code": "SHVI-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8240199,
+      "code": "SHVI-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45644898,
+      "code": "SHVI-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71039903,
+      "code": "SHVI-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7127502,
+      "code": "SHVI-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34522216,
+      "code": "SHVI-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70917315,
+      "code": "SHVI-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7305060,
+      "code": "SHVI-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33300669,
+      "code": "SHVI-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79794767,
+      "code": "SHVI-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6283472,
+      "code": "SHVI-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32687071,
+      "code": "SHVI-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69072185,
+      "code": "SHVI-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5067884,
+      "code": "SHVI-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32465539,
+      "code": "SHVI-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68950538,
+      "code": "SHVI-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94344242,
+      "code": "SHVI-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31733941,
+      "code": "SHVI-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63737050,
+      "code": "SHVI-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90122655,
+      "code": "SHVI-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26517393,
+      "code": "SHVI-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62015408,
+      "code": "SHVI-040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99000107,
+      "code": "SHVI-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25494711,
+      "code": "SHVI-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62893810,
+      "code": "SHVI-043",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 98287529,
+      "code": "SHVI-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24672164,
+      "code": "SHVI-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51777272,
+      "code": "SHVI-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97165977,
+      "code": "SHVI-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24550676,
+      "code": "SHVI-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50954680,
+      "code": "SHVI-049",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86943389,
+      "code": "SHVI-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23338098,
+      "code": "SHVI-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59822133,
+      "code": "SHVI-052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86221741,
+      "code": "SHVI-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12615446,
+      "code": "SHVI-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58600555,
+      "code": "SHVI-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85004150,
+      "code": "SHVI-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11493868,
+      "code": "SHVI-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58988903,
+      "code": "SHVI-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24382602,
+      "code": "SHVI-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50371210,
+      "code": "SHVI-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87765315,
+      "code": "SHVI-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23160024,
+      "code": "SHVI-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50554729,
+      "code": "SHVI-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86643777,
+      "code": "SHVI-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13048472,
+      "code": "SHVI-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59432181,
+      "code": "SHVI-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85821180,
+      "code": "SHVI-067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12215894,
+      "code": "SHVI-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48310593,
+      "code": "SHVI-069",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 85704698,
+      "code": "SHVI-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11193246,
+      "code": "SHVI-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47598941,
+      "code": "SHVI-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74582050,
+      "code": "SHVI-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10971759,
+      "code": "SHVI-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47475363,
+      "code": "SHVI-075",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73860462,
+      "code": "SHVI-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19254117,
+      "code": "SHVI-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46253216,
+      "code": "SHVI-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72648810,
+      "code": "SHVI-079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9032529,
+      "code": "SHVI-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 50619462,
+      "code": "SHVI-081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86013171,
+      "code": "SHVI-082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12408276,
+      "code": "SHVI-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59496924,
+      "code": "SHVI-084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85991529,
+      "code": "SHVI-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12385638,
+      "code": "SHVI-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48770333,
+      "code": "SHVI-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84769941,
+      "code": "SHVI-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11163040,
+      "code": "SHVI-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17530001,
+      "code": "SHVI-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44928016,
+      "code": "SHVI-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57554544,
+      "code": "SHVI-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67310848,
+      "code": "SHVI-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92693205,
+      "code": "SHVI-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29087919,
+      "code": "SHVI-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26268488,
+      "code": "SHVI-096",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62242678,
+      "code": "SHVI-097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36734924,
+      "code": "SHVI-098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2129638,
+      "code": "SHVI-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

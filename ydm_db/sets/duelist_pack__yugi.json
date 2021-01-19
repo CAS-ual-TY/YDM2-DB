@@ -1,0 +1,191 @@
+{
+  "name": "Duelist Pack: Yugi",
+  "code": "DPYG",
+  "type": "Duelist Pack",
+  "date": "07-07-2009",
+  "image": "https://ygoprodeck.com/pics_sets/DPYG.jpg",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 46986414,
+      "code": "DPYG-001",
+      "rarity": "Rare",
+      "image_index": 3
+    },
+    {
+      "id": 70781052,
+      "code": "DPYG-002",
+      "rarity": "Super Rare",
+      "image_index": 2
+    },
+    {
+      "id": 25652259,
+      "code": "DPYG-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "DPYG-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "DPYG-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95727991,
+      "code": "DPYG-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78193831,
+      "code": "DPYG-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "DPYG-008",
+      "rarity": "Super Rare",
+      "image_index": 2
+    },
+    {
+      "id": 65240384,
+      "code": "DPYG-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88619463,
+      "code": "DPYG-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "DPYG-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "DPYG-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "DPYG-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "DPYG-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31305911,
+      "code": "DPYG-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98502113,
+      "code": "DPYG-016",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 5405694,
+      "code": "DPYG-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "DPYG-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "DPYG-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "DPYG-020",
+      "rarity": "Super Rare",
+      "image_index": 1
+    },
+    {
+      "id": 5556668,
+      "code": "DPYG-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55761792,
+      "code": "DPYG-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87880531,
+      "code": "DPYG-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87910978,
+      "code": "DPYG-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42664989,
+      "code": "DPYG-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18807109,
+      "code": "DPYG-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "DPYG-027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81210420,
+      "code": "DPYG-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49587034,
+      "code": "DPYG-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13955608,
+      "code": "DPYG-030",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

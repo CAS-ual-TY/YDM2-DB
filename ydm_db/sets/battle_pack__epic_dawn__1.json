@@ -1,0 +1,338 @@
+{
+  "code": "BP01_1",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "battle_pack__epic_dawn__1",
+  "cards": [
+    {
+      "id": 78010363,
+      "code": "BP01-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34124316,
+      "code": "BP01-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77585513,
+      "code": "BP01-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79575620,
+      "code": "BP01-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89111398,
+      "code": "BP01-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61370518,
+      "code": "BP01-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40737112,
+      "code": "BP01-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25551951,
+      "code": "BP01-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4929256,
+      "code": "BP01-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88753985,
+      "code": "BP01-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83104731,
+      "code": "BP01-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12538374,
+      "code": "BP01-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85520851,
+      "code": "BP01-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44330098,
+      "code": "BP01-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73125233,
+      "code": "BP01-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79473793,
+      "code": "BP01-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17559367,
+      "code": "BP01-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9748752,
+      "code": "BP01-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59575539,
+      "code": "BP01-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98777036,
+      "code": "BP01-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000000,
+      "code": "BP01-021",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 5556499,
+      "code": "BP01-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10802915,
+      "code": "BP01-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84013237,
+      "code": "BP01-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10002346,
+      "code": "BP01-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47506081,
+      "code": "BP01-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69610924,
+      "code": "BP01-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68597372,
+      "code": "BP01-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31386180,
+      "code": "BP01-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94119480,
+      "code": "BP01-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71594310,
+      "code": "BP01-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12580477,
+      "code": "BP01-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "BP01-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "BP01-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18144507,
+      "code": "BP01-035",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 79571449,
+      "code": "BP01-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "BP01-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19613556,
+      "code": "BP01-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45986603,
+      "code": "BP01-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70828912,
+      "code": "BP01-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "BP01-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "BP01-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56747793,
+      "code": "BP01-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31036355,
+      "code": "BP01-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44947065,
+      "code": "BP01-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98645731,
+      "code": "BP01-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "BP01-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "BP01-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "BP01-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "BP01-050",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 53582587,
+      "code": "BP01-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26905245,
+      "code": "BP01-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82732705,
+      "code": "BP01-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49010598,
+      "code": "BP01-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77538567,
+      "code": "BP01-055",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

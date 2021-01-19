@@ -1,0 +1,131 @@
+{
+  "name": "Champion Pack: Game Six",
+  "code": "CP06",
+  "type": "Champion Pack",
+  "date": "12-05-2008",
+  "image": "https://ygoprodeck.com/pics_sets/CP06.jpg",
+  "pull_type": "distribution",
+  "distribution": "champion_pack",
+  "cards": [
+    {
+      "id": 39180960,
+      "code": "CP06-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80744121,
+      "code": "CP06-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45141844,
+      "code": "CP06-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63356631,
+      "code": "CP06-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69537999,
+      "code": "CP06-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78637313,
+      "code": "CP06-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39507162,
+      "code": "CP06-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20529766,
+      "code": "CP06-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40044918,
+      "code": "CP06-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80887952,
+      "code": "CP06-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83746708,
+      "code": "CP06-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85448931,
+      "code": "CP06-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63142001,
+      "code": "CP06-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51838385,
+      "code": "CP06-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69303178,
+      "code": "CP06-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77527210,
+      "code": "CP06-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 303660,
+      "code": "CP06-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60682203,
+      "code": "CP06-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81210420,
+      "code": "CP06-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67095270,
+      "code": "CP06-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

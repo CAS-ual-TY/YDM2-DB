@@ -1,0 +1,371 @@
+{
+  "name": "Hidden Arsenal 2",
+  "code": "HA02",
+  "type": "Hidden Arsenal",
+  "date": "15-07-2010",
+  "image": "https://ygoprodeck.com/pics_sets/HA02.jpg",
+  "pull_type": "distribution",
+  "distribution": "hidden_arsenal",
+  "cards": [
+    {
+      "id": 27762803,
+      "code": "HA02-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54161401,
+      "code": "HA02-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80555116,
+      "code": "HA02-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16940215,
+      "code": "HA02-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53944920,
+      "code": "HA02-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89333528,
+      "code": "HA02-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16828633,
+      "code": "HA02-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52222372,
+      "code": "HA02-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89211486,
+      "code": "HA02-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15605085,
+      "code": "HA02-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41090784,
+      "code": "HA02-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88494899,
+      "code": "HA02-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14983497,
+      "code": "HA02-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41978142,
+      "code": "HA02-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77372241,
+      "code": "HA02-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13761956,
+      "code": "HA02-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40155554,
+      "code": "HA02-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76650663,
+      "code": "HA02-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3648368,
+      "code": "HA02-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45033006,
+      "code": "HA02-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71438011,
+      "code": "HA02-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8822710,
+      "code": "HA02-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44811425,
+      "code": "HA02-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71315423,
+      "code": "HA02-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7700132,
+      "code": "HA02-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33198837,
+      "code": "HA02-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70583986,
+      "code": "HA02-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6588580,
+      "code": "HA02-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33972299,
+      "code": "HA02-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69461394,
+      "code": "HA02-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97651498,
+      "code": "HA02-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24040093,
+      "code": "HA02-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60434101,
+      "code": "HA02-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97439806,
+      "code": "HA02-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23927545,
+      "code": "HA02-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59312550,
+      "code": "HA02-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36717258,
+      "code": "HA02-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62701967,
+      "code": "HA02-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99150062,
+      "code": "HA02-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25654671,
+      "code": "HA02-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61049315,
+      "code": "HA02-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98437424,
+      "code": "HA02-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24432029,
+      "code": "HA02-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51827737,
+      "code": "HA02-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93211836,
+      "code": "HA02-045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20700531,
+      "code": "HA02-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56704140,
+      "code": "HA02-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82199284,
+      "code": "HA02-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29587993,
+      "code": "HA02-049",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55982698,
+      "code": "HA02-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82377606,
+      "code": "HA02-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28465301,
+      "code": "HA02-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54860010,
+      "code": "HA02-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81254059,
+      "code": "HA02-054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17649753,
+      "code": "HA02-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54048462,
+      "code": "HA02-056",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80032567,
+      "code": "HA02-057",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16527176,
+      "code": "HA02-058",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43925870,
+      "code": "HA02-059",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89310929,
+      "code": "HA02-060",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

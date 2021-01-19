@@ -1,0 +1,371 @@
+{
+  "name": "Number Hunters",
+  "code": "NUMH",
+  "type": "60 Card Set",
+  "date": "12-07-2013",
+  "image": "https://ygoprodeck.com/pics_sets/NUMH.jpg",
+  "pull_type": "distribution",
+  "distribution": "60_card_set",
+  "cards": [
+    {
+      "id": 94766498,
+      "code": "NUMH-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20154092,
+      "code": "NUMH-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67559101,
+      "code": "NUMH-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93543806,
+      "code": "NUMH-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20032555,
+      "code": "NUMH-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56427559,
+      "code": "NUMH-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92821268,
+      "code": "NUMH-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29216967,
+      "code": "NUMH-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55204071,
+      "code": "NUMH-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92609670,
+      "code": "NUMH-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28194325,
+      "code": "NUMH-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54582424,
+      "code": "NUMH-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81587028,
+      "code": "NUMH-013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27971137,
+      "code": "NUMH-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19012345,
+      "code": "NUMH-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97896503,
+      "code": "NUMH-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62476815,
+      "code": "NUMH-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94656263,
+      "code": "NUMH-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40817915,
+      "code": "NUMH-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39695323,
+      "code": "NUMH-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12423762,
+      "code": "NUMH-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28990150,
+      "code": "NUMH-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38973775,
+      "code": "NUMH-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79850798,
+      "code": "NUMH-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55550921,
+      "code": "NUMH-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54366836,
+      "code": "NUMH-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88120966,
+      "code": "NUMH-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80764541,
+      "code": "NUMH-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16259549,
+      "code": "NUMH-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53244294,
+      "code": "NUMH-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89642993,
+      "code": "NUMH-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16037007,
+      "code": "NUMH-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42421606,
+      "code": "NUMH-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89516305,
+      "code": "NUMH-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15914410,
+      "code": "NUMH-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41309158,
+      "code": "NUMH-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30741334,
+      "code": "NUMH-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88754763,
+      "code": "NUMH-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14152862,
+      "code": "NUMH-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41147577,
+      "code": "NUMH-040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77631175,
+      "code": "NUMH-041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13030280,
+      "code": "NUMH-042",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40424929,
+      "code": "NUMH-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76419637,
+      "code": "NUMH-044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3814632,
+      "code": "NUMH-045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49202331,
+      "code": "NUMH-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75797046,
+      "code": "NUMH-047",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2191144,
+      "code": "NUMH-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38180759,
+      "code": "NUMH-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75574498,
+      "code": "NUMH-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12533811,
+      "code": "NUMH-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65393205,
+      "code": "NUMH-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39399168,
+      "code": "NUMH-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1969506,
+      "code": "NUMH-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37364101,
+      "code": "NUMH-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74852810,
+      "code": "NUMH-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3492538,
+      "code": "NUMH-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 847915,
+      "code": "NUMH-058",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37241623,
+      "code": "NUMH-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63630268,
+      "code": "NUMH-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

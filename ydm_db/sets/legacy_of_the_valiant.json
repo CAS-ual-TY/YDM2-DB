@@ -1,0 +1,647 @@
+{
+  "name": "Legacy of the Valiant",
+  "code": "LVAL",
+  "type": "Booster Pack (Series 8)",
+  "date": "07-03-2014",
+  "image": "https://ygoprodeck.com/pics_sets/LVAL.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 11682713,
+      "code": "LVAL-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3557275,
+      "code": "LVAL-001",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 40941889,
+      "code": "LVAL-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76436988,
+      "code": "LVAL-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2830693,
+      "code": "LVAL-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39229392,
+      "code": "LVAL-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75214390,
+      "code": "LVAL-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2618045,
+      "code": "LVAL-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38007744,
+      "code": "LVAL-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65591858,
+      "code": "LVAL-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1586457,
+      "code": "LVAL-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37984162,
+      "code": "LVAL-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64379261,
+      "code": "LVAL-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90764875,
+      "code": "LVAL-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37168514,
+      "code": "LVAL-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63257623,
+      "code": "LVAL-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99641328,
+      "code": "LVAL-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36046926,
+      "code": "LVAL-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62434031,
+      "code": "LVAL-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99429730,
+      "code": "LVAL-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25824484,
+      "code": "LVAL-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61318483,
+      "code": "LVAL-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98707192,
+      "code": "LVAL-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24101897,
+      "code": "LVAL-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51196805,
+      "code": "LVAL-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97584500,
+      "code": "LVAL-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23979249,
+      "code": "LVAL-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50474354,
+      "code": "LVAL-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86868952,
+      "code": "LVAL-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23857661,
+      "code": "LVAL-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59251766,
+      "code": "LVAL-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85646474,
+      "code": "LVAL-031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22134079,
+      "code": "LVAL-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58139128,
+      "code": "LVAL-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25524823,
+      "code": "LVAL-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51912531,
+      "code": "LVAL-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97317530,
+      "code": "LVAL-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24701235,
+      "code": "LVAL-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50896944,
+      "code": "LVAL-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87294988,
+      "code": "LVAL-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23689697,
+      "code": "LVAL-040",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23689697,
+      "code": "LVAL-040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50074392,
+      "code": "LVAL-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86062400,
+      "code": "LVAL-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12467005,
+      "code": "LVAL-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59951714,
+      "code": "LVAL-044",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 85346853,
+      "code": "LVAL-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12744567,
+      "code": "LVAL-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12744567,
+      "code": "LVAL-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48739166,
+      "code": "LVAL-047",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48739166,
+      "code": "LVAL-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84124261,
+      "code": "LVAL-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84124261,
+      "code": "LVAL-048",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11522979,
+      "code": "LVAL-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47017574,
+      "code": "LVAL-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84401683,
+      "code": "LVAL-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10406322,
+      "code": "LVAL-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46895036,
+      "code": "LVAL-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73289035,
+      "code": "LVAL-054",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73289035,
+      "code": "LVAL-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19684740,
+      "code": "LVAL-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46772449,
+      "code": "LVAL-056",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72167543,
+      "code": "LVAL-057",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8561192,
+      "code": "LVAL-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45950291,
+      "code": "LVAL-059",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45950291,
+      "code": "LVAL-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71345905,
+      "code": "LVAL-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8339504,
+      "code": "LVAL-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34834619,
+      "code": "LVAL-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70222318,
+      "code": "LVAL-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7617062,
+      "code": "LVAL-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33611061,
+      "code": "LVAL-065",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70000776,
+      "code": "LVAL-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6595475,
+      "code": "LVAL-067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32999573,
+      "code": "LVAL-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65384188,
+      "code": "LVAL-069",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 1372887,
+      "code": "LVAL-070",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38777931,
+      "code": "LVAL-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64161630,
+      "code": "LVAL-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91650245,
+      "code": "LVAL-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37055344,
+      "code": "LVAL-074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63049052,
+      "code": "LVAL-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90434657,
+      "code": "LVAL-076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26822796,
+      "code": "LVAL-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63227401,
+      "code": "LVAL-078",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99311109,
+      "code": "LVAL-079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25700114,
+      "code": "LVAL-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 47077318,
+      "code": "LVAL-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84472026,
+      "code": "LVAL-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10860121,
+      "code": "LVAL-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46955770,
+      "code": "LVAL-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73359475,
+      "code": "LVAL-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19748583,
+      "code": "LVAL-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46132282,
+      "code": "LVAL-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72537897,
+      "code": "LVAL-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8522996,
+      "code": "LVAL-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72520073,
+      "code": "LVAL-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85255550,
+      "code": "LVAL-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96470883,
+      "code": "LVAL-092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23087070,
+      "code": "LVAL-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75673220,
+      "code": "LVAL-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77797992,
+      "code": "LVAL-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53981499,
+      "code": "LVAL-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57996334,
+      "code": "LVAL-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80208323,
+      "code": "LVAL-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15458892,
+      "code": "LVAL-099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

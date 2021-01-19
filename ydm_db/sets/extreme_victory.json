@@ -1,0 +1,677 @@
+{
+  "name": "Extreme Victory",
+  "code": "EXVC",
+  "type": "Booster Pack (Series 7)",
+  "date": "30-04-2011",
+  "image": "https://ygoprodeck.com/pics_sets/EXVC.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 10028593,
+      "code": "EXVC-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78922939,
+      "code": "EXVC-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15310033,
+      "code": "EXVC-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41705642,
+      "code": "EXVC-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77700347,
+      "code": "EXVC-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14198496,
+      "code": "EXVC-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40583194,
+      "code": "EXVC-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77087109,
+      "code": "EXVC-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3072808,
+      "code": "EXVC-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49460512,
+      "code": "EXVC-009",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49460512,
+      "code": "EXVC-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76865611,
+      "code": "EXVC-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2250266,
+      "code": "EXVC-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39648965,
+      "code": "EXVC-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75733063,
+      "code": "EXVC-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2137678,
+      "code": "EXVC-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38522377,
+      "code": "EXVC-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64910482,
+      "code": "EXVC-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1315120,
+      "code": "EXVC-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37300735,
+      "code": "EXVC-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64898834,
+      "code": "EXVC-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 293542,
+      "code": "EXVC-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36687247,
+      "code": "EXVC-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63676256,
+      "code": "EXVC-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99070951,
+      "code": "EXVC-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36565699,
+      "code": "EXVC-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62950604,
+      "code": "EXVC-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98358303,
+      "code": "EXVC-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25343017,
+      "code": "EXVC-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61737116,
+      "code": "EXVC-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98126725,
+      "code": "EXVC-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24621460,
+      "code": "EXVC-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50615578,
+      "code": "EXVC-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97000273,
+      "code": "EXVC-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23408872,
+      "code": "EXVC-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50893987,
+      "code": "EXVC-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96287685,
+      "code": "EXVC-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22386234,
+      "code": "EXVC-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59771339,
+      "code": "EXVC-037",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59771339,
+      "code": "EXVC-037",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59771339,
+      "code": "EXVC-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25165047,
+      "code": "EXVC-038",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25165047,
+      "code": "EXVC-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62560742,
+      "code": "EXVC-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98558751,
+      "code": "EXVC-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98558751,
+      "code": "EXVC-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24943456,
+      "code": "EXVC-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51447164,
+      "code": "EXVC-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51447164,
+      "code": "EXVC-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97836203,
+      "code": "EXVC-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97836203,
+      "code": "EXVC-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24221808,
+      "code": "EXVC-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24221808,
+      "code": "EXVC-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50215517,
+      "code": "EXVC-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87614611,
+      "code": "EXVC-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23008320,
+      "code": "EXVC-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59593925,
+      "code": "EXVC-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86997073,
+      "code": "EXVC-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12986778,
+      "code": "EXVC-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59371387,
+      "code": "EXVC-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85775486,
+      "code": "EXVC-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11264180,
+      "code": "EXVC-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58258899,
+      "code": "EXVC-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84653834,
+      "code": "EXVC-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11047543,
+      "code": "EXVC-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47436247,
+      "code": "EXVC-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83831356,
+      "code": "EXVC-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10925955,
+      "code": "EXVC-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42314669,
+      "code": "EXVC-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79718768,
+      "code": "EXVC-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15103313,
+      "code": "EXVC-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41197012,
+      "code": "EXVC-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78586116,
+      "code": "EXVC-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4081825,
+      "code": "EXVC-065",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41475424,
+      "code": "EXVC-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77864539,
+      "code": "EXVC-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3868277,
+      "code": "EXVC-068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40253382,
+      "code": "EXVC-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76641981,
+      "code": "EXVC-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3146695,
+      "code": "EXVC-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39531794,
+      "code": "EXVC-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75525309,
+      "code": "EXVC-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2924048,
+      "code": "EXVC-074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38318146,
+      "code": "EXVC-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65703851,
+      "code": "EXVC-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1802450,
+      "code": "EXVC-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38296564,
+      "code": "EXVC-078",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64681263,
+      "code": "EXVC-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90075978,
+      "code": "EXVC-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36352429,
+      "code": "EXVC-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47013502,
+      "code": "EXVC-082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73417207,
+      "code": "EXVC-083",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73417207,
+      "code": "EXVC-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10802915,
+      "code": "EXVC-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46291010,
+      "code": "EXVC-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73285669,
+      "code": "EXVC-086",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73285669,
+      "code": "EXVC-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9780364,
+      "code": "EXVC-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45178472,
+      "code": "EXVC-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72563071,
+      "code": "EXVC-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84914462,
+      "code": "EXVC-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11125718,
+      "code": "EXVC-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46272804,
+      "code": "EXVC-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72926163,
+      "code": "EXVC-093",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72926163,
+      "code": "EXVC-093",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31930787,
+      "code": "EXVC-094",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67328336,
+      "code": "EXVC-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38562933,
+      "code": "EXVC-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64550682,
+      "code": "EXVC-097",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37349495,
+      "code": "EXVC-098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98884569,
+      "code": "EXVC-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

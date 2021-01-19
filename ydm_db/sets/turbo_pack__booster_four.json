@@ -1,0 +1,137 @@
+{
+  "name": "Turbo Pack: Booster Four",
+  "code": "TU04",
+  "type": "Turbo Pack",
+  "date": "13-11-2010",
+  "image": "https://ygoprodeck.com/pics_sets/TU04.jpg",
+  "pull_type": "distribution",
+  "distribution": "turbo_pack",
+  "cards": [
+    {
+      "id": 98777036,
+      "code": "TU04-000",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13504844,
+      "code": "TU04-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14943837,
+      "code": "TU04-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75498415,
+      "code": "TU04-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78868119,
+      "code": "TU04-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "TU04-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12493482,
+      "code": "TU04-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65403020,
+      "code": "TU04-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21454943,
+      "code": "TU04-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46052429,
+      "code": "TU04-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41925941,
+      "code": "TU04-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10651797,
+      "code": "TU04-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27324313,
+      "code": "TU04-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82065276,
+      "code": "TU04-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27288416,
+      "code": "TU04-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1929294,
+      "code": "TU04-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36021814,
+      "code": "TU04-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "TU04-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81325903,
+      "code": "TU04-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35224440,
+      "code": "TU04-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43487744,
+      "code": "TU04-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

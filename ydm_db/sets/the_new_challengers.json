@@ -1,0 +1,647 @@
+{
+  "name": "The New Challengers",
+  "code": "NECH",
+  "type": "Booster Pack (Series 9)",
+  "date": "04-12-2014",
+  "image": "https://ygoprodeck.com/pics_sets/NECH.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 48940337,
+      "code": "NECH-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17857780,
+      "code": "NECH-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43241495,
+      "code": "NECH-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79636594,
+      "code": "NECH-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16021142,
+      "code": "NECH-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42029847,
+      "code": "NECH-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79514956,
+      "code": "NECH-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5908650,
+      "code": "NECH-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41307269,
+      "code": "NECH-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78391364,
+      "code": "NECH-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4786063,
+      "code": "NECH-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31181711,
+      "code": "NECH-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77679716,
+      "code": "NECH-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3064425,
+      "code": "NECH-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30068120,
+      "code": "NECH-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66457138,
+      "code": "NECH-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3841833,
+      "code": "NECH-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39246582,
+      "code": "NECH-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65331686,
+      "code": "NECH-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2729285,
+      "code": "NECH-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38124994,
+      "code": "NECH-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65518099,
+      "code": "NECH-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91907707,
+      "code": "NECH-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37991342,
+      "code": "NECH-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64496451,
+      "code": "NECH-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90885155,
+      "code": "NECH-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27279764,
+      "code": "NECH-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63274863,
+      "code": "NECH-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99668578,
+      "code": "NECH-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26057276,
+      "code": "NECH-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52551211,
+      "code": "NECH-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99946920,
+      "code": "NECH-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25935625,
+      "code": "NECH-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52339733,
+      "code": "NECH-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88724332,
+      "code": "NECH-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24218047,
+      "code": "NECH-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51617185,
+      "code": "NECH-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87602890,
+      "code": "NECH-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24096499,
+      "code": "NECH-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50485594,
+      "code": "NECH-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86889202,
+      "code": "NECH-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13974207,
+      "code": "NECH-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59368956,
+      "code": "NECH-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86767655,
+      "code": "NECH-043",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 12152769,
+      "code": "NECH-044",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 48546368,
+      "code": "NECH-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85545073,
+      "code": "NECH-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85545073,
+      "code": "NECH-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11039171,
+      "code": "NECH-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48424886,
+      "code": "NECH-048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74822425,
+      "code": "NECH-049",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74822425,
+      "code": "NECH-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10817524,
+      "code": "NECH-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43202238,
+      "code": "NECH-051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43202238,
+      "code": "NECH-051",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79606837,
+      "code": "NECH-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16195942,
+      "code": "NECH-053",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16195942,
+      "code": "NECH-053",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16195942,
+      "code": "NECH-053",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42589641,
+      "code": "NECH-054",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42589641,
+      "code": "NECH-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78574395,
+      "code": "NECH-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5972394,
+      "code": "NECH-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41367003,
+      "code": "NECH-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18752707,
+      "code": "NECH-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44256816,
+      "code": "NECH-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70245411,
+      "code": "NECH-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17639150,
+      "code": "NECH-061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43034264,
+      "code": "NECH-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70422863,
+      "code": "NECH-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6417578,
+      "code": "NECH-064",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43912676,
+      "code": "NECH-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79306385,
+      "code": "NECH-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5795980,
+      "code": "NECH-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42199039,
+      "code": "NECH-068",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 78184733,
+      "code": "NECH-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5672432,
+      "code": "NECH-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31077447,
+      "code": "NECH-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77462146,
+      "code": "NECH-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4450854,
+      "code": "NECH-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30845999,
+      "code": "NECH-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67249508,
+      "code": "NECH-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3734202,
+      "code": "NECH-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39122311,
+      "code": "NECH-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66127916,
+      "code": "NECH-078",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92512625,
+      "code": "NECH-079",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39900763,
+      "code": "NECH-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 74335036,
+      "code": "NECH-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 734741,
+      "code": "NECH-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47728740,
+      "code": "NECH-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73213494,
+      "code": "NECH-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 601193,
+      "code": "NECH-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36006208,
+      "code": "NECH-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72491806,
+      "code": "NECH-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9485511,
+      "code": "NECH-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35884610,
+      "code": "NECH-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24919805,
+      "code": "NECH-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12927849,
+      "code": "NECH-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59911557,
+      "code": "NECH-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85310252,
+      "code": "NECH-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11705261,
+      "code": "NECH-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21521304,
+      "code": "NECH-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67926903,
+      "code": "NECH-096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32476434,
+      "code": "NECH-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69865139,
+      "code": "NECH-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51543904,
+      "code": "NECH-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

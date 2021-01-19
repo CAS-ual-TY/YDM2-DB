@@ -1,0 +1,299 @@
+{
+  "name": "Millennium Pack",
+  "code": "MIL1",
+  "type": "Booster Pack (Misc.)",
+  "date": "14-04-2016",
+  "image": "https://ygoprodeck.com/pics_sets/MIL1.jpg",
+  "pull_type": "distribution",
+  "distribution": "millennium_pack",
+  "cards": [
+    {
+      "id": 10000090,
+      "code": "MIL1-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7241272,
+      "code": "MIL1-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43730887,
+      "code": "MIL1-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70124586,
+      "code": "MIL1-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64681432,
+      "code": "MIL1-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36354007,
+      "code": "MIL1-006",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 13893596,
+      "code": "MIL1-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64631466,
+      "code": "MIL1-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97642679,
+      "code": "MIL1-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2519690,
+      "code": "MIL1-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11901678,
+      "code": "MIL1-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99267150,
+      "code": "MIL1-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87567063,
+      "code": "MIL1-013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59750328,
+      "code": "MIL1-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86541496,
+      "code": "MIL1-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39913299,
+      "code": "MIL1-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2295831,
+      "code": "MIL1-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55713623,
+      "code": "MIL1-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "MIL1-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41426869,
+      "code": "MIL1-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96420087,
+      "code": "MIL1-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75902998,
+      "code": "MIL1-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "MIL1-023",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 54704216,
+      "code": "MIL1-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6368038,
+      "code": "MIL1-025",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 91152256,
+      "code": "MIL1-026",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 74677422,
+      "code": "MIL1-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70781052,
+      "code": "MIL1-028",
+      "rarity": "Common",
+      "image_index": 2
+    },
+    {
+      "id": 97590747,
+      "code": "MIL1-029",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 87322377,
+      "code": "MIL1-030",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 49791927,
+      "code": "MIL1-031",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 14898066,
+      "code": "MIL1-032",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 24433920,
+      "code": "MIL1-033",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 40640057,
+      "code": "MIL1-034",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 64335805,
+      "code": "MIL1-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42035044,
+      "code": "MIL1-036",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 56043447,
+      "code": "MIL1-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45231177,
+      "code": "MIL1-038",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 41462083,
+      "code": "MIL1-039",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 91998119,
+      "code": "MIL1-040",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 98502113,
+      "code": "MIL1-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "MIL1-042",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 49328340,
+      "code": "MIL1-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41356845,
+      "code": "MIL1-044",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 68540059,
+      "code": "MIL1-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77754944,
+      "code": "MIL1-046",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 57728570,
+      "code": "MIL1-047",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 37390589,
+      "code": "MIL1-048",
+      "rarity": "Rare",
+      "image_index": 1
+    }
+  ]
+}

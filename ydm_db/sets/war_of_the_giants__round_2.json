@@ -1,0 +1,629 @@
+{
+  "name": "War of the Giants: Round 2",
+  "code": "BPW2",
+  "type": "Battle Pack",
+  "date": "17-01-2014",
+  "image": "https://ygoprodeck.com/pics_sets/BPW2.jpg",
+  "pull_type": "distribution",
+  "distribution": "war_of_the_giants__round_2",
+  "cards": [
+    {
+      "id": 77542832,
+      "code": "BPW2-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13945283,
+      "code": "BPW2-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16768387,
+      "code": "BPW2-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62340868,
+      "code": "BPW2-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39751094,
+      "code": "BPW2-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51534754,
+      "code": "BPW2-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87523462,
+      "code": "BPW2-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39978267,
+      "code": "BPW2-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39168895,
+      "code": "BPW2-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56647086,
+      "code": "BPW2-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25773409,
+      "code": "BPW2-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39507162,
+      "code": "BPW2-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59380081,
+      "code": "BPW2-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52323207,
+      "code": "BPW2-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53828396,
+      "code": "BPW2-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76763417,
+      "code": "BPW2-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2158562,
+      "code": "BPW2-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95701283,
+      "code": "BPW2-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54749427,
+      "code": "BPW2-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50287060,
+      "code": "BPW2-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99747800,
+      "code": "BPW2-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22624373,
+      "code": "BPW2-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23303072,
+      "code": "BPW2-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18489208,
+      "code": "BPW2-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68722455,
+      "code": "BPW2-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11613567,
+      "code": "BPW2-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41753322,
+      "code": "BPW2-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88650530,
+      "code": "BPW2-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84932271,
+      "code": "BPW2-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98954375,
+      "code": "BPW2-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88494899,
+      "code": "BPW2-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96146814,
+      "code": "BPW2-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69529567,
+      "code": "BPW2-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20351153,
+      "code": "BPW2-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45801022,
+      "code": "BPW2-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72328962,
+      "code": "BPW2-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6903857,
+      "code": "BPW2-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43332022,
+      "code": "BPW2-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81275309,
+      "code": "BPW2-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2137678,
+      "code": "BPW2-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98649372,
+      "code": "BPW2-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47349310,
+      "code": "BPW2-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43359262,
+      "code": "BPW2-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95905259,
+      "code": "BPW2-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20193924,
+      "code": "BPW2-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56410040,
+      "code": "BPW2-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79972330,
+      "code": "BPW2-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5244497,
+      "code": "BPW2-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49374988,
+      "code": "BPW2-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40921545,
+      "code": "BPW2-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8814959,
+      "code": "BPW2-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9861795,
+      "code": "BPW2-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8649148,
+      "code": "BPW2-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61132951,
+      "code": "BPW2-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44682448,
+      "code": "BPW2-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80208158,
+      "code": "BPW2-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5284653,
+      "code": "BPW2-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4058065,
+      "code": "BPW2-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83274244,
+      "code": "BPW2-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67922702,
+      "code": "BPW2-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4417407,
+      "code": "BPW2-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30811116,
+      "code": "BPW2-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54635862,
+      "code": "BPW2-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6930746,
+      "code": "BPW2-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "BPW2-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56830749,
+      "code": "BPW2-066",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83225447,
+      "code": "BPW2-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65169794,
+      "code": "BPW2-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22046459,
+      "code": "BPW2-069",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70231910,
+      "code": "BPW2-070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56460688,
+      "code": "BPW2-071",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47453433,
+      "code": "BPW2-072",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25774450,
+      "code": "BPW2-073",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34664411,
+      "code": "BPW2-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43422537,
+      "code": "BPW2-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37534148,
+      "code": "BPW2-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98847704,
+      "code": "BPW2-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52497105,
+      "code": "BPW2-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59560625,
+      "code": "BPW2-079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70344351,
+      "code": "BPW2-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38411870,
+      "code": "BPW2-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90669991,
+      "code": "BPW2-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62325062,
+      "code": "BPW2-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74458486,
+      "code": "BPW2-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31000575,
+      "code": "BPW2-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18271561,
+      "code": "BPW2-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77538567,
+      "code": "BPW2-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42793609,
+      "code": "BPW2-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89792713,
+      "code": "BPW2-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85352446,
+      "code": "BPW2-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11741041,
+      "code": "BPW2-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49204190,
+      "code": "BPW2-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75987257,
+      "code": "BPW2-093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73632127,
+      "code": "BPW2-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22869904,
+      "code": "BPW2-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71098407,
+      "code": "BPW2-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63630268,
+      "code": "BPW2-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94156050,
+      "code": "BPW2-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6614221,
+      "code": "BPW2-099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86585274,
+      "code": "BPW2-100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21249921,
+      "code": "BPW2-101",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80117527,
+      "code": "BPW2-102",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38296564,
+      "code": "BPW2-103",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,641 @@
+{
+  "name": "Rise of the Duelist",
+  "code": "ROTD",
+  "type": "Booster Pack (Series 11)",
+  "date": "01-08-2020",
+  "image": "https://ygoprodeck.com/pics_sets/ROTD.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 50354944,
+      "code": "ROTD-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34130561,
+      "code": "ROTD-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61525276,
+      "code": "ROTD-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7913375,
+      "code": "ROTD-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33318980,
+      "code": "ROTD-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60303688,
+      "code": "ROTD-005",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60303688,
+      "code": "ROTD-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96891787,
+      "code": "ROTD-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33296432,
+      "code": "ROTD-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69680031,
+      "code": "ROTD-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95679145,
+      "code": "ROTD-009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22073844,
+      "code": "ROTD-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68468459,
+      "code": "ROTD-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95953557,
+      "code": "ROTD-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21351206,
+      "code": "ROTD-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58346901,
+      "code": "ROTD-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94730900,
+      "code": "ROTD-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20129614,
+      "code": "ROTD-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57523313,
+      "code": "ROTD-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93018428,
+      "code": "ROTD-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20003027,
+      "code": "ROTD-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56401775,
+      "code": "ROTD-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82896870,
+      "code": "ROTD-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29280589,
+      "code": "ROTD-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55289183,
+      "code": "ROTD-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82773292,
+      "code": "ROTD-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18168997,
+      "code": "ROTD-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54563536,
+      "code": "ROTD-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81951640,
+      "code": "ROTD-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17946349,
+      "code": "ROTD-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44440058,
+      "code": "ROTD-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80839052,
+      "code": "ROTD-030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16223761,
+      "code": "ROTD-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43218406,
+      "code": "ROTD-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89617515,
+      "code": "ROTD-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16001119,
+      "code": "ROTD-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42596828,
+      "code": "ROTD-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78990927,
+      "code": "ROTD-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15989522,
+      "code": "ROTD-037",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15989522,
+      "code": "ROTD-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41373230,
+      "code": "ROTD-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78778375,
+      "code": "ROTD-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4167084,
+      "code": "ROTD-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40251688,
+      "code": "ROTD-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77656797,
+      "code": "ROTD-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3040496,
+      "code": "ROTD-043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30439101,
+      "code": "ROTD-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76833149,
+      "code": "ROTD-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3828844,
+      "code": "ROTD-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39317553,
+      "code": "ROTD-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65711558,
+      "code": "ROTD-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2106266,
+      "code": "ROTD-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38590361,
+      "code": "ROTD-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65589010,
+      "code": "ROTD-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1984618,
+      "code": "ROTD-052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37478723,
+      "code": "ROTD-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64867422,
+      "code": "ROTD-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90861137,
+      "code": "ROTD-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37256135,
+      "code": "ROTD-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63644830,
+      "code": "ROTD-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99049589,
+      "code": "ROTD-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26534688,
+      "code": "ROTD-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62528292,
+      "code": "ROTD-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99927991,
+      "code": "ROTD-061",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25311006,
+      "code": "ROTD-062",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25311006,
+      "code": "ROTD-062",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51706604,
+      "code": "ROTD-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98804359,
+      "code": "ROTD-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24299458,
+      "code": "ROTD-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51684157,
+      "code": "ROTD-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93078761,
+      "code": "ROTD-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29477860,
+      "code": "ROTD-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56461575,
+      "code": "ROTD-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82956214,
+      "code": "ROTD-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29354228,
+      "code": "ROTD-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55749927,
+      "code": "ROTD-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82134632,
+      "code": "ROTD-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18138630,
+      "code": "ROTD-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54527349,
+      "code": "ROTD-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21011044,
+      "code": "ROTD-076",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57416183,
+      "code": "ROTD-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84404797,
+      "code": "ROTD-078",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20899496,
+      "code": "ROTD-079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56294501,
+      "code": "ROTD-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7279373,
+      "code": "ROTD-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37256334,
+      "code": "ROTD-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16306932,
+      "code": "ROTD-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36614113,
+      "code": "ROTD-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55415564,
+      "code": "ROTD-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86395581,
+      "code": "ROTD-086",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86395581,
+      "code": "ROTD-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29303524,
+      "code": "ROTD-087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55702233,
+      "code": "ROTD-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69550259,
+      "code": "ROTD-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96945958,
+      "code": "ROTD-090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32349062,
+      "code": "ROTD-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65029288,
+      "code": "ROTD-092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82197831,
+      "code": "ROTD-093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96157835,
+      "code": "ROTD-094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79985120,
+      "code": "ROTD-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54635100,
+      "code": "ROTD-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33918636,
+      "code": "ROTD-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24181936,
+      "code": "ROTD-098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51686645,
+      "code": "ROTD-099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24508238,
+      "code": "ROTD-100",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}

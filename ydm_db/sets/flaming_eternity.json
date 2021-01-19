@@ -1,0 +1,521 @@
+{
+  "name": "Flaming Eternity",
+  "code": "FET",
+  "type": "Booster Pack (Series 4)",
+  "date": "01-03-2005",
+  "image": "https://ygoprodeck.com/pics_sets/FET.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 36119641,
+      "code": "FET-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62113340,
+      "code": "FET-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8508055,
+      "code": "FET-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35052053,
+      "code": "FET-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61441708,
+      "code": "FET-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61441708,
+      "code": "FET-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98446407,
+      "code": "FET-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34830502,
+      "code": "FET-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34830502,
+      "code": "FET-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74388798,
+      "code": "FET-008",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74388798,
+      "code": "FET-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60229110,
+      "code": "FET-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60229110,
+      "code": "FET-009",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97623219,
+      "code": "FET-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23118924,
+      "code": "FET-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60102563,
+      "code": "FET-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96501677,
+      "code": "FET-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22996376,
+      "code": "FET-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22996376,
+      "code": "FET-014",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59380081,
+      "code": "FET-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59380081,
+      "code": "FET-015",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95789089,
+      "code": "FET-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22873798,
+      "code": "FET-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58268433,
+      "code": "FET-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94667532,
+      "code": "FET-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21051146,
+      "code": "FET-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21051146,
+      "code": "FET-020",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16956455,
+      "code": "FET-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16956455,
+      "code": "FET-021",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57046845,
+      "code": "FET-022",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57046845,
+      "code": "FET-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84430950,
+      "code": "FET-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20939559,
+      "code": "FET-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20939559,
+      "code": "FET-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52323207,
+      "code": "FET-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89718302,
+      "code": "FET-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15717011,
+      "code": "FET-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52101615,
+      "code": "FET-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88696724,
+      "code": "FET-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15090429,
+      "code": "FET-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41089128,
+      "code": "FET-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87473172,
+      "code": "FET-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14878871,
+      "code": "FET-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40267580,
+      "code": "FET-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40267580,
+      "code": "FET-034",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87751584,
+      "code": "FET-035",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87751584,
+      "code": "FET-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13756293,
+      "code": "FET-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13756293,
+      "code": "FET-036",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49140998,
+      "code": "FET-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49140998,
+      "code": "FET-037",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76539047,
+      "code": "FET-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51481927,
+      "code": "FET-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51481927,
+      "code": "FET-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69162969,
+      "code": "FET-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69162969,
+      "code": "FET-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33767325,
+      "code": "FET-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33767325,
+      "code": "FET-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12923641,
+      "code": "FET-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12923641,
+      "code": "FET-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49328340,
+      "code": "FET-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49328340,
+      "code": "FET-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75417459,
+      "code": "FET-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1801154,
+      "code": "FET-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48206762,
+      "code": "FET-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74694807,
+      "code": "FET-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1689516,
+      "code": "FET-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37083210,
+      "code": "FET-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37083210,
+      "code": "FET-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73578229,
+      "code": "FET-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 967928,
+      "code": "FET-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 967928,
+      "code": "FET-051",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36361633,
+      "code": "FET-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63356631,
+      "code": "FET-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63356631,
+      "code": "FET-053",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9744376,
+      "code": "FET-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35149085,
+      "code": "FET-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62633180,
+      "code": "FET-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62633180,
+      "code": "FET-056",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8628798,
+      "code": "FET-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35027493,
+      "code": "FET-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35027493,
+      "code": "FET-058",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61411502,
+      "code": "FET-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97806240,
+      "code": "FET-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97806240,
+      "code": "FET-060",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "name": "Turbo Pack: Booster Three",
+  "code": "TU03",
+  "type": "Turbo Pack",
+  "date": "10-07-2010",
+  "image": "https://ygoprodeck.com/pics_sets/TU03.jpg",
+  "pull_type": "distribution",
+  "distribution": "turbo_pack",
+  "cards": [
+    {
+      "id": 9748752,
+      "code": "TU03-000",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14536035,
+      "code": "TU03-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14878871,
+      "code": "TU03-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93542102,
+      "code": "TU03-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74845897,
+      "code": "TU03-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99590524,
+      "code": "TU03-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 612115,
+      "code": "TU03-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51808422,
+      "code": "TU03-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87292536,
+      "code": "TU03-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43385557,
+      "code": "TU03-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 674561,
+      "code": "TU03-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11052544,
+      "code": "TU03-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13093792,
+      "code": "TU03-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24508238,
+      "code": "TU03-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88307361,
+      "code": "TU03-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12435193,
+      "code": "TU03-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88240808,
+      "code": "TU03-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71044499,
+      "code": "TU03-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8323633,
+      "code": "TU03-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96216229,
+      "code": "TU03-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91078716,
+      "code": "TU03-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

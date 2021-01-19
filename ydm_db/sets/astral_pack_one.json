@@ -1,0 +1,161 @@
+{
+  "name": "Astral Pack One",
+  "code": "AP01",
+  "type": "Astral Pack",
+  "date": "23-11-2012",
+  "image": "https://ygoprodeck.com/pics_sets/AP01.jpg",
+  "pull_type": "distribution",
+  "distribution": "astral_pack",
+  "cards": [
+    {
+      "id": 34853266,
+      "code": "AP01-001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14943837,
+      "code": "AP01-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65367484,
+      "code": "AP01-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23297235,
+      "code": "AP01-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4904812,
+      "code": "AP01-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1498130,
+      "code": "AP01-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21790410,
+      "code": "AP01-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77901552,
+      "code": "AP01-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "AP01-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22123627,
+      "code": "AP01-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21143940,
+      "code": "AP01-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52105192,
+      "code": "AP01-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33017655,
+      "code": "AP01-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22873798,
+      "code": "AP01-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64262809,
+      "code": "AP01-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32393580,
+      "code": "AP01-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18964575,
+      "code": "AP01-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41077745,
+      "code": "AP01-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32751480,
+      "code": "AP01-019",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 69112325,
+      "code": "AP01-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78082039,
+      "code": "AP01-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4215636,
+      "code": "AP01-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91781589,
+      "code": "AP01-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1781310,
+      "code": "AP01-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37053871,
+      "code": "AP01-025",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

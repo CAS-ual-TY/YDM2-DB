@@ -1,0 +1,57 @@
+{
+  "name": "legendary_duelists",
+  "pulls": [
+    {
+      "weight": 12,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 4,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare",
+            "Ghost Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

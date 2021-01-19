@@ -1,0 +1,1847 @@
+{
+  "name": "Legendary Collection 3: Yugi\u0027s World Mega Pack",
+  "code": "LCYW",
+  "type": "Mega Pack",
+  "date": "29-09-2012",
+  "image": "https://ygoprodeck.com/pics_sets/LCYW.jpg",
+  "pull_type": "distribution",
+  "distribution": "mega_pack_2",
+  "cards": [
+    {
+      "id": 46986414,
+      "code": "LCYW-EN001",
+      "rarity": "Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 6368038,
+      "code": "LCYW-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91152256,
+      "code": "LCYW-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90357090,
+      "code": "LCYW-EN004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15025844,
+      "code": "LCYW-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28279543,
+      "code": "LCYW-EN006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13039848,
+      "code": "LCYW-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41392891,
+      "code": "LCYW-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87796900,
+      "code": "LCYW-EN009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70781052,
+      "code": "LCYW-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5818798,
+      "code": "LCYW-EN011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99785935,
+      "code": "LCYW-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39256679,
+      "code": "LCYW-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11549357,
+      "code": "LCYW-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "LCYW-EN015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "LCYW-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "LCYW-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "LCYW-EN018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95727991,
+      "code": "LCYW-EN019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78193831,
+      "code": "LCYW-EN020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75347539,
+      "code": "LCYW-EN021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "LCYW-EN022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71413901,
+      "code": "LCYW-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49217579,
+      "code": "LCYW-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "LCYW-EN025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40737112,
+      "code": "LCYW-EN026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92377303,
+      "code": "LCYW-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50725996,
+      "code": "LCYW-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88619463,
+      "code": "LCYW-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87774234,
+      "code": "LCYW-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16589042,
+      "code": "LCYW-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65240384,
+      "code": "LCYW-EN032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1995985,
+      "code": "LCYW-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74388798,
+      "code": "LCYW-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37267041,
+      "code": "LCYW-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52077741,
+      "code": "LCYW-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73665146,
+      "code": "LCYW-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72443568,
+      "code": "LCYW-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "LCYW-EN039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "LCYW-EN040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "LCYW-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50287060,
+      "code": "LCYW-EN042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14778250,
+      "code": "LCYW-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44330098,
+      "code": "LCYW-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77207191,
+      "code": "LCYW-EN045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5405694,
+      "code": "LCYW-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30208479,
+      "code": "LCYW-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98502113,
+      "code": "LCYW-EN048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13722870,
+      "code": "LCYW-EN049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62873545,
+      "code": "LCYW-EN050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6150044,
+      "code": "LCYW-EN051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4796100,
+      "code": "LCYW-EN052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "LCYW-EN053",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12580477,
+      "code": "LCYW-EN054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "LCYW-EN055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "LCYW-EN056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "LCYW-EN057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "LCYW-EN058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "LCYW-EN059",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72892473,
+      "code": "LCYW-EN060",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19613556,
+      "code": "LCYW-EN061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "LCYW-EN062",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95286165,
+      "code": "LCYW-EN063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79571449,
+      "code": "LCYW-EN064",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24096228,
+      "code": "LCYW-EN065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87880531,
+      "code": "LCYW-EN066",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63391643,
+      "code": "LCYW-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35762283,
+      "code": "LCYW-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69542930,
+      "code": "LCYW-EN069",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55761792,
+      "code": "LCYW-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2314238,
+      "code": "LCYW-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87210505,
+      "code": "LCYW-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13604200,
+      "code": "LCYW-EN073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87910978,
+      "code": "LCYW-EN074",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28553439,
+      "code": "LCYW-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25774450,
+      "code": "LCYW-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36045450,
+      "code": "LCYW-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76792184,
+      "code": "LCYW-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99789342,
+      "code": "LCYW-EN079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75500286,
+      "code": "LCYW-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81510157,
+      "code": "LCYW-EN081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67227834,
+      "code": "LCYW-EN082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60399954,
+      "code": "LCYW-EN083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75622824,
+      "code": "LCYW-EN084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93260132,
+      "code": "LCYW-EN085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40703222,
+      "code": "LCYW-EN086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27827272,
+      "code": "LCYW-EN087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89086566,
+      "code": "LCYW-EN088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3819470,
+      "code": "LCYW-EN089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98069388,
+      "code": "LCYW-EN090",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "LCYW-EN091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18807109,
+      "code": "LCYW-EN092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49587034,
+      "code": "LCYW-EN093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1248895,
+      "code": "LCYW-EN094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60082869,
+      "code": "LCYW-EN095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81210420,
+      "code": "LCYW-EN096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59560625,
+      "code": "LCYW-EN097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7565547,
+      "code": "LCYW-EN098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "LCYW-EN099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50755,
+      "code": "LCYW-EN100",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13955608,
+      "code": "LCYW-EN101",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37383714,
+      "code": "LCYW-EN102",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53183600,
+      "code": "LCYW-EN103",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38369349,
+      "code": "LCYW-EN104",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65458948,
+      "code": "LCYW-EN105",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91842653,
+      "code": "LCYW-EN106",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42386471,
+      "code": "LCYW-EN107",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15270885,
+      "code": "LCYW-EN108",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79875176,
+      "code": "LCYW-EN109",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16392422,
+      "code": "LCYW-EN110",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90960358,
+      "code": "LCYW-EN111",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38247752,
+      "code": "LCYW-EN112",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64631466,
+      "code": "LCYW-EN113",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41426869,
+      "code": "LCYW-EN114",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "LCYW-EN115",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89997728,
+      "code": "LCYW-EN116",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50045299,
+      "code": "LCYW-EN117",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43509019,
+      "code": "LCYW-EN118",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54652250,
+      "code": "LCYW-EN119",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "LCYW-EN120",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33508719,
+      "code": "LCYW-EN121",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41442341,
+      "code": "LCYW-EN122",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97642679,
+      "code": "LCYW-EN123",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "LCYW-EN124",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5556668,
+      "code": "LCYW-EN125",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30606547,
+      "code": "LCYW-EN126",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15866454,
+      "code": "LCYW-EN127",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96420087,
+      "code": "LCYW-EN128",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74367458,
+      "code": "LCYW-EN129",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10755153,
+      "code": "LCYW-EN130",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47150851,
+      "code": "LCYW-EN131",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73544866,
+      "code": "LCYW-EN132",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9633505,
+      "code": "LCYW-EN133",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46037213,
+      "code": "LCYW-EN134",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69279219,
+      "code": "LCYW-EN135",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69243953,
+      "code": "LCYW-EN136",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95638658,
+      "code": "LCYW-EN137",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32022366,
+      "code": "LCYW-EN138",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68427465,
+      "code": "LCYW-EN139",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95515060,
+      "code": "LCYW-EN140",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21900719,
+      "code": "LCYW-EN141",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74848038,
+      "code": "LCYW-EN142",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38445524,
+      "code": "LCYW-EN143",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52090844,
+      "code": "LCYW-EN144",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63995093,
+      "code": "LCYW-EN145",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2047519,
+      "code": "LCYW-EN146",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93382620,
+      "code": "LCYW-EN147",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1224927,
+      "code": "LCYW-EN148",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18144507,
+      "code": "LCYW-EN149",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85742772,
+      "code": "LCYW-EN150",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7359741,
+      "code": "LCYW-EN151",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "LCYW-EN152",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77414722,
+      "code": "LCYW-EN153",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8131171,
+      "code": "LCYW-EN154",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41482598,
+      "code": "LCYW-EN155",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39537362,
+      "code": "LCYW-EN156",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39111158,
+      "code": "LCYW-EN157",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94119974,
+      "code": "LCYW-EN158",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32012841,
+      "code": "LCYW-EN159",
+      "rarity": "Super Rare",
+      "image_index": 1
+    },
+    {
+      "id": 38999506,
+      "code": "LCYW-EN160",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64752646,
+      "code": "LCYW-EN161",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10375182,
+      "code": "LCYW-EN162",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72657739,
+      "code": "LCYW-EN163",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73891874,
+      "code": "LCYW-EN164",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46668237,
+      "code": "LCYW-EN165",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 423585,
+      "code": "LCYW-EN166",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22666164,
+      "code": "LCYW-EN167",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60999392,
+      "code": "LCYW-EN168",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23782705,
+      "code": "LCYW-EN169",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96384007,
+      "code": "LCYW-EN170",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58054262,
+      "code": "LCYW-EN171",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23171610,
+      "code": "LCYW-EN172",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "LCYW-EN173",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16435215,
+      "code": "LCYW-EN174",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97342942,
+      "code": "LCYW-EN175",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37520316,
+      "code": "LCYW-EN176",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "LCYW-EN177",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61740673,
+      "code": "LCYW-EN178",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29549364,
+      "code": "LCYW-EN179",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "LCYW-EN180",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29401950,
+      "code": "LCYW-EN181",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51452091,
+      "code": "LCYW-EN182",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24317029,
+      "code": "LCYW-EN183",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37101832,
+      "code": "LCYW-EN184",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63695531,
+      "code": "LCYW-EN185",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26084285,
+      "code": "LCYW-EN186",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62473983,
+      "code": "LCYW-EN187",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99877698,
+      "code": "LCYW-EN188",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25262697,
+      "code": "LCYW-EN189",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50412166,
+      "code": "LCYW-EN190",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17393207,
+      "code": "LCYW-EN191",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30213599,
+      "code": "LCYW-EN192",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93023479,
+      "code": "LCYW-EN193",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47355498,
+      "code": "LCYW-EN194",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72405967,
+      "code": "LCYW-EN195",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30450531,
+      "code": "LCYW-EN196",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75830094,
+      "code": "LCYW-EN197",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11224103,
+      "code": "LCYW-EN198",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48229808,
+      "code": "LCYW-EN199",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47507260,
+      "code": "LCYW-EN200",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74591968,
+      "code": "LCYW-EN201",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60482781,
+      "code": "LCYW-EN202",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 980973,
+      "code": "LCYW-EN203",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46384672,
+      "code": "LCYW-EN204",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73879377,
+      "code": "LCYW-EN205",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9264485,
+      "code": "LCYW-EN206",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25290459,
+      "code": "LCYW-EN207",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14536035,
+      "code": "LCYW-EN208",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66214679,
+      "code": "LCYW-EN209",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92719314,
+      "code": "LCYW-EN210",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38107923,
+      "code": "LCYW-EN211",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40921744,
+      "code": "LCYW-EN212",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76925842,
+      "code": "LCYW-EN213",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70676581,
+      "code": "LCYW-EN214",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7572887,
+      "code": "LCYW-EN215",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3773196,
+      "code": "LCYW-EN216",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70074904,
+      "code": "LCYW-EN217",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37043180,
+      "code": "LCYW-EN218",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32274490,
+      "code": "LCYW-EN219",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53375573,
+      "code": "LCYW-EN220",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85639257,
+      "code": "LCYW-EN221",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71280811,
+      "code": "LCYW-EN222",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44073668,
+      "code": "LCYW-EN223",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7562372,
+      "code": "LCYW-EN224",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70345785,
+      "code": "LCYW-EN225",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33734439,
+      "code": "LCYW-EN226",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68401546,
+      "code": "LCYW-EN227",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12829151,
+      "code": "LCYW-EN228",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39552864,
+      "code": "LCYW-EN229",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16768387,
+      "code": "LCYW-EN230",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61528025,
+      "code": "LCYW-EN231",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "LCYW-EN232",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60806437,
+      "code": "LCYW-EN233",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95178994,
+      "code": "LCYW-EN234",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22567609,
+      "code": "LCYW-EN235",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95956346,
+      "code": "LCYW-EN236",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57839750,
+      "code": "LCYW-EN237",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84834865,
+      "code": "LCYW-EN238",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83011278,
+      "code": "LCYW-EN239",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79106360,
+      "code": "LCYW-EN240",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67959180,
+      "code": "LCYW-EN241",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88240808,
+      "code": "LCYW-EN242",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14644902,
+      "code": "LCYW-EN243",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81843628,
+      "code": "LCYW-EN244",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77044671,
+      "code": "LCYW-EN245",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23205979,
+      "code": "LCYW-EN246",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85489096,
+      "code": "LCYW-EN247",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9596126,
+      "code": "LCYW-EN248",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37721209,
+      "code": "LCYW-EN249",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95492061,
+      "code": "LCYW-EN250",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56647086,
+      "code": "LCYW-EN251",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38730226,
+      "code": "LCYW-EN252",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64734921,
+      "code": "LCYW-EN253",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45985838,
+      "code": "LCYW-EN254",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75043725,
+      "code": "LCYW-EN255",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79109599,
+      "code": "LCYW-EN256",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61505339,
+      "code": "LCYW-EN257",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97093037,
+      "code": "LCYW-EN258",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61441708,
+      "code": "LCYW-EN259",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98446407,
+      "code": "LCYW-EN260",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84430950,
+      "code": "LCYW-EN261",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15717011,
+      "code": "LCYW-EN262",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52101615,
+      "code": "LCYW-EN263",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88696724,
+      "code": "LCYW-EN264",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70368879,
+      "code": "LCYW-EN265",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44656491,
+      "code": "LCYW-EN266",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43711255,
+      "code": "LCYW-EN267",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33550694,
+      "code": "LCYW-EN268",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31036355,
+      "code": "LCYW-EN269",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "LCYW-EN270",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47233801,
+      "code": "LCYW-EN271",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20065549,
+      "code": "LCYW-EN272",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69035382,
+      "code": "LCYW-EN273",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60764581,
+      "code": "LCYW-EN274",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97169186,
+      "code": "LCYW-EN275",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96947648,
+      "code": "LCYW-EN276",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59820352,
+      "code": "LCYW-EN277",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4259068,
+      "code": "LCYW-EN278",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3136426,
+      "code": "LCYW-EN279",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49140998,
+      "code": "LCYW-EN280",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12923641,
+      "code": "LCYW-EN281",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1801154,
+      "code": "LCYW-EN282",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41356845,
+      "code": "LCYW-EN283",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74701381,
+      "code": "LCYW-EN284",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37576645,
+      "code": "LCYW-EN285",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4178474,
+      "code": "LCYW-EN286",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4149689,
+      "code": "LCYW-EN287",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "LCYW-EN288",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57139487,
+      "code": "LCYW-EN289",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20522190,
+      "code": "LCYW-EN290",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "LCYW-EN291",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56769674,
+      "code": "LCYW-EN292",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16255442,
+      "code": "LCYW-EN293",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43250041,
+      "code": "LCYW-EN294",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15800838,
+      "code": "LCYW-EN295",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 967928,
+      "code": "LCYW-EN296",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36361633,
+      "code": "LCYW-EN297",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63356631,
+      "code": "LCYW-EN298",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54976796,
+      "code": "LCYW-EN299",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50323155,
+      "code": "LCYW-EN300",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84749824,
+      "code": "LCYW-EN301",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8124921,
+      "code": "LCYW-EN302",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44519536,
+      "code": "LCYW-EN303",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70903634,
+      "code": "LCYW-EN304",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7902349,
+      "code": "LCYW-EN305",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33396948,
+      "code": "LCYW-EN306",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

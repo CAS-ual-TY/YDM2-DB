@@ -1,0 +1,611 @@
+{
+  "name": "Soul Fusion",
+  "code": "SOFU",
+  "type": "Booster Pack (Series 10)",
+  "date": "06-12-2018",
+  "image": "https://ygoprodeck.com/pics_sets/SOFU.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 27024795,
+      "code": "SOFU-000",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21830679,
+      "code": "SOFU-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67225377,
+      "code": "SOFU-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94620082,
+      "code": "SOFU-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20618081,
+      "code": "SOFU-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56003780,
+      "code": "SOFU-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29996433,
+      "code": "SOFU-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93507434,
+      "code": "SOFU-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56980148,
+      "code": "SOFU-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82385847,
+      "code": "SOFU-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28770951,
+      "code": "SOFU-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55168550,
+      "code": "SOFU-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21663205,
+      "code": "SOFU-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58657303,
+      "code": "SOFU-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94046012,
+      "code": "SOFU-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21441617,
+      "code": "SOFU-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57835716,
+      "code": "SOFU-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93920420,
+      "code": "SOFU-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20318029,
+      "code": "SOFU-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56713174,
+      "code": "SOFU-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83107873,
+      "code": "SOFU-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29596581,
+      "code": "SOFU-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55591586,
+      "code": "SOFU-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82085295,
+      "code": "SOFU-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18474999,
+      "code": "SOFU-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55878039,
+      "code": "SOFU-025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81263643,
+      "code": "SOFU-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17257342,
+      "code": "SOFU-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44656450,
+      "code": "SOFU-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80141055,
+      "code": "SOFU-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17535764,
+      "code": "SOFU-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43534808,
+      "code": "SOFU-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89928517,
+      "code": "SOFU-032",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 16313112,
+      "code": "SOFU-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42717221,
+      "code": "SOFU-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79206925,
+      "code": "SOFU-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41685633,
+      "code": "SOFU-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15291624,
+      "code": "SOFU-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78084378,
+      "code": "SOFU-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4478086,
+      "code": "SOFU-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41463181,
+      "code": "SOFU-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77967790,
+      "code": "SOFU-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3356494,
+      "code": "SOFU-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30741503,
+      "code": "SOFU-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76145142,
+      "code": "SOFU-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3134857,
+      "code": "SOFU-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39528955,
+      "code": "SOFU-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66023650,
+      "code": "SOFU-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2411269,
+      "code": "SOFU-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38406364,
+      "code": "SOFU-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65801012,
+      "code": "SOFU-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1295111,
+      "code": "SOFU-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38784726,
+      "code": "SOFU-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64178424,
+      "code": "SOFU-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90173539,
+      "code": "SOFU-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37561138,
+      "code": "SOFU-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63956833,
+      "code": "SOFU-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90351981,
+      "code": "SOFU-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26845680,
+      "code": "SOFU-058",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62834295,
+      "code": "SOFU-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95238394,
+      "code": "SOFU-060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21623008,
+      "code": "SOFU-061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58012707,
+      "code": "SOFU-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94016752,
+      "code": "SOFU-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20501450,
+      "code": "SOFU-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57995165,
+      "code": "SOFU-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93394164,
+      "code": "SOFU-066",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 20788863,
+      "code": "SOFU-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56773577,
+      "code": "SOFU-068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82162616,
+      "code": "SOFU-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29666221,
+      "code": "SOFU-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55051920,
+      "code": "SOFU-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82045034,
+      "code": "SOFU-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18444733,
+      "code": "SOFU-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55838342,
+      "code": "SOFU-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81223446,
+      "code": "SOFU-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17722185,
+      "code": "SOFU-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44716890,
+      "code": "SOFU-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80101899,
+      "code": "SOFU-078",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17509503,
+      "code": "SOFU-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43994202,
+      "code": "SOFU-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 63413494,
+      "code": "SOFU-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90807199,
+      "code": "SOFU-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26302107,
+      "code": "SOFU-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52350806,
+      "code": "SOFU-084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99745551,
+      "code": "SOFU-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25140659,
+      "code": "SOFU-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52534264,
+      "code": "SOFU-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88923963,
+      "code": "SOFU-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24027078,
+      "code": "SOFU-089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51412776,
+      "code": "SOFU-090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87800375,
+      "code": "SOFU-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81481818,
+      "code": "SOFU-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73240432,
+      "code": "SOFU-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69946549,
+      "code": "SOFU-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16006416,
+      "code": "SOFU-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84569886,
+      "code": "SOFU-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72129804,
+      "code": "SOFU-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9113513,
+      "code": "SOFU-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34773082,
+      "code": "SOFU-099",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

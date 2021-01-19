@@ -1,0 +1,131 @@
+{
+  "name": "Tournament Pack 5",
+  "code": "TP5",
+  "type": "Tournament Pack",
+  "date": "01-11-2004",
+  "image": "https://ygoprodeck.com/pics_sets/TP5.jpg",
+  "pull_type": "distribution",
+  "distribution": "tournament_pack",
+  "cards": [
+    {
+      "id": 57482479,
+      "code": "TP5-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65240384,
+      "code": "TP5-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53119267,
+      "code": "TP5-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11091375,
+      "code": "TP5-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81843628,
+      "code": "TP5-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88240808,
+      "code": "TP5-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40133511,
+      "code": "TP5-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2204140,
+      "code": "TP5-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3055837,
+      "code": "TP5-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53493204,
+      "code": "TP5-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41855169,
+      "code": "TP5-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71283180,
+      "code": "TP5-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5616412,
+      "code": "TP5-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99426834,
+      "code": "TP5-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50259460,
+      "code": "TP5-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30451366,
+      "code": "TP5-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77044671,
+      "code": "TP5-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2926176,
+      "code": "TP5-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87523462,
+      "code": "TP5-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78053598,
+      "code": "TP5-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

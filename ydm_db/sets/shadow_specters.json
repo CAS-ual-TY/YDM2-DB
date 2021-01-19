@@ -1,0 +1,647 @@
+{
+  "name": "Shadow Specters",
+  "code": "SHSP",
+  "type": "Booster Pack (Series 8)",
+  "date": "13-12-2013",
+  "image": "https://ygoprodeck.com/pics_sets/SHSP.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 85463083,
+      "code": "SHSP-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62514770,
+      "code": "SHSP-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99902789,
+      "code": "SHSP-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35307484,
+      "code": "SHSP-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61791132,
+      "code": "SHSP-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98780137,
+      "code": "SHSP-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24184846,
+      "code": "SHSP-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61679541,
+      "code": "SHSP-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97064649,
+      "code": "SHSP-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24062258,
+      "code": "SHSP-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50457953,
+      "code": "SHSP-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92841002,
+      "code": "SHSP-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29330706,
+      "code": "SHSP-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55735315,
+      "code": "SHSP-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92729410,
+      "code": "SHSP-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28118128,
+      "code": "SHSP-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54512827,
+      "code": "SHSP-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81907872,
+      "code": "SHSP-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27491571,
+      "code": "SHSP-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54490275,
+      "code": "SHSP-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80885284,
+      "code": "SHSP-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16279989,
+      "code": "SHSP-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53678698,
+      "code": "SHSP-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89662736,
+      "code": "SHSP-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16157341,
+      "code": "SHSP-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42551040,
+      "code": "SHSP-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88940154,
+      "code": "SHSP-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15335853,
+      "code": "SHSP-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41329458,
+      "code": "SHSP-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88728507,
+      "code": "SHSP-029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14212201,
+      "code": "SHSP-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40607210,
+      "code": "SHSP-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17601919,
+      "code": "SHSP-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53090623,
+      "code": "SHSP-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80485722,
+      "code": "SHSP-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16889337,
+      "code": "SHSP-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43378076,
+      "code": "SHSP-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89362180,
+      "code": "SHSP-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15767889,
+      "code": "SHSP-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42155488,
+      "code": "SHSP-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78540593,
+      "code": "SHSP-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15545291,
+      "code": "SHSP-041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41039846,
+      "code": "SHSP-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77428945,
+      "code": "SHSP-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14812659,
+      "code": "SHSP-044",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 40217358,
+      "code": "SHSP-045",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 77205367,
+      "code": "SHSP-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77205367,
+      "code": "SHSP-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3790062,
+      "code": "SHSP-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49195710,
+      "code": "SHSP-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76589815,
+      "code": "SHSP-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2978414,
+      "code": "SHSP-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2978414,
+      "code": "SHSP-050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39972129,
+      "code": "SHSP-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75367227,
+      "code": "SHSP-052",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75367227,
+      "code": "SHSP-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1855932,
+      "code": "SHSP-053",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1855932,
+      "code": "SHSP-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38250531,
+      "code": "SHSP-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64245689,
+      "code": "SHSP-055",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1639384,
+      "code": "SHSP-056",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1639384,
+      "code": "SHSP-056",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1639384,
+      "code": "SHSP-056",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37038993,
+      "code": "SHSP-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63422098,
+      "code": "SHSP-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 917796,
+      "code": "SHSP-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36916401,
+      "code": "SHSP-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63300440,
+      "code": "SHSP-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99795159,
+      "code": "SHSP-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35183853,
+      "code": "SHSP-063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62188962,
+      "code": "SHSP-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98672567,
+      "code": "SHSP-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25067275,
+      "code": "SHSP-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61466310,
+      "code": "SHSP-067",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98850929,
+      "code": "SHSP-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24845628,
+      "code": "SHSP-069",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 50243722,
+      "code": "SHSP-070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97738431,
+      "code": "SHSP-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23122036,
+      "code": "SHSP-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50527144,
+      "code": "SHSP-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86516889,
+      "code": "SHSP-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22900598,
+      "code": "SHSP-075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59305593,
+      "code": "SHSP-076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85893201,
+      "code": "SHSP-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22888900,
+      "code": "SHSP-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58272005,
+      "code": "SHSP-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84677654,
+      "code": "SHSP-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 11958188,
+      "code": "SHSP-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58947797,
+      "code": "SHSP-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84341431,
+      "code": "SHSP-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10736540,
+      "code": "SHSP-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47120245,
+      "code": "SHSP-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83519853,
+      "code": "SHSP-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10613952,
+      "code": "SHSP-087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46008667,
+      "code": "SHSP-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72497366,
+      "code": "SHSP-089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32995007,
+      "code": "SHSP-090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60181553,
+      "code": "SHSP-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65737274,
+      "code": "SHSP-092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99234526,
+      "code": "SHSP-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35629124,
+      "code": "SHSP-094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25407643,
+      "code": "SHSP-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61901281,
+      "code": "SHSP-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50789693,
+      "code": "SHSP-097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97173708,
+      "code": "SHSP-098",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52575195,
+      "code": "SHSP-099",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

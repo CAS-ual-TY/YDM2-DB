@@ -1,0 +1,1328 @@
+{
+  "code": "BP01_5",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "battle_pack__epic_dawn__5",
+  "cards": [
+    {
+      "id": 78010363,
+      "code": "BP01-001",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34124316,
+      "code": "BP01-002",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77585513,
+      "code": "BP01-003",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79575620,
+      "code": "BP01-004",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89111398,
+      "code": "BP01-005",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61370518,
+      "code": "BP01-006",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40737112,
+      "code": "BP01-007",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25551951,
+      "code": "BP01-008",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4929256,
+      "code": "BP01-009",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88753985,
+      "code": "BP01-010",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83104731,
+      "code": "BP01-011",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12538374,
+      "code": "BP01-012",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85520851,
+      "code": "BP01-013",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44330098,
+      "code": "BP01-014",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73125233,
+      "code": "BP01-015",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79473793,
+      "code": "BP01-016",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17559367,
+      "code": "BP01-017",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9748752,
+      "code": "BP01-018",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59575539,
+      "code": "BP01-019",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98777036,
+      "code": "BP01-020",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000000,
+      "code": "BP01-021",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5556499,
+      "code": "BP01-022",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10802915,
+      "code": "BP01-023",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84013237,
+      "code": "BP01-024",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10002346,
+      "code": "BP01-025",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47506081,
+      "code": "BP01-026",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69610924,
+      "code": "BP01-027",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68597372,
+      "code": "BP01-028",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31386180,
+      "code": "BP01-029",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94119480,
+      "code": "BP01-030",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71594310,
+      "code": "BP01-031",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12580477,
+      "code": "BP01-032",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "BP01-033",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "BP01-034",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18144507,
+      "code": "BP01-035",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79571449,
+      "code": "BP01-036",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "BP01-037",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19613556,
+      "code": "BP01-038",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45986603,
+      "code": "BP01-039",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70828912,
+      "code": "BP01-040",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "BP01-041",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "BP01-042",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56747793,
+      "code": "BP01-043",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31036355,
+      "code": "BP01-044",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44947065,
+      "code": "BP01-045",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98645731,
+      "code": "BP01-046",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "BP01-047",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "BP01-048",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "BP01-049",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "BP01-050",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "BP01-051",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26905245,
+      "code": "BP01-052",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82732705,
+      "code": "BP01-053",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49010598,
+      "code": "BP01-054",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77538567,
+      "code": "BP01-055",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61831093,
+      "code": "BP01-056",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93920745,
+      "code": "BP01-057",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1347977,
+      "code": "BP01-058",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74131780,
+      "code": "BP01-059",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45141844,
+      "code": "BP01-060",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71413901,
+      "code": "BP01-061",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48343627,
+      "code": "BP01-062",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21502796,
+      "code": "BP01-063",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91133740,
+      "code": "BP01-064",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "BP01-065",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "BP01-066",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40619825,
+      "code": "BP01-067",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "BP01-068",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64047146,
+      "code": "BP01-069",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19230408,
+      "code": "BP01-070",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7165085,
+      "code": "BP01-071",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "BP01-072",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71453557,
+      "code": "BP01-073",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34236961,
+      "code": "BP01-074",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61127349,
+      "code": "BP01-075",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24874630,
+      "code": "BP01-076",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56460688,
+      "code": "BP01-077",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "BP01-078",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43040603,
+      "code": "BP01-079",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30683373,
+      "code": "BP01-080",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6178850,
+      "code": "BP01-081",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25789292,
+      "code": "BP01-082",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83584898,
+      "code": "BP01-083",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27243130,
+      "code": "BP01-084",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6430659,
+      "code": "BP01-085",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73178098,
+      "code": "BP01-086",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37390589,
+      "code": "BP01-087",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60082869,
+      "code": "BP01-088",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59744639,
+      "code": "BP01-089",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59344077,
+      "code": "BP01-090",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "BP01-091",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29267084,
+      "code": "BP01-092",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98239899,
+      "code": "BP01-093",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38411870,
+      "code": "BP01-094",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37576645,
+      "code": "BP01-095",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54704216,
+      "code": "BP01-096",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38275183,
+      "code": "BP01-097",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36261276,
+      "code": "BP01-098",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "BP01-099",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66518841,
+      "code": "BP01-100",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15552258,
+      "code": "BP01-101",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73729209,
+      "code": "BP01-102",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46502013,
+      "code": "BP01-103",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24673894,
+      "code": "BP01-104",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50078509,
+      "code": "BP01-105",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79161790,
+      "code": "BP01-106",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21636650,
+      "code": "BP01-107",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53656677,
+      "code": "BP01-108",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87106146,
+      "code": "BP01-109",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72022087,
+      "code": "BP01-110",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11091375,
+      "code": "BP01-111",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49881766,
+      "code": "BP01-112",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79182538,
+      "code": "BP01-113",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13179332,
+      "code": "BP01-114",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35052053,
+      "code": "BP01-115",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69247929,
+      "code": "BP01-116",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78193831,
+      "code": "BP01-117",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78658564,
+      "code": "BP01-118",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40133511,
+      "code": "BP01-119",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88472456,
+      "code": "BP01-120",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78636495,
+      "code": "BP01-121",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53982768,
+      "code": "BP01-122",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49681811,
+      "code": "BP01-123",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18036057,
+      "code": "BP01-124",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2134346,
+      "code": "BP01-125",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63749102,
+      "code": "BP01-126",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53839837,
+      "code": "BP01-127",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42386471,
+      "code": "BP01-128",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83986578,
+      "code": "BP01-129",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40659562,
+      "code": "BP01-130",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46363422,
+      "code": "BP01-131",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51945556,
+      "code": "BP01-132",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70074904,
+      "code": "BP01-133",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51838385,
+      "code": "BP01-134",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14778250,
+      "code": "BP01-135",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90810762,
+      "code": "BP01-136",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16956455,
+      "code": "BP01-137",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70095154,
+      "code": "BP01-138",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59023523,
+      "code": "BP01-139",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85306040,
+      "code": "BP01-140",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78700060,
+      "code": "BP01-141",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77252217,
+      "code": "BP01-142",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85087012,
+      "code": "BP01-143",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93151201,
+      "code": "BP01-144",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20546916,
+      "code": "BP01-145",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39303359,
+      "code": "BP01-146",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61802346,
+      "code": "BP01-147",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78651105,
+      "code": "BP01-148",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51196174,
+      "code": "BP01-149",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37955049,
+      "code": "BP01-150",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60953118,
+      "code": "BP01-151",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83269557,
+      "code": "BP01-152",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17573739,
+      "code": "BP01-153",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70050374,
+      "code": "BP01-154",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44223284,
+      "code": "BP01-155",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23927545,
+      "code": "BP01-156",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59042331,
+      "code": "BP01-157",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12235475,
+      "code": "BP01-158",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95637655,
+      "code": "BP01-159",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41224658,
+      "code": "BP01-160",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7025445,
+      "code": "BP01-161",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4694209,
+      "code": "BP01-162",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94215860,
+      "code": "BP01-163",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62476815,
+      "code": "BP01-164",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51254277,
+      "code": "BP01-165",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12299841,
+      "code": "BP01-166",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12076263,
+      "code": "BP01-167",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33225925,
+      "code": "BP01-168",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41098335,
+      "code": "BP01-169",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53540729,
+      "code": "BP01-170",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13039848,
+      "code": "BP01-171",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28933734,
+      "code": "BP01-172",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33508719,
+      "code": "BP01-173",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46657337,
+      "code": "BP01-174",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26302522,
+      "code": "BP01-175",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65240384,
+      "code": "BP01-176",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45894482,
+      "code": "BP01-177",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52860176,
+      "code": "BP01-178",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43586926,
+      "code": "BP01-179",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21593977,
+      "code": "BP01-180",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47025270,
+      "code": "BP01-181",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16268841,
+      "code": "BP01-182",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1434352,
+      "code": "BP01-183",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3510565,
+      "code": "BP01-184",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2671330,
+      "code": "BP01-185",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11448373,
+      "code": "BP01-186",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16226786,
+      "code": "BP01-187",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88975532,
+      "code": "BP01-188",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87621407,
+      "code": "BP01-189",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18325492,
+      "code": "BP01-190",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71218746,
+      "code": "BP01-191",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29216198,
+      "code": "BP01-192",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83982270,
+      "code": "BP01-193",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33695750,
+      "code": "BP01-194",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31034919,
+      "code": "BP01-195",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30312361,
+      "code": "BP01-196",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3657444,
+      "code": "BP01-197",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14089428,
+      "code": "BP01-198",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7736719,
+      "code": "BP01-199",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14506878,
+      "code": "BP01-200",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15658249,
+      "code": "BP01-201",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95360850,
+      "code": "BP01-202",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97021916,
+      "code": "BP01-203",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45620686,
+      "code": "BP01-204",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47217354,
+      "code": "BP01-205",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66288028,
+      "code": "BP01-206",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40225398,
+      "code": "BP01-207",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97385276,
+      "code": "BP01-208",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57421866,
+      "code": "BP01-209",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55099248,
+      "code": "BP01-210",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19665973,
+      "code": "BP01-211",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53162898,
+      "code": "BP01-212",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89567993,
+      "code": "BP01-213",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68473226,
+      "code": "BP01-214",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14785765,
+      "code": "BP01-215",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15394083,
+      "code": "BP01-216",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86952477,
+      "code": "BP01-217",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26082117,
+      "code": "BP01-218",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25259669,
+      "code": "BP01-219",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29417188,
+      "code": "BP01-220",
+      "rarity": "Starfoil Rare",
+      "image_index": 0
+    }
+  ]
+}

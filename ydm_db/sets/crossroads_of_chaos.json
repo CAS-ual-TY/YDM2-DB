@@ -1,0 +1,677 @@
+{
+  "name": "Crossroads of Chaos",
+  "code": "CSOC",
+  "type": "Booster Pack (Series 6)",
+  "date": "09-12-2008",
+  "image": "https://ygoprodeck.com/pics_sets/CSOC.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 1557341,
+      "code": "CSOC-000",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1557341,
+      "code": "CSOC-000",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31281980,
+      "code": "CSOC-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67270095,
+      "code": "CSOC-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94664694,
+      "code": "CSOC-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30069398,
+      "code": "CSOC-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66457407,
+      "code": "CSOC-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93542102,
+      "code": "CSOC-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29947751,
+      "code": "CSOC-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66331855,
+      "code": "CSOC-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92720564,
+      "code": "CSOC-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28124263,
+      "code": "CSOC-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55119278,
+      "code": "CSOC-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91607976,
+      "code": "CSOC-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28002611,
+      "code": "CSOC-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54497620,
+      "code": "CSOC-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80885324,
+      "code": "CSOC-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27870033,
+      "code": "CSOC-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53274132,
+      "code": "CSOC-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80769747,
+      "code": "CSOC-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26157485,
+      "code": "CSOC-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53152590,
+      "code": "CSOC-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89547299,
+      "code": "CSOC-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15935204,
+      "code": "CSOC-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52430902,
+      "code": "CSOC-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19505896,
+      "code": "CSOC-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82116191,
+      "code": "CSOC-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82994509,
+      "code": "CSOC-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84824601,
+      "code": "CSOC-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18489208,
+      "code": "CSOC-028",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 11819616,
+      "code": "CSOC-029",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11819616,
+      "code": "CSOC-029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43642620,
+      "code": "CSOC-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33420078,
+      "code": "CSOC-031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33420078,
+      "code": "CSOC-031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18960169,
+      "code": "CSOC-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83602069,
+      "code": "CSOC-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20450925,
+      "code": "CSOC-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79814787,
+      "code": "CSOC-035",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 10097168,
+      "code": "CSOC-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44364207,
+      "code": "CSOC-037",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 46195773,
+      "code": "CSOC-038",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46195773,
+      "code": "CSOC-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "CSOC-039",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "CSOC-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "CSOC-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19974580,
+      "code": "CSOC-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45379225,
+      "code": "CSOC-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45500495,
+      "code": "CSOC-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6021033,
+      "code": "CSOC-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6021033,
+      "code": "CSOC-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5309481,
+      "code": "CSOC-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5309481,
+      "code": "CSOC-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72767833,
+      "code": "CSOC-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18752938,
+      "code": "CSOC-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45247637,
+      "code": "CSOC-047",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45247637,
+      "code": "CSOC-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71645242,
+      "code": "CSOC-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7030340,
+      "code": "CSOC-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44424095,
+      "code": "CSOC-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70423794,
+      "code": "CSOC-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7817703,
+      "code": "CSOC-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33302407,
+      "code": "CSOC-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79707116,
+      "code": "CSOC-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6795211,
+      "code": "CSOC-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32180819,
+      "code": "CSOC-056",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32180819,
+      "code": "CSOC-056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44887817,
+      "code": "CSOC-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69584564,
+      "code": "CSOC-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5973663,
+      "code": "CSOC-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31467372,
+      "code": "CSOC-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68462976,
+      "code": "CSOC-061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4857085,
+      "code": "CSOC-062",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 31245780,
+      "code": "CSOC-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67630339,
+      "code": "CSOC-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94634433,
+      "code": "CSOC-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30123142,
+      "code": "CSOC-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66518841,
+      "code": "CSOC-067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93912845,
+      "code": "CSOC-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29307554,
+      "code": "CSOC-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66395299,
+      "code": "CSOC-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92890308,
+      "code": "CSOC-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28284902,
+      "code": "CSOC-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55673611,
+      "code": "CSOC-073",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91078716,
+      "code": "CSOC-074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28062325,
+      "code": "CSOC-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54451023,
+      "code": "CSOC-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80955168,
+      "code": "CSOC-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27340877,
+      "code": "CSOC-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53334471,
+      "code": "CSOC-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80723580,
+      "code": "CSOC-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38041940,
+      "code": "CSOC-081",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38041940,
+      "code": "CSOC-081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74440055,
+      "code": "CSOC-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1834753,
+      "code": "CSOC-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37829468,
+      "code": "CSOC-084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63223467,
+      "code": "CSOC-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 612115,
+      "code": "CSOC-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36107810,
+      "code": "CSOC-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63101919,
+      "code": "CSOC-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99590524,
+      "code": "CSOC-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41442341,
+      "code": "CSOC-090",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80987696,
+      "code": "CSOC-091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54591086,
+      "code": "CSOC-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96938777,
+      "code": "CSOC-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8483333,
+      "code": "CSOC-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23116808,
+      "code": "CSOC-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68722455,
+      "code": "CSOC-096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5126490,
+      "code": "CSOC-097",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31111109,
+      "code": "CSOC-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20546916,
+      "code": "CSOC-099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

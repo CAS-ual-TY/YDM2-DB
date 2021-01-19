@@ -1,0 +1,28 @@
+{
+  "name": "battle_pack_2__war_of_the_giants",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Mosaic Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

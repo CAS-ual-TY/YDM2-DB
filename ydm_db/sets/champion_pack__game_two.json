@@ -1,0 +1,131 @@
+{
+  "name": "Champion Pack: Game Two",
+  "code": "CP02",
+  "type": "Champion Pack",
+  "date": "06-02-2007",
+  "image": "https://ygoprodeck.com/pics_sets/CP02.jpg",
+  "pull_type": "distribution",
+  "distribution": "champion_pack",
+  "cards": [
+    {
+      "id": 98494543,
+      "code": "CP02-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22567609,
+      "code": "CP02-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31560081,
+      "code": "CP02-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77044671,
+      "code": "CP02-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97169186,
+      "code": "CP02-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "CP02-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18318842,
+      "code": "CP02-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "CP02-008",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 33508719,
+      "code": "CP02-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97642679,
+      "code": "CP02-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28553439,
+      "code": "CP02-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99030164,
+      "code": "CP02-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70046172,
+      "code": "CP02-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36468556,
+      "code": "CP02-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31786629,
+      "code": "CP02-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43586926,
+      "code": "CP02-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38699854,
+      "code": "CP02-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "CP02-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61127349,
+      "code": "CP02-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60764581,
+      "code": "CP02-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

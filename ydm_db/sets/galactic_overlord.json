@@ -1,0 +1,677 @@
+{
+  "name": "Galactic Overlord",
+  "code": "GAOV",
+  "type": "Booster Pack (Series 7)",
+  "date": "28-04-2012",
+  "image": "https://ygoprodeck.com/pics_sets/GAOV.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 92125819,
+      "code": "GAOV-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87151205,
+      "code": "GAOV-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13140300,
+      "code": "GAOV-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59644958,
+      "code": "GAOV-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86039057,
+      "code": "GAOV-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12423762,
+      "code": "GAOV-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45812361,
+      "code": "GAOV-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81816475,
+      "code": "GAOV-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17201174,
+      "code": "GAOV-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44790889,
+      "code": "GAOV-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70194827,
+      "code": "GAOV-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17189532,
+      "code": "GAOV-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43573231,
+      "code": "GAOV-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79972330,
+      "code": "GAOV-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16366944,
+      "code": "GAOV-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42851643,
+      "code": "GAOV-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79850798,
+      "code": "GAOV-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5244497,
+      "code": "GAOV-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41639001,
+      "code": "GAOV-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78033100,
+      "code": "GAOV-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4022819,
+      "code": "GAOV-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31516413,
+      "code": "GAOV-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77901552,
+      "code": "GAOV-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3300267,
+      "code": "GAOV-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30794966,
+      "code": "GAOV-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66789970,
+      "code": "GAOV-025",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66789970,
+      "code": "GAOV-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3283679,
+      "code": "GAOV-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39672388,
+      "code": "GAOV-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66066482,
+      "code": "GAOV-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2461031,
+      "code": "GAOV-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38450736,
+      "code": "GAOV-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65844845,
+      "code": "GAOV-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91349449,
+      "code": "GAOV-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38737148,
+      "code": "GAOV-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4722253,
+      "code": "GAOV-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30126992,
+      "code": "GAOV-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67511500,
+      "code": "GAOV-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3900605,
+      "code": "GAOV-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30494314,
+      "code": "GAOV-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66499018,
+      "code": "GAOV-039",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 92887027,
+      "code": "GAOV-040",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 39272762,
+      "code": "GAOV-041",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39272762,
+      "code": "GAOV-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39272762,
+      "code": "GAOV-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65676461,
+      "code": "GAOV-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65676461,
+      "code": "GAOV-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92661479,
+      "code": "GAOV-043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28150174,
+      "code": "GAOV-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64554883,
+      "code": "GAOV-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64554883,
+      "code": "GAOV-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91949988,
+      "code": "GAOV-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27337596,
+      "code": "GAOV-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64332231,
+      "code": "GAOV-048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90726340,
+      "code": "GAOV-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26211048,
+      "code": "GAOV-050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26211048,
+      "code": "GAOV-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53610653,
+      "code": "GAOV-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99004752,
+      "code": "GAOV-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26099457,
+      "code": "GAOV-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52497105,
+      "code": "GAOV-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89882100,
+      "code": "GAOV-055",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89882100,
+      "code": "GAOV-055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25377819,
+      "code": "GAOV-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51365514,
+      "code": "GAOV-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88760522,
+      "code": "GAOV-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14154221,
+      "code": "GAOV-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51549976,
+      "code": "GAOV-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87047074,
+      "code": "GAOV-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13032689,
+      "code": "GAOV-062",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13032689,
+      "code": "GAOV-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50427388,
+      "code": "GAOV-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86825483,
+      "code": "GAOV-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13210191,
+      "code": "GAOV-065",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 49204190,
+      "code": "GAOV-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85709845,
+      "code": "GAOV-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12197543,
+      "code": "GAOV-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48582558,
+      "code": "GAOV-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75987257,
+      "code": "GAOV-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11975962,
+      "code": "GAOV-071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47360060,
+      "code": "GAOV-072",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74854609,
+      "code": "GAOV-073",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74854609,
+      "code": "GAOV-073",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 259314,
+      "code": "GAOV-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47247413,
+      "code": "GAOV-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73632127,
+      "code": "GAOV-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5037726,
+      "code": "GAOV-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42425831,
+      "code": "GAOV-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78910579,
+      "code": "GAOV-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5914184,
+      "code": "GAOV-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 38520918,
+      "code": "GAOV-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64514622,
+      "code": "GAOV-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91903221,
+      "code": "GAOV-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27407330,
+      "code": "GAOV-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64892035,
+      "code": "GAOV-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90887783,
+      "code": "GAOV-086",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90887783,
+      "code": "GAOV-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26285788,
+      "code": "GAOV-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53670497,
+      "code": "GAOV-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99064191,
+      "code": "GAOV-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80117527,
+      "code": "GAOV-090",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82308875,
+      "code": "GAOV-091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30587695,
+      "code": "GAOV-092",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30587695,
+      "code": "GAOV-092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54936498,
+      "code": "GAOV-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16719802,
+      "code": "GAOV-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83991690,
+      "code": "GAOV-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10389794,
+      "code": "GAOV-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46384403,
+      "code": "GAOV-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97170107,
+      "code": "GAOV-098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61807040,
+      "code": "GAOV-099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

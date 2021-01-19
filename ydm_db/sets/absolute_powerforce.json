@@ -1,0 +1,677 @@
+{
+  "name": "Absolute Powerforce",
+  "code": "ABPF",
+  "type": "Booster Pack (Series 6)",
+  "date": "26-03-2010",
+  "image": "https://ygoprodeck.com/pics_sets/ABPF.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 3381441,
+      "code": "ABPF-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57308711,
+      "code": "ABPF-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83392426,
+      "code": "ABPF-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20797524,
+      "code": "ABPF-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56286179,
+      "code": "ABPF-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82670878,
+      "code": "ABPF-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19665973,
+      "code": "ABPF-006",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19665973,
+      "code": "ABPF-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55063681,
+      "code": "ABPF-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82458280,
+      "code": "ABPF-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18842395,
+      "code": "ABPF-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44341034,
+      "code": "ABPF-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81336148,
+      "code": "ABPF-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17720747,
+      "code": "ABPF-012",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17720747,
+      "code": "ABPF-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44125452,
+      "code": "ABPF-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80513550,
+      "code": "ABPF-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16008155,
+      "code": "ABPF-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43002864,
+      "code": "ABPF-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79491903,
+      "code": "ABPF-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16886617,
+      "code": "ABPF-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42280216,
+      "code": "ABPF-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78275321,
+      "code": "ABPF-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5763020,
+      "code": "ABPF-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41158734,
+      "code": "ABPF-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78552773,
+      "code": "ABPF-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4941482,
+      "code": "ABPF-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30936186,
+      "code": "ABPF-025",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30936186,
+      "code": "ABPF-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77330185,
+      "code": "ABPF-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3825890,
+      "code": "ABPF-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30213599,
+      "code": "ABPF-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76218643,
+      "code": "ABPF-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3603242,
+      "code": "ABPF-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39091951,
+      "code": "ABPF-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65496056,
+      "code": "ABPF-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2980764,
+      "code": "ABPF-033",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 38975369,
+      "code": "ABPF-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5373478,
+      "code": "ABPF-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31768112,
+      "code": "ABPF-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77153811,
+      "code": "ABPF-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4141820,
+      "code": "ABPF-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30646525,
+      "code": "ABPF-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30646525,
+      "code": "ABPF-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67030233,
+      "code": "ABPF-040",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67030233,
+      "code": "ABPF-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67030233,
+      "code": "ABPF-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3429238,
+      "code": "ABPF-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3429238,
+      "code": "ABPF-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39823987,
+      "code": "ABPF-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39823987,
+      "code": "ABPF-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66818682,
+      "code": "ABPF-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66818682,
+      "code": "ABPF-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2203790,
+      "code": "ABPF-044",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2203790,
+      "code": "ABPF-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39701395,
+      "code": "ABPF-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65196094,
+      "code": "ABPF-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91580102,
+      "code": "ABPF-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38589847,
+      "code": "ABPF-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64973456,
+      "code": "ABPF-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91468551,
+      "code": "ABPF-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27863269,
+      "code": "ABPF-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63851864,
+      "code": "ABPF-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90246973,
+      "code": "ABPF-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26640671,
+      "code": "ABPF-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53039326,
+      "code": "ABPF-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99523325,
+      "code": "ABPF-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25518020,
+      "code": "ABPF-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52913738,
+      "code": "ABPF-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88301833,
+      "code": "ABPF-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25796442,
+      "code": "ABPF-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51790181,
+      "code": "ABPF-061",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 88289295,
+      "code": "ABPF-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24673894,
+      "code": "ABPF-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50078509,
+      "code": "ABPF-064",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83467607,
+      "code": "ABPF-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19451302,
+      "code": "ABPF-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56856951,
+      "code": "ABPF-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82340056,
+      "code": "ABPF-068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18739764,
+      "code": "ABPF-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45133463,
+      "code": "ABPF-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81128478,
+      "code": "ABPF-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18517177,
+      "code": "ABPF-072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44901281,
+      "code": "ABPF-073",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70406920,
+      "code": "ABPF-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17490535,
+      "code": "ABPF-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43889633,
+      "code": "ABPF-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70284332,
+      "code": "ABPF-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16678947,
+      "code": "ABPF-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42167046,
+      "code": "ABPF-079",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 79161790,
+      "code": "ABPF-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 42737833,
+      "code": "ABPF-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78121572,
+      "code": "ABPF-082",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78121572,
+      "code": "ABPF-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5220687,
+      "code": "ABPF-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31615285,
+      "code": "ABPF-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78009994,
+      "code": "ABPF-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4404099,
+      "code": "ABPF-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30492798,
+      "code": "ABPF-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67987302,
+      "code": "ABPF-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30770156,
+      "code": "ABPF-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16229315,
+      "code": "ABPF-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77207191,
+      "code": "ABPF-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4796100,
+      "code": "ABPF-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56043447,
+      "code": "ABPF-093",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+    {
+      "id": 15684835,
+      "code": "ABPF-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28859794,
+      "code": "ABPF-095",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63465535,
+      "code": "ABPF-096",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22858242,
+      "code": "ABPF-097",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62782218,
+      "code": "ABPF-098",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15939448,
+      "code": "ABPF-099",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

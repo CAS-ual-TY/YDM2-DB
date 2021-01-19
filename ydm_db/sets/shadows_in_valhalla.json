@@ -1,0 +1,371 @@
+{
+  "name": "Shadows in Valhalla",
+  "code": "SHVA",
+  "type": "60 Card Set",
+  "date": "16-08-2018",
+  "image": "https://ygoprodeck.com/pics_sets/SHVA.jpg",
+  "pull_type": "distribution",
+  "distribution": "60_card_set",
+  "cards": [
+    {
+      "id": 3026686,
+      "code": "SHVA-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30411385,
+      "code": "SHVA-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66809920,
+      "code": "SHVA-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2204038,
+      "code": "SHVA-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39299733,
+      "code": "SHVA-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65687442,
+      "code": "SHVA-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92182447,
+      "code": "SHVA-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38576155,
+      "code": "SHVA-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64961254,
+      "code": "SHVA-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91969909,
+      "code": "SHVA-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37354507,
+      "code": "SHVA-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64749612,
+      "code": "SHVA-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90247311,
+      "code": "SHVA-013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26232916,
+      "code": "SHVA-014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63626024,
+      "code": "SHVA-015",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12948099,
+      "code": "SHVA-016",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8809344,
+      "code": "SHVA-017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34945480,
+      "code": "SHVA-018",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49033797,
+      "code": "SHVA-019",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97973962,
+      "code": "SHVA-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41006930,
+      "code": "SHVA-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95027497,
+      "code": "SHVA-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58911105,
+      "code": "SHVA-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99212922,
+      "code": "SHVA-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58165765,
+      "code": "SHVA-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79441381,
+      "code": "SHVA-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16272453,
+      "code": "SHVA-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70861343,
+      "code": "SHVA-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90200789,
+      "code": "SHVA-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2148918,
+      "code": "SHVA-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89943723,
+      "code": "SHVA-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17732278,
+      "code": "SHVA-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89621922,
+      "code": "SHVA-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78512663,
+      "code": "SHVA-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17032740,
+      "code": "SHVA-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46759931,
+      "code": "SHVA-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21954587,
+      "code": "SHVA-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37781520,
+      "code": "SHVA-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22446869,
+      "code": "SHVA-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86120751,
+      "code": "SHVA-040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75286621,
+      "code": "SHVA-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47679935,
+      "code": "SHVA-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74063034,
+      "code": "SHVA-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47457347,
+      "code": "SHVA-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29587993,
+      "code": "SHVA-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43722862,
+      "code": "SHVA-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14558127,
+      "code": "SHVA-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3113836,
+      "code": "SHVA-048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94977269,
+      "code": "SHVA-049",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21249921,
+      "code": "SHVA-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42110604,
+      "code": "SHVA-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28776350,
+      "code": "SHVA-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80033124,
+      "code": "SHVA-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74029853,
+      "code": "SHVA-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1073952,
+      "code": "SHVA-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12644061,
+      "code": "SHVA-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44394295,
+      "code": "SHVA-057",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40089744,
+      "code": "SHVA-058",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43898403,
+      "code": "SHVA-059",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38844957,
+      "code": "SHVA-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

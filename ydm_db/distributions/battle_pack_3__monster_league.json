@@ -1,0 +1,28 @@
+{
+  "name": "battle_pack_3__monster_league",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Shatterfoil Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

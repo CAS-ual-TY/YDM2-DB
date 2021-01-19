@@ -1,0 +1,28 @@
+{
+  "name": "gold_series__haunted_mine",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 22,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Gold Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ghost/Gold Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

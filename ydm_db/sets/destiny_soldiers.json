@@ -1,0 +1,377 @@
+{
+  "name": "Destiny Soldiers",
+  "code": "DESO",
+  "type": "Deck Build Pack",
+  "date": "17-11-2016",
+  "image": "https://ygoprodeck.com/pics_sets/DESO.jpg",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": 91691605,
+      "code": "DESO-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37780349,
+      "code": "DESO-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64184058,
+      "code": "DESO-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90579153,
+      "code": "DESO-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26964762,
+      "code": "DESO-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63362460,
+      "code": "DESO-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99357565,
+      "code": "DESO-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26841274,
+      "code": "DESO-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13093792,
+      "code": "DESO-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9411399,
+      "code": "DESO-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17132130,
+      "code": "DESO-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83965310,
+      "code": "DESO-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76263644,
+      "code": "DESO-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45809008,
+      "code": "DESO-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45809008,
+      "code": "DESO-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72204747,
+      "code": "DESO-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52240819,
+      "code": "DESO-016",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99634927,
+      "code": "DESO-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25629622,
+      "code": "DESO-018",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51028231,
+      "code": "DESO-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88412339,
+      "code": "DESO-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24907044,
+      "code": "DESO-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51391183,
+      "code": "DESO-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87390798,
+      "code": "DESO-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23784496,
+      "code": "DESO-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50179591,
+      "code": "DESO-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86578200,
+      "code": "DESO-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13662809,
+      "code": "DESO-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59057953,
+      "code": "DESO-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25451652,
+      "code": "DESO-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52840267,
+      "code": "DESO-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88234365,
+      "code": "DESO-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25339070,
+      "code": "DESO-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51728779,
+      "code": "DESO-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87112784,
+      "code": "DESO-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14517422,
+      "code": "DESO-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50501121,
+      "code": "DESO-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87990236,
+      "code": "DESO-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85771019,
+      "code": "DESO-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11260714,
+      "code": "DESO-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47664723,
+      "code": "DESO-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40921744,
+      "code": "DESO-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "DESO-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46173679,
+      "code": "DESO-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "DESO-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31550470,
+      "code": "DESO-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57579381,
+      "code": "DESO-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82213171,
+      "code": "DESO-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67316075,
+      "code": "DESO-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64379430,
+      "code": "DESO-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59509952,
+      "code": "DESO-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38120068,
+      "code": "DESO-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90434926,
+      "code": "DESO-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73680966,
+      "code": "DESO-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 674561,
+      "code": "DESO-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1353770,
+      "code": "DESO-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51630558,
+      "code": "DESO-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41722932,
+      "code": "DESO-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78811937,
+      "code": "DESO-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35464895,
+      "code": "DESO-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5562461,
+      "code": "DESO-060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

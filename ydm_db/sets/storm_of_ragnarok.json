@@ -1,0 +1,677 @@
+{
+  "name": "Storm of Ragnarok",
+  "code": "STOR",
+  "type": "Booster Pack (Series 7)",
+  "date": "22-03-2011",
+  "image": "https://ygoprodeck.com/pics_sets/STOR.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 25373678,
+      "code": "STOR-000",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27450400,
+      "code": "STOR-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53855409,
+      "code": "STOR-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80244114,
+      "code": "STOR-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16638212,
+      "code": "STOR-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53623827,
+      "code": "STOR-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89127526,
+      "code": "STOR-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16516630,
+      "code": "STOR-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52900379,
+      "code": "STOR-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88305978,
+      "code": "STOR-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15394083,
+      "code": "STOR-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41788781,
+      "code": "STOR-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88283496,
+      "code": "STOR-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14677495,
+      "code": "STOR-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40666140,
+      "code": "STOR-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77060848,
+      "code": "STOR-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13455953,
+      "code": "STOR-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40844552,
+      "code": "STOR-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76348260,
+      "code": "STOR-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2333365,
+      "code": "STOR-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49721904,
+      "code": "STOR-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75116619,
+      "code": "STOR-021",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75116619,
+      "code": "STOR-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2511717,
+      "code": "STOR-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48505422,
+      "code": "STOR-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74094021,
+      "code": "STOR-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1498130,
+      "code": "STOR-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33883834,
+      "code": "STOR-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70271583,
+      "code": "STOR-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6276588,
+      "code": "STOR-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32761286,
+      "code": "STOR-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69155991,
+      "code": "STOR-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5554990,
+      "code": "STOR-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32548609,
+      "code": "STOR-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68933343,
+      "code": "STOR-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94331452,
+      "code": "STOR-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31826057,
+      "code": "STOR-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67211766,
+      "code": "STOR-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94215860,
+      "code": "STOR-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30604579,
+      "code": "STOR-038",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30604579,
+      "code": "STOR-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67098114,
+      "code": "STOR-039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67098114,
+      "code": "STOR-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93483212,
+      "code": "STOR-040",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93483212,
+      "code": "STOR-040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93483212,
+      "code": "STOR-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29981921,
+      "code": "STOR-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29981921,
+      "code": "STOR-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66976526,
+      "code": "STOR-042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66976526,
+      "code": "STOR-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92361635,
+      "code": "STOR-043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92361635,
+      "code": "STOR-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29765339,
+      "code": "STOR-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55154048,
+      "code": "STOR-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91148083,
+      "code": "STOR-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28643791,
+      "code": "STOR-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54031490,
+      "code": "STOR-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81426505,
+      "code": "STOR-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27821104,
+      "code": "STOR-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53819808,
+      "code": "STOR-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80204957,
+      "code": "STOR-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16708652,
+      "code": "STOR-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53193261,
+      "code": "STOR-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89181369,
+      "code": "STOR-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15576074,
+      "code": "STOR-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52971673,
+      "code": "STOR-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88369727,
+      "code": "STOR-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15854426,
+      "code": "STOR-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41858121,
+      "code": "STOR-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27243130,
+      "code": "STOR-061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54631834,
+      "code": "STOR-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80036543,
+      "code": "STOR-063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17521642,
+      "code": "STOR-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53519297,
+      "code": "STOR-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89914395,
+      "code": "STOR-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16308000,
+      "code": "STOR-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42793609,
+      "code": "STOR-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89792713,
+      "code": "STOR-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15286412,
+      "code": "STOR-070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42671151,
+      "code": "STOR-071",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88069166,
+      "code": "STOR-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14464864,
+      "code": "STOR-073",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14464864,
+      "code": "STOR-073",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41458579,
+      "code": "STOR-074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77847678,
+      "code": "STOR-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14342283,
+      "code": "STOR-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40736921,
+      "code": "STOR-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76721030,
+      "code": "STOR-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3129635,
+      "code": "STOR-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49514333,
+      "code": "STOR-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61777313,
+      "code": "STOR-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98162021,
+      "code": "STOR-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24150026,
+      "code": "STOR-083",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24150026,
+      "code": "STOR-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51555725,
+      "code": "STOR-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97940434,
+      "code": "STOR-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23434538,
+      "code": "STOR-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50433147,
+      "code": "STOR-087",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50433147,
+      "code": "STOR-087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86827882,
+      "code": "STOR-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23212990,
+      "code": "STOR-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63224564,
+      "code": "STOR-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43530283,
+      "code": "STOR-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94230224,
+      "code": "STOR-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97783659,
+      "code": "STOR-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60577362,
+      "code": "STOR-094",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57543573,
+      "code": "STOR-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84932271,
+      "code": "STOR-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10026986,
+      "code": "STOR-097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41077745,
+      "code": "STOR-098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45215453,
+      "code": "STOR-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

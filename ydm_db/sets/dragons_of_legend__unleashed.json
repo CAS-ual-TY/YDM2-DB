@@ -1,0 +1,449 @@
+{
+  "name": "Dragons of Legend: Unleashed",
+  "code": "DRL3",
+  "type": "60 Card Set",
+  "date": "18-08-2016",
+  "image": "https://ygoprodeck.com/pics_sets/DRL3.jpg",
+  "pull_type": "distribution",
+  "distribution": "60_card_set",
+  "cards": [
+    {
+      "id": 67754901,
+      "code": "DRL3-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7714344,
+      "code": "DRL3-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33103459,
+      "code": "DRL3-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60508057,
+      "code": "DRL3-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96592102,
+      "code": "DRL3-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3912064,
+      "code": "DRL3-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15033525,
+      "code": "DRL3-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16255173,
+      "code": "DRL3-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32588805,
+      "code": "DRL3-009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24413299,
+      "code": "DRL3-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76103404,
+      "code": "DRL3-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77235086,
+      "code": "DRL3-012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3629090,
+      "code": "DRL3-013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39618799,
+      "code": "DRL3-014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39996157,
+      "code": "DRL3-015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95658967,
+      "code": "DRL3-016",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21142671,
+      "code": "DRL3-017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67547370,
+      "code": "DRL3-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94535485,
+      "code": "DRL3-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20920083,
+      "code": "DRL3-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57314798,
+      "code": "DRL3-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93713837,
+      "code": "DRL3-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29208536,
+      "code": "DRL3-023",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56292140,
+      "code": "DRL3-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82697249,
+      "code": "DRL3-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29085954,
+      "code": "DRL3-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55470553,
+      "code": "DRL3-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81974607,
+      "code": "DRL3-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18963306,
+      "code": "DRL3-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54358015,
+      "code": "DRL3-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81752019,
+      "code": "DRL3-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17141718,
+      "code": "DRL3-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54135423,
+      "code": "DRL3-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80630522,
+      "code": "DRL3-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16024176,
+      "code": "DRL3-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43413875,
+      "code": "DRL3-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89818984,
+      "code": "DRL3-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16802689,
+      "code": "DRL3-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42291297,
+      "code": "DRL3-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78785392,
+      "code": "DRL3-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80019195,
+      "code": "DRL3-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16404809,
+      "code": "DRL3-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75380687,
+      "code": "DRL3-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43892408,
+      "code": "DRL3-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1784686,
+      "code": "DRL3-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89397517,
+      "code": "DRL3-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15381252,
+      "code": "DRL3-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42776960,
+      "code": "DRL3-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18175965,
+      "code": "DRL3-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81954378,
+      "code": "DRL3-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54447022,
+      "code": "DRL3-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74875003,
+      "code": "DRL3-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 269012,
+      "code": "DRL3-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34507039,
+      "code": "DRL3-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53315891,
+      "code": "DRL3-055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85800949,
+      "code": "DRL3-056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22804644,
+      "code": "DRL3-057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58293343,
+      "code": "DRL3-058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84687358,
+      "code": "DRL3-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11082056,
+      "code": "DRL3-060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57470761,
+      "code": "DRL3-061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84565800,
+      "code": "DRL3-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10960419,
+      "code": "DRL3-063",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46354113,
+      "code": "DRL3-064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83743222,
+      "code": "DRL3-065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19747827,
+      "code": "DRL3-066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46232525,
+      "code": "DRL3-067",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19025379,
+      "code": "DRL3-068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45410988,
+      "code": "DRL3-069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48179391,
+      "code": "DRL3-070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24731453,
+      "code": "DRL3-071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51126152,
+      "code": "DRL3-072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97520701,
+      "code": "DRL3-073",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

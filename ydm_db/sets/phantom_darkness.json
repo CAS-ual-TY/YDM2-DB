@@ -1,0 +1,677 @@
+{
+  "name": "Phantom Darkness",
+  "code": "PTDN",
+  "type": "Booster Pack (Series 5)",
+  "date": "12-03-2008",
+  "image": "https://ygoprodeck.com/pics_sets/PTDN.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 14536035,
+      "code": "PTDN-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90582719,
+      "code": "PTDN-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26976414,
+      "code": "PTDN-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79407975,
+      "code": "PTDN-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5592689,
+      "code": "PTDN-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31986288,
+      "code": "PTDN-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78371393,
+      "code": "PTDN-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4779091,
+      "code": "PTDN-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4779091,
+      "code": "PTDN-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31764700,
+      "code": "PTDN-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67159705,
+      "code": "PTDN-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3657444,
+      "code": "PTDN-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30042158,
+      "code": "PTDN-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66436257,
+      "code": "PTDN-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53927679,
+      "code": "PTDN-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93431862,
+      "code": "PTDN-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39829561,
+      "code": "PTDN-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66214679,
+      "code": "PTDN-016",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66214679,
+      "code": "PTDN-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92719314,
+      "code": "PTDN-017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38107923,
+      "code": "PTDN-018",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38107923,
+      "code": "PTDN-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65192027,
+      "code": "PTDN-019",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91596726,
+      "code": "PTDN-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28985331,
+      "code": "PTDN-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64379430,
+      "code": "PTDN-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90464188,
+      "code": "PTDN-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27869883,
+      "code": "PTDN-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26254876,
+      "code": "PTDN-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53257892,
+      "code": "PTDN-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90642597,
+      "code": "PTDN-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26046205,
+      "code": "PTDN-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52035300,
+      "code": "PTDN-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89529919,
+      "code": "PTDN-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25924653,
+      "code": "PTDN-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52248570,
+      "code": "PTDN-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52319752,
+      "code": "PTDN-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88307361,
+      "code": "PTDN-034",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88307361,
+      "code": "PTDN-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14702066,
+      "code": "PTDN-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51196174,
+      "code": "PTDN-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87685879,
+      "code": "PTDN-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14089428,
+      "code": "PTDN-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50074522,
+      "code": "PTDN-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53461122,
+      "code": "PTDN-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99865167,
+      "code": "PTDN-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13857930,
+      "code": "PTDN-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49352945,
+      "code": "PTDN-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86346643,
+      "code": "PTDN-044",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86346643,
+      "code": "PTDN-044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12735388,
+      "code": "PTDN-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48130397,
+      "code": "PTDN-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75524092,
+      "code": "PTDN-047",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 11913700,
+      "code": "PTDN-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48017809,
+      "code": "PTDN-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74402414,
+      "code": "PTDN-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1896112,
+      "code": "PTDN-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47295267,
+      "code": "PTDN-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73680966,
+      "code": "PTDN-053",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73680966,
+      "code": "PTDN-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 674561,
+      "code": "PTDN-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46173679,
+      "code": "PTDN-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73567374,
+      "code": "PTDN-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9952083,
+      "code": "PTDN-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35956022,
+      "code": "PTDN-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72345736,
+      "code": "PTDN-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8730435,
+      "code": "PTDN-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35224440,
+      "code": "PTDN-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61623148,
+      "code": "PTDN-062",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 7617253,
+      "code": "PTDN-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34002992,
+      "code": "PTDN-064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60406591,
+      "code": "PTDN-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93895605,
+      "code": "PTDN-066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39980304,
+      "code": "PTDN-067",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 65384019,
+      "code": "PTDN-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92773018,
+      "code": "PTDN-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38167722,
+      "code": "PTDN-070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5562461,
+      "code": "PTDN-071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31550470,
+      "code": "PTDN-072",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67045174,
+      "code": "PTDN-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4440873,
+      "code": "PTDN-074",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4440873,
+      "code": "PTDN-074",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30834988,
+      "code": "PTDN-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67223587,
+      "code": "PTDN-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93217231,
+      "code": "PTDN-077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39712330,
+      "code": "PTDN-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66100045,
+      "code": "PTDN-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92595643,
+      "code": "PTDN-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 40921744,
+      "code": "PTDN-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76925842,
+      "code": "PTDN-082",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76925842,
+      "code": "PTDN-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13314457,
+      "code": "PTDN-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "PTDN-084",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "PTDN-084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49808196,
+      "code": "PTDN-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76203291,
+      "code": "PTDN-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12298909,
+      "code": "PTDN-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48686504,
+      "code": "PTDN-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75081613,
+      "code": "PTDN-089",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34294855,
+      "code": "PTDN-090",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34294855,
+      "code": "PTDN-090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36931229,
+      "code": "PTDN-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38247752,
+      "code": "PTDN-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99747800,
+      "code": "PTDN-093",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26905245,
+      "code": "PTDN-094",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26905245,
+      "code": "PTDN-094",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79852326,
+      "code": "PTDN-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65743242,
+      "code": "PTDN-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45462639,
+      "code": "PTDN-097",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63665875,
+      "code": "PTDN-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33655493,
+      "code": "PTDN-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Tournament Pack 6",
+  "code": "TP6",
+  "type": "Tournament Pack",
+  "date": "01-06-2005",
+  "image": "https://ygoprodeck.com/pics_sets/TP6.jpg",
+  "pull_type": "distribution",
+  "distribution": "tournament_pack",
+  "cards": [
+    {
+      "id": 79875176,
+      "code": "TP6-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89997728,
+      "code": "TP6-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26902560,
+      "code": "TP6-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51452091,
+      "code": "TP6-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99518961,
+      "code": "TP6-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31553716,
+      "code": "TP6-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18036057,
+      "code": "TP6-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40473581,
+      "code": "TP6-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76862289,
+      "code": "TP6-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80071763,
+      "code": "TP6-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49868263,
+      "code": "TP6-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53046408,
+      "code": "TP6-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66235877,
+      "code": "TP6-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70797118,
+      "code": "TP6-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28566710,
+      "code": "TP6-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75889523,
+      "code": "TP6-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40200834,
+      "code": "TP6-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1761063,
+      "code": "TP6-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6297941,
+      "code": "TP6-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92667214,
+      "code": "TP6-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "name": "Legend of Blue Eyes White Dragon",
+  "code": "LOB",
+  "type": "Booster Pack (Series 1-3)",
+  "date": "08-03-2002",
+  "image": "https://ygoprodeck.com/pics_sets/LOB.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 39111158,
+      "code": "LOB-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89631139,
+      "code": "LOB-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76184692,
+      "code": "LOB-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45231177,
+      "code": "LOB-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32274490,
+      "code": "LOB-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "LOB-005",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 6368038,
+      "code": "LOB-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91152256,
+      "code": "LOB-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89091579,
+      "code": "LOB-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40374923,
+      "code": "LOB-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90357090,
+      "code": "LOB-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9159938,
+      "code": "LOB-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77827521,
+      "code": "LOB-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90963488,
+      "code": "LOB-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32864,
+      "code": "LOB-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37421579,
+      "code": "LOB-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34460851,
+      "code": "LOB-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36121917,
+      "code": "LOB-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53293545,
+      "code": "LOB-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17881964,
+      "code": "LOB-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53375573,
+      "code": "LOB-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2863439,
+      "code": "LOB-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1641882,
+      "code": "LOB-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37313348,
+      "code": "LOB-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75356564,
+      "code": "LOB-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38142739,
+      "code": "LOB-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96851799,
+      "code": "LOB-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85639257,
+      "code": "LOB-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15401633,
+      "code": "LOB-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58528964,
+      "code": "LOB-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57305373,
+      "code": "LOB-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40826495,
+      "code": "LOB-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39004808,
+      "code": "LOB-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18710707,
+      "code": "LOB-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22910685,
+      "code": "LOB-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85309439,
+      "code": "LOB-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84686841,
+      "code": "LOB-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83464209,
+      "code": "LOB-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44287299,
+      "code": "LOB-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85705804,
+      "code": "LOB-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61854111,
+      "code": "LOB-040",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 46009906,
+      "code": "LOB-041",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 15052462,
+      "code": "LOB-042",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 91595718,
+      "code": "LOB-043",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 77027445,
+      "code": "LOB-044",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 50045299,
+      "code": "LOB-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87430998,
+      "code": "LOB-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23424603,
+      "code": "LOB-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50913601,
+      "code": "LOB-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86318356,
+      "code": "LOB-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22702055,
+      "code": "LOB-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59197169,
+      "code": "LOB-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "LOB-052",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12580477,
+      "code": "LOB-053",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38199696,
+      "code": "LOB-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76103675,
+      "code": "LOB-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46130346,
+      "code": "LOB-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "LOB-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "LOB-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "LOB-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51482758,
+      "code": "LOB-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83887306,
+      "code": "LOB-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15025844,
+      "code": "LOB-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72842870,
+      "code": "LOB-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32452818,
+      "code": "LOB-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82542267,
+      "code": "LOB-065",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28279543,
+      "code": "LOB-066",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54541900,
+      "code": "LOB-067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13039848,
+      "code": "LOB-068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1784619,
+      "code": "LOB-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74677422,
+      "code": "LOB-070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33066139,
+      "code": "LOB-071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36304921,
+      "code": "LOB-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94675535,
+      "code": "LOB-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20060230,
+      "code": "LOB-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93553943,
+      "code": "LOB-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56342351,
+      "code": "LOB-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92731455,
+      "code": "LOB-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80770678,
+      "code": "LOB-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53153481,
+      "code": "LOB-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63308047,
+      "code": "LOB-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98818516,
+      "code": "LOB-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56283725,
+      "code": "LOB-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76211194,
+      "code": "LOB-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75376965,
+      "code": "LOB-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71407486,
+      "code": "LOB-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70681994,
+      "code": "LOB-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33064647,
+      "code": "LOB-087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4614116,
+      "code": "LOB-088",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 77007920,
+      "code": "LOB-089",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 39774685,
+      "code": "LOB-090",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 1557499,
+      "code": "LOB-091",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 1435851,
+      "code": "LOB-092",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 37820550,
+      "code": "LOB-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36607978,
+      "code": "LOB-094",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 63102017,
+      "code": "LOB-095",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25769732,
+      "code": "LOB-096",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 51267887,
+      "code": "LOB-097",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 98252586,
+      "code": "LOB-098",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 11868825,
+      "code": "LOB-099",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73134082,
+      "code": "LOB-100",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "LOB-101",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9293977,
+      "code": "LOB-102",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85326399,
+      "code": "LOB-103",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45042329,
+      "code": "LOB-104",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10202894,
+      "code": "LOB-105",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9076207,
+      "code": "LOB-106",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95952802,
+      "code": "LOB-107",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54652250,
+      "code": "LOB-108",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73051941,
+      "code": "LOB-109",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7089711,
+      "code": "LOB-110",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33178416,
+      "code": "LOB-111",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29172562,
+      "code": "LOB-112",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55444629,
+      "code": "LOB-113",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43500484,
+      "code": "LOB-114",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16353197,
+      "code": "LOB-115",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17535588,
+      "code": "LOB-116",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55291359,
+      "code": "LOB-117",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "LOB-118",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "LOB-119",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8124921,
+      "code": "LOB-120",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44519536,
+      "code": "LOB-121",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70903634,
+      "code": "LOB-122",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7902349,
+      "code": "LOB-123",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33396948,
+      "code": "LOB-124",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66889139,
+      "code": "LOB-125",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

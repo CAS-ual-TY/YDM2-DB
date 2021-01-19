@@ -1,0 +1,23 @@
+{
+  "name": "star_pack",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Starfoil Rare",
+            "Shatterfoil Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

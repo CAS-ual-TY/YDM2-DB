@@ -1,0 +1,131 @@
+{
+  "name": "Tournament Pack 7",
+  "code": "TP7",
+  "type": "Tournament Pack",
+  "date": "01-11-2005",
+  "image": "https://ygoprodeck.com/pics_sets/TP7.jpg",
+  "pull_type": "distribution",
+  "distribution": "tournament_pack",
+  "cards": [
+    {
+      "id": 37043180,
+      "code": "TP7-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90873992,
+      "code": "TP7-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62337487,
+      "code": "TP7-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57482479,
+      "code": "TP7-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71413901,
+      "code": "TP7-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78658564,
+      "code": "TP7-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94004268,
+      "code": "TP7-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72630549,
+      "code": "TP7-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "TP7-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "TP7-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77454922,
+      "code": "TP7-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73752131,
+      "code": "TP7-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46363422,
+      "code": "TP7-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13945283,
+      "code": "TP7-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85602018,
+      "code": "TP7-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84285623,
+      "code": "TP7-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80234301,
+      "code": "TP7-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47986555,
+      "code": "TP7-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29948642,
+      "code": "TP7-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43352213,
+      "code": "TP7-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

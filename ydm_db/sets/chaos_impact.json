@@ -1,0 +1,635 @@
+{
+  "name": "Chaos Impact",
+  "code": "CHIM",
+  "type": "Booster Pack (Series 10)",
+  "date": "05-12-2019",
+  "image": "https://ygoprodeck.com/pics_sets/CHIM.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 637216,
+      "code": "CHIM-000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92176681,
+      "code": "CHIM-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28174796,
+      "code": "CHIM-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54569495,
+      "code": "CHIM-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91953000,
+      "code": "CHIM-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27352108,
+      "code": "CHIM-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54446813,
+      "code": "CHIM-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80831552,
+      "code": "CHIM-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26236560,
+      "code": "CHIM-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26236560,
+      "code": "CHIM-008",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53624265,
+      "code": "CHIM-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89019964,
+      "code": "CHIM-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16003979,
+      "code": "CHIM-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52502677,
+      "code": "CHIM-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88996322,
+      "code": "CHIM-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15381421,
+      "code": "CHIM-014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51786039,
+      "code": "CHIM-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88774734,
+      "code": "CHIM-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14169843,
+      "code": "CHIM-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40663548,
+      "code": "CHIM-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87052196,
+      "code": "CHIM-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13046291,
+      "code": "CHIM-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40441990,
+      "code": "CHIM-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76830505,
+      "code": "CHIM-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13224603,
+      "code": "CHIM-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49729312,
+      "code": "CHIM-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75713017,
+      "code": "CHIM-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2102065,
+      "code": "CHIM-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48596760,
+      "code": "CHIM-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75991479,
+      "code": "CHIM-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1980574,
+      "code": "CHIM-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47474172,
+      "code": "CHIM-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74879881,
+      "code": "CHIM-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 263926,
+      "code": "CHIM-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33652635,
+      "code": "CHIM-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79656239,
+      "code": "CHIM-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5041348,
+      "code": "CHIM-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32530043,
+      "code": "CHIM-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68934651,
+      "code": "CHIM-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5329790,
+      "code": "CHIM-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31313405,
+      "code": "CHIM-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31313405,
+      "code": "CHIM-039",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67712104,
+      "code": "CHIM-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94207108,
+      "code": "CHIM-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30691817,
+      "code": "CHIM-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67680512,
+      "code": "CHIM-043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93084621,
+      "code": "CHIM-044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29479265,
+      "code": "CHIM-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66863374,
+      "code": "CHIM-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92362073,
+      "code": "CHIM-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29357687,
+      "code": "CHIM-048",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29357687,
+      "code": "CHIM-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65741786,
+      "code": "CHIM-049",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65741786,
+      "code": "CHIM-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91140491,
+      "code": "CHIM-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28534130,
+      "code": "CHIM-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54529134,
+      "code": "CHIM-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91027843,
+      "code": "CHIM-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27412542,
+      "code": "CHIM-054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54807656,
+      "code": "CHIM-055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20201255,
+      "code": "CHIM-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66290900,
+      "code": "CHIM-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93684009,
+      "code": "CHIM-058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29189613,
+      "code": "CHIM-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56577312,
+      "code": "CHIM-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92562411,
+      "code": "CHIM-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28957126,
+      "code": "CHIM-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55351724,
+      "code": "CHIM-063",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91740879,
+      "code": "CHIM-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28234578,
+      "code": "CHIM-065",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54239282,
+      "code": "CHIM-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80627281,
+      "code": "CHIM-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27012990,
+      "code": "CHIM-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53417695,
+      "code": "CHIM-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80801743,
+      "code": "CHIM-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16990348,
+      "code": "CHIM-071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52394047,
+      "code": "CHIM-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89789152,
+      "code": "CHIM-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15177750,
+      "code": "CHIM-074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42172465,
+      "code": "CHIM-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88667504,
+      "code": "CHIM-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14055212,
+      "code": "CHIM-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41440817,
+      "code": "CHIM-078",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87844926,
+      "code": "CHIM-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14839621,
+      "code": "CHIM-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37021315,
+      "code": "CHIM-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63410069,
+      "code": "CHIM-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90814668,
+      "code": "CHIM-083",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36809777,
+      "code": "CHIM-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62393472,
+      "code": "CHIM-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99792080,
+      "code": "CHIM-086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35187185,
+      "code": "CHIM-087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62171834,
+      "code": "CHIM-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98570539,
+      "code": "CHIM-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25964547,
+      "code": "CHIM-090",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61459246,
+      "code": "CHIM-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15627227,
+      "code": "CHIM-092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99004583,
+      "code": "CHIM-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35498188,
+      "code": "CHIM-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69170403,
+      "code": "CHIM-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20735371,
+      "code": "CHIM-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33298291,
+      "code": "CHIM-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73539069,
+      "code": "CHIM-098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23935886,
+      "code": "CHIM-099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

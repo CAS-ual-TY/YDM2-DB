@@ -1,0 +1,371 @@
+{
+  "name": "High-Speed Riders",
+  "code": "HSRD",
+  "type": "Deck Build Pack",
+  "date": "01-10-2015",
+  "image": "https://ygoprodeck.com/pics_sets/HSRD.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 81275020,
+      "code": "HSRD-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27660735,
+      "code": "HSRD-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53054833,
+      "code": "HSRD-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80559548,
+      "code": "HSRD-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16947147,
+      "code": "HSRD-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53932291,
+      "code": "HSRD-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89326990,
+      "code": "HSRD-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16725505,
+      "code": "HSRD-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97007933,
+      "code": "HSRD-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42110604,
+      "code": "HSRD-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88204302,
+      "code": "HSRD-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15609017,
+      "code": "HSRD-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41097056,
+      "code": "HSRD-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88482761,
+      "code": "HSRD-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14886469,
+      "code": "HSRD-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40975574,
+      "code": "HSRD-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77360173,
+      "code": "HSRD-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13764881,
+      "code": "HSRD-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40159926,
+      "code": "HSRD-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97021916,
+      "code": "HSRD-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54343893,
+      "code": "HSRD-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76547525,
+      "code": "HSRD-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70902743,
+      "code": "HSRD-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97489701,
+      "code": "HSRD-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23008320,
+      "code": "HSRD-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2542230,
+      "code": "HSRD-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41197012,
+      "code": "HSRD-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49036338,
+      "code": "HSRD-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75425043,
+      "code": "HSRD-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2810642,
+      "code": "HSRD-030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38814750,
+      "code": "HSRD-031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74203495,
+      "code": "HSRD-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1697104,
+      "code": "HSRD-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37192109,
+      "code": "HSRD-034",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74586817,
+      "code": "HSRD-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 575512,
+      "code": "HSRD-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36970611,
+      "code": "HSRD-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63364266,
+      "code": "HSRD-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98637386,
+      "code": "HSRD-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39765958,
+      "code": "HSRD-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9753964,
+      "code": "HSRD-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36857073,
+      "code": "HSRD-042",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83994433,
+      "code": "HSRD-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33698022,
+      "code": "HSRD-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 984114,
+      "code": "HSRD-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59575539,
+      "code": "HSRD-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73333463,
+      "code": "HSRD-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62950604,
+      "code": "HSRD-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98358303,
+      "code": "HSRD-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25343017,
+      "code": "HSRD-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45812361,
+      "code": "HSRD-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52687916,
+      "code": "HSRD-052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "HSRD-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67723438,
+      "code": "HSRD-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32180819,
+      "code": "HSRD-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98645731,
+      "code": "HSRD-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64107820,
+      "code": "HSRD-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "HSRD-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97705809,
+      "code": "HSRD-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82633308,
+      "code": "HSRD-060",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

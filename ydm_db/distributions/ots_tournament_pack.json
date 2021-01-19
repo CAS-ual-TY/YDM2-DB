@@ -1,0 +1,42 @@
+{
+  "name": "ots_tournament_pack",
+  "pulls": [
+    {
+      "weight": 16,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common",
+            "Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common",
+            "Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "name": "Clash of Rebellions",
+  "code": "CORE",
+  "type": "Booster Pack (Series 9)",
+  "date": "11-12-2015",
+  "image": "https://ygoprodeck.com/pics_sets/CORE.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 68182934,
+      "code": "CORE-000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18108166,
+      "code": "CORE-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45103815,
+      "code": "CORE-002",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 71692913,
+      "code": "CORE-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17086528,
+      "code": "CORE-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44481227,
+      "code": "CORE-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70479321,
+      "code": "CORE-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7864030,
+      "code": "CORE-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43268675,
+      "code": "CORE-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79757784,
+      "code": "CORE-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6142488,
+      "code": "CORE-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32146097,
+      "code": "CORE-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79531196,
+      "code": "CORE-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5929801,
+      "code": "CORE-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31314549,
+      "code": "CORE-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68819554,
+      "code": "CORE-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4807253,
+      "code": "CORE-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31292357,
+      "code": "CORE-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67696066,
+      "code": "CORE-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4081665,
+      "code": "CORE-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30079770,
+      "code": "CORE-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66574418,
+      "code": "CORE-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93969023,
+      "code": "CORE-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39357122,
+      "code": "CORE-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66752837,
+      "code": "CORE-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92746535,
+      "code": "CORE-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24131534,
+      "code": "CORE-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61639289,
+      "code": "CORE-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97024987,
+      "code": "CORE-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24019092,
+      "code": "CORE-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50407691,
+      "code": "CORE-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96802306,
+      "code": "CORE-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23296404,
+      "code": "CORE-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59785059,
+      "code": "CORE-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96789758,
+      "code": "CORE-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22174866,
+      "code": "CORE-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58569561,
+      "code": "CORE-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85967160,
+      "code": "CORE-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21452275,
+      "code": "CORE-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58446973,
+      "code": "CORE-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84845628,
+      "code": "CORE-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10239627,
+      "code": "CORE-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57624336,
+      "code": "CORE-042",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83629030,
+      "code": "CORE-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10117149,
+      "code": "CORE-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46502744,
+      "code": "CORE-045",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 82956492,
+      "code": "CORE-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19355597,
+      "code": "CORE-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45349196,
+      "code": "CORE-048",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45349196,
+      "code": "CORE-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82734805,
+      "code": "CORE-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82734805,
+      "code": "CORE-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18239909,
+      "code": "CORE-050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18239909,
+      "code": "CORE-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45627618,
+      "code": "CORE-051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45627618,
+      "code": "CORE-051",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71612253,
+      "code": "CORE-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17016362,
+      "code": "CORE-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44405066,
+      "code": "CORE-054",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44405066,
+      "code": "CORE-054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44405066,
+      "code": "CORE-054",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70899775,
+      "code": "CORE-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7394770,
+      "code": "CORE-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43383478,
+      "code": "CORE-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79777187,
+      "code": "CORE-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6172122,
+      "code": "CORE-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32566831,
+      "code": "CORE-060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79555535,
+      "code": "CORE-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5050644,
+      "code": "CORE-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31444249,
+      "code": "CORE-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68833958,
+      "code": "CORE-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4227096,
+      "code": "CORE-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31222701,
+      "code": "CORE-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67616300,
+      "code": "CORE-067",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 3105404,
+      "code": "CORE-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30500113,
+      "code": "CORE-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66994718,
+      "code": "CORE-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93983867,
+      "code": "CORE-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39387565,
+      "code": "CORE-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65872270,
+      "code": "CORE-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92266279,
+      "code": "CORE-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28265983,
+      "code": "CORE-075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5650082,
+      "code": "CORE-076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31044787,
+      "code": "CORE-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67443336,
+      "code": "CORE-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94937430,
+      "code": "CORE-079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30922149,
+      "code": "CORE-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 95676943,
+      "code": "CORE-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31061682,
+      "code": "CORE-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67050396,
+      "code": "CORE-083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94454495,
+      "code": "CORE-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20849090,
+      "code": "CORE-085",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67237709,
+      "code": "CORE-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93332803,
+      "code": "CORE-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29726552,
+      "code": "CORE-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56111151,
+      "code": "CORE-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26270847,
+      "code": "CORE-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24326617,
+      "code": "CORE-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71422989,
+      "code": "CORE-092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44364077,
+      "code": "CORE-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36953371,
+      "code": "CORE-094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97007933,
+      "code": "CORE-095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83980492,
+      "code": "CORE-096",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19474136,
+      "code": "CORE-097",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55863245,
+      "code": "CORE-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18252559,
+      "code": "CORE-099",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

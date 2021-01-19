@@ -1,0 +1,875 @@
+{
+  "name": "Metal Raiders",
+  "code": "MRD",
+  "type": "Booster Pack (Series 1-3)",
+  "date": "26-06-2002",
+  "image": "https://ygoprodeck.com/pics_sets/MRD.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 25833572,
+      "code": "MRD-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41392891,
+      "code": "MRD-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87796900,
+      "code": "MRD-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70781052,
+      "code": "MRD-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68846917,
+      "code": "MRD-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15480588,
+      "code": "MRD-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88979991,
+      "code": "MRD-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87756343,
+      "code": "MRD-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76812113,
+      "code": "MRD-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12206212,
+      "code": "MRD-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1184620,
+      "code": "MRD-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40240595,
+      "code": "MRD-011",
+      "rarity": "Super Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 67494157,
+      "code": "MRD-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20277860,
+      "code": "MRD-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28933734,
+      "code": "MRD-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16972957,
+      "code": "MRD-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15150365,
+      "code": "MRD-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16768387,
+      "code": "MRD-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11901678,
+      "code": "MRD-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10189126,
+      "code": "MRD-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19066538,
+      "code": "MRD-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2483611,
+      "code": "MRD-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58314394,
+      "code": "MRD-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58192742,
+      "code": "MRD-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90219263,
+      "code": "MRD-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25955164,
+      "code": "MRD-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62340868,
+      "code": "MRD-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98434877,
+      "code": "MRD-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98049915,
+      "code": "MRD-028",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 13599884,
+      "code": "MRD-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86088138,
+      "code": "MRD-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12472242,
+      "code": "MRD-031",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 58861941,
+      "code": "MRD-032",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 10538007,
+      "code": "MRD-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70138455,
+      "code": "MRD-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32809211,
+      "code": "MRD-035",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 31560081,
+      "code": "MRD-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93221206,
+      "code": "MRD-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28593363,
+      "code": "MRD-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81386177,
+      "code": "MRD-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73481154,
+      "code": "MRD-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9653271,
+      "code": "MRD-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21347810,
+      "code": "MRD-042",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 55784832,
+      "code": "MRD-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21817254,
+      "code": "MRD-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69572024,
+      "code": "MRD-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15237615,
+      "code": "MRD-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21263083,
+      "code": "MRD-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55875323,
+      "code": "MRD-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80141480,
+      "code": "MRD-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43230671,
+      "code": "MRD-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5901497,
+      "code": "MRD-051",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 78780140,
+      "code": "MRD-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76446915,
+      "code": "MRD-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2118022,
+      "code": "MRD-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64501875,
+      "code": "MRD-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3027001,
+      "code": "MRD-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "MRD-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5758500,
+      "code": "MRD-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41142615,
+      "code": "MRD-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "MRD-060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88819587,
+      "code": "MRD-061",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 87564352,
+      "code": "MRD-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40453765,
+      "code": "MRD-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18246479,
+      "code": "MRD-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71625222,
+      "code": "MRD-065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66602787,
+      "code": "MRD-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55763552,
+      "code": "MRD-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28546905,
+      "code": "MRD-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "MRD-069",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14141448,
+      "code": "MRD-070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "MRD-071",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14851496,
+      "code": "MRD-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62121,
+      "code": "MRD-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69455834,
+      "code": "MRD-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95727991,
+      "code": "MRD-075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68516705,
+      "code": "MRD-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94905343,
+      "code": "MRD-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93889755,
+      "code": "MRD-078",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 29155212,
+      "code": "MRD-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13215230,
+      "code": "MRD-080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 28725004,
+      "code": "MRD-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42431843,
+      "code": "MRD-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89272878,
+      "code": "MRD-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 549481,
+      "code": "MRD-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25109950,
+      "code": "MRD-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51371017,
+      "code": "MRD-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10071456,
+      "code": "MRD-087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46918794,
+      "code": "MRD-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94773007,
+      "code": "MRD-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30778711,
+      "code": "MRD-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99551425,
+      "code": "MRD-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24611934,
+      "code": "MRD-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25655502,
+      "code": "MRD-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51828629,
+      "code": "MRD-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87322377,
+      "code": "MRD-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8471389,
+      "code": "MRD-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31786629,
+      "code": "MRD-097",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 23771716,
+      "code": "MRD-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84926738,
+      "code": "MRD-099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74703140,
+      "code": "MRD-100",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7019529,
+      "code": "MRD-101",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67629977,
+      "code": "MRD-102",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56907389,
+      "code": "MRD-103",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29380133,
+      "code": "MRD-104",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89112729,
+      "code": "MRD-105",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11384280,
+      "code": "MRD-106",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46657337,
+      "code": "MRD-107",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71107816,
+      "code": "MRD-108",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8201910,
+      "code": "MRD-109",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7489323,
+      "code": "MRD-110",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60862676,
+      "code": "MRD-111",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7805359,
+      "code": "MRD-112",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21417692,
+      "code": "MRD-113",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93900406,
+      "code": "MRD-114",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20394040,
+      "code": "MRD-115",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78010363,
+      "code": "MRD-116",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68658728,
+      "code": "MRD-117",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28470714,
+      "code": "MRD-118",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17358176,
+      "code": "MRD-119",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54752875,
+      "code": "MRD-120",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80741828,
+      "code": "MRD-121",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41396436,
+      "code": "MRD-122",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2504891,
+      "code": "MRD-123",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5818798,
+      "code": "MRD-124",
+      "rarity": "Super Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 49888191,
+      "code": "MRD-125",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81480461,
+      "code": "MRD-126",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "MRD-127",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77414722,
+      "code": "MRD-128",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3819470,
+      "code": "MRD-129",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98069388,
+      "code": "MRD-130",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52097679,
+      "code": "MRD-131",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98495314,
+      "code": "MRD-132",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25880422,
+      "code": "MRD-133",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51275027,
+      "code": "MRD-134",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 88279736,
+      "code": "MRD-135",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24668830,
+      "code": "MRD-136",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50152549,
+      "code": "MRD-137",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "MRD-138",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20436034,
+      "code": "MRD-139",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56830749,
+      "code": "MRD-140",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83225447,
+      "code": "MRD-141",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 19613556,
+      "code": "MRD-142",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41462083,
+      "code": "MRD-143",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "name": "Eternity Code",
+  "code": "ETCO",
+  "type": "Booster Pack (Series 10)",
+  "date": "25-04-2020",
+  "image": "https://ygoprodeck.com/pics_sets/ETCO.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack",
+  "cards": [
+    {
+      "id": 83682209,
+      "code": "ETCO-000",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71278040,
+      "code": "ETCO-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8662794,
+      "code": "ETCO-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44161893,
+      "code": "ETCO-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71555408,
+      "code": "ETCO-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7540107,
+      "code": "ETCO-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33945211,
+      "code": "ETCO-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70333910,
+      "code": "ETCO-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6728559,
+      "code": "ETCO-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33212663,
+      "code": "ETCO-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19211362,
+      "code": "ETCO-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46606977,
+      "code": "ETCO-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72090076,
+      "code": "ETCO-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8495780,
+      "code": "ETCO-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45483489,
+      "code": "ETCO-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71978434,
+      "code": "ETCO-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8372133,
+      "code": "ETCO-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34761841,
+      "code": "ETCO-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70156946,
+      "code": "ETCO-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7150545,
+      "code": "ETCO-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33545259,
+      "code": "ETCO-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60033398,
+      "code": "ETCO-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6438003,
+      "code": "ETCO-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32422602,
+      "code": "ETCO-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69811710,
+      "code": "ETCO-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5206415,
+      "code": "ETCO-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32600024,
+      "code": "ETCO-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32600024,
+      "code": "ETCO-026",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68199168,
+      "code": "ETCO-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94183877,
+      "code": "ETCO-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31588572,
+      "code": "ETCO-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63972571,
+      "code": "ETCO-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90361289,
+      "code": "ETCO-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26866984,
+      "code": "ETCO-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62850093,
+      "code": "ETCO-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99249638,
+      "code": "ETCO-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25643346,
+      "code": "ETCO-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52038441,
+      "code": "ETCO-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52038441,
+      "code": "ETCO-036",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98022050,
+      "code": "ETCO-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24521754,
+      "code": "ETCO-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51916853,
+      "code": "ETCO-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97300502,
+      "code": "ETCO-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24799107,
+      "code": "ETCO-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50793215,
+      "code": "ETCO-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87188910,
+      "code": "ETCO-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23672629,
+      "code": "ETCO-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59071624,
+      "code": "ETCO-045",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59071624,
+      "code": "ETCO-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86066372,
+      "code": "ETCO-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12450071,
+      "code": "ETCO-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59859086,
+      "code": "ETCO-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85243784,
+      "code": "ETCO-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11738489,
+      "code": "ETCO-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48736598,
+      "code": "ETCO-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84121193,
+      "code": "ETCO-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11516241,
+      "code": "ETCO-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47910940,
+      "code": "ETCO-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73309655,
+      "code": "ETCO-055",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73309655,
+      "code": "ETCO-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10493654,
+      "code": "ETCO-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46898368,
+      "code": "ETCO-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73287067,
+      "code": "ETCO-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19671102,
+      "code": "ETCO-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45666710,
+      "code": "ETCO-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72060415,
+      "code": "ETCO-061",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8559524,
+      "code": "ETCO-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45943123,
+      "code": "ETCO-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71348837,
+      "code": "ETCO-064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7337976,
+      "code": "ETCO-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34721681,
+      "code": "ETCO-066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70226289,
+      "code": "ETCO-067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7610394,
+      "code": "ETCO-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33609093,
+      "code": "ETCO-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69003792,
+      "code": "ETCO-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6498706,
+      "code": "ETCO-071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32887445,
+      "code": "ETCO-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32887445,
+      "code": "ETCO-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69381150,
+      "code": "ETCO-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5376159,
+      "code": "ETCO-074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32764863,
+      "code": "ETCO-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68159562,
+      "code": "ETCO-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94553671,
+      "code": "ETCO-077",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31548215,
+      "code": "ETCO-078",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67037924,
+      "code": "ETCO-079",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94431029,
+      "code": "ETCO-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29177818,
+      "code": "ETCO-081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29177818,
+      "code": "ETCO-081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56161953,
+      "code": "ETCO-082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56161953,
+      "code": "ETCO-082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82566662,
+      "code": "ETCO-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82566662,
+      "code": "ETCO-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18954366,
+      "code": "ETCO-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18954366,
+      "code": "ETCO-084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55349375,
+      "code": "ETCO-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55349375,
+      "code": "ETCO-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81344070,
+      "code": "ETCO-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81344070,
+      "code": "ETCO-086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18832779,
+      "code": "ETCO-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18832779,
+      "code": "ETCO-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44227727,
+      "code": "ETCO-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44227727,
+      "code": "ETCO-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80621422,
+      "code": "ETCO-089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80621422,
+      "code": "ETCO-089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17016131,
+      "code": "ETCO-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17016131,
+      "code": "ETCO-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43004235,
+      "code": "ETCO-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43004235,
+      "code": "ETCO-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34496660,
+      "code": "ETCO-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95568112,
+      "code": "ETCO-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 220414,
+      "code": "ETCO-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29374928,
+      "code": "ETCO-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55762976,
+      "code": "ETCO-096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82257671,
+      "code": "ETCO-097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69838761,
+      "code": "ETCO-098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75988594,
+      "code": "ETCO-099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97268402,
+      "code": "ETCO-100",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}
