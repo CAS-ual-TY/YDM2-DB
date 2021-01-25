@@ -1,0 +1,50 @@
+{
+  "code": "LDS1_C",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "legendary_duelists__season_1__card",
+  "cards": [
+    {
+      "id": 58257569,
+      "code": "LDS1-EN010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85651167,
+      "code": "LDS1-EN011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21140872,
+      "code": "LDS1-EN014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57135971,
+      "code": "LDS1-EN021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41578483,
+      "code": "LDS1-EN051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77840540,
+      "code": "LDS1-EN073",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64061284,
+      "code": "LDS1-EN090",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

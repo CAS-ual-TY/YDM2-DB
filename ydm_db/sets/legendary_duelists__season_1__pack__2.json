@@ -1,0 +1,32 @@
+{
+  "code": "LDS1_P_2",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "legendary_duelists__season_1__pack__2",
+  "cards": [
+    {
+      "id": 61525276,
+      "code": "LDS1-EN118",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54563536,
+      "code": "LDS1-EN119",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98804359,
+      "code": "LDS1-EN120",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20129614,
+      "code": "LDS1-EN121",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
