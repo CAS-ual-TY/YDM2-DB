@@ -2,7 +2,7 @@
   "name": "toon_chaos",
   "pulls": [
     {
-      "weight": 1136,
+      "weight": 252,
       "entries": [
         {
           "count": 6,
@@ -19,24 +19,7 @@
       ]
     },
     {
-      "weight": 16,
-      "entries": [
-        {
-          "count": 6,
-          "rarities": [
-            "Collector\u0027s Rare"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Super Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 568,
+      "weight": 32,
       "entries": [
         {
           "count": 6,
@@ -53,18 +36,18 @@
       ]
     },
     {
-      "weight": 8,
+      "weight": 4,
       "entries": [
         {
           "count": 6,
           "rarities": [
-            "Collector\u0027s Rare"
+            "Rare"
           ]
         },
         {
           "count": 1,
           "rarities": [
-            "Ultra Rare"
+            "Collector\u0027s Rare"
           ]
         }
       ]
