@@ -1,21 +1,15 @@
 {
-  "name": "booster_pack_with_starlight_rare",
+  "name": "booster_pack_without_rare",
   "pulls": [
     {
-      "weight": 432,
+      "weight": 9,
       "entries": [
         {
-          "count": 7,
+          "count": 8,
           "rarities": [
             "Common",
             "Short Print",
             "Super Short Print"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
           ]
         },
         {
@@ -27,20 +21,14 @@
       ]
     },
     {
-      "weight": 96,
+      "weight": 2,
       "entries": [
         {
-          "count": 7,
+          "count": 8,
           "rarities": [
             "Common",
             "Short Print",
             "Super Short Print"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
           ]
         },
         {
@@ -53,20 +41,14 @@
       ]
     },
     {
-      "weight": 47,
+      "weight": 1,
       "entries": [
         {
-          "count": 7,
+          "count": 8,
           "rarities": [
             "Common",
             "Short Print",
             "Super Short Print"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
           ]
         },
         {
@@ -74,31 +56,6 @@
           "rarities": [
             "Secret Rare",
             "Ultimate Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 1,
-      "entries": [
-        {
-          "count": 7,
-          "rarities": [
-            "Common",
-            "Short Print",
-            "Super Short Print"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Starlight Rare"
           ]
         }
       ]
