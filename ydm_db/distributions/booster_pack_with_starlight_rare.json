@@ -1,27 +1,8 @@
 {
-  "name": "booster_pack_old",
+  "name": "booster_pack_with_starlight_rare",
   "pulls": [
     {
-      "weight": 929,
-      "entries": [
-        {
-          "count": 8,
-          "rarities": [
-            "Common",
-            "Short Print",
-            "Super Short Print"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 276,
+      "weight": 5175,
       "entries": [
         {
           "count": 7,
@@ -46,7 +27,32 @@
       ]
     },
     {
-      "weight": 115,
+      "weight": 9,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1150,
       "entries": [
         {
           "count": 7,
@@ -72,7 +78,33 @@
       ]
     },
     {
-      "weight": 60,
+      "weight": 2,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare",
+            "Ghost Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 575,
       "entries": [
         {
           "count": 7,
@@ -86,6 +118,32 @@
           "count": 1,
           "rarities": [
             "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
           ]
         },
         {
