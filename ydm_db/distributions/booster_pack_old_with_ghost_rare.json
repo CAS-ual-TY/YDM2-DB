@@ -1,0 +1,125 @@
+{
+  "name": "booster_pack_old_with_ghost_rare",
+  "pulls": [
+    {
+      "weight": 924,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 276,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 115,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 60,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 5,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ghost Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

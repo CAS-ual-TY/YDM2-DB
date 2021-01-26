@@ -1,0 +1,63 @@
+{
+  "name": "booster_pack_without_rare",
+  "pulls": [
+    {
+      "weight": 9,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
