@@ -1,0 +1,629 @@
+{
+  "name": "Duel Overload (Pack)",
+  "code": "DUOV_P",
+  "type": "Collector's Set",
+  "date": "19-03-2020",
+  "image": "https://ygoprodeck.com/pics_sets/DUOV.jpg",
+  "pull_type": "distribution",
+  "distribution": "duel_overload__pack",
+  "cards": [
+    {
+      "id": 50588353,
+      "code": "DUOV-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48589580,
+      "code": "DUOV-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74974229,
+      "code": "DUOV-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9024198,
+      "code": "DUOV-EN004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36429703,
+      "code": "DUOV-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35306215,
+      "code": "DUOV-EN006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10669138,
+      "code": "DUOV-EN007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47158777,
+      "code": "DUOV-EN008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83152482,
+      "code": "DUOV-EN009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10547580,
+      "code": "DUOV-EN010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46935289,
+      "code": "DUOV-EN011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72330894,
+      "code": "DUOV-EN012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19324993,
+      "code": "DUOV-EN013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45819647,
+      "code": "DUOV-EN014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72218246,
+      "code": "DUOV-EN015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8602351,
+      "code": "DUOV-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44097050,
+      "code": "DUOV-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71095768,
+      "code": "DUOV-EN018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7480763,
+      "code": "DUOV-EN019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34974462,
+      "code": "DUOV-EN020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70369116,
+      "code": "DUOV-EN021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2368215,
+      "code": "DUOV-EN022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39752820,
+      "code": "DUOV-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75147529,
+      "code": "DUOV-EN024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2645637,
+      "code": "DUOV-EN025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38030232,
+      "code": "DUOV-EN026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73979030,
+      "code": "DUOV-EN027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 373085,
+      "code": "DUOV-EN028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36768783,
+      "code": "DUOV-EN029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62256492,
+      "code": "DUOV-EN030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9251497,
+      "code": "DUOV-EN031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98642179,
+      "code": "DUOV-EN032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34031284,
+      "code": "DUOV-EN033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96708940,
+      "code": "DUOV-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23792058,
+      "code": "DUOV-EN035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95685352,
+      "code": "DUOV-EN036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22070401,
+      "code": "DUOV-EN037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58468105,
+      "code": "DUOV-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95463814,
+      "code": "DUOV-EN039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80196387,
+      "code": "DUOV-EN040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57246528,
+      "code": "DUOV-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32120116,
+      "code": "DUOV-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98596596,
+      "code": "DUOV-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81384993,
+      "code": "DUOV-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18378992,
+      "code": "DUOV-EN045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44763696,
+      "code": "DUOV-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2434862,
+      "code": "DUOV-EN047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48829461,
+      "code": "DUOV-EN048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75223115,
+      "code": "DUOV-EN049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1218214,
+      "code": "DUOV-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38606913,
+      "code": "DUOV-EN051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74191528,
+      "code": "DUOV-EN052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94259633,
+      "code": "DUOV-EN053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88078306,
+      "code": "DUOV-EN054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88078306,
+      "code": "DUOV-EN054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15462014,
+      "code": "DUOV-EN055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15462014,
+      "code": "DUOV-EN055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41867019,
+      "code": "DUOV-EN056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41867019,
+      "code": "DUOV-EN056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10802915,
+      "code": "DUOV-EN057",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 55878039,
+      "code": "DUOV-EN058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10443957,
+      "code": "DUOV-EN059",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 63288573,
+      "code": "DUOV-EN060",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 72634965,
+      "code": "DUOV-EN061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53257892,
+      "code": "DUOV-EN062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9126351,
+      "code": "DUOV-EN063",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 402568,
+      "code": "DUOV-EN064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22339232,
+      "code": "DUOV-EN065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14785765,
+      "code": "DUOV-EN066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64550682,
+      "code": "DUOV-EN067",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11868731,
+      "code": "DUOV-EN068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63362460,
+      "code": "DUOV-EN069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71207871,
+      "code": "DUOV-EN070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32841045,
+      "code": "DUOV-EN071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31629407,
+      "code": "DUOV-EN072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21522601,
+      "code": "DUOV-EN073",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78661338,
+      "code": "DUOV-EN074",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4810828,
+      "code": "DUOV-EN075",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86099788,
+      "code": "DUOV-EN076",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13756293,
+      "code": "DUOV-EN077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3897065,
+      "code": "DUOV-EN078",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31385077,
+      "code": "DUOV-EN079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74586817,
+      "code": "DUOV-EN080",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 581014,
+      "code": "DUOV-EN081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44311445,
+      "code": "DUOV-EN082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8387138,
+      "code": "DUOV-EN083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93854893,
+      "code": "DUOV-EN084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60303245,
+      "code": "DUOV-EN085",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "DUOV-EN086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67227834,
+      "code": "DUOV-EN087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "DUOV-EN088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38179121,
+      "code": "DUOV-EN089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1149109,
+      "code": "DUOV-EN090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4064256,
+      "code": "DUOV-EN091",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60600126,
+      "code": "DUOV-EN092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19337371,
+      "code": "DUOV-EN093",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72283691,
+      "code": "DUOV-EN094",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57160136,
+      "code": "DUOV-EN095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57916305,
+      "code": "DUOV-EN096",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "DUOV-EN097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38761908,
+      "code": "DUOV-EN098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10045474,
+      "code": "DUOV-EN099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82428674,
+      "code": "DUOV-EN100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

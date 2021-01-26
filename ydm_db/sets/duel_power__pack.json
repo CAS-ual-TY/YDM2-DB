@@ -1,0 +1,611 @@
+{
+  "name": "Duel Power (Pack)",
+  "code": "DUPO_P",
+  "type": "Collector's Set",
+  "date": "03-04-2019",
+  "image": "https://ygoprodeck.com/pics_sets/DUPO.jpg",
+  "pull_type": "distribution",
+  "distribution": "duel_power__pack",
+  "cards": [
+    {
+      "id": 47963370,
+      "code": "DUPO-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73452089,
+      "code": "DUPO-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 856784,
+      "code": "DUPO-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36841733,
+      "code": "DUPO-EN004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73239437,
+      "code": "DUPO-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9634146,
+      "code": "DUPO-EN006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35129241,
+      "code": "DUPO-EN007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62517849,
+      "code": "DUPO-EN008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8512558,
+      "code": "DUPO-EN009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35906693,
+      "code": "DUPO-EN010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61391302,
+      "code": "DUPO-EN011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7799906,
+      "code": "DUPO-EN012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34884015,
+      "code": "DUPO-EN013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60279710,
+      "code": "DUPO-EN014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97677329,
+      "code": "DUPO-EN015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33062423,
+      "code": "DUPO-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60709218,
+      "code": "DUPO-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70168345,
+      "code": "DUPO-EN018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49941059,
+      "code": "DUPO-EN019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23971061,
+      "code": "DUPO-EN020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86750474,
+      "code": "DUPO-EN021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22159429,
+      "code": "DUPO-EN022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59644128,
+      "code": "DUPO-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85638822,
+      "code": "DUPO-EN024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12023931,
+      "code": "DUPO-EN025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58421530,
+      "code": "DUPO-EN026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24361622,
+      "code": "DUPO-EN027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50756327,
+      "code": "DUPO-EN028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21200905,
+      "code": "DUPO-EN029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12081875,
+      "code": "DUPO-EN030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27198001,
+      "code": "DUPO-EN031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60071928,
+      "code": "DUPO-EN032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44935634,
+      "code": "DUPO-EN033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98881931,
+      "code": "DUPO-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30537973,
+      "code": "DUPO-EN035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1142880,
+      "code": "DUPO-EN036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99111753,
+      "code": "DUPO-EN037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99011763,
+      "code": "DUPO-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40216089,
+      "code": "DUPO-EN039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84433295,
+      "code": "DUPO-EN040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90960358,
+      "code": "DUPO-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29021114,
+      "code": "DUPO-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55010259,
+      "code": "DUPO-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68815132,
+      "code": "DUPO-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000080,
+      "code": "DUPO-EN045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000090,
+      "code": "DUPO-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82103466,
+      "code": "DUPO-EN047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55410871,
+      "code": "DUPO-EN048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21082832,
+      "code": "DUPO-EN049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59750328,
+      "code": "DUPO-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47222536,
+      "code": "DUPO-EN051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48680970,
+      "code": "DUPO-EN052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27780618,
+      "code": "DUPO-EN053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95735217,
+      "code": "DUPO-EN054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45906428,
+      "code": "DUPO-EN055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45247637,
+      "code": "DUPO-EN056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9753964,
+      "code": "DUPO-EN057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36857073,
+      "code": "DUPO-EN058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62242678,
+      "code": "DUPO-EN059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38331564,
+      "code": "DUPO-EN060",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91110378,
+      "code": "DUPO-EN061",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46659709,
+      "code": "DUPO-EN062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39030163,
+      "code": "DUPO-EN063",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94770493,
+      "code": "DUPO-EN064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11705261,
+      "code": "DUPO-EN065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35272499,
+      "code": "DUPO-EN066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34773082,
+      "code": "DUPO-EN067",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50954680,
+      "code": "DUPO-EN068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69946549,
+      "code": "DUPO-EN069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32995276,
+      "code": "DUPO-EN070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41999284,
+      "code": "DUPO-EN071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32448765,
+      "code": "DUPO-EN072",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 78437364,
+      "code": "DUPO-EN073",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 31833038,
+      "code": "DUPO-EN074",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 59438930,
+      "code": "DUPO-EN075",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62015408,
+      "code": "DUPO-EN076",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14558127,
+      "code": "DUPO-EN077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73642296,
+      "code": "DUPO-EN078",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87602890,
+      "code": "DUPO-EN079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77901552,
+      "code": "DUPO-EN080",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86585274,
+      "code": "DUPO-EN081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96789758,
+      "code": "DUPO-EN082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58569561,
+      "code": "DUPO-EN083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90307777,
+      "code": "DUPO-EN084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99185129,
+      "code": "DUPO-EN085",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26674724,
+      "code": "DUPO-EN086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52068432,
+      "code": "DUPO-EN087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89463537,
+      "code": "DUPO-EN088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25857246,
+      "code": "DUPO-EN089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20366274,
+      "code": "DUPO-EN090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33198837,
+      "code": "DUPO-EN091",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27337596,
+      "code": "DUPO-EN092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84025439,
+      "code": "DUPO-EN093",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86938484,
+      "code": "DUPO-EN094",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22423493,
+      "code": "DUPO-EN095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6417578,
+      "code": "DUPO-EN096",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14735698,
+      "code": "DUPO-EN097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51124303,
+      "code": "DUPO-EN098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15693423,
+      "code": "DUPO-EN099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10045474,
+      "code": "DUPO-EN100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

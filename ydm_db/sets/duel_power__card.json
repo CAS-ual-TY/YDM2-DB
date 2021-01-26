@@ -1,0 +1,43 @@
+{
+  "code": "DUPO_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 46986414,
+      "code": "DUPO-EN101",
+      "rarity": "Ultra Rare",
+      "image_index": 8
+    },
+    {
+      "id": 89943723,
+      "code": "DUPO-EN102",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 44508094,
+      "code": "DUPO-EN103",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 84013237,
+      "code": "DUPO-EN104",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 16178681,
+      "code": "DUPO-EN105",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 1861629,
+      "code": "DUPO-EN106",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    }
+  ]
+}
