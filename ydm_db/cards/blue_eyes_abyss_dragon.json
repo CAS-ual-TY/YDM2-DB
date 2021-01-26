@@ -1,0 +1,21 @@
+{
+  "id": 64202399,
+  "name": "Blue-Eyes Abyss Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Special Summoned: You can add 1 Ritual Spell or 1 \"Polymerization\" from your Deck to your hand. During your End Phase: You can add 1 Level 8 or higher Dragon monster from your Deck to your hand. You can banish this card from your GY; all Level 8 or higher Dragon monsters you control gain 1000 ATK. You can only use each effect of \"Blue-Eyes Abyss Dragon\" once per turn, and can only activate them while \"Blue-Eyes White Dragon\" is on your field or in your GY.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64202399.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}
