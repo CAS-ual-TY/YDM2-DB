@@ -1,8 +1,27 @@
 {
-  "name": "booster_pack_with_starlight_rare",
+  "name": "booster_pack_old_with_ghost_rare",
   "pulls": [
     {
-      "weight": 432,
+      "weight": 924,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 276,
       "entries": [
         {
           "count": 7,
@@ -27,7 +46,7 @@
       ]
     },
     {
-      "weight": 96,
+      "weight": 115,
       "entries": [
         {
           "count": 7,
@@ -52,7 +71,7 @@
       ]
     },
     {
-      "weight": 47,
+      "weight": 60,
       "entries": [
         {
           "count": 7,
@@ -78,7 +97,7 @@
       ]
     },
     {
-      "weight": 1,
+      "weight": 5,
       "entries": [
         {
           "count": 7,
@@ -97,7 +116,7 @@
         {
           "count": 1,
           "rarities": [
-            "Starlight Rare"
+            "Ghost Rare"
           ]
         }
       ]
