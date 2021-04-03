@@ -1,0 +1,671 @@
+{
+  "name": "Blazing Vortex",
+  "code": "BLVO",
+  "type": "Booster Pack (Series 11)",
+  "date": "04-02-2021",
+  "image": "https://ygoprodeck.com/pics_sets/BLVO.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+    {
+      "id": 45943516,
+      "code": "BLVO-EN000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58153103,
+      "code": "BLVO-EN001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58153103,
+      "code": "BLVO-EN001",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94141712,
+      "code": "BLVO-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21546416,
+      "code": "BLVO-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21546416,
+      "code": "BLVO-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57030525,
+      "code": "BLVO-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57030525,
+      "code": "BLVO-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84425220,
+      "code": "BLVO-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20424878,
+      "code": "BLVO-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56818977,
+      "code": "BLVO-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83203672,
+      "code": "BLVO-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29601381,
+      "code": "BLVO-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56196385,
+      "code": "BLVO-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22180094,
+      "code": "BLVO-EN011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58589739,
+      "code": "BLVO-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95974848,
+      "code": "BLVO-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21368442,
+      "code": "BLVO-EN014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58363151,
+      "code": "BLVO-EN015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84851250,
+      "code": "BLVO-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20246864,
+      "code": "BLVO-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57630503,
+      "code": "BLVO-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83039608,
+      "code": "BLVO-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10024317,
+      "code": "BLVO-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56518311,
+      "code": "BLVO-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56518311,
+      "code": "BLVO-EN021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82913020,
+      "code": "BLVO-EN022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19301729,
+      "code": "BLVO-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45796834,
+      "code": "BLVO-EN024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82791472,
+      "code": "BLVO-EN025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18189187,
+      "code": "BLVO-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45674286,
+      "code": "BLVO-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81078880,
+      "code": "BLVO-EN028",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81078880,
+      "code": "BLVO-EN028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17063599,
+      "code": "BLVO-EN029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17063599,
+      "code": "BLVO-EN029",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44451698,
+      "code": "BLVO-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70856343,
+      "code": "BLVO-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17241941,
+      "code": "BLVO-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43739056,
+      "code": "BLVO-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79724755,
+      "code": "BLVO-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6128460,
+      "code": "BLVO-EN035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42517468,
+      "code": "BLVO-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75901113,
+      "code": "BLVO-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1906812,
+      "code": "BLVO-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37491810,
+      "code": "BLVO-EN039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74889525,
+      "code": "BLVO-EN040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 284224,
+      "code": "BLVO-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37678339,
+      "code": "BLVO-EN042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73667937,
+      "code": "BLVO-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9061682,
+      "code": "BLVO-EN044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36556781,
+      "code": "BLVO-EN045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62941499,
+      "code": "BLVO-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9349094,
+      "code": "BLVO-EN047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35334193,
+      "code": "BLVO-EN048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61728808,
+      "code": "BLVO-EN049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98127546,
+      "code": "BLVO-EN050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34611551,
+      "code": "BLVO-EN051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61606250,
+      "code": "BLVO-EN052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97091969,
+      "code": "BLVO-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23499963,
+      "code": "BLVO-EN054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60884672,
+      "code": "BLVO-EN055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96378317,
+      "code": "BLVO-EN056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23377425,
+      "code": "BLVO-EN057",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69761020,
+      "code": "BLVO-EN058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96156729,
+      "code": "BLVO-EN059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22555834,
+      "code": "BLVO-EN060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58549532,
+      "code": "BLVO-EN061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95034141,
+      "code": "BLVO-EN062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21438286,
+      "code": "BLVO-EN063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58827995,
+      "code": "BLVO-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84211599,
+      "code": "BLVO-EN065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84211599,
+      "code": "BLVO-EN065",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20216608,
+      "code": "BLVO-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57605303,
+      "code": "BLVO-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57605303,
+      "code": "BLVO-EN067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83199011,
+      "code": "BLVO-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10584050,
+      "code": "BLVO-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56588755,
+      "code": "BLVO-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82977464,
+      "code": "BLVO-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19362568,
+      "code": "BLVO-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55766177,
+      "code": "BLVO-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82255872,
+      "code": "BLVO-EN074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18249921,
+      "code": "BLVO-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44644529,
+      "code": "BLVO-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81038234,
+      "code": "BLVO-EN077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17427333,
+      "code": "BLVO-EN078",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44822037,
+      "code": "BLVO-EN079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70916046,
+      "code": "BLVO-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33008376,
+      "code": "BLVO-EN081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8836329,
+      "code": "BLVO-EN082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70273023,
+      "code": "BLVO-EN083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70597485,
+      "code": "BLVO-EN084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32986898,
+      "code": "BLVO-EN085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44221928,
+      "code": "BLVO-EN086",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7614732,
+      "code": "BLVO-EN087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79371897,
+      "code": "BLVO-EN088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9322133,
+      "code": "BLVO-EN089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9322133,
+      "code": "BLVO-EN089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35817848,
+      "code": "BLVO-EN090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6992184,
+      "code": "BLVO-EN091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5779502,
+      "code": "BLVO-EN092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83286340,
+      "code": "BLVO-EN093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19771459,
+      "code": "BLVO-EN094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46169154,
+      "code": "BLVO-EN095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72554862,
+      "code": "BLVO-EN096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18558867,
+      "code": "BLVO-EN097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71331215,
+      "code": "BLVO-EN098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20799347,
+      "code": "BLVO-EN099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52687916,
+      "code": "BLVO-EN100",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}

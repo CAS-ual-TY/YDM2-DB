@@ -1,0 +1,161 @@
+{
+  "name": "OTS Tournament Pack 15",
+  "code": "OP15",
+  "type": "OTS Tournament Pack",
+  "date": "18-02-2021",
+  "image": "https://ygoprodeck.com/pics_sets/OP15.jpg",
+  "pull_type": "distribution",
+  "distribution": "ots_tournament_pack",
+  "cards": [
+    {
+      "id": 59464593,
+      "code": "OP15-EN001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1621413,
+      "code": "OP15-EN002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50588353,
+      "code": "OP15-EN003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77723643,
+      "code": "OP15-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74393852,
+      "code": "OP15-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13117073,
+      "code": "OP15-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53241226,
+      "code": "OP15-EN007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70333910,
+      "code": "OP15-EN008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12450071,
+      "code": "OP15-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40251688,
+      "code": "OP15-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76833149,
+      "code": "OP15-EN011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82956214,
+      "code": "OP15-EN012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55608151,
+      "code": "OP15-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73879377,
+      "code": "OP15-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46384672,
+      "code": "OP15-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 980973,
+      "code": "OP15-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9622164,
+      "code": "OP15-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96383838,
+      "code": "OP15-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14212201,
+      "code": "OP15-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57734012,
+      "code": "OP15-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98287529,
+      "code": "OP15-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23160024,
+      "code": "OP15-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43722862,
+      "code": "OP15-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5795882,
+      "code": "OP15-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 545781,
+      "code": "OP15-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
