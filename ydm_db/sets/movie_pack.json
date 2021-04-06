@@ -1,0 +1,34 @@
+{
+  "name": "Movie Pack",
+  "code": "MOV",
+  "type": "Movie Pack",
+  "date": "13-08-2004",
+  "image": "https://ygoprodeck.com/pics_sets/MOV.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 53347303,
+      "code": "MOV-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88619463,
+      "code": "MOV-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87774234,
+      "code": "MOV-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53569894,
+      "code": "MOV-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
