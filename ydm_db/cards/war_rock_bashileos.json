@@ -1,0 +1,21 @@
+{
+  "id": 18558867,
+  "name": "War Rock Bashileos",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During a Battle Phase in which your EARTH Warrior monster battles (Quick Effect): You can activate this effect; this card can attack directly this turn, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent\u0027s turn. While this card is in your hand or GY, when your EARTH Warrior monster is destroyed by battle: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"War Rock Bashileos\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/18558867.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2700,
+  "level": 8,
+  "is_tuner": false
+}

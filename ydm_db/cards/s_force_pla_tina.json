@@ -1,0 +1,21 @@
+{
+  "id": 58363151,
+  "name": "S-Force Pla-Tina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each of your opponent\u0027s monsters in the same column as one of your \"S-Force\" monsters loses 600 ATK. If this card is Normal or Special Summoned: You can target 1 of your banished \"S-Force\" monsters, except \"S-Force Pla-Tina\"; Special Summon it. You can only use this effect of \"S-Force Pla-Tina\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58363151.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

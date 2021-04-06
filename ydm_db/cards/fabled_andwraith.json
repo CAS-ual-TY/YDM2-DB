@@ -1,0 +1,21 @@
+{
+  "id": 9061682,
+  "name": "Fabled Andwraith",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: Your opponent can discard 1 card to negate this effect, otherwise you can draw 2 cards, then discard 1 card. If a monster(s) is sent from your opponent\u0027s hand to the GY (except during the Damage Step): You can target 1 of those monsters; Special Summon it to your field, but negate its effects. You can only use each effect of \"Fabled Andwraith\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/9061682.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Fiend",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 58153103,
+  "name": "Armed Dragon Thunder LV10",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card was Special Summoned by the effect of an \"Armed Dragon\" monster, it gains effects based on its own ATK.\n? 1+: This card\u0027s name becomes \"Armed Dragon LV10\".\n? 10+: Possession of this card cannot switch.\n? 100+: Cannot be destroyed by battle.\n? 1000+: Once per turn, during your opponent\u0027s turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 other card on the field; destroy it, and if you do, this card gains 1000 ATK.\n? 10000+: Once per turn: You can destroy all other cards on the field.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58153103.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 10,
+  "is_tuner": false
+}

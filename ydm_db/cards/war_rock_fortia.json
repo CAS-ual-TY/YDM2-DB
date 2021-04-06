@@ -1,0 +1,21 @@
+{
+  "id": 83286340,
+  "name": "War Rock Fortia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your EARTH Warrior monster battles, after damage calculation: You can add 1 \"War Rock\" card from your Deck to your hand, except \"War Rock Fortia\", then all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent\u0027s turn. If this card is sent from your Monster Zone to your GY by an opponent\u0027s card effect: You can Special Summon 1 Level 5 or higher \"War Rock\" monster from your hand or Deck. You can only use each effect of \"War Rock Fortia\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83286340.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

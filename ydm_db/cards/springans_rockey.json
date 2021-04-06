@@ -1,0 +1,21 @@
+{
+  "id": 20424878,
+  "name": "Springans Rockey",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 \"Great Sand Sea - Gold Golgonda\" or 1 \"Springans\" monster in your GY, except \"Springans Rockey\"; add it to your hand. If this card is in your hand, field, or GY: You can target 1 \"Springans\" Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Springans Rockey\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/20424878.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

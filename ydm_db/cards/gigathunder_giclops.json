@@ -1,0 +1,24 @@
+{
+  "id": 17241941,
+  "name": "Gigathunder Giclops",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card, Special Summoned from the Extra Deck, is used as Synchro Material, banish it. If this card is Normal Summoned: You can change its battle position. You can only use each of the following effects of \"Gigathunder Giclops\" once per turn. If the battle position of this card is changed: You can target 1 face-up Spell/Trap on the field; destroy it. If this card is destroyed in the Pendulum Zone: You can return 1 card from your Pendulum Zone to the hand.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/17241941.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 4,
+  "is_tuner": true,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5
+}

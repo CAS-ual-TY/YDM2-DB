@@ -1,0 +1,24 @@
+{
+  "id": 35334193,
+  "name": "S-Force Justify",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Effect Monsters, including an \"S-Force\" monster\nYou cannot Summon/Set monsters to a zone(s) this card points to. (Quick Effect): You can target 1 face-up Effect Monster your opponent controls; negate its effects until the end of this turn, then you can move that opponent\u0027s monster to their Monster Zone this card points to. You can only use this effect of \"S-Force Justify\" once per turn. At the start of the Damage Step, if this card attacks: You can banish all monsters this card points to.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/35334193.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2600,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top-Left",
+    "Top",
+    "Top-Right"
+  ]
+}

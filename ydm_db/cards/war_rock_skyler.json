@@ -1,0 +1,21 @@
+{
+  "id": 72554862,
+  "name": "War Rock Skyler",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gains 100 ATK for each monster your opponent controls. During a Battle Phase in which your EARTH Warrior monster battles (Quick Effect): You can target 1 Level 5 or lower Warrior monster in your GY; Special Summon it, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent\u0027s turn, also for the rest of this turn, you cannot attack directly with Level 5 or lower monsters. You can only use this effect of \"War Rock Skyler\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/72554862.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
+}

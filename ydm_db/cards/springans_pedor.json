@@ -1,0 +1,21 @@
+{
+  "id": 56818977,
+  "name": "Springans Pedor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute this card, then target 1 \"Springans\" monster in your GY, except \"Springans Pedor\"; Special Summon it. If this card is in your hand, field, or GY: You can target 1 \"Springans\" Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Springans Pedor\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56818977.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 32986898,
+  "name": "Steel Star Regulator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 non-Link Monsters\nGains ATK equal to the combined original Levels/Ranks of monsters used for its Link Summon x 100. You can target 1 non-Link Monster your opponent controls with ATK less than or equal to this card; destroy it, then if this card was Link Summoned using an Xyz Monster as material, inflict damage to your opponent equal to half the destroyed monster\u0027s original ATK. You can only use this effect of \"Steel Star Regulator\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/32986898.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top-Left",
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5779502,
+  "name": "Underdog",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your turn, negate the effects of all face-up monsters your opponent controls. During your opponent\u0027s turn, negate the effects of all face-up monsters you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5779502.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}
