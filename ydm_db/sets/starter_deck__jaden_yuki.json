@@ -1,0 +1,256 @@
+{
+  "name": "Starter Deck: Jaden Yuki",
+  "code": "YSDJ",
+  "type": "Starter Deck",
+  "date": "25-07-2007",
+  "image": "https://ygoprodeck.com/pics_sets/YSDJ.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 89252153,
+      "code": "YSDJ-EN000",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48766543,
+      "code": "YSDJ-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69140098,
+      "code": "YSDJ-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11321183,
+      "code": "YSDJ-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84696266,
+      "code": "YSDJ-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21844576,
+      "code": "YSDJ-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58932615,
+      "code": "YSDJ-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84327329,
+      "code": "YSDJ-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20721928,
+      "code": "YSDJ-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43716289,
+      "code": "YSDJ-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28933734,
+      "code": "YSDJ-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74131780,
+      "code": "YSDJ-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90790253,
+      "code": "YSDJ-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22609617,
+      "code": "YSDJ-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4041838,
+      "code": "YSDJ-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16956455,
+      "code": "YSDJ-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20939559,
+      "code": "YSDJ-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79979666,
+      "code": "YSDJ-EN017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59793705,
+      "code": "YSDJ-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86188410,
+      "code": "YSDJ-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96428622,
+      "code": "YSDJ-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70046172,
+      "code": "YSDJ-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42703248,
+      "code": "YSDJ-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55226821,
+      "code": "YSDJ-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19613556,
+      "code": "YSDJ-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10012614,
+      "code": "YSDJ-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97169186,
+      "code": "YSDJ-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48576971,
+      "code": "YSDJ-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74848038,
+      "code": "YSDJ-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69162969,
+      "code": "YSDJ-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87910978,
+      "code": "YSDJ-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37318031,
+      "code": "YSDJ-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34664411,
+      "code": "YSDJ-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60082869,
+      "code": "YSDJ-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "YSDJ-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77414722,
+      "code": "YSDJ-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "YSDJ-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "YSDJ-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43250041,
+      "code": "YSDJ-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14315573,
+      "code": "YSDJ-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "YSDJ-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

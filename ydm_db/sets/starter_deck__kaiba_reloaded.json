@@ -1,0 +1,304 @@
+{
+  "name": "Starter Deck: Kaiba Reloaded",
+  "code": "YSKR",
+  "type": "Starter Deck",
+  "date": "06-12-2013",
+  "image": "https://ygoprodeck.com/pics_sets/YSKR.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "YSKR-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89631139,
+      "code": "YSKR-EN001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85639257,
+      "code": "YSKR-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97590747,
+      "code": "YSKR-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5053103,
+      "code": "YSKR-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14531242,
+      "code": "YSKR-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93346024,
+      "code": "YSKR-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11091375,
+      "code": "YSKR-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62651957,
+      "code": "YSKR-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79182538,
+      "code": "YSKR-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14898066,
+      "code": "YSKR-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43096270,
+      "code": "YSKR-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87151205,
+      "code": "YSKR-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43586926,
+      "code": "YSKR-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51534754,
+      "code": "YSKR-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81985784,
+      "code": "YSKR-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17444133,
+      "code": "YSKR-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1434352,
+      "code": "YSKR-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39507162,
+      "code": "YSKR-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75830094,
+      "code": "YSKR-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11224103,
+      "code": "YSKR-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96428622,
+      "code": "YSKR-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51119924,
+      "code": "YSKR-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33695750,
+      "code": "YSKR-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10097168,
+      "code": "YSKR-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77135531,
+      "code": "YSKR-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20277376,
+      "code": "YSKR-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25206027,
+      "code": "YSKR-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "YSKR-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "YSKR-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "YSKR-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70046172,
+      "code": "YSKR-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "YSKR-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19230408,
+      "code": "YSKR-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81385346,
+      "code": "YSKR-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "YSKR-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17655904,
+      "code": "YSKR-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55713623,
+      "code": "YSKR-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30683373,
+      "code": "YSKR-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42534368,
+      "code": "YSKR-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72549351,
+      "code": "YSKR-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33904024,
+      "code": "YSKR-EN041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "YSKR-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "YSKR-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29267084,
+      "code": "YSKR-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77754944,
+      "code": "YSKR-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36361633,
+      "code": "YSKR-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35539880,
+      "code": "YSKR-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87106146,
+      "code": "YSKR-EN048",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

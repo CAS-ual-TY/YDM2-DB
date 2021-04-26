@@ -1,0 +1,304 @@
+{
+  "name": "Structure Deck: Shaddoll Showdown",
+  "code": "SDSH",
+  "type": "Structure Deck",
+  "date": "13-02-2020",
+  "image": "https://ygoprodeck.com/pics_sets/SDSH.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 24635329,
+      "code": "SDSH-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51023024,
+      "code": "SDSH-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97518132,
+      "code": "SDSH-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37445295,
+      "code": "SDSH-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4939890,
+      "code": "SDSH-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30328508,
+      "code": "SDSH-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77723643,
+      "code": "SDSH-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3717252,
+      "code": "SDSH-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52551211,
+      "code": "SDSH-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58016954,
+      "code": "SDSH-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95401059,
+      "code": "SDSH-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "SDSH-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 102380,
+      "code": "SDSH-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65192027,
+      "code": "SDSH-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42921475,
+      "code": "SDSH-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67696066,
+      "code": "SDSH-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28985331,
+      "code": "SDSH-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73176465,
+      "code": "SDSH-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34710660,
+      "code": "SDSH-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41386308,
+      "code": "SDSH-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16404809,
+      "code": "SDSH-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69764158,
+      "code": "SDSH-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81788994,
+      "code": "SDSH-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6417578,
+      "code": "SDSH-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60226558,
+      "code": "SDSH-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48130397,
+      "code": "SDSH-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1845204,
+      "code": "SDSH-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "SDSH-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "SDSH-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34959756,
+      "code": "SDSH-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67169062,
+      "code": "SDSH-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43898403,
+      "code": "SDSH-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23912837,
+      "code": "SDSH-EN033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4904633,
+      "code": "SDSH-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77505534,
+      "code": "SDSH-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78942513,
+      "code": "SDSH-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74003290,
+      "code": "SDSH-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69452756,
+      "code": "SDSH-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81223446,
+      "code": "SDSH-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73575650,
+      "code": "SDSH-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48424886,
+      "code": "SDSH-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74009824,
+      "code": "SDSH-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19261966,
+      "code": "SDSH-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86938484,
+      "code": "SDSH-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50907446,
+      "code": "SDSH-EN045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20366274,
+      "code": "SDSH-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94977269,
+      "code": "SDSH-EN047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74822425,
+      "code": "SDSH-EN048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44394295,
+      "code": "SDSH-EN049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

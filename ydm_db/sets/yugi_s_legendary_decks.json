@@ -1,0 +1,778 @@
+{
+  "name": "Yugi\u0027s Legendary Decks",
+  "code": "YGLD",
+  "type": "Legendary Decks",
+  "date": "12-11-2015",
+  "image": "https://ygoprodeck.com/pics_sets/YGLD.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 34710660,
+      "code": "YGLD-ENA00",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5405694,
+      "code": "YGLD-ENA01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "YGLD-ENA02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "YGLD-ENA03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "YGLD-ENA03",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "YGLD-ENA04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "YGLD-ENA04",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6368038,
+      "code": "YGLD-ENA05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70781052,
+      "code": "YGLD-ENA06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28279543,
+      "code": "YGLD-ENA07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95727991,
+      "code": "YGLD-ENA08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91152256,
+      "code": "YGLD-ENA09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87796900,
+      "code": "YGLD-ENA10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41392891,
+      "code": "YGLD-ENA11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32452818,
+      "code": "YGLD-ENA12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53829412,
+      "code": "YGLD-ENA13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15025844,
+      "code": "YGLD-ENA14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13039848,
+      "code": "YGLD-ENA15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40374923,
+      "code": "YGLD-ENA16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33396948,
+      "code": "YGLD-ENA17",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8124921,
+      "code": "YGLD-ENA18",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44519536,
+      "code": "YGLD-ENA19",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70903634,
+      "code": "YGLD-ENA20",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7902349,
+      "code": "YGLD-ENA21",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "YGLD-ENA22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "YGLD-ENA23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "YGLD-ENA24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "YGLD-ENA24",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25774450,
+      "code": "YGLD-ENA25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87910978,
+      "code": "YGLD-ENA26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93108433,
+      "code": "YGLD-ENA27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93260132,
+      "code": "YGLD-ENA28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64047146,
+      "code": "YGLD-ENA29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36607978,
+      "code": "YGLD-ENA30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24294108,
+      "code": "YGLD-ENA31",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40703222,
+      "code": "YGLD-ENA32",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89086566,
+      "code": "YGLD-ENA33",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27827272,
+      "code": "YGLD-ENA34",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "YGLD-ENA35",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55761792,
+      "code": "YGLD-ENA36",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "YGLD-ENA37",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81210420,
+      "code": "YGLD-ENA38",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34694160,
+      "code": "YGLD-ENA39",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59560625,
+      "code": "YGLD-ENA40",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66889139,
+      "code": "YGLD-ENA41",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9287078,
+      "code": "YGLD-ENB00",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75347539,
+      "code": "YGLD-ENB01",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "YGLD-ENB03",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78193831,
+      "code": "YGLD-ENB04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50287060,
+      "code": "YGLD-ENB05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "YGLD-ENB06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "YGLD-ENB07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "YGLD-ENB08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77207191,
+      "code": "YGLD-ENB09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5818798,
+      "code": "YGLD-ENB10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99785935,
+      "code": "YGLD-ENB11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39256679,
+      "code": "YGLD-ENB12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11549357,
+      "code": "YGLD-ENB13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65240384,
+      "code": "YGLD-ENB14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "YGLD-ENB15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "YGLD-ENB16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "YGLD-ENB17",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99789342,
+      "code": "YGLD-ENB18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63391643,
+      "code": "YGLD-ENB19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67227834,
+      "code": "YGLD-ENB20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28553439,
+      "code": "YGLD-ENB21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87880531,
+      "code": "YGLD-ENB22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24096228,
+      "code": "YGLD-ENB23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97342942,
+      "code": "YGLD-ENB24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81510157,
+      "code": "YGLD-ENB25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "YGLD-ENB26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72892473,
+      "code": "YGLD-ENB27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5556668,
+      "code": "YGLD-ENB28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93108433,
+      "code": "YGLD-ENB29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "YGLD-ENB30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95286165,
+      "code": "YGLD-ENB31",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40703222,
+      "code": "YGLD-ENB32",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "YGLD-ENB33",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81210420,
+      "code": "YGLD-ENB34",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "YGLD-ENB35",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18807109,
+      "code": "YGLD-ENB36",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49587034,
+      "code": "YGLD-ENB37",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1248895,
+      "code": "YGLD-ENB38",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37383714,
+      "code": "YGLD-ENB39",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35686188,
+      "code": "YGLD-ENB40",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4796100,
+      "code": "YGLD-ENB41",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32754886,
+      "code": "YGLD-ENC00",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30208479,
+      "code": "YGLD-ENC01",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40737112,
+      "code": "YGLD-ENC02",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64681432,
+      "code": "YGLD-ENC03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72443568,
+      "code": "YGLD-ENC04",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73665146,
+      "code": "YGLD-ENC05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37267041,
+      "code": "YGLD-ENC06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74388798,
+      "code": "YGLD-ENC07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1995985,
+      "code": "YGLD-ENC08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "YGLD-ENC09",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "YGLD-ENC10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78193831,
+      "code": "YGLD-ENC11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14778250,
+      "code": "YGLD-ENC12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "YGLD-ENC13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "YGLD-ENC14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "YGLD-ENC15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "YGLD-ENC16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "YGLD-ENC17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "YGLD-ENC18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73752131,
+      "code": "YGLD-ENC19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46363422,
+      "code": "YGLD-ENC20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48115277,
+      "code": "YGLD-ENC21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31305911,
+      "code": "YGLD-ENC22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "YGLD-ENC23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "YGLD-ENC24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "YGLD-ENC25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75500286,
+      "code": "YGLD-ENC26",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42664989,
+      "code": "YGLD-ENC27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "YGLD-ENC28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2314238,
+      "code": "YGLD-ENC29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36045450,
+      "code": "YGLD-ENC30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69542930,
+      "code": "YGLD-ENC31",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76792184,
+      "code": "YGLD-ENC32",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75622824,
+      "code": "YGLD-ENC33",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6390406,
+      "code": "YGLD-ENC34",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66865880,
+      "code": "YGLD-ENC35",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "YGLD-ENC36",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50755,
+      "code": "YGLD-ENC37",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12117532,
+      "code": "YGLD-ENC38",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13955608,
+      "code": "YGLD-ENC39",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68334074,
+      "code": "YGLD-ENC40",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98502113,
+      "code": "YGLD-ENC41",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

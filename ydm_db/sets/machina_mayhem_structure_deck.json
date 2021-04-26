@@ -1,0 +1,232 @@
+{
+  "name": "Machina Mayhem Structure Deck",
+  "code": "SDMM",
+  "type": "Structure Deck",
+  "date": "19-02-2010",
+  "image": "https://ygoprodeck.com/pics_sets/SDMM.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 5556499,
+      "code": "SDMM-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42940404,
+      "code": "SDMM-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78349103,
+      "code": "SDMM-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4334811,
+      "code": "SDMM-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22666164,
+      "code": "SDMM-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60999392,
+      "code": "SDMM-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23782705,
+      "code": "SDMM-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96384007,
+      "code": "SDMM-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58054262,
+      "code": "SDMM-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79853073,
+      "code": "SDMM-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26302522,
+      "code": "SDMM-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23265594,
+      "code": "SDMM-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70095154,
+      "code": "SDMM-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26439287,
+      "code": "SDMM-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "SDMM-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "SDMM-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "SDMM-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67159705,
+      "code": "SDMM-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3657444,
+      "code": "SDMM-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34004470,
+      "code": "SDMM-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31828916,
+      "code": "SDMM-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43711255,
+      "code": "SDMM-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "SDMM-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55713623,
+      "code": "SDMM-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46181000,
+      "code": "SDMM-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63995093,
+      "code": "SDMM-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12247206,
+      "code": "SDMM-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74519184,
+      "code": "SDMM-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48712195,
+      "code": "SDMM-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86780027,
+      "code": "SDMM-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80987696,
+      "code": "SDMM-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70342110,
+      "code": "SDMM-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68540059,
+      "code": "SDMM-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12503902,
+      "code": "SDMM-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36468556,
+      "code": "SDMM-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94192409,
+      "code": "SDMM-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91597389,
+      "code": "SDMM-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

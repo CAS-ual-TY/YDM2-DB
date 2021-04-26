@@ -1,0 +1,310 @@
+{
+  "name": "Starter Deck: Pegasus",
+  "code": "SDP",
+  "type": "Starter Deck",
+  "date": "30-03-2003",
+  "image": "https://ygoprodeck.com/pics_sets/SDP.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 64631466,
+      "code": "SDP-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65570596,
+      "code": "SDP-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2964201,
+      "code": "SDP-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28546905,
+      "code": "SDP-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91939608,
+      "code": "SDP-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1784619,
+      "code": "SDP-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13039848,
+      "code": "SDP-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85639257,
+      "code": "SDP-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59383041,
+      "code": "SDP-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7089711,
+      "code": "SDP-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57617178,
+      "code": "SDP-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90020065,
+      "code": "SDP-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28933734,
+      "code": "SDP-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78010363,
+      "code": "SDP-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54652250,
+      "code": "SDP-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46657337,
+      "code": "SDP-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13215230,
+      "code": "SDP-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9076207,
+      "code": "SDP-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81863068,
+      "code": "SDP-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53183600,
+      "code": "SDP-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91842653,
+      "code": "SDP-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38369349,
+      "code": "SDP-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65458948,
+      "code": "SDP-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "SDP-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65169794,
+      "code": "SDP-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "SDP-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84257640,
+      "code": "SDP-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "SDP-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19159413,
+      "code": "SDP-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "SDP-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63102017,
+      "code": "SDP-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "SDP-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70046172,
+      "code": "SDP-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51482758,
+      "code": "SDP-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "SDP-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5758500,
+      "code": "SDP-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59197169,
+      "code": "SDP-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41426869,
+      "code": "SDP-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20436034,
+      "code": "SDP-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79571449,
+      "code": "SDP-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "SDP-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17814387,
+      "code": "SDP-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44209392,
+      "code": "SDP-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12607053,
+      "code": "SDP-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3819470,
+      "code": "SDP-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80604092,
+      "code": "SDP-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88279736,
+      "code": "SDP-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77414722,
+      "code": "SDP-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96355986,
+      "code": "SDP-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55608151,
+      "code": "SDP-050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

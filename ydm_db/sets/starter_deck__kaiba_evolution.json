@@ -1,0 +1,310 @@
+{
+  "name": "Starter Deck: Kaiba Evolution",
+  "code": "SKE",
+  "type": "Starter Deck",
+  "date": "01-03-2004",
+  "image": "https://ygoprodeck.com/pics_sets/SKE.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "SKE-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5053103,
+      "code": "SKE-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67724379,
+      "code": "SKE-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91939608,
+      "code": "SKE-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1184620,
+      "code": "SKE-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1784619,
+      "code": "SKE-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68516705,
+      "code": "SKE-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24611934,
+      "code": "SKE-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97590747,
+      "code": "SKE-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10202894,
+      "code": "SKE-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62397231,
+      "code": "SKE-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14531242,
+      "code": "SKE-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93346024,
+      "code": "SKE-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17658803,
+      "code": "SKE-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17444133,
+      "code": "SKE-015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17985575,
+      "code": "SKE-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54098121,
+      "code": "SKE-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46461247,
+      "code": "SKE-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7089711,
+      "code": "SKE-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78010363,
+      "code": "SKE-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83011278,
+      "code": "SKE-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79870141,
+      "code": "SKE-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67957315,
+      "code": "SKE-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73398797,
+      "code": "SKE-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9786492,
+      "code": "SKE-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19523799,
+      "code": "SKE-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "SKE-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19159413,
+      "code": "SKE-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "SKE-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81820689,
+      "code": "SKE-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43973174,
+      "code": "SKE-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "SKE-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "SKE-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50913601,
+      "code": "SKE-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "SKE-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70046172,
+      "code": "SKE-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22046459,
+      "code": "SKE-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71044499,
+      "code": "SKE-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70828912,
+      "code": "SKE-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97687912,
+      "code": "SKE-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29267084,
+      "code": "SKE-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "SKE-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24068492,
+      "code": "SKE-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98299011,
+      "code": "SKE-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60082869,
+      "code": "SKE-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62867251,
+      "code": "SKE-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83968380,
+      "code": "SKE-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70344351,
+      "code": "SKE-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80163754,
+      "code": "SKE-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2833249,
+      "code": "SKE-050",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

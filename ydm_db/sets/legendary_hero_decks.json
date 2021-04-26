@@ -1,0 +1,730 @@
+{
+  "name": "Legendary Hero Decks",
+  "code": "LEHD",
+  "type": "Legendary Decks",
+  "date": "04-10-2018",
+  "image": "https://ygoprodeck.com/pics_sets/LEHD.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 63813056,
+      "code": "LEHD-ENA00",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17132130,
+      "code": "LEHD-ENA01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83965310,
+      "code": "LEHD-ENA02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40591390,
+      "code": "LEHD-ENA03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9411399,
+      "code": "LEHD-ENA04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9411399,
+      "code": "LEHD-ENA04",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63362460,
+      "code": "LEHD-ENA05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13093792,
+      "code": "LEHD-ENA06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36625827,
+      "code": "LEHD-ENA07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56570271,
+      "code": "LEHD-ENA08",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26964762,
+      "code": "LEHD-ENA09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37780349,
+      "code": "LEHD-ENA10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91691605,
+      "code": "LEHD-ENA11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64184058,
+      "code": "LEHD-ENA12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66262416,
+      "code": "LEHD-ENA13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99357565,
+      "code": "LEHD-ENA14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50720316,
+      "code": "LEHD-ENA15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63060238,
+      "code": "LEHD-ENA16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45809008,
+      "code": "LEHD-ENA17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45809008,
+      "code": "LEHD-ENA17",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72204747,
+      "code": "LEHD-ENA18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75041269,
+      "code": "LEHD-ENA19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53527835,
+      "code": "LEHD-ENA20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21143940,
+      "code": "LEHD-ENA21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "LEHD-ENA22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "LEHD-ENA23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98494543,
+      "code": "LEHD-ENA24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "LEHD-ENA25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49140998,
+      "code": "LEHD-ENA26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35464895,
+      "code": "LEHD-ENA27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99075257,
+      "code": "LEHD-ENA28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35787450,
+      "code": "LEHD-ENA29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26841274,
+      "code": "LEHD-ENA30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76263644,
+      "code": "LEHD-ENA31",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93657021,
+      "code": "LEHD-ENA32",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90579153,
+      "code": "LEHD-ENA33",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30757127,
+      "code": "LEHD-ENA34",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58481572,
+      "code": "LEHD-ENA35",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59642500,
+      "code": "LEHD-ENA36",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1948619,
+      "code": "LEHD-ENA37",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90207654,
+      "code": "LEHD-ENB00",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15394083,
+      "code": "LEHD-ENB01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15394083,
+      "code": "LEHD-ENB01",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14677495,
+      "code": "LEHD-ENB02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88283496,
+      "code": "LEHD-ENB03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41788781,
+      "code": "LEHD-ENB04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13455953,
+      "code": "LEHD-ENB05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40666140,
+      "code": "LEHD-ENB06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77060848,
+      "code": "LEHD-ENB07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73417207,
+      "code": "LEHD-ENB08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76348260,
+      "code": "LEHD-ENB09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40844552,
+      "code": "LEHD-ENB10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61777313,
+      "code": "LEHD-ENB11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2333365,
+      "code": "LEHD-ENB12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50433147,
+      "code": "LEHD-ENB13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55154048,
+      "code": "LEHD-ENB14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28643791,
+      "code": "LEHD-ENB15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25789292,
+      "code": "LEHD-ENB16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27243130,
+      "code": "LEHD-ENB17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96864811,
+      "code": "LEHD-ENB18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "LEHD-ENB19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54447022,
+      "code": "LEHD-ENB20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "LEHD-ENB21",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64697431,
+      "code": "LEHD-ENB22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "LEHD-ENB23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14464864,
+      "code": "LEHD-ENB24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42793609,
+      "code": "LEHD-ENB25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89792713,
+      "code": "LEHD-ENB26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15286412,
+      "code": "LEHD-ENB27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86827882,
+      "code": "LEHD-ENB28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16308000,
+      "code": "LEHD-ENB29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30604579,
+      "code": "LEHD-ENB30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67098114,
+      "code": "LEHD-ENB31",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93483212,
+      "code": "LEHD-ENB32",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8561192,
+      "code": "LEHD-ENB33",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37910722,
+      "code": "LEHD-ENB34",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8763963,
+      "code": "LEHD-ENB35",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34408491,
+      "code": "LEHD-ENB36",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76774528,
+      "code": "LEHD-ENB37",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42566602,
+      "code": "LEHD-ENB38",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26692769,
+      "code": "LEHD-ENC00",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90432163,
+      "code": "LEHD-ENC01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36426778,
+      "code": "LEHD-ENC02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63821877,
+      "code": "LEHD-ENC03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99315585,
+      "code": "LEHD-ENC04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36704180,
+      "code": "LEHD-ENC05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28985331,
+      "code": "LEHD-ENC06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54582424,
+      "code": "LEHD-ENC07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56343672,
+      "code": "LEHD-ENC08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56410040,
+      "code": "LEHD-ENC09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19353570,
+      "code": "LEHD-ENC10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42338879,
+      "code": "LEHD-ENC11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97268402,
+      "code": "LEHD-ENC12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3298689,
+      "code": "LEHD-ENC13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98153934,
+      "code": "LEHD-ENC14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53129443,
+      "code": "LEHD-ENC15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "LEHD-ENC16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "LEHD-ENC17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "LEHD-ENC18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 674561,
+      "code": "LEHD-ENC19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43898403,
+      "code": "LEHD-ENC20",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25542642,
+      "code": "LEHD-ENC21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61936647,
+      "code": "LEHD-ENC22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98431356,
+      "code": "LEHD-ENC23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77462146,
+      "code": "LEHD-ENC24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98827725,
+      "code": "LEHD-ENC25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24212820,
+      "code": "LEHD-ENC26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51606429,
+      "code": "LEHD-ENC27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36247316,
+      "code": "LEHD-ENC28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62645025,
+      "code": "LEHD-ENC29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9336190,
+      "code": "LEHD-ENC30",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62709239,
+      "code": "LEHD-ENC31",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12219047,
+      "code": "LEHD-ENC32",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16195942,
+      "code": "LEHD-ENC33",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1621413,
+      "code": "LEHD-ENC34",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 359563,
+      "code": "LEHD-ENC35",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65884091,
+      "code": "LEHD-ENC36",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63504681,
+      "code": "LEHD-ENC37",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95992081,
+      "code": "LEHD-ENC38",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83531441,
+      "code": "LEHD-ENC39",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "name": "Starter Deck: Syrus Truesdale",
+  "code": "YSDS",
+  "type": "Starter Deck",
+  "date": "25-07-2007",
+  "image": "https://ygoprodeck.com/pics_sets/YSDS.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 984114,
+      "code": "YSDS-EN000",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48766543,
+      "code": "YSDS-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44203504,
+      "code": "YSDS-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11321183,
+      "code": "YSDS-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47372349,
+      "code": "YSDS-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49881766,
+      "code": "YSDS-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45945685,
+      "code": "YSDS-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23635815,
+      "code": "YSDS-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7459013,
+      "code": "YSDS-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43716289,
+      "code": "YSDS-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28933734,
+      "code": "YSDS-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87621407,
+      "code": "YSDS-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16956455,
+      "code": "YSDS-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71930383,
+      "code": "YSDS-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18325492,
+      "code": "YSDS-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44729197,
+      "code": "YSDS-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71218746,
+      "code": "YSDS-EN016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99861526,
+      "code": "YSDS-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36378213,
+      "code": "YSDS-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24311595,
+      "code": "YSDS-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12694768,
+      "code": "YSDS-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65169794,
+      "code": "YSDS-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70046172,
+      "code": "YSDS-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42703248,
+      "code": "YSDS-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19613556,
+      "code": "YSDS-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "YSDS-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97169186,
+      "code": "YSDS-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "YSDS-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82828051,
+      "code": "YSDS-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49140998,
+      "code": "YSDS-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69162969,
+      "code": "YSDS-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87910978,
+      "code": "YSDS-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "YSDS-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77414722,
+      "code": "YSDS-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3819470,
+      "code": "YSDS-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "YSDS-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36361633,
+      "code": "YSDS-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14315573,
+      "code": "YSDS-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "YSDS-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78211862,
+      "code": "YSDS-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97705809,
+      "code": "YSDS-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

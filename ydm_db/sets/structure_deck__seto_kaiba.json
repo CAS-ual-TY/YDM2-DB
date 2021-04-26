@@ -1,0 +1,274 @@
+{
+  "name": "Structure Deck: Seto Kaiba",
+  "code": "SDKS",
+  "type": "Structure Deck",
+  "date": "20-10-2016",
+  "image": "https://ygoprodeck.com/pics_sets/SDKS.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 30012506,
+      "code": "SDKS-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77411244,
+      "code": "SDKS-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3405259,
+      "code": "SDKS-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39890958,
+      "code": "SDKS-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62651957,
+      "code": "SDKS-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65622692,
+      "code": "SDKS-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64500000,
+      "code": "SDKS-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23265594,
+      "code": "SDKS-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89631139,
+      "code": "SDKS-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52824910,
+      "code": "SDKS-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17985575,
+      "code": "SDKS-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53839837,
+      "code": "SDKS-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76909279,
+      "code": "SDKS-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81985784,
+      "code": "SDKS-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52624755,
+      "code": "SDKS-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25206027,
+      "code": "SDKS-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61802346,
+      "code": "SDKS-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66752837,
+      "code": "SDKS-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11091375,
+      "code": "SDKS-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66399653,
+      "code": "SDKS-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2783661,
+      "code": "SDKS-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17655904,
+      "code": "SDKS-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43973174,
+      "code": "SDKS-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42534368,
+      "code": "SDKS-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55713623,
+      "code": "SDKS-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98045062,
+      "code": "SDKS-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22046459,
+      "code": "SDKS-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23171610,
+      "code": "SDKS-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46181000,
+      "code": "SDKS-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39778366,
+      "code": "SDKS-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57728570,
+      "code": "SDKS-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14315573,
+      "code": "SDKS-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "SDKS-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36261276,
+      "code": "SDKS-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86871614,
+      "code": "SDKS-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52503575,
+      "code": "SDKS-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "SDKS-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91597389,
+      "code": "SDKS-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50078509,
+      "code": "SDKS-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65172015,
+      "code": "SDKS-EN040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1561110,
+      "code": "SDKS-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91998119,
+      "code": "SDKS-EN042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2111707,
+      "code": "SDKS-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99724761,
+      "code": "SDKS-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
