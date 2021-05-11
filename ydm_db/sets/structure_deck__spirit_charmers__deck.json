@@ -1,249 +1,252 @@
 {
-  "name": "Structure Deck: Invincible Fortress",
-  "code": "SD7",
-  "type": "Structure Deck",
-  "date": "15-05-2006",
-  "image": "https://ygoprodeck.com/pics_sets/SD7.jpg",
+  "code": "SDCH_D",
+  "type": "Sub-Set",
   "pull_type": "full",
   "cards": [
     {
-      "id": 55737443,
-      "code": "SD7-001",
+      "id": 37970940,
+      "code": "SDCH-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74364659,
+      "code": "SDCH-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 759393,
+      "code": "SDCH-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37744402,
+      "code": "SDCH-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65268179,
+      "code": "SDCH-005",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 92736188,
-      "code": "SD7-002",
+      "id": 92652813,
+      "code": "SDCH-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60666820,
+      "code": "SDCH-007",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 97017120,
-      "code": "SD7-003",
+      "id": 40894584,
+      "code": "SDCH-008",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 97017120,
-      "code": "SD7-003",
+      "id": 62953041,
+      "code": "SDCH-009",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 97017120,
-      "code": "SD7-003",
+      "id": 44680819,
+      "code": "SDCH-010",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 40695128,
-      "code": "SD7-004",
+      "id": 42921475,
+      "code": "SDCH-011",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 40659562,
-      "code": "SD7-005",
+      "id": 52022648,
+      "code": "SDCH-012",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 47606319,
-      "code": "SD7-006",
+      "id": 86937530,
+      "code": "SDCH-013",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 47606319,
-      "code": "SD7-006",
+      "id": 71074418,
+      "code": "SDCH-014",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 31812496,
-      "code": "SD7-007",
+      "id": 62312469,
+      "code": "SDCH-015",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 52323207,
-      "code": "SD7-008",
+      "id": 78010363,
+      "code": "SDCH-016",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 82260502,
-      "code": "SD7-009",
+      "id": 97268402,
+      "code": "SDCH-017",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 18654201,
-      "code": "SD7-010",
+      "id": 13974207,
+      "code": "SDCH-018",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 45159319,
-      "code": "SD7-011",
+      "id": 38057522,
+      "code": "SDCH-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62256492,
+      "code": "SDCH-020",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 45159319,
-      "code": "SD7-011",
+      "id": 12580477,
+      "code": "SDCH-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68462976,
+      "code": "SDCH-022",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 71544954,
-      "code": "SD7-012",
+      "id": 23314220,
+      "code": "SDCH-023",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 75209824,
-      "code": "SD7-013",
+      "id": 73628505,
+      "code": "SDCH-024",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 2694423,
-      "code": "SD7-014",
+      "id": 35480699,
+      "code": "SDCH-025",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 73648243,
-      "code": "SD7-015",
+      "id": 43898403,
+      "code": "SDCH-026",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 28120197,
-      "code": "SD7-016",
+      "id": 54693926,
+      "code": "SDCH-027",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 5318639,
-      "code": "SD7-017",
+      "id": 65046521,
+      "code": "SDCH-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25704359,
+      "code": "SDCH-029",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 70828912,
-      "code": "SD7-018",
+      "id": 70156997,
+      "code": "SDCH-030",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 72302403,
-      "code": "SD7-019",
+      "id": 6540606,
+      "code": "SDCH-031",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 52097679,
-      "code": "SD7-020",
+      "id": 42945701,
+      "code": "SDCH-032",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 52097679,
-      "code": "SD7-020",
+      "id": 79333300,
+      "code": "SDCH-033",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 85852291,
-      "code": "SD7-021",
+      "id": 89208725,
+      "code": "SDCH-034",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 26412047,
-      "code": "SD7-022",
+      "id": 83326048,
+      "code": "SDCH-035",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 97342942,
-      "code": "SD7-023",
+      "id": 84749824,
+      "code": "SDCH-036",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 87910978,
-      "code": "SD7-024",
+      "id": 31887905,
+      "code": "SDCH-037",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 59237154,
-      "code": "SD7-025",
+      "id": 68881649,
+      "code": "SDCH-038",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 12607053,
-      "code": "SD7-026",
+      "id": 4376658,
+      "code": "SDCH-039",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 80604092,
-      "code": "SD7-027",
+      "id": 31764353,
+      "code": "SDCH-040",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 59344077,
-      "code": "SD7-028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 59344077,
-      "code": "SD7-028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 88279736,
-      "code": "SD7-029",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 39537362,
-      "code": "SD7-030",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 39537362,
-      "code": "SD7-030",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 37576645,
-      "code": "SD7-031",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 94192409,
-      "code": "SD7-032",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 94192409,
-      "code": "SD7-032",
-      "rarity": "Common",
+      "id": 91530236,
+      "code": "SDCH-041",
+      "rarity": "Ultra Rare",
       "image_index": 0
     }
   ]

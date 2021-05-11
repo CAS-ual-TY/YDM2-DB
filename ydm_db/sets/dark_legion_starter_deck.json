@@ -1,6 +1,6 @@
 {
   "name": "Dark Legion Starter Deck",
-  "code": "YS15",
+  "code": "YS15-L",
   "type": "Starter Deck",
   "date": "29-05-2015",
   "image": "https://ygoprodeck.com/pics_sets/YS15.jpg",
@@ -8,175 +8,247 @@
   "cards": [
     {
       "id": 56619314,
-      "code": "YS15-ENL00",
+      "code": "YS15-L00",
       "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 11761845,
-      "code": "YS15-ENL01",
+      "code": "YS15-L01",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 49881766,
-      "code": "YS15-ENL02",
+      "code": "YS15-L02",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 93346024,
-      "code": "YS15-ENL03",
+      "code": "YS15-L03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93346024,
+      "code": "YS15-L03",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 9391354,
-      "code": "YS15-ENL04",
+      "code": "YS15-L04",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 85306040,
-      "code": "YS15-ENL05",
+      "code": "YS15-L05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85306040,
+      "code": "YS15-L05",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 84914462,
-      "code": "YS15-ENL06",
+      "code": "YS15-L06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84914462,
+      "code": "YS15-L06",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 46272804,
-      "code": "YS15-ENL07",
+      "code": "YS15-L07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46272804,
+      "code": "YS15-L07",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 94664694,
-      "code": "YS15-ENL08",
+      "code": "YS15-L08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94664694,
+      "code": "YS15-L08",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 12235475,
-      "code": "YS15-ENL09",
+      "code": "YS15-L09",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 11125718,
-      "code": "YS15-ENL10",
+      "code": "YS15-L10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11125718,
+      "code": "YS15-L10",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 51838385,
-      "code": "YS15-ENL11",
+      "code": "YS15-L11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51838385,
+      "code": "YS15-L11",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 20586572,
-      "code": "YS15-ENL12",
+      "code": "YS15-L12",
       "rarity": "Shatterfoil Rare",
       "image_index": 0
     },
     {
       "id": 48343627,
-      "code": "YS15-ENL13",
+      "code": "YS15-L13",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 53129443,
-      "code": "YS15-ENL14",
+      "code": "YS15-L14",
       "rarity": "Shatterfoil Rare",
       "image_index": 0
     },
     {
       "id": 97169186,
-      "code": "YS15-ENL15",
+      "code": "YS15-L15",
       "rarity": "Shatterfoil Rare",
       "image_index": 0
     },
     {
       "id": 74848038,
-      "code": "YS15-ENL16",
+      "code": "YS15-L16",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 5318639,
-      "code": "YS15-ENL17",
+      "code": "YS15-L17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "YS15-L17",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 70046172,
-      "code": "YS15-ENL18",
+      "code": "YS15-L18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70046172,
+      "code": "YS15-L18",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 40619825,
-      "code": "YS15-ENL19",
+      "code": "YS15-L19",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 99597615,
-      "code": "YS15-ENL20",
+      "code": "YS15-L20",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 10012614,
-      "code": "YS15-ENL21",
+      "code": "YS15-L21",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 44095762,
-      "code": "YS15-ENL22",
+      "code": "YS15-L22",
       "rarity": "Shatterfoil Rare",
       "image_index": 0
     },
     {
       "id": 62279055,
-      "code": "YS15-ENL23",
+      "code": "YS15-L23",
       "rarity": "Shatterfoil Rare",
       "image_index": 0
     },
     {
       "id": 4206964,
-      "code": "YS15-ENL24",
+      "code": "YS15-L24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "YS15-L24",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 60082869,
-      "code": "YS15-ENL25",
+      "code": "YS15-L25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60082869,
+      "code": "YS15-L25",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 57882509,
-      "code": "YS15-ENL26",
+      "code": "YS15-L26",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 97077563,
-      "code": "YS15-ENL27",
+      "code": "YS15-L27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "YS15-L27",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 14315573,
-      "code": "YS15-ENL28",
+      "code": "YS15-L28",
       "rarity": "Common",
       "image_index": 0
     }

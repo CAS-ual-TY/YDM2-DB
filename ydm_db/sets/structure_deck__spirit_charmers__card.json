@@ -1,0 +1,32 @@
+{
+  "code": "SDCH_C",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "structure_deck__spirit_charmers__card",
+  "cards": [
+    {
+      "id": 31887905,
+      "code": "SDCH-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68881649,
+      "code": "SDCH-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4376658,
+      "code": "SDCH-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31764353,
+      "code": "SDCH-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
