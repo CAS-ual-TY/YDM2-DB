@@ -1,0 +1,19 @@
+{
+  "code": "SD-DE_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 73879377,
+      "code": "SD1-DE1",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93382620,
+      "code": "SD2-DE1",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

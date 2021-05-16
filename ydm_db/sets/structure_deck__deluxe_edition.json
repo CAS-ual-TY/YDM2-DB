@@ -1,22 +1,13 @@
 {
   "name": "Structure Deck: Deluxe Edition",
-  "code": "SD1",
+  "code": "SD-DE",
   "type": "Structure Deck",
   "date": "01-01-2005",
   "image": "https://ygoprodeck.com/pics_sets/SD1.jpg",
-  "pull_type": "full",
-  "cards": [
-    {
-      "id": 73879377,
-      "code": "SD1-DE1",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 93382620,
-      "code": "SD2-DE1",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    }
+  "pull_type": "composition",
+  "sub_sets": [
+    "SD1",
+    "SD2",
+    "SD-DE_C"
   ]
 }
