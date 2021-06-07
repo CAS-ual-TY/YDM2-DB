@@ -1,0 +1,20 @@
+{
+  "id": 48285768,
+  "name": "Springans Merrymaker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 monsters\nIf this card is Special Summoned from the Extra Deck: You can send 1 \"Springans\" monster from your Deck to the GY. During your opponent\u0027s Main or Battle Phase (Quick Effect): You can banish this card (until the End Phase), then, if this card had 2 or more materials, you can send 1 Fusion Monster from your Extra Deck to the GY that lists \"Fallen of Albaz\" as material. You can only use each effect of \"Springans Merrymaker\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/48285768.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1100,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 4
+}

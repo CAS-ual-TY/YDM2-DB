@@ -1,0 +1,21 @@
+{
+  "id": 14957440,
+  "name": "Otoshidamashi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control a non-Tuner, your opponent\u0027s monsters cannot target this card for attacks. If a monster(s) is sent from the field to your opponent\u0027s GY: Place 1 Otoshidamashii Counter on this card, then Special Summon \"Otoshidamashii Tokens\" (Beast/EARTH/Level 1/ATK ?/DEF ?), up the number of Otoshidamashii Counters on this card. (When Summoned, increase the Levels of these Tokens by the number of Otoshidamashii Counters on this card, also their ATK/DEF become their Level x 500.) You can only use this effect of \"Otoshidamashi\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/14957440.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 1,
+  "is_tuner": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 53318263,
+  "name": "Bahalutiya, the Grand Radiance",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute Summon this card by Tributing 1 Effect Monster. During your opponent\u0027s Main Phase, if your opponent adds a card(s) from the Deck to their hand, except by drawing them, and this card is in your hand, you can: Immediately after this effect resolves, Tribute Summon this card. If this card is Normal or Special Summoned from the hand: You can have your opponent banish cards from the top of their Deck, face-down, equal to the number of cards in their hand, then they shuffle their entire hand into the Deck, and if they do, they add the cards banished by this effect to their hand. You can only use this effect of \"Bahalutiya, the Grand Radiance\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/53318263.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
+}

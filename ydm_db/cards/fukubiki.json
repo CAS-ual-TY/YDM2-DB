@@ -1,0 +1,12 @@
+{
+  "id": 54927180,
+  "name": "Fukubiki",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each player shuffles their Deck, and if they do, they excavate the top card of their Deck and show it. (The ATK of monsters with ? ATK and Spells/Traps are treated as 0.) If one card has higher ATK than the other, add the card with the higher ATK to the hand of the player who showed it, and if you do, send the card with the lower ATK to the GY. If they have the same ATK, place them on the bottom of the Deck.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/54927180.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

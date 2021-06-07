@@ -1,0 +1,21 @@
+{
+  "id": 76524506,
+  "name": "Garden Rose Flora",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nYou can target 1 Field Spell on the field; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters, also destroy that target, then Special Summon 1 \"Rose Token\" (Plant/DARK/Level 2/ATK 800/DEF 800) to its controller\u0027s field in Attack Position. You can only use this effect of \"Garden Rose Flora\" once per turn. Once per Chain, during your opponent\u0027s Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76524506.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Plant",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

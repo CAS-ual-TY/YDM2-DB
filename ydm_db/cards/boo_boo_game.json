@@ -1,0 +1,12 @@
+{
+  "id": 27923575,
+  "name": "Boo-Boo Game",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During damage calculation, if a monster battles: You take no battle damage from that battle. If this Set card in its owner\u0027s control is destroyed by your opponent\u0027s card effect and sent to the GY: You can target up to 2 Normal Traps in your GY, except \"Boo-Boo Game\"; Set them to your field. They can be activated this turn. You can only use this effect of \"Boo-Boo Game\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27923575.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
