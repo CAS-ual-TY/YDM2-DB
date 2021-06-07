@@ -1,0 +1,21 @@
+{
+  "id": 12018201,
+  "name": "Lavalval Exlord",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner FIRE monsters\nWhen your opponent activates a monster effect in the hand or on the field (Quick Effect): You can destroy that monster, and if you do, inflict 1000 damage to your opponent. If this Synchro Summoned card in its owner\u0027s control is destroyed by an opponent\u0027s card: You can Special Summon up to 3 non-Synchro FIRE monsters with 200 DEF from your GY in Defense Position, but negate their effects. You can only use each effect of \"Lavalval Exlord\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/12018201.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2900,
+  "species": "Warrior",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 8,
+  "is_tuner": false
+}

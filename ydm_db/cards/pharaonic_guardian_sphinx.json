@@ -1,0 +1,21 @@
+{
+  "id": 89707961,
+  "name": "Pharaonic Guardian Sphinx",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can change this card to face-down Defense Position. You can only use each of the following effects of \"Pharaonic Guardian Sphinx\" once per turn. If this card is Flip Summoned: Shuffle all monsters your opponent controls into the Deck. If this card in its owner\u0027s control is destroyed by an opponent\u0027s card: You can Special Summon 1 Level 5 Rock monster from your hand or Deck in face-down Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/89707961.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
+}

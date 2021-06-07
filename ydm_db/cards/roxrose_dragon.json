@@ -1,0 +1,21 @@
+{
+  "id": 93708824,
+  "name": "Roxrose Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 card that specifically lists \"Black Rose Dragon\" in its text, from your Deck to your hand, except \"Roxrose Dragon\". While this card is in your GY, if a face-up \"Rose Dragon\" monster(s) or Plant Synchro Monster(s) you control is destroyed by battle or an opponent\u0027s card effect: You can add this card to your hand. You can only use each effect of \"Roxrose Dragon\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93708824.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 3,
+  "is_tuner": true
+}

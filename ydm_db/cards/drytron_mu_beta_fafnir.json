@@ -1,0 +1,20 @@
+{
+  "id": 1174075,
+  "name": "Drytron Mu Beta Fafnir",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 1 monsters\nIf you would Tribute a monster(s) for a Ritual Summon, you can detach the appropriate materials from this card instead. You can only use each of the following effects of \"Drytron Mu Beta Fafnir\" once per turn. If this card is Xyz Summoned: You can send 1 \"Drytron\" card from your Deck to the GY. When your opponent activates a Spell/Trap Card while you control a Machine Ritual Monster (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/1174075.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 1
+}

@@ -1,0 +1,23 @@
+{
+  "id": 952523,
+  "name": "Traptrix Cularia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Insect and/or Plant monsters\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Cularia\" once per turn. After you activate a \"Hole\" Normal Trap Card, you can Set it instead of sending it to the GY. During your End Phase: You can target 1 \"Traptrix\" monster in your GY; Special Summon it in Defense Position.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/952523.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Plant",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom",
+    "Right"
+  ]
+}

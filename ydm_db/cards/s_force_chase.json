@@ -1,0 +1,12 @@
+{
+  "id": 55049722,
+  "name": "S-Force Chase",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target face-up cards your opponent controls, up to the number of \"S-Force\" monsters you control with different names; return them to the hand. If a \"S-Force\" monster you control would banish a card(s) from the hand to activate an effect, you can banish this card from your GY instead. You can only use each effect of \"S-Force Chase\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/55049722.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

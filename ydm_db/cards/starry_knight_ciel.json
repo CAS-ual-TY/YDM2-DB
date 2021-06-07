@@ -1,0 +1,21 @@
+{
+  "id": 27036706,
+  "name": "Starry Knight Ciel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can return 1 \"Starry Knight\" monster or 1 Level 7 LIGHT Dragon monster you control to the hand, except \"Starry Knight Ciel\"; Special Summon this card. If you control no monsters: You can banish this card from your GY; Special Summon 1 Level 7 LIGHT Dragon monster from your hand. You can only use each effect of \"Starry Knight Ciel\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/27036706.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

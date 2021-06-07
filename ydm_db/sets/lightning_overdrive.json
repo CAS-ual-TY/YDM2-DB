@@ -1,0 +1,647 @@
+{
+  "name": "Lightning Overdrive",
+  "code": "LIOV",
+  "type": "Booster Pack (Series 11)",
+  "date": "03-06-2021",
+  "image": "https://ygoprodeck.com/pics_sets/LIOV.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_without_rare_with_starlight_rare",
+  "cards": [
+    {
+      "id": 32164201,
+      "code": "LIOV-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68258355,
+      "code": "LIOV-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4647954,
+      "code": "LIOV-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31042659,
+      "code": "LIOV-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67436768,
+      "code": "LIOV-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94821366,
+      "code": "LIOV-EN006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30829071,
+      "code": "LIOV-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67314110,
+      "code": "LIOV-EN008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93708824,
+      "code": "LIOV-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29107423,
+      "code": "LIOV-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66192538,
+      "code": "LIOV-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92586237,
+      "code": "LIOV-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29981935,
+      "code": "LIOV-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65479980,
+      "code": "LIOV-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91864689,
+      "code": "LIOV-EN015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28868394,
+      "code": "LIOV-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54257392,
+      "code": "LIOV-EN017",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54257392,
+      "code": "LIOV-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91642007,
+      "code": "LIOV-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27036706,
+      "code": "LIOV-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53535814,
+      "code": "LIOV-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80529459,
+      "code": "LIOV-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26914168,
+      "code": "LIOV-EN022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53318263,
+      "code": "LIOV-EN023",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53318263,
+      "code": "LIOV-EN023",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89707961,
+      "code": "LIOV-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15792576,
+      "code": "LIOV-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52296675,
+      "code": "LIOV-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88685329,
+      "code": "LIOV-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15079028,
+      "code": "LIOV-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51474037,
+      "code": "LIOV-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87468732,
+      "code": "LIOV-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14957440,
+      "code": "LIOV-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40352445,
+      "code": "LIOV-EN032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87746184,
+      "code": "LIOV-EN033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13735899,
+      "code": "LIOV-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40139997,
+      "code": "LIOV-EN035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76524506,
+      "code": "LIOV-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76524506,
+      "code": "LIOV-EN036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12018201,
+      "code": "LIOV-EN037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49407319,
+      "code": "LIOV-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75402014,
+      "code": "LIOV-EN039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2896663,
+      "code": "LIOV-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2896663,
+      "code": "LIOV-EN040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48285768,
+      "code": "LIOV-EN041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74689476,
+      "code": "LIOV-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1174075,
+      "code": "LIOV-EN043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47163170,
+      "code": "LIOV-EN044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74567889,
+      "code": "LIOV-EN045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 952523,
+      "code": "LIOV-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36346532,
+      "code": "LIOV-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73345237,
+      "code": "LIOV-EN048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9839945,
+      "code": "LIOV-EN049",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9839945,
+      "code": "LIOV-EN049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36224040,
+      "code": "LIOV-EN050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62623659,
+      "code": "LIOV-EN051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4017398,
+      "code": "LIOV-EN052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31002402,
+      "code": "LIOV-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7496001,
+      "code": "LIOV-EN054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34995106,
+      "code": "LIOV-EN055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70389815,
+      "code": "LIOV-EN056",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6374519,
+      "code": "LIOV-EN057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33773528,
+      "code": "LIOV-EN058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69167267,
+      "code": "LIOV-EN059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6552971,
+      "code": "LIOV-EN060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32056070,
+      "code": "LIOV-EN061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68045685,
+      "code": "LIOV-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5439384,
+      "code": "LIOV-EN063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31834488,
+      "code": "LIOV-EN064",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31834488,
+      "code": "LIOV-EN064",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68223137,
+      "code": "LIOV-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94317736,
+      "code": "LIOV-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31712840,
+      "code": "LIOV-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67100549,
+      "code": "LIOV-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93595154,
+      "code": "LIOV-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20989253,
+      "code": "LIOV-EN070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66984907,
+      "code": "LIOV-EN071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93473606,
+      "code": "LIOV-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29867611,
+      "code": "LIOV-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55262310,
+      "code": "LIOV-EN074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92650018,
+      "code": "LIOV-EN075",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28645123,
+      "code": "LIOV-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55049722,
+      "code": "LIOV-EN077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91534476,
+      "code": "LIOV-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27923575,
+      "code": "LIOV-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54927180,
+      "code": "LIOV-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85847157,
+      "code": "LIOV-EN081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12332865,
+      "code": "LIOV-EN082",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58720904,
+      "code": "LIOV-EN083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84125619,
+      "code": "LIOV-EN084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11110218,
+      "code": "LIOV-EN085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47504322,
+      "code": "LIOV-EN086",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84903021,
+      "code": "LIOV-EN087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10497636,
+      "code": "LIOV-EN088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47882774,
+      "code": "LIOV-EN089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83880473,
+      "code": "LIOV-EN090",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19275188,
+      "code": "LIOV-EN091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46660187,
+      "code": "LIOV-EN092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96352326,
+      "code": "LIOV-EN093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49964567,
+      "code": "LIOV-EN094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76029419,
+      "code": "LIOV-EN095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80088625,
+      "code": "LIOV-EN096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7984540,
+      "code": "LIOV-EN097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44478599,
+      "code": "LIOV-EN098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70473293,
+      "code": "LIOV-EN099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "LIOV-EN100",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}

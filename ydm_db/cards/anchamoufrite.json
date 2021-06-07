@@ -1,0 +1,24 @@
+{
+  "id": 52296675,
+  "name": "Anchamoufrite",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except \"Anchamoufrite\". You can only Special Summon \"Anchamoufrite\" once per turn this way. If this face-up card in the Monster Zone leaves the field, banish it.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/52296675.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 5,
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
+}

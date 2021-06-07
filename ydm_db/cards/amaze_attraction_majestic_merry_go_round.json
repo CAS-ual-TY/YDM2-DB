@@ -1,0 +1,12 @@
+{
+  "id": 29867611,
+  "name": "Amaze Attraction Majestic Merry-Go-Round",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can apply the following effect, based on which player controls the equipped monster.\n? You: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\n? Your opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/29867611.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

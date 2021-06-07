@@ -1,0 +1,21 @@
+{
+  "id": 49407319,
+  "name": "Star Mine",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nYou can only Special Summon \"Star Mine(s)\" once per turn. If this card in its owner\u0027s possession is destroyed by an opponent\u0027s attack or card effect: Take 2000 damage, then inflict 2000 damage to your opponent. If a monster(s) in this card\u0027s adjacent Monster Zone(s) is destroyed by an opponent\u0027s attack or card effect: Destroy this card, and if you do, take 2000 damage, then inflict 2000 damage to your opponent.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/49407319.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Pyro",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

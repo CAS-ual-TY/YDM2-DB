@@ -1,0 +1,21 @@
+{
+  "id": 91642007,
+  "name": "Blackeyes, the Plunder Patroll Seaguide",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 \"Plunder Patroll\" monster in your GY, except \"Blackeyes, the Plunder Patroll Seaguide\"; you cannot Special Summon monsters for the rest of this turn, except \"Plunder Patroll\" monsters, also Special Summon this card from your hand, and if you do, add that target to your hand. If this card is sent from the hand or Monster Zone to the GY: You can target 1 \"Plunder Patroll\" Monster Card in your Spell \u0026 Trap Zone; Special Summon it in Defense Position. You can only use each effect of \"Blackeyes, the Plunder Patroll Seaguide\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/91642007.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}
