@@ -1,0 +1,21 @@
+{
+  "id": 11327848,
+  "name": "Master\u0027s Diploman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Tribute Summoned: You can target 1 monster in your GY and 1 face-up monster your opponent controls; equip the monster from your GY to that opponent\u0027s monster. While equipped by this effect, the equipped monster loses ATK equal to the ATK of that monster equipped to it. Your opponent cannot activate the effects of monsters they control that are equipped with Equip Cards in your Spell \u0026 Trap Zones.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/11327848.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

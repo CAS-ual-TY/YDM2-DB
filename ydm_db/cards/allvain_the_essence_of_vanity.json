@@ -1,0 +1,21 @@
+{
+  "id": 3544583,
+  "name": "Allvain the Essence of Vanity",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Normal Monsters",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/3544583.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fairy",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 2,
+  "is_tuner": false
+}

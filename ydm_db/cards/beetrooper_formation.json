@@ -1,0 +1,12 @@
+{
+  "id": 64213017,
+  "name": "Beetrooper Formation",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 \"Beetrooper\" monster in your GY; Special Summon it, but it cannot attack this turn, also you lose LP equal to its original ATK. If a face-up Insect monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Beetrooper Token\" (Insect/EARTH/Level 3/ATK 1000/DEF 1000). You can only use each effect of \"Beetrooper Formation\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/64213017.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

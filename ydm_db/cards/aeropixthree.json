@@ -1,0 +1,21 @@
+{
+  "id": 83094004,
+  "name": "Aeropixthree",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn (Quick Effect): You can target 1 face-up monster your opponent controls in this card\u0027s column; move this card you control to another of your Main Monster Zones, and if you do, move that opponent\u0027s monster to their Main Monster Zone in this card\u0027s column, then place 1 Burnup Counter on it. (Monsters with Burnup Counters lose 200 ATK/DEF for each Burnup Counter on it.)",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83094004.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 200,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 200,
+  "level": 1,
+  "is_tuner": true
+}

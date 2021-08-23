@@ -1,0 +1,21 @@
+{
+  "id": 65430555,
+  "name": "Beetrooper Sting Lancer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase (Quick Effect): You can target 1 Insect monster in your GY and 1 monster in your opponent\u0027s GY; Special Summon this card from your hand, and if you do, place the targeted monsters on the bottoms of the Decks. If this card is Normal or Special Summoned: You can add 1 \"Beetrooper\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Beetrooper Sting Lancer\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/65430555.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2400,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

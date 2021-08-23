@@ -1,0 +1,21 @@
+{
+  "id": 99456344,
+  "name": "Dramaturge of Despia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/99456344.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

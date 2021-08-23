@@ -1,0 +1,21 @@
+{
+  "id": 93880808,
+  "name": "Arcana Triumph Joker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand or GY: You can send 1 \"Queen\u0027s Knight\", \"King\u0027s Knight\", and \"Jack\u0027s Knight\" from your hand and/or face-up Monster Zone to the GY; Special Summon this card. This card gains 500 ATK x the combined number of cards in both players\u0027 hands. You can discard 1 card; destroy all face-up cards your opponent controls with the same type (Monster, Spell, or Trap) as the discarded card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/93880808.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

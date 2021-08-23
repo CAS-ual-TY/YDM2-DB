@@ -1,0 +1,21 @@
+{
+  "id": 31525442,
+  "name": "Zolga the Prophet",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control an EARTH Fairy monster, except \"Zolga the Prophet\": You can Special Summon this card from your hand, then look at up to 5 cards from the top of each player\u0027s Deck. When a monster that was Normal Summoned by Tributing this card declares an attack: You can banish this card from your GY; destroy that monster, and if you do, inflict 2000 damage to your opponent. You can only use each effect of \"Zolga the Prophet\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/31525442.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Fairy",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

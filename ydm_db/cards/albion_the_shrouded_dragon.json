@@ -1,0 +1,21 @@
+{
+  "id": 25451383,
+  "name": "Albion the Shrouded Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card\u0027s name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.\n● Hand: Special Summon this card.\n● Deck: Place this card on the bottom of the Deck, then, if you placed this card from your hand, draw 1 card.\nYou can only use this effect of \"Albion the Shrouded Dragon\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/25451383.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 77384395,
+  "name": "Pazuzule",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Pendulum Summons of your monsters cannot be negated.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/77384395.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 1,
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
+}

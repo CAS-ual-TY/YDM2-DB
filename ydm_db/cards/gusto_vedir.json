@@ -1,0 +1,21 @@
+{
+  "id": 86277379,
+  "name": "Gusto Vedir",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up \"Gusto\" monster on the field is destroyed by battle or sent to your GY: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Gusto\" monster from your Deck to the GY, then, you can Special Summon 1 \"Gusto\" monster from your hand. You can only use each effect of \"Gusto Vedir\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/86277379.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 600,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 37799519,
+  "name": "Stardust Synchron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand or GY: You can Tribute 1 monster; Special Summon this card, but banish it when it leaves the field, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your Deck to your hand that specifically lists \"Stardust Dragon\" in its text. You can only use each effect of \"Stardust Synchron\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/37799519.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 76937326,
+  "name": "Daigusto Laplampilica",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner \"Gusto\" monsters\nYou can only Special Summon \"Daigusto Laplampilica\" once per turn. If this card is Synchro Summoned: You can Special Summon 1 \"Gusto\" monster from your hand and 1 \"Gusto\" monster from your Deck, but negate their effects, then immediately after this effect resolves, Synchro Summon 1 \"Gusto\" Synchro Monster using only those 2 monsters, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. Your opponent cannot target other \"Gusto\" Synchro Monsters you control with card effects.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/76937326.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1900,
+  "species": "Psychic",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 6,
+  "is_tuner": false
+}
