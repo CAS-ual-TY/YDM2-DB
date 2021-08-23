@@ -1,0 +1,16 @@
+{
+  "name": "Duel Art Campaign Promotional Card",
+  "code": "YGOPR",
+  "type": "Misc.",
+  "date": "10-12-2011",
+  "image": "https://i.imgur.com/Ti2I3OP.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 10000040,
+      "code": "YGOPR-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

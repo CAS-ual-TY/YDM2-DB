@@ -1,0 +1,21 @@
+{
+  "id": 40939228,
+  "name": "Shooting Majestic Star Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Majestic Dragon\" + 1+ non-Tuner monsters, including a Dragon Synchro Monster\nMust first be Synchro Summoned. Once per turn: You can negate the effects of 1 Effect Monster your opponent controls. This card gains 1 additional attack each Battle Phase for every monster in your GY that is \"Stardust Dragon\" or is a Synchro Monster with \"Stardust Dragon\" in its text. Once per turn, when your opponent activates a card or effect (Quick Effect): You can banish this card (until the End Phase), and if you do, negate the activation, and if you do that, banish that card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/40939228.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 4000,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3300,
+  "level": 11,
+  "is_tuner": false
+}

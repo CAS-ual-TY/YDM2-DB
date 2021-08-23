@@ -1,0 +1,21 @@
+{
+  "id": 58066722,
+  "name": "Alien Stealthbuster",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent to the GY: You can target 1 face-up monster on the field; place 2 A-Counters on it. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 card with an A-Counter; destroy it. You can only use each effect of \"Alien Stealthbuster\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/58066722.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

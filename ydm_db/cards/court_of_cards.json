@@ -1,0 +1,12 @@
+{
+  "id": 28340377,
+  "name": "Court of Cards",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters, or only control \"Queen\u0027s Knight\", \"King\u0027s Knight\", and/or \"Jack\u0027s Knight\": You can Special Summon 1 \"Queen\u0027s Knight\", \"King\u0027s Knight\", or \"Jack\u0027s Knight\" from your hand or GY. You can banish up to 1 each \"Queen\u0027s Knight\", \"King\u0027s Knight\", and/or \"Jack\u0027s Knight\" from your hand and/or GY; draw the same number of cards you banished. You can only use 1 \"Court of Cards\" effect per turn, and only once that turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/28340377.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

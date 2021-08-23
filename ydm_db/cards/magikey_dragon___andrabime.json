@@ -1,0 +1,21 @@
+{
+  "id": 71159974,
+  "name": "Magikey Dragon - Andrabime",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Magikey\" Effect Monster + 1 Normal Monster, except a Token\nWhen this card is Fusion Summoned, your opponent cannot activate cards or effects. Once per turn: You can target 1 Normal Monster or \"Magikey\" monster in your GY; destroy all monsters your opponent controls with that monster\u0027s Attribute. Once per turn, if an opponent\u0027s monster with the same Attribute as a monster in your GY is destroyed by battle or card effect, if this card was Fusion Summoned using 2 different Attributes as material: You can draw 1 card.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/71159974.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2800,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

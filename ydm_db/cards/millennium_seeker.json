@@ -1,0 +1,21 @@
+{
+  "id": 5130393,
+  "name": "Millennium Seeker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When you take 1000 or more battle or effect damage: You can Special Summon this card from your hand. You can target 1 monster in your opponent\u0027s GY, except a monster with ? ATK; your opponent can choose 1 monster from their Deck, except a monster with ? ATK. If they chose not to, or if the targeted monster has higher ATK than the chosen monster, Special Summon the targeted monster to your field, and if you do, shuffle the chosen monster back into the Deck. Otherwise, your opponent adds the chosen monster to the hand. You can only use each effect of \"Millennium Seeker\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/5130393.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

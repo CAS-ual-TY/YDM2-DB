@@ -1,0 +1,491 @@
+{
+  "name": "King\u0027s Court",
+  "code": "KICO",
+  "type": "60 Card Set",
+  "date": "07-08-2021",
+  "image": "https://ygoprodeck.com/pics_sets/KICO.jpg",
+  "pull_type": "distribution",
+  "distribution": "60_card_set_with_collector_s_rare",
+  "cards": [
+    {
+      "id": 93880808,
+      "code": "KICO-001",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93880808,
+      "code": "KICO-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29284413,
+      "code": "KICO-002",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29284413,
+      "code": "KICO-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56673112,
+      "code": "KICO-003",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56673112,
+      "code": "KICO-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92067220,
+      "code": "KICO-004",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92067220,
+      "code": "KICO-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29062925,
+      "code": "KICO-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55557574,
+      "code": "KICO-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81945678,
+      "code": "KICO-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28340377,
+      "code": "KICO-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54734082,
+      "code": "KICO-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21723081,
+      "code": "KICO-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78642798,
+      "code": "KICO-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31525442,
+      "code": "KICO-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26973555,
+      "code": "KICO-013",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26973555,
+      "code": "KICO-013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49161188,
+      "code": "KICO-014",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49161188,
+      "code": "KICO-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93169863,
+      "code": "KICO-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12678601,
+      "code": "KICO-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58062306,
+      "code": "KICO-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85457355,
+      "code": "KICO-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84335863,
+      "code": "KICO-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10723472,
+      "code": "KICO-020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83512285,
+      "code": "KICO-021",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83512285,
+      "code": "KICO-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19501924,
+      "code": "KICO-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46005939,
+      "code": "KICO-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72490637,
+      "code": "KICO-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45283341,
+      "code": "KICO-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "KICO-026",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25652259,
+      "code": "KICO-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "KICO-027",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64788463,
+      "code": "KICO-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "KICO-028",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90876561,
+      "code": "KICO-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6150044,
+      "code": "KICO-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64454614,
+      "code": "KICO-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24317029,
+      "code": "KICO-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21159309,
+      "code": "KICO-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68543408,
+      "code": "KICO-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85138716,
+      "code": "KICO-034",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85138716,
+      "code": "KICO-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81471108,
+      "code": "KICO-035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18865703,
+      "code": "KICO-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29353756,
+      "code": "KICO-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50278554,
+      "code": "KICO-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9348522,
+      "code": "KICO-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83755611,
+      "code": "KICO-040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19048328,
+      "code": "KICO-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84013237,
+      "code": "KICO-042",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84013237,
+      "code": "KICO-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42752141,
+      "code": "KICO-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77334267,
+      "code": "KICO-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56840427,
+      "code": "KICO-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38495396,
+      "code": "KICO-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60992364,
+      "code": "KICO-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16259549,
+      "code": "KICO-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65305468,
+      "code": "KICO-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94163677,
+      "code": "KICO-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "KICO-051",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "KICO-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95281259,
+      "code": "KICO-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40450317,
+      "code": "KICO-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98645731,
+      "code": "KICO-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 911883,
+      "code": "KICO-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87571563,
+      "code": "KICO-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14532163,
+      "code": "KICO-057",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14532163,
+      "code": "KICO-057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90846359,
+      "code": "KICO-058",
+      "rarity": "Collector\u0027s Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90846359,
+      "code": "KICO-058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20007374,
+      "code": "KICO-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62180201,
+      "code": "KICO-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21208154,
+      "code": "KICO-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57793869,
+      "code": "KICO-062",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000020,
+      "code": "KICO-063",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000000,
+      "code": "KICO-064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000010,
+      "code": "KICO-065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10505300,
+  "name": "Slower Swallow",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If 2 or more monsters with the same Level are on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Slower Swallow\" once per turn this way. You can Tribute this card; draw 2 cards instead of 1 for your normal draw during your next Draw Phase.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/10505300.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 100,
+  "species": "Winged Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

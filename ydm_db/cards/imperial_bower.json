@@ -1,0 +1,21 @@
+{
+  "id": 56673112,
+  "name": "Imperial Bower",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no other monsters: You can Tribute this card; take 2 different monsters from your Deck among \"Queen\u0027s Knight\", \"King\u0027s Knight\", and/or \"Jack\u0027s Knight\", and either add to your hand or Special Summon each monster. You can only use this effect of \"Imperial Bower\" once per turn.",
+  "images": [
+    "https://storage.googleapis.com/ygoprodeck.com/pics/56673112.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}
