@@ -3,9 +3,9 @@
   "name": "Bad Luck Blast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up monster your opponent controls; take damage equal to half its ATK, then inflict damage to your opponent, equal to the damage you took. If this card you control is destroyed by an opponent\u0027s card and sent to your Graveyard: Inflict 1000 damage to your opponent. You can only activate 1 \"Bad Luck Blast\" per turn.",
+  "text": "Target 1 face-up monster your opponent controls; take damage equal to half its ATK, then inflict damage to your opponent, equal to the damage you took. If this card you control is destroyed by an opponent's card and sent to your Graveyard: Inflict 1000 damage to your opponent. You can only activate 1 \"Bad Luck Blast\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/76004142.jpg"
+    "https://images.ygoprodeck.com/images/cards/76004142.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

@@ -3,9 +3,9 @@
   "name": "Trick Box",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a face-up \"Performage\" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Target 1 monster your opponent controls; take control of it until the End Phase, then Special Summon 1 \"Performage\" monster from your Graveyard to your opponent\u0027s field. During the End Phase of this turn, give control of the monster Special Summoned by this effect to its owner.",
+  "text": "If a face-up \"Performage\" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Target 1 monster your opponent controls; take control of it until the End Phase, then Special Summon 1 \"Performage\" monster from your Graveyard to your opponent's field. During the End Phase of this turn, give control of the monster Special Summoned by this effect to its owner.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/93983867.jpg"
+    "https://images.ygoprodeck.com/images/cards/93983867.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

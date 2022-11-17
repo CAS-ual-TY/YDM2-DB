@@ -3,9 +3,9 @@
   "name": "Krystal Avatar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an opponent\u0027s monster declares a direct attack, if its ATK is greater than or equal to your LP: Special Summon this card in Attack Position as an Effect Monster (Warrior-Type/LIGHT/Level 4/ATK ?/DEF 0) that has ATK equal to your LP, then change the attack target to this card. (This card is also still a Trap Card.) If this card Summoned this way is destroyed by battle, after damage calculation: Inflict damage to your opponent equal to its ATK.",
+  "text": "When an opponent's monster declares a direct attack, if its ATK is greater than or equal to your LP: Special Summon this card in Attack Position as an Effect Monster (Warrior-Type/LIGHT/Level 4/ATK ?/DEF 0) that has ATK equal to your LP, then change the attack target to this card. (This card is also still a Trap Card.) If this card Summoned this way is destroyed by battle, after damage calculation: Inflict damage to your opponent equal to its ATK.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/20960340.jpg"
+    "https://images.ygoprodeck.com/images/cards/20960340.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

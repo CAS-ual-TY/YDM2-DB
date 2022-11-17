@@ -3,9 +3,9 @@
   "name": "Needle Wall",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during your Standby Phase: Roll a six-sided die. Treat your opponent\u0027s Main Monster Zones as numbers 1-5, counting from your right, and destroy the monster that is in the same Main Monster Zone as the result. If the result is 6, roll again.",
+  "text": "Once per turn, during your Standby Phase: Roll a six-sided die. Treat your opponent's Main Monster Zones as numbers 1-5, counting from your right, and destroy the monster that is in the same Main Monster Zone as the result. If the result is 6, roll again.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/38299233.jpg"
+    "https://images.ygoprodeck.com/images/cards/38299233.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

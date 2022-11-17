@@ -3,9 +3,9 @@
   "name": "Judgment of Anubis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent activates a Spell Card that would destroy a Spell/Trap Card(s) on the field: Discard 1 card; negate the activation, and if you do, destroy it, then you can destroy 1 face-up monster your opponent controls, and if you do that, inflict damage to your opponent equal to the destroyed monster\u0027s ATK on the field.",
+  "text": "When your opponent activates a Spell Card that would destroy a Spell/Trap Card(s) on the field: Discard 1 card; negate the activation, and if you do, destroy it, then you can destroy 1 face-up monster your opponent controls, and if you do that, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/55256016.jpg"
+    "https://images.ygoprodeck.com/images/cards/55256016.jpg"
   ],
   "type": "Trap",
   "trap_type": "Counter"

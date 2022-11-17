@@ -3,9 +3,9 @@
   "name": "Snake Fang",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Decrease 1 selected monster\u0027s DEF by 500 points during the turn this card is activated.",
+  "text": "Decrease 1 selected monster's DEF by 500 points during the turn this card is activated.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/596051.jpg"
+    "https://images.ygoprodeck.com/images/cards/596051.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

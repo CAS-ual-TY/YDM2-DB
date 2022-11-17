@@ -3,9 +3,9 @@
   "name": "One or Eight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your LP are lower than your opponent\u0027s: Reveal the top card of your Deck, and if it is Level 1 or 8, add it to your hand or Special Summon it. Otherwise, your opponent can apply 1 of these effects.\n? The player who activated this card has their LP become 1000.\n? The opponent of the player who activated this card gains LP so it becomes 8000.\nYou can only activate 1 \"One or Eight\" per turn.",
+  "text": "If your LP are lower than your opponent's: Reveal the top card of your Deck, and if it is Level 1 or 8, add it to your hand or Special Summon it. Otherwise, your opponent can apply 1 of these effects.\n? The player who activated this card has their LP become 1000.\n? The opponent of the player who activated this card gains LP so it becomes 8000.\nYou can only activate 1 \"One or Eight\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/74202664.jpg"
+    "https://images.ygoprodeck.com/images/cards/74202664.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

@@ -3,9 +3,9 @@
   "name": "Defense Draw",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent\u0027s turn, at damage calculation: Make the battle damage you take from this battle 0, and if you do, draw 1 card.",
+  "text": "During your opponent's turn, at damage calculation: Make the battle damage you take from this battle 0, and if you do, draw 1 card.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/24268052.jpg"
+    "https://images.ygoprodeck.com/images/cards/24268052.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

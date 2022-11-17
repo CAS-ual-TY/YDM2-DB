@@ -3,9 +3,9 @@
   "name": "Attack of the Cornered Rat",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a Level 3 or lower Normal Monster you control battles, during the Damage Step you can pay Life Points in multiples of 100. The ATK of the opponent\u0027s monster is reduced by the amount of Life Points you paid, until the End Phase. (You cannot pay more Life Points than the ATK of the opponent\u0027s monster.)",
+  "text": "If a Level 3 or lower Normal Monster you control battles, during the Damage Step you can pay Life Points in multiples of 100. The ATK of the opponent's monster is reduced by the amount of Life Points you paid, until the End Phase. (You cannot pay more Life Points than the ATK of the opponent's monster.)",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/84389640.jpg"
+    "https://images.ygoprodeck.com/images/cards/84389640.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

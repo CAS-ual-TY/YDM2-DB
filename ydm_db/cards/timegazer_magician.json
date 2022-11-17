@@ -3,9 +3,9 @@
   "name": "Timegazer Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent\u0027s card effect, is not destroyed.",
+  "text": "Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/20409757.jpg"
+    "https://images.ygoprodeck.com/images/cards/20409757.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -18,7 +18,7 @@
   "def": 600,
   "level": 3,
   "is_tuner": false,
-  "pendulum_text": "You must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card\u0027s Pendulum Scale becomes 4.\n",
+  "pendulum_text": "You must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n",
   "pendulum_scale_left_blue": 8,
   "pendulum_scale_right_red": 8
 }

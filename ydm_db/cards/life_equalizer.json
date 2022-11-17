@@ -3,9 +3,9 @@
   "name": "Life Equalizer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when the difference between both players\u0027 Life Points is 8000 or more. Both players\u0027 Life Points become 3000.",
+  "text": "Activate only when the difference between both players' Life Points is 8000 or more. Both players' Life Points become 3000.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/17178486.jpg"
+    "https://images.ygoprodeck.com/images/cards/17178486.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

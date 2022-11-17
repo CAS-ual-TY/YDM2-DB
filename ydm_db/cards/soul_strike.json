@@ -3,9 +3,9 @@
   "name": "Soul Strike",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your LP is 4000 or less, when an attack is declared involving a monster you control and an opponent\u0027s monster: Pay half your LP, then target 1 face-up monster you control; it gains ATK equal to the deficit between your current LP and 4000 until the end of your opponent\u0027s turn. You can only activate 1 \"Soul Strike\" per turn.",
+  "text": "If your LP is 4000 or less, when an attack is declared involving a monster you control and an opponent's monster: Pay half your LP, then target 1 face-up monster you control; it gains ATK equal to the deficit between your current LP and 4000 until the end of your opponent's turn. You can only activate 1 \"Soul Strike\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/36376145.jpg"
+    "https://images.ygoprodeck.com/images/cards/36376145.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

@@ -3,9 +3,9 @@
   "name": "Ordeal of a Traveler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an opponent\u0027s monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.",
+  "text": "When an opponent's monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/39537362.jpg"
+    "https://images.ygoprodeck.com/images/cards/39537362.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

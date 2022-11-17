@@ -3,9 +3,9 @@
   "name": "Timebreaker Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card\u0027s ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field, but return them in your next Standby Phase.",
+  "text": "When this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field, but return them in your next Standby Phase.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/80335817.jpg"
+    "https://images.ygoprodeck.com/images/cards/80335817.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -18,7 +18,7 @@
   "def": 0,
   "level": 3,
   "is_tuner": false,
-  "pendulum_text": "Each turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent\u0027s card effect, is not destroyed.\n",
+  "pendulum_text": "Each turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.\n",
   "pendulum_scale_left_blue": 2,
   "pendulum_scale_right_red": 2
 }

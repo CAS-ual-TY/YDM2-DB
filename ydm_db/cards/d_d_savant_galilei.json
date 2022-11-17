@@ -3,9 +3,9 @@
   "name": "D/D Savant Galilei",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player\u0027s turn: You can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card you control; return it to the hand. You can only use this effect of \"D/D Savant Galilei\" once per turn.",
+  "text": "During either player's turn: You can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card you control; return it to the hand. You can only use this effect of \"D/D Savant Galilei\" once per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/74605254.jpg"
+    "https://images.ygoprodeck.com/images/cards/74605254.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -18,7 +18,7 @@
   "def": 0,
   "level": 10,
   "is_tuner": false,
-  "pendulum_text": "You cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Increase this card\u0027s Pendulum Scale by 2 (max. 10), then destroy all monsters you control with a Level less than or equal to this card\u0027s Pendulum Scale, except \"D/D\" monsters.\n",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Increase this card's Pendulum Scale by 2 (max. 10), then destroy all monsters you control with a Level less than or equal to this card's Pendulum Scale, except \"D/D\" monsters.\n",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

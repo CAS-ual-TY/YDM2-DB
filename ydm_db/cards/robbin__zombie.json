@@ -1,11 +1,11 @@
 {
   "id": 83258273,
-  "name": "Robbin\u0027 Zombie",
+  "name": "Robbin' Zombie",
   "is_illegal": false,
   "is_custom": false,
   "text": "If your monster inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/83258273.jpg"
+    "https://images.ygoprodeck.com/images/cards/83258273.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"
