@@ -3,9 +3,9 @@
   "name": "Tour of Doom",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent\u0027s Standby Phase, toss a coin. ? Heads: Your opponent cannot Normal Summon or Flip Summon until the End Phase. ? Tails: You cannot Normal Summon or Flip Summon during your next turn.",
+  "text": "During your opponent's Standby Phase, toss a coin. ? Heads: Your opponent cannot Normal Summon or Flip Summon until the End Phase. ? Tails: You cannot Normal Summon or Flip Summon during your next turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/62784717.jpg"
+    "https://images.ygoprodeck.com/images/cards/62784717.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

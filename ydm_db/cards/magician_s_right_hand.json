@@ -1,11 +1,11 @@
 {
   "id": 87769556,
-  "name": "Magician\u0027s Right Hand",
+  "name": "Magician's Right Hand",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate the effect of your opponent\u0027s first Spell Card or effect that resolves each turn while you control a Spellcaster monster, and if you do, or if it did not have an effect, destroy that card.",
+  "text": "Negate the effect of your opponent's first Spell Card or effect that resolves each turn while you control a Spellcaster monster, and if you do, or if it did not have an effect, destroy that card.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/87769556.jpg"
+    "https://images.ygoprodeck.com/images/cards/87769556.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

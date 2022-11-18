@@ -3,9 +3,9 @@
   "name": "Continuous Destruction Punch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If the DEF of the attacked Defense Position monster on your side of the field is higher than the ATK of the attacking monster on your opponent\u0027s side of the field, destroy the attacking monster. Damage calculation is applied normally.",
+  "text": "If the DEF of the attacked Defense Position monster on your side of the field is higher than the ATK of the attacking monster on your opponent's side of the field, destroy the attacking monster. Damage calculation is applied normally.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/68057622.jpg"
+    "https://images.ygoprodeck.com/images/cards/68057622.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

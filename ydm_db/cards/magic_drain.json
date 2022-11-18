@@ -3,9 +3,9 @@
   "name": "Magic Drain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card\u0027s effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.",
+  "text": "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/59344077.jpg"
+    "https://images.ygoprodeck.com/images/cards/59344077.jpg"
   ],
   "type": "Trap",
   "trap_type": "Counter"

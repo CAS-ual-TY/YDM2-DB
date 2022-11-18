@@ -3,10 +3,10 @@
   "name": "Widespread Ruin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an opponent\u0027s monster declares an attack: Destroy the Attack Position monster your opponent controls with the highest ATK (your choice, if tied).",
+  "text": "When an opponent's monster declares an attack: Destroy the Attack Position monster your opponent controls with the highest ATK (your choice, if tied).",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/77754944.jpg",
-    "https://storage.googleapis.com/ygoprodeck.com/pics/77754945.jpg"
+    "https://images.ygoprodeck.com/images/cards/77754944.jpg",
+    "https://images.ygoprodeck.com/images/cards/77754945.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

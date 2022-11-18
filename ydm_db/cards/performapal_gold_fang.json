@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "If this card is Normal or Special Summoned: All \"Performapal\" monsters you currently control gain 200 ATK until the end of this turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/64207696.jpg"
+    "https://images.ygoprodeck.com/images/cards/64207696.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
@@ -18,7 +18,7 @@
   "def": 700,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "Once per turn, if your \"Performapal\" monster destroys an opponent\u0027s monster by battle: Inflict 1000 damage to your opponent.\n",
+  "pendulum_text": "Once per turn, if your \"Performapal\" monster destroys an opponent's monster by battle: Inflict 1000 damage to your opponent.\n",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

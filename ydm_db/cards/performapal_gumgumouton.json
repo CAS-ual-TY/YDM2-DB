@@ -3,9 +3,9 @@
   "name": "Performapal Gumgumouton",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, when an attack is declared involving a monster you control and an opponent\u0027s monster: You can activate this effect; that monster you control cannot be destroyed by that battle.",
+  "text": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; that monster you control cannot be destroyed by that battle.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/8384771.jpg"
+    "https://images.ygoprodeck.com/images/cards/8384771.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
@@ -18,7 +18,7 @@
   "def": 2400,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "Once per turn, when an attack is declared involving a monster you control and an opponent\u0027s monster: You can activate this effect; that monster you control cannot be destroyed by that battle.\n",
+  "pendulum_text": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; that monster you control cannot be destroyed by that battle.\n",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

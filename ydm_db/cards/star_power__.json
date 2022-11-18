@@ -3,9 +3,9 @@
   "name": "Star Power!!",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, if your Link Monster battles an opponent\u0027s monster: Your monster gains ATK equal to the total Levels/Ranks of the monsters it points to x 400, during that damage calculation only. You can only activate 1 \"Star Power!!\" per turn.",
+  "text": "During damage calculation, if your Link Monster battles an opponent's monster: Your monster gains ATK equal to the total Levels/Ranks of the monsters it points to x 400, during that damage calculation only. You can only activate 1 \"Star Power!!\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/76500786.jpg"
+    "https://images.ygoprodeck.com/images/cards/76500786.jpg"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

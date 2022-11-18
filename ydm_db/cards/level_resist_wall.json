@@ -3,9 +3,9 @@
   "name": "Level Resist Wall",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a monster(s) you control is destroyed by battle or an opponent\u0027s card effect: Target 1 of those monsters; Special Summon monster(s) from your Deck in Defense Position so their combined Levels equal the Level of that monster, but negate their effects. You can only activate 1 \"Level Resist Wall\" per turn.",
+  "text": "If a monster(s) you control is destroyed by battle or an opponent's card effect: Target 1 of those monsters; Special Summon monster(s) from your Deck in Defense Position so their combined Levels equal the Level of that monster, but negate their effects. You can only activate 1 \"Level Resist Wall\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/86133013.jpg"
+    "https://images.ygoprodeck.com/images/cards/86133013.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

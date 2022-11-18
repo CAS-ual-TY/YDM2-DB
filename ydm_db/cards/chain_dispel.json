@@ -3,9 +3,9 @@
   "name": "Chain Dispel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a Spell/Trap Card is activated: Destroy all cards in the controller\u0027s Deck with the same name as the activated card.",
+  "text": "When a Spell/Trap Card is activated: Destroy all cards in the controller's Deck with the same name as the activated card.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/3171055.jpg"
+    "https://images.ygoprodeck.com/images/cards/3171055.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

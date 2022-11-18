@@ -3,9 +3,9 @@
   "name": "Power Pickaxe",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can select and remove from play 1 monster in your opponent\u0027s Graveyard whose Level is less than or equal to the equipped monster\u0027s, and have the equipped monster gain 500 ATK until the End Phase.",
+  "text": "Once per turn, you can select and remove from play 1 monster in your opponent's Graveyard whose Level is less than or equal to the equipped monster's, and have the equipped monster gain 500 ATK until the End Phase.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/90246973.jpg"
+    "https://images.ygoprodeck.com/images/cards/90246973.jpg"
   ],
   "type": "Spell",
   "spell_type": "Equip"

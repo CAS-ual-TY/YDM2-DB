@@ -3,9 +3,9 @@
   "name": "TA.I. Strike",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, if your monster battles an opponent\u0027s monster: Your battling monster\u0027s ATK becomes that opponent\u0027s monster\u0027s ATK, during that damage calculation only, also, the controller of any monster destroyed by that battle takes damage equal to its original ATK, at the end of the Damage Step. If your \"@Ignister\" monster would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"TA.I. Strike\" per turn.",
+  "text": "During damage calculation, if your monster battles an opponent's monster: Your battling monster's ATK becomes that opponent's monster's ATK, during that damage calculation only, also, the controller of any monster destroyed by that battle takes damage equal to its original ATK, at the end of the Damage Step. If your \"@Ignister\" monster would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"TA.I. Strike\" per turn.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/86449372.jpg"
+    "https://images.ygoprodeck.com/images/cards/86449372.jpg"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

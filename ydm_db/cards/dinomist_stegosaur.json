@@ -3,9 +3,9 @@
   "name": "Dinomist Stegosaur",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If another Pendulum Monster you control battles an opponent\u0027s monster, after damage calculation: You can destroy those monsters.",
+  "text": "If another Pendulum Monster you control battles an opponent's monster, after damage calculation: You can destroy those monsters.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/1580833.jpg"
+    "https://images.ygoprodeck.com/images/cards/1580833.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
@@ -18,7 +18,7 @@
   "def": 1800,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent\u0027s card effect, you can destroy this card instead.\n",
+  "pendulum_text": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.\n",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

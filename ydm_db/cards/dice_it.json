@@ -3,9 +3,9 @@
   "name": "Dice It",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Roll a six-sided die. Apply this effect, depending on whose turn it is.\n? During your turn: Banish cards from your GY equal to the result. Then, if the result was 1, send 6 cards from the top of your Deck to the GY.\n? During your opponent\u0027s turn: Send cards from the top of your Deck to the GY equal to the result. Then, if the result was 6, banish 1 card from your GY.",
+  "text": "Roll a six-sided die. Apply this effect, depending on whose turn it is.\n? During your turn: Banish cards from your GY equal to the result. Then, if the result was 1, send 6 cards from the top of your Deck to the GY.\n? During your opponent's turn: Send cards from the top of your Deck to the GY equal to the result. Then, if the result was 6, banish 1 card from your GY.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/8868767.jpg"
+    "https://images.ygoprodeck.com/images/cards/8868767.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

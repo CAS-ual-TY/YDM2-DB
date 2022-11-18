@@ -3,9 +3,9 @@
   "name": "Magical Thorn",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent\u0027s card(s) in their hand are discarded to the Graveyard, inflict 500 points of damage to their Life Points for each card that was discarded.",
+  "text": "When your opponent's card(s) in their hand are discarded to the Graveyard, inflict 500 points of damage to their Life Points for each card that was discarded.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/53119267.jpg"
+    "https://images.ygoprodeck.com/images/cards/53119267.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

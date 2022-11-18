@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "If this card is Normal Summoned: Change it to Defense Position. Monsters your opponent controls cannot target face-up \"Yosenju\" monsters for attacks, except this one.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/91420254.jpg"
+    "https://images.ygoprodeck.com/images/cards/91420254.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
@@ -18,7 +18,7 @@
   "def": 2100,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "Once per turn, if you have a \"Yosenju\" card in your other Pendulum Zone: You can make this card\u0027s Pendulum Scale become 11 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Yosenju\" monsters (even if this card leaves the field).\n",
+  "pendulum_text": "Once per turn, if you have a \"Yosenju\" card in your other Pendulum Zone: You can make this card's Pendulum Scale become 11 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Yosenju\" monsters (even if this card leaves the field).\n",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

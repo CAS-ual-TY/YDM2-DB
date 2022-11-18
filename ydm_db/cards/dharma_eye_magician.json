@@ -3,9 +3,9 @@
   "name": "Dharma-Eye Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent\u0027s card effects during the turn this card was Pendulum Summoned.",
+  "text": "While this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent's card effects during the turn this card was Pendulum Summoned.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/88757791.jpg"
+    "https://images.ygoprodeck.com/images/cards/88757791.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
@@ -18,7 +18,7 @@
   "def": 2500,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "Once per turn: You can reveal 1 Pendulum Monster from your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target\u0027s Pendulum Scale becomes the same as the revealed Pendulum Monster\u0027s, until the end of this turn (even if this card leaves the field).\n",
+  "pendulum_text": "Once per turn: You can reveal 1 Pendulum Monster from your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).\n",
   "pendulum_scale_left_blue": 2,
   "pendulum_scale_right_red": 2
 }

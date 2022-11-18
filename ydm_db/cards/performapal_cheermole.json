@@ -3,9 +3,9 @@
   "name": "Performapal Cheermole",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 1 monster whose current ATK is different from its original ATK; apply the appropriate effect. You can only use this effect of \"Performapal Cheermole\" once per turn.\n?If that monster\u0027s current ATK is higher than its original ATK, it gains 1000 ATK.\n?If that monster\u0027s current ATK is lower than its original ATK, it loses 1000 ATK.",
+  "text": "You can target 1 monster whose current ATK is different from its original ATK; apply the appropriate effect. You can only use this effect of \"Performapal Cheermole\" once per turn.\n?If that monster's current ATK is higher than its original ATK, it gains 1000 ATK.\n?If that monster's current ATK is lower than its original ATK, it loses 1000 ATK.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/17857780.jpg"
+    "https://images.ygoprodeck.com/images/cards/17857780.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

@@ -3,9 +3,9 @@
   "name": "Dark Designator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Declare 1 Monster Card name. If the declared card is in your opponent\u0027s Deck, add 1 of that card to your opponent\u0027s hand.",
+  "text": "Declare 1 Monster Card name. If the declared card is in your opponent's Deck, add 1 of that card to your opponent's hand.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/78053598.jpg"
+    "https://images.ygoprodeck.com/images/cards/78053598.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

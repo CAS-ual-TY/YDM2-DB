@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "The Ghost of Christmas Dinner.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/84046493.jpg"
+    "https://images.ygoprodeck.com/images/cards/84046493.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -18,7 +18,7 @@
   "def": 1000,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card\u0027s Pendulum Scale by that number (max. 10).\n",
+  "pendulum_text": "Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).\n",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }

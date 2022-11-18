@@ -3,9 +3,9 @@
   "name": "Prideful Roar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, if your monster battles an opponent\u0027s monster with a higher ATK: Pay LP equal to the difference in ATK; your monster gains ATK equal to that difference +300, during damage calculation only.",
+  "text": "During damage calculation, if your monster battles an opponent's monster with a higher ATK: Pay LP equal to the difference in ATK; your monster gains ATK equal to that difference +300, during damage calculation only.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/66518841.jpg"
+    "https://images.ygoprodeck.com/images/cards/66518841.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

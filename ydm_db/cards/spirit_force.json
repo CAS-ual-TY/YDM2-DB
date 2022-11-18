@@ -3,9 +3,9 @@
   "name": "Spirit Force",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent\u0027s turn, at damage calculation: Make the battle damage you take from this battle 0, then you can add 1 Warrior-Type Tuner monster with 1500 or less DEF from your Graveyard to your hand.",
+  "text": "During your opponent's turn, at damage calculation: Make the battle damage you take from this battle 0, then you can add 1 Warrior-Type Tuner monster with 1500 or less DEF from your Graveyard to your hand.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/16674846.jpg"
+    "https://images.ygoprodeck.com/images/cards/16674846.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

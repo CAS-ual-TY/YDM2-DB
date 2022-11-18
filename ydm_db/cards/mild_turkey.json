@@ -5,7 +5,7 @@
   "is_custom": false,
   "text": "The taste of victory will bowl you over.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/47558785.jpg"
+    "https://images.ygoprodeck.com/images/cards/47558785.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
@@ -18,7 +18,7 @@
   "def": 2000,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "Once per turn: You can roll a six-sided die. Until the end of this turn, reduce this card\u0027s Pendulum Scale by that number (min. 1).\n",
+  "pendulum_text": "Once per turn: You can roll a six-sided die. Until the end of this turn, reduce this card's Pendulum Scale by that number (min. 1).\n",
   "pendulum_scale_left_blue": 7,
   "pendulum_scale_right_red": 7
 }

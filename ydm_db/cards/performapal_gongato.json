@@ -3,9 +3,9 @@
   "name": "Performapal Gongato",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, when an attack is declared involving a monster you control and an opponent\u0027s monster: You can activate this effect; you take no battle damage from that battle.",
+  "text": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; you take no battle damage from that battle.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/9106362.jpg"
+    "https://images.ygoprodeck.com/images/cards/9106362.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
@@ -18,7 +18,7 @@
   "def": 100,
   "level": 1,
   "is_tuner": false,
-  "pendulum_text": "Once per turn, when an opponent\u0027s monster declares a direct attack: You can activate this effect; you take no battle damage from that battle (even if this card leaves the field).\n",
+  "pendulum_text": "Once per turn, when an opponent's monster declares a direct attack: You can activate this effect; you take no battle damage from that battle (even if this card leaves the field).\n",
   "pendulum_scale_left_blue": 2,
   "pendulum_scale_right_red": 2
 }

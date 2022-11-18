@@ -3,9 +3,9 @@
   "name": "Spell Chronicle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate this card by sending your entire hand to the GY; banish 5 Spells/Traps from your Deck. Each time your opponent activates a Spell Card, place 1 Chronicle Counter on this card when that Spell Card resolves. You can remove 2 Chronicle Counters from this card; your opponent chooses 1 card banished by this card\u0027s effect for you to add to your hand. If this face-up card in the Spell \u0026 Trap Zone leaves the field: You take 500 damage for each card currently banished by this card\u0027s effect.",
+  "text": "Activate this card by sending your entire hand to the GY; banish 5 Spells/Traps from your Deck. Each time your opponent activates a Spell Card, place 1 Chronicle Counter on this card when that Spell Card resolves. You can remove 2 Chronicle Counters from this card; your opponent chooses 1 card banished by this card's effect for you to add to your hand. If this face-up card in the Spell & Trap Zone leaves the field: You take 500 damage for each card currently banished by this card's effect.",
   "images": [
-    "https://storage.googleapis.com/ygoprodeck.com/pics/74402414.jpg"
+    "https://images.ygoprodeck.com/images/cards/74402414.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"
