@@ -1,0 +1,13 @@
+{
+  "rarity": "Super Rare",
+  "layers": [
+    {
+      "image": "rare",
+      "type": "normal"
+    },
+    {
+      "image": "super_rare",
+      "type": "normal"
+    }
+  ]
+}
