@@ -1,0 +1,17 @@
+{
+  "rarity": "Ghost Rare",
+  "layers": [
+    {
+      "image": "rare",
+      "type": "normal"
+    },
+    {
+      "image": "secret_rare",
+      "type": "normal"
+    },
+    {
+      "image": "ghost_rare",
+      "type": "inverted"
+    }
+  ]
+}
