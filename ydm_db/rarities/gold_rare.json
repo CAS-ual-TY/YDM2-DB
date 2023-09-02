@@ -1,0 +1,17 @@
+{
+  "rarity": "Gold Rare",
+  "layers": [
+    {
+      "image": "rare",
+      "type": "normal"
+    },
+    {
+      "image": "gold_rare_active",
+      "type": "normal"
+    },
+    {
+      "image": "gold_rare_passive",
+      "type": "inverted"
+    }
+  ]
+}

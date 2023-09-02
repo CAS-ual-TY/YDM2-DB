@@ -1,0 +1,17 @@
+{
+  "rarity": "Ghost/Gold Rare",
+  "layers": [
+    {
+      "image": "rare",
+      "type": "normal"
+    },
+    {
+      "image": "ghost_gold_rare_active",
+      "type": "normal"
+    },
+    {
+      "image": "ghost_gold_rare_passive",
+      "type": "inverted"
+    }
+  ]
+}

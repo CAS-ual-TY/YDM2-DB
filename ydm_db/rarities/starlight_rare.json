@@ -1,0 +1,17 @@
+{
+  "rarity": "Starlight Rare",
+  "layers": [
+    {
+      "image": "rare",
+      "type": "normal"
+    },
+    {
+      "image": "starlight_rare_passive",
+      "type": "normal"
+    },
+    {
+      "image": "starlight_rare_active",
+      "type": "inverted"
+    }
+  ]
+}

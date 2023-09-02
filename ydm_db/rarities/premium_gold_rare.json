@@ -1,0 +1,17 @@
+{
+  "rarity": "Premium Gold Rare",
+  "layers": [
+    {
+      "image": "rare",
+      "type": "normal"
+    },
+    {
+      "image": "premium_gold_rare",
+      "type": "normal"
+    },
+    {
+      "image": "gold_rare_active",
+      "type": "inverted"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "rarity": "Collector's Rare",
+  "layers": [
+    {
+      "image": "rare",
+      "type": "normal"
+    },
+    {
+      "image": "collectors_rare",
+      "type": "normal"
+    }
+  ]
+}
