@@ -1,0 +1,21 @@
+{
+  "id": 70117791,
+  "name": "Blazing Bombardment Beast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Machine monster + 1 Pyro monster\nIf this card is Special Summoned: You can destroy all monsters your opponent controls with 1900 or less ATK. If this card is sent to the GY: You can target 1 monster your opponent controls with 1900 or less ATK; destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. You can only use each effect of \"Blazing Bombardment Beast\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70117791.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1900,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

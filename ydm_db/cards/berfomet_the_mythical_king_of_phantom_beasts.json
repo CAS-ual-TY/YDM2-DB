@@ -1,0 +1,21 @@
+{
+  "id": 69601012,
+  "name": "Berfomet the Mythical King of Phantom Beasts",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters with different Types (Beast, Fiend, or Illusion)\nThis card's name becomes \"Chimera the Flying Mythical Beast\" while on the field or in the GY. You can only use each of the following effects of \"Berfomet the Mythical King of Phantom Beasts\" once per turn. If this card is Fusion Summoned: You can send 1 Beast, Fiend, or Illusion monster from your Deck to the GY. During your opponent's turn (Quick Effect): You can banish this card from your GY, then target 1 of your banished Beast, Fiend, or Illusion monsters, except \"Berfomet the Mythical King of Phantom Beasts\"; Special Summon it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69601012.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2400,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 600,
+  "level": 6,
+  "is_tuner": false
+}

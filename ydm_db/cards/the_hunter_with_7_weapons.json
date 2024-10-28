@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 3,
   "is_tuner": false

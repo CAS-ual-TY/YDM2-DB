@@ -1,0 +1,21 @@
+{
+  "id": 66401502,
+  "name": "Vanquish Soul Pantera",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters in your Main Monster Zone: You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cf EARTH: This card cannot be destroyed by battle this turn.\n\u25cf EARTH & FIRE: Destroy all Spells/Traps in this card's column.\nYou can only use each effect of \"Vanquish Soul Pantera\" once per turn, and cannot activate more than 1 in the same Chain.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/66401502.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
+}

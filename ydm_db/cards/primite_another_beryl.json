@@ -1,0 +1,21 @@
+{
+  "id": 63198739,
+  "name": "Primite Another Beryl",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal Summoned: You can Set 1 \"Primite\" Spell/Trap from your Deck. You can only use each of the following effects of \"Primite Another Beryl\" once per turn. You can Tribute this card; send 1 Normal Monster from your Deck to the GY. During your Standby Phase, if you have a Normal Monster on your field or in your GY: You can add this card from your GY to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63198739.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

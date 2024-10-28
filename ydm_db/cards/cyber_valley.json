@@ -3,7 +3,7 @@
   "name": "Cyber Valley",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can use 1 of these effects.\n? When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.\n? You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.\n? You can target 1 card in your GY; banish both this card and 1 card from your hand, then place that target on top of the Deck.",
+  "text": "You can activate 1 of these effects.\n\u25cf When this card is targeted for an attack: You can banish this card; draw 1 card, then end the Battle Phase.\n\u25cf You can target 1 face-up monster you control and this card; banish both those targets, then draw 2 cards.\n\u25cf You can target 1 card in your GY; banish both this card and 1 card from your hand, then place that target on top of the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3657444.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 0,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": false

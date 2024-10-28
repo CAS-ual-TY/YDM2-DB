@@ -3,7 +3,7 @@
   "name": "Naturia Sunflower",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it.",
+  "text": "When your opponent's monster effect is activated (Quick Effect): You can Tribute 1 \"Naturia\" monster and this card; negate the activation, and if you do, destroy that card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7478431.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 500,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 2,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 9396662,
+  "name": "Mirror Mage of the Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute 1 other Effect Monster; Special Summon up to 3 \"Ice Barrier Tokens\" (Aqua/WATER/Level 1/ATK 0/DEF 0), and if you do, increase this card's Level by that number, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER Synchro Monsters. If this card is sent to the GY: You can add 1 of your \"Ice Barrier\" cards that is banished or in your Deck to your hand, except \"Mirror Mage of the Ice Barrier\". You can only use each effect of \"Mirror Mage of the Ice Barrier\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9396662.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

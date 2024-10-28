@@ -1,0 +1,12 @@
+{
+  "id": 11808215,
+  "name": "Dice Dungeon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is activated: You can add 1 \"Dimension Dice\" from your Deck to your hand. At the start of the Battle Phase: You can activate this effect; each player rolls a six-sided die and applies the result to all monsters they control, until the end of this turn.\n\u25cf 1: Lose 1000 ATK.\n\u25cf 2: Gain 1000 ATK.\n\u25cf 3: Lose 500 ATK.\n\u25cf 4: Gain 500 ATK.\n\u25cf 5: Halve their ATK.\n\u25cf 6: Double their ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/11808215.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

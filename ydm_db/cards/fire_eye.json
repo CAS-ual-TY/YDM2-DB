@@ -1,0 +1,21 @@
+{
+  "id": 88435542,
+  "name": "Fire Eye",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An eye engulfed in flames that flaps its wings to create hot blasts of air.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/88435542.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

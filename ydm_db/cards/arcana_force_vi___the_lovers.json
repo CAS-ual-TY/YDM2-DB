@@ -3,7 +3,7 @@
   "name": "Arcana Force VI - The Lovers",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Summoned, toss a coin: ? Heads: This card can be treated as 2 Tributes for the Tribute Summon of an \"Arcana Force\" monster. ? Tails: You cannot Tribute Summon \"Arcana Force\" monsters.",
+  "text": "If this card is Summoned: Toss a coin.\n\u25cf Heads: This card can be treated as 2 Tributes for the Tribute Summon of an \"Arcana Force\" monster.\n\u25cf Tails: Neither player can Tribute Summon \"Arcana Force\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97574404.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1600,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

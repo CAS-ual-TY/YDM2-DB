@@ -1,0 +1,21 @@
+{
+  "id": 28004531,
+  "name": "Rex, Freight Fur Hire",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 Spell/Trap \"Fur Hire\" from your Deck to your hand. During the Main Phase, if you control a monster \"Fur Hire\" (Quick Effect): You can banish this card from your GY, then target 1 card \"Fur Hire\" in your GY; either add it to your hand, or Special Summon it if it was a monster. You can only use each effect of \"Rex, Freight Fur Hire\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/28004531.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

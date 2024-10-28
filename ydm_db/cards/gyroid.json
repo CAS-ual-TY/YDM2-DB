@@ -3,7 +3,7 @@
   "name": "Gyroid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, this card cannot be destroyed by battle.",
+  "text": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18325492.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": false

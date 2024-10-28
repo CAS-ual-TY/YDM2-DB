@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 1650,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "While you control an \"Amorphage\" monster, neither player can Tribute monsters, except \"Amorphage\" monsters. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 0,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "While you control an \"Amorphage\" monster, neither player can Tribute monsters, except \"Amorphage\" monsters. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

@@ -3,7 +3,7 @@
   "name": "Elemental HERO Wildedge",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Elemental HERO Wildheart\" + \"Elemental HERO Bladedge\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack every monster your opponent controls (one attack on each monster per Battle Phase).",
+  "text": "\"Elemental HERO Wildheart\" + \"Elemental HERO Bladedge\"\nMust be Fusion Summoned. This card can attack all monsters your opponent controls, once each.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10526791.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2600,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2300,
   "level": 8,
   "is_tuner": false

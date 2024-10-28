@@ -1,0 +1,21 @@
+{
+  "id": 70634245,
+  "name": "Legendary Lord Six Samurai - Enishi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nWarrior monsters you control gain 500 ATK/DEF during the Battle Phase only. You can only use each of the following effects of \"Legendary Lord Six Samurai - Enishi\" once per turn. If this card is Synchro Summoned: You can banish any number of \"Six Samurai\" monsters from your GY, then target that many monsters your opponent controls; return those monsters to the hand. If this card is sent to the GY: You can Special Summon 1 of your banished \"Six Samurai\" monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70634245.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

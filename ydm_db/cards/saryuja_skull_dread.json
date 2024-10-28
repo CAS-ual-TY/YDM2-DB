@@ -3,7 +3,7 @@
   "name": "Saryuja Skull Dread",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ monsters with different names\nThis card gains effects based on the number of materials used for its Link Summon.\n? 2+: If a monster(s) is Normal or Special Summoned to a zone this card points to: That monster(s) gains 300 ATK/DEF.\n? 3+: Once per turn, during your Main Phase: You can Special Summon 1 monster from your hand.\n? 4: When this card is Link Summoned: You can draw 4 cards, then place 3 cards from your hand on the bottom of your Deck in any order.",
+  "text": "2+ monsters with different names\nThis card gains effects based on the number of materials used for its Link Summon.\n\u25cf 2+: If a monster(s) is Normal or Special Summoned to a zone this card points to: That monster(s) gains 300 ATK/DEF.\n\u25cf 3+: Once per turn, during your Main Phase: You can Special Summon 1 monster from your hand.\n\u25cf 4: When this card is Link Summoned: You can draw 4 cards, then place 3 cards from your hand on the bottom of your Deck in any order.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74997493.jpg"
   ],
@@ -11,15 +11,15 @@
   "attribute": "EARTH",
   "atk": 2800,
   "species": "Dragon",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 4,
   "link_arrows": [
-    "Bottom-Left",
-    "Bottom",
+    "Top",
     "Bottom-Right",
-    "Top"
+    "Bottom",
+    "Bottom-Left"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "id": 28954097,
+  "name": "Mirror Swordknight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Mirror Swordknight\" once per turn. (Quick Effect): You can Tribute this card; Special Summon 1 monster from your Deck that mentions \"Chimera Fusion\", except \"Mirror Swordknight\". When a monster your opponent controls activates its effect, while you control \"Chimera the Flying Mythical Beast\" (Quick Effect): You can banish this card from your field or GY; negate that effect.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/28954097.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1900,
+  "species": "Illusion",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
+}

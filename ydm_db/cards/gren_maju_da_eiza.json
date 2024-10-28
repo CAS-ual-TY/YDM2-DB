@@ -3,19 +3,19 @@
   "name": "Gren Maju Da Eiza",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card's ATK/DEF are each equal to the number of your banished cards x 400.",
+  "text": "This card's ATK/DEF become the number of your banished cards x 400.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36584821.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
-  "atk": 0,
+  "atk": -1,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": -1,
   "level": 3,
   "is_tuner": false
 }

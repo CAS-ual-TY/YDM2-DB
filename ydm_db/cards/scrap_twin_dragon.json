@@ -3,7 +3,7 @@
   "name": "Scrap Twin Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Scrap\" Tuner + 1 or more non-Tuner monsters\nOnce per turn, you can select 1 card you control and 2 cards your opponent controls. Destroy the one you control and return the two your opponent controls to the hand. When this card is destroyed by your opponent's card (either by battle or by card effect) and sent to the Graveyard, select 1 non-Synchro \"Scrap\" monster in your Graveyard, and Special Summon it.",
+  "text": "1 \"Scrap\" Tuner + 1+ non-Tuner monsters\nOnce per turn: You can target 1 card you control and 2 cards your opponent controls; destroy the one you control, and if you do, return the ones your opponent controls to the hand. If this card in your possession is destroyed by your opponent's card and sent to your GY: Target 1 non-Synchro \"Scrap\" monster in your GY; Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50278554.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 3000,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2200,
   "level": 9,
   "is_tuner": false

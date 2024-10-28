@@ -3,7 +3,7 @@
   "name": "The Fabled Kudabbi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nThis card gains the following effect based on the number of cards in your hand:\n? 0: This card cannot be destroyed by battle or card effects.\n? 3 or more: Destroy this card during the End Phase.",
+  "text": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\nThis card gains the following effect based on the number of cards in your hand.\n\u25cf 0: Cannot be destroyed by battle or card effects.\n\u25cf 3+: Once per turn, during the End Phase: Destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89194103.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2200,
   "species": "Beast",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1100,
   "level": 4,
   "is_tuner": false

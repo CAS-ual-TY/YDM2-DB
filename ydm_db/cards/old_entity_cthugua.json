@@ -3,7 +3,7 @@
   "name": "Old Entity Cthugua",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can return all Rank 4 Xyz Monsters on the field to the Extra Deck. If you Fusion Summon using this card as Fusion Material: Draw 1 card. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n? If it is Xyz Summoned: Draw 1 card.",
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can return all Rank 4 Xyz Monsters on the field to the Extra Deck. If you Fusion Summon using this card as Fusion Material: Draw 1 card. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n\u25cf If it is Xyz Summoned: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12948099.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2200,
   "species": "Pyro",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 200,
   "level": 4,
   "is_tuner": false

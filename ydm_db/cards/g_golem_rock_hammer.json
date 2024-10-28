@@ -1,0 +1,21 @@
+{
+  "id": 98875863,
+  "name": "G Golem Rock Hammer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can discard 1 other Cyberse monster; reduce this card's Level by 2 until the end of this turn (even after it is Summoned/Set). You can Tribute this card; Special Summon 3 \"G Golem Tokens\" (Cyberse/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. You can only use each effect of \"G Golem Rock Hammer\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98875863.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

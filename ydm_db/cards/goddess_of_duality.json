@@ -1,0 +1,21 @@
+{
+  "id": 50915474,
+  "name": "Goddess of Duality",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 monster from your Deck to your hand that has a coin tossing effect, except \"Goddess of Duality\". During your Main Phase: You can toss a coin and call it. If you call it right, the ATK of all monsters you currently control become doubled until the end of this turn. If you call it wrong, send as many monsters you control as possible to the GY, and if you do, draw 1 card. You can only use each effect of \"Goddess of Duality\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/50915474.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 950,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

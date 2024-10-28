@@ -3,7 +3,7 @@
   "name": "Genex Ally Duradark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during your Main Phase, you can select 1 face-up Attack Position monster your opponent controls with the same Attribute as this card, and destroy it. This card cannot attack the turn you activate this effect.",
+  "text": "Once per turn: You can target 1 Attack Position monster your opponent controls with the same Attribute as this card; destroy that target. This card cannot attack the turn this effect is activated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68450517.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1800,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 4,
   "is_tuner": false

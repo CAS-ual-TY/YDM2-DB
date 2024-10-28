@@ -3,7 +3,7 @@
   "name": "Don Zaloog",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects;\n? Discard 1 random card from their hand.\n? Send the top 2 cards of their Deck to the GY.",
+  "text": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects;\n\u25cf Discard 1 random card from their hand.\n\u25cf Send the top 2 cards of their Deck to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76922029.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1400,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

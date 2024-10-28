@@ -11,14 +11,14 @@
   "attribute": "WATER",
   "atk": 300,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If a \"Performapal\" card is activated in your other Pendulum Zone: You can draw 1 card. You can only use this effect of \"Performapal Guitartle\" once per turn.",
+  "pendulum_scale_left_blue": 6,
+  "pendulum_scale_right_red": 6,
   "def": 400,
   "level": 1,
-  "is_tuner": false,
-  "pendulum_text": "If a \"Performapal\" card is activated in your other Pendulum Zone: You can draw 1 card. You can only use this effect of \"Performapal Guitartle\" once per turn.\n",
-  "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "is_tuner": false
 }

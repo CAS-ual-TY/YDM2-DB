@@ -3,7 +3,7 @@
   "name": "Spirit of Flames",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your Graveyard. This card gains 300 ATK during your Battle Phase only.",
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your GY. Gains 300 ATK during your Battle Phase only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13522325.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 1700,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

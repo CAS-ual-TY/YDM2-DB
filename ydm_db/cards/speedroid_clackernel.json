@@ -1,0 +1,24 @@
+{
+  "id": 65155517,
+  "name": "Speedroid Clackernel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Speedroid Clackernel\" from your hand, Deck, or GY as a Tuner. If your \"Clear Wing\" monster battles while this card is face-up in your Extra Deck, during damage calculation: You can banish this card, and if you do, that monster gains 700 ATK. You can only use each monster effect of \"Speedroid Clackernel\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/65155517.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 200,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You can banish 1 \"Speedroid\" card from your GY; place 1 \"Speedroid\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Special Summon for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Clackernel\" once per turn.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
+  "def": 1800,
+  "level": 2,
+  "is_tuner": false
+}

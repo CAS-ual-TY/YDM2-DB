@@ -3,7 +3,7 @@
   "name": "Madolche Puddingcess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: Shuffle this card into the Deck. While you have no monsters in your Graveyard, this card gains 800 ATK and DEF. After damage calculation, when this card battles an opponent's monster: You can target 1 card your opponent controls; destroy that target.",
+  "text": "Gains 800 ATK/DEF while you have no monsters in your GY. If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. After damage calculation, if this card battles an opponent's monster: You can target 1 card your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74641045.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 5,
   "is_tuner": false

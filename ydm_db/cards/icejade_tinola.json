@@ -1,0 +1,21 @@
+{
+  "id": 28762303,
+  "name": "Icejade Tinola",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send 1 card from your hand to the GY, then target 1 WATER monster in your GY; send this card from the field to the GY, and if you do, Special Summon the targeted monster. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 \"Icejade\" monster from your hand or GY, except \"Icejade Tinola\". You can only use each effect of \"Icejade Tinola\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/28762303.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

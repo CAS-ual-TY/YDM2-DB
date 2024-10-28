@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 3500,
   "species": "Fiend",
-  "monster_type": "Fusion",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "Fusion",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, before damage calculation, if your \"D/D/D\" Fusion Monster battles an opponent's monster: You can make that opponent's monster lose 1000 ATK until the end of this turn (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 3000,
   "level": 10,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, before damage calculation, if your \"D/D/D\" Fusion Monster battles an opponent's monster: You can make that opponent's monster lose 1000 ATK until the end of this turn (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

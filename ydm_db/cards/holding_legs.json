@@ -3,7 +3,7 @@
   "name": "Holding Legs",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Summoned: Return all Set Spell and Trap Cards on the field to the hand. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated until the end of your opponent's next turn.",
+  "text": "If this card is Summoned: Return all Set Spells/Traps on the field to the hand. You can banish this card from your GY, then target 1 Set Spell/Trap your opponent controls; it cannot be activated until the end of the next turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70124586.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 800,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 4,
   "is_tuner": false

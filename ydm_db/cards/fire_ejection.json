@@ -1,0 +1,12 @@
+{
+  "id": 11654067,
+  "name": "Fire Ejection",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Send 1 Pyro monster from your Deck to the GY, then, if you sent a \"Volcanic\" monster to the GY, you can apply 1 of these effects.\n\u25cf Inflict damage to your opponent equal to its Level x 100.\n\u25cf Special Summon 1 \"Bomb Token\" (Pyro/FIRE/Level 1/ATK 1000/DEF 1000) to your opponent's field. Each time 1 is destroyed, its controller takes 500 damage.\nYou can only activate 1 \"Fire Ejection\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/11654067.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

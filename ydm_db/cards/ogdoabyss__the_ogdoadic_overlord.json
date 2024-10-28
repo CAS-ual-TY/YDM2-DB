@@ -1,0 +1,21 @@
+{
+  "id": 97565997,
+  "name": "Ogdoabyss, the Ogdoadic Overlord",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your GY: You can Tribute 3 monsters; Special Summon this card. Once, while this card is face-up on the field (Quick Effect): You can send all monsters from the field to the GY, except face-up monsters Special Summoned from the GY. You can only use each effect of \"Ogdoabyss, the Ogdoadic Overlord\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/97565997.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3100,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2200,
+  "level": 10,
+  "is_tuner": false
+}

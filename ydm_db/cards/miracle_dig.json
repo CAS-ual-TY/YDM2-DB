@@ -3,7 +3,7 @@
   "name": "Miracle Dig",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If 5 or more of your monsters are currently removed from play, return 3 of them to the Graveyard.",
+  "text": "If at least 5 of your monsters are banished: Target 3 of them; return them to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6343408.jpg"
   ],

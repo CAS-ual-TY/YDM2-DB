@@ -3,7 +3,7 @@
   "name": "Yamorimori",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can banish this card from your GY, then target 1 Reptile monster you control and 1 face-up monster your opponent controls, to activate 1 of these effects;\n? Change those monsters to face-down Defense Position.\n? Destroy that monster you control, and if you do, change the ATK of the other monster to 0 until the end of this turn.\nYou can only use this effect of \"Yamorimori\" once per turn.",
+  "text": "You can banish this card from your GY, then target 1 Reptile monster you control and 1 face-up monster your opponent controls, to activate 1 of these effects;\n\u25cf Change those monsters to face-down Defense Position.\n\u25cf Destroy that monster you control, and if you do, change the ATK of the other monster to 0 until the end of this turn.\nYou can only use this effect of \"Yamorimori\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51474037.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 0,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 2,
   "is_tuner": false

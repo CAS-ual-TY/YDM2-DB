@@ -1,0 +1,21 @@
+{
+  "id": 63436931,
+  "name": "Crimson Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can add 1 Spell/Trap that mentions \"Crimson Dragon\" from your Deck to your hand. (Quick Effect): You can target 1 Level 7 or higher Synchro Monster on the field, except \"Crimson Dragon\"; return this card to the Extra Deck, and if you do, Special Summon 1 Dragon Synchro Monster from your Extra Deck with the same Level as the targeted monster. (This is treated as a Synchro Summon.) You can only use each effect of \"Crimson Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63436931.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 0,
+  "level": 12,
+  "is_tuner": false
+}

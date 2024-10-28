@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "2 DARK monsters on the field, except Tokens\nIf this card is Fusion Summoned: You can make this card gain ATK equal to 1 opponent's Special Summoned monster, until the end of this turn. Once per turn: You can target 1 Level 5 or higher monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. If this Fusion Summoned card is destroyed: You can destroy all your opponent's Special Summoned monsters.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/41209827.jpg",
-    "https://images.ygoprodeck.com/images/cards/41209828.jpg"
+    "https://images.ygoprodeck.com/images/cards/41209827.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2800,
   "species": "Dragon",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2000,
   "level": 8,
   "is_tuner": false

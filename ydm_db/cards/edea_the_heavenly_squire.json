@@ -3,7 +3,7 @@
   "name": "Edea the Heavenly Squire",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can Special Summon 1 monster with 800 ATK and 1000 DEF from your Deck in Defense Position, except \"Edea the Heavenly Squire\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is sent to the Graveyard: You can target 1 of your banished \"Monarch\" Spell/Trap Cards; add it to your hand. You can only use each effect of \"Edea the Heavenly Squire\" once per turn.",
+  "text": "If this card is Normal or Special Summoned: You can Special Summon 1 monster with 800 ATK/1000 DEF from your Deck in Defense Position, except \"Edea the Heavenly Squire\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is sent to the GY: You can target 1 of your banished \"Monarch\" Spells/Traps; add it to your hand. You can only use each effect of \"Edea the Heavenly Squire\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95457011.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 1,
   "is_tuner": false

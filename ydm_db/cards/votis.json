@@ -1,0 +1,21 @@
+{
+  "id": 75311421,
+  "name": "Votis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can excavate the top 3 cards of your Deck, and if you do, you can banish 1 excavated monster to add 1 monster with its same name to your hand, from either your Deck or the other excavated cards, also shuffle the rest into the Deck. Once per turn, during the End Phase, if this card is in your GY because it was sent there this turn after being Normal Summoned/Set: You can excavate the top 3 cards of your Deck, and if you do, place them on top of the Deck in any order.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75311421.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
+}

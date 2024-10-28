@@ -1,0 +1,20 @@
+{
+  "id": 3292267,
+  "name": "Hieratic Sky Dragon Overlord of Heliopolis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 8 monsters\nOnce per turn, when your opponent activates a card or effect that targets a card(s) on your field, your GY, and/or your banished card(s) (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3292267.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2400,
+  "rank": 8
+}

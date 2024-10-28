@@ -3,7 +3,7 @@
   "name": "Naturia Rock",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a Trap Card is activated, you can send the top card of your Deck to the Graveyard to Special Summon this card from your hand.",
+  "text": "Once per Chain, when a Trap Card is activated (Quick Effect): You can send the top card of your Deck to the GY; Special Summon this card from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54161401.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 3,
   "is_tuner": false

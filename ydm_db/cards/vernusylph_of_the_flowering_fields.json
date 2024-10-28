@@ -1,0 +1,21 @@
+{
+  "id": 62133026,
+  "name": "Vernusylph of the Flowering Fields",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent cannot target \"Vernusylph\" monsters you control with card effects. You can discard this card, and 1 monster or \"Vernusylph\" card; add 1 EARTH monster from your GY to your hand, except \"Vernusylph of the Flowering Fields\", then you can Special Summon 1 EARTH monster from your GY, also you cannot activate non-EARTH monster effects for the rest of this turn. You can only use this effect of \"Vernusylph of the Flowering Fields\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/62133026.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

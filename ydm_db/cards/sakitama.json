@@ -1,0 +1,21 @@
+{
+  "id": 67972302,
+  "name": "Sakitama",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand. You can only use each of the following effects of \"Sakitama\" once per turn. You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 Spirit monster from your hand. If this card is Tributed: Target 1 Spirit monster in your GY; add it to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/67972302.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 400,
+  "species": "Fairy",
+  "ability": "Spirit",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

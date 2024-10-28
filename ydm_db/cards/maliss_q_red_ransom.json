@@ -1,0 +1,24 @@
+{
+  "id": 68059897,
+  "name": "Maliss Q RED RANSOM",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters, including a \"Maliss\" monster\nWhile this card points to a monster, switch the original ATK and DEF of all Effect Monsters your opponent controls. You can only use each of the following effects of \"Maliss Q RED RANSOM\" once per turn. If this card is Special Summoned: You can add 1 \"Maliss\" Spell from your Deck to your hand. If this card is banished: You can pay 900 LP; Special Summon this card, then you can banish 1 Cyberse monster from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/68059897.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Right",
+    "Bottom",
+    "Left"
+  ]
+}

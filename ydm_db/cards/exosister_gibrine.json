@@ -1,0 +1,20 @@
+{
+  "id": 5530780,
+  "name": "Exosister Gibrine",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 monsters\nCannot be destroyed by the activated effects of monsters Special Summoned from the GY. You can only use each of the following effects of \"Exosister Gibrine\" once per turn. If you control this card that was Xyz Summoned this turn by using an \"Exosister\" monster as material (Quick Effect): You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can detach 1 material from this card; for the rest of this turn, all Xyz Monsters you control will gain 800 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/5530780.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2800,
+  "rank": 4
+}

@@ -1,0 +1,21 @@
+{
+  "id": 24348204,
+  "name": "The Bewitching Phantom Thief",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An elegant thief with a black cloak that charms its enemies.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/24348204.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 700,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

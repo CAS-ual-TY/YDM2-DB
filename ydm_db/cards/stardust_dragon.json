@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/44508094.jpg",
-    "https://images.ygoprodeck.com/images/cards/44508095.jpg"
+    "https://images.ygoprodeck.com/images/cards/44508094.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2500,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2000,
   "level": 8,
   "is_tuner": false

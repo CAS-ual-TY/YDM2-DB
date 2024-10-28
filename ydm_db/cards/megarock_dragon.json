@@ -3,19 +3,19 @@
   "name": "Megarock Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play a Rock-Type monster(s) in your Graveyard. The original ATK and DEF of this card become the number of Rock-Type monsters you removed from play when you Special Summoned this card x 700.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing any number of Rock monster(s) from your GY. The original ATK/DEF of this card become the number of Rock monsters banished to Special Summon it x 700.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71544954.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
-  "atk": 0,
+  "atk": -1,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": -1,
   "level": 7,
   "is_tuner": false
 }

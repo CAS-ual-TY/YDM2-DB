@@ -1,0 +1,21 @@
+{
+  "id": 33854624,
+  "name": "Bystial Magnamhut",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If this card is Special Summoned: You can activate this effect; during the End Phase of this turn, add 1 Dragon monster from your Deck or GY to your hand, except \"Bystial Magnamhut\". You can only use each effect of \"Bystial Magnamhut\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33854624.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

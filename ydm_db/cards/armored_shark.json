@@ -1,0 +1,21 @@
+{
+  "id": 27480536,
+  "name": "Armored Shark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as an \"Armored Xyz\" card.)\nYou can send 1 WATER Xyz Monster from your Extra Deck to the GY, then target 1 Fish monster in your GY with the same Level as the Rank of that monster; Special Summon it. During your opponent's turn, if this card is in your GY (Quick Effect): You can target 1 WATER Xyz Monster you control; equip this card to that monster as an Equip Spell that gives it 500 ATK. You can only use each effect of \"Armored Shark\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/27480536.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

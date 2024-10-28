@@ -1,0 +1,24 @@
+{
+  "id": 41908872,
+  "name": "Supreme King Dragon Lightwurm",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 face-up \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster from your Extra Deck to your hand, then, immediately after this effect resolves, you can Synchro or Xyz Summon 1 \"Supreme King Dragon\" monster. If a face-up Pendulum Monster(s) you control is destroyed by battle or card effect, while this card is face-up in your Extra Deck: You can add this card to your hand. You can only use each effect of \"Supreme King Dragon Lightwurm\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/41908872.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If a monster(s) is Special Summoned and you control \"Supreme King Z-ARC\" and another Pendulum Monster (except during the Damage Step): You can Special Summon this card, then you can make the Level and Attribute of either this card or 1 Pendulum Monster you control become the same Level and Attribute as the other. You can only use this effect of \"Supreme King Dragon Lightwurm\" once per turn.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": true
+}

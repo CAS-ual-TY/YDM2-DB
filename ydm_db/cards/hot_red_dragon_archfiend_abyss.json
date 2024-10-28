@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 3200,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2500,
   "level": 9,
   "is_tuner": false

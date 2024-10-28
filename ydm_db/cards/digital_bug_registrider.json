@@ -3,7 +3,7 @@
   "name": "Digital Bug Registrider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be used as Xyz Material for an Xyz Summon, except the Xyz Summon of an Insect monster. When you Normal Summon a Level 3 Insect monster: You can Special Summon this card from your hand, then you can make both this card and that monster Level 5 or 7. If this card is Special Summoned from the hand: You can change the battle position of 1 Insect monster you control. An Xyz Monster that was Summoned using this card on the field as material gains this effect.\n? This card gains 1000 ATK/DEF.",
+  "text": "Cannot be used as Xyz Material for an Xyz Summon, except the Xyz Summon of an Insect monster. When you Normal Summon a Level 3 Insect monster: You can Special Summon this card from your hand, then you can make both this card and that monster Level 5 or 7. If this card is Special Summoned from the hand: You can change the battle position of 1 Insect monster you control. An Xyz Monster that was Summoned using this card on the field as material gains this effect.\n\u25cf This card gains 1000 ATK/DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19301729.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1000,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": false

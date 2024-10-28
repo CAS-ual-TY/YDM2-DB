@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1500,
   "species": "Pyro",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1100,
   "rank": 2
 }

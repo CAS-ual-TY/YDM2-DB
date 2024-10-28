@@ -3,7 +3,7 @@
   "name": "Destroyersaurus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard this card to the Graveyard; add 1 \"Jurassic World\" from your Deck to your hand.",
+  "text": "You can discard this card to the GY; add 1 \"Jurassic World\" from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80186010.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1800,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1100,
   "level": 4,
   "is_tuner": false

@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2000,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": false,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4,
   "def": 1000,
   "level": 7,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).\n",
-  "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "is_tuner": false
 }

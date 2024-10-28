@@ -1,0 +1,21 @@
+{
+  "id": 99193444,
+  "name": "Poseidra, the Rumbling Atlantean",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent's monsters cannot target this card for attacks while you control a monster other than \"Poseidra, the Rumbling Atlantean\". You can only use each of the following effects of \"Poseidra, the Rumbling Atlantean\" once per turn. You can send 1 other WATER monster from your hand or face-up field to the GY; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Atlantean\" or \"Mermail\" monster from your Deck to the GY, then target 1 card your opponent controls; return it to the hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/99193444.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2800,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 7,
+  "is_tuner": false
+}

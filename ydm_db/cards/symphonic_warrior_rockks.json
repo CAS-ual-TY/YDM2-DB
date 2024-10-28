@@ -1,0 +1,24 @@
+{
+  "id": 24070330,
+  "name": "Symphonic Warrior Rockks",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. You can only use each of the following effects of \"Symphonic Warrior Rockks\" once per turn. If this card is Special Summoned: You can add 1 face-up Pendulum Monster from your Extra Deck to your hand. If \"Symph Amplifire\" is in your Field Zone: You can destroy 1 card on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/24070330.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "Synchro",
+  "is_pendulum": true,
+  "pendulum_text": "During each Standby Phase: You can add 1 face-up Pendulum Monster from your Extra Deck to your hand. You can only use this effect of \"Symphonic Warrior Rockks\" once per turn. When an opponent's monster declares an attack: You can destroy both that monster and this card.",
+  "pendulum_scale_left_blue": 10,
+  "pendulum_scale_right_red": 10,
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Apprentice Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster monster from your Deck in face-down Defense Position.",
+  "text": "If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. When this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster monster from your Deck in face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9156135.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 400,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 2,
   "is_tuner": false

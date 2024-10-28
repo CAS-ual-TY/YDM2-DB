@@ -1,0 +1,21 @@
+{
+  "id": 91337277,
+  "name": "Big Inflate Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal Summoned: You can banish the top 50 cards of your Deck, face-down; this card's ATK becomes 10,000 until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/91337277.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

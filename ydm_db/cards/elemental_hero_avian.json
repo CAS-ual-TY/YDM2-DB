@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/21844576.jpg",
-    "https://images.ygoprodeck.com/images/cards/21844577.jpg"
+    "https://images.ygoprodeck.com/images/cards/21844576.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": false

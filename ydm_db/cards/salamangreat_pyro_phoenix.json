@@ -3,7 +3,7 @@
   "name": "Salamangreat Pyro Phoenix",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Pyro Phoenix\" as material: You can destroy all cards your opponent controls. You can only use each of the following effects of \"Salamangreat Pyro Phoenix\" once per turn.\n? You can target 1 Link Monster in your opponent's GY; Special Summon it to your opponent's field.\n? If a Link Monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 of those monsters; inflict damage to your opponent equal to that monster's original ATK.",
+  "text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Pyro Phoenix\" as material: You can destroy all cards your opponent controls. You can only use each of the following effects of \"Salamangreat Pyro Phoenix\" once per turn.\n\u25cf You can target 1 Link Monster in your opponent's GY; Special Summon it to your opponent's field.\n\u25cf If a Link Monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 of those monsters; inflict damage to your opponent equal to that monster's original ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31313405.jpg"
   ],
@@ -11,15 +11,15 @@
   "attribute": "FIRE",
   "atk": 2800,
   "species": "Cyberse",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 4,
   "link_arrows": [
     "Top",
-    "Left",
+    "Right",
     "Bottom",
-    "Right"
+    "Left"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "id": 49139666,
+  "name": "E Stranger Big Bang",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. During your Main Phase: You can reduce the Levels of all other monsters on the field by 1, and if you do, increase the Level of this card by the number of monsters whose Levels were reduced by this effect. During your Battle Phase or your opponent's Main Phase, if this card's Level is 8 or higher (Quick Effect): You can destroy 1 other card on the field, and if you do, this card's Level becomes 5. You can only use each effect of \"E Stranger Big Bang\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/49139666.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 5,
+  "is_tuner": false
+}

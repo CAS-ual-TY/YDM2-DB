@@ -1,0 +1,21 @@
+{
+  "id": 80551022,
+  "name": "Mimighoul Slime",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: If it is the Main Phase: Apply these effects in sequence.\n\u25cf Your opponent can Special Summon 1 \"Mimighoul\" monster from their Deck to their field.\n\u25cf Give control of this card to your opponent.\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if your opponent controls more monsters than you do, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Slime\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/80551022.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Aqua",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 1,
+  "is_tuner": false
+}

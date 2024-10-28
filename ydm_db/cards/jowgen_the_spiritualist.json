@@ -3,7 +3,7 @@
   "name": "Jowgen the Spiritualist",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 random card from your hand to the Graveyard; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
+  "text": "You can discard 1 random card from your hand to the GY; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41855169.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 200,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 3,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 60715406,
+  "name": "Tentacle Plant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A carnivorous plant that has an outgrowth of tentacles. It attacks someone nearby by extending its tentacles.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60715406.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
+}

@@ -3,18 +3,18 @@
   "name": "Tyranno Infinity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The original ATK of this card is the number of your banished Dinosaur-Type monsters x 1000.",
+  "text": "The original ATK of this card becomes the number of your banished Dinosaur monsters x 1000.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83235263.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
-  "atk": 0,
+  "atk": -1,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

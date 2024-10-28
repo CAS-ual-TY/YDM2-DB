@@ -1,0 +1,21 @@
+{
+  "id": 55610199,
+  "name": "Gem-Knight Lady Rose Diamond",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Gem-Knight\" monster + 1 Fairy monster\nOnce per opponent's turn, the first time a \"Gem-Knight\" monster(s) you control would be destroyed by card effect, it is not destroyed. During your turn, when your opponent activates a monster effect (Quick Effect): You can banish 1 \"Gem-Knight\" card from your GY, then target 1 face-up card your opponent controls; destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55610199.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2700,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2400,
+  "level": 8,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Code Radiator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a Cyberse monster you control would be used as Link Material for a \"Code Talker\" monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY as material for the Link Summon of a \"Code Talker\" monster: You can target 1 face-up monster your opponent controls; change its ATK 0, also negate its effects. If this card on the field was used as material, you can target 2 monsters, instead. You can only use each effect of \"Code Radiator\" once per turn.",
+  "text": "If a Cyberse monster you control would be used as Link Material for a \"Code Talker\" monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY as material for the Link Summon of a \"Code Talker\" monster: You can target 1 face-up monster your opponent controls; change its ATK to 0, also negate its effects. If this card on the field was used as material, you can target 2 monsters, instead. You can only use each effect of \"Code Radiator\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75130221.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1600,
   "species": "Cyberse",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 4,
   "is_tuner": false

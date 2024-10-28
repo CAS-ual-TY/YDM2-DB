@@ -11,14 +11,14 @@
   "attribute": "FIRE",
   "atk": 2000,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap directly from your Deck.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 2500,
   "level": 7,
-  "is_tuner": false,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

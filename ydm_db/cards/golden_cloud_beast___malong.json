@@ -1,0 +1,21 @@
+{
+  "id": 93125329,
+  "name": "Golden Cloud Beast - Malong",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can increase or decrease its Level by 1. If this card is sent to the GY: You can target 1 face-up card your opponent controls; return it to the hand. You can only use this effect of \"Golden Cloud Beast - Malong\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/93125329.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2200,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": true
+}

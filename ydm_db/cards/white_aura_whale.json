@@ -3,7 +3,7 @@
   "name": "White Aura Whale",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 WATER Tuner + 1+ non-Tuner WATER monsters\nWhen this card is Synchro Summoned: You can destroy all your opponent's Attack Position monsters. This card can make up to 2 attacks on monsters during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card you control is destroyed by an opponent's card (by battle or card effect) and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.",
+  "text": "1 WATER Tuner + 1+ non-Tuner WATER monsters\nWhen this card is Synchro Summoned: You can destroy all your opponent's Attack Position monsters. This card can make up to 2 attacks on monsters during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card in your possession is destroyed by an opponent's card and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card as a Tuner.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5614808.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 2800,
   "species": "Fish",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2000,
   "level": 8,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Kozmo Tincan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player's turn: You can banish this card; Special Summon 1 Level 2 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Tincan\" once per turn. Once per turn, during the End Phase: You can pay 500 LP; reveal 3 \"Kozmo\" cards with different names from your Deck, your opponent randomly picks 1 for you to add to your hand, and you send the rest to the Graveyard.",
+  "text": "(Quick Effect): You can banish this card; Special Summon 1 Level 2 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Tincan\" once per turn. Once per turn, during the End Phase: You can pay 500 LP; reveal 3 \"Kozmo\" cards with different names from your Deck, your opponent randomly picks 1 for you to add to your hand, and you send the rest to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64280356.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 0,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": false

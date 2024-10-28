@@ -1,0 +1,21 @@
+{
+  "id": 22855882,
+  "name": "Fiend Sword",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Whoever resists the curse of this blade will gain untold power.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/22855882.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

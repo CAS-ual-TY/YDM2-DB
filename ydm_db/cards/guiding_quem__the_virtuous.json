@@ -1,0 +1,21 @@
+{
+  "id": 45883110,
+  "name": "Guiding Quem, the Virtuous",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Dogmatika\" and \"Despia\" card.)\nIf this card is Normal or Special Summoned: You can send 1 \"Fallen of Albaz\" or 1 card that mentions it from your Deck to the GY. If a card(s) leaves the Extra Deck (except during the Damage Step): You can target 1 \"Fallen of Albaz\", or 1 monster that mentions it, in your GY, except \"Guiding Quem, the Virtuous\"; Special Summon it. You can only use each effect of \"Guiding Quem, the Virtuous\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/45883110.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": true
+}

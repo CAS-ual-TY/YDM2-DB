@@ -1,0 +1,21 @@
+{
+  "id": 23099524,
+  "name": "Pharaonic Advent",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gains 300 ATK for each Continuous Trap on the field and in the GYs. You can only use each of the following effects of \"Pharaonic Advent\" once per turn. You can Tribute 1 monster; Special Summon this card from your hand. You can Tribute 1 Fairy, Fiend, or Reptile monster; add 1 Continuous Trap from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23099524.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

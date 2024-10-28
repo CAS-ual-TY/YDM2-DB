@@ -3,7 +3,7 @@
   "name": "Vennominon the King of Poisonous Snakes",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned by another Effect Monster's effect. This card is unaffected by \"Venom Swamp\". This card gains 500 ATK for each Reptile-Type monster in your Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other Reptile-Type monster from your Graveyard; Special Summon this card.",
+  "text": "Cannot be Special Summoned by another Effect Monster's effect. Unaffected by \"Venom Swamp\". Gains 500 ATK for each Reptile monster in your GY. When this card is destroyed by battle and sent to the GY: You can banish 1 other Reptile monster from your GY; Special Summon this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72677437.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 0,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 8,
   "is_tuner": false

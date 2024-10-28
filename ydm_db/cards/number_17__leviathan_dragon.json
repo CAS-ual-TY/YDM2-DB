@@ -3,7 +3,7 @@
   "name": "Number 17: Leviathan Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK. If this card has no Xyz Material, it cannot attack your opponent directly.",
+  "text": "2 Level 3 monsters\nCannot attack directly unless it has material. Once per turn: You can detach 1 material from this card; it gains 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69610924.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 2000,
   "species": "Dragon",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 0,
   "rank": 3
 }

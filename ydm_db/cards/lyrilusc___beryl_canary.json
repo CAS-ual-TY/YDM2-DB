@@ -1,0 +1,21 @@
+{
+  "id": 10182251,
+  "name": "Lyrilusc - Beryl Canary",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can target 1 \"Lyrilusc\" monster in your GY; Special Summon both this card and that monster, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Lyrilusc - Beryl Canary\" once per turn. A WIND Xyz Monster that was Summoned using this card on the field as material gains this effect.\n\u25cf This card gains 200 ATK, also its control cannot switch.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10182251.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

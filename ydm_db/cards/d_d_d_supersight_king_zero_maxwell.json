@@ -3,7 +3,7 @@
   "name": "D/D/D Supersight King Zero Maxwell",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Before damage calculation, if this card attacked an opponent's Defense Position monster: You can change the DEF of the opponent's monster to 0 until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. You take no battle damage from attacks involving this card.",
+  "text": "Before damage calculation, if this card attacks an opponent's Defense Position monster: You can change the DEF of that opponent's monster to 0 until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. You take no battle damage from battles involving this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76029419.jpg"
   ],
@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2800,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You can target 1 face-up monster on the field; its DEF becomes 0 until the end of this turn (even if this card leaves the field). You can only use this effect of \"D/D/D Supersight King Zero Maxwell\" once per turn.",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4,
   "def": 2500,
   "level": 7,
-  "is_tuner": false,
-  "pendulum_text": "You can target 1 face-up monster on the field; change its DEF to 0 until the end of this turn (even if this card leaves the field). You can only use this effect of \"D/D/D Supersight King Zero Maxwell\" once per turn.\n",
-  "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "is_tuner": false
 }

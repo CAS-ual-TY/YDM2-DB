@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 500,
   "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, if you control a \"Performapal\", \"Magician\", or \"Odd-Eyes\" card in your other Pendulum Zone, except \"Performapal Parrotrio\": You can make this card's Pendulum Scale become 7 until the end of this turn.",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 500,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, if you control a \"Performapal\", \"Magician\", or \"Odd-Eyes\" card in your other Pendulum Zone, except \"Performapal Parrotrio\": You can make this card's Pendulum Scale become 7 until the end of this turn.\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

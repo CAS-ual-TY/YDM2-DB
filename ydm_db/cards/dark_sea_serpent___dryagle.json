@@ -1,0 +1,21 @@
+{
+  "id": 98248208,
+  "name": "Dark Sea Serpent - Dryagle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have 3 or more Level 10 monsters on your field, GY, and/or banishment: You can Special Summon this card from your hand. If this card is Special Summoned: You can send the top card of your Deck to the GY; this card gains 500 ATK, then, if the sent card was a monster, inflict 1000 damage to your opponent. Otherwise, you can send the top card of your Deck to the GY. You can only use each effect of \"Dark Sea Serpent - Dryagle\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98248208.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2100,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3100,
+  "level": 10,
+  "is_tuner": false
+}

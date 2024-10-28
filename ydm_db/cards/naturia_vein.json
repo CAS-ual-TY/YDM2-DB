@@ -3,7 +3,7 @@
   "name": "Naturia Vein",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of your opponent's Spell or Trap Card, and destroy it.",
+  "text": "When your opponent activates a Spell/Trap Card (Quick Effect): You can Tribute 1 \"Naturia\" monster and this card; negate the activation, and if you do, destroy that card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16940215.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 200,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 1,
   "is_tuner": true

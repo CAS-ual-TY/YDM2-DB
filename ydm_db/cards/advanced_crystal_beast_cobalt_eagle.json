@@ -1,0 +1,21 @@
+{
+  "id": 45236142,
+  "name": "Advanced Crystal Beast Cobalt Eagle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If \"Advanced Dark\" is not in a Field Zone, send this monster to the GY. You can send this card from your hand or field to the GY; add 1 \"Advanced Dark\" from your Deck to your hand. Once per turn: You can target 1 \"Advanced Crystal Beast\" card you control; return it to the hand or place it on top of the Deck. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/45236142.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

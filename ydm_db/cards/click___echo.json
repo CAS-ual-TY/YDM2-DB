@@ -1,0 +1,21 @@
+{
+  "id": 2992467,
+  "name": "Click & Echo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be used as material for a Fusion, Synchro, or Xyz Summon. Cannot be Tributed while face-up in the Monster Zone. If this card is sent to the GY as material for a Link Summon: Special Summon this card in Defense Position, to the opponent's field of the player that Link Summoned. You can only use this effect of \"Click & Echo\" twice per turn. While this card, that was Summoned by its effect, is in the Monster Zone, you must keep your hand revealed.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/2992467.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 300,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 87837090,
+  "name": "Kuibelt the Blade Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can target 1 card on the field; destroy it. If this card on the field is destroyed: You can target 1 face-up monster on the field; that monster cannot attack until the end of your opponent's turn. You can only use each effect of \"Kuibelt the Blade Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/87837090.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1900,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 27268998,
+  "name": "Metalzoa X",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Max Metalmorph\" that was activated by Tributing a Level 5 or higher Fiend monster. You can reveal this card in your hand; Set 1 \"Metalmorph\" Trap from your Deck, and if you do, shuffle this card into the Deck. You can only use this effect of \"Metalzoa X\" once per turn. Twice per turn, when your opponent activates a monster effect, or Spell Card or effect (Quick Effect): You can target 1 face-up monster your opponent controls; destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/27268998.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2300,
+  "level": 8,
+  "is_tuner": false
+}

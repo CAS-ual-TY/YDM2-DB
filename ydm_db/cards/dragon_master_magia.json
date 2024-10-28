@@ -1,0 +1,21 @@
+{
+  "id": 12381100,
+  "name": "Dragon Master Magia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Blue-Eyes Ultimate Dragon\" or 3 \"Blue-Eyes\" monsters + 1 \"Chaos\" or \"Black Luster Soldier\" Ritual Monster\nMust be Fusion Summoned. When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use this effect of \"Dragon Master Magia\" in response to each card type (Monster, Spell, or Trap) once per turn. If this face-up card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 \"Blue-Eyes\" monster or 1 \"Chaos\" or \"Black Luster Soldier\" Ritual Monster from your Extra Deck or GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/12381100.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 5000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
+}

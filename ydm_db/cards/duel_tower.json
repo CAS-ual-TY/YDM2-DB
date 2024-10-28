@@ -1,0 +1,12 @@
+{
+  "id": 43940008,
+  "name": "Duel Tower",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "At the start of each Battle Phase: Each player can reveal 1 monster from their Deck that does not have ? ATK, you banish them face-down, then the player who revealed the monster with the highest ATK (each player, if tied) can Special Summon 1 monster from their hand, and it can attack directly while on the field. Once per turn, during the End Phase: You can activate this effect; if you control this card during the End Phase of your next turn, destroy all cards on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43940008.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

@@ -3,7 +3,7 @@
   "name": "Garma Sword",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Garma Sword Oath\".",
+  "text": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Garma Sword Oath\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90844184.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2550,
   "species": "Warrior",
-  "monster_type": "Ritual",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
   "def": 2150,
   "level": 7,
   "is_tuner": false

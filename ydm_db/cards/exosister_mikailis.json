@@ -1,0 +1,20 @@
+{
+  "id": 42741437,
+  "name": "Exosister Mikailis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Mikailis\" once per turn. If you control this card that was Xyz Summoned this turn by using an \"Exosister\" monster as material (Quick Effect): You can target 1 card your opponent controls or in their GY; banish it. You can detach 1 material from this card; add 1 \"Exosister\" Spell/Trap from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/42741437.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1800,
+  "rank": 4
+}

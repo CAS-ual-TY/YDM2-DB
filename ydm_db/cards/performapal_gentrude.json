@@ -1,0 +1,24 @@
+{
+  "id": 21949879,
+  "name": "Performapal Gentrude",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is destroyed: You can place 1 \"Performapal\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Performapal Gentrude\". If this card is face-up in your Extra Deck: You can discard 1 Pendulum Monster; add this card to your hand, then you can return 1 \"Performapal\" or \"Odd-Eyes\" card from your Pendulum Zone to the hand. You can only use 1 \"Performapal Gentrude\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/21949879.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If \"Performapal Ladyange\" is in your other Pendulum Zone and you control no monsters, or only Pendulum Monsters: You can add 1 \"Odd-Eyes\" card from your Deck to your hand. You can only use this effect of \"Performapal Gentrude\" once per turn.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

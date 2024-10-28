@@ -1,0 +1,21 @@
+{
+  "id": 47172959,
+  "name": "Yubel - The Loving Defender Forever",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Yubel\" monster + 1+ Effect Monsters on the field\nIf this card is Fusion Summoned: You can inflict 500 damage to your opponent for each material used. You can only use this effect of \"Yubel - The Loving Defender Forever\" once per turn. Cannot be destroyed by battle or card effects, also you take no battle damage from battles involving this card. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, and if you do, banish that monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47172959.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 0,
+  "level": 12,
+  "is_tuner": false
+}

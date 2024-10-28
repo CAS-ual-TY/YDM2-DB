@@ -3,7 +3,7 @@
   "name": "Elder Entity N'tss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Synchro Monster + 1 Xyz Monster\nMust be Special Summoned (from your Extra Deck) by sending the above cards you control to the GY. (You do not use \"Polymerization\".) Once per turn: You can Special Summon 1 Level 4 monster from your hand. If this card is sent to the GY: You can target 1 card on the field; destroy it. You can only Special Summon \"Elder Entity N'tss(s)\" once per turn.",
+  "text": "1 Synchro Monster + 1 Xyz Monster\nMust be Special Summoned (from your Extra Deck) by sending the above cards you control to the GY. Once per turn: You can Special Summon 1 Level 4 monster from your hand. If this card is sent to the GY: You can target 1 card on the field; destroy it. You can only Special Summon \"Elder Entity N'tss(s)\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80532587.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Fairy",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1200,
   "level": 4,
   "is_tuner": false

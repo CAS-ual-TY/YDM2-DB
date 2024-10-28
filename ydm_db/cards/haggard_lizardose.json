@@ -1,0 +1,23 @@
+{
+  "id": 9763474,
+  "name": "Haggard Lizardose",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters with different names\nYou can banish 1 monster from your face-up field or GY with 2000 or less ATK, then target 1 face-up monster on the field; make its ATK become equal to the original ATK of the monster banished to activate this effect (until the end of this turn), then if you banished a monster that was originally Reptile, draw 1 card. You can only use this effect of \"Haggard Lizardose\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9763474.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Right",
+    "Bottom"
+  ]
+}

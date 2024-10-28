@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Wyrm",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 3,
   "link_arrows": [
     "Top",

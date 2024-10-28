@@ -1,0 +1,23 @@
+{
+  "id": 82184400,
+  "name": "Abyss Keeper",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 WATER monsters\nCannot be used as Link Material the turn it is Link Summoned. If this card is Link Summoned: You can Special Summon 1 Fish monster from your hand to your zone this card points to. You can target 1 other Fish monster you control and 1 card your opponent controls; banish those cards. You can only use each effect of \"Abyss Keeper\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/82184400.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

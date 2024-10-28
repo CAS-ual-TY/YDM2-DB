@@ -3,7 +3,7 @@
   "name": "Cyber Raider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Summoned: Activate 1 of these effects.\n? Target 1 Equip Card on the field; destroy that target.\n? Target 1 Equip Card on the field; equip that target to this card.",
+  "text": "If this card is Summoned: Activate 1 of these effects.\n\u25cf Target 1 Equip Card on the field; destroy that target.\n\u25cf Target 1 Equip Card on the field; equip that target to this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39978267.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1400,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Utopic Onomatopoeia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is always treated as a \"Zubaba\", \"Gagaga\", \"Gogogo\", and \"Dododo\" card.)\nDuring your Main Phase: You can Special Summon up to 1 each \"Zubaba\", \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s) from your hand in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Utopic Onomatopoeia\" once per turn.",
+  "text": "(This card is always treated as a \"Zubaba\", \"Gagaga\", \"Gogogo\", and \"Dododo\" card.)\nDuring your Main Phase: You can Special Summon up to 1 each \"Zubaba\", \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s) from your hand in Defense Position, except \"Utopic Onomatopoeia\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Utopic Onomatopoeia\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8512558.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

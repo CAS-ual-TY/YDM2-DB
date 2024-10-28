@@ -3,7 +3,7 @@
   "name": "Power Wall",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, when you would take battle damage from an opponent's attacking monster: Send 1 card from the top of your Deck to the Graveyard for every 500 damage (round up) you are about to take, also you take no battle damage from that battle.",
+  "text": "During damage calculation, when you would take battle damage from an opponent's attacking monster: Send 1 card from the top of your Deck to the GY for every 500 damage (round up) you would take, instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76403456.jpg"
   ],

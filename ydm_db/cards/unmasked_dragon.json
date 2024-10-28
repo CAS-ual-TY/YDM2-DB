@@ -3,7 +3,7 @@
   "name": "Unmasked Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Wyrm-Type monster with 1500 or less DEF from your Deck.",
+  "text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Wyrm monster with 1500 or less DEF from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24218047.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 1400,
   "species": "Wyrm",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1100,
   "level": 3,
   "is_tuner": false

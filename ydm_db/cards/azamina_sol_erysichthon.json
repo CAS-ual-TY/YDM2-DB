@@ -1,0 +1,21 @@
+{
+  "id": 9785661,
+  "name": "Azamina Sol Erysichthon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Illusion monster + 1 Fiend monster\nIf this card is Fusion Summoned: You can target 1 card on the field; send it to the GY. During the Standby Phase: You can target 1 \"Azamina\" or \"Sinful Spoils\" card in your GY; add it to your hand. You can only use each effect of \"Azamina Sol Erysichthon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9785661.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Illusion",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

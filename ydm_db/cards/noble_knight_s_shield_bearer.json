@@ -1,0 +1,21 @@
+{
+  "id": 34242278,
+  "name": "Noble Knight's Shield-Bearer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can banish 1 LIGHT monster from your GY; draw 1 card. You can banish this card from your hand or field; add 1 Level 6 or lower WIND Beast monster from your Deck to your hand. You can only use 1 \"Noble Knight's Shield-Bearer\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/34242278.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

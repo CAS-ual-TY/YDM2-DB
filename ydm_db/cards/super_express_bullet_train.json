@@ -3,7 +3,7 @@
   "name": "Super Express Bullet Train",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot declare an attack unless you send 2 other cards you control to the GY. You can only use each of these effects of \"Super Express Bullet Train\" once per turn.\n? If all monsters you control are EARTH Machines (min. 1): You can Special Summon this card from your hand.\n? During the End Phase, if this card is in the GY because it was sent there this turn: You can target 1 Machine monster in your GY, except \"Super Express Bullet Train\"; add it to your hand.",
+  "text": "Cannot declare an attack unless you send 2 other cards you control to the GY. You can only use each of these effects of \"Super Express Bullet Train\" once per turn.\n\u25cf If all monsters you control are EARTH Machines (min. 1): You can Special Summon this card from your hand.\n\u25cf During the End Phase, if this card is in the GY because it was sent there this turn: You can target 1 Machine monster in your GY, except \"Super Express Bullet Train\"; add it to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52481437.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 3000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 10,
   "is_tuner": false

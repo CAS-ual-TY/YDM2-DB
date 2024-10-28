@@ -1,0 +1,25 @@
+{
+  "id": 50546029,
+  "name": "G Golem Dignified Trilithon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ EARTH monsters\nAll monsters your opponent controls must attack this card, if able. Once per battle, if this card battles an opponent's monster, before damage calculation (Quick Effect): You can send 1 EARTH monster from your hand to the GY; until the end of this turn, that opponent's monster loses 200 ATK, also negate its effects. When your opponent activates a card or effect that targets a Link Monster(s) you control (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use this effect of \"G Golem Dignified Trilithon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/50546029.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3200,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 4,
+  "link_arrows": [
+    "Top",
+    "Right",
+    "Bottom",
+    "Left"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 70095046,
+  "name": "Clear Vicious Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute Summon this card by Tributing 1 monster that mentions \"Clear World\". Gains ATK equal to the highest original ATK among monsters your opponent controls. You are unaffected by the effects of \"Clear World\". Your opponent cannot activate the effects of Special Summoned monsters with ATK lower than this Tribute Summoned card's.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70095046.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 7,
+  "is_tuner": false
+}

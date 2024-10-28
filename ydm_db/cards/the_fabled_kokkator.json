@@ -3,7 +3,7 @@
   "name": "The Fabled Kokkator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can discard 1 \"Fabled\" monster to draw 1 card.",
+  "text": "When this card destroys an opponent's monster by battle and sends it to the GY: You can discard 1 \"Fabled\" monster; draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26704411.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1700,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

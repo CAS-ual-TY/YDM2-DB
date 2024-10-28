@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 3000,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "When a \"Yosenju\" monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
   "def": 300,
   "level": 10,
-  "is_tuner": false,
-  "pendulum_text": "When a \"Yosenju\" monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase.\n",
-  "pendulum_scale_left_blue": 7,
-  "pendulum_scale_right_red": 7
+  "is_tuner": false
 }

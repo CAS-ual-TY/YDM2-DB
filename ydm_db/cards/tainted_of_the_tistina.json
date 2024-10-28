@@ -1,0 +1,21 @@
+{
+  "id": 50281477,
+  "name": "Tainted of the Tistina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute Summon this card face-up by Tributing 1 face-down monster your opponent controls. This card's Level becomes 10 if it was Normal Summoned/Set. If this card is sent to the GY, except from the field: You can target 1 \"Tistina\" monster you control; this turn, it can make a second attack during each Battle Phase, also you can only attack with 1 monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/50281477.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

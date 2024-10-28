@@ -3,7 +3,7 @@
   "name": "Heroic Champion - Excalibur",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 Warrior-Type monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; this card's ATK becomes double its original ATK until your opponent's next End Phase.",
+  "text": "2 Level 4 Warrior monsters\nOnce per turn: You can detach 2 materials from this card; this card's ATK becomes double its original ATK until the end of your opponent's turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60645181.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2000,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2000,
   "rank": 4
 }

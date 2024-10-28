@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 4500,
   "species": "Dragon",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 3800,
   "level": 12,
   "is_tuner": false

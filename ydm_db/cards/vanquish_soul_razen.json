@@ -1,0 +1,21 @@
+{
+  "id": 29302858,
+  "name": "Vanquish Soul Razen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 non-Warrior \"Vanquish Soul\" monster from your Deck to your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cf FIRE: This card cannot be destroyed by card effects this turn.\n\u25cf FIRE & DARK: Destroy all other monsters in this card's column.\nYou can only use each effect of \"Vanquish Soul Razen\" once per turn, and cannot activate more than 1 in the same Chain.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/29302858.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

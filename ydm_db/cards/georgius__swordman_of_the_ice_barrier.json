@@ -1,0 +1,21 @@
+{
+  "id": 32991027,
+  "name": "Georgius, Swordman of the Ice Barrier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control another \"Ice Barrier\" monster, your opponent cannot activate the effects of monsters in the GY. You can only use each of the following effects of \"Georgius, Swordman of the Ice Barrier\" once per turn. If you control an \"Ice Barrier\" monster: You can Special Summon this card from your hand in Defense Position. If this card is Normal or Special Summoned: You can Special Summon 1 Level 5 or lower \"Ice Barrier\" monster from your hand or GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32991027.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": true
+}

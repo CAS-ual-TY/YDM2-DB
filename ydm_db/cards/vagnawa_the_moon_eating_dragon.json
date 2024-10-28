@@ -1,0 +1,21 @@
+{
+  "id": 9839115,
+  "name": "Vagnawa the Moon-Eating Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate this effect; this card gains 300 ATK for each Level that the non-Tuners used had, then inflict 300 damage to your opponent for each Level that the Tuner used had. The ATK increase lasts until the end of the next turn. You can only use this effect of \"Vagnawa the Moon-Eating Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9839115.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
+}

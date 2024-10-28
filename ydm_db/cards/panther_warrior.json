@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "This card cannot declare an attack unless you Tribute 1 monster.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42035044.jpg",
-    "https://images.ygoprodeck.com/images/cards/42035045.jpg"
+    "https://images.ygoprodeck.com/images/cards/42035044.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 33250142,
+  "name": "Ultimate Flagship Ursatron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as an \"Ursarctic\" and \"Drytron\" card.)\nMust be Special Summoned with \"Ursarctic Drytron\". Once per turn, if another Effect Monster is Special Summoned to your field (except during the Damage Step): You can add 1 \"Ursarctic\" or \"Drytron\" monster from your Deck to your hand. Once per turn: You can target 1 of your banished \"Ursarctic\" or \"Drytron\" monsters; add it to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33250142.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 700,
+  "level": 7,
+  "is_tuner": false
+}

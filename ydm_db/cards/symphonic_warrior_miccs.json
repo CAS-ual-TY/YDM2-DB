@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 2300,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Unless you have a \"Symphonic Warrior\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. Once per turn, during your End Phase: You can target 1 of your banished \"Symphonic Warrior\" monsters; add it to your hand.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 1100,
   "level": 5,
-  "is_tuner": false,
-  "pendulum_text": "Unless you have a \"Symphonic Warrior\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. Once per turn, during your End Phase: You can target 1 of your banished \"Symphonic Warrior\" monsters; add it to your hand.\n",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

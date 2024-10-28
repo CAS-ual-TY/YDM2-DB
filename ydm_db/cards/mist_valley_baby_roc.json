@@ -3,7 +3,7 @@
   "name": "Mist Valley Baby Roc",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent directly from the hand to the Graveyard, you can Special Summon it.",
+  "text": "When this card is sent from the hand to the GY: You can Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14983497.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 400,
   "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 2,
   "is_tuner": true

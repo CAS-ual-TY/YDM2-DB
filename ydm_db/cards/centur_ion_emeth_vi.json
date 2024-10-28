@@ -1,0 +1,21 @@
+{
+  "id": 78888899,
+  "name": "Centur-Ion Emeth VI",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your opponent's turn, if this card is in your hand or GY (Quick Effect): You can target 1 \"Centur-Ion\" monster you control, except \"Centur-Ion Emeth VI\"; place it in your Spell & Trap Zone as a face-up Continuous Trap, and if you do, Special Summon this card, also you cannot Special Summon \"Centur-Ion Emeth VI\" for the rest of this turn. During the Main Phase, if this card is a Continuous Trap: You can Special Summon this card. You can only use each effect of \"Centur-Ion Emeth VI\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/78888899.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
+}

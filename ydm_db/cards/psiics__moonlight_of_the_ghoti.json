@@ -1,0 +1,21 @@
+{
+  "id": 26523337,
+  "name": "Psiics, Moonlight of the Ghoti",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 Fish monster from your Deck to your hand, except \"Psiics, Moonlight of the Ghoti\", then banish 1 Fish monster from your hand or face-up field. If this card is banished: You can banish 1 Fish monster from your hand, GY, or face-up field, except \"Psiics, Moonlight of the Ghoti\"; Special Summon this card. You can only use each effect of \"Psiics, Moonlight of the Ghoti\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/26523337.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2400,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

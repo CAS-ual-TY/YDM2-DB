@@ -1,0 +1,21 @@
+{
+  "id": 15947754,
+  "name": "Silent Wolf Calupo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: Equip the top card of your Deck to this card as a face-down Equip Spell that gives it 500 ATK. During the End Phase: Your opponent calls the original type (Monster, Spell, or Trap) of that Equip Card equipped by this card's effect. If they called it right, send this card to the GY. If they called it wrong, discard 1 random card from your opponent's hand, and if you do, return this card to the hand. You can only use this effect of \"Silent Wolf Calupo\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/15947754.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

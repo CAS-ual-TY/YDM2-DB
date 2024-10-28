@@ -1,0 +1,21 @@
+{
+  "id": 81782101,
+  "name": "Reptia Egg",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by battle. If this card was Normal Summoned, during the Standby Phase of the Summoning player's next turn: You can Tribute this card; Special Summon up to 3 Level 4 or lower Reptile and/or Rock monsters from your hand and/or Deck, but banish them during the End Phase. (If you Special Summon 2 or more monsters, they must have the same name.) You can only use this effect of \"Reptia Egg\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81782101.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

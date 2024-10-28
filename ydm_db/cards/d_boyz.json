@@ -3,7 +3,7 @@
   "name": "D-Boyz",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: You can Special Summon any number of \"D-Boyz\" from your Deck in face-up Attack Position, then you take 1000 damage for each monster Special Summoned by this effect.",
+  "text": "FLIP: You can Special Summon any number of \"D-Boyz\" from your Deck in Attack Position, then you take 1000 damage for each monster Special Summoned by this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79279397.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 100,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 1,
   "is_tuner": false

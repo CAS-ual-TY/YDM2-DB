@@ -1,0 +1,21 @@
+{
+  "id": 44708154,
+  "name": "Ukiyoe-P.U.N.K. Amazing Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can target cards your opponent controls, up to the number of Level 3 Psychic monsters with different names you control and in your GY; return them to the hand. You can target 1 \"P.U.N.K.\" monster in your GY, except \"Ukiyoe-P.U.N.K. Amazing Dragon\"; Special Summon it. You can only use 1 \"Ukiyoe-P.U.N.K. Amazing Dragon\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44708154.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2800,
+  "level": 11,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Neo-Spacian Glow Moss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card attacks or is attacked: Your opponent draws 1 card and shows it, then, based on its type apply this effect.\n? Monster: End the Battle Phase of this turn.\n? Spell: If this card is attacking, you can change it to a direct attack instead.\n? Trap: Change this card to Defense Position.",
+  "text": "If this card attacks or is attacked: Your opponent draws 1 card and shows it, then, based on its type apply this effect.\n\u25cf Monster: End the Battle Phase of this turn.\n\u25cf Spell: If this card is attacking, you can change it to a direct attack instead.\n\u25cf Trap: Change this card to Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17732278.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 300,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 900,
   "level": 3,
   "is_tuner": false

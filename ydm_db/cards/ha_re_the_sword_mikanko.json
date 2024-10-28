@@ -1,0 +1,21 @@
+{
+  "id": 18377261,
+  "name": "Ha-Re the Sword Mikanko",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. If an Equip Card becomes equipped to this card: You can add 1 \"Mikanko\" Equip Spell from your Deck to your hand. You can only use this effect of \"Ha-Re the Sword Mikanko\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/18377261.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

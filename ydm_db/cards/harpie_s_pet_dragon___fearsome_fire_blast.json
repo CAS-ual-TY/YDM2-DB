@@ -1,0 +1,21 @@
+{
+  "id": 4991081,
+  "name": "Harpie's Pet Dragon - Fearsome Fire Blast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Monsters cannot target Level 6 or lower \"Harpie\" monsters for attacks. You can only use each of the following effects of \"Harpie's Pet Dragon - Fearsome Fire Blast\" once per turn. If you control a Level 6 or lower WIND monster: You can Special Summon this card from your hand in Defense Position. If this card is sent from the field to the GY: You can send 1 WIND Winged Beast monster from your Deck to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/4991081.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 85687952,
+  "name": "Theia, the Primal Being",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase (Quick Effect): You can Tribute monsters whose total Levels equal 11 or more; Special Summon this card from your hand, then if you control no other monsters, you can destroy 1 monster on the field with the highest ATK (your choice, if tied). You can only use this effect of \"Theia, the Primal Being\" once per turn. Neither player can Normal and/or Special Summon more than 4 times per turn while this card is face-up in the Monster Zone.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/85687952.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Rock",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 11,
+  "is_tuner": false
+}

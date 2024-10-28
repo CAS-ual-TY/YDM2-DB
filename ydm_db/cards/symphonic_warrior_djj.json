@@ -1,0 +1,24 @@
+{
+  "id": 70204022,
+  "name": "Symphonic Warrior DJJ",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Symphonic Warrior\" monster from your Deck in face-down Defense Position, except \"Symphonic Warrior DJJ\", or, if \"Symph Amplifire\" is in your Field Zone, you can Special Summon 1 \"Symphonic Warrior\" monster from your Deck instead, except \"Symphonic Warrior DJJ\", but negate its effects. You can only use this effect of \"Symphonic Warrior DJJ\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70204022.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, during your Main Phase: You can flip 1 face-down Defense Position \"Symphonic Warrior\" monster you control to face-up Defense Position. If a \"Symphonic Warrior\" monster's effect is activated (except during the Damage Step): You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Symphonic Warrior DJJ\" once per turn.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Naturia Cherries",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent from the field to the Graveyard by your opponent's card (including by battle, card effect, or by being destroyed), you can Special Summon up to 2 \"Naturia Cherries\" from your Deck in face-down Defense Position.",
+  "text": "If this card is sent from your field to your GY by an opponent's card: You can Special Summon up to 2 \"Naturia Cherries\" from your Deck in face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60668166.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 200,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 1,
   "is_tuner": true

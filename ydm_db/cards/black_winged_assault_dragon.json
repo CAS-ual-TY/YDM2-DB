@@ -1,0 +1,21 @@
+{
+  "id": 73218989,
+  "name": "Black-Winged Assault Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner Synchro Monster + 1+ non-Tuner monsters\nMust be either Synchro Summoned, or Special Summoned from your Extra Deck by banishing 1 Tuner Synchro Monster and 1 \"Black-Winged Dragon\" from your face-up field and/or GY. Each time your opponent activates a monster effect, place 1 Black Feather Counter on this card when that effect resolves, and if you do, inflict 700 damage to your opponent. During your opponent's turn (Quick Effect): You can Tribute this card with 4 or more Black Feather Counters on it; destroy all cards on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/73218989.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3200,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2800,
+  "level": 10,
+  "is_tuner": false
+}

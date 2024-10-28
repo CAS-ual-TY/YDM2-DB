@@ -1,0 +1,21 @@
+{
+  "id": 59712426,
+  "name": "Arcana Force XV - The Fiend",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card; add 1 \"Light Barrier\" from your Deck or GY to your hand. If this card is Summoned: Toss a coin and this card gains the appropriate effect.\n\u25cf Heads: When an attack is declared involving this card: You can target 1 monster on the field; destroy it, and if you do, inflict 500 damage to its controller.\n\u25cf Tails: If an attack is declared involving this card: Destroy all monsters on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/59712426.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Calcab, Malebranche of the Burning Abyss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Calcab, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n? If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n? If this card is sent to the Graveyard: You can target 1 Set Spell/Trap Card on the field; return that target to the hand.",
+  "text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Calcab, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n\u25cf If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n\u25cf If this card is sent to the Graveyard: You can target 1 Set Spell/Trap Card on the field; return that target to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73213494.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1400,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 3,
   "is_tuner": false

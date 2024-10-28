@@ -1,0 +1,21 @@
+{
+  "id": 86154370,
+  "name": "Hi-Speedroid Clear Wing Rider",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 WIND Tuner + 1 non-Tuner WIND Synchro Monster\nOnce per turn, during your Main Phase: You can roll a six-sided die and shuffle WIND monsters from your GY into your Deck, up to the result, then, you can destroy cards your opponent controls up to the number shuffled, and if you do, this card gains 500 ATK for each card destroyed by this effect, until the end of this turn. During your opponent's Main Phase (Quick Effect): You can Tribute this Synchro Summoned card; Special Summon up to 2 Level 7 WIND Synchro Monsters with different names from each other from your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/86154370.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 11,
+  "is_tuner": false
+}

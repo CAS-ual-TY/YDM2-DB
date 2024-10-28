@@ -3,7 +3,7 @@
   "name": "Dragunity Darkspear",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can Tribute 1 Dragon-Type \"Dragunity\" monster to select 1 Level 4 or lower Winged Beast-Type monster in your Graveyard, and Special Summon it.",
+  "text": "Once per turn: You can Tribute 1 Dragon \"Dragunity\" monster, then target 1 Level 4 or lower Winged Beast monster in your GY; Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13361027.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1000,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": true

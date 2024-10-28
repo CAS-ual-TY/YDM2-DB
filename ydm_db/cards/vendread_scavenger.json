@@ -1,0 +1,21 @@
+{
+  "id": 29348048,
+  "name": "Vendread Scavenger",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. During the Main Phase (Quick Effect): You can Tribute 1 other Zombie monster; this card gains ATK equal to the Tributed monster's original ATK until the end of this turn. If you control \"Revendread Slayer\" and this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Vendread Scavenger\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/29348048.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

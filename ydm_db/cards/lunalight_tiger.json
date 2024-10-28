@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 1200,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 \"Lunalight\" monster in your Graveyard; Special Summon it, but it cannot attack, its effects are negated, also it is destroyed during the End Phase.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 800,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can target 1 \"Lunalight\" monster in your Graveyard; Special Summon it, but it cannot attack, its effects are negated, also it is destroyed during the End Phase.\n",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": false
 }

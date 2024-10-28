@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you have a \"Performapal\" card in your other Pendulum Zone, except \"Performapal Lizardraw\": You can destroy this card, and if you do, draw 1 card. You can only use this effect of \"Performapal Lizardraw\" once per turn.",
+  "pendulum_scale_left_blue": 6,
+  "pendulum_scale_right_red": 6,
   "def": 600,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "If you have a \"Performapal\" card in your other Pendulum Zone, except \"Performapal Lizardraw\": You can destroy this card, and if you do, draw 1 card. You can only use this effect of \"Performapal Lizardraw\" once per turn.\n",
-  "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "is_tuner": false
 }

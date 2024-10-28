@@ -1,0 +1,20 @@
+{
+  "id": 6659193,
+  "name": "Performage Trapeze High Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 5 Spellcaster monsters\nCannot be destroyed by battle or card effects while it has material. Your opponent takes any effect damage you would have taken instead. This effect can be applied a number of times per turn up to the number of materials attached to this card. If this card has \"Performage Trapeze Magician\" as material, it gains this effect.\n\u25cf You can detach 1 material from this card; this card can make up to 3 attacks during each Battle Phase this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6659193.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2700,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2200,
+  "rank": 5
+}

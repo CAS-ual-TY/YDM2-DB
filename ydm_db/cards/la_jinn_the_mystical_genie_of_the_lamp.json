@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "A genie of the lamp that is at the beck and call of its master.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/97590747.jpg",
-    "https://images.ygoprodeck.com/images/cards/97590748.jpg"
+    "https://images.ygoprodeck.com/images/cards/97590747.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

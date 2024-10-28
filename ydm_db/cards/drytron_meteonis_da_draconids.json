@@ -1,0 +1,21 @@
+{
+  "id": 56863746,
+  "name": "Drytron Meteonis DA Draconids",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Meteonis Drytron\". Other \"Drytron\" monsters you control cannot be destroyed by your opponent's card effects. Twice per turn, when your opponent activates a monster effect (Quick Effect): You can banish \"Drytron\" monsters (min. 1) from your GY whose total ATK equal or exceed the original ATK of that monster; negate the activation, and if you do, destroy it. If this Ritual Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 Ritual Monster with 4000 ATK from your hand or Deck. (This is treated as a Ritual Summon.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/56863746.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 5000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 5000,
+  "level": 12,
+  "is_tuner": false
+}

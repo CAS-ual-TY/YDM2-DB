@@ -3,7 +3,7 @@
   "name": "Jinzo - Lord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 face-up \"Jinzo\" you control to the Graveyard. Trap Cards cannot be activated and the effects of all Trap Cards on the field are negated. Once per turn, you can destroy all face-up Trap Cards. Inflict 300 damage to your opponent for each card destroyed by this effect.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Jinzo\" you control to the GY. Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field. Once per turn: You can destroy as many face-up Traps on the field as possible, and if you do, inflict 300 damage to your opponent for each card destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35803249.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2600,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 8,
   "is_tuner": false

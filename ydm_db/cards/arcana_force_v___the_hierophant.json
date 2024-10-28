@@ -1,0 +1,21 @@
+{
+  "id": 3376703,
+  "name": "Arcana Force V - The Hierophant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card; for the rest of this turn, your opponent cannot activate cards or effects when an \"Arcana Force\" monster(s) is Summoned to your field. If this card is Summoned: Toss a coin.\n\u25cf Heads: Special Summon 1 Level 4 or lower \"Arcana Force\" monster from your Deck with a different name from the monsters you control and in your GY.\n\u25cf Tails: Special Summon 1 \"Arcana Force\" monster from your Deck to your opponent's field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3376703.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

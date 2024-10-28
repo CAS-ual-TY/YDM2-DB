@@ -1,0 +1,21 @@
+{
+  "id": 63545455,
+  "name": "Mech Mole Zombie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This creature attacks by launching missile-like arms.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63545455.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

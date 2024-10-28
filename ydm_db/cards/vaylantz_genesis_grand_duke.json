@@ -1,0 +1,24 @@
+{
+  "id": 76075139,
+  "name": "Vaylantz Genesis Grand Duke",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Vaylantz\" monsters\nThis face-down card in the Extra Deck must first be either Fusion Summoned, or Special Summoned by Tributing 1 Level 5 or higher non-Fusion \"Vaylantz\" monster in the same column as the Extra Monster Zone. If this card is Special Summoned: You can target 1 Monster Card in your opponent's Spell & Trap Zone; return it to the hand, and if you do, inflict damage to your opponent equal to its ATK, then, this card gains ATK equal to half the damage inflicted.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/76075139.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "Fusion",
+  "is_pendulum": true,
+  "pendulum_text": "You can activate 1 of these effects;\n\u25cf Special Summon this card to your Main Monster Zone in its same column.\n\u25cf Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\nYou can only use this effect of \"Vaylantz Genesis Grand Duke\" once per turn.",
+  "pendulum_scale_left_blue": 10,
+  "pendulum_scale_right_red": 10,
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

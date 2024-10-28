@@ -1,0 +1,24 @@
+{
+  "id": 50687050,
+  "name": "Arktos XII - Chronochasm Vaylantz",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 5 or higher \"Vaylantz\" monsters\nMust first be Special Summoned (from your face-down Extra Deck) by Tributing the above cards. (Quick Effect): You can switch the locations of 2 monsters in your Main Monster Zones or 2 monsters in your opponent's Main Monster Zones. If a card in the Monster Zone moves to another Monster Zone (except during the Damage Step): You can destroy 1 card on the field. You can only use each effect of \"Arktos XII - Chronochasm Vaylantz\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/50687050.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "Fusion",
+  "is_pendulum": true,
+  "pendulum_text": "You can activate 1 of these effects;\n\u25cf Special Summon this card to your Main Monster Zone in its same column.\n\u25cf Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\nYou can only use this effect of \"Arktos XII - Chronochasm Vaylantz\" once per turn.",
+  "pendulum_scale_left_blue": 12,
+  "pendulum_scale_right_red": 12,
+  "def": 3000,
+  "level": 12,
+  "is_tuner": false
+}

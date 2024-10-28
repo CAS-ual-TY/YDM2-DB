@@ -1,0 +1,21 @@
+{
+  "id": 100227002,
+  "name": "Fabled Gamygyn",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\nYour opponent cannot target other \"Fabled\" Synchro Monsters you control with card effects. You can only use each of the following effects of \"Fabled Gamygyn\" once per turn. If this card is Synchro Summoned: You can Special Summon 1 \"Fabled\" monster from your hand or Deck. If this card is sent to the GY: You can draw cards equal to the number of \"Fabled\" Synchro Monsters you control, then discard 1 card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100227002.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 0,
+  "level": 4,
+  "is_tuner": true
+}

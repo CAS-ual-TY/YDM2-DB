@@ -1,0 +1,21 @@
+{
+  "id": 74652966,
+  "name": "Code of Soul",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Link Monster: You can Special Summon this card from your hand. During your Main Phase: You can activate this effect; once this turn, if you Link Summon a \"Salamangreat\" Link Monster, you can use 1 \"Salamangreat\" Link Monster you control with its same name as the entire material. During your opponent's Main Phase (Quick Effect): You can banish this card from your GY; immediately after this effect resolves, Link Summon 1 Link-3 or higher Cyberse Link Monster. You can only use each effect of \"Code of Soul\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/74652966.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

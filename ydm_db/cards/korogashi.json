@@ -1,0 +1,21 @@
+{
+  "id": 32569498,
+  "name": "Korogashi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A high-powered dung beetle that can roll dung larger than itself. It crushes its foes with its massive ball of dung.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32569498.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 550,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

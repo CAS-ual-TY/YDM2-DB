@@ -1,0 +1,21 @@
+{
+  "id": 100227027,
+  "name": "Jurrac Megalo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Dinosaur monster: You can Special Summon this card from your hand. During your Main Phase: You can discard 2 cards, including a \"Jurrac\" card, then draw 2 cards. If this card is destroyed by battle or card effect: You can send 1 \"Jurrac\" monster from your Deck or Extra Deck to the GY, except \"Jurrac Megalo\". You can only use each effect of \"Jurrac Megalo\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100227027.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 1,
+  "is_tuner": true
+}

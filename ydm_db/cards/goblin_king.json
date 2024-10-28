@@ -3,7 +3,7 @@
   "name": "Goblin King",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While you control another Fiend-Type monster, this card cannot be attacked. The ATK and DEF of this card are each equal to the number of Fiend-Type monsters on the field (excluding this card) x 1000.",
+  "text": "While you control another Fiend monster, monsters cannot attack this card. This card's ATK/DEF become the number of other Fiend monsters on the field x 1000.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18590133.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 0,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": false

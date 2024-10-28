@@ -1,0 +1,21 @@
+{
+  "id": 12501230,
+  "name": "Combat Wheel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nThe first time this card would be destroyed by an opponent's card effect each turn, it is not destroyed. Once per turn, during your opponent's Battle Phase (Quick Effect): You can discard 1 card; this card gains ATK equal to half the total ATK of all other monsters you currently control, then place 1 counter on this card, also for the rest of this turn, your opponent's monsters cannot target monsters for attacks, except this one. If this card with a counter is destroyed by battle: Destroy all monsters you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/12501230.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

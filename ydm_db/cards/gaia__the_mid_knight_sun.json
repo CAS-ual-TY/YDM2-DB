@@ -3,7 +3,7 @@
   "name": "Gaia, the Mid-Knight Sun",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can only use each effect of \"Gaia, the Mid-Knight Sun\" once per turn.\n? You can Tribute 1 other LIGHT monster; add 1 Level 4 DARK Warrior-Type monster from your Deck to your hand, then send 1 card from your hand to the Graveyard.\n? You can banish 1 DARK monster from your Graveyard, then target 1 monster on the field; it loses 500 ATK until the end of your opponent's turn.",
+  "text": "You can only use each effect of \"Gaia, the Mid-Knight Sun\" once per turn.\n\u25cf You can Tribute 1 other LIGHT monster; add 1 Level 4 DARK Warrior-Type monster from your Deck to your hand, then send 1 card from your hand to the Graveyard.\n\u25cf You can banish 1 DARK monster from your Graveyard, then target 1 monster on the field; it loses 500 ATK until the end of your opponent's turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40371092.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1600,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

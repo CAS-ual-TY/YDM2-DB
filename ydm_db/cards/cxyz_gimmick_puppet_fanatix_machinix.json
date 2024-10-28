@@ -1,0 +1,20 @@
+{
+  "id": 3685372,
+  "name": "CXyz Gimmick Puppet Fanatix Machinix",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 9 monsters\nIf this card is Special Summoned: You can add 1 \"Puppet\" Trap from your Deck to your hand. You can detach 1 material from this card; Special Summon 1 monster from either GY to your opponent's field in Defense Position. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 of them; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK. You can only use each effect of \"CXyz Gimmick Puppet Fanatix Machinix\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3685372.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3100,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1500,
+  "rank": 9
+}

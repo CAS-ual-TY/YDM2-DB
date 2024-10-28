@@ -1,0 +1,21 @@
+{
+  "id": 6637331,
+  "name": "Bystial Druiswurm",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If this card is sent from the field to the GY: You can target 1 Special Summoned monster your opponent controls; send it to the GY. You can only use each effect of \"Bystial Druiswurm\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6637331.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

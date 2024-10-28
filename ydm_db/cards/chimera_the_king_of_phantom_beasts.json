@@ -1,0 +1,21 @@
+{
+  "id": 1769875,
+  "name": "Chimera the King of Phantom Beasts",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Beast monster + 1 Fiend monster\nThis card's name becomes \"Chimera the Flying Mythical Beast\" while on the field or in the GY. You can only use each of the following effects of \"Chimera the King of Phantom Beasts\" once per turn. If this card is Fusion Summoned: You can activate this effect; send 1 random card from your opponent's hand to the GY during the End Phase of this turn. During your opponent's turn (Quick Effect): You can banish this card from your GY, then target 1 Beast, Fiend, or Illusion monster in your GY; Special Summon it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/1769875.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2100,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

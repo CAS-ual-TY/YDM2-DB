@@ -3,10 +3,9 @@
   "name": "Wattcancel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent would Normal or Special Summon a monster: Discard 1 \"Watt\" monster; negate the Summon and destroy it.",
+  "text": "When your opponent would Normal or Special Summon a monster(s): Discard 1 \"Watt\" monster; negate the Summon, and if you do, destroy that monster(s).",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/56993276.jpg",
-    "https://images.ygoprodeck.com/images/cards/56993277.jpg"
+    "https://images.ygoprodeck.com/images/cards/56993276.jpg"
   ],
   "type": "Trap",
   "trap_type": "Counter"

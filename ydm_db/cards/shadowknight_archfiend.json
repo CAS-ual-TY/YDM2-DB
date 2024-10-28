@@ -3,7 +3,7 @@
   "name": "Shadowknight Archfiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The controller of this card pays 900 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. The Battle Damage this card inflicts to your opponent is halved.",
+  "text": "Once per turn, during your Standby Phase, you must pay 900 LP (this is not optional), or this card is destroyed. When resolving an opponent's card effect that targets this card, roll a six-sided die and negate that effect if you roll a 3, and if you do, destroy that card. Any battle damage this card inflicts to your opponent is halved.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9603356.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2000,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

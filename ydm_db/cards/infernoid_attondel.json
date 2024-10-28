@@ -3,7 +3,7 @@
   "name": "Infernoid Attondel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 2 \"Infernoid\" monsters from your hand or Graveyard while the total Levels and Ranks of all Effect Monsters you control are 8 or lower, and cannot be Special Summoned by other ways. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can activate this effect; this card can make a second attack in a row. Once per turn, during either player's turn: You can Tribute 1 monster, then target 1 card in your opponent's Graveyard; banish it.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 2 \"Infernoid\" monsters from your hand or GY while the total Levels and Ranks of all Effect Monsters you control are 8 or lower. When this card destroys an opponent's monster by battle and sends it to the GY: You can activate this effect; this card can make a second attack in a row. Once per turn (Quick Effect): You can Tribute 1 monster, then target 1 card in your opponent's GY; banish it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88301393.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2800,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 8,
   "is_tuner": false

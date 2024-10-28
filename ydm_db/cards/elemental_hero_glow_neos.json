@@ -3,7 +3,7 @@
   "name": "Elemental HERO Glow Neos",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Elemental HERO Neos\" + \"Neo-Spacian Glow Moss\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) During the End Phase: Shuffle this card into the Extra Deck. Once per turn, during your Main Phase 1: You can target 1 face-up card your opponent controls; destroy that target, then apply the effect based on its type. ? Monster: This card cannot attack this turn. ? Spell: This card can attack your opponent directly this turn. ? Trap: Change this card to Defense Position.",
+  "text": "\"Elemental HERO Neos\" + \"Neo-Spacian Glow Moss\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. Once per turn, during the End Phase: Return this card to the Extra Deck. Once per turn, during your Main Phase 1: You can target 1 face-up card your opponent controls; destroy that target, and if you do, apply this effect based on its type. \u25cf Monster: This card cannot attack this turn. \u25cf Spell: This card can attack directly this turn. \u25cf Trap: Change this card to Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85507811.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2000,
   "level": 7,
   "is_tuner": false

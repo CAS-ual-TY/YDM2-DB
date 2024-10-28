@@ -1,0 +1,21 @@
+{
+  "id": 65734501,
+  "name": "Rescue-ACE Air Lifter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Rescue-ACE\" Spell from your Deck to your hand. When your opponent activates a monster effect on the field (Quick Effect): You can Tribute this card from your hand or face-up field; Special Summon 1 \"Rescue-ACE\" monster from your hand, except \"Rescue-ACE Air Lifter\". You can only use each effect of \"Rescue-ACE Air Lifter\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/65734501.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1700,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

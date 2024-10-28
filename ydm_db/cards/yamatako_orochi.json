@@ -1,0 +1,21 @@
+{
+  "id": 4632019,
+  "name": "Yamatako Orochi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card on the field can be treated as a Level 8 monster when used for a Synchro Summon. A Synchro Monster that used this card as material gains this effect based on its original Level.\n\u25cf 8 or lower: Gains 800 ATK/DEF.\n\u25cf 9 or higher: If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/4632019.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 1,
+  "is_tuner": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 43502497,
+  "name": "Pendulum Witch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Pendulum Summoned: You can target 1 card in your Pendulum Zone; destroy both that target and this card, and if you do, add 1 Level 4 or lower Pendulum Monster from your Deck to your hand. You can only use this effect of \"Pendulum Witch\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43502497.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If a face-up Fusion, Synchro, and/or Xyz Monster(s) you control is destroyed by battle or an opponent's card effect while this card is in the Pendulum Zone: You can add 1 Pendulum Monster with the same original Type as 1 of those monsters, from your Deck to your face-up Extra Deck. You can only use this effect of \"Pendulum Witch\" once per turn.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

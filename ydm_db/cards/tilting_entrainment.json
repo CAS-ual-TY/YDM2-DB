@@ -1,0 +1,21 @@
+{
+  "id": 77855162,
+  "name": "Tilting Entrainment",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can Special Summon 1 Level 4 or lower Pendulum Monster from your hand or face-up from your Extra Deck. At the end of the Damage Step, when this card or your Pendulum Monster battles an opponent's monster, but the opponent's monster was not destroyed by the battle: You can destroy that opponent's monster. You can only use each effect of \"Tilting Entrainment\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/77855162.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2800,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1600,
+  "level": 8,
+  "is_tuner": false
+}

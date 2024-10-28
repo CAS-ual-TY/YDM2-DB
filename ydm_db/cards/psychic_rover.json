@@ -1,0 +1,21 @@
+{
+  "id": 53154400,
+  "name": "Psychic Rover",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Special Summoned: You can roll a six-sided die, and if you roll a 1 or 6, destroy up to 2 cards on the field. If this card is sent to the GY: You can roll a six-sided die, and if you roll a 2, 3, 4, or 5, Special Summon this card. The player who Summoned it cannot Special Summon from the Extra Deck, while it is face-up in the Monster Zone.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53154400.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

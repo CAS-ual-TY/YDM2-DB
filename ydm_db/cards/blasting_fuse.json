@@ -3,7 +3,7 @@
   "name": "Blasting Fuse",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when all zones of this card's column are occupied. Destroy all cards in this column.",
+  "text": "If all zones of this card's column are occupied, while this card is Set: Destroy all cards in this column.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99788587.jpg"
   ],

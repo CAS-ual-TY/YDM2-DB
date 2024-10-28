@@ -1,0 +1,21 @@
+{
+  "id": 43066927,
+  "name": "Mimighoul Fairy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: If it is the Main Phase: Apply these effects in sequence.\n\u25cf This turn, you cannot activate the effects of monsters Special Summoned from your hand.\n\u25cf Give control of this card to your opponent.\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if you control a \"Mimighoul\" monster, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Fairy\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43066927.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Fairy",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 22125101,
+  "name": "Beyond the Pendulum",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters, including a Pendulum Monster\nIf this card is Link Summoned in the Extra Monster Zone: You can pay 1200 LP; add 1 Pendulum Monster from your Deck to your hand, but for the rest of this turn, unless you Pendulum Summon after this effect resolves, you cannot activate monster effects, and the effects of any cards in your Pendulum Zones are negated. If 2 monsters with different original Levels are Pendulum Summoned at the same time to the zones this card points to: You can target 2 cards on the field; destroy them. You can only use this effect of \"Beyond the Pendulum\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/22125101.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

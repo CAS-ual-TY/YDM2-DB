@@ -1,0 +1,21 @@
+{
+  "id": 87804747,
+  "name": "Ultimate Great Insect",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Level 8 Insect monster + 1 Level 7 Insect monster\nYou can only Special Summon \"Ultimate Great Insect\" once per turn. Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing 1 Insect monster with 2000 or more DEF equipped with an Equip Card. Cannot be destroyed by battle. Once per turn, during the Battle Phase, if a face-up card is in a Field Zone (Quick Effect): You can destroy all monsters your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/87804747.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2600,
+  "level": 9,
+  "is_tuner": false
+}

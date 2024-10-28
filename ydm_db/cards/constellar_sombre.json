@@ -3,7 +3,7 @@
   "name": "Constellar Sombre",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can only use each effect of \"Constellar Sombre\" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 \"Constellar\" monster for 1 less Tribute.\nYou can banish 1 \"Constellar\" monster from your Graveyard, then target 1 \"Constellar\" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.\n? This turn: You can activate this effect; Normal Summon 1 \"Constellar\" monster.",
+  "text": "You can only use each effect of \"Constellar Sombre\" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 \"Constellar\" monster for 1 less Tribute.\nYou can banish 1 \"Constellar\" monster from your Graveyard, then target 1 \"Constellar\" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.\n\u25cf This turn: You can activate this effect; Normal Summon 1 \"Constellar\" monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78358521.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1550,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

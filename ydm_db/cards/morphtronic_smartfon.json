@@ -3,7 +3,7 @@
   "name": "Morphtronic Smartfon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Morphtronic\" monster from your Graveyard.\n? While in Attack Position: Once per turn: You can roll a six-sided die, excavate that many cards from the top of your Deck, add 1 excavated \"Morphtronic\" card to your hand, also shuffle the rest back into the Deck.\n? While in Defense Position: Once per turn: You can roll a six-sided die, look at that many cards from the top of your Deck, then place all of them on either the top or the bottom of the Deck, but in any order.",
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Morphtronic\" monster from your Graveyard.\n\u25cf While in Attack Position: Once per turn: You can roll a six-sided die, excavate that many cards from the top of your Deck, add 1 excavated \"Morphtronic\" card to your hand, also shuffle the rest back into the Deck.\n\u25cf While in Defense Position: Once per turn: You can roll a six-sided die, look at that many cards from the top of your Deck, then place all of them on either the top or the bottom of the Deck, but in any order.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15521027.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": true

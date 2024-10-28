@@ -1,0 +1,21 @@
+{
+  "id": 45001322,
+  "name": "Libromancer Firestarter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with a \"Libromancer\" card. If this card is Ritual Summoned by using a monster(s) on the field, it cannot be destroyed, or banished, by card effects. Gains 200 ATK/DEF each time your opponent activates a card or effect, while you control this card with ATK less than 3000 in the Monster Zone.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/45001322.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

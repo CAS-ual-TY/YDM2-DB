@@ -1,0 +1,175 @@
+{
+	"name": "quarter_century_bonanza__ucr",
+	"pulls": [
+		{
+			"weight": 75,
+			"entries": [
+				{
+					"count": 2,
+					"rarities": [
+						"Ultra Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 25,
+			"entries": [
+				{
+					"count": 2,
+					"rarities": [
+						"Ultra Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Platinum Rare",
+						"Quarter Century Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 15,
+			"entries": [
+				{
+					"count": 1,
+					"rarities": [
+						"Ultimate Rare",
+						"Collector's Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 15,
+			"entries": [
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultimate Rare",
+						"Collector's Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 5,
+			"entries": [
+				{
+					"count": 1,
+					"rarities": [
+						"Ultimate Rare",
+						"Collector's Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Platinum Rare",
+						"Quarter Century Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 5,
+			"entries": [
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultimate Rare",
+						"Collector's Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Platinum Rare",
+						"Quarter Century Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 3,
+			"entries": [
+				{
+					"count": 2,
+					"rarities": [
+						"Ultimate Rare",
+						"Collector's Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 1,
+			"entries": [
+				{
+					"count": 2,
+					"rarities": [
+						"Ultimate Rare",
+						"Collector's Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Platinum Rare",
+						"Quarter Century Secret Rare"
+					]
+				}
+			]
+		}
+	]
+}

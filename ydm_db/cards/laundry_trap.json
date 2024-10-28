@@ -1,0 +1,12 @@
+{
+  "id": 79371769,
+  "name": "Laundry Trap",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per Chain, if a monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can send the top card of your Deck to the GY. If this card is sent from your Deck to the GY by a card effect: You can target 1 card in your GY that was sent there this turn, except \"Laundry Trap\"; add it to your hand, but until the end of your next turn after this effect resolves, you cannot activate cards, or the effects of cards, with its name. You can only use this effect of \"Laundry Trap\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/79371769.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

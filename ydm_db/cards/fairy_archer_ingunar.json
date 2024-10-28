@@ -3,7 +3,7 @@
   "name": "Fairy Archer Ingunar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Special Summoned by the effect of a Plant monster: You can target 1 Level 6 or higher Plant monster in your GY; Special Summon it in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Plant monsters. You can only use this effect of \"Fairy Archer Ingunar\" once per turn. Cannot attack the turn it is Special Summoned.",
+  "text": "Cannot attack the turn this card is Special Summoned. If this card is Special Summoned by the effect of a Plant monster: You can target 1 Level 6 or higher Plant monster in your GY; Special Summon it in Defense Position, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can only use this effect of \"Fairy Archer Ingunar\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44451698.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2400,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 6,
   "is_tuner": false

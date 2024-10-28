@@ -1,0 +1,21 @@
+{
+  "id": 72880377,
+  "name": "Dark Hole Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by card effects. You can only use each of the following effects of \"Dark Hole Dragon\" once per turn. If a monster(s) on the field is destroyed by a card effect that does not target it (except during the Damage Step): You can Special Summon this card from the GY (if it was there when the monster was destroyed) or hand (even if not). If this card is Special Summoned: You can activate this effect; during the End Phase of this turn, add 1 \"Dark Hole\" from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/72880377.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

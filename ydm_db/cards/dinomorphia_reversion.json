@@ -1,0 +1,12 @@
+{
+  "id": 28292031,
+  "name": "Dinomorphia Reversion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a \"Dinomorphia\" Fusion Monster: Pay half your LP and banish 1 Counter Trap from your GY; this effect becomes that Counter Trap's effect when that card is activated. During damage calculation while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 \"Dinomorphia Reversion\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/28292031.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

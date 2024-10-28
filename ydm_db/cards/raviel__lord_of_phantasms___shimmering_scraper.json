@@ -3,7 +3,7 @@
   "name": "Raviel, Lord of Phantasms - Shimmering Scraper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of \"Raviel, Lord of Phantasms - Shimmering Scraper\" once per turn.\n? (Quick Effect): You can discard this card and target 1 \"Raviel, Lord of Phantasms\" you control; for the rest of this turn, its ATK becomes double its current ATK, also it can attack all monsters your opponent controls once each.\n? If this card is in your GY: You can Tribute 1 monster; add this card to your hand.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of \"Raviel, Lord of Phantasms - Shimmering Scraper\" once per turn.\n\u25cf (Quick Effect): You can discard this card and target 1 \"Raviel, Lord of Phantasms\" you control; for the rest of this turn, its ATK becomes double its current ATK, also it can attack all monsters your opponent controls once each.\n\u25cf If this card is in your GY: You can Tribute 1 monster; add this card to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28651380.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 4000,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 4000,
   "level": 10,
   "is_tuner": false

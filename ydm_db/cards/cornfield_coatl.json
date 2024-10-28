@@ -1,0 +1,21 @@
+{
+  "id": 92565383,
+  "name": "Cornfield Coatl",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Cornfield Coatl\" once per turn. You can discard this card; add 1 monster that mentions \"Chimera Fusion\" from your Deck to your hand, except \"Cornfield Coatl\". When your opponent activates a card or effect that targets a card(s) you control, while you control \"Chimera the Flying Mythical Beast\" (Quick Effect): You can banish this card from your field or GY; negate that effect, and if you do, destroy that card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/92565383.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 500,
+  "species": "Illusion",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

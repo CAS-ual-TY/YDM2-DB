@@ -1,0 +1,23 @@
+{
+  "id": 63013339,
+  "name": "Sky Striker Ace - Camellia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\nMust first be Link Summoned. You can only Special Summon \"Sky Striker Ace - Camellia(s)\" once per turn. Once per turn, if you have 3 or less Spells in your GY: You can send 1 \"Sky Striker\" card from your Deck to the GY. If this card is sent to the GY: You can target 1 monster your opponent controls; Special Summon this card to your opponent's field (but shift control to its owner during the End Phase of this turn), and if you do, send that targeted monster to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63013339.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Top-Right",
+    "Bottom-Left"
+  ]
+}

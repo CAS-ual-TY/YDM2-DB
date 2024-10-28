@@ -1,0 +1,21 @@
+{
+  "id": 9603252,
+  "name": "Witchcrafter Vice-Madame",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Witchcrafter\" monster + 1 Spellcaster monster\nWhen a Spell Card or effect, or a non-Fusion Spellcaster monster effect, is activated (Quick Effect): You can activate 1 of these effects (but you can only use each effect of \"Witchcrafter Vice-Madame\" once per turn).\n\u25cf Destroy 1 card on the field.\n\u25cf Special Summon 1 Level 6 or lower \"Witchcrafter\" monster from your hand or Deck.\n\u25cf Add 1 \"Witchcrafter\" Spell/Trap from your GY to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9603252.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Ally of Justice Nullfier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Any LIGHT monster that has battled this card has its effects negated (starting after damage calculation).",
+  "text": "If this card battles a LIGHT monster, after damage calculation: Negate the effects of that monster (including in the GY).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76650663.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1600,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

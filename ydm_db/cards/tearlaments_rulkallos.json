@@ -1,0 +1,21 @@
+{
+  "id": 84330567,
+  "name": "Tearlaments Rulkallos",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Tearlaments Kitkallos\" + 1 \"Tearlaments\" monster\nOther Aqua monsters you control cannot be destroyed by battle. You can only use each of the following effects of \"Tearlaments Rulkallos\" once per turn. When your opponent activates a card or effect that includes an effect that Special Summons a monster(s) (Quick Effect): You can negate the activation, and if you do, destroy it, then, send 1 \"Tearlaments\" card from your hand or face-up field to the GY. If this Fusion Summoned card is sent to the GY by a card effect: You can Special Summon this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84330567.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 3000,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 30291086,
+  "name": "Mental Tuner",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can activate 1 of these effects;\n\u25cf Banish up to 1 LIGHT and up to 1 DARK monster from your hand and/or GY; increase or decrease this card's Level by the exact number banished, until the end of this turn.\n\u25cf Target up to 2 of your banished monsters (1 LIGHT and/or 1 DARK); return them to the GY, and if you do, increase or decrease this card's Level by the exact number returned, until the end of this turn.\nYou can only use this effect of \"Mental Tuner\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/30291086.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 200,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 3,
+  "is_tuner": true
+}

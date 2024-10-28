@@ -3,7 +3,7 @@
   "name": "Volcanic Doomfire",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by sending a face-up \"Tri-Blaze Accelerator\" you control to the Graveyard. During your opponent's Battle Phase, your opponent must attack this monster with any Attack Position monsters they control. When this card destroys a monster and sends it to the Graveyard, destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect.",
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 \"Tri-Blaze Accelerator\" you control to the GY. During your opponent's Battle Phase, all Attack Position monsters your opponent controls that can attack must attack this card. If this card destroys a monster by battle and sends it to the GY: Destroy as many monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed by this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32543380.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 3000,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 8,
   "is_tuner": false

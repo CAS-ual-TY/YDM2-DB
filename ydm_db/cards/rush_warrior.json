@@ -3,7 +3,7 @@
   "name": "Rush Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation (in either player's turn), if a \"Warrior\" Synchro Monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; your battling monster's ATK becomes double its current ATK during that damage calculation only. You can banish this card from your Graveyard, then target 1 \"Synchron\" monster in your Graveyard; add it to your hand. You can only use each effect of \"Rush Warrior\" once per turn.",
+  "text": "During damage calculation, if a \"Warrior\" Synchro Monster you control battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; your battling monster's ATK becomes double its current ATK during that damage calculation only. You can banish this card from your GY, then target 1 \"Synchron\" monster in your GY; add it to your hand. You can only use each effect of \"Rush Warrior\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36736723.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 300,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 2,
   "is_tuner": false

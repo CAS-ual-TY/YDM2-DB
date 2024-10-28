@@ -1,0 +1,12 @@
+{
+  "id": 16238373,
+  "name": "Psychic Arsenal",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 Psychic monster you control and pay LP equal to its Level x 200; add 1 Machine monster with the same Attribute, but a higher Level, from your Deck to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 each of your banished Psychic and Machine monsters; place 1 of them on the bottom of the Deck, and if you do, add the other to your hand. You can only use each effect of \"Psychic Arsenal\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/16238373.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

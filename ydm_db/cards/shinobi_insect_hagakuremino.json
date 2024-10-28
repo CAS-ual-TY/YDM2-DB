@@ -1,0 +1,23 @@
+{
+  "id": 70709488,
+  "name": "Shinobi Insect Hagakuremino",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters with different names\nWhile this card points to a monster(s), your opponent's monsters cannot target this card for attacks. If a monster(s) this card points to is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower Insect monster from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Shinobi Insect Hagakuremino\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70709488.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom",
+    "Top-Left"
+  ]
+}

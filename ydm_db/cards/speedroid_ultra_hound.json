@@ -1,0 +1,21 @@
+{
+  "id": 86976918,
+  "name": "Speedroid Ultra Hound",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can send 1 \"Speedroid\" card from your Deck to the GY. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Speedroid\" monster in your GY; shuffle it into the Deck, and if you do, Special Summon 1 \"Speedroid\" Synchro Monster from your Extra Deck with the same Level but a different name, but negate its effects. You can only use this effect of \"Speedroid Ultra Hound\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/86976918.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 800,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

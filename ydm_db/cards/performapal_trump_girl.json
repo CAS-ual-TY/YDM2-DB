@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 200,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
-  "def": 200,
-  "level": 2,
-  "is_tuner": false,
+  "monster_type": "",
+  "is_pendulum": true,
   "pendulum_text": "",
   "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "pendulum_scale_right_red": 4,
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
 }

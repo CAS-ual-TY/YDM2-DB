@@ -1,0 +1,21 @@
+{
+  "id": 99748883,
+  "name": "Meteor Rush - Monochroid",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Battle Phase, if 5 or more attacks have been declared this turn (Quick Effect): You can Special Summon this card from your hand. You can only use this effect of \"Meteor Rush - Monochroid\" once per turn. If this card battles, it gains 1000 ATK for each attack declared this turn, during the Damage Step only.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/99748883.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 10,
+  "is_tuner": false
+}

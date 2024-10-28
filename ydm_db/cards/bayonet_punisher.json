@@ -1,0 +1,12 @@
+{
+  "id": 36092504,
+  "name": "Bayonet Punisher",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Apply these effects, in sequence, depending on the type(s) of \"Borrel\" monsters you control and in your GY. If you control a monster with 3000 or more ATK, your opponent cannot activate cards or effects in response to this card's activation.\n\u25cf Fusion: Banish 1 monster your opponent controls.\n\u25cf Synchro: Banish 3 random face-down cards from your opponent's Extra Deck, face-up.\n\u25cf Xyz: Banish 1 Spell/Trap your opponent controls.\n\u25cf Link: Banish up to 3 cards from your opponent's GY.\nYou can only activate 1 \"Bayonet Punisher\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/36092504.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

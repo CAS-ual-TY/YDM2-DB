@@ -1,0 +1,22 @@
+{
+  "id": 30342076,
+  "name": "Link Decoder",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Level 4 or lower Cyberse monster\nIf this card is sent to the GY as material for a Cyberse Link Monster with 2300 or more original ATK: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Link Decoder\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/30342076.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
+}

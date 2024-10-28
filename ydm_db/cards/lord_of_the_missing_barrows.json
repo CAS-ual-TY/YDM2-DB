@@ -1,0 +1,21 @@
+{
+  "id": 59829423,
+  "name": "Lord of the Missing Barrows",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) by banishing 3 cards from your GY (1 monster, 1 Spell, and 1 Trap). If this card is Special Summoned from the hand: You can banish 1 monster and 2 Spells/Traps from your opponent's field and/or GY. You can only use this effect of \"Lord of the Missing Barrows\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/59829423.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3100,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2900,
+  "level": 10,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 17947697,
+  "name": "Maiden of White",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand or field to the GY; place 1 \"True Light\" from your hand, Deck, or GY face-up in your Spell & Trap Zone. If you Special Summon \"Blue-Eyes White Dragon\" while this card is in your GY (except during the Damage Step): You can Special Summon this card. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Special Summon 1 \"Blue-Eyes White Dragon\" or 1 Level 1 LIGHT Tuner from your GY. You can only use each effect of \"Maiden of White\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/17947697.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
+}

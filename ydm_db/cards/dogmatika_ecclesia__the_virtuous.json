@@ -3,7 +3,7 @@
   "name": "Dogmatika Ecclesia, the Virtuous",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Ecclesia, the Virtuous\" once per turn. If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can activate this effect; add 1 \"Dogmatika\" card from your Deck to your hand, except \"Dogmatika Ecclesia, the Virtuous\", also you cannot Special Summon from the Extra Deck for the rest of this turn.",
+  "text": "Cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Ecclesia, the Virtuous\" once per turn. If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can activate this effect; add 1 \"Dogmatika\" card from your Deck to your hand, except \"Dogmatika Ecclesia, the Virtuous\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60303688.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 63526052,
+  "name": "Krawler Soma",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 1 face-up monster you control; Special Summon this card from your hand, and if you do, change the targeted monster to face-down Defense Position, also it cannot change its battle position for the rest of this turn. During your Main Phase: You can reduce this card's Level by 2 or 4, and if you do, Special Summon \"Krawler\" monster(s) with different names from your hand, Deck, or GY whose total Levels equal the amount reduced, in face-up and/or face-down Defense Position. You can only use each effect of \"Krawler Soma\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63526052.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 6,
+  "is_tuner": false
+}

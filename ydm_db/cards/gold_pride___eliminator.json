@@ -1,0 +1,21 @@
+{
+  "id": 60203670,
+  "name": "Gold Pride - Eliminator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. You can banish 1 other \"Gold Pride\" monster from your hand, face-up field, or GY; Special Summon 1 \"Gold Pride Token\" (Machine/DARK/ATK 0/DEF 0) with the same Level as that banished monster, also this card cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon this turn, except for a \"Gold Pride\" monster. You can only use each effect of \"Gold Pride - Eliminator\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60203670.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 5,
+  "is_tuner": true
+}

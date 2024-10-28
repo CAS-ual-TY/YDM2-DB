@@ -1,0 +1,21 @@
+{
+  "id": 47643326,
+  "name": "Space Omajinai Usagi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A mysterious visitor from the heavens. She converts people's sense of pain into signals and sends them into space, but why she does so is still unknown to this day.\n...pain, pain, fly away, fly away.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47643326.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 1,
+  "is_tuner": true
+}

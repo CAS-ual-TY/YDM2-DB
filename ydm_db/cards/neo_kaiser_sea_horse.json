@@ -1,0 +1,21 @@
+{
+  "id": 54332792,
+  "name": "Neo Kaiser Sea Horse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control \"Blue-Eyes White Dragon\": You can Special Summon this card from your hand. You can target 1 LIGHT Tuner you control; increase or decrease its Level by 1. If this card is sent from the field to the GY: You can send 1 \"Blue-Eyes\" monster or 1 monster that mentions \"Blue-Eyes White Dragon\" from your Deck to the GY, except \"Neo Kaiser Sea Horse\". You can only use each effect of \"Neo Kaiser Sea Horse\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/54332792.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1650,
+  "level": 4,
+  "is_tuner": true
+}

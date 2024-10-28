@@ -3,7 +3,7 @@
   "name": "Whirlwind Prodigy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.",
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a WIND monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15090429.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1500,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

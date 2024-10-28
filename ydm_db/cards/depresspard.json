@@ -1,0 +1,21 @@
+{
+  "id": 10474647,
+  "name": "Depresspard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this is the only card in your hand: You can Special Summon this card. If you do: This card's ATK becomes 2500 until the end of your opponent's turn. If this card battles an opponent's monster, you take any battle damage your opponent would have taken from that battle. If you take damage from battles involving this card: This card's ATK becomes 0, then if your LP are 2000 or less, this card's ATK becomes 5000.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10474647.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 100,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
+}

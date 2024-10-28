@@ -3,20 +3,18 @@
   "name": "XYZ-Dragon Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+  "text": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/91998119.jpg",
-    "https://images.ygoprodeck.com/images/cards/91998120.jpg",
-    "https://images.ygoprodeck.com/images/cards/91998121.jpg"
+    "https://images.ygoprodeck.com/images/cards/91998119.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2600,
   "level": 8,
   "is_tuner": false

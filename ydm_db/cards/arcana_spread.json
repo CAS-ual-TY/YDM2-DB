@@ -1,0 +1,12 @@
+{
+  "id": 76302448,
+  "name": "Arcana Spread",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Toss a coin and apply this effect. If \"Light Barrier\" is in your Field Zone, you choose the effect instead.\n\u25cf Heads: Special Summon 1 Level 4 or lower \"Arcana Force\" monster from your Deck.\n\u25cf Tails: Special Summon 1 monster from your GY that has a coin tossing effect.\nYou can banish this card from your GY; add 1 card from your GY to your hand that has a coin tossing effect. You can only use 1 \"Arcana Spread\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/76302448.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

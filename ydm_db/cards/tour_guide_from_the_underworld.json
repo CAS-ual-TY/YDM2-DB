@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend monster from your hand or Deck, but negate its effects, also it cannot be used as Synchro Material.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/10802915.jpg",
-    "https://images.ygoprodeck.com/images/cards/10802916.jpg"
+    "https://images.ygoprodeck.com/images/cards/10802915.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 3,
   "is_tuner": false

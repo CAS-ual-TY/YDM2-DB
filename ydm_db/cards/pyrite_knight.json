@@ -1,0 +1,21 @@
+{
+  "id": 48228390,
+  "name": "Pyrite Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand or GY: You can target 1 Warrior monster (EARTH or FIRE) you control, except \"Pyrite Knight\"; return it to the hand, and if you do, Special Summon this card, then Special Summon 1 \"Pyrite Token\" (Warrior/FIRE/Level 4/ATK 0/DEF 2000) to your opponent's field in Defense Position. During the Battle Phase (Quick Effect): You can Special Summon 1 Warrior monster from your hand. You can only use each effect of \"Pyrite Knight\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/48228390.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

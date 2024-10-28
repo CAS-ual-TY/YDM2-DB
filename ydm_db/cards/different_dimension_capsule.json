@@ -3,7 +3,7 @@
   "name": "Different Dimension Capsule",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select 1 card from your Deck and remove it from play face-down. During your 2nd Standby Phase after activation, destroy this card and add the removed card to your hand.",
+  "text": "Banish 1 card from your Deck face-down. After this card's activation, it remains on the field. Destroy this card during your 2nd Standby Phase after activating this card, and if you do, add the banished card to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11961740.jpg"
   ],

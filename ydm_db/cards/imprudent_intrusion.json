@@ -1,0 +1,12 @@
+{
+  "id": 26357901,
+  "name": "Imprudent Intrusion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your LP must be lower than your opponent's to activate and to resolve this effect.\nActivate 1 of these effects;\n\u25cf Destroy 1 monster your opponent controls with ATK less than or equal to the difference in LP.\n\u25cf Special Summon 1 monster from your GY with ATK less than or equal to the difference in LP.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/26357901.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

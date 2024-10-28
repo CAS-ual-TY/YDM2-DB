@@ -1,0 +1,12 @@
+{
+  "id": 85395151,
+  "name": "Release Brainwashing",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a monster(s) is Tributed from the hand or field (except during the Damage Step): Target 1 face-up monster your opponent controls; apply the following effect, based on which player owns that face-up monster.\n\u25cf You: Take control of it, but return it to the hand during the End Phase.\n\u25cf Your opponent: Negate its effects until the end of this turn.\nYou can only activate 1 \"Release Brainwashing\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/85395151.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

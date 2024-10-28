@@ -3,7 +3,7 @@
   "name": "Blackwing - Pinaki the Waxing Moon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Blackwing\" Synchro Monster. During the End Phase, if this card is in the Graveyard because it was sent there from the field this turn: You can add 1 \"Blackwing\" monster from your Deck to your hand, except \"Blackwing - Pinaki the Waxing Moon\". You can only use this effect of \"Blackwing - Pinaki the Waxing Moon\" once per turn.",
+  "text": "Cannot be used as Synchro Material, except for the Synchro Summon of a \"Blackwing\" Synchro Monster. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can add 1 \"Blackwing\" monster from your Deck to your hand, except \"Blackwing - Pinaki the Waxing Moon\". You can only use this effect of \"Blackwing - Pinaki the Waxing Moon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55610595.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1200,
   "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": true

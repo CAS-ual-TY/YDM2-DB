@@ -1,0 +1,23 @@
+{
+  "id": 71607202,
+  "name": "Muckraker From the Underworld",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\nCannot be used as Link Material the turn it is Link Summoned. If a monster(s) you control would be destroyed by battle or card effect, you can Tribute 1 Fiend monster instead. You can target 1 Fiend monster in your GY, except \"Muckraker From the Underworld\"; discard 1 card, and if you do, Special Summon that monster, also you cannot Special Summon monsters for the rest of this turn, except Fiend monsters. You can only use this effect of \"Muckraker From the Underworld\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71607202.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom",
+    "Left"
+  ]
+}

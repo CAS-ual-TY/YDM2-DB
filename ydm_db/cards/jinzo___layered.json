@@ -3,7 +3,7 @@
   "name": "Jinzo - Layered",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 6 monsters\nYou can detach 1 material from this card, then target 1 face-up monster your opponent controls; take control of it until the End Phase, but it cannot activate its effects, nor declare an attack. If a Trap(s) is on the field: You can Tribute 1 monster, and if you do, destroy 1 face-up card on the field. You can only use each effect of \"Jinzo - Layered\" once per turn.",
+  "text": "2 Level 6 monsters\nYou can detach 1 material from this card, then target 1 face-up monster your opponent controls; take control of it until the End Phase, but it cannot activate its effects or declare an attack. If a Trap is on the field: You can Tribute 1 monster, and if you do, destroy 1 face-up card on the field. You can only use each effect of \"Jinzo - Layered\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99666430.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2400,
   "species": "Machine",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1500,
   "rank": 6
 }

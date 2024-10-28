@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 4000,
   "species": "Dragon",
-  "monster_type": "Fusion",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "Fusion",
+  "is_pendulum": true,
+  "pendulum_text": "Fusion, Synchro, and Xyz Monsters your opponent controls cannot activate their effects. Once per turn, when a card(s) is added from the Main Deck to your opponent's hand (except during the Draw Phase or the Damage Step): You can destroy that card(s).",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 4000,
   "level": 12,
-  "is_tuner": false,
-  "pendulum_text": "Fusion, Synchro, and Xyz Monsters your opponent controls cannot activate their effects. Once per turn, when a card(s) is added from the Main Deck to your opponent's hand (except during the Draw Phase or the Damage Step): You can destroy that card(s).\n",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

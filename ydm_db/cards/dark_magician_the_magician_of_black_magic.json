@@ -1,0 +1,21 @@
+{
+  "id": 342673,
+  "name": "Dark Magician the Magician of Black Magic",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card's name becomes \"Dark Magician\" while on the field. You can only use each of the following effects of \"Dark Magician the Magician of Black Magic\" once per turn. If \"Shining Sarcophagus\" is on the field: You can Special Summon this card from your hand. If this card is destroyed by card effect and a Level 5 or higher monster is on the field: You can Special Summon this card, then you can Set 1 Spell/Trap from your Deck that mentions \"Dark Magician\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/342673.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
+}

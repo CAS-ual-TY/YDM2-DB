@@ -1,0 +1,21 @@
+{
+  "id": 6400512,
+  "name": "Cyber Commander",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A strike force equipped with rocket launchers and bazookas.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6400512.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 750,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Volcanic Rocket",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or Graveyard to your hand.",
+  "text": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or GY to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76459806.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 1900,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

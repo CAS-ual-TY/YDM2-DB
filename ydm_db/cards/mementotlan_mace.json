@@ -1,0 +1,21 @@
+{
+  "id": 81945676,
+  "name": "Mementotlan Mace",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your opponent's Main Phase, if you control \"Mementoal Tecuhtlica - Combined Creation\" (Quick Effect): You can discard this card, then target 1 face-up monster your opponent controls; take control of it until the End Phase. During your Main Phase: You can destroy 1 \"Memento\" monster you control, and if you do, add 1 \"Memento\" card from your Deck to your hand, except \"Mementotlan Mace\". You can only use each effect of \"Mementotlan Mace\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81945676.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 400,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

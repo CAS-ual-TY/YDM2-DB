@@ -1,0 +1,21 @@
+{
+  "id": 44094981,
+  "name": "Earthbound Servant Geo Gryphon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 DARK Tuner + 1+ non-Tuner monsters\n(Quick Effect): You can Special Summon 1 \"Earthbound\" monster from your GY in Defense Position, except \"Earthbound Servant Geo Gryphon\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion or Synchro Monsters. If this card in its owner's possession is destroyed by an opponent's card: You can destroy 1 card on the field, then inflict 300 damage to your opponent for each \"Earthbound\" monster with a different name in your field and GY. You can only use each effect of \"Earthbound Servant Geo Gryphon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44094981.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

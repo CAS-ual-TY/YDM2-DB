@@ -3,7 +3,7 @@
   "name": "Queen Angel of Roses",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Plant-Type monster. Once per turn, during your Standby Phase: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied).",
+  "text": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Plant monster. Once per turn, during your Standby Phase: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96470883.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2400,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 7,
   "is_tuner": false

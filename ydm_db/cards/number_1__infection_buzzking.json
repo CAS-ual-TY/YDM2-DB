@@ -1,0 +1,20 @@
+{
+  "id": 10666000,
+  "name": "Number 1: Infection Buzzking",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 8 monsters\nOnce per turn, during your Standby Phase: You can attach 1 card from your opponent's GY to this card as material. You can only use each of the following effects of \"Number 1: Infection Buzzking\" once per turn. If this card is Xyz Summoned: You can look at your opponent's Extra Deck and send 1 card from it to the GY. You can detach 1 material from this card, then target 1 card your opponent controls; destroy it, then if you destroyed a face-up monster, inflict damage to your opponent equal to half the ATK it had on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10666000.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2500,
+  "rank": 8
+}

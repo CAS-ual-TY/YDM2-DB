@@ -1,0 +1,21 @@
+{
+  "id": 66569334,
+  "name": "Nightmell the Dark Bonder",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute 1 monster; Special Summon from your Deck, 1 monster with the same original Type, Attribute, Level, and ATK/DEF as the Tributed monster, but with a different original name. If you Tributed a monster Special Summoned from the Extra Deck, you can Special Summon a monster from your Extra Deck instead that meets those same criteria. You can only use this effect of \"Nightmell the Dark Bonder\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/66569334.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

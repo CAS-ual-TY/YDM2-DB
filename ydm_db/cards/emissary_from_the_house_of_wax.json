@@ -1,0 +1,21 @@
+{
+  "id": 87462901,
+  "name": "Emissary from the House of Wax",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. You can only use this effect of \"Emissary from the House of Wax\" once per turn. If this card battles a monster, neither can be destroyed by that battle. At the end of your opponent's Battle Phase: You can activate this effect; until the start of your opponent's next Battle Phase, all Attack Position monsters your opponent currently controls cannot change their battle positions, nor be used as material for a Fusion, Synchro, Xyz, or Link Summon, also their effects are negated.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/87462901.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Illusion",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
+}

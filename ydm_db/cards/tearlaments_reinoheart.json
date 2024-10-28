@@ -1,0 +1,21 @@
+{
+  "id": 73956664,
+  "name": "Tearlaments Reinoheart",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can send 1 \"Tearlaments\" monster from your Deck to the GY, except \"Tearlaments Reinoheart\". If this card is sent to the GY by card effect: You can Special Summon this card (but banish it when it leaves the field), and if you do, send 1 \"Tearlaments\" card from your hand to the GY. You can only use each effect of \"Tearlaments Reinoheart\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/73956664.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

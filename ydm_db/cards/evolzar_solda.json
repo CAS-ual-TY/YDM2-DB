@@ -3,7 +3,7 @@
   "name": "Evolzar Solda",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 6 Dinosaur-Type monsters\nThis card cannot be destroyed by card effects while it has Xyz Material. When your opponent Special Summons a monster(s): You can detach 1 Xyz Material from this card; destroy that monster(s).",
+  "text": "2 Level 6 Dinosaur monsters\nCannot be destroyed by card effects while it has material. When your opponent Special Summons a monster(s) (except during the Damage Step): You can detach 1 material from this card; destroy that monster(s).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18511599.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2600,
   "species": "Dragon",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1000,
   "rank": 6
 }

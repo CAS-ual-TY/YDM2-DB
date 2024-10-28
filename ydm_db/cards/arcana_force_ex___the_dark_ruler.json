@@ -3,7 +3,7 @@
   "name": "Arcana Force EX - The Dark Ruler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 monsters you control to the Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: Toss a coin and gain the appropriate effect.\n? Heads: This card can make a second attack during each Battle Phase, but if it does so using this effect, change it to Defense Position at the end of the Battle Phase. Its battle position cannot be changed until the end of your next turn.\n? Tails: If this card is destroyed, destroy all cards on the field.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 monsters you control to the Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: Toss a coin and gain the appropriate effect.\n\u25cf Heads: This card can make a second attack during each Battle Phase, but if it does so using this effect, change it to Defense Position at the end of the Battle Phase. Its battle position cannot be changed until the end of your next turn.\n\u25cf Tails: If this card is destroyed, destroy all cards on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69831560.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 4000,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 4000,
   "level": 10,
   "is_tuner": false

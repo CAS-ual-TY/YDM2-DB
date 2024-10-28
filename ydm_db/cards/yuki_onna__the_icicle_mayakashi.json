@@ -1,0 +1,24 @@
+{
+  "id": 36114945,
+  "name": "Yuki-Onna, the Icicle Mayakashi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Zombie monsters\nYou can only control 1 \"Yuki-Onna, the Icicle Mayakashi\". You can only use each of the following effects of \"Yuki-Onna, the Icicle Mayakashi\" once per turn. If this card is Special Summoned: You can target 1 Effect Monster your opponent controls; negate its effects. (Quick Effect): You can banish this card from your GY; Special Summon 1 of your Zombie Synchro Monsters that is banished or in your GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/36114945.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2400,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom",
+    "Bottom-Left"
+  ]
+}

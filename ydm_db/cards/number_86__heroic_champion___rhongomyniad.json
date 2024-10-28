@@ -3,7 +3,7 @@
   "name": "Number 86: Heroic Champion - Rhongomyniad",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 or more (max. 5) Level 4 Warrior monsters\nOnce per turn, during your opponent's End Phase: Detach 1 material from this card. This card gains effects based on the number of materials attached to it.\n? 1+: Cannot be destroyed by battle. ? 2+: Gains 1500 ATK/DEF. ? 3+: Unaffected by other cards' effects. ? 4+: Your opponent cannot Normal or Special Summon monsters. ? 5: Once per turn: You can destroy all cards your opponent controls.",
+  "text": "2 or more (max. 5) Level 4 Warrior monsters\nOnce per turn, during your opponent's End Phase: Detach 1 material from this card. This card gains effects based on the number of materials attached to it.\n\u25cf 1+: Cannot be destroyed by battle. \u25cf 2+: Gains 1500 ATK/DEF. \u25cf 3+: Unaffected by other cards' effects. \u25cf 4+: Your opponent cannot Normal or Special Summon monsters. \u25cf 5: Once per turn: You can destroy all cards your opponent controls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63504681.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1500,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1500,
   "rank": 4
 }

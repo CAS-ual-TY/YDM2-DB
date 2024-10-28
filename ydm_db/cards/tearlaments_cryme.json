@@ -1,0 +1,12 @@
+{
+  "id": 1329620,
+  "name": "Tearlaments Cryme",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a Spell/Trap Card, or monster effect, is activated, while you control a \"Tearlaments\" monster or \"Visas Starfrost\": Negate the activation, and if you do, shuffle that card into the Deck, then send 1 monster from your hand to the GY. If this card is sent to the GY by card effect: You can target 1 of your banished \"Tearlaments\" monsters; add it to your hand. You can only use 1 \"Tearlaments Cryme\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/1329620.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

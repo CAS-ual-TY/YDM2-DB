@@ -1,0 +1,21 @@
+{
+  "id": 81519836,
+  "name": "Vernusylph of the Misting Seedlings",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All monsters on the field lose 600 ATK, except \"Vernusylph\" monsters. You can discard this card, and 1 monster or 1 \"Vernusylph\" card; you cannot activate non-EARTH monster effects for the rest of this turn, also add 1 EARTH Fairy monster from your Deck to your hand, except \"Vernusylph of the Misting Seedlings\", then you can Special Summon 1 EARTH monster from your GY. You can only use this effect of \"Vernusylph of the Misting Seedlings\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81519836.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

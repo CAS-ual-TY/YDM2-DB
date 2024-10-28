@@ -1,0 +1,21 @@
+{
+  "id": 69925461,
+  "name": "Toy Tank",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. You can only use each of the following effects of \"Toy Tank\" once per turn. If this Set card in the Spell & Trap Zone is sent to the GY: You can Special Summon this card. You can Tribute this monster; Special Summon 1 Level 6 or lower monster from your hand, or, if you control \"Toy Box\", you can Special Summon 1 Level 6 or lower monster from your GY instead, except \"Toy Tank\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69925461.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

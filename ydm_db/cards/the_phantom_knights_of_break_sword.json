@@ -3,7 +3,7 @@
   "name": "The Phantom Knights of Break Sword",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 card you control and 1 card your opponent controls; destroy them. If this Xyz Summoned card is destroyed: You can target 2 \"The Phantom Knights\" monsters with the same Level in your GY; Special Summon them and increase their Levels by 1, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters.",
+  "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 card you control and 1 card your opponent controls; destroy them. If this Xyz Summoned card is destroyed: You can target 2 \"The Phantom Knights\" monsters with the same Level in your GY; Special Summon them and increase their Levels by 1, also you cannot Special Summon for the rest of this turn, except DARK monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62709239.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2000,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1000,
   "rank": 3
 }

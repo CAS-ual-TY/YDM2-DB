@@ -1,0 +1,21 @@
+{
+  "id": 6367785,
+  "name": "Eldeen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The cane of this monster is the source of many powerful spells.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6367785.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 950,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 33331231,
+  "name": "Surgical Striker - H.A.M.P.",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Sky Striker\" card.)\nIf you control a \"Sky Striker Ace\" monster, you can Special Summon this card (from your hand) to either field by Tributing 1 monster from that field. You can only Special Summon \"Surgical Striker - H.A.M.P.\" once per turn this way. When this card is destroyed by battle: You can target 1 card your opponent controls; destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33331231.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

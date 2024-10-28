@@ -1,0 +1,21 @@
+{
+  "id": 53246495,
+  "name": "Infernity Queen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have no cards in your hand and this card is in your GY: You can banish 1 DARK monster from your GY, then target 1 DARK monster you control; it can attack directly this turn. You can only use this effect of \"Infernity Queen\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53246495.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

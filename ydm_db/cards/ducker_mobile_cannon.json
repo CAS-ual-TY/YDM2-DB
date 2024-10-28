@@ -3,7 +3,7 @@
   "name": "DUCKER Mobile Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Target 1 Level 4 monster in your Graveyard; add that target to your hand.",
+  "text": "FLIP: Target 1 Level 4 monster in your GY; add that target to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14506878.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 500,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 3,
   "is_tuner": false

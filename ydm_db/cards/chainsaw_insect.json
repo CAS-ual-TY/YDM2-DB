@@ -3,7 +3,7 @@
   "name": "Chainsaw Insect",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Damage Step, if this card attacked or was attacked: Your opponent draws 1 card.",
+  "text": "If this card battled, at the end of the Damage Step: Your opponent draws 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77252217.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2400,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

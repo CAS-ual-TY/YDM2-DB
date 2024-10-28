@@ -1,0 +1,21 @@
+{
+  "id": 9275482,
+  "name": "UFOLight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent cannot target this card on the field with card effects, except during the Battle Phase. If this card battles a monster, neither can be destroyed by that battle. During the End Phase: You can draw 1 card, then you must banish any number of cards from your hand (min. 1), and if you do, this card gains 500 ATK for each. You can only use this effect of \"UFOLight\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9275482.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Illusion",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Giant Orc",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.",
+  "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. It cannot change its battle position until the end of your next turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73698349.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2200,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

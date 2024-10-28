@@ -1,0 +1,24 @@
+{
+  "id": 67288539,
+  "name": "Borrelcode Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Effect Monsters\nThis card cannot be destroyed by card effects while a Link Monster points to it. You can only use each of the following effects of \"Borrelcode Dragon\" once per turn. At the start of the Damage Step, if this card that was Link Summoned using 3 monsters as material battles an opponent's monster: You can destroy all monsters on the field. You can banish this card from your GY; banish 1 DARK monster with 3000 or more ATK from the field, and if you do, Special Summon 1 \"Topologic\" monster from your Extra Deck or GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/67288539.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Top",
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

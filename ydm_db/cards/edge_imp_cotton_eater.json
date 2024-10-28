@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2400,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "All Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can draw 1 card.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 1600,
   "level": 7,
-  "is_tuner": false,
-  "pendulum_text": "All Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can draw 1 card.\n",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

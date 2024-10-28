@@ -1,0 +1,21 @@
+{
+  "id": 62803464,
+  "name": "Aussa the Earth Channeler",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Charmer\" card.)\nYou can discard this card and 1 EARTH monster; add 1 EARTH monster from your Deck to your hand with 1850 or less ATK, whose original Type is the same as one of the discarded monsters, also you cannot activate non-EARTH monster effects for the rest of this turn. When your EARTH monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Aussa the Earth Channeler\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/62803464.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1850,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

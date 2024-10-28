@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1300,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 3,
   "is_tuner": false

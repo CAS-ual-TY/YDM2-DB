@@ -1,0 +1,21 @@
+{
+  "id": 25273572,
+  "name": "G Golem Pebble Dog",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add to your hand or Special Summon 1 \"G Golem Pebble Dog\" from your Deck, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. If this card is sent from the hand to the GY: You can add 1 \"G Golem\" card from your Deck to your hand. You can only use each effect of \"G Golem Pebble Dog\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/25273572.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}

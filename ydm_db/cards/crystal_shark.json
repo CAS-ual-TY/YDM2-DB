@@ -1,0 +1,21 @@
+{
+  "id": 98881700,
+  "name": "Crystal Shark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is used for the Xyz Summon of a \"Number\" monster, it can be treated as a Level 3 or 4 monster. If this card is in your hand or GY: You can target 1 WATER monster on the field; Special Summon this card (but banish this card when it leaves the field), and if you do, halve that monster's ATK, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Crystal Shark\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98881700.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 5,
+  "is_tuner": false
+}

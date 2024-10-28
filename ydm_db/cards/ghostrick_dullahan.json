@@ -3,7 +3,7 @@
   "name": "Ghostrick Dullahan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 1 monsters\nThis card gains 200 ATK for each \"Ghostrick\" card you control. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; halve its ATK, until the end of this turn. If this card is sent to the Graveyard: You can target 1 other \"Ghostrick\" card in your Graveyard; add that target to your hand.",
+  "text": "2 Level 1 monsters\nThis card gains 200 ATK for each \"Ghostrick\" card you control. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster on the field; halve its ATK, until the end of this turn. If this card is sent to the GY: You can target 1 other \"Ghostrick\" card in your GY; add that target to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46895036.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1000,
   "species": "Fiend",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 0,
   "rank": 1
 }

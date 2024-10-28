@@ -3,7 +3,7 @@
   "name": "Rare Metalmorph",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate this card by targeting 1 Machine-Type monster on the field; it gains 500 ATK. Once, negate a Spell effect that targets that monster. When that monster leaves the field, destroy this card.",
+  "text": "Activate this card by targeting 1 Machine monster on the field; while this card is face-up on the field, that Machine monster gains 500 ATK, also negate the first Spell effect that targets that monster. When that monster leaves the field, destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12503902.jpg"
   ],

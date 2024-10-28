@@ -3,7 +3,7 @@
   "name": "Speedroid Den-Den Daiko Duke",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can banish this card from your Graveyard; Special Summon 1 \"Speedroid\" Tuner monster from your hand or Graveyard, except \"Speedroid Den-Den Daiko Duke\". You can only use this effect of \"Speedroid Den-Den Daiko Duke\" once per turn.",
+  "text": "You can banish this card from your GY; Special Summon 1 \"Speedroid\" Tuner from your hand or GY, except \"Speedroid Den-Den Daiko Duke\". You can only use this effect of \"Speedroid Den-Den Daiko Duke\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59640711.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": true

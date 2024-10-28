@@ -1,0 +1,21 @@
+{
+  "id": 52596406,
+  "name": "White Sunfish",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can target 1 Level 4 or lower Fish monster in your GY with the same name as a card you control; Special Summon this card, and if you do, Special Summon that monster. You can only use this effect of \"White Sunfish\" once per turn. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/52596406.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Red Dragon Archfiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nAfter damage calculation, if this card attacks a Defense Position monster your opponent controls: Destroy all Defense Position monsters your opponent controls. During your End Phase: Destroy all other monsters you control that did not declare an attack this turn. This card must be face-up on the field to activate and to resolve this effect.",
+  "text": "1 Tuner + 1+ non-Tuner monsters\nAfter damage calculation, if this card attacked an opponent's Defense Position monster: Destroy all Defense Position monsters your opponent controls. Once per turn, during your End Phase: Destroy all other monsters you control that did not declare an attack this turn. This card must be face-up on the field to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70902743.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2000,
   "level": 8,
   "is_tuner": false

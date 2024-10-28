@@ -5,22 +5,21 @@
   "is_custom": false,
   "text": "2+ monsters with different names, except Tokens\nYou can only control 1 \"Apollousa, Bow of the Goddess\". The original ATK of this card becomes 800 x the number of Link Materials used for its Link Summon. Once per Chain, when your opponent activates a monster effect (Quick Effect): You can make this card lose exactly 800 ATK, and if you do, negate the activation.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/4280258.jpg",
-    "https://images.ygoprodeck.com/images/cards/4280259.jpg"
+    "https://images.ygoprodeck.com/images/cards/4280258.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
-  "atk": 0,
+  "atk": -1,
   "species": "Fairy",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 4,
   "link_arrows": [
-    "Bottom-Left",
-    "Bottom",
+    "Top",
     "Bottom-Right",
-    "Top"
+    "Bottom",
+    "Bottom-Left"
   ]
 }

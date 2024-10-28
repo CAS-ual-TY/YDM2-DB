@@ -1,0 +1,21 @@
+{
+  "id": 84544192,
+  "name": "Ultimate Crystal Rainbow Dragon Overdrive",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Ultimate Crystal\" monster + 7 \"Crystal Beast\" monsters\nMust be Special Summoned (from your Extra Deck) during a Duel you Special Summoned an \"Ultimate Crystal\" monster, by banishing the above monsters from your field and/or GY. While 7 or more of your \"Crystal Beast\" monsters with different names are banished, this card gains 7000 ATK. If this card has not battled this turn (Quick Effect): You can Tribute this card; shuffle as many cards on the field as possible into the Deck, and if you do, Special Summon any number of your banished \"Crystal Beast\" monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84544192.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 4000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 0,
+  "level": 12,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Thestalos the Mega Monarch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n? Also, inflict 1000 damage to your opponent after that.",
+  "text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n\u25cf Also, inflict 1000 damage to your opponent after that.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69230391.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2800,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 8,
   "is_tuner": false

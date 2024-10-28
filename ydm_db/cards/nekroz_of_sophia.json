@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 3600,
   "species": "Spellcaster",
-  "monster_type": "Ritual",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
   "def": 3400,
   "level": 11,
   "is_tuner": false

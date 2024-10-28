@@ -3,7 +3,7 @@
   "name": "Kahkki, Guerilla of Dark World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is discarded to the Graveyard by a card effect: Target 1 monster on the field; destroy that target.",
+  "text": "If this card is discarded to the GY by card effect: Target 1 monster on the field; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25847467.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 300,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 2,
   "is_tuner": false

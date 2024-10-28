@@ -3,7 +3,7 @@
   "name": "Invoked Raidjin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Aleister the Invoker\" + 1 WIND monster\nOnce per turn, during either player's turn: You can target 1 face-up monster on the field; change it to face-down Defense Position.",
+  "text": "\"Aleister the Invoker\" + 1 WIND monster\nOnce per turn (Quick Effect): You can target 1 face-up monster on the field; change it to face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49513164.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2200,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2400,
   "level": 5,
   "is_tuner": false

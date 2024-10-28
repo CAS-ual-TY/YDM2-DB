@@ -1,0 +1,21 @@
+{
+  "id": 53085623,
+  "name": "Mermail Shadow Squad",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as an \"Atlantean\" card.)\nYou can discard 1 card to the GY; WATER monsters you currently control become Level 7 until the end of this turn. If this card is sent to the GY to activate a WATER monster's effect: Special Summon 1 Level 4 or lower \"Atlantean\" or \"Mermail\" monster from your Deck, except \"Mermail Shadow Squad\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. You can only use each effect of \"Mermail Shadow Squad\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53085623.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1900,
+  "level": 3,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Number C106: Giant Red Hand",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 5 monsters\nIf this card has a \"Number\" monster as an Xyz Material, it gains this effect.\n? Once per turn, during either player's turn, when a card or effect is activated on the field: Detach 1 Xyz Material from this card, and if you do, negate the effects of all other face-up cards currently on the field until the end of this turn.",
+  "text": "3 Level 5 monsters\nIf this card has a \"Number\" monster as material, it gains this effect.\n\u25cf Once per turn, when a card or effect is activated on the field (Quick Effect): Detach 1 material from this card, and if you do, negate the effects of all other face-up cards currently on the field until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55888045.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2600,
   "species": "Rock",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2000,
   "rank": 5
 }

@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 500,
   "species": "Beast",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 600,
   "rank": 1
 }

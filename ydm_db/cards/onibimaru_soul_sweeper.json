@@ -1,0 +1,20 @@
+{
+  "id": 9486959,
+  "name": "Onibimaru Soul Sweeper",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 2 monsters\nYou can detach 1 material from this card, then target 1 monster your opponent controls; banish it until your opponent's End Phase. If this card in its owner's control is destroyed by an opponent's card: You can target banished monsters, up to the number of materials this card had; shuffle them into the Deck. You can only use each effect of \"Onibimaru Soul Sweeper\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9486959.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1600,
+  "rank": 2
+}

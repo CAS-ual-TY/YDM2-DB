@@ -9,13 +9,13 @@
   ],
   "type": "Monster",
   "attribute": "DIVINE",
-  "atk": 0,
-  "species": "Creator God",
-  "monster_type": "",
-  "is_pendulum": false,
+  "atk": -1,
+  "species": "Creator\u00a0God",
   "ability": "",
   "has_effect": true,
-  "def": 0,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": -1,
   "level": 12,
   "is_tuner": false
 }

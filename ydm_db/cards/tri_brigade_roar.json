@@ -1,0 +1,12 @@
+{
+  "id": 10793085,
+  "name": "Tri-Brigade Roar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Link Monster: Send 1 \"Tri-Brigade\" card from your Deck or Extra Deck to the GY, then target 1 Effect Monster on the field; apply the following effect based on the type of card sent to the GY.\n\u25cf Monster: Change the targeted monster's ATK to 0 until the end of this turn.\n\u25cf Spell: Negate that monster's effects until the end of this turn.\n\u25cf Trap: Return that monster to the hand.\nYou can only activate 1 \"Tri-Brigade Roar\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10793085.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

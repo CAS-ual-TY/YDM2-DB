@@ -1,0 +1,21 @@
+{
+  "id": 24232799,
+  "name": "Storagepod",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Trifortressops\" or \"Stegocyber\" + 1 Machine or Dinosaur monster\nCannot be destroyed by battle while a monster Special Summoned from the GY is on the field. If a monster(s) is Special Summoned from the hand while this monster is on the field (except during the Damage Step): You can target 1 card you control and 1 card your opponent controls; destroy them. You can only use this effect of \"Storagepod\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/24232799.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 6,
+  "is_tuner": false
+}

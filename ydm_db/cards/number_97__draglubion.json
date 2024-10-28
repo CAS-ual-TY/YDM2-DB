@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Dragon",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 3000,
   "rank": 8
 }

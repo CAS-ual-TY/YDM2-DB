@@ -1,0 +1,12 @@
+{
+  "id": 96367119,
+  "name": "Black Shadow Squall",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a Spell/Trap Card is activated: Remove 1 Black Feather Counter from your field; negate the activation, and if you do, destroy that card. If you control \"Black-Winged Dragon\": You can Set this card from your GY, but banish it when it leaves the field. You can only use 1 \"Black Shadow Squall\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/96367119.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

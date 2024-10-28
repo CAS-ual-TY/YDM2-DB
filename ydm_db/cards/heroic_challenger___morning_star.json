@@ -1,0 +1,21 @@
+{
+  "id": 18548966,
+  "name": "Heroic Challenger - Morning Star",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control 2 or more Warrior monsters: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Heroic\" Spell/Trap from your Deck to your hand. If this card is in your GY and your LP are 500 or less: You can Special Summon this card, but negate its effects. You can only use each effect of \"Heroic Challenger - Morning Star\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/18548966.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

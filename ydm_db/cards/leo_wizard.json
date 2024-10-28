@@ -1,0 +1,21 @@
+{
+  "id": 4392470,
+  "name": "Leo Wizard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A wizard with a black mantle who is actually a talking lion in disguise.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/4392470.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1350,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 5,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "King Tiger Wanghu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a monster(s) with 1400 or less ATK is Normal Summoned or Special Summoned: Destroy those monsters with 1400 or less ATK. This card must be face-up on the field to activate and to resolve this effect.",
+  "text": "If a monster(s) with 1400 or less ATK is Normal or Special Summoned while you control this card: Destroy those monsters with 1400 or less ATK. This card must be face-up on the field to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83986578.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1700,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

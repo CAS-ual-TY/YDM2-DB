@@ -1,0 +1,21 @@
+{
+  "id": 11962031,
+  "name": "Salamangreat of Fire",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 Level 4 or lower \"Salamangreat\" monster from your Deck to your hand, except \"Salamangreat of Fire\", also you cannot Special Summon monsters for the rest of this turn, except FIRE monsters. At the start of the Damage Step, if a Cyberse monster you control battles: You can banish this card from your GY; destroy that monster you control. You can only use each effect of \"Salamangreat of Fire\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/11962031.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

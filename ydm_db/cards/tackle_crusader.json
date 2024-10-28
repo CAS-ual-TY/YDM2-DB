@@ -3,7 +3,7 @@
   "name": "Tackle Crusader",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the Graveyard: You can activate 1 of these effects.\n? Target 1 face-up monster your opponent controls; change that target to face-down Defense Position.\n? Target 1 face-up Spell/Trap Card your opponent controls; return that target to the hand. This turn, your opponent cannot activate cards with the same name as the card returned to the hand by this effect.",
+  "text": "If this card is sent to the GY: You can activate 1 of these effects.\n\u25cf Target 1 face-up monster your opponent controls; change that target to face-down Defense Position.\n\u25cf Target 1 face-up Spell/Trap your opponent controls; return that target to the hand. This turn, your opponent cannot activate cards with the same name as the card returned to the hand by this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12467005.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 4,
   "is_tuner": false

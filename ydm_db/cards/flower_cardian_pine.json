@@ -3,7 +3,7 @@
   "name": "Flower Cardian Pine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal Summoned: Draw 1 card, show it, then send it to the Graveyard unless it is a \"Flower Cardian\" monster. You can only use this effect of \"Flower Cardian Pine\" once per turn. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can draw 1 card.",
+  "text": "If this card is Normal Summoned: Draw 1 card, show it, then send it to the GY unless it is a \"Flower Cardian\" monster. You can only use this effect of \"Flower Cardian Pine\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81752019.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 100,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

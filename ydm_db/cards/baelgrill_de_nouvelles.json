@@ -1,0 +1,21 @@
+{
+  "id": 88890658,
+  "name": "Baelgrill de Nouvelles",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can negate the effects of all face-up cards your opponent currently controls (until the end of this turn), then, if this card was Special Summoned by the effect of a \"Nouvelles\" monster, you can Tribute as many monsters your opponent controls as possible. (Quick Effect): You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 \"Hungry Burger\" from your hand or Deck. You can only use each effect of \"Baelgrill de Nouvelles\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/88890658.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 1850,
+  "level": 6,
+  "is_tuner": false
+}

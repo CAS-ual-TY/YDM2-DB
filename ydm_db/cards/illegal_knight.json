@@ -1,0 +1,21 @@
+{
+  "id": 42198835,
+  "name": "Illegal Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase, if you control no monsters, or control an \"Adventurer Token\" (Quick Effect): You can Special Summon this card from your hand. If you control an \"Adventurer Token\" (Quick Effect): You can target up to 2 cards your opponent controls; give control of this card to your opponent, and if you do, return that card(s) to the hand. You can only use each effect of \"Illegal Knight\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/42198835.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

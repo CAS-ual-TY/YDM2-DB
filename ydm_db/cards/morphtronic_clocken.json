@@ -3,7 +3,7 @@
   "name": "Morphtronic Clocken",
   "is_illegal": false,
   "is_custom": false,
-  "text": "? While in Attack Position: This card gains 500 ATK for each Morph Counter on it. ? While in Defense Position: Once per turn, you can place 1 Morph Counter on this card. You can Tribute this card to inflict 1000 damage to your opponent for each Morph Counter on it.",
+  "text": "\u25cf While in Attack Position: This card gains 500 ATK for each Morph Counter on it. \u25cf While in Defense Position: Once per turn, you can place 1 Morph Counter on this card. You can Tribute this card to inflict 1000 damage to your opponent for each Morph Counter on it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91607976.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 600,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1100,
   "level": 2,
   "is_tuner": false

@@ -1,0 +1,12 @@
+{
+  "id": 58143766,
+  "name": "Volcanic Emission",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate 1 of these effects (but you can only use each effect of \"Volcanic Emission\" once per turn);\n\u25cf Take 1 \"Volcanic\" monster from your Deck, and either add it to your hand or Special Summon it, ignoring its Summoning conditions, but return it to the hand during the End Phase.\n\u25cf Target 1 Pyro monster on the field; inflict damage to your opponent equal to that monster's original ATK, or if you targeted a monster you control, the damage is halved.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/58143766.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

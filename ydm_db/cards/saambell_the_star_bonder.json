@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 1400,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you have a Pendulum Monster Card with the same Level as this card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card. You can only use this effect of \"Saambell the Star Bonder\" once per turn.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
   "def": 1300,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 7,
-  "pendulum_scale_right_red": 7
+  "is_tuner": false
 }

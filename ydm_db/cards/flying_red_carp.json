@@ -1,0 +1,21 @@
+{
+  "id": 33314479,
+  "name": "Flying Red Carp",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(Quick Effect): You can discard 1 WATER monster; this card gains 500 ATK. When this card destroys an opponent's monster by battle: You can Tribute this card; Special Summon 1 Fish, Sea Serpent, or Aqua monster from your hand or Deck. You can only use each effect of \"Flying Red Carp\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33314479.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 500,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

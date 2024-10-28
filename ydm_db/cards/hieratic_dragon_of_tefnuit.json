@@ -3,7 +3,7 @@
   "name": "Hieratic Dragon of Tefnuit",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand, Deck, or GY, but make its ATK/DEF 0.",
+  "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand). Cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand, Deck, or GY, and make its ATK/DEF 0.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77901552.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2100,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 6,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 81019803,
+  "name": "Merry Melffys",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can target 1 face-up monster on the field; return it to the hand. If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or if an opponent's monster targets this card for an attack: You can return this card to the Extra Deck, then, you can Special Summon 1 \"Melffy\" Xyz Monster from your Extra Deck. You can only use each effect of \"Merry Melffys\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81019803.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

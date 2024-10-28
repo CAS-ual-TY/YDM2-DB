@@ -1,0 +1,20 @@
+{
+  "id": 29423048,
+  "name": "Infernal Flame Banshee",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 monsters\nYou can detach 1 material from this card; take 1 Pyro monster from your Deck and either add it to your hand or send it to the GY. If this card is banished and you control a Pyro monster: You can Special Summon this card, and if you do, it gains ATK equal to the number of your currently banished monsters x 100 until the end of this turn. You can only use each effect of \"Infernal Flame Banshee\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/29423048.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1700,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 600,
+  "rank": 4
+}

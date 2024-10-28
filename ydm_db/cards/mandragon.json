@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 2500,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": false,
-  "def": 1000,
-  "level": 5,
-  "is_tuner": false,
+  "monster_type": "",
+  "is_pendulum": true,
   "pendulum_text": "",
   "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "pendulum_scale_right_red": 2,
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
 }

@@ -1,0 +1,21 @@
+{
+  "id": 69120785,
+  "name": "The Bystial Alba Los",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 2 \"Bystial\" monsters. While this card, Summoned this way, is in the Monster Zone, negate the effects of all face-up Ritual, Fusion, Synchro, Xyz, and Link Monsters on the field. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can banish all face-down cards in the Extra Decks, face-up, until your opponent's End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69120785.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3500,
+  "level": 12,
+  "is_tuner": false
+}

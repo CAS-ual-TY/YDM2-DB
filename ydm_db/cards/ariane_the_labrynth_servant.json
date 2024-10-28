@@ -1,0 +1,21 @@
+{
+  "id": 75730490,
+  "name": "Ariane the Labrynth Servant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send 1 Normal Trap from your hand or that's Set on your field to the GY; Special Summon 1 Level 4 or lower Fiend monster from your Deck in Defense Position, except \"Ariane the Labrynth Servant\". If another monster(s) leaves the field by your Normal Trap effect (except during the Damage Step): You can draw 1 card, then you can apply this effect.\n\u25cf From your hand, either Special Summon 1 Fiend monster, or Set 1 Spell/Trap.\nYou can only use each effect of \"Ariane the Labrynth Servant\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75730490.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

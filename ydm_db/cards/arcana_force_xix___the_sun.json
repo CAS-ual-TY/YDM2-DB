@@ -1,0 +1,21 @@
+{
+  "id": 39761418,
+  "name": "Arcana Force XIX - The Sun",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a card that has a coin tossing effect is on the field: You can Special Summon this card from your hand. You can only use this effect of \"Arcana Force XIX - The Sun\" once per turn. If this card is Summoned: Toss a coin.\n\u25cf Heads: Set 1 Spell from your Deck that has a coin tossing effect.\n\u25cf Tails: Destroy all cards in the Spell & Trap Zones.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/39761418.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2900,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2900,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10449150,
+  "name": "Shuttleroid",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is targeted for an attack: You can banish this card. Once per turn, during your next Standby Phase after this card was banished by this effect: Special Summon this banished card. If Summoned this way: Inflict 1000 damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10449150.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

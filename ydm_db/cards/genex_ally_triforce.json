@@ -3,7 +3,7 @@
   "name": "Genex Ally Triforce",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Genex\" Tuner + 1 or more non-Tuner monsters\nThis card's effects depend on the Attribute(s) of its non-Tuner Synchro Material Monsters. ? EARTH: If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. ? FIRE: If this card destroys a monster by battle, inflict damage to your opponent equal to the ATK of the destroyed monster. ? LIGHT: Once per turn, you can select 1 LIGHT monster in your Graveyard and Special Summon it in face-down Defense Position.",
+  "text": "1 \"Genex\" Tuner + 1 or more non-Tuner monsters\nThis card's effects depend on the Attribute(s) of its non-Tuner Synchro Material Monsters. \u25cf EARTH: If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. \u25cf FIRE: If this card destroys a monster by battle, inflict damage to your opponent equal to the ATK of the destroyed monster. \u25cf LIGHT: Once per turn, you can select 1 LIGHT monster in your Graveyard and Special Summon it in face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52709508.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2500,
   "species": "Machine",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2100,
   "level": 7,
   "is_tuner": false

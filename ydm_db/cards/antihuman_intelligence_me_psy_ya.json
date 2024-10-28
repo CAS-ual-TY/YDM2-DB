@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Cyberse",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Any card sent to the GY is banished instead, except Monster Cards.",
+  "pendulum_scale_left_blue": 0,
+  "pendulum_scale_right_red": 0,
   "def": 3000,
   "level": 8,
-  "is_tuner": false,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 0,
-  "pendulum_scale_right_red": 0
+  "is_tuner": false
 }

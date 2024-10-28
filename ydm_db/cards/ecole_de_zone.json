@@ -1,0 +1,12 @@
+{
+  "id": 60514625,
+  "name": "Ecole de Zone",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If the turn player Summons exactly 1 monster: Destroy it, and if you do, the controller of that monster Special Summons 1 \"Mask Token\" (Spellcaster/DARK/Level 1/ATK ?/DEF ?) to their field, which cannot attack directly, with ATK/DEF equal to what the destroyed monster had on the field. You can only use this effect of \"Ecole de Zone\" once per turn. If this face-up card leaves the field, destroy all \"Mask Tokens\" on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60514625.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

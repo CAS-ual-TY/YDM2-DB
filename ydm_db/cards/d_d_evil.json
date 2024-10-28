@@ -3,7 +3,7 @@
   "name": "D/D Evil",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot attack unless you control another \"D/D\" monster. During your opponent's Main Phase (Quick Effect): You can target 1 Pendulum Summoned monster your opponent controls; negate its effects until the end of this turn. You can only use this effect of \"D/D Evil\" once per turn.",
+  "text": "Cannot attack unless you control another \"D/D\" monster. During your opponent's Main Phase (Quick Effect): You can target 1 face-up Pendulum Summoned monster your opponent controls; negate that face-up monster's effects until the end of this turn. You can only use this effect of \"D/D Evil\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55415564.jpg"
   ],
@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2000,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s) (except during the Damage Step): You can activate this effect; this turn, that Pendulum Summoned monster cannot attack, also its effects are negated.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
   "def": 0,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "Once, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s): You can activate this effect; this turn, that Pendulum Summoned monster(s) cannot attack, also negate its effects (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "is_tuner": false
 }

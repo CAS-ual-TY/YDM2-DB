@@ -1,0 +1,21 @@
+{
+  "id": 91479482,
+  "name": "Courageous Crimson Chevalier Bradamante",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as an \"Infernoble Knight\" card.)\nYou can discard this card, then target 1 Warrior monster you control; equip it with 1 Equip Spell from your Deck that can equip to it. When this card, not equipped with an Equip Card, is destroyed by battle with an opponent's monster and sent to the GY: You can Special Summon this card, and if you do, equip that monster your opponent controls to this card. You can only use each effect of \"Courageous Crimson Chevalier Bradamante\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/91479482.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 1,
+  "is_tuner": true
+}

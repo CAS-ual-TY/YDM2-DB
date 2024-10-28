@@ -1,0 +1,21 @@
+{
+  "id": 42418084,
+  "name": "Winged Egg of New Life",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Legend has it that this creature can foretell the birth of children.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/42418084.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1700,
+  "level": 5,
+  "is_tuner": false
+}

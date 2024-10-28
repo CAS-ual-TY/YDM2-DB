@@ -3,7 +3,7 @@
   "name": "Amplifier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Equip only to \"Jinzo\". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.",
+  "text": "Equip only to \"Jinzo\". This card's activation and effect cannot be negated. The equipped monster's effect, \"Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.\" becomes \"Your opponent cannot activate Trap Cards, or their effects on the field. Negate all Trap effects your opponent controls.\" When this card leaves the field, destroy the equipped monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/303660.jpg"
   ],

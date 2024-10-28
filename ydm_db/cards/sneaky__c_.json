@@ -1,0 +1,21 @@
+{
+  "id": 25137581,
+  "name": "Sneaky \"C\"",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand in face-down Defense Position, and if you do, during the End Phase of this turn, change it to face-up Defense Position. You can only use this effect of \"Sneaky \"C\"\" once per turn. If this card is flipped face-up during the End Phase: Destroy all Special Summoned monsters on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/25137581.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

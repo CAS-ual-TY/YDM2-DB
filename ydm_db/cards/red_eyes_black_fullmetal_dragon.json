@@ -1,0 +1,21 @@
+{
+  "id": 80870883,
+  "name": "Red-Eyes Black Fullmetal Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Max Metalmorph\" that was activated by Tributing a Level 5 or higher Dragon monster. You can reveal this card in your hand; Set 1 \"Metalmorph\" Trap from your Deck, and if you do, shuffle this card into the Deck. When your opponent activates a card or effect (Quick Effect): You can negate the activation, then you can inflict damage to your opponent equal to the original ATK of 1 Attack Position monster your opponent controls. You can only use each effect of \"Red-Eyes Black Fullmetal Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/80870883.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3400,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2400,
+  "level": 8,
+  "is_tuner": false
+}

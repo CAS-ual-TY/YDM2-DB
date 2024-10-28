@@ -11,16 +11,16 @@
   "attribute": "LIGHT",
   "atk": 3000,
   "species": "Fiend",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 5,
   "link_arrows": [
-    "Bottom",
-    "Bottom-Right",
-    "Right",
+    "Top",
     "Top-Right",
-    "Top"
+    "Right",
+    "Bottom-Right",
+    "Bottom"
   ]
 }

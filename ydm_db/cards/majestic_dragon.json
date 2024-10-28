@@ -3,7 +3,7 @@
   "name": "Majestic Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Majestic\" monster.",
+  "text": "Cannot be used as Synchro Material, except for the Synchro Summon of a \"Majestic\" monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21159309.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 0,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": true

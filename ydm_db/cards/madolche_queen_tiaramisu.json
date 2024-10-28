@@ -3,7 +3,7 @@
   "name": "Madolche Queen Tiaramisu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target up to 2 \"Madolche\" cards in your Graveyard; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned.",
+  "text": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 material from this card, then target up to 2 \"Madolche\" card(s) in your GY; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37164373.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2200,
   "species": "Fairy",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2100,
   "rank": 4
 }

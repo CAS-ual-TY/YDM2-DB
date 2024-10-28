@@ -1,0 +1,21 @@
+{
+  "id": 33506331,
+  "name": "Clear Cube",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You are unaffected by the effects of \"Clear World\". During your Main Phase, you can Normal Summon 1 monster that mentions \"Clear World\" in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 monster from your Deck that mentions \"Clear World\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33506331.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

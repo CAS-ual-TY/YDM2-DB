@@ -1,0 +1,21 @@
+{
+  "id": 47484352,
+  "name": "Anotherverse Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This secretive dragon has conquered many dimensions, but can only be seen by the champion of time.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47484352.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

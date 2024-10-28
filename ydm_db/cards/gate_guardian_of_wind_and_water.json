@@ -1,0 +1,21 @@
+{
+  "id": 61398234,
+  "name": "Gate Guardian of Wind and Water",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Kazejin\" + \"Suijin\"\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. Once per Chain, when your opponent activates a Spell/Trap Card or effect on the field (Quick Effect): You can negate that effect. You can only use this effect of \"Gate Guardian of Wind and Water\" twice per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your banished \"Kazejin\" or \"Suijin\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/61398234.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2450,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2300,
+  "level": 9,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 23920796,
+  "name": "Mimighoul Cerberus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: If it is the Main Phase: Apply these effects in sequence.\n\u25cf Banish the top 3 cards of your Deck, then Special Summon 1 of your banished monsters to your opponent's field in Defense Position.\n\u25cf Give control of this card to your opponent.\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position. You can only use each effect of \"Mimighoul Cerberus\" once per turn. Your opponent cannot target face-up Spells you control with card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23920796.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 400,
+  "species": "Beast",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 1,
+  "is_tuner": false
+}

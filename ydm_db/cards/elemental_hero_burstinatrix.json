@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/58932615.jpg",
-    "https://images.ygoprodeck.com/images/cards/58932616.jpg"
+    "https://images.ygoprodeck.com/images/cards/58932615.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 3,
   "is_tuner": false

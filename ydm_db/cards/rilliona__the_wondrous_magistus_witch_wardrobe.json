@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1000,
   "species": "Spellcaster",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2800,
   "rank": 4
 }

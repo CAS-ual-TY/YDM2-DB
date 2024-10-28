@@ -3,7 +3,7 @@
   "name": "Super-Nimble Mega Hamster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: You can Special Summon 1 Level 3 or lower Beast-Type monster from your Deck in face-down Defense Position.",
+  "text": "FLIP: You can Special Summon 1 Level 3 or lower Beast monster from your Deck in face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5220687.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1100,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 64591429,
+  "name": "Astral Kuriboh",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can reveal 1 \"Number\" Xyz Monster in your Extra Deck; Special Summon this card from your hand. If you do, this card's Level becomes the revealed monster's Rank, also while it is face-up in the Monster Zone, you cannot Special Summon monsters from the Extra Deck, except \"Number\" Xyz Monsters. You can only use this effect of \"Astral Kuriboh\" once per turn. A \"Number\" Xyz Monster that was Summoned using this card on the field as material gains this effect.\n\u25cf Cannot be destroyed by battle or your opponent's card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/64591429.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 100,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

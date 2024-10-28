@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 1100,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you control no monsters: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Curtain Raiser\" once per Duel.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
   "def": 1000,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "If you control no monsters: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Curtain Raiser\" once per Duel.\n",
-  "pendulum_scale_left_blue": 7,
-  "pendulum_scale_right_red": 7
+  "is_tuner": false
 }

@@ -3,7 +3,7 @@
   "name": "Revived King Ha Des",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Plaguespreader Zombie\" + 1 or more non-Tuner Zombie-Type monsters\nNegate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.",
+  "text": "\"Plaguespreader Zombie\" + 1+ non-Tuner Zombie monsters\nNegate the effects of Effect Monsters destroyed by battle with Zombie monsters you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5309481.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2450,
   "species": "Zombie",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 0,
   "level": 6,
   "is_tuner": false

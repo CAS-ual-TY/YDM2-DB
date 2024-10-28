@@ -1,21 +1,20 @@
 {
-  "id": 64335805,
+  "id": 64335804,
   "name": "Red-Eyes Black Metal Dragon",
   "is_illegal": false,
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/64335805.jpg",
     "https://images.ygoprodeck.com/images/cards/64335804.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2800,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2400,
   "level": 8,
   "is_tuner": false

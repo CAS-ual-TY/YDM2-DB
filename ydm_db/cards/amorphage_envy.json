@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 0,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "While you control an \"Amorphage\" monster, neither player can activate cards or effects as Chain Link 2 or higher. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 2050,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "While you control an \"Amorphage\" monster, neither player can activate cards or effects as Chain Link 2 or higher. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": false
 }

@@ -1,0 +1,23 @@
+{
+  "id": 29301450,
+  "name": "S:P Little Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/29301450.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Right",
+    "Left"
+  ]
+}

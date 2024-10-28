@@ -1,0 +1,21 @@
+{
+  "id": 82570174,
+  "name": "Sangenpai Bident Dragion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Dragon Tuner + 1+ non-Tuner Dragon monsters\nIf this card is Synchro Summoned: You can target 1 FIRE Dragon monster in your GY; Special Summon it, also you cannot Special Summon for the rest of this turn, except Dragon monsters. If 3 or more attacks have been declared this turn (Quick Effect): You can Special Summon this card from your GY, then you can destroy 1 Spell/Trap on the field. You can only use this effect of \"Sangenpai Bident Dragion\" once per Duel, and its previous effect only once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/82570174.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2600,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": true
+}

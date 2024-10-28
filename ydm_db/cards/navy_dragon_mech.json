@@ -1,0 +1,21 @@
+{
+  "id": 80040886,
+  "name": "Navy Dragon Mech",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can target face-up cards your opponent controls, up to the number of Tuners in your GY; negate their effects until the end of this turn. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can target 1 Tuner in your GY; add it to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/80040886.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2700,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1800,
+  "level": 9,
+  "is_tuner": false
+}

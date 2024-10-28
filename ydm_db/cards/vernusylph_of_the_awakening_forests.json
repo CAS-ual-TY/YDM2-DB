@@ -1,0 +1,21 @@
+{
+  "id": 36745317,
+  "name": "Vernusylph of the Awakening Forests",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card, and 1 monster or \"Vernusylph\" card; send from your Deck to the GY, 1 EARTH monster that can be Normal Summoned/Set, then you can Special Summon 1 EARTH monster from your GY with a different name from that monster, also you cannot activate non-EARTH monster effects for the rest of this turn. You can target 1 \"Vernusylph\" monster you control; its ATK becomes doubled until the end of this turn. You can only use each effect of \"Vernusylph of the Awakening Forests\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/36745317.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

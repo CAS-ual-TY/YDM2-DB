@@ -3,7 +3,7 @@
   "name": "Ancient Gear Engineer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "text": "Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1953925.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 5,
   "is_tuner": false

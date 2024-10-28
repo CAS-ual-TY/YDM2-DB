@@ -3,7 +3,7 @@
   "name": "Defender of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While you control another face-up \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.",
+  "text": "While you control another \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82498947.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 200,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 3,
   "is_tuner": true

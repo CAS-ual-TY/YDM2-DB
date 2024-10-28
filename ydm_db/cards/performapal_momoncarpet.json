@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "Flip",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Unless you have a card in your other Pendulum Zone, destroy this card. While this card is in the Pendulum Zone, any battle damage you take becomes halved.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
   "def": 100,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "Unless you have a card in your other Pendulum Zone, destroy this card. While this card is in the Pendulum Zone, any battle damage you take becomes halved.\n",
-  "pendulum_scale_left_blue": 7,
-  "pendulum_scale_right_red": 7
+  "is_tuner": false
 }

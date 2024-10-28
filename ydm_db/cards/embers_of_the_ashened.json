@@ -1,0 +1,21 @@
+{
+  "id": 35035985,
+  "name": "Embers of the Ashened",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Pyro monsters\nIf this card is Fusion Summoned: You can target 1 Field Spell in your GY; add it to your hand. At the start of the Damage Step, if this card battles an opponent's Pyro monster: You can destroy that opponent's monster, and if it is your turn, this card can make a second attack in a row. You can only use each effect of \"Embers of the Ashened\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/35035985.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2900,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2400,
+  "level": 8,
+  "is_tuner": false
+}

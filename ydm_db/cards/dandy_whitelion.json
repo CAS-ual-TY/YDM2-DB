@@ -1,0 +1,21 @@
+{
+  "id": 36629635,
+  "name": "Dandy Whitelion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent from the hand or field to the GY: You can Special Summon 3 \"White Fluff Tokens\" (Plant/WIND/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Special Summon from the Extra Deck the turn you activate this effect. You can only use this effect of \"Dandy Whitelion\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/36629635.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

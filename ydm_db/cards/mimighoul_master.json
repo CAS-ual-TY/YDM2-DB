@@ -1,0 +1,21 @@
+{
+  "id": 55537983,
+  "name": "Mimighoul Master",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by battle or card effects while your opponent controls any face-down monsters or you control a \"Mimighoul\" monster other than \"Mimighoul Master\". You can only use each of the following effects of \"Mimighoul Master\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Mimighoul\" monster from your Deck to your hand, except \"Mimighoul Master\". During your opponent's Main Phase (Quick Effect): You can change 1 face-down monster on the field to face-up Attack or Defense Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55537983.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

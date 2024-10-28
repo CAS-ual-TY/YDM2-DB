@@ -3,7 +3,7 @@
   "name": "Quickdraw Synchron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) by sending 1 monster from your hand to the GY. For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. Cannot be used as a Synchro Material, except for the Synchro Summon of a monster that lists a \"Synchron\" Tuner as material.",
+  "text": "You can Special Summon this card (from your hand) by sending 1 monster from your hand to the GY. For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. Cannot be used as a Synchro Material, except for the Synchro Summon of a monster that mentions a \"Synchron\" Tuner as material.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20932152.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 700,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 5,
   "is_tuner": true

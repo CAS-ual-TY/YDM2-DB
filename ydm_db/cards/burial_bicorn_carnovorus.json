@@ -1,0 +1,21 @@
+{
+  "id": 100200263,
+  "name": "Burial Bicorn Carnovorus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "''TBA''",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100200263.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": -1,
+  "species": "???",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": -1,
+  "level": 6,
+  "is_tuner": false
+}

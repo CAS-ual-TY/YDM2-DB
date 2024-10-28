@@ -1,0 +1,21 @@
+{
+  "id": 84815190,
+  "name": "Baronne de Fleur",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can target 1 card on the field; destroy it. Once while face-up on the field, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use the previous effect of \"Baronne de Fleur\" once per turn. Once per turn, during the Standby Phase: You can target 1 Level 9 or lower monster in your GY; return this card to the Extra Deck, and if you do, Special Summon that monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84815190.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2400,
+  "level": 10,
+  "is_tuner": false
+}

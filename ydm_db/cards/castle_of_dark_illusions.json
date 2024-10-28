@@ -3,7 +3,7 @@
   "name": "Castle of Dark Illusions",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: All Zombie-Type monsters gain 200 ATK and DEF. During each of your next 4 Standby Phases, each of those Zombie-Type monsters gains 200 more ATK and DEF. These effects last as long as this card is face-up on the field.",
+  "text": "FLIP: Increases the ATK and DEF of all Zombie-Type monsters by 200 points. As long as this card remains face-up on the field, the ATK and DEF of Zombie-Type monsters continues to increase by 200 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62121.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 920,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1930,
   "level": 4,
   "is_tuner": false

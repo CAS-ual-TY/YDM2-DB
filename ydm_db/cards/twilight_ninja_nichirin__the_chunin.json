@@ -3,7 +3,7 @@
   "name": "Twilight Ninja Nichirin, the Chunin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during either player's turn: You can discard 1 \"Ninja\" monster, then activate 1 of these effects;\n? This turn, \"Ninja\" monsters and \"Ninjitsu Art\" cards you control cannot be destroyed by battle or card effects.\n? 1 \"Ninja\" monster you control gains 1000 ATK until the end of this turn.",
+  "text": "Once per turn, during either player's turn: You can discard 1 \"Ninja\" monster, then activate 1 of these effects;\n\u25cf This turn, \"Ninja\" monsters and \"Ninjitsu Art\" cards you control cannot be destroyed by battle or card effects.\n\u25cf 1 \"Ninja\" monster you control gains 1000 ATK until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40945356.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2300,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 6,
   "is_tuner": false

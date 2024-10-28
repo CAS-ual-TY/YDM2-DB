@@ -1,0 +1,21 @@
+{
+  "id": 40460013,
+  "name": "Zalamander Catalyzer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can reveal this card and 1 Fiend monster in your hand; Special Summon 1 of them and discard the other. When a monster is destroyed by battle involving your Fiend monster, while this card is in your GY: You can add this card to your hand. You can only use each effect of \"Zalamander Catalyzer\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/40460013.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

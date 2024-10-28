@@ -3,7 +3,7 @@
   "name": "Delta Tri",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card destroys an opponent's monster by battle, select and activate 1 of these effects: \n? Select 1 appropriate Union monster in your Graveyard and equip it to this card. \n? Select 1 face-up LIGHT Machine-Type monster you control, and return it to the Deck. Then draw 1 card.",
+  "text": "If this card destroys an opponent's monster by battle: Activate 1 of these effects.\n\u25cf Target 1 appropriate Union monster in your GY; equip that target to this card.\n\u25cf Target 1 face-up LIGHT Machine monster you control; shuffle that target into the Deck, then draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12079734.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1200,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

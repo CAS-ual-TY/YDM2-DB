@@ -3,7 +3,7 @@
   "name": "Speedroid Double Yoyo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 1 Level 3 or lower \"Speedroid\" monster in your Graveyard; Special Summon it.",
+  "text": "When this card is Normal Summoned: You can target 1 Level 3 or lower \"Speedroid\" monster in your GY; Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53054833.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1400,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

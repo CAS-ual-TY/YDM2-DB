@@ -1,0 +1,21 @@
+{
+  "id": 10859908,
+  "name": "Holograh",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This machine generates illusions that leave an enemy wide open to attacks.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10859908.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

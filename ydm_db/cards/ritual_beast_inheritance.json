@@ -1,0 +1,12 @@
+{
+  "id": 22501005,
+  "name": "Ritual Beast Inheritance",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Monsters your opponent controls lose 200 ATK for each different Type among the \"Ritual Beast\" monsters you control. You can only use each of the following effects of \"Ritual Beast Inheritance\" once per turn. You can reveal 1 \"Ritual Beast\" monster in your hand; add 1 \"Ritual Beast\" monster with a different Type from your Deck to your hand, then discard 1 card. If 2 or more monsters are Special Summoned to your field at the same time (except during the Damage Step): You can target 1 monster on the field; change its battle position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/22501005.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

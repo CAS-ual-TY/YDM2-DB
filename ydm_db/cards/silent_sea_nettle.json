@@ -1,0 +1,21 @@
+{
+  "id": 31059809,
+  "name": "Silent Sea Nettle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a WATER monster: You can Special Summon this card from your hand. You cannot Special Summon monsters, except WATER monsters, the turn you activate this effect. You can banish this card from your GY, then target up to 3 WATER monsters in your GY; shuffle them into the Deck. You can only use each effect of \"Silent Sea Nettle\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/31059809.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

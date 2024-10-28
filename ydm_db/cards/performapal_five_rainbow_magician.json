@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 100,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You cannot Pendulum Summon, except from the Extra Deck. This effect cannot be negated. Each player applies 1 of these effects based on the number of Set cards in their Spell & Trap Zones.\n\u25cf 0: All monsters they control cannot attack or activate their effects.\n\u25cf 4 or more: The ATK of all monsters they control become double their original ATK.",
+  "pendulum_scale_left_blue": 12,
+  "pendulum_scale_right_red": 12,
   "def": 100,
   "level": 1,
-  "is_tuner": false,
-  "pendulum_text": "You cannot Pendulum Summon, except from the Extra Deck. This effect cannot be negated. Each player applies 1 of these effects based on the number of Set cards in their Spell & Trap Zones.\n? 0: All monsters they control cannot attack or activate their effects.\n? 4 or more: The ATK of all monsters they control become double their original ATK.\n",
-  "pendulum_scale_left_blue": 12,
-  "pendulum_scale_right_red": 12
+  "is_tuner": false
 }

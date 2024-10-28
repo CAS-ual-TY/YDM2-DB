@@ -1,0 +1,20 @@
+{
+  "id": 94798725,
+  "name": "Gunkan Suship Uni-class Super-Dreadnought",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 5 monsters\nIf this card is Xyz Summoned: You can apply these effects, in sequence, based on the materials used. You can only use this effect of \"Gunkan Suship Uni-class Super-Dreadnought\" once per turn.\n\u25cf \"Gunkan Suship Shari\": Draw 1 card. \u25cf \"Gunkan Suship Uni\": This card gains the ability to attack directly.\nOnce per turn, during your Main Phase or your opponent's Battle Phase (Quick Effect): You can target face-up cards your opponent controls, up to the number of \"Gunkan\" monsters you control Special Summoned from the Extra Deck; negate their effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/94798725.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2900,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 500,
+  "rank": 5
+}

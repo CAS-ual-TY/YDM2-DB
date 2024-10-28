@@ -1,0 +1,21 @@
+{
+  "id": 55151012,
+  "name": "Icejade Tremora",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand to the GY; Special Summon 1 WATER monster from your hand. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 \"Icejade\" monster from your hand or GY, except \"Icejade Tremora\". You can only use each effect of \"Icejade Tremora\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55151012.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

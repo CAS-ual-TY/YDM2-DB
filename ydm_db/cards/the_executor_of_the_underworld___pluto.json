@@ -1,0 +1,21 @@
+{
+  "id": 37706769,
+  "name": "The Executor of the Underworld - Pluto",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\n(This card is always treated as a \"The Agent\" card.)\nOnce per turn: You can banish 1 monster from your GY, then target 1 Effect Monster on the field; change it to face-down Defense Position. This is a Quick Effect if \"The Sanctuary in the Sky\" is on the field or in either GY. You can banish this card from your GY; add 1 \"The Sanctuary in the Sky\" from your Deck or GY to your hand. You can only use this effect of \"The Executor of the Underworld - Pluto\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37706769.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 0,
+  "level": 5,
+  "is_tuner": true
+}

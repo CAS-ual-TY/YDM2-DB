@@ -1,0 +1,21 @@
+{
+  "id": 49922726,
+  "name": "Leraje the God of Archery",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can make this card gain 100 ATK for each Monster Type currently in your GY, until the end of this turn. You can target 1 other face-up monster on the field; this card cannot attack for the rest of this turn, also that monster loses DEF equal to this card's ATK, then if its DEF becomes 0 by this effect, destroy it. You can only use this effect of \"Leraje the God of Archery\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/49922726.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

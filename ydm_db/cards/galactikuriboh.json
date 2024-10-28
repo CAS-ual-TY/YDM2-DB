@@ -1,0 +1,21 @@
+{
+  "id": 46261704,
+  "name": "Galactikuriboh",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Galaxy\" card.)\nWhen an opponent's monster declares an attack: You can discard this card; Special Summon 1 \"Galaxy-Eyes Photon Dragon\" from your hand or Deck, then change the attack target to it, then you can attach this card from the GY to 1 Xyz Monster on the field as material. If a \"Photon\" or \"Galaxy\" monster(s) you control would be destroyed by battle or an opponent's card effect, you can banish this card from your GY instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/46261704.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

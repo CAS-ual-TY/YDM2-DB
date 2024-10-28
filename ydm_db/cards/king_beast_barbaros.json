@@ -3,7 +3,7 @@
   "name": "King Beast Barbaros",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can attack all monsters your opponent controls once each. You can only use each of the following effects of \"King Beast Barbaros\" once per turn.\n? You can Tribute monsters whose total Levels equal 8 or more; Special Summon this card from your hand.\n? You can banish 1 \"Barbaros\" monster from your GY or face-up field, then target 2 cards your opponent controls; destroy them.",
+  "text": "This card can attack all monsters your opponent controls once each. You can only use each of the following effects of \"King Beast Barbaros\" once per turn.\n\u25cf You can Tribute monsters whose total Levels equal 8 or more; Special Summon this card from your hand.\n\u25cf You can banish 1 \"Barbaros\" monster from your GY or face-up field, then target 2 cards your opponent controls; destroy them.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63972571.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 3000,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 8,
   "is_tuner": false

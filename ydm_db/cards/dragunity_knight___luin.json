@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1200,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1900,
   "level": 6,
   "is_tuner": true

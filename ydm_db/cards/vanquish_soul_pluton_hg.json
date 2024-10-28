@@ -1,0 +1,21 @@
+{
+  "id": 55688914,
+  "name": "Vanquish Soul Pluton HG",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your opponent's turn, if you control no monsters, or only \"Vanquish Soul\" monsters, in your Main Monster Zone (Quick Effect): You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cf FIRE: This card gains 3000 DEF until the end of this turn.\n\u25cf DARK & EARTH: This card gains 3000 ATK until the end of this turn.\nYou can only use each effect of \"Vanquish Soul Pluton HG\" once per turn, and cannot activate more than 1 in the same Chain.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55688914.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

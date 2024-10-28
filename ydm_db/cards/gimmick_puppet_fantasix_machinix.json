@@ -1,0 +1,20 @@
+{
+  "id": 76290637,
+  "name": "Gimmick Puppet Fantasix Machinix",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 8 monsters\nYou can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand, also, you can Normal Summon 1 Machine monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If you Special Summon a \"Gimmick Puppet\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your GY to either field in Defense Position, then you can add 1 \"Rank-Up-Magic\" Spell from your GY to your hand. You can only use each effect of \"Gimmick Puppet Fantasix Machinix\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/76290637.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 3100,
+  "rank": 8
+}

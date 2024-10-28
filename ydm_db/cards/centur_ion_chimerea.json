@@ -1,0 +1,21 @@
+{
+  "id": 81696879,
+  "name": "Centur-Ion Chimerea",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent activates a monster effect as Chain Link 2 or higher (Quick Effect): You can make the activated effect become \"Your opponent places 1 \"Centur-Ion\" monster from their face-up field or GY in their Spell & Trap Zone as a face-up Continuous Trap\", also you cannot Special Summon \"Centur-Ion Chimerea\" for the rest of this turn. During the Main Phase, if this card is a Continuous Trap: You can Special Summon this card. You can only use each effect of \"Centur-Ion Chimerea\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81696879.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

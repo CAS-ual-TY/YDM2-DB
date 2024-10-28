@@ -1,0 +1,20 @@
+{
+  "id": 69655484,
+  "name": "Performage Shadow Maker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 5 monsters\nWhen a card or effect is activated that targets this card (Quick Effect): You can detach 1 material from this card; Special Summon 1 \"Performage Shadow Maker\" from your Extra Deck. You can only use each of the following effects of \"Performage Shadow Maker\" once per turn. You can detach 1 material from this card and send 1 \"Performage\" monster from your Deck to the GY; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand. If the last material(s) is detached from this card (except during the Damage Step): You can Special Summon 1 \"Performage\" monster from your GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69655484.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1000,
+  "rank": 5
+}

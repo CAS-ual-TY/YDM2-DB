@@ -1,0 +1,21 @@
+{
+  "id": 47219274,
+  "name": "Freki the Runick Fangs",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Runick\" monsters\nWhen an attack is declared involving this card in the Extra Monster Zone: You can banish the top 2 cards of your opponent's Deck. Neither player takes any battle damage from attacks involving this card. If this card on the field is destroyed by battle or card effect: You can target 1 \"Runick\" Quick-Play Spell in your GY; add it to your hand. You can only use this effect of \"Freki the Runick Fangs\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47219274.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

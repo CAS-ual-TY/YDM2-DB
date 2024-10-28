@@ -1,0 +1,21 @@
+{
+  "id": 55461744,
+  "name": "Big-Winged Berfomet",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 Level 4 Beast monster and/or 1 \"Chimera Fusion\" from your Deck to your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. If this card is sent to the GY as material for a Fusion Summon: You can target 1 Illusion monster in your GY; Special Summon it. You can only use each effect of \"Big-Winged Berfomet\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55461744.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 57111330,
+  "name": "Therion \"Duke\" Yul",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can only use the 1st of the following effects of \"Therion \"Duke\" Yul\" once per turn.\n\u25cf You can target 1 \"Therion\" monster or 1 Psychic monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.\n\u25cf While you control an Equip Card, \"Therion\" monsters you control cannot be destroyed by your opponent's card effects.\nA \"Therion\" monster equipped with this card gains 700 ATK, also it gains the 2nd effect listed above as if it were \"Therion \"Duke\" Yul\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/57111330.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

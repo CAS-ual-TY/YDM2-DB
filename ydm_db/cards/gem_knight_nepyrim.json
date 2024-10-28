@@ -1,0 +1,21 @@
+{
+  "id": 100227043,
+  "name": "Gem-Knight Nepyrim",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Gem-Knight\" card from your Deck to your hand, except \"Gem-Knight Nepyrim\", also any effect damage your opponent takes during the Main Phase this turn is halved. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 \"Gem-\" monster. If this card is sent from the hand or Deck to the GY: You can send 1 card from your hand to the GY, and if you do, Special Summon this card. You can only use each effect of \"Gem-Knight Nepyrim\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100227043.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1550,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

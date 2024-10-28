@@ -1,0 +1,21 @@
+{
+  "id": 84462118,
+  "name": "Dragonbite",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Insect monster from your hand. You can banish 1 Level 4 or lower Insect monster from your hand, GY, or face-up field, then target 1 face-up monster you control; increase its Level by the Level of the banished monster, until the end of this turn. You can only use each effect of \"Dragonbite\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84462118.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": true
+}

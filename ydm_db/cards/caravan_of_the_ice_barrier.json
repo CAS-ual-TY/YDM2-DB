@@ -3,18 +3,18 @@
   "name": "Caravan of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can select 2 \"Ice Barrier\" monsters in your Graveyard. Return the selected monsters to the Deck and each player draws 1 card.",
+  "text": "Once per turn: You can target 2 \"Ice Barrier\" monsters in your GY; shuffle both into the Deck, then each player draws 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37806313.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 500,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 1,
   "is_tuner": false

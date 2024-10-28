@@ -1,0 +1,20 @@
+{
+  "id": 62592805,
+  "name": "Epurrely Noir",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 2 monsters\nOnce per turn: You can discard 1 card, then target 1 card your opponent controls, or up to 2 if this card has \"Purrely Sleepy Memory\" as material; return that card(s) to the hand. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can Set 1 \"Purrely\" Trap directly from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/62592805.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2000,
+  "rank": 2
+}

@@ -1,0 +1,12 @@
+{
+  "id": 84281045,
+  "name": "Vaylantz Wave - Master Phase",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, if a card in the Monster Zone moves to another Monster Zone (except during the Damage Step): You can activate 1 of these effects;\n\u25cf Level 5 or higher \"Vaylantz\" monsters you currently control gain 1200 ATK until the end of this turn.\n\u25cf Send this face-up card from the Spell & Trap Zone to the GY, then target 1 Effect Monster in your opponent's Main Monster Zone; place that opponent's monster face-up as a Continuous Spell in their Spell & Trap Zone in its same column. (If the zone is occupied, destroy the occupying card.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84281045.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

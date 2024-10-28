@@ -3,7 +3,7 @@
   "name": "Pharaoh's Servant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waiver.",
+  "text": "An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waver.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52550973.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 900,
   "species": "Zombie",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 2,
   "is_tuner": false

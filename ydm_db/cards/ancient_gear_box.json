@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 500,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 4,
   "is_tuner": false

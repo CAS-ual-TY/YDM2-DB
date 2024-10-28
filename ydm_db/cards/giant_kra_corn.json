@@ -1,0 +1,21 @@
+{
+  "id": 8170654,
+  "name": "Giant Kra-Corn",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When an opponent's monster declares an attack: You can Special Summon this card from your hand in Defense Position, and if you do, change the attack target to it and perform damage calculation. You can target 1 Plant monster you control, except \"Giant Kra-Corn\"; the ATK of both that monster and this card become their total original ATK. You can only use each effect of \"Giant Kra-Corn\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/8170654.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

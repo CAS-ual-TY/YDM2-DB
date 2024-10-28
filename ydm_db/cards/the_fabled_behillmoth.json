@@ -1,0 +1,21 @@
+{
+  "id": 100227001,
+  "name": "The Fabled Behillmoth",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can discard 2 or more \"Fabled\" monsters, including this card, and if you do, Special Summon 1 \"Fabled\" Synchro Monster from your Extra Deck whose Level equals the discarded monsters' total original Levels. (This is treated as a Synchro Summon.) If a card(s) is sent from your hand to the GY while this card is in your GY: You can banish this card; Special Summon 1 \"Fabled\" monster from your hand. You can only use each effect of \"The Fabled Behillmoth\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100227001.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 2,
+  "is_tuner": true
+}

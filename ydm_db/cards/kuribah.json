@@ -1,0 +1,21 @@
+{
+  "id": 44632120,
+  "name": "Kuribah",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Kuriboh\" card.)\nWhen this card, or another \"Kuriboh\" monster, you control is destroyed by battle: You can Special Summon 1 monster with 300 ATK/200 DEF from your Deck, except \"Kuribah\". You can only use this effect of \"Kuribah\" once per turn. You can Tribute this card you control and 1 each of \"Kuribee\", \"Kuriboo\", \"Kuribeh\" and \"Kuriboh\" from your hand and/or field; Special Summon 1 \"Kuribabylon\" from your hand, Deck, or GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44632120.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

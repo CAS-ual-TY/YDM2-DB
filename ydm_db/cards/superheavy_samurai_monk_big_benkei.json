@@ -1,0 +1,24 @@
+{
+  "id": 19510093,
+  "name": "Superheavy Samurai Monk Big Benkei",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have no Spells/Traps in your GY: You can send 1 \"Superheavy Samurai Big Benkei\" from your hand or Deck to the GY, and if you do, Special Summon this card from your hand. If this card is used as Synchro Material and added to your Extra Deck face-up: You can place this card in your Pendulum Zone. You can only use each effect of \"Superheavy Samurai Monk Big Benkei\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/19510093.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you control a \"Superheavy Samurai\" monster: You can add 1 \"Superheavy Samurai Soul\" monster from your Deck to your hand. You can only use this effect of \"Superheavy Samurai Monk Big Benkei\" once per turn.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
+  "def": 3500,
+  "level": 8,
+  "is_tuner": false
+}

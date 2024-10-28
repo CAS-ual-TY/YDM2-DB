@@ -1,0 +1,21 @@
+{
+  "id": 61980241,
+  "name": "Elzette of the White Forest",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send 1 Spell/Trap from your hand or field to the GY; Special Summon this card from your hand, then add 1 \"White Forest\" monster from your Deck to your hand, except \"Elzette of the White Forest\". During your opponent's turn, if a LIGHT Spellcaster Tuner is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use each effect of \"Elzette of the White Forest\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/61980241.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

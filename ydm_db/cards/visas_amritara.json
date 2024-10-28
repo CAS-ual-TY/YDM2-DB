@@ -1,0 +1,21 @@
+{
+  "id": 821049,
+  "name": "Visas Amritara",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1+ Tuners + 1 LIGHT monster\nThis card's name becomes \"Visas Starfrost\" while on the field. You can only use each of the following effects of \"Visas Amritara\" once per turn. If this card is Synchro Summoned: You can add 1 Spell/Trap that mentions \"Visas Starfrost\" from your Deck to your hand. During your Main Phase: You can destroy 1 monster you control, also all Synchro Monsters you control will gain 800 ATK this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/821049.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2100,
+  "level": 8,
+  "is_tuner": true
+}

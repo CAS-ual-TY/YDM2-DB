@@ -1,0 +1,21 @@
+{
+  "id": 13258285,
+  "name": "Ukiyoe-P.U.N.K. Sharakusai",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can pay 600 LP; Fusion Summon 1 \"P.U.N.K.\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. During your opponent's turn (Quick Effect): You can pay 600 LP; immediately after this effect resolves, Synchro Summon 1 \"P.U.N.K.\" Synchro Monster using monsters you control as material. You can only use each effect of \"Ukiyoe-P.U.N.K. Sharakusai\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/13258285.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 3,
+  "is_tuner": true
+}

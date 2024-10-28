@@ -3,7 +3,7 @@
   "name": "Laval Volcano Handmaiden",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent to the Graveyard, if you have a \"Laval\" monster in your Graveyard other than \"Laval Volcano Handmaiden\": You can send 1 \"Laval\" monster from your Deck to your Graveyard.",
+  "text": "When this card is sent to the GY, if you have a \"Laval\" monster in your GY other than \"Laval Volcano Handmaiden\": You can send 1 \"Laval\" monster from your Deck to your GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2407147.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 100,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 1,
   "is_tuner": true

@@ -1,0 +1,21 @@
+{
+  "id": 38529357,
+  "name": "The Agent of Life - Neptune",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card; Special Summon 1 \"The Agent\" monster from your hand or GY, except \"The Agent of Life - Neptune\", or, if \"The Sanctuary in the Sky\" is on the field or in either GY, you can Special Summon 1 \"Hyperion\" monster instead. Neither player can Tribute a monster Summoned with this effect, until the end of your opponent's turn. If this card is banished: You can add 1 \"The Sanctuary in the Sky\" from your Deck to your hand. You can only use each effect of \"The Agent of Life - Neptune\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/38529357.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 1,
+  "is_tuner": false
+}

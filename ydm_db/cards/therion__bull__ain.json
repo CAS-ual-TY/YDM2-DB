@@ -1,0 +1,21 @@
+{
+  "id": 84332527,
+  "name": "Therion \"Bull\" Ain",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can only use each of the following effects of \"Therion \"Bull\" Ain\" once per turn.\n\u25cf You can target 1 \"Therion\" monster or 1 Warrior monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.\n\u25cf You can target 1 \"Therion\" card you control and 1 card your opponent controls; destroy them.\nA \"Therion\" monster equipped with this card gains 700 ATK, also it can activate the 2nd effect listed above as if it were \"Therion \"Bull\" Ain\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84332527.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 7,
+  "is_tuner": false
+}

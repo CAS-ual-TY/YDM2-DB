@@ -1,0 +1,21 @@
+{
+  "id": 42544773,
+  "name": "Spoon, the Seal of Magistus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card, then activate 1 of these effects;\n\u25cf Add 1 \"Magistus\" monster from your Deck to your hand, except \"Spoon, the Seal of Magistus\".\n\u25cf  Halve the ATK of 1 face-up monster your opponent controls until the end of this turn.\nYou can banish this card from your GY, then target 1 face-up monster you control; equip it with 1 \"Magistus\" monster from your Extra Deck or GY. You can only use each effect of \"Spoon, the Seal of Magistus\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/42544773.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

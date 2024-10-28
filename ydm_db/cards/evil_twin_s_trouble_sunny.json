@@ -1,0 +1,25 @@
+{
+  "id": 93672138,
+  "name": "Evil\u2605Twin's Trouble Sunny",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters, including an \"Evil\u2605Twin\" monster\n(Quick Effect): You can Tribute this card; Special Summon up to 1 \"Ki-sikil\" monster and up to 1 \"Lil-la\" monster from your GY. You can banish this card from your GY and send 1 \"Evil\u2605Twin\" monster from your hand, Deck, or face-up field to the GY; send 1 card on the field to the GY. You can only use each effect of \"Evil\u2605Twin's Trouble Sunny\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/93672138.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3300,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 4,
+  "link_arrows": [
+    "Top",
+    "Right",
+    "Bottom",
+    "Left"
+  ]
+}

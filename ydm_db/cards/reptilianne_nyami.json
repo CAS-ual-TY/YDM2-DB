@@ -1,0 +1,21 @@
+{
+  "id": 42090294,
+  "name": "Reptilianne Nyami",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase, if you have a Reptile monster in your GY (Quick Effect): You can send this card from your hand to the GY, then target 1 face-up monster your opponent controls; change its ATK to 0. If your opponent controls a monster with 0 ATK: You can Special Summon this card from your GY. You can only use 1 \"Reptilianne Nyami\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/42090294.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 200,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

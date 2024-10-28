@@ -1,0 +1,21 @@
+{
+  "id": 4918855,
+  "name": "Vampire Voivode",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal Summoned: You can target up to 2 monsters in your opponent's GY; Special Summon those monsters to your field in Defense Position, but their effects are negated. When a monster's effect is activated, while a monster(s) with its same name is in the GY(s) (Quick Effect): You can negate the activation. If a monster(s) is Special Summoned from your opponent's GY: You can Tribute 2 monsters; Special Summon this card from your GY. You can only use each effect of \"Vampire Voivode\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/4918855.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 8,
+  "is_tuner": false
+}

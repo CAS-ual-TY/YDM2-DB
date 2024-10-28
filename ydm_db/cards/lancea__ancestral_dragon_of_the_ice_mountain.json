@@ -1,0 +1,21 @@
+{
+  "id": 96402918,
+  "name": "Lancea, Ancestral Dragon of the Ice Mountain",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 WATER Tuner + 1+ non-Tuner monsters\nOnce per Chain, if your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon 1 \"Ice Barrier\" monster from your hand, Deck, Extra Deck, or GY, then you can change 1 Attack Position monster your opponent controls to Defense Position. You can only use this effect of \"Lancea, Ancestral Dragon of the Ice Mountain\" twice per turn. If this face-up Synchro Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 \"Ice Barrier\" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/96402918.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 3300,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2700,
+  "level": 10,
+  "is_tuner": false
+}

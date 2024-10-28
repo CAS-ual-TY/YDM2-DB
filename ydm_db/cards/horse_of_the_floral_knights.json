@@ -1,0 +1,21 @@
+{
+  "id": 71736213,
+  "name": "Horse of the Floral Knights",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 LIGHT \"Noble Knight\" monster from your Deck to your hand. You can only use this effect of \"Horse of the Floral Knights\" once per turn. Once per turn, during your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as Fusion Material.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71736213.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 400,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

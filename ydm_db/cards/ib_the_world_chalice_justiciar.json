@@ -3,7 +3,7 @@
   "name": "Ib the World Chalice Justiciar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nFor this card's Synchro Summon, you can treat 1 \"World Chalice\" Normal Monster you control as a Tuner. You can only use each of the following effects of \"Ib the World Chalice Justiciar\" once per turn.\n? If this card is Synchro Summoned: You can add 1 \"World Legacy\" card from your Deck to your hand.\n? If this Synchro Summoned card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your Deck or GY, except \"Ib the World Chalice Justiciar\".",
+  "text": "1 Tuner + 1+ non-Tuner monsters\nFor this card's Synchro Summon, you can treat 1 \"World Chalice\" Normal Monster you control as a Tuner. You can only use each of the following effects of \"Ib the World Chalice Justiciar\" once per turn.\n\u25cf If this card is Synchro Summoned: You can add 1 \"World Legacy\" card from your Deck to your hand.\n\u25cf If this Synchro Summoned card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your Deck or GY, except \"Ib the World Chalice Justiciar\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94677445.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1800,
   "species": "Spellcaster",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2100,
   "level": 5,
   "is_tuner": true

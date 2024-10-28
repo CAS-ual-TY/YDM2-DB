@@ -3,7 +3,7 @@
   "name": "Ally of Justice Cycle Reader",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player's turn: You can discard this card to the Graveyard, then target up to 2 LIGHT monsters in your opponent's Graveyard; banish those targets.",
+  "text": "(Quick Effect): You can discard this card to the GY, then target up to 2 LIGHT monsters in your opponent's GY; banish those targets.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8233522.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": true

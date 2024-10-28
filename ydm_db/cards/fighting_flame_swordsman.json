@@ -1,0 +1,21 @@
+{
+  "id": 1047075,
+  "name": "Fighting Flame Swordsman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 Spell/Trap that mentions \"Flame Swordsman\" from your Deck to your hand. If this card is sent to the GY: You can send 1 \"Flame Swordsman\" or 1 monster that mentions it from your Deck or Extra Deck to the GY, except \"Fighting Flame Swordsman\". You can only use each effect of \"Fighting Flame Swordsman\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/1047075.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

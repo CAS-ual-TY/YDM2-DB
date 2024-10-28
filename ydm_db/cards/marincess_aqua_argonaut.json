@@ -1,0 +1,25 @@
+{
+  "id": 20934852,
+  "name": "Marincess Aqua Argonaut",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ WATER monsters\nWhile this card is in the Extra Monster Zone, your opponent's monsters cannot attack any monsters, except this one. You can only use each of the following effects of \"Marincess Aqua Argonaut\" once per turn. You can target 1 WATER monster you control and 1 card your opponent controls; return them to the hand. During your opponent's turn, when a Spell/Trap Card or effect is activated on the field (Quick Effect): You can Special Summon 1 of your \"Marincess\" Monster Cards equipped to this card, and if you do, negate that activated effect.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/20934852.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2300,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 4,
+  "link_arrows": [
+    "Top",
+    "Right",
+    "Bottom",
+    "Left"
+  ]
+}

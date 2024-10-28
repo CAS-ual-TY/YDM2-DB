@@ -1,0 +1,21 @@
+{
+  "id": 77406972,
+  "name": "Giltia the D. Knight - Soul Spear",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters, you can Normal Summon this card without Tributing. When this card is Normal Summoned: You can banish 1 monster your opponent controls with equal or higher ATK than this card. You can discard 1 card; add 1 of the following monsters from your Deck to your hand.\n\u25cf Level 7 DARK Dragon \u25cf Level 6 DARK Machine \u25cf Level 5 WATER Warrior\nYou can only use this effect of \"Giltia the D. Knight - Soul Spear\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/77406972.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1850,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

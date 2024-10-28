@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/94145021.jpg",
-    "https://images.ygoprodeck.com/images/cards/94145022.jpg"
+    "https://images.ygoprodeck.com/images/cards/94145021.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 0,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": false

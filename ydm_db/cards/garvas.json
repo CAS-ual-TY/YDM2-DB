@@ -1,0 +1,21 @@
+{
+  "id": 69780745,
+  "name": "Garvas",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A wicked beast that resembles a winged lion.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69780745.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

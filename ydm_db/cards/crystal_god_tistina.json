@@ -1,0 +1,21 @@
+{
+  "id": 86999951,
+  "name": "Crystal God Tistina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase: You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. If this card in its owner's possession is destroyed by an opponent's card: You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. You can only use each effect of \"Crystal God Tistina\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/86999951.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

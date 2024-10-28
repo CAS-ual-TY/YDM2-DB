@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 2200,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can send 1 \"Speedroid\" Tuner from your hand or face-up from your field to the GY; increase or reduce (min. 1) this card's Pendulum Scale by the original Level of the sent monster until the end of this turn.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 2000,
   "level": 5,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can send 1 \"Speedroid\" Tuner from your hand or face-up from your field to the GY; increase or reduce (min. 1) this card's Pendulum Scale by the original Level of the sent monster until the end of this turn.\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

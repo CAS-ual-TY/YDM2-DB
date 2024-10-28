@@ -1,0 +1,21 @@
+{
+  "id": 2405631,
+  "name": "Guoglim, Spear of the Ghoti",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Fish Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles an opponent's monster: You can banish that opponent's monster. During your opponent's Standby Phase: You can banish this card, then, if the monsters used as material for this card's Synchro Summon are all in your GY, you can Special Summon all of them, but banish them when they leave the field. You can only use each effect of \"Guoglim, Spear of the Ghoti\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/2405631.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2700,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

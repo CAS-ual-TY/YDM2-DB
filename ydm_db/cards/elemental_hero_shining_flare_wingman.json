@@ -3,7 +3,7 @@
   "name": "Elemental HERO Shining Flare Wingman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Elemental HERO Flame Wingman\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each \"Elemental HERO\" card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+  "text": "\"Elemental HERO Flame Wingman\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned. Gains 300 ATK for each \"Elemental HERO\" card in your GY. If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to that monster's original ATK in the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25366484.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2100,
   "level": 8,
   "is_tuner": false

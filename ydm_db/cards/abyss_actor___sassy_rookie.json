@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 1700,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If an \"Abyss Actor\" monster(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 1000,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "If an \"Abyss Actor\" monster(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

@@ -1,0 +1,12 @@
+{
+  "id": 6909330,
+  "name": "Soul Binding Gate",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "To activate this card you must control no monsters, and a Set Spell/Trap(s) you control must have been destroyed by card effect this turn. During the Main Phase, if exactly 1 monster with less ATK than your LP is Summoned and you have \"Z-ONE\" in your GY: Destroy that monster, and if you do, take 800 damage, then inflict 800 damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6909330.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

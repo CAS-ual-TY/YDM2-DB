@@ -1,0 +1,21 @@
+{
+  "id": 71545247,
+  "name": "Cursed Bride Doll",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When you draw this card: You can reveal it; Special Summon this card. At the start of each Battle Phase: If there are more cards in your Deck than your opponent's, this card gains ATK equal to the difference x 300, until the end of this turn. Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: Place this card on top of the Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71545247.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 3,
+  "is_tuner": true
+}

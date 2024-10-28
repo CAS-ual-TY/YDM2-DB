@@ -1,0 +1,26 @@
+{
+  "id": 98630720,
+  "name": "Borrelend Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3+ Effect Monsters\nCannot be destroyed by battle or card effects, also neither player can target this card with monster effects. Can attack all monsters your opponent controls, once each. (Quick Effect): You can target 1 Effect Monster on the field and 1 \"Rokket\" monster in your GY; negate the effects of that monster on the field, and if you do, Special Summon that other monster from your GY. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use this effect of \"Borrelend Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98630720.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 5,
+  "link_arrows": [
+    "Top",
+    "Right",
+    "Bottom-Right",
+    "Bottom-Left",
+    "Left"
+  ]
+}

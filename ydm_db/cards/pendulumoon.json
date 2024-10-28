@@ -1,0 +1,24 @@
+{
+  "id": 66150724,
+  "name": "PenduLuMoon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase: You can add up to 2 face-up Pendulum Monsters from your Extra Deck to your hand, with Levels between the Pendulum Scales of the 2 cards in your Pendulum Zones, also for the rest of this turn, until you Pendulum Summon, you cannot activate monster effects, and the effects of any cards in your Pendulum Zones are negated. You can only use this effect of \"PenduLuMoon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/66150724.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 200,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "During your Main Phase: You can add 1 face-up \"Pendulum\" Pendulum Monster from your Extra Deck to your hand, then destroy this card. You can only use this effect of \"PenduLuMoon\" once per turn.",
+  "pendulum_scale_left_blue": 0,
+  "pendulum_scale_right_red": 0,
+  "def": 700,
+  "level": 1,
+  "is_tuner": false
+}

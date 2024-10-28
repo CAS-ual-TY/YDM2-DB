@@ -3,7 +3,7 @@
   "name": "Raidraptor - Blade Burner Falcon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 Winged Beast-Type monsters\nIf this card is Xyz Summoned, and your opponent's LP is at least 3000 higher than yours: You can make this card gain 3000 ATK. When this card destroys an opponent's monster by battle: You can detach any number of Xyz Materials from this card; destroy exactly that number of monsters your opponent controls.",
+  "text": "2 Level 4 Winged Beast monsters\nIf this card is Xyz Summoned, and your opponent's LP is at least 3000 higher than yours: You can make this card gain 3000 ATK. When this card destroys an opponent's monster by battle: You can detach any number of materials from this card; destroy exactly that number of monsters your opponent controls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96592102.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1000,
   "species": "Winged Beast",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1000,
   "rank": 4
 }

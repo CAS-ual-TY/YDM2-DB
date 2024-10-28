@@ -1,0 +1,21 @@
+{
+  "id": 82128978,
+  "name": "Libromancer Magigirl",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. During your opponent's turn (Quick Effect): You can Ritual Summon 1 \"Libromancer\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Libromancer Magigirl\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/82128978.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 600,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

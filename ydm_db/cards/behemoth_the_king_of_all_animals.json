@@ -3,7 +3,7 @@
   "name": "Behemoth the King of All Animals",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can be Normal Summoned or Set with 1 Tribute. In that case, the original ATK of this card becomes 2000. When this card is Tribute Summoned, you can return from your Graveyard to the owner's hand a number of Beast-Type monsters equal to the number of Tributed monsters.",
+  "text": "You can Normal Summon/Set this card with 1 Tribute, but its original ATK becomes 2000. When this card is Tribute Summoned: You can target Beast monsters in your GY equal to the number of monsters Tributed; return them to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22996376.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2700,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 7,
   "is_tuner": false

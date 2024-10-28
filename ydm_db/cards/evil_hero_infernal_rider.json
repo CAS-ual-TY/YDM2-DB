@@ -1,0 +1,21 @@
+{
+  "id": 76978105,
+  "name": "Evil HERO Infernal Rider",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Dark Fusion\" from your Deck or GY to your hand. You can banish this card and 4 other monsters from your GY; Set 1 \"Super Polymerization\" from your Deck, also, until the end of your opponent's turn, you cannot Special Summon, except \"HERO\" monsters, also you can Fusion Summon Fusion Monsters that must be Special Summoned with \"Dark Fusion\", with effects other than \"Dark Fusion\". You can only use each effect of \"Evil HERO Infernal Rider\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/76978105.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2100,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 6,
+  "is_tuner": false
+}

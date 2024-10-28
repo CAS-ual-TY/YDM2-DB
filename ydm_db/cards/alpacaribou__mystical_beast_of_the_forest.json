@@ -3,7 +3,7 @@
   "name": "Alpacaribou, Mystical Beast of the Forest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "? While in Attack Position: Attack Position Winged Beast, Insect, and Plant-Type monsters you control cannot be destroyed by battle.\n? While in Defense Position: Defense Position Winged Beast, Insect, and Plant-Type monsters you control cannot be targeted by, or be destroyed by, card effects.",
+  "text": "\u25cf While in Attack Position: Attack Position Winged Beast, Insect, and Plant-Type monsters you control cannot be destroyed by battle.\n\u25cf While in Defense Position: Defense Position Winged Beast, Insect, and Plant-Type monsters you control cannot be targeted by, or be destroyed by, card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77797992.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2700,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2100,
   "level": 7,
   "is_tuner": false

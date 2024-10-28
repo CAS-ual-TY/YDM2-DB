@@ -1,0 +1,21 @@
+{
+  "id": 69718652,
+  "name": "Ritual Beast Ulti-Nochiudrago",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster\nMust be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY. You can only Special Summon \"Ritual Beast Ulti-Nochiudrago(s)\" once per turn. Your opponent cannot target other \"Ritual Beast\" monsters you control with card effects. (Quick Effect): You can return this card to the Extra Deck, then target 1 of your banished \"Ritual Beast\" monsters; Special Summon it, but it cannot attack directly.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69718652.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Wyrm",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1900,
+  "level": 7,
+  "is_tuner": false
+}

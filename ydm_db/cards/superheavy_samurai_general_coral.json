@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 300,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "While you have a Spell/Trap Card(s) in your Graveyard, this card's Pendulum Scale becomes 4. Once per turn, when a \"Superheavy Samurai\" monster you control destroys an opponent's monster by battle: You can activate this effect; that monster can make a second attack in a row (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
   "def": 500,
   "level": 1,
-  "is_tuner": false,
-  "pendulum_text": "While you have a Spell/Trap Card(s) in your Graveyard, this card's Pendulum Scale becomes 4. Once per turn, when a \"Superheavy Samurai\" monster you control destroys an opponent's monster by battle: You can activate this effect; that monster can make a second attack in a row (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "is_tuner": false
 }

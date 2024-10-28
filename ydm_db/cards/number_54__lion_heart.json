@@ -3,7 +3,7 @@
   "name": "Number 54: Lion Heart",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 1 monsters\nThis face-up Attack Position card cannot be destroyed by battle. When you take battle damage from battles involving this card: Inflict damage to your opponent equal to the amount of battle damage you took. If this card battles an opponent's monster, during damage calculation (in either player's turn): You can detach 1 Xyz Material from this card; your opponent takes any battle damage you would have taken from that battle.",
+  "text": "3 Level 1 monsters\nThis Attack Position card cannot be destroyed by battle. If you take battle damage from battles involving this card: Inflict damage to your opponent equal to the battle damage you took. Once per battle, during damage calculation, if this card battles an opponent's monster (Quick Effect): You can detach 1 material from this card; your opponent takes any battle damage you would have taken from that battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54366836.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 100,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 100,
   "rank": 1
 }

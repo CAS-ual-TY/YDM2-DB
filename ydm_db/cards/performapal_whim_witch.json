@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 800,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If your opponent controls a face-up monster that was Special Summoned from the Extra Deck and you do not: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Performapal Whim Witch\" once per turn.",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4,
   "def": 800,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "If your opponent controls a face-up monster that was Special Summoned from the Extra Deck and you do not: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Performapal Whim Witch\" once per turn.\n",
-  "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "is_tuner": false
 }

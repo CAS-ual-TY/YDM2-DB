@@ -1,0 +1,12 @@
+{
+  "id": 25396150,
+  "name": "Amazoness Hall",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is activated: You can take 1 \"Amazoness\" monster from your GY or your face-up Extra Deck, and either add it to your hand or (if it is a Pendulum Monster) place it in your Pendulum Zone. If a monster(s) is Special Summoned to your opponent's field while you control an \"Amazoness\" Monster Card (except during the Damage Step): You can target 1 of those opponent's monsters; gain LP equal to its ATK. You can only use this effect of \"Amazoness Hall\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/25396150.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

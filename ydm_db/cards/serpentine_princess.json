@@ -3,7 +3,7 @@
   "name": "Serpentine Princess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this face-up card is returned from the field to your Deck, select and Special Summon 1 Level 3 or lower monster from your Deck to your side of the field. Then shuffle your Deck.",
+  "text": "If this face-up card is shuffled from the field into your Deck: Special Summon 1 Level 3 or lower monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71829750.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1400,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 4,
   "is_tuner": false

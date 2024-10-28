@@ -1,0 +1,21 @@
+{
+  "id": 90299015,
+  "name": "Vampire Ghost",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal Summoned: You can send 1 other \"Vampire\" card from your hand or face-up field to the GY; add 1 Level 4 or higher \"Vampire\" monster from your Deck to your hand, and if you do, send 1 Level 2 or lower \"Vampire\" monster from your Deck to the GY. During the Main Phase (Quick Effect): You can banish this card from your GY and pay 500 LP; immediately after this effect resolves, Normal Summon 1 \"Vampire\" monster. You can only use each effect of \"Vampire Ghost\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/90299015.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

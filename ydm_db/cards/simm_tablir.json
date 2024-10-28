@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 0,
   "species": "Cyberse",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 5,
   "is_tuner": false

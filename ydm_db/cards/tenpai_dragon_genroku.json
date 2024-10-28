@@ -1,0 +1,21 @@
+{
+  "id": 23657016,
+  "name": "Tenpai Dragon Genroku",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is added to your hand, except by drawing it: You can Special Summon this card as a Tuner, then you can increase its Level by 1. (Quick Effect): You can Tribute this card; Special Summon 1 \"Tenpai Dragon\" monster from your Deck, except \"Tenpai Dragon Genroku\", also you cannot Special Summon for the rest of this turn, except Dragon monsters. You can only use each effect of \"Tenpai Dragon Genroku\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23657016.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

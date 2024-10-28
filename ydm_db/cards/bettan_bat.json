@@ -1,0 +1,21 @@
+{
+  "id": 84079032,
+  "name": "Bettan Bat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Up to thrice per turn, if your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 of them; toss a coin and if the result is heads, change it to face-up Attack Position, or if the result is tails, change it to face-down Defense Position. Once per turn, if another monster(s) on the field is flipped face-up, or a face-up monster(s) is changed to face-down Defense Position, even during the Damage Step: You can target 1 of them; change it to face-up Attack Position or face-down Defense Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84079032.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
+}

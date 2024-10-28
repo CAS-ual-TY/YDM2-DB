@@ -3,7 +3,7 @@
   "name": "Rose Tentacles",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. At the start of your Battle Phase, for each Plant-Type monster your opponent currently controls, this card gains 1 additional attack during each Battle Phase this turn. Each time this card destroys a Plant-Type monster by battle: Inflict 300 damage to your opponent.",
+  "text": "Cannot be Special Summoned. At the start of your Battle Phase, for each Plant monster your opponent currently controls, this card gains 1 additional attack during each Battle Phase this turn. Each time this card destroys a Plant monster by battle: Inflict 300 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41160533.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2200,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 6,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 61011438,
+  "name": "Brilliant Rose",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Gem-Knight\" card.)\nYou can discard 1 \"Gem-Knight\" or \"Melodious\" card; Special Summon this card from your hand. You can only use this effect of \"Brilliant Rose\" once per turn. Once per turn: You can send 1 \"Gem-Knight\" or \"Melodious\" monster from your Extra Deck to the GY; until the End Phase, this card's name/Type/Attribute become the same as the original name/Type/Attribute of the monster sent to the GY to activate this effect.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/61011438.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 500,
+  "species": "Rock",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

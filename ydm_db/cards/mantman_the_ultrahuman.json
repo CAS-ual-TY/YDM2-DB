@@ -1,0 +1,21 @@
+{
+  "id": 22916418,
+  "name": "Mantman the Ultrahuman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Tributed, or be destroyed by battle, while face-up on the field. You can only use each of the following effects of \"Mantman the Ultrahuman\" once per turn. If your opponent controls a face-up card you own: You can Special Summon this card from your hand. During the End Phase, if this card was Normal or Special Summoned this turn: You can place this card on the bottom of the Deck, then you can return 1 face-up card on the field you own to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/22916418.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 7,
+  "is_tuner": false
+}

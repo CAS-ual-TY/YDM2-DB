@@ -1,0 +1,21 @@
+{
+  "id": 109401,
+  "name": "Dark Dimension Soldier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nYou can banish 1 card from your hand, then target 1 of your banished DARK monsters; Special Summon that monster in face-up or face-down Defense Position. During the End Phase: Inflict 100 damage to your opponent for each Set card on the field. You can only use each effect of \"Dark Dimension Soldier\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/109401.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2400,
+  "level": 5,
+  "is_tuner": false
+}

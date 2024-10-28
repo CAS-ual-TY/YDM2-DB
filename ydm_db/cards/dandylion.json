@@ -3,7 +3,7 @@
   "name": "Dandylion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the Graveyard: Special Summon 2 \"Fluff Tokens\" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.",
+  "text": "If this card is sent to the GY: Special Summon 2 \"Fluff Tokens\" (Plant/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15341821.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 300,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 3,
   "is_tuner": false

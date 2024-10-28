@@ -1,0 +1,21 @@
+{
+  "id": 13567610,
+  "name": "Carnot the Eternal Machine",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or GY) during a Duel in which your opponent has activated a monster effect in their hand or GY. You can only Special Summon \"Carnot the Eternal Machine\" once per turn. Once per turn, if your opponent activates a monster effect (except during the Damage Step): You can make this card gain 1000 ATK. If this card is sent to the GY, except from the hand or Deck: Shuffle this card into the Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/13567610.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

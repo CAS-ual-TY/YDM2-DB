@@ -1,0 +1,21 @@
+{
+  "id": 34568783,
+  "name": "R-Genex Undine",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can banish 1 \"Genex\" monster from your GY; this card gains that monster's Attribute, then if you banished a Tuner to activate this effect, you can treat this card as a Tuner until the end of this turn. If you control a \"Genex\" Synchro Monster: You can target 2 \"Genex\" monsters in your GY, including this card; add them to your hand, also for the rest of this turn, any card sent to your GY is banished instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/34568783.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

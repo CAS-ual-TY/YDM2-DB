@@ -3,7 +3,7 @@
   "name": "Speedroid Taketomborg",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a WIND monster, you can Special Summon this card (from your hand). You can Tribute this card; Special Summon 1 \"Speedroid\" Tuner monster from your Deck, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only Special Summon \"Speedroid Taketomborg(s)\" once per turn.",
+  "text": "If you control a WIND monster, you can Special Summon this card (from your hand). You can Tribute this card; Special Summon 1 \"Speedroid\" Tuner from your Deck, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only Special Summon \"Speedroid Taketomborg(s)\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53932291.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 600,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 3,
   "is_tuner": false

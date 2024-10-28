@@ -3,7 +3,7 @@
   "name": "Masked Ninja Ebisu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, if you control a face-up \"Ninja\" monster other than \"Masked Ninja Ebisu\", you can activate this effect: Return a number of your opponent's Spell/Trap Cards to the hand, equal to the number of \"Ninja\" monsters you control, also every face-up \"Goe Goe the Gallant Ninja\" you control can attack your opponent directly this turn.",
+  "text": "Once per turn, if you control a \"Ninja\" monster other than \"Masked Ninja Ebisu\": You can activate this effect; return Spells/Traps your opponent controls to the hand, equal to the number of \"Ninja\" monsters you control, also each of your \"Goe Goe the Gallant Ninja\" can attack your opponent directly this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22512406.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 4,
   "is_tuner": false

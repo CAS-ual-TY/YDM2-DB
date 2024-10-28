@@ -3,7 +3,7 @@
   "name": "Parallel eXceed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Special Summoned by the effect of \"Parallel eXceed\", its Level becomes 4 and its original ATK/DEF become halved. You can only use each of the following effects of \"Parallel eXceed\" once per turn.\n? If you Link Summon: You can Special Summon this card from your hand to your zone that Link Monster points to.\n? If this card is Normal or Special Summoned: You can Special Summon 1 \"Parallel eXceed\" from your Deck.",
+  "text": "If this card is Special Summoned by the effect of \"Parallel eXceed\", its Level becomes 4 and its original ATK/DEF become halved. You can only use each of the following effects of \"Parallel eXceed\" once per turn.\n\u25cf If you Link Summon: You can Special Summon this card from your hand to your zone that Link Monster points to.\n\u25cf If this card is Normal or Special Summoned: You can Special Summon 1 \"Parallel eXceed\" from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71278040.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2000,
   "species": "Cyberse",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 8,
   "is_tuner": false

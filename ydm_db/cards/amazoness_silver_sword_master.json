@@ -1,0 +1,24 @@
+{
+  "id": 24087580,
+  "name": "Amazoness Silver Sword Master",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. If an \"Amazoness\" monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of \"Amazoness Silver Sword Master\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/24087580.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "\"Amazoness\" monsters you control gain ATK equal to their own Level x 100. When an attack is declared involving your \"Amazoness\" monster: You can target 1 \"Amazoness\" Spell/Trap in your GY; add it to your hand. You can only use this effect of \"Amazoness Silver Sword Master\" once per turn.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

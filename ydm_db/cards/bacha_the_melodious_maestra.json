@@ -1,0 +1,21 @@
+{
+  "id": 56208713,
+  "name": "Bacha the Melodious Maestra",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Melodious\" monsters\nWhile you control this Fusion Summoned card, the activated effects of your \"Melodious\" Fusion Monsters cannot be negated. You can only use each of the following effects of \"Bacha the Melodious Maestra\" once per turn. If this card is Special Summoned: You can Special Summon 1 \"Melodious\" monster from your Deck. If this card is sent to the GY: You can target 1 \"Melodious\" monster in your GY, except \"Bacha the Melodious Maestra\"; Special Summon it in Defense Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/56208713.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

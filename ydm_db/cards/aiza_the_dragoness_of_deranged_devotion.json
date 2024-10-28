@@ -1,0 +1,21 @@
+{
+  "id": 63378869,
+  "name": "Aiza the Dragoness of Deranged Devotion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Special Summoned: You can place 1 Deranged Counter on 1 face-up monster your opponent controls, and it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon while it has that counter. At the start of the Damage Step, if this card battles an opponent's monster with a Deranged Counter: You can destroy that opponent's monster, and if you do, both players take damage equal to its original ATK, also destroy this card at the end of this Battle Phase. You can only use each effect of \"Aiza the Dragoness of Deranged Devotion\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63378869.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

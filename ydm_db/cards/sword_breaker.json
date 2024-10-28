@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2700,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1000,
   "rank": 6
 }

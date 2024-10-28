@@ -1,0 +1,21 @@
+{
+  "id": 86893702,
+  "name": "Anotherverse Gluttonia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A massive, malevolent monstrosity, devourer of diverse dimensions, who molds multiple domains where only the mightiest dare dwell.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/86893702.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

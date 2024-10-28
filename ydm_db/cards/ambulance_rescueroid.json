@@ -3,7 +3,7 @@
   "name": "Ambulance Rescueroid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Rescueroid\" + \"Ambulanceroid\"\nThis monster cannot be Special Summoned except by Fusion Summon. Once per turn, when a monster on your side of the field is destroyed by battle and sent to the Graveyard, you can Special Summon that monster in Defense Position.",
+  "text": "\"Rescueroid\" + \"Ambulanceroid\"\nMust be Fusion Summoned. Once per turn, when a monster you control is destroyed by battle and sent to the GY: You can Special Summon that monster in Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98927491.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2300,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1800,
   "level": 6,
   "is_tuner": false

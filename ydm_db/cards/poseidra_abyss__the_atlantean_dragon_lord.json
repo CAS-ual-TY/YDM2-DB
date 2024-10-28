@@ -1,0 +1,20 @@
+{
+  "id": 60517697,
+  "name": "Poseidra Abyss, the Atlantean Dragon Lord",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 7 monsters\nOnce per turn, you can also Xyz Summon \"Poseidra Abyss, the Atlantean Dragon Lord\" by using 1 \"Atlantean\" or \"Mermail\" Xyz Monster you control. (Transfer its materials to this card.) Once per turn: You can detach 2 materials from this card, then send 1 WATER monster from your hand or Deck to the GY; return up to 3 cards your opponent controls to the hand. If this Xyz Summoned card is sent to the GY: You can discard 1 card to the GY; Special Summon 3 Level 3 or lower Fish, Sea Serpent, and/or Aqua monsters from your hand and/or GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60517697.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 3000,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1800,
+  "rank": 7
+}

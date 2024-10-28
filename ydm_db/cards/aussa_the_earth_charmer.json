@@ -3,7 +3,7 @@
   "name": "Aussa the Earth Charmer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: While this card is face-up on the field, take control of 1 EARTH monster your opponent controls.",
+  "text": "FLIP: Target 1 EARTH monster your opponent controls; take control of that target while this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37970940.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 500,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 3,
   "is_tuner": false

@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 1400,
   "species": "Thunder",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 Pendulum Monster you control and 1 monster your opponent controls; change their battle positions.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 1700,
   "level": 4,
-  "is_tuner": true,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": true
 }

@@ -3,7 +3,7 @@
   "name": "U.A. Libero Spiker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Libero Spiker\". You can only Special Summon \"U.A. Libero Spiker\" once per turn this way. During your opponent's Main Phase (Quick Effect): You can shuffle 1 Level 5 or higher \"U.A.\" monster from your hand into the Deck, and if you do, Special Summon 1 \"U.A.\" monster with a different name from your Deck, then return this card from the field to the hand. You can only use this effect of \"U.A. Libero Spiker\" once per turn.",
+  "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Libero Spiker\". You can only Special Summon \"U.A. Libero Spiker\" once per turn this way. During your opponent's Main Phase (Quick Effect): You can shuffle 1 Level 5 or higher \"U.A.\" monster from your hand into the Deck, and if you do, Special Summon 1 \"U.A.\" monster from your Deck with a different name, then return this card to the hand. You can only use this effect of \"U.A. Libero Spiker\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11637481.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 4,
   "is_tuner": false

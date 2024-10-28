@@ -3,7 +3,7 @@
   "name": "Thought Ruler Archfiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys a monster by battle and sends it to the Graveyard: Gain LP equal to that monster's original ATK in the Graveyard. During either player's turn, when a Spell/Trap Card is activated that targets exactly 1 Psychic-Type monster (and no other cards): You can pay 1000 LP; negate the activation, and if you do, destroy it.",
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card destroys a monster by battle and sends it to the GY: Gain LP equal to that monster's original ATK in the GY. When a Spell/Trap Card is activated that targets 1 Psychic monster (and no other cards) (Quick Effect): You can pay 1000 LP; negate the activation, and if you do, destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70780151.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2700,
   "species": "Psychic",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2300,
   "level": 8,
   "is_tuner": false

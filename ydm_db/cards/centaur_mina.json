@@ -1,0 +1,21 @@
+{
+  "id": 33129626,
+  "name": "Centaur Mina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 LIGHT Warrior monster + 1 Beast monster\nOnce per turn, during your turn, when your opponent activates a Trap Card (Quick Effect): You can negate the activation, and if you do, Set that card. You can only use each of the following effects of \"Centaur Mina\" once per turn. During your Main Phase: You can Special Summon 1 Level 2 or lower monster from your hand or GY. If this card is sent to the GY as Synchro Material for a WIND Warrior monster: You can destroy 1 face-up monster on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33129626.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2200,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

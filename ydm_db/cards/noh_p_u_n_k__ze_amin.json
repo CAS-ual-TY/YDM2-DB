@@ -1,0 +1,21 @@
+{
+  "id": 19535693,
+  "name": "Noh-P.U.N.K. Ze Amin",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can pay 600 LP; add 1 \"P.U.N.K.\" monster from your Deck to your hand, except \"Noh-P.U.N.K. Ze Amin\". If this card is sent to the GY: You can target 1 \"P.U.N.K.\" monster you control; it gains 600 ATK. You can only use each effect of \"Noh-P.U.N.K. Ze Amin\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/19535693.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 3,
+  "is_tuner": true
+}

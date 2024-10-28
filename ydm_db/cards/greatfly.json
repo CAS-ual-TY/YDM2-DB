@@ -11,13 +11,13 @@
   "attribute": "WIND",
   "atk": 1400,
   "species": "Insect",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 2,
   "link_arrows": [
-    "Bottom-Left",
-    "Bottom-Right"
+    "Bottom-Right",
+    "Bottom-Left"
   ]
 }

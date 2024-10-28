@@ -1,0 +1,12 @@
+{
+  "id": 47961342,
+  "name": "Switch Point",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Choose 1 monster your opponent controls, and your opponent sends either of the following to the GY.\n\u25cf The chosen monster.\n\u25cf The other monsters they control.\nYour opponent must control 3 or more monsters for you to activate and resolve this effect.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47961342.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

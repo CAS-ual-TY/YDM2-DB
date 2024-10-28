@@ -1,0 +1,21 @@
+{
+  "id": 6180710,
+  "name": "Dream Shark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Dream Shark\" once per turn. If you control no monsters, or if all monsters you control are WATER: You can Special Summon this card from your hand. When a card or effect that would inflict damage to you is activated, while this card is in your GY (except during the Damage Step): You can Special Summon this card, and if you do, make that effect damage to you 0. If Summoned this way, it loses 1000 DEF, also banish it when it leaves the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6180710.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2600,
+  "level": 5,
+  "is_tuner": false
+}

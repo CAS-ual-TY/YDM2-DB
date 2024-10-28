@@ -3,7 +3,7 @@
   "name": "Hypnosister",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card gains effects based on the total number of cards in both players' Pendulum Zones.\n? 1 or more: This card gains 800 ATK and DEF.\n? 2 or more: At the start of the Damage Step, if this card battles a Pendulum Summoned monster: Destroy that monster.\n? 3 or more: Monsters your opponent controls must attack this card, if able.\n? 4: If this card destroys a monster by battle or by its own effect: Draw 1 card.",
+  "text": "This card gains effects based on the total number of cards in both players' Pendulum Zones.\n\u25cf 1 or more: This card gains 800 ATK and DEF.\n\u25cf 2 or more: At the start of the Damage Step, if this card battles a Pendulum Summoned monster: Destroy that monster.\n\u25cf 3 or more: Monsters your opponent controls must attack this card, if able.\n\u25cf 4: If this card destroys a monster by battle or by its own effect: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22200403.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1300,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

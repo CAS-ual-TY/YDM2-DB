@@ -3,7 +3,7 @@
   "name": "Beast of Talwar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Only the master of the sword among Fiend-Type monsters is permitted to hold the Talwar.\n\n\n(This card is always treated as an \"Archfiend\" card.)",
+  "text": "Only the master of the sword among Fiend-Type monsters is permitted to hold the Talwar.\n\n(This card is always treated as an \"Archfiend\" card.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11761845.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2400,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2150,
   "level": 6,
   "is_tuner": false

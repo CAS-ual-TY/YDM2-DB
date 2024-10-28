@@ -1,0 +1,21 @@
+{
+  "id": 54475145,
+  "name": "Heart of the Blue-Eyes",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Millennium\" card.)\nControl of this card cannot switch. You can discard this card; add 1 \"Millennium Ankh\" from your Deck to your hand. You can only use this effect of \"Heart of the Blue-Eyes\" once per turn. If this card is in your GY, and you have successfully activated \"Millennium Ankh\" this Duel, and your opponent Normal or Special Summons a monster(s) that is Level 8 or higher, or has 3000 or more ATK: You can send that monster to the GY, and if you do, Special Summon this card. You can only use this effect of \"Heart of the Blue-Eyes\" once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/54475145.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

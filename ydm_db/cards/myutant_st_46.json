@@ -3,7 +3,7 @@
   "name": "Myutant ST-46",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can add 1 \"Myutant\" Spell/Trap from your Deck to your hand. You can Tribute this card, then banish 1 card from your hand or face-up field; Special Summon 1 monster from your hand or Deck, based on the banished card.\n? Monster: \"Myutant Beast\" ? Spell: \"Myutant Mist\" ? Trap: \"Myutant Arsenal\"\nYou can only use each effect of \"Myutant ST-46\" once per turn.",
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Myutant\" Spell/Trap from your Deck to your hand. You can Tribute this card, then banish 1 card from your hand or face-up field; Special Summon 1 monster from your hand or Deck, based on the banished card.\n\u25cf Monster: \"Myutant Beast\" \u25cf Spell: \"Myutant Mist\" \u25cf Trap: \"Myutant Arsenal\"\nYou can only use each effect of \"Myutant ST-46\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8200556.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 500,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 3,
   "is_tuner": false

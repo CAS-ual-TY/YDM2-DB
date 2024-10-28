@@ -3,7 +3,7 @@
   "name": "Dark Scorpion - Gorg the Strong",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\n? Target 1 monster your opponent controls; return that target to the top of the Deck.\n? Send the top card of their Deck to the Graveyard.",
+  "text": "When this card inflicts battle damage to your opponent, you can activate 1 of these effects:\n\u25cf Target 1 monster your opponent controls; return that target to the top of the Deck.\n\u25cf Send the top card of their Deck to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48768179.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 5,
   "is_tuner": false

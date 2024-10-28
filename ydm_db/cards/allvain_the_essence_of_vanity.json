@@ -11,11 +11,11 @@
   "attribute": "DARK",
   "atk": 0,
   "species": "Fairy",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
-  "has_effect": true,
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2100,
   "level": 2,
-  "is_tuner": false
+  "is_tuner": true
 }

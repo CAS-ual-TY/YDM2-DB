@@ -1,0 +1,21 @@
+{
+  "id": 33393090,
+  "name": "Yowie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Summoned (and no other cards): You can activate this effect; your opponent skips their next Draw Phase. You can only Special Summon once, the turn you activate this effect. You can only use this effect of \"Yowie\" once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33393090.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

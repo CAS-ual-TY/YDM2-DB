@@ -1,0 +1,21 @@
+{
+  "id": 59481082,
+  "name": "Lightsworn Dragonling",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have a \"Lightsworn\" monster in your GY: You can Special Summon this card from your hand. If this card is Special Summoned: You can send 1 \"Lightsworn\" card from your Deck to the GY, except \"Lightsworn Dragonling\". If this card is sent to the GY: You can add 1 Dragon monster with 3000 ATK/2600 DEF from your Deck to your hand. You can only use each effect of \"Lightsworn Dragonling\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/59481082.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

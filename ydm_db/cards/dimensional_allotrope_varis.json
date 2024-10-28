@@ -1,0 +1,21 @@
+{
+  "id": 52254878,
+  "name": "Dimensional Allotrope Varis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by battle with a monster with the same Type or Attribute as this card. You can declare 1 Monster Type and 1 Attribute; this card becomes that Type and Attribute until the end of your opponent's turn. You can only use this effect of \"Dimensional Allotrope Varis\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/52254878.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
+}

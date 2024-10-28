@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2300,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": false,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "All Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 1000,
   "level": 6,
-  "is_tuner": false,
-  "pendulum_text": "All Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

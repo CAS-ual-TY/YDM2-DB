@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 3000,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, at the end of the Damage Step, if your Dragon Pendulum Monster attacked an opponent's monster: You can activate this effect; it can attack again in a row. You cannot declare attacks the turn you activate this effect, except with that monster.",
+  "pendulum_scale_left_blue": 0,
+  "pendulum_scale_right_red": 0,
   "def": 2500,
   "level": 10,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, at the end of the Damage Step, if your Dragon Pendulum Monster attacked an opponent's monster: You can activate this effect; it can attack again in a row. You cannot declare attacks the turn you activate this effect, except with that monster.\n",
-  "pendulum_scale_left_blue": 0,
-  "pendulum_scale_right_red": 0
+  "is_tuner": false
 }

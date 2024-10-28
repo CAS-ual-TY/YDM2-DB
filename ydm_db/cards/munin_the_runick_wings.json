@@ -1,0 +1,21 @@
+{
+  "id": 92385016,
+  "name": "Munin the Runick Wings",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Runick\" monsters\nIf this card is Special Summoned from the Extra Deck: You can discard 1 card; add 1 \"Runick\" Continuous Spell from your Deck to your hand. When your opponent activates a card or effect that targets a \"Runick\" card(s) you control or a Set card(s) you control (Quick Effect): You can banish this card you control; negate the activation, and if you do, destroy that card. Once per turn, during the End Phase: Gain 1000 LP.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/92385016.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

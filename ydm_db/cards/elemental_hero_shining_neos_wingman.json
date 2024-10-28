@@ -1,0 +1,21 @@
+{
+  "id": 56733747,
+  "name": "Elemental HERO Shining Neos Wingman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Elemental HERO Neos\" + 1 \"Wingman\" Fusion Monster\nMust be Fusion Summoned. Gains 300 ATK for each monster in your GY, also cannot be destroyed by card effects. If this card is Special Summoned: You can destroy cards your opponent controls up to the number of different Attributes among the monsters on the field. You can only use this effect of \"Elemental HERO Shining Neos Wingman\" once per turn. If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/56733747.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

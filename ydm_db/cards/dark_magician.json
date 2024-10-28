@@ -5,24 +5,16 @@
   "is_custom": false,
   "text": "The ultimate wizard in terms of attack and defense.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/46986414.jpg",
-    "https://images.ygoprodeck.com/images/cards/46986415.jpg",
-    "https://images.ygoprodeck.com/images/cards/46986416.jpg",
-    "https://images.ygoprodeck.com/images/cards/46986417.jpg",
-    "https://images.ygoprodeck.com/images/cards/46986418.jpg",
-    "https://images.ygoprodeck.com/images/cards/46986419.jpg",
-    "https://images.ygoprodeck.com/images/cards/36996508.jpg",
-    "https://images.ygoprodeck.com/images/cards/46986420.jpg",
-    "https://images.ygoprodeck.com/images/cards/46986421.jpg"
+    "https://images.ygoprodeck.com/images/cards/46986414.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2100,
   "level": 7,
   "is_tuner": false

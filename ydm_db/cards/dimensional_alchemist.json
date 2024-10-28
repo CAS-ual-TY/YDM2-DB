@@ -3,7 +3,7 @@
   "name": "Dimensional Alchemist",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can activate this effect to remove from play the top card of your Deck and give this card 500 ATK until the End Phase. When this card is destroyed and sent from your side of the field to your Graveyard, you can select 1 of your removed from play monsters and return it to your hand.",
+  "text": "Once per turn: You can activate this effect; banish the top card of your Deck, and if you do, until the end of this turn, this card gains 500 ATK. When this card you control is destroyed and sent to your GY: You can target 1 of your banished monsters; add it to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36733451.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1300,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 4,
   "is_tuner": false

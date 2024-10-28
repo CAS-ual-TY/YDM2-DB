@@ -3,7 +3,7 @@
   "name": "Dance Princess of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, if you control another face-up \"Ice Barrier\" monster, you can reveal any number of \"Ice Barrier\" monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.",
+  "text": "Once per turn, if you control another \"Ice Barrier\" monster: You can reveal any number of \"Ice Barrier\" monsters in your hand, then target an equal number of Set Spells/Traps your opponent controls; return those targets to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59546528.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1700,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 900,
   "level": 4,
   "is_tuner": false

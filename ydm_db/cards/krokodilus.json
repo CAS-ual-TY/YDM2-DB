@@ -1,0 +1,21 @@
+{
+  "id": 76512652,
+  "name": "Krokodilus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A vicious crocodile with great intelligence.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/76512652.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

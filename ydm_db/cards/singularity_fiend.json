@@ -1,0 +1,21 @@
+{
+  "id": 32484853,
+  "name": "Singularity Fiend",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent Special Summons a monster(s): You can discard this card and 1 Spell; destroy that monster(s). You can only use this effect of \"Singularity Fiend\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32484853.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

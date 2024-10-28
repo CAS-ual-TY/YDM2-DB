@@ -1,0 +1,21 @@
+{
+  "id": 32061192,
+  "name": "Maliss P Dormouse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Maliss\" Link Monsters that point to this card cannot be destroyed by card effects. You can only use each of the following effects of \"Maliss P Dormouse\" once per turn. During your Main Phase: You can banish 1 \"Maliss\" monster from your Deck, also all \"Maliss\" monsters you control will gain 600 ATK this turn. If this card is banished: You can pay 300 LP; Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32061192.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 900,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

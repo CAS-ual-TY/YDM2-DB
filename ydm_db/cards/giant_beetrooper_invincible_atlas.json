@@ -3,7 +3,7 @@
   "name": "Giant Beetrooper Invincible Atlas",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Insect monsters\nWhile this Link Summoned card has 3000 or less ATK, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You cannot Special Summon monsters, except Insect monsters. You can Tribute 1 Insect monster, then activate 1 of these effects;\n● Special Summon 1 \"Beetrooper\" monster from your Deck.\n● This card gains 2000 ATK until the end of this turn.\nYou can only use this effect of \"Giant Beetrooper Invincible Atlas\" once per turn.",
+  "text": "2+ Insect monsters\nWhile this Link Summoned card has 3000 or less ATK, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You cannot Special Summon monsters, except Insect monsters. You can Tribute 1 Insect monster, then activate 1 of these effects;\n\u25cf Special Summon 1 \"Beetrooper\" monster from your Deck.\n\u25cf This card gains 2000 ATK until the end of this turn.\nYou can only use this effect of \"Giant Beetrooper Invincible Atlas\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38229962.jpg"
   ],
@@ -11,15 +11,15 @@
   "attribute": "EARTH",
   "atk": 3000,
   "species": "Insect",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 4,
   "link_arrows": [
-    "Bottom-Left",
-    "Bottom",
+    "Top",
     "Bottom-Right",
-    "Top"
+    "Bottom",
+    "Bottom-Left"
   ]
 }

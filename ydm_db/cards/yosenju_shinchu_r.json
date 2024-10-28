@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 0,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, if you have a \"Yosenju\" card in your other Pendulum Zone: You can make this card's Pendulum Scale become 11 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Yosenju\" monsters (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 2100,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, if you have a \"Yosenju\" card in your other Pendulum Zone: You can make this card's Pendulum Scale become 11 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Yosenju\" monsters (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": false
 }

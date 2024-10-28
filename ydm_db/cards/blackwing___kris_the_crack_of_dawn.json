@@ -3,7 +3,7 @@
   "name": "Blackwing - Kris the Crack of Dawn",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a \"Blackwing\" monster other than \"Blackwing - Kris the Crack of Dawn\", you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Kris the Crack of Dawn\" once per turn this way. Once per turn, this card cannot be destroyed by Spell/Trap effects.",
+  "text": "If you control a \"Blackwing\" monster other than \"Blackwing - Kris the Crack of Dawn\", you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Kris the Crack of Dawn\" once per turn this way. The first time this card on the field would be destroyed by Spell/Trap effect each turn, it is not destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81105204.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1900,
   "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 4,
   "is_tuner": false

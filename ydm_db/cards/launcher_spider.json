@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "A mechanical spider with rocket launchers capable of random fire.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/87322377.jpg",
-    "https://images.ygoprodeck.com/images/cards/87322378.jpg"
+    "https://images.ygoprodeck.com/images/cards/87322377.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2200,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2500,
   "level": 7,
   "is_tuner": false

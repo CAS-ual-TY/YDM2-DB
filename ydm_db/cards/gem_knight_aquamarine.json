@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1400,
   "species": "Aqua",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2600,
   "level": 6,
   "is_tuner": false

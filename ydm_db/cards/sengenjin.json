@@ -3,7 +3,7 @@
   "name": "Sengenjin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An unstoppable savage that carries Millennium Items.",
+  "text": "An unstoppable savage that carries Millennium Items.\n\n(This card is always treated as a \"Millennium\" card.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76232340.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2750,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2500,
   "level": 8,
   "is_tuner": false

@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/32012841.jpg",
-    "https://images.ygoprodeck.com/images/cards/32012842.jpg"
+    "https://images.ygoprodeck.com/images/cards/32012841.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 3000,
   "level": 5,
   "is_tuner": false

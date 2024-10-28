@@ -1,0 +1,12 @@
+{
+  "id": 96029570,
+  "name": "Ebon Sun",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up monster(s) you control is destroyed by battle or card effect: You can gain LP equal to their combined original ATK. If a monster(s) is Special Summoned face-up from your GY (except during the Damage Step): You can target 1 of them; it gains 1000 ATK. If a Spell/Trap(s) is discarded from your hand to your GY (except during the Damage Step): You can target 1 of them; add it to your hand. You can only use each effect of \"Ebon Sun\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/96029570.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

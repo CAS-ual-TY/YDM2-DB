@@ -1,0 +1,12 @@
+{
+  "id": 91706817,
+  "name": "Angel of Blue Tears",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 face-up monster on the field; its controller's opponent takes damage equal to the number of cards in their hand x 200, then negate that target's effects until the end of this turn. If effect damage is inflicted (except during the Damage Step): You can banish this card from your GY; Set 1 Normal Trap directly from your hand or Deck. If Set from the hand, it can be activated this turn. You can only use 1 \"Angel of Blue Tears\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/91706817.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

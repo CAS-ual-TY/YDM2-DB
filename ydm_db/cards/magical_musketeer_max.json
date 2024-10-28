@@ -3,7 +3,7 @@
   "name": "Magical Musketeer Max",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Level 8 or lower \"Magical Musket\" monster\nIf this card is Link Summoned: You can activate 1 of these effects;\n? Add \"Magical Musket\" Spells/Traps with different names from your Deck to your hand, up to the number of monsters your opponent controls. ? Special Summon \"Magical Musket\" monsters with different names from your Deck, up to the number of Spells/Traps your opponent controls.\nYou can only use this effect of \"Magical Musketeer Max\" once per turn. During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand.",
+  "text": "1 Level 8 or lower \"Magical Musket\" monster\nIf this card is Link Summoned: You can activate 1 of these effects;\n\u25cf Add \"Magical Musket\" Spells/Traps with different names from your Deck to your hand, up to the number of monsters your opponent controls. \u25cf Special Summon \"Magical Musket\" monsters with different names from your Deck, up to the number of Spells/Traps your opponent controls.\nYou can only use this effect of \"Magical Musketeer Max\" once per turn. During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71791814.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1000,
   "species": "Fiend",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 1,
   "link_arrows": [
     "Bottom"

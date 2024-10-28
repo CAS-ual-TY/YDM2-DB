@@ -1,0 +1,23 @@
+{
+  "id": 39943352,
+  "name": "Daidaratant the Ooze Giant",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 monsters\nIf you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card from your Extra Deck. You can detach 1 material from this card; place this card in your Pendulum Zone, then you can add 1 Pendulum Monster from your GY to the Extra Deck face-up. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. You can only use each effect of \"Daidaratant the Ooze Giant\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/39943352.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2400,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "Xyz",
+  "is_pendulum": true,
+  "pendulum_text": "You can target 1 Xyz Monster you control; attach this card to it as material. You can only use this effect of \"Daidaratant the Ooze Giant\" once per turn.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
+  "def": 400,
+  "rank": 4
+}

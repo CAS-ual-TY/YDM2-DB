@@ -3,19 +3,19 @@
   "name": "UFOroid Fighter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"UFOroid\" + 1 Warrior-Type monster\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. The original ATK and DEF of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card.",
+  "text": "\"UFOroid\" + 1 Warrior monster\nA Fusion Summon of this card can only be done with the above Fusion Materials. The original ATK/DEF of this card become the combined original ATK of the 2 materials used for its Fusion Summon.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32752319.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
-  "atk": 0,
+  "atk": -1,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": -1,
   "level": 10,
   "is_tuner": false
 }

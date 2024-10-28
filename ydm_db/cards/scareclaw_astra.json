@@ -1,0 +1,21 @@
+{
+  "id": 83488497,
+  "name": "Scareclaw Astra",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) to your Main Monster Zone, adjacent to a \"Scareclaw\" monster you control or in its column. You can only Special Summon \"Scareclaw Astra\" once per turn this way. Your \"Scareclaw\" monsters in the Extra Monster Zone(s) can attack a number of times each Battle Phase, up to the number of Defense Position \"Scareclaw\" monsters you control with different names.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/83488497.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
+}

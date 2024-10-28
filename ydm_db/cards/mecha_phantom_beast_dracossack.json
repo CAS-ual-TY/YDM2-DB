@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2600,
   "species": "Machine",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2200,
   "rank": 7
 }

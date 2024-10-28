@@ -1,0 +1,21 @@
+{
+  "id": 35614780,
+  "name": "Light End Sublimation Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish 1 Level 8 Dragon monster from your Extra Deck; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except Dragon monsters. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field. When an opponent's monster declares an attack: You can make this card lose exactly 500 ATK/DEF, and if you do, that opponent's monster loses 1500 ATK. You can only use each effect of \"Light End Sublimation Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/35614780.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2600,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 8,
+  "is_tuner": false
+}

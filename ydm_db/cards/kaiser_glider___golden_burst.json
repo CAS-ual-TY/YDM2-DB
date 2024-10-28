@@ -1,0 +1,21 @@
+{
+  "id": 41002238,
+  "name": "Kaiser Glider - Golden Burst",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(Quick Effect): You can Tribute 1 monster; Special Summon this card from your hand. You can only use this effect of \"Kaiser Glider - Golden Burst\" once per turn. If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; this card's ATK becomes that monster's current ATK until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/41002238.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
+}

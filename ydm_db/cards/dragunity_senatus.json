@@ -3,7 +3,7 @@
   "name": "Dragunity Senatus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 \"Dragunity\" card; equip 1 Dragon \"Dragunity\" Tuner from your Deck to this card, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Dragon monsters. You can only use this effect of \"Dragunity Senatus\" once per turn. If a \"Dragunity\" card(s) you control would be destroyed by battle or card effect, you can destroy 1 \"Dragunity\" card equipped to this card, instead.",
+  "text": "You can discard 1 \"Dragunity\" card; equip 1 \"Dragunity\" Tuner from your Deck to this card, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Dragon monsters. You can only use this effect of \"Dragunity Senatus\" once per turn. If a \"Dragunity\" card(s) you control would be destroyed by battle or card effect, you can destroy 1 \"Dragunity\" card equipped to this card, instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92868896.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1800,
   "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 4,
   "is_tuner": false

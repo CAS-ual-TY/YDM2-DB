@@ -1,0 +1,21 @@
+{
+  "id": 46358784,
+  "name": "Advanced Crystal Beast Emerald Tortoise",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If \"Advanced Dark\" is not in a Field Zone, send this monster to the GY. Once per turn (Quick Effect): You can target 1 face-up monster on the field; change its battle position. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/46358784.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 600,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

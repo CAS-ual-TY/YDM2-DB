@@ -1,0 +1,21 @@
+{
+  "id": 76615300,
+  "name": "Hiita the Fire Channeler",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Charmer\" card.)\nYou can discard this card and 1 other FIRE monster; add 1 FIRE monster from your Deck to your hand with higher ATK than the other discarded monster, also you cannot activate non-FIRE monster effects for the rest of this turn. When your FIRE monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Hiita the Fire Channeler\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/76615300.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1850,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Revival Rose",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a Level 5 or higher Plant-Type monster you control is destroyed, you can Special Summon this card from the Graveyard.",
+  "text": "If a face-up Level 5 or higher Plant monster(s) you control is destroyed while this card is in the GY: You can Special Summon this card from the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12469386.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1300,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 4,
   "is_tuner": false

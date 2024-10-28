@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2400,
   "species": "Machine",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1500,
   "rank": 5
 }

@@ -1,0 +1,24 @@
+{
+  "id": 3048768,
+  "name": "Angello Vaalmonica",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can discard 1 other card; take 1 \"Dimonno Vaalmonica\" from your Deck, and place this card and that card in your Pendulum Zones. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Vaalmonica\" Normal Spell/Trap from your GY; apply whichever effect on that card includes gaining LP. You can only use each effect of \"Angello Vaalmonica\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3048768.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Each time you gain LP while you control a Fiend Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Once per turn, when an opponent's monster declares an attack, you can: Immediately after this effect resolves, Link Summon 1 \"Vaalmonica\" Link Monster.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

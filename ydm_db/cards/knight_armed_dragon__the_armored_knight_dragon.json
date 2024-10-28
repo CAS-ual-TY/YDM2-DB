@@ -1,0 +1,21 @@
+{
+  "id": 98007437,
+  "name": "Knight Armed Dragon, the Armored Knight Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you Special Summon a Level 5 or higher Dragon monster(s): You can Special Summon this card from your hand. If this card is Special Summoned: You can make this card's Attribute and Level become the same as 1 of your banished Dragon monsters'. If this card is sent to the GY: You can target 1 Dragon monster you control; it gains 1000 ATK. Neither player can activate cards or effects in response to this effect's activation. You can only use each effect of \"Knight Armed Dragon, the Armored Knight Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98007437.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1900,
+  "level": 3,
+  "is_tuner": false
+}

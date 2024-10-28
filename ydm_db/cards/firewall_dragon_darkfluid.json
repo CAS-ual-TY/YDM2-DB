@@ -11,16 +11,16 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Cyberse",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 5,
   "link_arrows": [
     "Top",
-    "Left",
-    "Bottom-Left",
+    "Right",
     "Bottom-Right",
-    "Right"
+    "Bottom-Left",
+    "Left"
   ]
 }

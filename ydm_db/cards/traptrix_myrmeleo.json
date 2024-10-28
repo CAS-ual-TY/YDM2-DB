@@ -3,7 +3,7 @@
   "name": "Traptrix Myrmeleo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "text": "Unaffected by the effects of \"Hole\" Normal Traps. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91812341.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1600,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

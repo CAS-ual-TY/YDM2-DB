@@ -1,0 +1,21 @@
+{
+  "id": 81497285,
+  "name": "Lady Labrynth of the Silver Castle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control a Set card, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Lady Labrynth of the Silver Castle\" once per turn. If a \"Labrynth\" card or effect or a Normal Trap Card was activated this turn, except \"Lady Labrynth of the Silver Castle\" (Quick Effect): You can Special Summon this card from your hand in Defense Position. When a Normal Trap Card is activated (Quick Effect): You can Set 1 Normal Trap with a different name directly from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81497285.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
+}

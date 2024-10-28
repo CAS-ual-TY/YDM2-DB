@@ -1,0 +1,21 @@
+{
+  "id": 99937011,
+  "name": "Mudora the Sword Oracle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard 1 other EARTH Fairy monster; Special Summon this card from your hand, then you can place 1 \"Gravekeeper's Trap\" from your Deck face-up in your Spell & Trap Zone. (Quick Effect): You can banish this card from your field or GY, then target up to 3 cards in any GY(s), or up to 5 if \"Exchange of the Spirit\" is on your field or in your GY; shuffle them into the Deck. You can only use each effect of \"Mudora the Sword Oracle\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/99937011.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

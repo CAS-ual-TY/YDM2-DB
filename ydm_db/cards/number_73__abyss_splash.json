@@ -3,7 +3,7 @@
   "name": "Number 73: Abyss Splash",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 5 WATER monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; double this card's ATK until the end of your opponent's turn, also, any battle damage it inflicts to your opponent this turn is halved.",
+  "text": "2 Level 5 WATER monsters\nOnce per turn (Quick Effect): You can detach 1 material from this card; double this card's ATK until the end of your opponent's turn, also, any battle damage it inflicts to your opponent this turn is halved.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36076683.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 2400,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1400,
   "rank": 5
 }

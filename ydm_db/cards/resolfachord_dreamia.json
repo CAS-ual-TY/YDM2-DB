@@ -1,0 +1,24 @@
+{
+  "id": 92610868,
+  "name": "ReSolfachord Dreamia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you have an odd Pendulum Scale in your Pendulum Zone, if a \"Solfachord\" Pendulum Monster Card(s) you control would be destroyed by your opponent's card effect, you can destroy this card instead of 1 of those cards. If you control a \"Solfachord\" card in your Pendulum Zone: You can Special Summon this card from your hand. You can only use this effect of \"ReSolfachord Dreamia\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/92610868.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 600,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

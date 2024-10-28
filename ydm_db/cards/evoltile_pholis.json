@@ -1,0 +1,21 @@
+{
+  "id": 89776023,
+  "name": "Evoltile Pholis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a monster(s) you control would be destroyed by battle or card effect, you can Tribute 1 Reptile or Dinosaur monster you control instead. You can only use each of the following effects of \"Evoltile Pholis\" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 \"Evoltile\" monster from your hand or GY in face-down Defense Position. During your Main Phase: You can Set 1 \"Evo-Force\" or \"Evo-Instant\" directly from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/89776023.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 900,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 20848593,
+  "name": "Ice Water",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A very aggressive mermaid that attacks enemies with the spikes growing from its body.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/20848593.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1150,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 42377643,
+  "name": "Gunkan Suship Uni",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can reveal 1 other \"Gunkan\" card in your hand; Special Summon this card from your hand, then apply the following effect based on the revealed card.\n\u25cf \"Gunkan Suship Shari\": You can Special Summon the revealed monster.\n\u25cf Other: Place the revealed card on the bottom of the Deck.\nYou can target 1 \"Gunkan\" monster you control: Change its Level to 4 or 5, then you can add 1 \"Gunkan Suship Shari\" from your Deck to your hand.\nYou can only use each effect of \"Gunkan Suship Uni\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/42377643.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 900,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 5,
+  "is_tuner": false
+}

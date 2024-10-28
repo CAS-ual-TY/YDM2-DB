@@ -1,0 +1,21 @@
+{
+  "id": 97843505,
+  "name": "Djinn the Watcher of the Wind",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This creature generates gale-force winds and tornadoes to blow its enemies away.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/97843505.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 700,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

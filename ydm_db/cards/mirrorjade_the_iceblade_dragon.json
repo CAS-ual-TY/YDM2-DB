@@ -1,0 +1,21 @@
+{
+  "id": 44146295,
+  "name": "Mirrorjade the Iceblade Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44146295.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Wyrm",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

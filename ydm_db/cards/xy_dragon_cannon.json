@@ -3,7 +3,7 @@
   "name": "XY-Dragon Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-up Spell/Trap Card your opponent controls; destroy that target.",
+  "text": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 face-up Spell/Trap your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2111707.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2200,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1900,
   "level": 6,
   "is_tuner": false

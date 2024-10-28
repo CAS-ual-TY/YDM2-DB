@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2200,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2200,
   "rank": 5
 }

@@ -3,7 +3,7 @@
   "name": "Morphtronic Remoten",
   "is_illegal": false,
   "is_custom": false,
-  "text": "? Once per turn, while in Attack Position: You can target 1 \"Morphtronic\" monster in your Graveyard; banish that target and add 1 \"Morphtronic\" monster with the same Level as the target from your Deck to your hand.\n? Once per turn, while in Defense Position: You can send 1 \"Morphtronic\" monster from your hand to the Graveyard and add 1 other \"Morphtronic\" monster with the same Level as that monster from your Graveyard to your hand.",
+  "text": "\u25cf Attack Position: Once per turn: You can target 1 \"Morphtronic\" monster in your GY; banish that target, and if you do, add 1 \"Morphtronic\" monster with the same Level as the target from your Deck to your hand.\n\u25cf Defense Position: Once per turn: You can send 1 \"Morphtronic\" monster from your hand to the GY, and if you do, add 1 other \"Morphtronic\" monster with the same Level as that monster from your GY to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57108202.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 300,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 3,
   "is_tuner": true

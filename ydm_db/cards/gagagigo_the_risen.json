@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 2950,
   "species": "Reptile",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2800,
   "rank": 4
 }

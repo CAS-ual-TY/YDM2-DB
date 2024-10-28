@@ -1,0 +1,21 @@
+{
+  "id": 74018812,
+  "name": "Labrynth Stovie Torbie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(Quick Effect): You can send this card from your hand or field to the GY and discard 1 card; Set 1 \"Labrynth\" Spell/Trap from your hand or Deck. If a monster(s) leaves the field by your Normal Trap effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Labrynth Stovie Torbie\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/74018812.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 2,
+  "is_tuner": false
+}

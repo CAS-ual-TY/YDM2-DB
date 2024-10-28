@@ -1,0 +1,12 @@
+{
+  "id": 6089145,
+  "name": "Clear Wall",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If \"Clear World\" is on the field: You can add 1 monster from your Deck to your hand that mentions it. You can only use this effect of \"Clear Wall\" once per turn. Monsters that mention \"Clear World\" cannot be destroyed by battle, also you take no battle damage from battles involving them. While you control a Level 7 or higher monster that mentions \"Clear World\", all effects of \"Clear World\" are applied to your opponent regardless of the Attributes they control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6089145.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

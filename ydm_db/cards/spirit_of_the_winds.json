@@ -1,0 +1,21 @@
+{
+  "id": 54615781,
+  "name": "Spirit of the Winds",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A spirit of the wind that calls up a storm when it's in a bad mood.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/54615781.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1700,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

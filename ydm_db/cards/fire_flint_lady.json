@@ -3,7 +3,7 @@
   "name": "Fire Flint Lady",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Warrior monster: You can Special Summon this card from your hand. You can send this card you control to the GY; Special Summon 1 Level 4 or lower Warrior monster from your hand, and if you do, your opponent cannot target it with card effects this turn. You can only use each effect of \"Fire Flint Lady\" once per turn.",
+  "text": "If you control a Warrior monster: You can Special Summon this card from your hand. You can send this card from the field to the GY; Special Summon 1 Level 4 or lower Warrior monster from your hand, and if you do, your opponent cannot target it with card effects this turn. You can only use each effect of \"Fire Flint Lady\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42052439.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 100,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

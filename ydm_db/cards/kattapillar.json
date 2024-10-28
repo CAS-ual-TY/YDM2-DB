@@ -1,0 +1,21 @@
+{
+  "id": 81179446,
+  "name": "Kattapillar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Attacks enemies by spitting thin, sticky webs.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81179446.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 250,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

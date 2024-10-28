@@ -1,0 +1,20 @@
+{
+  "id": 47195442,
+  "name": "Wonky Quartet",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 4 monsters\nUnaffected by other cards' effects. If this card is Xyz Summoned, also once per turn during your Standby Phase: Attach the top 3 cards of your Deck to this card as material, then apply the following effect based on the number of monsters attached to this card.\n\u25cf 4 or less: Give control of this card to your opponent.\n\u25cf 5 or more: Take 400 damage for each material this card has, and if you do, destroy all monsters you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47195442.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2600,
+  "rank": 4
+}

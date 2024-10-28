@@ -1,0 +1,20 @@
+{
+  "id": 23848752,
+  "name": "Heroic Champion - Jarngreipr",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 1 Warrior monsters\nThe first time each Warrior monster you control would be destroyed by battle or card effect each turn, it is not destroyed. You can only use each of the following effects of \"Heroic Champion - Jarngreipr\" once per turn. You can detach 2 materials from this card, then target 1 Level/Rank 4 Warrior monster in your GY; Special Summon it, and if you do, this card gains ATK equal to that monster's original ATK. When an attack is declared involving your opponent's monster: You can gain LP equal to half its ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23848752.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 700,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1800,
+  "rank": 1
+}

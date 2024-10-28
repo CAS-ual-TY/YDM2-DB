@@ -1,0 +1,21 @@
+{
+  "id": 91434602,
+  "name": "Majesty Hyperion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand or GY) by banishing 1 \"The Agent\" monster from your hand, field, or GY. You can only Special Summon \"Majesty Hyperion\" once per turn this way. Any battle damage you take from battles involving your Fairy monsters is also inflicted to your opponent. Once per turn: You can banish 1 Fairy monster from your hand or GY, then target 1 card in either GY; banish it. If \"The Sanctuary in the Sky\" is on the field or in either GY, you can use this effect up to twice per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/91434602.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2100,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2700,
+  "level": 8,
+  "is_tuner": false
+}

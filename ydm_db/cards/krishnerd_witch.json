@@ -1,0 +1,21 @@
+{
+  "id": 37006702,
+  "name": "Krishnerd Witch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by your opponent's card effects while \"Multi-Universe\" is on the field. You can only use each of the following effects of \"Krishnerd Witch\" once per turn. If a card(s) in the Field Zone leaves the field by card effect (except during the Damage Step): You can Special Summon this card from your hand. When a Field Spell that is already face-up on the field activates its effect (Quick Effect): You can shuffle 1 of your monsters that is banished or in your GY into the Deck, or if that monster mentions that Field Spell, you can Special Summon it instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37006702.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 78783557,
+  "name": "Veidos the Eruption Dragon of Extinction",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 card in a Field Zone; Special Summon this card to your opponent's field, and if you do, destroy that card, then you can add to your hand or Set 1 \"Ashened\" Continuous Trap from your Deck. If this card is sent from your opponent's field to your GY: You can destroy all monsters on the field. You can only use each effect of \"Veidos the Eruption Dragon of Extinction\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/78783557.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 9,
+  "is_tuner": false
+}

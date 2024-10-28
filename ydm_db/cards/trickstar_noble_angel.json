@@ -1,0 +1,23 @@
+{
+  "id": 37683441,
+  "name": "Trickstar Noble Angel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Trickstar\" monsters\nIf this card is Link Summoned: You can add 1 \"Blue Tears\" card from your Deck to your hand. If you have a Fusion Monster on your field or in your GY: You can target 1 \"Trickstar\" monster in your GY; Special Summon it. If effect damage is inflicted (except during the Damage Step): You can target 1 face-up card on the field; destroy it. You can only use each effect of \"Trickstar Noble Angel\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37683441.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

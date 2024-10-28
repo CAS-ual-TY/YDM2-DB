@@ -1,6 +1,6 @@
 {
   "id": 52286175,
-  "name": "Trap Reactor Y FI",
+  "name": "Trap Reactor\u30fbY FI",
   "is_illegal": false,
   "is_custom": false,
   "text": "Once per turn, when your opponent activates a Trap Card, you can destroy the Trap Card and inflict 800 damage to your opponent.",
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 800,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 4,
   "is_tuner": false

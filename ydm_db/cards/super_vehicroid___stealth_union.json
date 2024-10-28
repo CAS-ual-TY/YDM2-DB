@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 3600,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 3000,
   "level": 9,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 72305034,
+  "name": "Geminize Lord Golknight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.\n\u25cf If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your Deck to your hand that has \"Gemini monster\" in its text. You can only use this effect of \"Geminize Lord Golknight\" once per turn.\n\u25cf This card becomes a Machine monster, also it gains 500 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/72305034.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Warrior",
+  "ability": "Gemini",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

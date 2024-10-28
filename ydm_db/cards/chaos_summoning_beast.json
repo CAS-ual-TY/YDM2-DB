@@ -3,7 +3,7 @@
   "name": "Chaos Summoning Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card; Special Summon 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your hand, ignoring its Summoning conditions. You can banish this card from your GY; add 1 \"Fallen Paradise\" from your Deck to your hand. You can only use each effect of \"Chaos Summoning Beast\" once per turn.",
+  "text": "You can Tribute this card; Special Summon 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\", from your hand, ignoring its Summoning conditions. You can banish this card from your GY; add 1 \"Fallen Paradise\" from your Deck to your hand. You can only use each effect of \"Chaos Summoning Beast\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27439792.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 0,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": false

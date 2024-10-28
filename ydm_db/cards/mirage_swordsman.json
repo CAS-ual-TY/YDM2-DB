@@ -1,0 +1,21 @@
+{
+  "id": 73936388,
+  "name": "Mirage Swordsman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up FIRE Fusion Monster(s) you control is destroyed by battle or card effect: You can Special Summon this card from your GY (if it was there when the monster was destroyed) or hand (even if not). At the start of the Damage Step, if this card battles an opponent's monster: You can destroy both battling monsters. If this card is destroyed by battle or another card's effect: You can Special Summon 1 Level 7 or lower monster that is \"Flame Swordsman\" or mentions it, from your Deck or Extra Deck. You can only use each effect of \"Mirage Swordsman\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/73936388.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

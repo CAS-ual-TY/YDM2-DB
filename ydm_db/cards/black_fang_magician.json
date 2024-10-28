@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 1700,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK (until the end of this turn), then destroy this card.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
   "def": 800,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK (until the end of this turn), then destroy this card.\n",
-  "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "is_tuner": false
 }

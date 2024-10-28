@@ -1,0 +1,21 @@
+{
+  "id": 69272449,
+  "name": "Maliss P White Rabbit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You take no battle damage from battles involving \"Maliss\" Link Monsters that point to this card. You can only use each of the following effects of \"Maliss P White Rabbit\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Maliss\" Trap from your Deck with a different name from the cards in your GY. If this card is banished: You can pay 300 LP; Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69272449.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2700,
   "species": "Fairy",
-  "monster_type": "Ritual",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
   "def": 2400,
   "level": 8,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Neo-Spacian Twinkle Moss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card's name is also treated as \"Neo-Spacian Glow Moss\". This card cannot be Special Summoned except with \"NEX\". When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: ? Monster: End the Battle Phase. ? Spell: You can change this card's attack to a direct attack. ? Trap: This monster is changed to Defense Position.",
+  "text": "This card's name is also treated as \"Neo-Spacian Glow Moss\". This card cannot be Special Summoned except with \"NEX\". When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: \u25cf Monster: End the Battle Phase. \u25cf Spell: You can change this card's attack to a direct attack. \u25cf Trap: This monster is changed to Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13857930.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 500,
   "species": "Plant",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1100,
   "level": 4,
   "is_tuner": false

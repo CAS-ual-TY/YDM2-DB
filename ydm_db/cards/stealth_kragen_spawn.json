@@ -1,0 +1,20 @@
+{
+  "id": 94942656,
+  "name": "Stealth Kragen Spawn",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 WATER monsters\nOnce per turn, during the Main Phase (Quick Effect): You can destroy 1 WATER monster your opponent controls. If this card, Special Summoned by the effect of a \"Number\" Xyz Monster, is destroyed: You can Special Summon other \"Stealth Kragen\" monsters from your GY, up to the number of materials this card had, then you can attach up to 1 WATER monster from your GY to each of those Special Summoned monsters as material.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/94942656.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1900,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1500,
+  "rank": 4
+}

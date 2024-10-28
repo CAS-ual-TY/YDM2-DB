@@ -3,7 +3,7 @@
   "name": "Red-Eyes Darkness Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Red-Eyes B. Dragon\" and cannot be Special Summoned by other ways. This card gains 300 ATK for each Dragon-Type monster in your Graveyard.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Red-Eyes Black Dragon\". Gains 300 ATK for each Dragon monster in your GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96561011.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2400,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 9,
   "is_tuner": false

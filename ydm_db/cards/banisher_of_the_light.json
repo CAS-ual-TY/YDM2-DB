@@ -3,7 +3,7 @@
   "name": "Banisher of the Light",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Any card sent to the Graveyard is banished instead.",
+  "text": "Any card sent to the GY is banished instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61528025.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 100,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 3,
   "is_tuner": false

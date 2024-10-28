@@ -3,7 +3,7 @@
   "name": "Barrier Statue of the Heavens",
   "is_illegal": false,
   "is_custom": false,
-  "text": "No monsters can be Special Summoned, except for LIGHT monsters.",
+  "text": "Neither player can Special Summon monsters, except LIGHT monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46145256.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1000,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

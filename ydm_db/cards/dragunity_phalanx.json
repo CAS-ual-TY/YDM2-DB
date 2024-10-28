@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 500,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1100,
   "level": 2,
   "is_tuner": true

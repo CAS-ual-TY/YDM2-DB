@@ -3,7 +3,7 @@
   "name": "Spore",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in your Graveyard: You can banish 1 other Plant-Type monster from your Graveyard; Special Summon this card from your Graveyard and increase its Level by the Level of that banished monster. Each player can only activate the effect of \"Spore\" once per Duel.",
+  "text": "If this card is in your GY: You can banish 1 other Plant monster from your GY; Special Summon this card, and if you do, increase its Level by the Level of that banished monster. You can only use this effect of \"Spore\" once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11747708.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 400,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 1,
   "is_tuner": true

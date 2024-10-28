@@ -1,0 +1,21 @@
+{
+  "id": 18313046,
+  "name": "Ukiyoe-P.U.N.K. Rising Carp",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"P.U.N.K.\" monsters\nYou can Tribute this Fusion Summoned card; Special Summon up to 2 \"P.U.N.K.\" monsters with different names from each other from your hand and/or Deck, except Level 8 monsters, in Defense Position. If you Synchro Summoned using this card as material: You can target 1 \"P.U.N.K.\" monster you control; it can make a second attack during each Battle Phase this turn. You can only use each effect of \"Ukiyoe-P.U.N.K. Rising Carp\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/18313046.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

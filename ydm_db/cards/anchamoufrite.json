@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 1800,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you have no cards in your Extra Deck except \"Anchamoufrite\": You can destroy this card, then draw 1 card. You can only use this effect of \"Anchamoufrite\" once per turn.",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4,
   "def": 0,
   "level": 5,
-  "is_tuner": false,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "is_tuner": false
 }

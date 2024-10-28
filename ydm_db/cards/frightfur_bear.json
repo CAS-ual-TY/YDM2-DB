@@ -3,7 +3,7 @@
   "name": "Frightfur Bear",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Edge Imp Sabres\" + \"Fluffal Bear\"\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip that monster to this card as an Equip Spell Card with this effect.\n? The equipped monster gains 1000 ATK.",
+  "text": "\"Edge Imp Sabres\" + \"Fluffal Bear\"\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip that monster to this card as an Equip Spell Card with this effect.\n\u25cf The equipped monster gains 1000 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85545073.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2200,
   "species": "Fiend",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1800,
   "level": 6,
   "is_tuner": false

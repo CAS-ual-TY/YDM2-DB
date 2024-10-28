@@ -1,0 +1,24 @@
+{
+  "id": 58938528,
+  "name": "Performapal Ladyange",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card and 1 \"Performapal\" monster, except \"Performapal Ladyange\"; draw 2 cards. If this card is in your GY and you control an \"Odd-Eyes\" card or \"Performapal Gentrude\": You can place this card in your Pendulum Zone. You can only use 1 \"Performapal Ladyange\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/58938528.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, when an attack is declared involving your monster and an opponent's monster: You can discard 1 Pendulum Monster; that opponent's monster loses 1000 ATK, until the end of this turn.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

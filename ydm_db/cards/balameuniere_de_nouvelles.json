@@ -1,0 +1,21 @@
+{
+  "id": 52495649,
+  "name": "Balameuniere de Nouvelles",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can add 1 \"Nouvelles\" or \"Recipe\" card from your Deck to your hand. You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 Level 6 \"Nouvelles\" Ritual Monster from your hand or Deck. This is a Quick Effect if this card was Special Summoned by the effect of a \"Nouvelles\" monster. You can only use each effect of \"Balameuniere de Nouvelles\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/52495649.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 1850,
+  "level": 5,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Appliancer Celtopus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"Appliancer\" monsters\nYour opponent's monsters cannot target this linked card for attacks, also your opponent cannot target this linked card with card effects. During damage calculation, if your \"Appliancer\" Link Monster co-linked to this card battles an opponent's monster (Quick Effect): Your battling monster gains 1000 ATK for each monster co-linked to this card, during that damage calculation only. Once per turn, if an \"Appliancer\" Link Monster(s) you control that is not co-linked to this card is destroyed by battle or card effect: You can draw 1 card.",
+  "text": "2 \"Appliancer\" monsters\nThis linked card cannot be targeted by your opponent's card effects, or their monsters' attacks. During damage calculation, if an \"Appliancer\" Link Monster you control co-linked to this card battles an opponent's monster: Your battling monster gains ATK equal to the number of monsters co-linked to this card x 1000, during that damage calculation only. Once per turn, if an \"Appliancer\" Link Monster(s) you control that is not co-linked to this card is destroyed by battle or card effect: You can draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78225596.jpg"
   ],
@@ -11,13 +11,13 @@
   "attribute": "DARK",
   "atk": 0,
   "species": "Machine",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 2,
   "link_arrows": [
-    "Bottom-Left",
-    "Bottom"
+    "Bottom",
+    "Bottom-Left"
   ]
 }

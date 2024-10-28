@@ -1,0 +1,20 @@
+{
+  "id": 74615388,
+  "name": "Laevatein, Generaider Boss of Shadows",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 9 monsters\nYou can only control 1 \"Laevatein, Generaider Boss of Shadows\". Monsters your opponent controls lose 1000 ATK/DEF. (Quick Effect): You can Tribute this Xyz Summoned card; Special Summon 1 non-Fairy \"Generaider\" Xyz Monster from your Extra Deck, then you can attach cards from any field and/or GYs to that Special Summoned monster as material, up to the number of materials this card had.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/74615388.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2500,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2500,
+  "rank": 9
+}

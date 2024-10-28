@@ -1,0 +1,21 @@
+{
+  "id": 81914447,
+  "name": "Noh-P.U.N.K. Ogre Dance",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, when your opponent activates a monster effect (Quick Effect): You can make this card gain ATK equal to that opponent's monster's original ATK until the end of this turn. You can only use each of the following effects of \"Noh-P.U.N.K. Ogre Dance\" once per turn. You can Tribute 1 \"P.U.N.K.\" monster; Special Summon this card from your hand. You can send this card from your hand or field to the GY; add 1 \"P.U.N.K.\" monster from your Deck to your hand, except a Level 8 monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81914447.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

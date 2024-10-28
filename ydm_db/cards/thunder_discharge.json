@@ -1,0 +1,12 @@
+{
+  "id": 27623932,
+  "name": "Thunder Discharge",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control an \"Adventurer Token\": You can target 1 monster you control equipped with an Equip Card that mentions \"Adventurer Token\"; destroy as many monsters your opponent controls as possible with ATK less than or equal to that monster, then you can equip 1 Equip Spell that mentions \"Adventurer Token\" from your hand or GY to 1 monster you control. You can only activate 1 \"Thunder Discharge\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/27623932.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

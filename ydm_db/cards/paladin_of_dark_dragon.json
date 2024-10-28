@@ -3,7 +3,7 @@
   "name": "Paladin of Dark Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with \"Dark Dragon Ritual\". At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster. You can Tribute this card; Special Summon 1 \"Red-Eyes\" monster from your hand or Deck, except \"Red-Eyes B. Chick\". You can only use this effect of \"Paladin of Dark Dragon\" once per turn.",
+  "text": "You can Ritual Summon this card with \"Dark Dragon Ritual\". At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster. You can Tribute this card; Special Summon 1 \"Red-Eyes\" monster from your hand or Deck. You can only use this effect of \"Paladin of Dark Dragon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71408082.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1900,
   "species": "Dragon",
-  "monster_type": "Ritual",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
   "def": 1200,
   "level": 4,
   "is_tuner": false

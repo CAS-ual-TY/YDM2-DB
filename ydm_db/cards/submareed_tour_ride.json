@@ -1,0 +1,21 @@
+{
+  "id": 87116749,
+  "name": "Submareed Tour Ride",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The first Normal Monster you control that would be destroyed by battle or card effect each turn, is not destroyed. If you control a Normal Monster: You can Special Summon this card from your hand. You can only use this effect of \"Submareed Tour Ride\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/87116749.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2200,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

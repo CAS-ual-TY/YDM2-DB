@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 \"D/D\" monster you control; it gains 800 ATK until the end of this turn (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4,
   "def": 1000,
   "level": 8,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can target 1 \"D/D\" monster you control; it gains 800 ATK until the end of this turn (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "is_tuner": false
 }

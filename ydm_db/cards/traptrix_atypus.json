@@ -1,0 +1,24 @@
+{
+  "id": 48183890,
+  "name": "Traptrix Atypus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters, including an Insect or Plant monster\nThis Link Summoned card is unaffected by Trap effects. All \"Traptrix\" monsters you control gain 1000 ATK while you have a Normal Trap in your GY. Once per turn: You can target face-up cards your opponent controls, up to the number of Insect and Plant monsters you control; negate their effects (until the end of this turn), then you can apply this effect.\n \u25cf Banish 1 Normal Trap from your GY, and if you do, destroy 1 of those targeted face-up cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/48183890.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Right",
+    "Bottom",
+    "Left"
+  ]
+}

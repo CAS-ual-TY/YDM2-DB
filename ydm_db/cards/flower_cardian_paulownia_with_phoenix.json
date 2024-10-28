@@ -3,7 +3,7 @@
   "name": "Flower Cardian Paulownia with Phoenix",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 12 \"Flower Cardian\" monster, except \"Flower Cardian Paulownia with Phoenix\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the Graveyard. Once per turn, when this card inflicts battle damage to your opponent: You can draw 1 card.",
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 12 \"Flower Cardian\" monster, except \"Flower Cardian Paulownia with Phoenix\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the GY. Once per turn, when this card inflicts battle damage to your opponent: You can draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16802689.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2000,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 12,
   "is_tuner": false

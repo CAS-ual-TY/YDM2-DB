@@ -1,0 +1,21 @@
+{
+  "id": 92110878,
+  "name": "Gadget Trio",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Shining Sarcophagus\" or 1 Spell/Trap that mentions it from your Deck to your hand. If this card is destroyed by battle or card effect: You can Set 1 \"Stronghold the Hidden Fortress\" from your Deck. You can only use each effect of \"Gadget Trio\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/92110878.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12148078,
+  "name": "Speedroid Wheel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Discard 1 card; roll a six-sided die, then Special Summon, from your hand and/or Deck, 1 or 2 \"Speedroid\" monsters whose total Levels equal the result, but negate their effects. If you do not Special Summon, you lose LP equal to the result x 500. You can only activate 1 \"Speedroid Wheel\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/12148078.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

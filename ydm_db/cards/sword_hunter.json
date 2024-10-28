@@ -3,7 +3,7 @@
   "name": "Sword Hunter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Battle Phase, if this card destroyed a monster(s) by battle and sent it to the Graveyard this Battle Phase: Equip all those monsters from the Graveyard to this card as an Equip Spell Card(s) with this effect.\n? The equipped monster gains 200 ATK.",
+  "text": "At the end of the Battle Phase, if this card destroyed a monster(s) by battle and sent it to the Graveyard this Battle Phase: Equip all those monsters from the Graveyard to this card as an Equip Spell Card(s) with this effect.\n\u25cf The equipped monster gains 200 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51345461.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2450,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1700,
   "level": 7,
   "is_tuner": false

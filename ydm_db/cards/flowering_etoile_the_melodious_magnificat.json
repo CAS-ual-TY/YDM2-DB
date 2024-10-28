@@ -1,0 +1,21 @@
+{
+  "id": 83793721,
+  "name": "Flowering Etoile the Melodious Magnificat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Melodious Maestra\" monster + 2 \"Melodious\" monsters\n(Quick Effect): You can banish (until the End Phase) any number of \"Melodious\" monsters you control, then you can return up to that many face-up cards your opponent controls to the hand. You can only use this effect of \"Flowering Etoile the Melodious Magnificat\" once per turn. If this face-up Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 \"Melodious\" monster from your Deck or Extra Deck, except \"Flowering Etoile the Melodious Magnificat\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/83793721.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2800,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

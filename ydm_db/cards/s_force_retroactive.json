@@ -1,0 +1,21 @@
+{
+  "id": 53782828,
+  "name": "S-Force Retroactive",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a monster you control would be used as Link Material for an \"S-Force\" monster, this card in your hand can also be used as material. During the Main Phase (Quick Effect): You can return this card to the hand, and if you do, Special Summon 1 Level 2 or higher \"S-Force\" monster from your hand. If an \"S-Force\" monster you control would banish a card(s) from your hand to activate its effect, you can banish this card from your GY instead. You can only use each effect of \"S-Force Retroactive\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53782828.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

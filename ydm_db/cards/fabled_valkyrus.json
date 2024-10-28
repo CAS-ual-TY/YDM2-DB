@@ -3,7 +3,7 @@
   "name": "Fabled Valkyrus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nOnce per turn, you can discard 1 Fiend-Type monster to draw 1 card.",
+  "text": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\nOnce per turn: You can discard 1 Fiend monster; draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54048462.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2900,
   "species": "Fiend",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1700,
   "level": 8,
   "is_tuner": false

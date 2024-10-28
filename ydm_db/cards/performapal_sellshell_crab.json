@@ -11,14 +11,14 @@
   "attribute": "WATER",
   "atk": 500,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, when a \"Performapal\" monster you control is destroyed by battle: You can target 1 \"Performapal\" or \"Odd-Eyes\" card in your Pendulum Zone; Special Summon it.",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 2500,
   "level": 5,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, when a \"Performapal\" monster you control is destroyed by battle: You can target 1 \"Performapal\" or \"Odd-Eyes\" card in your Pendulum Zone; Special Summon it.\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

@@ -3,7 +3,7 @@
   "name": "Resonance Insect",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent from the field to the Graveyard: You can add 1 Level 5 or higher Insect-Type monster from your Deck to your hand. If this card is banished: You can send 1 Insect-Type monster from your Deck to the Graveyard, except \"Resonance Insect\".",
+  "text": "If this card is sent from the field to the GY: You can add 1 Level 5 or higher Insect monster from your Deck to your hand. If this card is banished: You can send 1 Insect monster from your Deck to the GY, except \"Resonance Insect\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96938986.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 4,
   "is_tuner": false

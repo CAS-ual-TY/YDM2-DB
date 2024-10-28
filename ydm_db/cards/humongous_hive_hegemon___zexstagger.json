@@ -1,0 +1,21 @@
+{
+  "id": 9627468,
+  "name": "Humongous Hive Hegemon - Zexstagger",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gains 300 ATK for each Insect monster on the field, except this card. You can only use each of the following effects of \"Humongous Hive Hegemon - Zexstagger\" once per turn. If an Insect monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. During the End Phase: Activate this effect; each player can Special Summon 1 Insect monster from their hand or GY, but negate its effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9627468.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

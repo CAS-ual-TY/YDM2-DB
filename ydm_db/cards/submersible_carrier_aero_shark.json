@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1900,
   "species": "Fish",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1000,
   "rank": 3
 }

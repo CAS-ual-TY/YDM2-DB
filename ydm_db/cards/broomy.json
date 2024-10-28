@@ -1,0 +1,21 @@
+{
+  "id": 57985393,
+  "name": "Broomy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be used as Synchro Material, except for the Synchro Summon of a Level 8 or lower monster. You can reveal this card and 1 monster in your hand; Special Summon 1 of the 2, and if you do, banish the other, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Synchro Monsters, and can only declare an attack with Synchro Monsters. You can only use this effect of \"Broomy\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/57985393.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 700,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 2,
+  "is_tuner": true
+}

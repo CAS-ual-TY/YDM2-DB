@@ -1,0 +1,21 @@
+{
+  "id": 78161361,
+  "name": "Bravedrive",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, when your Cyberse monster declares an attack: You can discard 1 monster; that attacking monster gains 600 ATK, until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/78161361.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

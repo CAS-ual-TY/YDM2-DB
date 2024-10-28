@@ -1,0 +1,21 @@
+{
+  "id": 96676583,
+  "name": "Maliss P Cheshire Cat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Any monster destroyed by battle with a \"Maliss\" Link Monster that points to this card is banished. You can only use each of the following effects of \"Maliss P Cheshire Cat\" once per turn. During your Main Phase: You can banish 1 \"Maliss\" card from your hand, then you can draw 2 cards. If this card is banished: You can pay 300 LP; Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/96676583.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

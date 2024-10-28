@@ -3,7 +3,7 @@
   "name": "Infinitrack Earth Slicer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 9 monsters\nWhen this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of \"Infinitrack Earth Slicer\" once per turn.\n? You can detach any number of materials from this card, then target that many cards on the field; destroy them.\n? If this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.",
+  "text": "2 Level 9 monsters\nWhen this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of \"Infinitrack Earth Slicer\" once per turn.\n\u25cf You can detach any number of materials from this card, then target that many cards on the field; destroy them.\n\u25cf If this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97584719.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 3100,
   "species": "Machine",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2100,
   "rank": 9
 }

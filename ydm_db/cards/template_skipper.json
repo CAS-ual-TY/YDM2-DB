@@ -1,0 +1,21 @@
+{
+  "id": 24521325,
+  "name": "Template Skipper",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) to your zone a Cyberse Link Monster points to. You can only Special Summon \"Template Skipper\" once per turn this way. During your Main Phase: You can banish 1 Cyberse monster from your hand or GY, and if you do, this card can be treated as Link Material with the same name as the banished monster if used for a Link Summon this turn. You can only use this effect of \"Template Skipper\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/24521325.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

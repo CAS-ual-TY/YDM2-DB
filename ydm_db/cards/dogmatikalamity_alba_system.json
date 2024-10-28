@@ -1,0 +1,21 @@
+{
+  "id": 93053159,
+  "name": "Dogmatikalamity Alba System",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Fallen of Albaz\" + 6 monsters in your GY with different names\nMust first be Fusion Summoned. Can attack all monsters your opponent controls, once each. Cannot declare an attack unless you send 1 card from your Extra Deck to the GY. Once per turn, if you control this Fusion Summoned monster and have 6 or more Fusion Monsters in your GY with different names that mention \"Fallen of Albaz\" as material: You can send all cards in both players' Extra Decks to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/93053159.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

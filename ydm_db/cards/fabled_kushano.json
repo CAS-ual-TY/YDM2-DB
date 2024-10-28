@@ -3,7 +3,7 @@
   "name": "Fabled Kushano",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 \"Fabled\" monster to the Graveyard, except \"Fabled Kushano\", to add this card from your Graveyard to your hand.",
+  "text": "If this card is in your GY: You can discard 1 \"Fabled\" monster to the GY, except \"Fabled Kushano\"; add this card to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97439806.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1100,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 3,
   "is_tuner": true

@@ -1,0 +1,20 @@
+{
+  "id": 33113958,
+  "name": "LeVirtue Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 3 monsters\nIf this card is Special Summoned: You can add 1 \"Virtue Stream\" from your Deck to your hand. You can activate 1 of these effects;\n\u25cf Detach 1 material from a monster you control, then add 1 Fish, Sea Serpent, or Aqua monster from your GY to your hand, except \"LeVirtue Dragon\".\n\u25cf Target 2 Xyz Monsters on the field; attach 1 material from 1 of those monsters to the other.\nYou can only use each effect of \"LeVirtue Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33113958.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 0,
+  "rank": 3
+}

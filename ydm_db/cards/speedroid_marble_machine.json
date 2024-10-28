@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 200,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, when your Defense Position monster is targeted for an attack: You can change it to face-up Attack Position, also it cannot be destroyed by battle this turn (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 100,
   "level": 2,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, when your Defense Position monster is targeted for an attack: You can change it to face-up Attack Position, also it cannot be destroyed by battle this turn (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

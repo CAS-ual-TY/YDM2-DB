@@ -1,0 +1,21 @@
+{
+  "id": 79210531,
+  "name": "Tellarknight Lyran",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Constellar\" card.)\nIf a \"tellarknight\" or \"Constellar\" monster is Normal Summoned to your field, except \"Tellarknight Lyran\" (except during the Damage Step): You can Special Summon this card from your hand. If this card is Summoned: You can add 1 \"tellarknight\" Spell from your Deck to your hand. You can only use each effect of \"Tellarknight Lyran\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/79210531.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

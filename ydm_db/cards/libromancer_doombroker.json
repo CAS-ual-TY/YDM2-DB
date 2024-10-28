@@ -1,0 +1,21 @@
+{
+  "id": 71406430,
+  "name": "Libromancer Doombroker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with a \"Libromancer\" card. If this card is Ritual Summoned by using a monster(s) on the field, it can attack directly. You can only use each of the following effects of \"Libromancer Doombroker\" once per turn. During your Main Phase: You can Set 1 \"Libromancer\" Trap directly from your Deck. When this card inflicts battle damage to your opponent: You can target 1 face-up monster your opponent controls; shuffle it into the Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71406430.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

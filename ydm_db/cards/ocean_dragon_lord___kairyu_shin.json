@@ -1,0 +1,21 @@
+{
+  "id": 23931679,
+  "name": "Ocean Dragon Lord - Kairyu-Shin",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While \"Umi\" is on the field, each player can only control 1 face-up non-WATER monster. (If a player controls 2 or more, they must send some to the GY so they only control 1.) During your Main Phase: You can add from your Deck to your hand 1 \"Umi\", 1 \"Kairyu-Shin\" Spell/Trap, or 1 \"Sea Stealth\" Spell/Trap. You can only use this effect of \"Ocean Dragon Lord - Kairyu-Shin\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23931679.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1700,
+  "level": 5,
+  "is_tuner": false
+}

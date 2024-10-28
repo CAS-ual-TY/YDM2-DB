@@ -3,7 +3,7 @@
   "name": "Sky Scourge Invicil",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Special Summoned. If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect:\n? LIGHT Fairy-Type monster: Negate the effects of all Spell Cards.\n? DARK Fiend-Type monster: Negate the effects of all Trap Cards.",
+  "text": "This card cannot be Special Summoned. If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect:\n\u25cf LIGHT Fairy-Type monster: Negate the effects of all Spell Cards.\n\u25cf DARK Fiend-Type monster: Negate the effects of all Trap Cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74841885.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2200,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 6,
   "is_tuner": false

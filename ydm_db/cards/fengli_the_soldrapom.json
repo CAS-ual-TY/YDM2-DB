@@ -1,0 +1,21 @@
+{
+  "id": 35311929,
+  "name": "Fengli the Soldrapom",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent from the Deck to your GY by a monster effect: You can Special Summon this card, then, if you control another Plant monster, you can halve the ATK/DEF of 1 monster on the field. You can only use this effect of \"Fengli the Soldrapom\" once per turn. Once per turn, if this card on the field would be destroyed by battle or card effect, you can send 1 Plant monster from your Deck to the GY instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/35311929.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
+}

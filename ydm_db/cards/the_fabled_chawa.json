@@ -3,7 +3,7 @@
   "name": "The Fabled Chawa",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Main Phase, you can discard 1 \"Fabled\" monster and Special Summon this card from your hand.",
+  "text": "During your Main Phase: You can activate this effect; discard 1 \"Fabled\" monster, and if you do, Special Summon this card from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29905795.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 200,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": true

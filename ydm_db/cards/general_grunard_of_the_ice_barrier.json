@@ -3,7 +3,7 @@
   "name": "General Grunard of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Main Phase, you can Normal Summon 1 \"Ice Barrier\" monster in addition to your Normal Summon or Set. This effect can only be used once per turn.",
+  "text": "During your Main Phase, you can Normal Summon 1 \"Ice Barrier\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9056100.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 2800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 8,
   "is_tuner": false

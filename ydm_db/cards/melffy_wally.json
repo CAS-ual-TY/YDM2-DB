@@ -1,0 +1,21 @@
+{
+  "id": 98416533,
+  "name": "Melffy Wally",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or if an opponent's monster targets this card for an attack: You can return this card to the hand, then you can Special Summon 2 \"Melffy\" monsters from your Deck with different names from each other, except \"Melffy Wally\". During your End Phase: You can Special Summon this card from your hand. You can only use each effect of \"Melffy Wally\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98416533.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

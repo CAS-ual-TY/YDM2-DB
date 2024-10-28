@@ -1,0 +1,21 @@
+{
+  "id": 34536276,
+  "name": "Ganigumo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A crab that binds its enemies with a sticky web and attacks them with its sharp claws.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/34536276.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

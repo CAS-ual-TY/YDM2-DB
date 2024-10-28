@@ -1,0 +1,21 @@
+{
+  "id": 91300233,
+  "name": "Beetrooper Cruel Saturnas",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Beetrooper\" monster + 1 Insect monster\nYou cannot Special Summon monsters, except Insect monsters. You can only use each of the following effects of \"Beetrooper Cruel Saturnas\" once per turn. If this card is Special Summoned: You can add 1 \"Beetrooper\" card from your Deck to your hand. If an Insect monster(s) is banished face-up (except during the Damage Step): You can target 1 of your banished \"Beetrooper\" monsters; Special Summon it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/91300233.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

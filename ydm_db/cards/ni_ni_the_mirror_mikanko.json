@@ -1,0 +1,21 @@
+{
+  "id": 54862960,
+  "name": "Ni-Ni the Mirror Mikanko",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's turn, while this card is equipped with an Equip Card (Quick Effect): You can target 1 face-up monster your opponent controls; take control of it until the End Phase. You can only use this effect of \"Ni-Ni the Mirror Mikanko\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/54862960.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

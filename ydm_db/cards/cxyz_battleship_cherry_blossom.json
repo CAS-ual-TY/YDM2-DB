@@ -3,7 +3,7 @@
   "name": "CXyz Battleship Cherry Blossom",
   "is_illegal": false,
   "is_custom": false,
-  "text": "4 Level 4 monsters\nOnce per turn, during your opponent's End Phase, if your opponent has more cards in their hand than you do: They discard 1 card. If this card has \"Battlecruiser Dianthus\" as an Xyz Material, it gains this effect.\n? You can detach 1 Xyz Material from this card; inflict 300 damage to your opponent for each card on the field. You can only use this effect of \"CXyz Battleship Cherry Blossom\" once per turn.",
+  "text": "4 Level 4 monsters\nOnce per turn, during your opponent's End Phase, if your opponent has more cards in their hand than you do: They discard 1 card. If this card has \"Battlecruiser Dianthus\" as an Xyz Material, it gains this effect.\n\u25cf You can detach 1 Xyz Material from this card; inflict 300 damage to your opponent for each card on the field. You can only use this effect of \"CXyz Battleship Cherry Blossom\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76419637.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2400,
   "species": "Plant",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2000,
   "rank": 4
 }

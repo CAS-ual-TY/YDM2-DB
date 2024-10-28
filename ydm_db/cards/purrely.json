@@ -1,0 +1,21 @@
+{
+  "id": 25550531,
+  "name": "Purrely",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"Purrely\" Spell/Trap to your hand, also place the rest on the bottom of your Deck in any order. Once per turn, during your Main Phase: You can reveal 1 \"Purrely\" Quick-Play Spell in your hand, Special Summon 1 Xyz Monster from your Extra Deck that mentions that card, by using this card you control as material, and attach the revealed card to the Summoned monster. (This is treated as an Xyz Summon.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/25550531.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 100,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

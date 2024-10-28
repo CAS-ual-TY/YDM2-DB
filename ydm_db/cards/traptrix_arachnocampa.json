@@ -1,0 +1,21 @@
+{
+  "id": 75416738,
+  "name": "Traptrix Arachnocampa",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Unaffected by the effects of \"Hole\" Normal Traps. The first time each Set card in your Spell & Trap Zone would be destroyed by card effect each turn, it is not destroyed. During the Main Phase, if you control a \"Traptrix\" monster (Quick Effect): You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect or Plant monsters. You can only use this effect of \"Traptrix Arachnocampa\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75416738.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

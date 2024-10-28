@@ -1,0 +1,21 @@
+{
+  "id": 3149401,
+  "name": "Ultimate Dragon of Pride and Soul",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 monsters with 2500 original ATK/DEF\nWhile you control this Fusion Summoned card, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. While you have 25 or more cards in your GY, this Fusion Summoned card gains 4500 ATK/DEF. Once per turn, if your opponent has 25 or more cards in their GY: You can destroy all cards your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3149401.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 4500,
+  "level": 12,
+  "is_tuner": false
+}

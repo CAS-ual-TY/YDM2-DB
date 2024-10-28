@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 2000,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can reveal 1 Pendulum Monster in your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 2500,
   "level": 7,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can reveal 1 Pendulum Monster from your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

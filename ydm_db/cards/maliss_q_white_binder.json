@@ -1,0 +1,24 @@
+{
+  "id": 95454996,
+  "name": "Maliss Q WHITE BINDER",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters, including a \"Maliss\" monster\nIf this card is Special Summoned: You can target up to 3 cards in any GY(s); banish them. During your Main Phase: You can Set 1 \"Maliss\" Trap from your Deck or GY. If this card is banished: You can pay 900 LP; Special Summon this card, then you can draw 1 card. You can only use each effect of \"Maliss Q WHITE BINDER\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/95454996.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Top",
+    "Right",
+    "Left"
+  ]
+}

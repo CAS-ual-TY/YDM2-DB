@@ -1,0 +1,21 @@
+{
+  "id": 24892828,
+  "name": "Returned of the Tistina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can target 1 \"Tistina\" monster you control, except \"Returned of the Tistina\"; Special Summon this card, and if you do, its Level becomes that targeted monster's Level. If this card is in your GY: You can target 1 Aqua Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Returned of the Tistina\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/24892828.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

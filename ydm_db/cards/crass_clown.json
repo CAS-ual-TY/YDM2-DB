@@ -3,7 +3,7 @@
   "name": "Crass Clown",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is changed from Defense Position to Attack Position, return 1 monster on your opponent's side of the field to the owner's hand.",
+  "text": "If this Defense Position card is changed to Attack Position: Target 1 monster your opponent controls; return that target to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93889755.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1350,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

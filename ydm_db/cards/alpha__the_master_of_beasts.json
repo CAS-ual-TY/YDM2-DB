@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 3000,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2500,
   "level": 8,
   "is_tuner": false

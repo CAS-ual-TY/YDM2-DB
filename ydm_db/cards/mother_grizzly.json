@@ -3,7 +3,7 @@
   "name": "Mother Grizzly",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+  "text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in Attack Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57839750.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1400,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

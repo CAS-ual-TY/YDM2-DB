@@ -10,15 +10,15 @@
   "type": "Monster",
   "attribute": "WATER",
   "atk": 200,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": true,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": false,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
   "def": 2100,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.\n",
-  "pendulum_scale_left_blue": 7,
-  "pendulum_scale_right_red": 7
+  "is_tuner": false
 }

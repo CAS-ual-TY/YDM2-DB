@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "At the start of the Damage Step, if a monster you control battles an opponent's face-up monster: You can discard 1 card; the opponent's battling monster's ATK and DEF become half its current ATK and DEF (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 1500,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "At the start of the Damage Step, if a monster you control battles an opponent's face-up monster: You can discard 1 card; the opponent's battling monster's ATK and DEF become half its current ATK and DEF (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

@@ -3,7 +3,7 @@
   "name": "Performance of Sword",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Commencement Dance\". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",
+  "text": "You can Ritual Summon this card with \"Commencement Dance\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/4849037.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1950,
   "species": "Warrior",
-  "monster_type": "Ritual",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
   "def": 1850,
   "level": 6,
   "is_tuner": false

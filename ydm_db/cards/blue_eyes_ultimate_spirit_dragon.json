@@ -1,0 +1,21 @@
+{
+  "id": 89604813,
+  "name": "Blue-Eyes Ultimate Spirit Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Tuners + 1 non-Tuner \"Blue-Eyes\" monster\nYour opponent cannot banish cards from your GY. You can only use each of the following effects of \"Blue-Eyes Ultimate Spirit Dragon\" once per turn. When a card or effect is activated on the field (Quick Effect): You can negate the activation, and if you do, this card gains 1000 ATK until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 LIGHT Dragon monster from your GY, except \"Blue-Eyes Ultimate Spirit Dragon\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/89604813.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
+}

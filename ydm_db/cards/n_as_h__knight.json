@@ -1,0 +1,20 @@
+{
+  "id": 34876719,
+  "name": "N.As.H. Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 5 monsters\nCannot be destroyed by battle while a \"Number\" monster is on the field. During the Main Phase (Quick Effect): You can detach 2 materials from this card; attach 1 \"Number\" Xyz Monster from your Extra Deck to this card as material that has a number between \"101\" and \"107\" in its name, then you can attach 1 other face-up monster on the field to this card as material. You can only use this effect of \"N.As.H. Knight\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/34876719.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1700,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2700,
+  "rank": 5
+}

@@ -1,0 +1,21 @@
+{
+  "id": 60589682,
+  "name": "Twin Long Rods #1",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "With whip-like arms, this creature can attack enemies from a distance.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60589682.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 900,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

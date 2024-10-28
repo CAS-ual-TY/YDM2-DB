@@ -3,7 +3,7 @@
   "name": "Miscellaneousaurus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player's Main Phase: You can send this card from your hand to the Graveyard; during this Main Phase, Dinosaur-Type monsters you control are unaffected by your opponent's activated effects. You can banish any number of Dinosaur-Type monsters from your Graveyard, including this card; Special Summon 1 Dinosaur-Type monster from your Deck with a Level equal to the total number of monsters banished to activate this effect, but destroy it during the End Phase. You can only use this effect of \"Miscellaneousaurus\" once per turn.",
+  "text": "During the Main Phase (Quick Effect): You can send this card from your hand to the GY; during this Main Phase, Dinosaur monsters you control are unaffected by your opponent's activated effects. You can banish any number of Dinosaur monsters from your GY, including this card; Special Summon 1 Dinosaur monster from your Deck with a Level equal to the total number of monsters banished to activate this effect, but destroy it during the End Phase. You can only use this effect of \"Miscellaneousaurus\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38572779.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 1800,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

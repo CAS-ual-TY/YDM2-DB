@@ -3,7 +3,7 @@
   "name": "Blackwing Full Armor Master",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Blackwing\" Tuner + 1+ non-Tuner monsters\nUnaffected by other cards' effects. Each time a monster your opponent controls activates its effect, place 1 Wedge Counter on that opponent's monster (max. 1) after that effect resolves. Once per turn: You can target 1 monster your opponent controls with a Wedge Counter; take control of it. Once per turn, during your End Phase: You can destroy all monsters on the field that have a Wedge Counter.",
+  "text": "1 \"Blackwing\" Tuner + 1+ non-Tuner monsters\nUnaffected by other cards' effects. Each time an opponent's monster activates its effect, place 1 Wedge Counter on that opponent's monster (max. 1) after that effect resolves. Once per turn: You can target 1 monster your opponent controls with a Wedge Counter; take control of it. Once per turn, during your End Phase: You can destroy all monsters on the field that have a Wedge Counter.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54082269.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Winged Beast",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 3000,
   "level": 10,
   "is_tuner": false

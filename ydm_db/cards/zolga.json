@@ -3,7 +3,7 @@
   "name": "Zolga",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a monster is Tribute Summoned by Tributing this card: The owner of this card gains 2000 Life Points.",
+  "text": "If a monster is Tribute Summoned by Tributing this card: Gain 2000 LP.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16268841.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1700,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Mist Valley Shaman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can return 1 other monster you control to the hand, to have this card gain 500 ATK until the End Phase.",
+  "text": "Once per turn: You can return 1 other monster you control to the hand; this card gains 500 ATK until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95443805.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1200,
   "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 3,
   "is_tuner": true

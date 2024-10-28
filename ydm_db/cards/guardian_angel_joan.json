@@ -3,7 +3,7 @@
   "name": "Guardian Angel Joan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the original ATK of that destroyed monster in the Graveyard.",
+  "text": "When this card destroys a monster by battle and sends it to the GY: Gain LP equal to that monster's original ATK in the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68007326.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2800,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 7,
   "is_tuner": false

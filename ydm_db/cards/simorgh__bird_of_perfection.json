@@ -1,0 +1,21 @@
+{
+  "id": 52843699,
+  "name": "Simorgh, Bird of Perfection",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of \"Simorgh, Bird of Perfection\" once per turn. During your Main Phase, if you Normal or Special Summon a Winged Beast monster(s): You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Simorgh\" monster. If this card is Normal Summoned: You can send 1 \"Simorgh\" monster from your Deck to the GY; add 1 \"Simorgh\" Spell/Trap from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/52843699.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

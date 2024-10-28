@@ -1,0 +1,21 @@
+{
+  "id": 90835938,
+  "name": "Starry Night, Starry Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned from the hand: You can target 1 card on the field; destroy it. Cannot be destroyed by battle with a DARK monster, or by a DARK monster's effects. Once per turn, at the start of the Damage Step, if this card attacks an opponent's monster: You can banish that opponent's monster until the End Phase, also this card can make a second attack in a row.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/90835938.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
+}

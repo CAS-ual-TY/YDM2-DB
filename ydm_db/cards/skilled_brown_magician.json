@@ -1,0 +1,21 @@
+{
+  "id": 88232397,
+  "name": "Skilled Brown Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 1 Spell Counter from this card, then activate 1 of these effects;\n\u25cf This card gains 1500 ATK, and its Level is increased by 1.\n\u25cf Add 1 \"Kuriboh\" monster or 1 \"Multiply\" from your Deck or GY to your hand.\nYou can only use this effect of \"Skilled Brown Magician\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/88232397.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

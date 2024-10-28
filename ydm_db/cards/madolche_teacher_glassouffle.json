@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1800,
   "species": "Fairy",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2500,
   "rank": 4
 }

@@ -3,7 +3,7 @@
   "name": "Number 71: Rebarian Shark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 monsters\nOnce per turn, if this card has material: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 71: Rebarian Shark\"; Special Summon it, and if you do, attach 1 material from this card to it. If this card is sent to the GY: You can choose 1 \"Rank-Up-Magic\" Spell from your Deck and place it on top of your Deck.",
+  "text": "2 Level 3 monsters\nOnce per turn, if this card has material: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 71: Rebarian Shark\"; Special Summon it, and if you do, attach 1 material from this card to it. If this card is sent to the GY: You can place 1 \"Rank-Up-Magic\" Spell from your Deck on top of your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59479050.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 0,
   "species": "Dragon",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2000,
   "rank": 3
 }

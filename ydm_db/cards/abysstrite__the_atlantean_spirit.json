@@ -1,0 +1,20 @@
+{
+  "id": 9453320,
+  "name": "Abysstrite, the Atlantean Spirit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 7 WATER monsters\nWATER monsters you control gain 300 ATK/DEF for each material attached to this card. You can only use each of the following effects of \"Abysstrite, the Atlantean Spirit\" once per turn. If this card is Xyz Summoned: You can target 1 Level 7 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it. You can detach 1 material from this card; Set 1 \"Abyss-\" Trap from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9453320.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2100,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2800,
+  "rank": 7
+}

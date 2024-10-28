@@ -1,0 +1,21 @@
+{
+  "id": 3806388,
+  "name": "Core of Chaos",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. If this face-up card would leave the field, banish it instead. You can only use each of the following effects of \"Core of Chaos\" once per turn. You can banish 1 DARK monster from your hand or GY; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except LIGHT or DARK Synchro Monsters. If this card is Special Summoned: You can target 1 of your banished \"Shell of Chaos\"; Special Summon it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3806388.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 2,
+  "is_tuner": true
+}

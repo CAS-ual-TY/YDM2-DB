@@ -1,0 +1,21 @@
+{
+  "id": 20455229,
+  "name": "Firewall Defenser",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent to the GY as material for the Link Summon of a Cyberse monster: You can Special Summon 1 \"Firewall\" monster from your Deck, except \"Firewall Defenser\". You cannot Special Summon monsters the turn you activate this effect, except Cyberse monsters. If a \"Firewall\" monster(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use each effect of \"Firewall Defenser\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/20455229.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 35844557,
+  "name": "Thode Ryzeal",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have a \"Ryzeal\" monster on your field or in your GY, you can Special Summon this card (from your hand). If you do, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Thode Ryzeal\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 LIGHT Pyro monster from your Deck to your hand. You can only use this effect of \"Thode Ryzeal\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/35844557.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

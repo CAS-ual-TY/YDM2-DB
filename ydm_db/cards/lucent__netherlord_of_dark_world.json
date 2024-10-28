@@ -3,7 +3,7 @@
   "name": "Lucent, Netherlord of Dark World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, you can Special Summon 1 Fiend-Type monster from your Deck to either side of the field.",
+  "text": "If this card is discarded to the GY by card effect: Special Summon this card, then, if this card was discarded from your hand to your GY by an opponent's card effect, you can Special Summon 1 Fiend monster from your Deck to either field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34968834.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2400,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 6,
   "is_tuner": false

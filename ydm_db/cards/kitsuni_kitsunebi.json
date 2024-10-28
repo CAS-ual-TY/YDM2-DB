@@ -1,0 +1,21 @@
+{
+  "id": 3361010,
+  "name": "Kitsuni Kitsunebi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All face-up monsters on the field become FIRE. If your opponent has a FIRE monster on their field or in their GY, while this card is in your GY: You can Special Summon this card. You can only use this effect of \"Kitsuni Kitsunebi\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3361010.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 200,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1900,
+  "level": 3,
+  "is_tuner": false
+}

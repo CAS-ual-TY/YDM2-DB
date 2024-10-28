@@ -1,0 +1,21 @@
+{
+  "id": 53008933,
+  "name": "Archfiend's Advent",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control \"Shining Sarcophagus\", you can Normal Summon this card without Tributing. Other monsters you control gain 500 ATK, during your turn only. If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; take control of it until the End Phase, but that monster cannot attack unless you controlled \"Shining Sarcophagus\" when this effect was activated. You can only use this effect of \"Archfiend's Advent\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53008933.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Dragonmaid Lorpar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of \"Dragonmaid Lorpar\" once per turn.\n? You can discard this card, then target 1 face-up monster on the field; players cannot activate that target's effects on the field this turn.\n? At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 3 \"Dragonmaid\" monster from your hand.",
+  "text": "Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of \"Dragonmaid Lorpar\" once per turn.\n\u25cf You can discard this card, then target 1 face-up monster on the field; players cannot activate that target's effects on the field this turn.\n\u25cf At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 3 \"Dragonmaid\" monster from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15848542.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2700,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1700,
   "level": 8,
   "is_tuner": false

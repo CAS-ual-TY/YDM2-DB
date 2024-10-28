@@ -3,7 +3,7 @@
   "name": "Eria the Water Charmer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Target 1 face-up WATER monster your opponent controls; take control of that target while this card is face-up on the field.",
+  "text": "FLIP: Target 1 WATER monster your opponent controls; take control of that target while this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74364659.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 500,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 3,
   "is_tuner": false

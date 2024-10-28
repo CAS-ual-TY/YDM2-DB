@@ -3,7 +3,7 @@
   "name": "Dark Scorpion - Cliff the Trap Remover",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\n? Target 1 Spell/Trap Card on the field; destroy that target.\n? Send the top 2 cards of their Deck to the Graveyard.",
+  "text": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects.\n\u25cf Target 1 Spell/Trap on the field; destroy that target.\n\u25cf Send the top 2 cards of their Deck to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6967870.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": false

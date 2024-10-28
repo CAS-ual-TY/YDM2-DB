@@ -1,0 +1,12 @@
+{
+  "id": 70508653,
+  "name": "Tool Box",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a monster: You can reveal 2 Equip Spells from your Deck with different names, your opponent randomly picks 1 for you to add to your hand, also place the remaining card on the bottom of your Deck. You can only use this effect of \"Tool Box\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70508653.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

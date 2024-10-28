@@ -3,7 +3,7 @@
   "name": "D.D. Survivor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
+  "text": "During the End Phase, if this card was banished while face-up on your field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48092532.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 4,
   "is_tuner": false

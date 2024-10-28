@@ -1,0 +1,12 @@
+{
+  "id": 17885118,
+  "name": "Pendulum Scale",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have 2 cards in your Pendulum Zones: Apply the following effect, based on the difference in the Pendulum Scales.\n\u25cf 0: Destroy 2 Spells/Traps on the field.\n\u25cf 1, 2, or 3: Add 1 Level 2, 3, or 4 Pendulum Monster from your Deck to your hand.\n\u25cf 4, 5, or 6: Add 1 Level 5, 6, or 7 Pendulum Monster from your Deck to your hand.\n\u25cf 7+: Return up to 2 cards from your Pendulum Zone(s) to the hand, then you can Special Summon 1 Pendulum Monster from your hand.\nYou can only activate 1 \"Pendulum Scale\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/17885118.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

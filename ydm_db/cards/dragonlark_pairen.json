@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2700,
   "species": "Wyrm",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1300,
   "rank": 6
 }

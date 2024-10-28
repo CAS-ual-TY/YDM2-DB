@@ -1,0 +1,21 @@
+{
+  "id": 37552929,
+  "name": "Maiden of the Millennium Moon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Maiden of the Millennium Moon\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. If your opponent activates a card or effect, while this card is a Continuous Spell (except during the Damage Step): You can Special Summon this card, and if you do, for the rest of this turn, your opponent cannot target Level 5 or higher Illusion or Spellcaster monsters you control with card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37552929.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Illusion",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

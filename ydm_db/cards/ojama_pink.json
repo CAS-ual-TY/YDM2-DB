@@ -3,7 +3,7 @@
   "name": "Ojama Pink",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent from the hand or field to the GY: You can have each player draw 1 card, then each player discards 1 card, then, if you discarded an \"Ojama\" card with this effect, you can choose 1 opponent's unused Monster Zone, and that zone cannot be used until the end of your opponent's turn. You can only use this effect of \"Ojama Pink\" once per turn.",
+  "text": "If this card is sent from the hand or field to the GY: You can activate this effect; each player draws 1 card, then each player discards 1 card, then, if you discarded an \"Ojama\" card, you can choose 1 opponent's unused Monster Zone, and it cannot be used until the end of your opponent's turn. You can only use this effect of \"Ojama Pink\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42517468.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 0,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 2,
   "is_tuner": false

@@ -1,0 +1,12 @@
+{
+  "id": 38105306,
+  "name": "Life Shaver",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can only control 1 \"Life Shaver\". Once per turn, during your opponent's End Phase: Place 1 counter on this card. During the Main or Battle Phase, if this card has a counter(s) on it: You can send this card to the GY, then make your opponent discard as many cards as possible, up to the number of counters that were on this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/38105306.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

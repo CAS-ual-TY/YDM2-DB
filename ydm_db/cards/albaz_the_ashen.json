@@ -1,0 +1,21 @@
+{
+  "id": 37683547,
+  "name": "Albaz the Ashen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. While a Level 8 Fusion Monster is in your GY, this card gains 200 ATK for each monster in your GY, also your opponent cannot target other monsters you control with card effects. If a monster(s) you control leaves the field by an opponent's card effect, while this card and a Fusion Monster are in your GY (except during the Damage Step): You can Special Summon this card. You can only use this effect of \"Albaz the Ashen\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37683547.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

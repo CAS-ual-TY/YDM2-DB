@@ -1,0 +1,21 @@
+{
+  "id": 45445571,
+  "name": "The Duke of Demise",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Fiend and/or Zombie monsters\nOnce per turn, during your Standby Phase, pay 500 LP or destroy this card. Cannot be destroyed by battle. You can only use each of the following effects of \"The Duke of Demise\" once per turn. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 monster. You can banish this card from your GY, then target 1 Level 4 or higher Fiend or Zombie monster in your GY; add it to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/45445571.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

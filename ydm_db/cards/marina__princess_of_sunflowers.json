@@ -3,7 +3,7 @@
   "name": "Marina, Princess of Sunflowers",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If exactly 1 other Plant-Type monster you control (and no other cards) is destroyed by battle or by card effect and sent to the Graveyard: You can target 1 card your opponent controls; destroy that target. This card must be face-up on the field to activate and to resolve this effect.",
+  "text": "If exactly 1 other Plant monster you control (and no other cards) is destroyed by battle or card effect and sent to the GY: You can target 1 card your opponent controls; destroy that target. This card must be face-up on the field to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78540593.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2800,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 8,
   "is_tuner": false

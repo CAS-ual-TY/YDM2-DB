@@ -1,0 +1,21 @@
+{
+  "id": 87498729,
+  "name": "Fallen of the Tistina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand or field to the GY; place 1 \"Divine Domain Baatistina\" from your Deck, face-up in your Field Zone. If a face-up \"Tistina\" Spell/Trap(s) you control is destroyed by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can banish this card; Special Summon 1 LIGHT \"Tistina\" monster from your hand, Deck, or GY. You can only use each effect of \"Fallen of the Tistina\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/87498729.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 200,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6327734,
+  "name": "Hu-Li the Jewel Mikanko",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. While you control an Equip Card, your opponent cannot target \"Mikanko\" cards you control with card effects. If either player equips an Equip Card(s) to this card: You can add 1 \"Mikanko\" Trap from your Deck to your hand. You can only use this effect of \"Hu-Li the Jewel Mikanko\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6327734.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

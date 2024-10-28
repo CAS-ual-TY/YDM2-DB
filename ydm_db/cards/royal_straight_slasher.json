@@ -1,0 +1,21 @@
+{
+  "id": 11020863,
+  "name": "Royal Straight Slasher",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Royal Straight\". If you have all of \"Queen's Knight\", \"King's Knight\", and \"Jack's Knight\" in your GY: You can send 5 monsters, with different Levels of 1, 2, 3, 4, and 5, from your hand and/or Deck to the GY, and if you do, destroy all cards your opponent controls. When this card is destroyed by battle: You can target up to 3 LIGHT Warrior monsters in your GY; Special Summon them. You can only use each effect of \"Royal Straight Slasher\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/11020863.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1350,
+  "level": 6,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Ancient Gear Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Negate the effects of an opponent's monster destroyed by battle with this card (including in the Graveyard).",
+  "text": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Negate the effects of an opponent's monster destroyed by battle with this card (including in the GY).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10509340.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 6,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 81686058,
+  "name": "Ill Witch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster blasts enemies with unexpected bursts of wind.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81686058.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

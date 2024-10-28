@@ -3,7 +3,7 @@
   "name": "Morphtronic Celfon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "? While in Attack Position: Once per turn, you can roll a six-sided die. Reveal cards from top of your Deck equal to the roll and Special Summon 1 Level 4 or lower \"Morphtronic\" monster from among them, ignoring the Summoning conditions. Shuffle the rest into the Deck.\n? While in Defense Position: Once per turn, you can roll a six-sided die. Look at cards from top of your Deck equal to the roll, then return them in the same order.",
+  "text": "\u25cf While in Attack Position: Once per turn, you can roll a six-sided die. Reveal cards from top of your Deck equal to the roll and Special Summon 1 Level 4 or lower \"Morphtronic\" monster from among them, ignoring the Summoning conditions. Shuffle the rest into the Deck.\n\u25cf While in Defense Position: Once per turn, you can roll a six-sided die. Look at cards from top of your Deck equal to the roll, then return them in the same order.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93542102.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

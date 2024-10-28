@@ -3,7 +3,7 @@
   "name": "Apprentice Piper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: You can Special Summon 1 monster from your hand.\nIf this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster from your hand.",
+  "text": "FLIP: You can Special Summon 1 monster from your hand.\nIf this card is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 monster from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64977888.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 100,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 2,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Ultimate Insect LV7",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.",
+  "text": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all of your opponent's monsters lose 700 ATK and DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19877898.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2600,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 7,
   "is_tuner": false

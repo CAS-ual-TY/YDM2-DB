@@ -3,7 +3,7 @@
   "name": "Black Skull Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\n\n\n\n(This card is always treated as an \"Archfiend\" card.)",
+  "text": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\n\n(This card is always treated as an \"Archfiend\" card.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11901678.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 3200,
   "species": "Dragon",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2500,
   "level": 9,
   "is_tuner": false

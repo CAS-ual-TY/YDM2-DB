@@ -1,0 +1,12 @@
+{
+  "id": 50056656,
+  "name": "Red Zone",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent activates a card or effect while you control \"Red Dragon Archfiend\" or a Synchro Monster that mentions it: You can target 1 card on the field; destroy it. You can target 1 of your banished DARK Dragon Synchro Monsters; Special Summon it. You can only use each effect of \"Red Zone\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/50056656.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

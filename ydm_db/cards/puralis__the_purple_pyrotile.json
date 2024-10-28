@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 800,
   "species": "Reptile",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1400,
   "level": 2,
   "is_tuner": true

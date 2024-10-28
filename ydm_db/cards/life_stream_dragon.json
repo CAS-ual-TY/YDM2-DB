@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2900,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2400,
   "level": 8,
   "is_tuner": true

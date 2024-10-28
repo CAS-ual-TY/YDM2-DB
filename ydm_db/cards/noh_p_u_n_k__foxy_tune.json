@@ -1,0 +1,21 @@
+{
+  "id": 55920742,
+  "name": "Noh-P.U.N.K. Foxy Tune",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, when this card destroys an opponent's monster by battle: You can gain LP equal to that monster's original ATK. You can only use each of the following effects of \"Noh-P.U.N.K. Foxy Tune\" once per turn. You can Tribute 1 \"P.U.N.K.\" monster; Special Summon this card from your hand. You can send this card from your hand or field to the GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"P.U.N.K.\" monster from your Deck, except a Level 8 monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55920742.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

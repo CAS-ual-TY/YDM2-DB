@@ -1,0 +1,21 @@
+{
+  "id": 24215921,
+  "name": "Gruesome Grave Squirmer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Fiend monster (Quick Effect): You can Special Summon this card from your hand, then you can destroy 1 \"Yubel\", or 1 monster that mentions it, in your Monster Zone. You can banish this card from your GY; Special Summon 1 Fiend monster with 0 ATK/DEF from your hand or GY, except \"Gruesome Grave Squirmer\". You can only use each effect of \"Gruesome Grave Squirmer\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/24215921.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

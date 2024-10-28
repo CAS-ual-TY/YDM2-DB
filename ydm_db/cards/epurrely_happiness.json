@@ -1,0 +1,20 @@
+{
+  "id": 52645235,
+  "name": "Epurrely Happiness",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 2 monsters\nAt the end of the Damage Step, if this card battled: You can add 1 \"Purrely\" card from your Deck to your hand, also, if this card has \"Purrely Happy Memory\" as material, you can halve the ATK of 1 face-up monster on the field. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can return 1 Spell/Trap your opponent controls to the hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/52645235.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 100,
+  "rank": 2
+}

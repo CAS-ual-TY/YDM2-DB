@@ -3,7 +3,7 @@
   "name": "Red-Eyes Dark Dragoon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Dark Magician\" + \"Red-Eyes B. Dragon\" or 1 Dragon Effect Monster\nNeither player can target or destroy this card with card effects. During your Main Phase: You can destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. This effect can be used a number of times per turn, up to the number of Normal Monsters used as Fusion Material for this card's Summon. Once per turn, when a card or effect is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy that card, and if you do that, this card gains 1000 ATK.",
+  "text": "\"Dark Magician\" + \"Red-Eyes Black Dragon\" or 1 Dragon Effect Monster\nCannot be destroyed by card effects. Neither player can target this card with card effects. During your Main Phase: You can destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. You can use this effect a number of times per turn up to the number of Normal Monsters used as Fusion Material for this card. Once per turn, when a card or effect is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy that card, and if you do that, this card gains 1000 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37818794.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Spellcaster",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2500,
   "level": 8,
   "is_tuner": false

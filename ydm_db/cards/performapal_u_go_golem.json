@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 1600,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 \"Performapal\", \"Odd-Eyes\", or \"Magician\" Pendulum Monster from your GY or face-up in your Extra Deck to your hand.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 1000,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 \"Performapal\", \"Odd-Eyes\", or \"Magician\" Pendulum Monster from your GY or face-up in your Extra Deck to your hand.\n",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

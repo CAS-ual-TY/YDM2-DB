@@ -3,7 +3,7 @@
   "name": "Morphtronic Slingen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "? While in Attack Position: Once per turn, you can Tribute 1 \"Morphtronic\" monster, except \"Morphtronic Slingen\", to destroy 1 card on the field.\n? While in Defense Position: If this card would be destroyed, you can destroy another \"Morphtronic\" monster you control instead.",
+  "text": "\u25cf While in Attack Position: Once per turn, you can Tribute 1 \"Morphtronic\" monster, except \"Morphtronic Slingen\", to destroy 1 card on the field.\n\u25cf While in Defense Position: If this card would be destroyed, you can destroy another \"Morphtronic\" monster you control instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75775867.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1200,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 74289646,
+  "name": "Royal Rhino with Deceitful Dice",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, when a card or effect is activated, even during the Damage Step (Quick Effect): You can roll a six-sided die, then apply the appropriate effect, depending on the Chain Link number of this effect.\n\u25cf 2: This card gains ATK equal to the result x 500 until the end of this turn.\n\u25cf 3: Inflict damage to your opponent equal to the result x 500.\n\u25cf 4+: Destroy cards on the field up to the result.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/74289646.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 600,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 1,
+  "is_tuner": false
+}

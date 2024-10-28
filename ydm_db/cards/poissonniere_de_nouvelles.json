@@ -1,0 +1,24 @@
+{
+  "id": 46485778,
+  "name": "Poissonniere de Nouvelles",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can activate 1 of these effects;\n\u25cf Add 1 Level 1 Ritual Monster or 1 \"Recipe\" card from your Deck to your hand.\n\u25cf Banish any number of \"Recipe\" cards from your GY and Special Summon 1 \"Nouvelles\" Ritual Monster from your hand with a Level equal to the number banished.\nYou can only use this effect of \"Poissonniere de Nouvelles\" once per turn. If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/46485778.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 700,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you control a Ritual Monster: You can target 1 monster on the field; Special Summon this card, then change that monster's battle position. You can only use this effect of \"Poissonniere de Nouvelles\" once per turn.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
+  "def": 1700,
+  "level": 1,
+  "is_tuner": false
+}

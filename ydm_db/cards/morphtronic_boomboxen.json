@@ -3,7 +3,7 @@
   "name": "Morphtronic Boomboxen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "? While in Attack Position, this card can attack twice during each Battle Phase.\n? Once per turn, while in Defense Position, when a face-up \"Morphtronic\" monster you control is targeted for an attack: You can negate the attack.",
+  "text": "\u25cf While in Attack Position, this card can attack twice during each Battle Phase.\n\u25cf Once per turn, while in Defense Position, when a face-up \"Morphtronic\" monster you control is targeted for an attack: You can negate the attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92720564.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 4,
   "is_tuner": false

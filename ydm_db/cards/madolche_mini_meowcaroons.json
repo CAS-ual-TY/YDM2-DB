@@ -1,0 +1,24 @@
+{
+  "id": 38745241,
+  "name": "Madolche Mini Meowcaroons",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Effect Monsters, including a \"Madolche\" monster\nIf this card is Link Summoned: You can add 1 \"Madolche\" card from your Deck to your hand. You can target 1 monster in your GY; Special Summon 1 \"Madolche\" monster from your hand, and if you do, shuffle that target into the Deck, also you cannot activate monster effects for the rest of this turn, except \"Madolche\" monsters. You can only use each effect of \"Madolche Mini Meowcaroons\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/38745241.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom",
+    "Bottom-Left"
+  ]
+}

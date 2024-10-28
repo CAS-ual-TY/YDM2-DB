@@ -1,0 +1,21 @@
+{
+  "id": 9400127,
+  "name": "Flogos, the Ogdoadic Boundless",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent from the field to the GY, or Special Summoned from the GY: You can target 1 face-up monster your opponent controls, and 1 monster in their GY with an equal or higher ATK than that target; Special Summon that monster from the GY to their field, and if you do, send that other monster they control to the GY. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Flogos, the Ogdoadic Boundless\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9400127.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 48486809,
+  "name": "Winged Kuriboh LV6",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as an \"Elemental HERO\" and \"Favorite\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 1 \"Elemental HERO\" Fusion Monster or 1 \"Winged Kuriboh\" from your hand, face-up field, or GY. You can only Special Summon \"Winged Kuriboh LV6\" once per turn this way. When an opponent's monster declares an attack, or your opponent activates a monster effect on the field (Quick Effect): You can Tribute this card; destroy that 1 monster, and if you do, inflict damage to your opponent equal to its original ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/48486809.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 6,
+  "is_tuner": false
+}

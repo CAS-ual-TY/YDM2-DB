@@ -3,7 +3,7 @@
   "name": "Buster Blader, the Dragon Destroyer Swordsman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Buster Blader\" + 1 Dragon-Type monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card cannot attack directly. This card gains 1000 ATK and DEF for each Dragon-Type monster your opponent controls or is in their Graveyard. Change all Dragon-Type monsters your opponent controls to Defense Position, also Dragon-Type monsters in your opponent's possession cannot activate their effects. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "text": "1 \"Buster Blader\" + 1 Dragon monster\nMust be Fusion Summoned. Cannot attack directly. Gains 1000 ATK/DEF for each Dragon monster your opponent controls or is in their GY. Change all Dragon monsters your opponent controls to Defense Position, also Dragon monsters in your opponent's possession cannot activate their effects. If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86240887.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2800,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2500,
   "level": 8,
   "is_tuner": false

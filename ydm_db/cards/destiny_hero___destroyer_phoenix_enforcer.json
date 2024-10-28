@@ -1,0 +1,21 @@
+{
+  "id": 60461804,
+  "name": "Destiny HERO - Destroyer Phoenix Enforcer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Level 6 or higher \"HERO\" monster + 1 \"Destiny HERO\" monster\nMonsters your opponent controls lose 200 ATK for each \"HERO\" card in your GY. You can only use each of the following effects of \"Destiny HERO - Destroyer Phoenix Enforcer\" once per turn. (Quick Effect): You can destroy both 1 card you control and 1 card on the field. If this card is destroyed by battle or card effect: You can activate this effect; Special Summon 1 \"Destiny HERO\" monster from your GY during the Standby Phase of the next turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60461804.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2100,
+  "level": 8,
+  "is_tuner": false
+}

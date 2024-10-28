@@ -1,0 +1,21 @@
+{
+  "id": 40740224,
+  "name": "Cross Keeper",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send this card from your hand or field to the GY; Special Summon 1 \"Elemental HERO\" monster or 1 \"Neo-Spacian\" monster from your hand or GY, but negate its effects if Summoned from the GY. If you Special Summon an \"Elemental HERO\" Fusion Monster, while this card is in your GY (except during the Damage Step): You can banish this card; draw 2 cards, then place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Cross Keeper\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/40740224.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

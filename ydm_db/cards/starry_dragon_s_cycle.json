@@ -1,0 +1,12 @@
+{
+  "id": 6278008,
+  "name": "Starry Dragon's Cycle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 Fusion, Synchro, Xyz, or Link Monster on the field; return that face-up monster to the Extra Deck, then, based on its card type, you can Special Summon 1 appropriate monster from either GY to your field.\n\u25cf Fusion: Monster with the same Attribute.\n\u25cf Synchro: Monster with a lower Level.\n\u25cf Xyz: Monster with the same Level as its Rank.\n\u25cf Link: Monster with the same Type.\nYou can only activate 1 \"Starry Dragon's Cycle\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6278008.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

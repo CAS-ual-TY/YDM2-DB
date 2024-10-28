@@ -3,7 +3,7 @@
   "name": "Arcana Force EX - The Light Ruler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 monsters you control to the Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: Toss a coin and gain the appropriate effect.\n? Heads: When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can target 1 card in your Graveyard; add that target to your hand.\n? Tails: During either player's turn, when a Spell/Trap Card, or monster effect, that targets this card is activated: This card loses exactly 1000 ATK and you negate the activation, and if you do, destroy it.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 monsters you control to the GY. If this card is Special Summoned: Toss a coin.\n\u25cf Heads: When this card destroys an opponent's monster by battle and sends it to the GY: You can target 1 card in your GY; add that target to your hand.\n\u25cf Tails: When a Spell/Trap Card, or monster effect, that targets this card is activated (Quick Effect): This card loses exactly 1000 ATK and you negate the activation, and if you do, destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5861892.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 4000,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 4000,
   "level": 10,
   "is_tuner": false

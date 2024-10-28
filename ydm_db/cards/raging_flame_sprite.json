@@ -3,7 +3,7 @@
   "name": "Raging Flame Sprite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: This card gains 1000 ATK.",
+  "text": "This card can attack directly. If this card inflicts battle damage to your opponent by a direct attack: It gains 1000 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90810762.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 100,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 3,
   "is_tuner": false

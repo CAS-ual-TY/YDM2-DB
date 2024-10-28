@@ -1,0 +1,21 @@
+{
+  "id": 54656181,
+  "name": "Colonel on C-String",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 2 Level 4 or lower Warrior monsters with different names from your hand in Defense Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/54656181.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2311090,
+  "name": "Spright Carrot",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Level/Link 2 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Spright Carrot\" once per turn this way. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can Tribute 1 other Level/Rank/Link 2 monster; negate that effect, then if you Tributed a Rank/Link 2 monster to activate this effect, you can destroy that card. You can only use this effect of \"Spright Carrot\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/2311090.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1900,
+  "level": 2,
+  "is_tuner": false
+}

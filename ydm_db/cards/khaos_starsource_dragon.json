@@ -1,0 +1,21 @@
+{
+  "id": 72578374,
+  "name": "Khaos Starsource Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 LIGHT or DARK Dragon monster + 1 Dragon monster\nIf this card is Fusion Summoned: You can target cards your opponent controls, up to the number of LIGHT and DARK monsters used as this card's material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of \"Khaos Starsource Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/72578374.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

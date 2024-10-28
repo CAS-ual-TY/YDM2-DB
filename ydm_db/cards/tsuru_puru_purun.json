@@ -1,0 +1,21 @@
+{
+  "id": 84635192,
+  "name": "Tsuru-Puru-Purun",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can target 1 WATER monster in your Main Monster Zone; destroy that monster you control, and if you do, Special Summon this card to the zone that monster was in, then you can destroy all face-up cards your opponent controls in this card's column. You can only use this effect of \"Tsuru-Puru-Purun\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84635192.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 450,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

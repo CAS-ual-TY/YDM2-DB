@@ -1,0 +1,21 @@
+{
+  "id": 4928565,
+  "name": "Tearlaments Kashtira",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 \"Kashtira\" or \"Tearlaments\" card from your hand or GY. If this card is Normal or Special Summoned: You can send the top 3 cards of either player's Deck to the GY. If this card is sent to the GY by card effect: You can send the top 2 cards of your Deck to the GY. You can only use each effect of \"Tearlaments Kashtira\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/4928565.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2300,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 7,
+  "is_tuner": false
+}

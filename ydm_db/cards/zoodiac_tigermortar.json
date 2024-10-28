@@ -9,12 +9,12 @@
   ],
   "type": "Monster",
   "attribute": "EARTH",
-  "atk": 0,
+  "atk": -1,
   "species": "Beast-Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": -1,
   "rank": 4
 }

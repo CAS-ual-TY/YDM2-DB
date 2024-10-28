@@ -1,0 +1,21 @@
+{
+  "id": 86605515,
+  "name": "Qardan the Clear-Sighted",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Set 1 Continuous Trap from your hand or GY. It can be activated this turn. If this card is sent to the GY: You can activate this effect; face-up Traps you control cannot be destroyed by your opponent's card effects, until the end of the next turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/86605515.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

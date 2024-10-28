@@ -1,0 +1,24 @@
+{
+  "id": 70427670,
+  "name": "Predaplant Bufolicula",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand, except \"Predaplant Bufolicula\". You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70427670.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "During your Main Phase: You can Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
+  "pendulum_scale_left_blue": 0,
+  "pendulum_scale_right_red": 0,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

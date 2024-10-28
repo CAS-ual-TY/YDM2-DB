@@ -1,0 +1,21 @@
+{
+  "id": 53184342,
+  "name": "Dragunity Arma Gram",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish 2 Dragon and/or Winged Beast monsters from your GY: Special Summon this card from your hand or GY. You can target 1 face-up monster; its effects are negated, also it loses 1000 ATK for each Equip Card you control. When your opponent's monster is destroyed by battle and sent to the GY: You can equip it to this card. You can only use each effect of \"Dragunity Arma Gram\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53184342.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2900,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2200,
+  "level": 10,
+  "is_tuner": false
+}

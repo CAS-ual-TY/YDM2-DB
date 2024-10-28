@@ -3,7 +3,7 @@
   "name": "Hi-Speedroid Kendama",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. You can only use each of the following effects of \"Hi-Speedroid Kendama\" once per turn.\n? You can banish 1 Machine-Type monster from your Graveyard; inflict 500 damage to your opponent.\n? If this card is in your Graveyard and you control no cards: You can Special Summon this card. You cannot Normal Summon/Set the turn you activate this effect.",
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. You can only use each of the following effects of \"Hi-Speedroid Kendama\" once per turn.\n\u25cf You can banish 1 Machine-Type monster from your Graveyard; inflict 500 damage to your opponent.\n\u25cf If this card is in your Graveyard and you control no cards: You can Special Summon this card. You cannot Normal Summon/Set the turn you activate this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97007933.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2200,
   "species": "Machine",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1600,
   "level": 6,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 70551291,
+  "name": "Black Luster Soldier - Legendary Swordsman",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Chaos Form\" or \"Super Soldier Ritual\". Must be Ritual Summoned. During your Draw Phase, before you draw: You can reveal this card in your hand; give up your normal draw this turn, and if you do, add 1 Ritual Spell from your Deck to your hand. Your opponent cannot activate cards or effects during your Battle Phase. When this attacking card, that was Ritual Summoned using a Normal Monster, destroys an opponent's monster by battle: You can shuffle all cards your opponent controls into the Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70551291.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

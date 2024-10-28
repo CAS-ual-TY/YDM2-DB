@@ -1,0 +1,21 @@
+{
+  "id": 91810826,
+  "name": "Tenpai Dragon Chundra",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, during the Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of \"Tenpai Dragon Chundra\" once per turn. If you control a FIRE Dragon monster: You can Special Summon this card from your hand. At the start of the Damage Step, if a monster battles: You can Special Summon 1 Level 4 or lower FIRE Dragon monster from your Deck, except \"Tenpai Dragon Chundra\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/91810826.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": true
+}

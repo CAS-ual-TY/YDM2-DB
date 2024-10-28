@@ -3,7 +3,7 @@
   "name": "Van'Dalgyon the Dark Dragon Lord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap:\n? Spell: Inflict 1500 damage to your opponent.\n? Trap: Target 1 card your opponent controls; destroy that target.\n? Monster: Target 1 monster in your Graveyard; Special Summon it.",
+  "text": "If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap:\n\u25cf Spell: Inflict 1500 damage to your opponent.\n\u25cf Trap: Target 1 card your opponent controls; destroy that target.\n\u25cf Monster: Target 1 monster in your Graveyard; Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24857466.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2800,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2500,
   "level": 8,
   "is_tuner": false

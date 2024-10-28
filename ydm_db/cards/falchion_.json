@@ -1,0 +1,21 @@
+{
+  "id": 86170989,
+  "name": "Falchion\u03b2",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card destroys an opponent's monster by battle: Activate 1 of these effects.\n\u25cf Send 1 LIGHT Machine monster with 1200 or less ATK from your Deck to your GY.\n\u25cf Target 1 LIGHT Machine monster with 1200 or less ATK in your GY; Special Summon that target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/86170989.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

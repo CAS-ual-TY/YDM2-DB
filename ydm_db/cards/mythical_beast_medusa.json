@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you have no card in your other Pendulum Zone: You can target 1 monster in your GY that you can place a Spell Counter on; destroy this card, and if you do, Special Summon that monster, and if you do that, place 1 Spell Counter on it. You can only use this effect of \"Mythical Beast Medusa\" once per turn.",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4,
   "def": 1500,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "If you have no cards in your other Pendulum Zone: You can target 1 monster in your GY that you can place a Spell Counter on; destroy this card, and if you do, Special Summon that monster, and if you do that, place 1 Spell Counter on it. You can only use this effect of \"Mythical Beast Medusa\" once per turn.\n",
-  "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "is_tuner": false
 }

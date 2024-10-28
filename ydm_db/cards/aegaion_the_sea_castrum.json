@@ -9,12 +9,12 @@
   ],
   "type": "Monster",
   "attribute": "WATER",
-  "atk": 0,
+  "atk": -1,
   "species": "Machine",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 3000,
   "rank": 8
 }

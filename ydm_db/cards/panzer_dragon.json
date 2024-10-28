@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1000,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2600,
   "level": 5,
   "is_tuner": false

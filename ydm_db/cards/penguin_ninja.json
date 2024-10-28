@@ -1,0 +1,21 @@
+{
+  "id": 41255165,
+  "name": "Penguin Ninja",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: You can target up to 2 Spells/Traps your opponent controls; return them to the hand.\nYou can target 1 \"Penguin\" monster you control; change it to face-down Defense Position. You can only use this effect of \"Penguin Ninja\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/41255165.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Aqua",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

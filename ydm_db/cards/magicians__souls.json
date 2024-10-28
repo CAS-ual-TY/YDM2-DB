@@ -3,7 +3,7 @@
   "name": "Magicians' Souls",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send up to 2 Spells/Traps from your hand and/or field to the GY; draw that many cards. If this card is in your hand: You can send 1 Level 6 or higher Spellcaster monster from your Deck to the GY, then activate 1 of these effects;\n? Special Summon this card.\n? Send this card to the GY, then, you can Special Summon 1 \"Dark Magician\" or 1 \"Dark Magician Girl\" from your GY.\nYou can only use each effect of \"Magicians' Souls\" once per turn.",
+  "text": "You can send up to 2 Spells/Traps from your hand and/or field to the GY; draw that many cards. If this card is in your hand: You can send 1 Level 6 or higher Spellcaster monster from your Deck to the GY, then activate 1 of these effects;\n\u25cf Special Summon this card.\n\u25cf Send this card to the GY, then, you can Special Summon 1 \"Dark Magician\" or 1 \"Dark Magician Girl\" from your GY.\nYou can only use each effect of \"Magicians' Souls\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97631303.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 0,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": false

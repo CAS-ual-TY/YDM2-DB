@@ -1,0 +1,21 @@
+{
+  "id": 43863925,
+  "name": "Exosister Stella",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase: You can Special Summon 1 \"Exosister\" monster from your hand, then if you control \"Exosister Elis\", you gain 800 LP. If your opponent moves a card(s) out of either GY (except during the Damage Step): You can Special Summon from your Extra Deck, 1 \"Exosister\" Xyz Monster using this face-up card you control as material. (This is treated as an Xyz Summon.) You can only use each effect of \"Exosister Stella\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43863925.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

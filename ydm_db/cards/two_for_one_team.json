@@ -3,7 +3,7 @@
   "name": "Two-for-One Team",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can make both players show 1 card from their hands, and if both the shown cards are the same type of card, apply 1 of these effects, depending on the type.\n? Monster: Each player can Special Summon their monster.\n? Spell: Each player draws 2 cards.\n? Trap: Each player sends exactly 2 cards from their Deck to their GY.",
+  "text": "Once per turn: You can make both players show 1 card from their hands, and if both the shown cards are the same type of card, apply 1 of these effects, depending on the type.\n\u25cf Monster: Each player can Special Summon their monster.\n\u25cf Spell: Each player draws 2 cards.\n\u25cf Trap: Each player sends exactly 2 cards from their Deck to their GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89928517.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 2,
   "is_tuner": false

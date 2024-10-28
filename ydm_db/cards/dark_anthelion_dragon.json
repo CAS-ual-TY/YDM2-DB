@@ -11,13 +11,13 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Dragon",
-  "monster_type": "Xyz",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
-  "def": 2500,
-  "rank": 7,
-  "pendulum_text": "Once per turn: You can target 1 face-up monster your opponent controls; halve its original ATK until the end of this turn (even if this card leaves the field).\n",
+  "monster_type": "Xyz",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 face-up monster your opponent controls; halve its original ATK until the end of this turn (even if this card leaves the field).",
   "pendulum_scale_left_blue": 10,
-  "pendulum_scale_right_red": 10
+  "pendulum_scale_right_red": 10,
+  "def": 2500,
+  "rank": 7
 }

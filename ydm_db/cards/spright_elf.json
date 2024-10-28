@@ -1,0 +1,23 @@
+{
+  "id": 27381364,
+  "name": "Spright Elf",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters, including a Level/Rank/Link 2 monster\nCannot be used as Link Material the turn it is Link Summoned. Your opponent cannot target monsters this card points to with card effects. During the Main Phase (Quick Effect): You can target 1 Level 2 monster in your GY, or, if your opponent controls a monster, you can target 1 Rank/Link 2 monster instead; Special Summon it. You can only use this effect of \"Spright Elf\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/27381364.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1400,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

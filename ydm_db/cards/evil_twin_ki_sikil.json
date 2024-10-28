@@ -1,9 +1,9 @@
 {
   "id": 9205573,
-  "name": "Evil?Twin Ki-sikil",
+  "name": "Evil\u2605Twin Ki-sikil",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters, including a \"Ki-sikil\" monster\nIf this card is Special Summoned and you control a \"Lil-la\" monster: You can draw 1 card. During the Main Phase, if you do not control a \"Lil-la\" monster (Quick Effect): You can Special Summon 1 \"Lil-la\" monster from your GY, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fiend monsters. You can only use each effect of \"Evil?Twin Ki-sikil\" once per turn.",
+  "text": "2 monsters, including a \"Ki-sikil\" monster\nIf this card is Special Summoned and you control a \"Lil-la\" monster: You can draw 1 card. During the Main Phase, if you do not control a \"Lil-la\" monster (Quick Effect): You can Special Summon 1 \"Lil-la\" monster from your GY, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fiend monsters. You can only use each effect of \"Evil\u2605Twin Ki-sikil\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9205573.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1100,
   "species": "Fiend",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 2,
   "link_arrows": [
     "Right",

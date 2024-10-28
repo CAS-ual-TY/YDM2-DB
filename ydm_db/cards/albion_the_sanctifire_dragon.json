@@ -1,0 +1,21 @@
+{
+  "id": 38811586,
+  "name": "Albion the Sanctifire Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Fallen of Albaz\" + 1 LIGHT Spellcaster monster\nCannot be used as Fusion Material. Your opponent cannot target this card with card effects. You can only use each of the following effects of \"Albion the Sanctifire Dragon\" once per turn. During your opponent's turn (Quick Effect): You can target 2 monsters in any GY(s); Special Summon both monsters, 1 to each field. If this card is in your GY: You can Tribute 4 monsters, the 2 in the Extra Monster Zones and the 2 in the central Main Monster Zones, and if you do, Special Summon this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/38811586.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

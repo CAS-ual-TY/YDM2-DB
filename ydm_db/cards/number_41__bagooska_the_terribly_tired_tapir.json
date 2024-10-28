@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "2 Level 4 monsters\nOnce per turn, during your Standby Phase, detach 1 material from this card. If you cannot, destroy it. This Attack Position card cannot be destroyed by your opponent's card effects. Your opponent cannot target this Attack Position card with card effects. While this card is in face-up Defense Position, change all face-up monsters on the field to Defense Position, also negate the activated effects of monsters that were in Defense Position when that effect was activated.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/90590303.jpg",
-    "https://images.ygoprodeck.com/images/cards/90590304.jpg"
+    "https://images.ygoprodeck.com/images/cards/90590303.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2100,
   "species": "Fiend",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2000,
   "rank": 4
 }

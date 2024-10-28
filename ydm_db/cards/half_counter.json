@@ -3,7 +3,7 @@
   "name": "Half Counter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, if a monster you control is being attacked: Target that monster you control; that target gains ATK equal to half the original ATK of the attacking monster, until the End Phase.",
+  "text": "During damage calculation, if a monster you control is being attacked: Target that monster you control; that target gains ATK equal to half the original ATK of the attacking monster, until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6799227.jpg"
   ],

@@ -1,0 +1,26 @@
+{
+  "id": 10019086,
+  "name": "Tri-Brigade Arms Bucephalus II",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3+ Beast, Beast-Warrior, and/or Winged Beast monsters\nCannot be Special Summoned from the Extra Deck unless you have 3 or more \"Tri-Brigade\" Spells/Traps in your GY. Your opponent cannot activate cards or effects when you Special Summon a monster(s). When a monster declares an attack: You can banish this card, also banish all cards your opponent controls. If this card is sent to the GY: You can send 1 Beast, Beast-Warrior, or Winged Beast monster from your Extra Deck to the GY. You can only use this effect of \"Tri-Brigade Arms Bucephalus II\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10019086.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3500,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 5,
+  "link_arrows": [
+    "Right",
+    "Bottom-Right",
+    "Bottom",
+    "Bottom-Left",
+    "Left"
+  ]
+}

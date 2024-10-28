@@ -1,0 +1,21 @@
+{
+  "id": 5267507,
+  "name": "Earthbound Immortal Red Nova",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "There can only be 1 \"Earthbound Immortal\" monster on the field. During the Main Phase (Quick Effect): You can banish this card from your hand or GY; send 1 \"Earthbound Immortal\" monster or \"Red Dragon Archfiend\" from your hand or face-up Monster Zone to the GY, then you can apply 1 of these effects.\n\u25cf Special Summon 1 \"Earthbound\" monster from your Deck or Extra Deck.\n\u25cf Special Summon 1 \"Red Nova Dragon\" from your Extra Deck. (This is treated as a Synchro Summon.)\nYou can only use this effect of \"Earthbound Immortal Red Nova\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/5267507.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3000,
+  "level": 12,
+  "is_tuner": false
+}

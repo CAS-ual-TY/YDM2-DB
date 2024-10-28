@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/19489718.jpg"
   ],
   "type": "Monster",
-  "attribute": "EARTH",
+  "attribute": "DARK",
   "atk": 2000,
   "species": "Machine",
-  "monster_type": "Ritual",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
   "def": 2200,
   "level": 4,
-  "is_tuner": false
+  "is_tuner": true
 }

@@ -1,0 +1,21 @@
+{
+  "id": 67282505,
+  "name": "Mitsu the Insect Ninja",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a \"Ninja\" card or a face-down Defense Position monster: You can Special Summon this card from your hand. When your opponent activates a monster effect (Quick Effect): You can target 1 face-down Defense Position monster you control; change it to face-up Defense Position, and if you do, change this card to face-down Defense Position, then, if the targeted monster was a \"Ninja\" monster, except \"Mitsu the Insect Ninja\", negate that opponent's activated effect. You can only use each effect of \"Mitsu the Insect Ninja\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/67282505.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 200,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 2,
+  "is_tuner": false
+}

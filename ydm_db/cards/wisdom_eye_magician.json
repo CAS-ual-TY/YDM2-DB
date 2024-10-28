@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you have a \"Magician\" or \"Performapal\" card in your other Pendulum Zone: You can destroy this card, and if you do, place 1 \"Magician\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Wisdom-Eye Magician\".",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 1500,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "If you have a \"Magician\" or \"Performapal\" card in your other Pendulum Zone: You can destroy this card, and if you do, place 1 \"Magician\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Wisdom-Eye Magician\".\n",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": false
 }

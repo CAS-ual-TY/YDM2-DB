@@ -1,0 +1,21 @@
+{
+  "id": 48109103,
+  "name": "Kappa Avenger",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An amphibian that sold his soul for unlimited power to avenge his late friend.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/48109103.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

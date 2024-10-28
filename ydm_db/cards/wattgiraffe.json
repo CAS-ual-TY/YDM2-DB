@@ -3,7 +3,7 @@
   "name": "Wattgiraffe",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Your opponent cannot activate cards or effects until the end of this turn.",
+  "text": "This card can attack directly. If this card inflicts battle damage to your opponent by a direct attack: Your opponent cannot activate cards or effects until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/402568.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1200,
   "species": "Thunder",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 4,
   "is_tuner": false

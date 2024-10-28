@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2900,
   "species": "Rock",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2500,
   "level": 8,
   "is_tuner": false

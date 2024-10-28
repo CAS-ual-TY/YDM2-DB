@@ -1,0 +1,21 @@
+{
+  "id": 16893370,
+  "name": "Dreaming Reality of Nemleria, Realized",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gains 100 ATK for each face-down card in your Extra Deck. You can only use each of the following effects of \"Dreaming Reality of Nemleria, Realized\" once per turn. If this card is in your hand: You can target 1 monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card. If this card is Special Summoned: You can activate 1 of these effects;\n\u25cf Add 1 \"Dreaming Nemleria\" from your Deck to your face-up Extra Deck.\n\u25cf Change 1 other face-up monster on the field to face-down Defense Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/16893370.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

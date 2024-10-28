@@ -1,0 +1,21 @@
+{
+  "id": 4754691,
+  "name": "Amphibious Bugroth MK-11",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While \"Umi\" is not on the field, this card gains 700 ATK, also it cannot attack directly. While \"Umi\" is on the field: You can target 1 face-up non-WATER monster on the field; destroy it. You can only use this effect of \"Amphibious Bugroth MK-11\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/4754691.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1850,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

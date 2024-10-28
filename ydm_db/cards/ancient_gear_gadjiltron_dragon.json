@@ -3,7 +3,7 @@
   "name": "Ancient Gear Gadjiltron Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n? Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. \n? Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. \n? Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent.",
+  "text": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n\u25cf Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. \n\u25cf Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. \n\u25cf Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50933533.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 3000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 8,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 88962829,
+  "name": "Beetrooper Light Flapper",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can target 2 of your \"Beetrooper\" monsters with different names, that are banished and/or in your GY; add them to your hand, but for the rest of this turn you cannot activate their effects, or the effects of cards with their names. When an opponent's monster declares an attack: You can return this card to the hand, and if you do, negate that attack. You can only use each effect of \"Beetrooper Light Flapper\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/88962829.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
+}

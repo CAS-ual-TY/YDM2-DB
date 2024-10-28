@@ -3,7 +3,7 @@
   "name": "Dicephoon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Roll a six-sided die and apply the result.\n? 2, 3, or 4: Destroy 1 Spell/Trap on the field.\n? 5: Destroy 2 Spells/Traps on the field.\n? 1 or 6: You take 1000 damage.",
+  "text": "Roll a six-sided die and apply the result.\n\u25cf 2, 3, or 4: Destroy 1 Spell/Trap on the field.\n\u25cf 5: Destroy 2 Spells/Traps on the field.\n\u25cf 1 or 6: You take 1000 damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3493058.jpg"
   ],

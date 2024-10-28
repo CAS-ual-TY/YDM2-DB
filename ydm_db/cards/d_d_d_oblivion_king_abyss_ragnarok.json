@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2200,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you Special Summon a \"D/D\" monster(s), except during the Damage Step: You can target 1 \"D/D\" monster in your Graveyard; any battle damage your opponent takes becomes halved for the rest of this turn, also Special Summon that monster, and if you do, take 1000 damage. You can only use this effect of \"D/D/D Oblivion King Abyss Ragnarok\" once per turn.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 3000,
   "level": 8,
-  "is_tuner": false,
-  "pendulum_text": "If you Special Summon a \"D/D\" monster(s), except during the Damage Step: You can target 1 \"D/D\" monster in your Graveyard; any battle damage your opponent takes becomes halved for the rest of this turn, also Special Summon that monster, and if you do, take 1000 damage. You can only use this effect of \"D/D/D Oblivion King Abyss Ragnarok\" once per turn.\n",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": false
 }

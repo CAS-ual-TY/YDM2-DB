@@ -3,7 +3,7 @@
   "name": "Dark Scorpion - Chick the Yellow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\n? Target 1 card on the field; return that target to the hand.\n? Look at the top card of their Deck, then return it to the top or bottom of the Deck.",
+  "text": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects.\n\u25cf Target 1 card on the field; return that target to the hand.\n\u25cf Look at the top card of their Deck, then place it on the top or bottom of the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61587183.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1000,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": false

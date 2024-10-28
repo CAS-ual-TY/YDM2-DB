@@ -1,0 +1,21 @@
+{
+  "id": 11825276,
+  "name": "Meizen the Battle Ninja",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Ninja\" monsters with different Types\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing the above cards you control. Your \"Ninja\" monsters can attack directly. While you control a face-down Defense Position monster, your opponent's monsters cannot target this card for attacks. When your opponent activates a card or effect (Quick Effect): You can Special Summon 1 \"Ninja\" monster from your Deck in face-up or face-down Defense Position. You can only use this effect of \"Meizen the Battle Ninja\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/11825276.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
+}

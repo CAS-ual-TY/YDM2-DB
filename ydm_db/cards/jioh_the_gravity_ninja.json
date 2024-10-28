@@ -1,0 +1,21 @@
+{
+  "id": 92962242,
+  "name": "Jioh the Gravity Ninja",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal/Special Summoned, or flipped face-up: You can target up to 2 face-up monsters on the field; change them to face-down Defense Position, and if you do, any opponent's monsters that were flipped by this effect cannot change their battle positions. If a monster on the field is flipped face-up, while this monster is face-up on the field (except during the Damage Step): You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Jioh the Gravity Ninja\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/92962242.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Rock",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
+}

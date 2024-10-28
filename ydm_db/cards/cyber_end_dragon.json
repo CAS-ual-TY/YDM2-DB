@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/1546123.jpg",
-    "https://images.ygoprodeck.com/images/cards/1546124.jpg"
+    "https://images.ygoprodeck.com/images/cards/1546123.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 4000,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2800,
   "level": 10,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 27693363,
+  "name": "Ursarctic Polari",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 monsters you control with a Level difference of 1 to the GY (1 Tuner and 1 non-Tuner). If this card is Special Summoned: You can activate 1 \"Ursarctic Big Dipper\" directly from your Deck. You can Tribute 1 Level 7 or higher monster; add to your hand, or Special Summon, 1 \"Ursarctic\" monster from your GY. You can only use each effect of \"Ursarctic Polari\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/27693363.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 700,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1000,
+  "level": 1,
+  "is_tuner": false
+}

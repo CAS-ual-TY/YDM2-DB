@@ -1,0 +1,21 @@
+{
+  "id": 13298352,
+  "name": "Yaguramaru the Armor Ninja",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Ninja\" monsters with different Types\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing the above cards. If this card is Special Summoned or flipped face-up: You can banish 1 other \"Ninja\" or \"Ninjitsu Art\" card from your hand, GY, or face-up field, then target 1 card on the field; banish it. You can only use this effect of \"Yaguramaru the Armor Ninja\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/13298352.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

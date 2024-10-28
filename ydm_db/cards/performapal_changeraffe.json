@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 100,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "When exactly 1 monster you control (and no other cards) is destroyed by battle: You can destroy this card, and if you do, Special Summon that monster destroyed by battle in Attack Position, and if you do that, it cannot be destroyed by battle this turn (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 500,
   "level": 1,
-  "is_tuner": false,
-  "pendulum_text": "When exactly 1 monster you control (and no other cards) is destroyed by battle: You can destroy this card, and if you do, Special Summon that monster destroyed by battle in Attack Position, and if you do that, it cannot be destroyed by battle this turn (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": false
 }

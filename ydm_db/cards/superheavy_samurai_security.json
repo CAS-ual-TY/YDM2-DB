@@ -1,0 +1,21 @@
+{
+  "id": 5182107,
+  "name": "Superheavy Samurai Security",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 face-up Machine Pendulum Monster from your Extra Deck to your hand. If you have no Spells/Traps in your GY: You can Tribute this card; Special Summon 1 EARTH Machine monster with 1500 or less ATK from your hand or GY, except \"Superheavy Samurai Security\". You can only use each effect of \"Superheavy Samurai Security\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/5182107.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

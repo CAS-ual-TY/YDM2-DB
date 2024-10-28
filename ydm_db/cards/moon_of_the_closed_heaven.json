@@ -1,0 +1,23 @@
+{
+  "id": 71818935,
+  "name": "Moon of the Closed Heaven",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\nYou can target 1 face-up monster your opponent controls this card points to; this turn, if you Link Summon a Link-5 monster using this card you control, you can also use that monster your opponent controls as material. You can only use this effect of \"Moon of the Closed Heaven\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71818935.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Top",
+    "Top-Right"
+  ]
+}

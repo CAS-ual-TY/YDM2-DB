@@ -3,7 +3,7 @@
   "name": "Speedroid Horse Stilts",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Speedroid\" monster from your hand. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; send 1 WIND monster from your Deck to the Graveyard. You can only use this effect of \"Speedroid Horse Stilts\" once per turn.",
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Speedroid\" monster from your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; send 1 WIND monster from your Deck to the GY. You can only use this effect of \"Speedroid Horse Stilts\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17328157.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1100,
   "level": 4,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Performapal Card Gardna",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card gains DEF equal to the combined original DEF of all other \"Performapal\" monsters you control.",
+  "text": "Gains DEF equal to the combined original DEF of all other \"Performapal\" monsters you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37256334.jpg"
   ],
@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 face-up Defense Position monster you control; its DEF becomes equal to the combined original DEF of all face-up Defense Position monsters you currently control (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
   "def": 1000,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can target 1 face-up Defense Position monster you control; its DEF becomes the combined original DEF of all face-up Defense Position monsters you control (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "is_tuner": false
 }

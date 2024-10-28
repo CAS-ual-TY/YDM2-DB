@@ -1,0 +1,21 @@
+{
+  "id": 11522479,
+  "name": "Battlin' Boxer Uppercutter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Battlin' Boxer\" monster or 1 \"Counter\" Counter Trap from your Deck to your hand, except \"Battlin' Boxer Uppercutter\". If this card is sent to the GY by card effect: You can activate 1 of these effects;\n\u25cf Special Summon 1 \"Battlin' Boxer\" monster from your GY, except \"Battlin\u2019 Boxer Uppercutter\".\n\u25cf Set 1 \"Counter\" Counter Trap from your GY to your field.\nYou can only use 1 \"Battlin' Boxer Uppercutter\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/11522479.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

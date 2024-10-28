@@ -3,7 +3,7 @@
   "name": "Odd-Eyes Rebellion Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 7 Dragon-Type monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as a Material: Destroy as many Level 7 or lower monsters your opponent controls as possible, inflict 1000 damage to your opponent for each card destroyed, and if you do, this card can make 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.",
+  "text": "2 Level 7 Dragon monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as material: Destroy as many Level 7 or lower monsters your opponent controls as possible, and if you do, inflict 1000 damage to your opponent for each card destroyed, also this card can make 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45627618.jpg"
   ],
@@ -11,13 +11,13 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Dragon",
-  "monster_type": "Xyz",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
-  "def": 2500,
-  "rank": 7,
-  "pendulum_text": "Once per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.\n",
+  "monster_type": "Xyz",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.",
   "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4
+  "pendulum_scale_right_red": 4,
+  "def": 2500,
+  "rank": 7
 }

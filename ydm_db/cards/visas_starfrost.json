@@ -1,0 +1,21 @@
+{
+  "id": 56099748,
+  "name": "Visas Starfrost",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your hand: You can target 1 monster you control with a different Type and Attribute than this card; destroy that monster, and if you do, Special Summon this card. You can only use this effect of \"Visas Starfrost\" once per turn. When this card destroys an opponent's monster by battle: You can make this card gain ATK equal to half the original ATK or DEF of that monster (whichever is higher, your choice if tied).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/56099748.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": true
+}

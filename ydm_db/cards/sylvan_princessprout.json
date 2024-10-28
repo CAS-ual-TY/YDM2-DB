@@ -3,7 +3,7 @@
   "name": "Sylvan Princessprout",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can only activate each effect of \"Sylvan Princessprout\" once per turn.\n? You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n? If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
+  "text": "You can only activate each effect of \"Sylvan Princessprout\" once per turn.\n\u25cf You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n\u25cf If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20579538.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 100,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

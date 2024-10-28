@@ -1,0 +1,21 @@
+{
+  "id": 55349196,
+  "name": "Double-Headed Dino King Rex",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon \"Double-Headed Dino King Rex\" once per turn this way. If this card is Normal or Special Summoned: You can target 1 monster on the field with less ATK than the total ATK of all Dinosaur monsters you control; destroy it. You can only use this effect of \"Double-Headed Dino King Rex\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55349196.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

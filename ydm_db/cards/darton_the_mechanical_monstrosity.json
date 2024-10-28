@@ -1,0 +1,21 @@
+{
+  "id": 86271510,
+  "name": "Darton the Mechanical Monstrosity",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, during your Main Phase: You can check the difference between the current and original ATK of each monster on the field, add up the total of each of those differences, and make this monster's original ATK become that combined amount until the end of your opponent's next turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/86271510.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": -1,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

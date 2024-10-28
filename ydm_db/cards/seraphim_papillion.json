@@ -1,0 +1,24 @@
+{
+  "id": 91140491,
+  "name": "Seraphim Papillion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters with different names\nGains 200 ATK for each counter on it. You can only use 1 of the following effects of \"Seraphim Papillion\" per turn, and only once that turn.\n\u25cf If this card is Link Summoned: Place 1 counter on this card for each Insect monster used as its Link Material.\n\u25cf (Quick Effect): You can remove 1 counter from this card; Special Summon 1 Level 4 or lower Insect monster from your GY in Defense Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/91140491.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2100,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Top",
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

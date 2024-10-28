@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 200,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 2,
   "is_tuner": false

@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1700,
   "species": "Fish",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1600,
   "level": 5,
   "is_tuner": false

@@ -5,21 +5,20 @@
   "is_custom": false,
   "text": "2+ Effect Monsters\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/1861629.jpg",
-    "https://images.ygoprodeck.com/images/cards/1861630.jpg"
+    "https://images.ygoprodeck.com/images/cards/1861629.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2300,
   "species": "Cyberse",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 3,
   "link_arrows": [
     "Top",
-    "Bottom-Left",
-    "Bottom-Right"
+    "Bottom-Right",
+    "Bottom-Left"
   ]
 }

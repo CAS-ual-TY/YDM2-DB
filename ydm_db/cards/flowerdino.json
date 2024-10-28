@@ -1,0 +1,21 @@
+{
+  "id": 10851853,
+  "name": "Flowerdino",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. You can only use each of the following effects of \"Flowerdino\" once per turn. If you activate a Trap Card or effect, or your opponent activates a Spell Card or effect: You can Special Summon this card from your hand. If this card is sent to the GY: You can target 3 banished Spells/Traps; place them on the bottom of the appropriate Deck(s) in any order, then draw 1 card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10851853.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

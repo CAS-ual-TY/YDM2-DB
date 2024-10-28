@@ -1,0 +1,24 @@
+{
+  "id": 95515518,
+  "name": "The Weather Painter Moonbow",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 \"The Weather\" monsters\nIf this card is Link Summoned: You can Special Summon 1 of your banished \"The Weather\" monsters. If this Link Summoned card is destroyed: You can Special Summon 1 \"The Weather Painter Rainbow\" from your Extra Deck. \"The Weather\" Effect Monsters this card points to gain the following effect.\n\u25cf (Quick Effect): You can banish this card, then target 1 monster your opponent controls; banish it until the Standby Phase of the next turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/95515518.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom",
+    "Bottom-Left"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13836592,
+  "name": "Behemoth the King of a Hundred Battles",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute Summon this card by Tributing 1 monster. This card is unaffected by the activated effects of Special Summoned monsters if it was Normal Summoned/Set. If this card is Normal or Special Summoned: You can target 1 Beast, Beast-Warrior, or Winged Beast monster in your GY; add it to your hand, and if you do, this card loses 700 ATK. Once per turn, during your End Phase: You can make this card gain 700 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/13836592.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2700,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 10,
+  "is_tuner": false
+}

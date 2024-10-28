@@ -1,0 +1,21 @@
+{
+  "id": 55125728,
+  "name": "Vera the Vernusylph Goddess",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, when a monster effect activated by your opponent resolves, if you control 5 or more EARTH monsters, you can negate that effect, and if you do, destroy that card. You can only use each of the following effects of \"Vera the Vernusylph Goddess\" once per turn. You can target 1 face-up monster your opponent controls; take control of it, and if you do, it becomes EARTH. During your opponent's turn (Quick Effect): You can target 1 EARTH monster in your GY; Special Summon it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55125728.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
+}

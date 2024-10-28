@@ -3,7 +3,7 @@
   "name": "Number 65: Djinn Buster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 2 DARK monsters\nDuring either player's turn, when an effect of an opponent's monster is activated: You can detach 2 Xyz Materials from this card; negate the activation, and if you do, inflict 500 damage to your opponent.",
+  "text": "2 Level 2 DARK monsters\nWhen your opponent activates a monster effect (Quick Effect): You can detach 2 materials from this card; negate the activation, and if you do, inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3790062.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1300,
   "species": "Fiend",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 0,
   "rank": 2
 }

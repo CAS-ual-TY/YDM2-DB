@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "1 \"Shaddoll\" monster + 1 LIGHT monster\nMust first be Fusion Summoned. If this card is Special Summoned: You can send 1 \"Shaddoll\" card from your Deck to the GY. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/20366274.jpg",
-    "https://images.ygoprodeck.com/images/cards/20366275.jpg"
+    "https://images.ygoprodeck.com/images/cards/20366274.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,
   "species": "Fairy",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2500,
   "level": 8,
   "is_tuner": false

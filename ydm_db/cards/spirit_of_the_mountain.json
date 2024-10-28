@@ -1,0 +1,21 @@
+{
+  "id": 34690519,
+  "name": "Spirit of the Mountain",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An elderly magician that raises mountains with his flute.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/34690519.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

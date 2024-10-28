@@ -1,0 +1,21 @@
+{
+  "id": 44175358,
+  "name": "Splitting Planarian",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish this card you control; Special Summon 2 Level 3 Insect monsters from your Deck with the same name from each other, but their effects are negated, also banish them during the End Phase. You can only use this effect of \"Splitting Planarian\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44175358.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

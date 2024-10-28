@@ -3,7 +3,7 @@
   "name": "Stardust Xiaolong",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you Synchro Summon \"Stardust Dragon\", you can Special Summon this card from your Graveyard in face-up Attack Position. Once per turn, if this card would be destroyed by battle, it is not destroyed.",
+  "text": "When you Synchro Summon \"Stardust Dragon\": You can Special Summon this card from your GY in Attack Position. Each turn, the first time this card would be destroyed by battle, it is not destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68543408.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 100,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

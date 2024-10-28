@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2600,
   "species": "Rock",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1900,
   "rank": 4
 }

@@ -11,14 +11,14 @@
   "attribute": "WATER",
   "atk": 2100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 400,
   "level": 5,
-  "is_tuner": false,
-  "pendulum_text": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

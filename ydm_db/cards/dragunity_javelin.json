@@ -3,7 +3,7 @@
   "name": "Dragunity Javelin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this face-up card is destroyed while in the Monster Card Zone, you can equip it to 1 face-up Winged Beast-Type \"Dragunity\" monster you control, instead of sending it to the Graveyard.",
+  "text": "If this face-up card is destroyed while in a Monster Zone, you can equip it to 1 Winged Beast \"Dragunity\" monster you control, instead of sending it to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80549379.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 1200,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 2,
   "is_tuner": true

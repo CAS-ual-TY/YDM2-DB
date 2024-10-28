@@ -3,7 +3,7 @@
   "name": "Cyber Slash Harpie Lady",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nFor this card's Synchro Summon, you can treat 1 \"Harpie\" monster you control as a Tuner. This card's name becomes \"Harpie Lady\" while on the field or in the GY. When a Spell/Trap Card or effect is activated (Quick Effect): You can target 1 monster your opponent controls or 1 \"Harpie\" monster you control; return it to the hand. You can only use this effect of \"Cyber Slash Harpie Lady\" once per turn.",
+  "text": "1 Tuner + 1+ non-Tuner monsters\nFor this card's Synchro Summon, you can treat 1 \"Harpie\" monster you control as a Tuner. This card's name becomes \"Harpie Lady\" while on the field or in the GY. When a Spell/Trap Card or effect is activated (except during the Damage Step) (Quick Effect): You can target 1 monster your opponent controls or 1 \"Harpie\" monster you control; return it to the hand. You can only use this effect of \"Cyber Slash Harpie Lady\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63261835.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 2600,
   "species": "Winged Beast",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1400,
   "level": 8,
   "is_tuner": false

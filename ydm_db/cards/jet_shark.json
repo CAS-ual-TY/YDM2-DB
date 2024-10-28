@@ -1,0 +1,21 @@
+{
+  "id": 90315086,
+  "name": "Jet Shark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a WATER Xyz Monster is on the field, you can Special Summon this card (from your hand). If Summoned this way, you cannot Special Summon \"Jet Shark\" for the rest of this turn. You can only use 1 of the following effects of \"Jet Shark\" per turn, and only once that turn. During your Main Phase: You can send 1 Fish \"Shark\" monster or 1 \"Xyz\" Spell/Trap from your Deck to the GY. You can banish this card from your GY; add 1 \"Aqua Jet\" card from your Deck or GY to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/90315086.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

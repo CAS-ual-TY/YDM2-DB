@@ -1,0 +1,21 @@
+{
+  "id": 67841515,
+  "name": "Barrel Lily",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This wicked flower attacks enemies with pollen projectiles.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/67841515.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

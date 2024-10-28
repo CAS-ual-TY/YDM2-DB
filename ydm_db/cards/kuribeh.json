@@ -1,0 +1,21 @@
+{
+  "id": 34419588,
+  "name": "Kuribeh",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Kuriboh\" card.)\n(Quick Effect): You can discard this card, then target 1 \"Kuriboh\" monster you control; it gains 1500 ATK. You can Tribute this card you control and 1 each of \"Kuribah\", \"Kuribee\", \"Kuriboo\" and \"Kuriboh\" from your hand and/or field; add 1 \"Kuribandit\" from your Deck or GY to your hand, then, immediately after this effect resolves, you can Normal Summon 1 Fiend monster from your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/34419588.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 300,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

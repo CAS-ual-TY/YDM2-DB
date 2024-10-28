@@ -1,0 +1,21 @@
+{
+  "id": 33202303,
+  "name": "Earthbound Servant Geo Gremlina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Earthbound\" monster + 1 DARK monster\nIf this card is Special Summoned: You can add 1 \"Earthbound\" monster from your Deck to your hand. You can target 1 DARK Synchro Monster you control; it can attack directly this turn. If a monster(s) your opponent controls is destroyed by an \"Earthbound\" card effect (except during the Damage Step): You can target 1 of those destroyed monsters; inflict damage to your opponent equal to that monster's original ATK. You can only use each effect of \"Earthbound Servant Geo Gremlina\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33202303.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

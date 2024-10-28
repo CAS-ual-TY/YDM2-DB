@@ -1,0 +1,21 @@
+{
+  "id": 77590412,
+  "name": "Puppet Rook",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can change this card to Defense Position, and if you do, send 1 EARTH Warrior monster from your Deck to your GY. Monsters your opponent controls that can attack must attack this card. Once per turn, when this card is targeted for an attack: You can target 1 Level 6 or higher EARTH Warrior monster in your GY; send this card from the field to the GY, and if you do, Special Summon that monster, then change the attack target to it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/77590412.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

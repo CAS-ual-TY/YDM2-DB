@@ -3,7 +3,7 @@
   "name": "Ally of Justice Omni-Weapon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys a LIGHT monster by battle and sends it to the Graveyard, draw 1 card. If that card is a Level 4 or lower DARK monster, you can reveal that card to Special Summon it.",
+  "text": "If this card destroys a LIGHT monster by battle and sends it to the GY: Draw 1 card, then if you drew a Level 4 or lower DARK monster, you can reveal that card and Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45450218.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2200,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 5,
   "is_tuner": false

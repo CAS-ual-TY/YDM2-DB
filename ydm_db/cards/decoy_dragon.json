@@ -3,7 +3,7 @@
   "name": "Decoy Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is targeted for an attack: Target 1 Level 7 or higher Dragon-Type monster in your Graveyard; Special Summon it, and if you do, change the attack target to it and perform damage calculation.",
+  "text": "If this card is targeted for an attack: Target 1 Level 7 or higher Dragon monster in your GY; Special Summon it, and if you do, change the attack target to it and perform damage calculation.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2732323.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 300,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 2,
   "is_tuner": false

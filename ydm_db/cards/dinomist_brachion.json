@@ -11,14 +11,14 @@
   "attribute": "WATER",
   "atk": 2000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.",
+  "pendulum_scale_left_blue": 6,
+  "pendulum_scale_right_red": 6,
   "def": 800,
   "level": 5,
-  "is_tuner": false,
-  "pendulum_text": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.\n",
-  "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "is_tuner": false
 }

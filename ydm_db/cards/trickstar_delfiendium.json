@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 2200,
   "species": "Fairy",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 3,
   "link_arrows": [
-    "Bottom-Left",
     "Top",
-    "Bottom-Right"
+    "Bottom-Right",
+    "Bottom-Left"
   ]
 }

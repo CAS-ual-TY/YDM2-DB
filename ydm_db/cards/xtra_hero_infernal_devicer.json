@@ -3,7 +3,7 @@
   "name": "Xtra HERO Infernal Devicer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials listed on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. Fiend monsters this card points to gain ATK/DEF equal to its Level x 100.",
+  "text": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials mentioned on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. Fiend monsters this card points to gain ATK/DEF equal to its Level x 100.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19324993.jpg"
   ],
@@ -11,13 +11,13 @@
   "attribute": "DARK",
   "atk": 1700,
   "species": "Fiend",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 2,
   "link_arrows": [
-    "Bottom-Left",
-    "Bottom"
+    "Bottom",
+    "Bottom-Left"
   ]
 }

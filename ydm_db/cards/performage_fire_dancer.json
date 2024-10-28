@@ -1,0 +1,24 @@
+{
+  "id": 7934362,
+  "name": "Performage Fire Dancer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Performage\" monster from your Deck to your hand, except \"Performage Fire Dancer\". You can only use this effect of \"Performage Fire Dancer\" once per turn. If this card on the field is destroyed by battle or card effect: You can target 1 face-up monster on the field; it loses 500 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/7934362.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1400,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 \"Performage\" monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent.",
+  "pendulum_scale_left_blue": 6,
+  "pendulum_scale_right_red": 6,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

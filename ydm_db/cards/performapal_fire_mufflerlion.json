@@ -11,14 +11,14 @@
   "attribute": "FIRE",
   "atk": 800,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 800,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.\n",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": false
 }

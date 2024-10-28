@@ -1,0 +1,21 @@
+{
+  "id": 30983281,
+  "name": "Accel Synchro Stardust Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can Special Summon 1 Level 2 or lower Tuner from your GY. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Stardust Dragon\" from your Extra Deck (this is treated as a Synchro Summon), then, immediately after this effect resolves, Synchro Summon using monsters you control as material. For the rest of this turn, the monsters Synchro Summoned by this effect are unaffected by your opponent's activated effects. You can only use each effect of \"Accel Synchro Stardust Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/30983281.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

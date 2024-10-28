@@ -3,7 +3,7 @@
   "name": "Battlin' Boxer Switchitter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 1 \"Battlin' Boxer\" monster in your Graveyard; Special Summon that target. You cannot Special Summon any monsters during the turn you activate this effect, except \"Battlin' Boxer\" monsters.",
+  "text": "When this card is Normal Summoned: You can target 1 \"Battlin' Boxer\" monster in your GY; Special Summon it. You cannot Special Summon any monsters during the turn you activate this effect, except \"Battlin' Boxer\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68144350.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 1500,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,24 @@
+{
+  "id": 43210483,
+  "name": "Symphonic Warrior Guitariss",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If \"Symph Amplifire\" is in your Field Zone: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 card in your Pendulum Zone; return it to the hand. You can only use each effect of \"Symphonic Warrior Guitariss\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43210483.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1100,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You can target 1 other \"Symphonic Warrior\" card you control; return both that card and this card to the hand. You can only use this effect of \"Symphonic Warrior Guitariss\" once per turn.",
+  "pendulum_scale_left_blue": 0,
+  "pendulum_scale_right_red": 0,
+  "def": 500,
+  "level": 3,
+  "is_tuner": true
+}

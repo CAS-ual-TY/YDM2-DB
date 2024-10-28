@@ -3,18 +3,18 @@
   "name": "Lavalval Chain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;\n? Send 1 card from your Deck to the Graveyard.\n? Choose 1 monster from your Deck and place it on top of your Deck.",
+  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;\n\u25cf Send 1 card from your Deck to the Graveyard.\n\u25cf Choose 1 monster from your Deck and place it on top of your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34086406.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1800,
-  "species": "Sea Serpent",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1000,
   "rank": 4
 }

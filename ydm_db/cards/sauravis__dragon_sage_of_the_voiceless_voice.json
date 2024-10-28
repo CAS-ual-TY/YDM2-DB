@@ -1,0 +1,21 @@
+{
+  "id": 88284599,
+  "name": "Sauravis, Dragon Sage of the Voiceless Voice",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) by shuffling 2 Spells from your hand and/or GY into the Deck, including a Ritual Spell. You can only Special Summon \"Sauravis, Dragon Sage of the Voiceless Voice\" once per turn this way. When your opponent activates a card or effect (Quick Effect): You can return this card from the field to the hand; Special Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand or Deck, but shuffle it into the Deck during the End Phase of the next turn. You can only use this effect of \"Sauravis, Dragon Sage of the Voiceless Voice\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/88284599.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2600,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2800,
+  "level": 7,
+  "is_tuner": false
+}

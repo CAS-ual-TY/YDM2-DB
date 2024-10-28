@@ -3,7 +3,7 @@
   "name": "Fallen Angel of Roses",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) by returning 1 Plant-Type monster you control to the hand, except \"Fallen Angel of Roses\", but banish it when it leaves the field.",
+  "text": "You can Special Summon this card (from your hand) by returning 1 Plant monster you control to the hand, except \"Fallen Angel of Roses\", but banish it when it leaves the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49674183.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2400,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 7,
   "is_tuner": false

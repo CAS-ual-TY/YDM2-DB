@@ -1,0 +1,21 @@
+{
+  "id": 95824983,
+  "name": "Electric Jellyfish",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send 1 \"Umi\" from your hand, Deck, or face-up field to the GY; Special Summon 1 WATER monster from your hand. When your opponent activates a monster effect, or Spell Card or effect, while \"Umi\" is on the field (Quick Effect): You can negate that effect, then, you can make this card gain 600 ATK/DEF. You can only use each effect of \"Electric Jellyfish\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/95824983.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
+}

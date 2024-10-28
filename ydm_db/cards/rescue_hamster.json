@@ -3,7 +3,7 @@
   "name": "Rescue Hamster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the turn this card was Normal Summoned, if you have a face-up Level 5 or lower Pendulum Monster Card in your Extra Deck: You can Tribute this card; choose 1 Level 5 or lower Pendulum Monster Card in your Extra Deck, and Special Summon 2 monsters from your Deck with the same name as that card, but their effects are negated, also they are destroyed during the End Phase.",
+  "text": "If this card was Normal Summoned this turn and you have a face-up Level 5 or lower Pendulum Monster Card in your Extra Deck: You can Tribute this card; choose 1 face-up Level 5 or lower Pendulum Monster Card in your Extra Deck, and Special Summon 2 monsters from your Deck with the same name as that card, but they have their effects negated, also they are destroyed during the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50485594.jpg"
   ],
@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 300,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5,
   "def": 100,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "You can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.\n",
-  "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "is_tuner": false
 }

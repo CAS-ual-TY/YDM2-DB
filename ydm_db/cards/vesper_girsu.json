@@ -1,0 +1,12 @@
+{
+  "id": 97345699,
+  "name": "Vesper Girsu",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent controls 2 or more monsters than you do: They can send any number of monsters they control to the GY, after which you apply the following effect based on the number of monsters your opponent controls.\n\u25cf 0: Your LP becomes halved.\n\u25cf 1: Your opponent gains 2000 LP.\n\u25cf 2: Banish all cards in your opponent's hand face-up, until the End Phase.\n\u25cf 3+: Your opponent cannot activate monster effects this turn.\nYou can only activate 1 \"Vesper Girsu\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/97345699.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 48832775,
+  "name": "Dinomorphia Kentregina",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Dinomorphia\" monsters with different names\nLoses ATK equal to your LP. You can only use each of the following effects of \"Dinomorphia Kentregina\" once per turn. During the Main Phase (Quick Effect): You can pay half your LP and banish 1 \"Dinomorphia\" Normal Trap from your GY; this effect becomes that Trap's effect when that card is activated. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower \"Dinomorphia\" monster from your GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/48832775.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4000,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

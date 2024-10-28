@@ -1,0 +1,20 @@
+{
+  "id": 83827392,
+  "name": "Expurrely Noir",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 7 monsters\nYou can also Xyz Summon this card by using a Rank 2 monster you control with 5 or more materials. (Transfer its materials to this card.) This card is unaffected by your opponent's activated effects while it has 5 or more materials. You can detach 2 materials from this card, then target 1 card your opponent controls or in their GY; place it on the bottom of the Deck. This is a Quick Effect if this card has a Level 1 \"Purrely\" monster as material.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/83827392.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1100,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2800,
+  "rank": 7
+}

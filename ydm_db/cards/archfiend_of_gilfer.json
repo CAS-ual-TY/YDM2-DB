@@ -3,7 +3,7 @@
   "name": "Archfiend of Gilfer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card.",
+  "text": "When this card is sent to the GY: You can target 1 face-up monster on the field; equip this card to that target. That monster loses 500 ATK while equipped with this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50287060.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2200,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2500,
   "level": 6,
   "is_tuner": false

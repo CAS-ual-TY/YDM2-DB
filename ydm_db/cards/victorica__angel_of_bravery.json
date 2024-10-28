@@ -1,0 +1,21 @@
+{
+  "id": 79928401,
+  "name": "Victorica, Angel of Bravery",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Special Summoned: You can Special Summon 1 Level 5 or higher LIGHT monster from your hand, but you lose LP equal to its original ATK, also its ATK becomes doubled until the end of this turn. If this card in the Monster Zone is destroyed: You can banish 1 other Fairy monster from your GY; add 1 Fairy monster with the same Level as that monster from your Deck to your hand. You can only use each effect of \"Victorica, Angel of Bravery\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/79928401.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

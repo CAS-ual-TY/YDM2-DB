@@ -3,7 +3,7 @@
   "name": "Fabled Grimro",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a face-up \"Fabled\" monster: You can send this card from your hand to the Graveyard; add 1 \"Fabled\" monster from your Deck to your hand, except \"Fabled Grimro\".",
+  "text": "If you control a \"Fabled\" monster: You can send this card from your hand to the GY; add 1 \"Fabled\" monster from your Deck to your hand, except \"Fabled Grimro\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24040093.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1700,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 1876841,
+  "name": "Morphtronic Scannen",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Morphtronic\" monster from your hand.\n\u25cf Attack Position: Once per turn, during your Main Phase: You can add 1 \"Morphtronic\" Spell/Trap from your Deck to your hand, then place 1 card from your hand on top of the Deck.\n\u25cf Defense Position: Once per turn, during your Main Phase: You can add 1 Level 4 or lower \"Morphtronic\" monster from your GY to your hand, then place 1 card from your hand on top of the Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/1876841.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 6,
+  "is_tuner": true
+}

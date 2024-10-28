@@ -3,7 +3,7 @@
   "name": "Gogogo Gigas",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is in your Graveyard, if you Special Summon a \"Gogogo\" monster(s) (except during the Damage Step): You can Special Summon this card from your Graveyard in face-up Defense Position. You cannot conduct your Battle Phase the turn you activate this effect. You can only use the effect of \"Gogogo Gigas\" once per turn.",
+  "text": "While this card is in your GY, if you Special Summon a \"Gogogo\" monster(s) (except during the Damage Step): You can Special Summon this card from your GY in face-up Defense Position. You cannot conduct your Battle Phase the turn you activate this effect. You can only use the effect of \"Gogogo Gigas\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19667590.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 0,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2200,
   "level": 4,
   "is_tuner": false

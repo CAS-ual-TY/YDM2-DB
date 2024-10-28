@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2800,
   "species": "Dragon",
-  "monster_type": "Fusion",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "Fusion",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, during your Main Phase: You can place 1 Venemy Counter on each face-up monster your opponent controls. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 2000,
   "level": 8,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, during your Main Phase: You can place 1 Venemy Counter on each face-up monster your opponent controls. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field.\n",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

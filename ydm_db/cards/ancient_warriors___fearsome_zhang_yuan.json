@@ -3,7 +3,7 @@
   "name": "Ancient Warriors - Fearsome Zhang Yuan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All other \"Ancient Warriors\" monsters you control cannot be destroyed by battle. You can only use each of the following effects of \"Ancient Warriors - Fearsome Zhang Yuan\" once per turn.\n? At the start of the Damage Step, when your \"Ancient Warriors\" monster battles an opponent's face-up monster: You can Special Summon this card from your hand, and if you do, that opponent's monster loses 1000 ATK.\n? If a card(s) your opponent controls is destroyed by battle or card effect: You can target 1 card your opponent controls; destroy it.",
+  "text": "All other \"Ancient Warriors\" monsters you control cannot be destroyed by battle. You can only use each of the following effects of \"Ancient Warriors - Fearsome Zhang Yuan\" once per turn.\n\u25cf At the start of the Damage Step, when your \"Ancient Warriors\" monster battles an opponent's face-up monster: You can Special Summon this card from your hand, and if you do, that opponent's monster loses 1000 ATK.\n\u25cf If a card(s) your opponent controls is destroyed by battle or card effect: You can target 1 card your opponent controls; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60033398.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2300,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 6,
   "is_tuner": false

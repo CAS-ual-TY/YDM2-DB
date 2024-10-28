@@ -11,13 +11,13 @@
   "attribute": "DARK",
   "atk": 800,
   "species": "Dragon",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 2,
   "link_arrows": [
-    "Left",
-    "Bottom"
+    "Bottom",
+    "Left"
   ]
 }

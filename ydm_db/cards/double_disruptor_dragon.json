@@ -1,0 +1,21 @@
+{
+  "id": 93612434,
+  "name": "Double Disruptor Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute this card, then target 2 \"Rokket\" monsters in your GY with different names; Special Summon them in Defense Position. You can banish this card from your GY; add 1 \"Rapid Trigger\" or \"Heavy Interlock\" from your Deck or GY to your hand. You can only use each effect of \"Double Disruptor Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/93612434.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
+}

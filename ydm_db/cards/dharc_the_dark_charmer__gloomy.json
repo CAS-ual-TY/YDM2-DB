@@ -1,0 +1,23 @@
+{
+  "id": 8264361,
+  "name": "Dharc the Dark Charmer, Gloomy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters, including a DARK monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 DARK monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 DARK monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Dharc the Dark Charmer, Gloomy\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/8264361.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1850,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

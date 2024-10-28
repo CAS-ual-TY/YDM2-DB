@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 1850,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your hand that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 2700,
   "level": 7,
-  "is_tuner": false,
-  "pendulum_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your hand that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

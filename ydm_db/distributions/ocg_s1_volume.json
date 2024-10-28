@@ -1,0 +1,416 @@
+{
+	"name": "ocg_s1_volume",
+	"pulls": [
+		{
+			"weight": 1356814,
+			"entries": [
+				{
+					"count": 5,
+					"rarities": [
+						"Common"
+					]
+				}
+			]
+		},
+		{
+			"weight": 406529,
+			"entries": [
+				{
+					"count": 4,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Normal Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 35593,
+			"entries": [
+				{
+					"count": 4,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 69652,
+			"entries": [
+				{
+					"count": 4,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Super Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 32432,
+			"entries": [
+				{
+					"count": 4,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 3342,
+			"entries": [
+				{
+					"count": 4,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 209,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Normal Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 209,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Normal Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Super Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 97,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 3,
+					"rarities": [
+						"Normal Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 10,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Normal Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 1827,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Super Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 850,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 88,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			],
+		},
+		{
+			"weight": 1665,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Super Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				}
+			],
+		},
+		{
+			"weight": 171,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Super Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			],
+		},
+		{
+			"weight": 80,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Ultra Rare"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 12,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 2,
+					"rarities": [
+						"Normal Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 933,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 2,
+					"rarities": [
+						"Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 3576,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 2,
+					"rarities": [
+						"Super Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 775,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 2,
+					"rarities": [
+						"Ultra Rare"
+					]
+				}
+			]
+		},
+		{
+			"weight": 8,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 2,
+					"rarities": [
+						"Secret Rare"
+					]
+				}
+			]
+		}
+	]
+}

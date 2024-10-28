@@ -3,7 +3,7 @@
   "name": "Toon Goblin Attack Force",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon Monsters, this card can attack your opponent directly. If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
+  "text": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15270885.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2300,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Toon",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

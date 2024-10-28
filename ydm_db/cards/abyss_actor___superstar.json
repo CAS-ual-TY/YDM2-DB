@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2500,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 1800,
   "level": 7,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

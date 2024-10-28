@@ -1,0 +1,21 @@
+{
+  "id": 89016236,
+  "name": "Poeltis de Nouvelles",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can draw 1 card. When a card or effect is activated that targets a monster on the field, or when a monster is targeted for an attack (Quick Effect): You can Tribute 1 \"Nouvelles\" monster you control and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 4 or 5 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Poeltis de Nouvelles\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/89016236.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 1850,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 32175429,
+  "name": "Heroic Call",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summon 1 Warrior monster from your hand or GY, but if you Special Summoned a non-\"Heroic\" monster by this effect, negate its effects, also it cannot attack. If your LP are 500 or less: You can banish this card from your GY, then target 1 face-up monster you control; it gains 500 ATK for each \"Heroic\" card you currently control, and for each \"Heroic\" card attached to Xyz Monsters you currently control. You can only activate 1 \"Heroic Call\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32175429.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

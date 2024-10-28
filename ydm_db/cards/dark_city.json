@@ -3,7 +3,7 @@
   "name": "Dark City",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a \"Destiny HERO\" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.",
+  "text": "If a \"Destiny HERO\" monster attacks a monster with a higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53527835.jpg"
   ],

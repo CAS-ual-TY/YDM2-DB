@@ -3,7 +3,7 @@
   "name": "Blizzed, Defender of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "text": "If this card is destroyed by battle and sent to the GY: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60161788.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 300,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 1,
   "is_tuner": false

@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2000,
   "species": "Cyberse",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 900,
   "rank": 3
 }

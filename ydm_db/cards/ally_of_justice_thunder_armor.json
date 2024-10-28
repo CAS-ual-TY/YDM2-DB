@@ -3,7 +3,7 @@
   "name": "Ally of Justice Thunder Armor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Special Summoned. During the battle between an attacking \"Ally of Justice\" monster you control and a Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent.",
+  "text": "Cannot be Special Summoned. If your \"Ally of Justice\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71438011.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2700,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2200,
   "level": 8,
   "is_tuner": false

@@ -1,0 +1,21 @@
+{
+  "id": 71277255,
+  "name": "Mannadium Riumheart",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 \"Mannadium\" monster you control or 1 monster you control with 1500 ATK/2100 DEF; destroy it, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Mannadium\" card from your Deck to your hand, except \"Mannadium Riumheart\". You can only use each effect of \"Mannadium Riumheart\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71277255.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
+}

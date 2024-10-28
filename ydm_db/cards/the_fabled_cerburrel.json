@@ -3,7 +3,7 @@
   "name": "The Fabled Cerburrel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is discarded to the Graveyard: Special Summon it.",
+  "text": "If this card is discarded to the GY: Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82888408.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1000,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 2,
   "is_tuner": true

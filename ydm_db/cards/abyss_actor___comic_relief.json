@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 1000,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You can target 1 \"Abyss Actor\" Pendulum Monster you control and 1 monster your opponent controls; switch control of both monsters, then destroy this card. You can only use this effect of \"Abyss Actor - Comic Relief\" once per turn.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
   "def": 2000,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "You can target 1 \"Abyss Actor\" Pendulum Monster you control and 1 monster your opponent controls; switch control of both monsters, then destroy this card. You can only use this effect of \"Abyss Actor - Comic Relief\" once per turn.\n",
-  "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "is_tuner": false
 }

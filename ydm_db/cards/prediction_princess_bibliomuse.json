@@ -1,0 +1,21 @@
+{
+  "id": 66069967,
+  "name": "Prediction Princess Bibliomuse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: You can add 1 \"Prediction Princess\" monster, except \"Prediction Princess Bibliomuse\", and 1 Ritual Spell from your Deck to your hand.\nIf this card is Tributed and sent to the GY: You can Special Summon this card in face-down Defense Position.\nYou can only use each of the preceding effects of \"Prediction Princess Bibliomuse\" once per turn. Your opponent cannot target Ritual Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/66069967.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2500,
+  "species": "Fairy",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 9,
+  "is_tuner": false
+}

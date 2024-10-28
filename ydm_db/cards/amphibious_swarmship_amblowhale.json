@@ -3,7 +3,7 @@
   "name": "Amphibious Swarmship Amblowhale",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Effect Monsters\nGains 200 ATK for each Link Monster in the GYs. You can only use each of the following effects of \"Amphibious Swarmship Amblowhale\" once per turn.\n? If this card is destroyed: You can target 1 Link-3 or lower monster in either GY; Special Summon it.\n? If a Link-3 or lower monster(s) on the field is destroyed by battle or card effect while this card is in your GY: You can banish this card from your GY; destroy 1 card on the field.",
+  "text": "2+ Effect Monsters\nGains 200 ATK for each Link Monster in the GYs. You can only use each of the following effects of \"Amphibious Swarmship Amblowhale\" once per turn.\n\u25cf If this card is destroyed: You can target 1 Link-3 or lower monster in either GY; Special Summon it.\n\u25cf If a Link-3 or lower monster(s) on the field is destroyed by battle or card effect while this card is in your GY: You can banish this card from your GY; destroy 1 card on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20665527.jpg"
   ],
@@ -11,15 +11,15 @@
   "attribute": "FIRE",
   "atk": 2600,
   "species": "Machine",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 4,
   "link_arrows": [
-    "Left",
-    "Bottom",
+    "Right",
     "Bottom-Right",
-    "Right"
+    "Bottom",
+    "Left"
   ]
 }

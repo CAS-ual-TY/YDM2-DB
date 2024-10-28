@@ -3,7 +3,7 @@
   "name": "Elemental HERO Escuridao",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Elemental HERO\" monster + 1 DARK monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 100 ATK for each \"Elemental HERO\" monster in your Graveyard.",
+  "text": "1 \"Elemental HERO\" monster + 1 DARK monster\nMust be Fusion Summoned. Gains 100 ATK for each \"Elemental HERO\" monster in your GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33574806.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2500,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2000,
   "level": 8,
   "is_tuner": false

@@ -1,0 +1,12 @@
+{
+  "id": 47128571,
+  "name": "Hidden Fangs of Revenge",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Neither player can activate cards or effects in response to this card's activation. When a monster declares an attack: Destroy 2 Set cards you control, and if you do, negate that attack, then, if any Monster Cards were destroyed by this effect and sent to the GY, choose 1 and destroy as many monsters your opponent controls as possible with ATK less than or equal to that monster's DEF, then it becomes the End Phase. You can only activate 1 \"Hidden Fangs of Revenge\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47128571.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

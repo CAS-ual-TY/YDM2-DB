@@ -1,0 +1,21 @@
+{
+  "id": 16605586,
+  "name": "Destiny HERO - Denier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can take 1 of your \"Destiny HERO\" monsters from your Deck, GY, or that is banished, and place it on top of your Deck. You can only use this effect of \"Destiny HERO - Denier\" once per turn. If you have a \"Destiny HERO\" monster on your field or in your GY, other than \"Destiny HERO - Denier\": You can Special Summon this card from your GY. You can only use this effect of \"Destiny HERO - Denier\" once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/16605586.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
+}

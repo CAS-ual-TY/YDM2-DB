@@ -1,0 +1,21 @@
+{
+  "id": 27657173,
+  "name": "Red-Eyes Black Meteor Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can send 1 Level 5 or higher Normal Monster from your hand or Deck to the GY; Special Summon this card from your hand, then increase its Level by 1. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"Red-Eyes Fusion\" from your Deck or GY to your hand. You can only use each effect of \"Red-Eyes Black Meteor Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/27657173.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

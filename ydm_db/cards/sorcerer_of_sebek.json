@@ -1,0 +1,23 @@
+{
+  "id": 39767432,
+  "name": "Sorcerer of Sebek",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\nWhen this card or your monster this card points to inflicts battle damage to your opponent: You can gain that much LP. If a player gains LP, even during the Damage Step: You can make each player take 1000 damage. You can only use each effect of \"Sorcerer of Sebek\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/39767432.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

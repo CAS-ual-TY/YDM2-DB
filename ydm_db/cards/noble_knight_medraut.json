@@ -3,7 +3,7 @@
   "name": "Noble Knight Medraut",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is treated as a Normal Monster while face-up on the field. While equipped with a \"Noble Arms\" Equip Spell, this card becomes an Effect Monster with this effect.\n? This card becomes DARK and its Level is increased by 1. Once per turn, if you control no other monsters: You can Special Summon 1 \"Noble Knight\" monster from your Deck in Defense Position, except \"Noble Knight Medraut\", and if you do, destroy 1 Equip Spell you control.",
+  "text": "This card is treated as a Normal Monster while face-up on the field. While equipped with a \"Noble Arms\" Equip Spell, this card becomes an Effect Monster with this effect.\n\u25cf This card becomes DARK and its Level is increased by 1. Once per turn, if you control no other monsters: You can Special Summon 1 \"Noble Knight\" monster from your Deck in Defense Position, except \"Noble Knight Medraut\", and if you do, destroy 1 Equip Spell you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59057152.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1700,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,12 @@
+{
+  "id": 31213049,
+  "name": "XX-clusion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent activates a monster effect in their hand: Negate that activation, then if they have any cards in their hand, you discard 1 card from their hand (of their choice).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/31213049.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

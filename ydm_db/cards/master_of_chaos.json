@@ -1,0 +1,21 @@
+{
+  "id": 85059922,
+  "name": "Master of Chaos",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Dark Magician\" + 1 \"Chaos\" or \"Black Luster Soldier\" Ritual Monster\nIf this card is Fusion Summoned: You can target 1 LIGHT or DARK monster in your GY; Special Summon it. You can Tribute 1 LIGHT and 1 DARK monster; banish all monsters your opponent controls. If this Fusion Summoned card is destroyed by battle or card effect: You can target 1 Spell in your GY; add it to your hand. You can only use each effect of \"Master of Chaos\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/85059922.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

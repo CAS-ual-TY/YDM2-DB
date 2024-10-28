@@ -1,0 +1,24 @@
+{
+  "id": 56347375,
+  "name": "Ignis Phoenix, the Dracoslayer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as an \"Igknight\" card.)\nIf this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Dracoslayer\" or \"Igknight\" monster from your Deck, except \"Ignis Phoenix, the Dracoslayer\", and if you do, it is treated as a Tuner. You can only use this effect of \"Ignis Phoenix, the Dracoslayer\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/56347375.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1700,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "During your Main Phase: You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, then add 1 non-Pendulum \"Dracoslayer\" or \"Igknight\" monster from your Deck to your hand. You can only use this effect of \"Ignis Phoenix, the Dracoslayer\" once per turn.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
+}

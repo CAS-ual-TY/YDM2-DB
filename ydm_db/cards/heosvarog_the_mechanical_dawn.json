@@ -1,0 +1,21 @@
+{
+  "id": 8963089,
+  "name": "Heosvarog the Mechanical Dawn",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 LIGHT Machine monsters\nIf this card is Fusion Summoned: You can activate this effect; during the Standby Phase of the next turn, add 1 card from your GY to your hand, with an effect that Fusion Summons a monster(s). When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can banish 1 face-up LIGHT Machine monster you control or 2 LIGHT Machine monsters from your GY; negate the activation. You can only use each effect of \"Heosvarog the Mechanical Dawn\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/8963089.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2800,
+  "level": 7,
+  "is_tuner": false
+}

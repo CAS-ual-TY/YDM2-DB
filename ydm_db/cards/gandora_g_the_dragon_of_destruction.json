@@ -1,0 +1,21 @@
+{
+  "id": 2333466,
+  "name": "Gandora-G the Dragon of Destruction",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gains 300 ATK for each banished card. You can only use each of the following effects of \"Gandora-G the Dragon of Destruction\" once per turn. If you control \"Shining Sarcophagus\": You can Special Summon this card from your hand. You can pay half your LP; destroy as many other cards on the field as possible, and if you do, banish them, then Special Summon 1 Level 7 or lower monster that mentions \"Shining Sarcophagus\" from your Deck, and increase its Level by the number of cards destroyed by this effect.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/2333466.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
+}

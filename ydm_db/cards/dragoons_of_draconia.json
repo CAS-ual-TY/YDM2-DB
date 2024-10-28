@@ -11,14 +11,14 @@
   "attribute": "FIRE",
   "atk": 1800,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": false,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, if a Normal Monster you control destroys an opponent's monster by battle, after damage calculation: You can add 1 Level 4 or higher Normal Monster from your Deck to your hand.",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 200,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, if a Normal Monster you control destroys an opponent's monster by battle, after damage calculation: You can add 1 Level 4 or higher Normal Monster from your Deck to your hand.\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

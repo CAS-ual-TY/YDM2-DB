@@ -1,0 +1,20 @@
+{
+  "id": 62967433,
+  "name": "Baromet the Sacred Sheep Shrub",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 4 monsters\nYou can detach 1 material from this card, then target 1 Normal Trap in your GY; place it on the bottom of the Deck, then draw 1 card. If a Normal Trap Card is activated (except during the Damage Step): You can detach 1 material from an Xyz Monster you control, and if you do, Special Summon 1 Level 4 monster from your hand. You can only use each effect of \"Baromet the Sacred Sheep Shrub\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/62967433.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2000,
+  "rank": 4
+}

@@ -3,7 +3,7 @@
   "name": "Glacial Beast Blizzard Wolf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a monster declares an attack: You can negate that attack, and if you do, Special Summon 1 Level 4 or lower WATER monster from your hand, except \"Glacial Beast Blizzard Wolf\". At the start of your opponent's Battle Phase, if you control no monsters and this card is in your GY: You can Special Summon this card in Attack Position, but banish it when it leaves the field. You can only use each effect of \"Glacial Beast Blizzard Wolf\" once per turn.",
+  "text": "When a monster declares an attack: You can negate the attack, and if you do, Special Summon 1 Level 4 or lower WATER monster from your hand, except \"Glacial Beast Blizzard Wolf\". At the start of your opponent's Battle Phase, if this card is in your GY and you control no monsters: You can Special Summon this card in Attack Position, but banish it when it leaves the field. You can only use each effect of \"Glacial Beast Blizzard Wolf\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43175027.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1400,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 4,
   "is_tuner": false

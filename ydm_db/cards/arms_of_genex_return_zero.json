@@ -1,0 +1,21 @@
+{
+  "id": 61775475,
+  "name": "Arms of Genex Return Zero",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 DARK Tuner + 1+ non-Tuner monsters\nWhen your opponent activates a monster effect (Quick Effect): You can banish 1 monster from your GY with the same Attribute; negate the activation, and if you do, destroy that monster. (You can only banish each Attribute once per turn to activate this effect of \"Arms of Genex Return Zero\".) Once per turn: You can target up to 6 of your \"Genex\" monsters with different Attributes that are banished and/or in your GY; shuffle them into the Deck, then you can destroy up to that many cards in the Spell & Trap Zones.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/61775475.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3100,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2950,
+  "level": 10,
+  "is_tuner": false
+}

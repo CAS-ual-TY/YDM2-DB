@@ -1,0 +1,26 @@
+{
+  "id": 74139959,
+  "name": "Cosmic Tree Irmistil",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3+ Effect Monsters\nYou can only control 1 \"Cosmic Tree Irmistil\". Each time your opponent Special Summons a monster(s) face-up during the Main Phase, you gain LP equal to their ATK. Once per turn (Quick Effect): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/74139959.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 5,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom",
+    "Bottom-Left",
+    "Left",
+    "Top-Left"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 53618197,
+  "name": "Confiras de Nouvelles",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy it. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Tribute this card and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 3 or 4 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Confiras de Nouvelles\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53618197.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 1850,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 38082437,
+  "name": "Morphtronic Telefon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\u25cf Attack Position: Once per turn, during your Main Phase: You can roll a six-sided die and gain LP equal to the result x 100, then you can Special Summon 1 \"Morphtronic\" monster from your GY with a Level equal to or lower than the result.\n\u25cf Defense Position: Once per turn, during your Main Phase: You can roll a six-sided die, excavate that many cards from the top of your Deck (or as many as you can), and if you do, you can send 1 excavated \"Morphtronic\" card to the GY, also place the rest on either the top or bottom of the Deck in any order.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/38082437.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 100,
+  "level": 1,
+  "is_tuner": true
+}

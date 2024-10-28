@@ -1,0 +1,21 @@
+{
+  "id": 96546575,
+  "name": "Mega Fortress Whale",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If \"Umi\" is on the field: You can activate this effect; your WATER monsters can attack directly this turn. During your opponent's Battle Phase (Quick Effect): You can target 1 face-up monster your opponent controls; destroy it. If this card on the field is destroyed by battle or card effect: You can either add to your hand or Special Summon 1 WATER Warrior monster from your Deck or GY. You can only use each effect of \"Mega Fortress Whale\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/96546575.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2550,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2350,
+  "level": 7,
+  "is_tuner": false
+}

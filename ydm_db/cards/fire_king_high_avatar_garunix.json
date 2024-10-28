@@ -3,7 +3,7 @@
   "name": "Fire King High Avatar Garunix",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Special Summon this card from the Graveyard. When you do: Destroy all other monsters on the field. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Fire King\" monster from your Deck, except \"Fire King High Avatar Garunix\".",
+  "text": "Once per turn, during the next Standby Phase after this card was destroyed by card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all other monsters on the field. When this card is destroyed by battle and sent to the GY: You can Special Summon 1 \"Fire King\" monster from your Deck, except \"Fire King High Avatar Garunix\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23015896.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2700,
   "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1700,
   "level": 8,
   "is_tuner": false

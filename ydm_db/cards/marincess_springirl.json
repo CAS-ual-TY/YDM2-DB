@@ -1,0 +1,21 @@
+{
+  "id": 21057444,
+  "name": "Marincess Springirl",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish 1 \"Marincess\" monster from your GY; Special Summon this card from your hand. If this card is sent to the GY as material for the Link Summon of a WATER monster: You can send cards from the top of your Deck to the GY, equal to the number of \"Marincess\" monsters you control, then, if a \"Marincess\" card(s) was sent to the GY by this effect, inflict 200 damage to your opponent for each \"Marincess\" card sent. You can only use each effect of \"Marincess Springirl\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/21057444.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 2000,
   "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "When an opponent's monster declares a direct attack while you have a card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 1000,
   "level": 5,
-  "is_tuner": false,
-  "pendulum_text": "When an opponent's monster declares a direct attack while you have a card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card.\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

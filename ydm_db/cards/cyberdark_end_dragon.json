@@ -1,0 +1,21 @@
+{
+  "id": 37542782,
+  "name": "Cyberdark End Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Cyberdark Dragon\" + \"Cyber End Dragon\"\nMust be either Fusion Summoned, or Special Summoned by Tributing 1 Level 10 or lower \"Cyberdark\" Fusion Monster equipped with \"Cyber End Dragon\". Unaffected by your opponent's activated effects. Once per turn: You can equip 1 monster from either GY to this card. This card can attack a number of times each Battle Phase, up to the number of Equip Cards equipped to it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37542782.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 5000,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 3800,
+  "level": 12,
+  "is_tuner": false
+}

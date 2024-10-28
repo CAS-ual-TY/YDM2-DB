@@ -1,0 +1,21 @@
+{
+  "id": 98396890,
+  "name": "Vision Resonator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a Level 5 or higher DARK monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Vision Resonator\" once per turn this way. If this card is sent to the GY: You can add 1 Spell/Trap that mentions \"Red Dragon Archfiend\" from your Deck to your hand. You can only use this effect of \"Vision Resonator\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98396890.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 94151981,
+  "name": "Xyz Armor Torpedo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 3 monsters\nCannot attack unless it has material. You can detach 2 materials from this card; draw 1 card. You can only use this effect of \"Xyz Armor Torpedo\" once per turn. Apply these effects while this card is equipped to a monster.\n\u25cf If the equipped monster battles, until the end of the Damage Step, your opponent cannot activate cards or effects, also negate the effects of all face-up monsters they control.\n\u25cf If the equipped monster is an Xyz Monster, your opponent cannot target it with card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/94151981.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 800,
+  "rank": 3
+}

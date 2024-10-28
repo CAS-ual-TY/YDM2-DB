@@ -1,0 +1,21 @@
+{
+  "id": 25607552,
+  "name": "Nowru Aries the Vernal Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is in your GY: You can send 1 Level 5 or higher monster from your hand to the GY; Special Summon this card, but banish it when it leaves the field. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 card your opponent controls; banish it. You can only use each effect of \"Nowru Aries the Vernal Dragon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/25607552.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

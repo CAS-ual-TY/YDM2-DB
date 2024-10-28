@@ -3,7 +3,7 @@
   "name": "Element Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ? FIRE: This card gains 500 ATK. ? WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+  "text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: \u25cf FIRE: This card gains 500 ATK. \u25cf WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30314994.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

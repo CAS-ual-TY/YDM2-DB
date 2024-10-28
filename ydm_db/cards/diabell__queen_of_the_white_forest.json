@@ -1,0 +1,21 @@
+{
+  "id": 14307929,
+  "name": "Diabell, Queen of the White Forest",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned using a Tuner Synchro Monster: You can target 1 Spell/Trap in your GY; add it to your hand. When your opponent activates a card or effect (Quick Effect): You can send 1 Spell/Trap from your hand or field to the GY; Special Summon 1 Level 7 or lower Tuner Synchro Monster from your Extra Deck, GY, or banishment. You can only use each effect of \"Diabell, Queen of the White Forest\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/14307929.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Illusion",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
+}

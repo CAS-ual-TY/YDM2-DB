@@ -3,7 +3,7 @@
   "name": "VW-Tiger Catapult",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"V-Tiger Jet\" + \"W-Wing Catapult\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) You can discard 1 card, then target 1 monster your opponent controls; change that target's battle position. (Flip Effects are not activated.)",
+  "text": "\"V-Tiger Jet\" + \"W-Wing Catapult\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. You can discard 1 card, then target 1 monster your opponent controls; change that target's battle position. (Flip effects are not activated.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58859575.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2000,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2100,
   "level": 6,
   "is_tuner": false

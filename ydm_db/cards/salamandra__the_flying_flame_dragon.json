@@ -1,0 +1,21 @@
+{
+  "id": 37531679,
+  "name": "Salamandra, the Flying Flame Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While this card is equipped to \"Flame Swordsman\" or a monster that mentions it, the equipped monster gains 700 ATK. You can only use each of the following effects of \"Salamandra, the Flying Flame Dragon\" once per turn. If this card is in your hand or GY: You can target 1 Warrior monster you control; equip this card to that monster you control as an Equip Spell. If this card is sent to the GY: You can add 1 \"Salamandra\" Spell/Trap from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37531679.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 700,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15171722,
+  "name": "Evolsaur Lios",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can Set 1 \"Evolutionary Bridge\" or \"Evo-Singularity\" directly from your Deck. During your Main Phase, if you control this card that was Normal Summoned, or Special Summoned by the effect of a FIRE monster: You can send 1 FIRE Reptile or Dinosaur monster from your Deck to the GY, then you can make 2 monsters on the field become the same Type and Level as that monster sent to the GY. You can only use each effect of \"Evolsaur Lios\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/15171722.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
+}

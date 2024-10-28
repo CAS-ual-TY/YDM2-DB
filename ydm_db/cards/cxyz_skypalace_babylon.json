@@ -3,7 +3,7 @@
   "name": "CXyz Skypalace Babylon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 11 monsters\nWhen this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of the destroyed monster in the Graveyard. If this card has \"Skypalace Gangaridai\" as an Xyz Material, it gains this effect.\n? Once per turn, if this card destroys a monster by battle: You can detach 1 Xyz Material from this card; it can make a second attack in a row.",
+  "text": "3 Level 11 monsters\nWhen this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of the destroyed monster in the Graveyard. If this card has \"Skypalace Gangaridai\" as an Xyz Material, it gains this effect.\n\u25cf Once per turn, if this card destroys a monster by battle: You can detach 1 Xyz Material from this card; it can make a second attack in a row.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49202331.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 3800,
   "species": "Machine",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 4000,
   "rank": 11
 }

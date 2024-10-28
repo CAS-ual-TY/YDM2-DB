@@ -1,0 +1,21 @@
+{
+  "id": 43944080,
+  "name": "Nemleria Dream Defender - Couette",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have a face-up Pendulum Monster in your Extra Deck, you can Special Summon this card (from your hand). You can only Special Summon \"Nemleria Dream Defender - Couette\" once per turn this way. When your opponent activates a card or effect that targets a \"Nemleria\" card(s) you control, while you have \"Dreaming Nemleria\" face-up in your Extra Deck (Quick Effect): You can banish 1 face-down card from your Extra Deck, face-down; negate that activation. You can only use this effect of \"Nemleria Dream Defender - Couette\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43944080.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Lib the World Key Blademaster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters\nCan only be Link Summoned while you have a \"World Legacy\" card in your GY. You can only use each of the following effects of \"Lib the World Key Blademaster\" once per turn.\n? During your Main Phase: You can Set 1 \"World Legacy\" Spell/Trap directly from your Deck, but it cannot be activated this turn while you have no \"World Legacy\" monster in your GY.\n? If this Link Summoned card is sent to the GY as Link Material: You can shuffle 1 card on the field into the Deck.",
+  "text": "2 monsters\nCan only be Link Summoned while you have a \"World Legacy\" card in your GY. You can only use each of the following effects of \"Lib the World Key Blademaster\" once per turn.\n\u25cf During your Main Phase: You can Set 1 \"World Legacy\" Spell/Trap directly from your Deck, but it cannot be activated this turn while you have no \"World Legacy\" monster in your GY.\n\u25cf If this Link Summoned card is sent to the GY as Link Material: You can shuffle 1 card on the field into the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39752820.jpg"
   ],
@@ -11,13 +11,13 @@
   "attribute": "LIGHT",
   "atk": 2000,
   "species": "Cyberse",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 2,
   "link_arrows": [
-    "Left",
-    "Bottom-Left"
+    "Bottom-Left",
+    "Left"
   ]
 }

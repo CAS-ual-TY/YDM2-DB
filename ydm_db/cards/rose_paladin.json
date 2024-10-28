@@ -3,7 +3,7 @@
   "name": "Rose Paladin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card; Special Summon 1 Plant-Type monster from your hand or Deck in Defense Position. You can send this card from your hand to the Graveyard; add 1 Level 7 or higher Plant-Type monster from your Deck to your hand. You can only use this effect of \"Rose Paladin\" once per turn.",
+  "text": "When this card destroys an opponent's monster by battle and sends it to the GY: You can Tribute this card; Special Summon 1 Plant monster from your hand or Deck in Defense Position. You can send this card from your hand to the GY; add 1 Level 7 or higher Plant monster from your Deck to your hand. You can only use this effect of \"Rose Paladin\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96385345.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 4,
   "is_tuner": false

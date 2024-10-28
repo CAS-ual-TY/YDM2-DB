@@ -1,0 +1,21 @@
+{
+  "id": 82090807,
+  "name": "Fallen of Argyros",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a Level/Rank/Link 2 monster is on the field, you can Special Summon this card (from your hand) to either field. You can only Special Summon \"Fallen of Argyros\" once per turn this way. Neither player can activate the effects of Link Monsters that point to this card. During your opponent's turn (Quick Effect): You can target 1 Xyz Monster on the field; detach 1 or 2 materials from it. You can only use this effect of \"Fallen of Argyros\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/82090807.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 700,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
+}

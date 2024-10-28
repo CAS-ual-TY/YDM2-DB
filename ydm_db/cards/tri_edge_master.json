@@ -1,0 +1,21 @@
+{
+  "id": 52445243,
+  "name": "Tri-Edge Master",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can apply the appropriate effect, based on the Levels used for its Synchro Summon, or if you used 3 or more monsters as materials, apply all these effects, in sequence.\n\u25cf 1 & 5: Destroy 1 other card on the field. \u25cf 2 & 4: Draw 1 card.\n\u25cf 3 & 3: Treat this card as a Tuner.\nYou can only use this effect of \"Tri-Edge Master\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/52445243.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
+}

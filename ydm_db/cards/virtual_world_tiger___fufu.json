@@ -1,0 +1,20 @@
+{
+  "id": 95243515,
+  "name": "Virtual World Tiger - Fufu",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 9 monsters\nGains the following effects, based on the number of \"Virtual World Gate\" cards you control.\n\u25cf 2+: This card can attack directly.\n\u25cf 4: This card is unaffected by activated card effects, except \"Virtual World\" cards.\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 Effect Monster you control and 1 Effect Monster on the field with a different Type and Attribute from it; negate their effects until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/95243515.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2600,
+  "species": "Wyrm",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2800,
+  "rank": 9
+}

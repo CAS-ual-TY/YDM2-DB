@@ -3,7 +3,7 @@
   "name": "Barrel Behind the Door",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.",
+  "text": "When a Spell/Trap Card, or monster effect, is activated that would inflict damage to you: Your opponent takes the damage instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78783370.jpg"
   ],

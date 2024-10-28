@@ -1,0 +1,12 @@
+{
+  "id": 69533836,
+  "name": "Soul Fist",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Equip only to a Dragon Synchro Monster you control. A \"Red Dragon Archfiend\" equipped with this card is unaffected by your opponent's activated card effects. Once per turn: You can change the ATK of all monsters your opponent currently controls to the equipped monster's. Once per turn, when an attack is declared involving the equipped monster: You can target 1 monster in your opponent's GY; banish it, and if you do, the equipped monster gains ATK equal to the banished monster's, until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69533836.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

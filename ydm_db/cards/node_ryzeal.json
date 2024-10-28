@@ -1,0 +1,21 @@
+{
+  "id": 72238166,
+  "name": "Node Ryzeal",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have an Xyz Monster on your field or in your GY, you can Special Summon this card (from your hand). If you do, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Node Ryzeal\" once per turn this way. You can send 1 card from your hand or field to the GY, then target 1 \"Ryzeal\" monster in your GY, except \"Node Ryzeal\"; Special Summon it in Defense Position, but negate its effects. You can only use this effect of \"Node Ryzeal\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/72238166.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1400,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

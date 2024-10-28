@@ -1,0 +1,20 @@
+{
+  "id": 34909328,
+  "name": "Ryzeal Deadnader",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 4 \"Ryzeal\" monsters\nWhen your opponent activates a card or effect (Quick Effect): You can detach 1 material from this card, then target 1 card on the field; destroy it. You can only use each of the following effects of \"Ryzeal Deadnader\" once per turn. If this card is Special Summoned: You can attach 1 monster from your GY to it as material. If an Xyz Monster(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/34909328.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2500,
+  "rank": 4
+}

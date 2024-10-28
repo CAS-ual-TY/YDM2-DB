@@ -1,0 +1,21 @@
+{
+  "id": 6556909,
+  "name": "Red-Eyes Soul",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card's name becomes \"Red-Eyes Black Dragon\" while on the field or in the GY. If your opponent Special Summons a monster(s) (except during the Damage Step): You can send this card from your hand or field to the GY; Special Summon 1 \"Red-Eyes\" monster from your hand or Deck, except \"Red-Eyes Soul\". You can only use this effect of \"Red-Eyes Soul\" once per turn. (Quick Effect): You can target 1 \"Red-Eyes Black Dragon\" you control; inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Red-Eyes Soul\" once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/6556909.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 900,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

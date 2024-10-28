@@ -1,0 +1,21 @@
+{
+  "id": 52854600,
+  "name": "Tenyi Spirit - Surya",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Wyrm monster or a face-up non-Effect Monster: You can Special Summon this card from your hand. If this card is sent to the GY as Synchro Material for a Wyrm monster: You can Special Summon 1 \"Tenyi\" Link Monster from your Extra Deck (but it cannot be used as Link Material), then you lose LP equal to its Link Rating x 1000. You can only use each effect of \"Tenyi Spirit - Surya\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/52854600.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Wyrm",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
+  "is_tuner": true
+}

@@ -11,14 +11,14 @@
   "attribute": "LIGHT",
   "atk": 1700,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Apply these effects.\n\u25cf You do not pay LP to activate Counter Trap Cards.\n\u25cf You do not discard to activate Counter Trap Cards.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 800,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "Apply these effects.\n? You do not pay LP to activate Counter Trap Cards.\n? You do not discard to activate Counter Trap Cards.\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

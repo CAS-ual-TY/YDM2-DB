@@ -3,10 +3,9 @@
   "name": "Polymerization",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+  "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/24094653.jpg",
-    "https://images.ygoprodeck.com/images/cards/27847700.jpg"
+    "https://images.ygoprodeck.com/images/cards/24094653.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

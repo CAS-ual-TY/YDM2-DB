@@ -3,7 +3,7 @@
   "name": "Photon Vanisher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a \"Photon\" or \"Galaxy\" monster. Cannot attack the turn it is Special Summoned. You can only Special Summon \"Photon Vanisher(s)\" once per turn. If this card is Special Summoned: You can add 1 \"Galaxy-Eyes Photon Dragon\" from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as material gains this effect.\n? Banish any monster destroyed by battle with this card.",
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a \"Photon\" or \"Galaxy\" monster. Cannot attack the turn it is Special Summoned. You can only Special Summon \"Photon Vanisher(s)\" once per turn. If this card is Special Summoned: You can add 1 \"Galaxy-Eyes Photon Dragon\" from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as material gains this effect.\n\u25cf Banish any monster destroyed by battle with this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43147039.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2000,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

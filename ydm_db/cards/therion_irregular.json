@@ -1,0 +1,21 @@
+{
+  "id": 75290703,
+  "name": "Therion Irregular",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target up to 3 \"Therion\" monsters in your GY; Special Summon this card from your hand, and if you do, equip them to this card. You can discard 1 \"Endless Engine Argyro System\"; destroy all cards your opponent controls. While this card is equipped to a monster: You can Special Summon this card, then equip the monster this card was equipped to, to this card. You can only use each effect of \"Therion Irregular\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75290703.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2800,
+  "level": 10,
+  "is_tuner": false
+}

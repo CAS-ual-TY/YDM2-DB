@@ -3,7 +3,7 @@
   "name": "Meklord Army of Granel",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card gains 100 ATK for each \"Meklord\" monster on the field, except this card. When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn.",
+  "text": "Gains 100 ATK for each \"Meklord\" monster on the field, except this card. When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2137678.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1600,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Noble Knight Gwalchavad",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is treated as a Normal Monster while face-up on the field. While equipped with a \"Noble Arms\" Equip Spell Card, this card becomes an Effect Monster with this effect.\n? You can target 1 \"Noble Knight\" monster in your Graveyard; add it to your hand, and if you do, destroy 1 \"Noble Arms\" Equip Spell Card you control. You can only use this effect of \"Noble Knight Gwalchavad\" once per turn.",
+  "text": "This card is treated as a Normal Monster while face-up on the field. While equipped with a \"Noble Arms\" Equip Spell Card, this card becomes an Effect Monster with this effect.\n\u25cf You can target 1 \"Noble Knight\" monster in your Graveyard; add it to your hand, and if you do, destroy 1 \"Noble Arms\" Equip Spell Card you control. You can only use this effect of \"Noble Knight Gwalchavad\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13391185.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 4,
   "is_tuner": false

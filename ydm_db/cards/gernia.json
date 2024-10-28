@@ -3,7 +3,7 @@
   "name": "Gernia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your next Standby Phase, after this face-up card you control was destroyed and sent to your Graveyard by an opponent's card effect: Special Summon it.",
+  "text": "Once per turn, during your next Standby Phase after this face-up card you control was destroyed by an opponent's card effect and sent to your GY: Special Summon it from your GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77936940.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1300,
   "species": "Zombie",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Cloudian - Ghost Fog",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Special Summoned. All Battle Damage to either player from a battle involving this monster becomes 0. If this card is destroyed by battle, distribute new Fog Counters equal to the Level of the monster that destroyed it among face-up monsters.",
+  "text": "Cannot be Special Summoned. Neither player takes battle damage from attacks involving this card. If this card is destroyed by battle: Distribute Fog Counters equal to the Level of the monster that destroyed it among face-up monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83604828.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 0,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": false

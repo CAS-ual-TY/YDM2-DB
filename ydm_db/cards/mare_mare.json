@@ -3,7 +3,7 @@
   "name": "Mare Mare",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned, except by the effect of a Wyrm-Type monster. During your Main Phase: You can reduce this card's Level by 1, and if you do, Special Summon 1 \"Mini Mare Mare Token\" (Wyrm-Type/WATER/Level 1/ATK 300/DEF 200). You can only use this effect of \"Mare Mare\" up to thrice per turn.",
+  "text": "Cannot be Special Summoned, except by the effect of a Wyrm monster. During your Main Phase: You can reduce this card's Level by 1, and if you do, Special Summon 1 \"Mini Mare Mare Token\" (Wyrm/WATER/Level 1/ATK 300/DEF 200). You can only use this effect of \"Mare Mare\" up to thrice per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54537489.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 2100,
   "species": "Wyrm",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 7,
   "is_tuner": true

@@ -3,19 +3,19 @@
   "name": "Helios - The Primordial Sun",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card's ATK and DEF are each equal to the number of removed from play monsters x 100.",
+  "text": "This card's ATK/DEF become the number of banished monsters x 100.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54493213.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
-  "atk": 0,
+  "atk": -1,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": -1,
   "level": 4,
   "is_tuner": false
 }

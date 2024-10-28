@@ -1,0 +1,21 @@
+{
+  "id": 12954226,
+  "name": "Circle of the Fairies",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nDuring your Main Phase, you can Normal Summon 1 Insect or Plant monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When a monster is destroyed by battle involving your Insect or Plant monster, and sent to the GY: You can target 1 of those destroyed monsters; inflict damage to your opponent equal to half its ATK, then gain LP equal to the damage inflicted to your opponent. You can only use this effect of \"Circle of the Fairies\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/12954226.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2200,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

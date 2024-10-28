@@ -3,7 +3,7 @@
   "name": "Edge Imp Chain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card declares an attack: You can add 1 \"Edge Imp Chain\" from your Deck to your hand. If this card is sent from the hand or field to the Graveyard: You can add 1 \"Frightfur\" card from your Deck to your hand. You can only use 1 \"Edge Imp Chain\" effect per turn, and only once that turn.",
+  "text": "When this card declares an attack: You can add 1 \"Edge Imp Chain\" from your Deck to your hand. If this card is sent from the hand or field to the GY: You can add 1 \"Frightfur\" card from your Deck to your hand. You can only use 1 \"Edge Imp Chain\" effect per turn, and only once that turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61173621.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1200,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 4,
   "is_tuner": false

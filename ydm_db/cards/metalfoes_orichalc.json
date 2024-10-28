@@ -3,7 +3,7 @@
   "name": "Metalfoes Orichalc",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"Metalfoes\" monsters\nIf a \"Metalfoes\" monster you control attacks a Defense Position monster, inflict double piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can target 1 card on the field; destroy it.",
+  "text": "2 \"Metalfoes\" monsters\nIf a \"Metalfoes\" monster you control attacks a Defense Position monster, inflict double piercing battle damage to your opponent. If this card is sent from the field to the GY: You can target 1 card on the field; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28016193.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2800,
   "species": "Psychic",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2200,
   "level": 8,
   "is_tuner": false

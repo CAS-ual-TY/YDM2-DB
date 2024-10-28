@@ -3,7 +3,7 @@
   "name": "Ally of Justice Cosmic Gateway",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls 2 or more monsters, including a LIGHT monster, you can Special Summon this card from your hand.",
+  "text": "If your opponent controls 2 or more monsters including a LIGHT monster, you can Special Summon this card (from your hand).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8822710.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2400,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 8,
   "is_tuner": false

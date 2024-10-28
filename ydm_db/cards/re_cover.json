@@ -3,7 +3,7 @@
   "name": "Re-Cover",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in the Graveyard and your opponent has 5 or more cards in their Extra Deck than you do: You can pay 2000 LP; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Re-Cover\" once per turn.",
+  "text": "If this card is in the GY and your opponent has 5 or more cards in their Extra Deck than you do: You can pay 2000 LP; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Re-Cover\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58695102.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 700,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 1,
   "is_tuner": true

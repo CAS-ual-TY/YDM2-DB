@@ -3,7 +3,7 @@
   "name": "Babycerasaurus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or lower Dinosaur-Type monster from your Deck.",
+  "text": "If this card is destroyed by card effect and sent to the GY: Special Summon 1 Level 4 or lower Dinosaur monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36042004.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 500,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 2,
   "is_tuner": false

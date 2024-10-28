@@ -1,0 +1,25 @@
+{
+  "id": 45112597,
+  "name": "Worldsea Dragon Zealantis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1+ Effect Monsters\nYou can only control 1 \"Worldsea Dragon Zealantis\". You can only use each of the following effects of \"Worldsea Dragon Zealantis\" once per turn. During your Main Phase: You can banish all monsters on the field, then Special Summon as many monsters as possible that were banished by this effect, to their owners' fields, face-up, or in face-down Defense Position. During the Battle Phase (Quick Effect): You can destroy cards on the field up to the number of co-linked monsters on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/45112597.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2500,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 4,
+  "link_arrows": [
+    "Top",
+    "Right",
+    "Bottom",
+    "Left"
+  ]
+}

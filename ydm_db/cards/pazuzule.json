@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 500,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
   "def": 500,
   "level": 1,
-  "is_tuner": false,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 1,
-  "pendulum_scale_right_red": 1
+  "is_tuner": false
 }

@@ -1,0 +1,21 @@
+{
+  "id": 60764609,
+  "name": "Fiendsmith Engraver",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card; add 1 \"Fiendsmith\" Spell/Trap from your Deck to your hand. You can target 1 \"Fiendsmith\" Equip Card you control and 1 monster on the field; send them to the GY. If this card is in your GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck; Special Summon this card. You can only use each effect of \"Fiendsmith Engraver\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60764609.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2400,
+  "level": 6,
+  "is_tuner": false
+}

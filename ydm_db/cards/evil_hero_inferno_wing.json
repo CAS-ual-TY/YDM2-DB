@@ -3,7 +3,7 @@
   "name": "Evil HERO Inferno Wing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Special Summoned with \"Dark Fusion\" and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to either the ATK or DEF (whichever is higher) of the destroyed monster in the Graveyard.",
+  "text": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Special Summoned with \"Dark Fusion\". If this card attacks a Defense Position monster, inflict piercing battle damage. If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original ATK or DEF (whichever is higher) of that monster in the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22160245.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2100,
   "species": "Fiend",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1200,
   "level": 6,
   "is_tuner": false

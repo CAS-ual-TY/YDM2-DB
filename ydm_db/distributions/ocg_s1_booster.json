@@ -1,0 +1,33 @@
+{
+	"name": "ocg_s1_booster",
+	"pulls": [
+		{
+			"weight": 9629,
+			"entries": [
+				{
+					"count": 3,
+					"rarities": [
+						"Common"
+					]
+				}
+			]
+		},
+		{
+			"weight": 346,
+			"entries": [
+				{
+					"count": 2,
+					"rarities": [
+						"Common"
+					]
+				},
+				{
+					"count": 1,
+					"rarities": [
+						"Rare"
+					]
+				}
+			]
+		}
+	]
+}

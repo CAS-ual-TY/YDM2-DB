@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 1200,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If your \"Performapal\" or \"Odd-Eyes\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "pendulum_scale_left_blue": 6,
+  "pendulum_scale_right_red": 6,
   "def": 1600,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "If your \"Performapal\" or \"Odd-Eyes\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n",
-  "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "is_tuner": false
 }

@@ -1,0 +1,21 @@
+{
+  "id": 77832858,
+  "name": "Thestalos the Shadowfire Monarch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute Summon this card by Tributing 1 monster your opponent controls and 1 Tribute Summoned monster you control. If this card is Tribute Summoned: You can banish 1 random card from your opponent's hand, and if you do, inflict 1000 damage to your opponent, then, if this card was Tribute Summoned by Tributing a Level 8 or higher Tribute Summoned monster, you can apply this effect.\n\u25cf Banish 1 card on the field, and if it was a FIRE or DARK Monster Card, inflict damage to your opponent equal to its original Level x 200.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/77832858.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3000,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 10,
+  "is_tuner": false
+}

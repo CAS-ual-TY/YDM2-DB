@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 2000,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You can target 1 \"Yosenju\" card in your Pendulum Zone; for the rest of this turn, its Pendulum Scale becomes 11, also you cannot Special Summon monsters, except \"Yosenju\" monsters (even if this card leaves the field). During your End Phase: Return this card to the hand. You can only use each Pendulum Effect of \"Mayosenju Hitot\" once per turn.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 3000,
   "level": 10,
-  "is_tuner": false,
-  "pendulum_text": "You can target 1 \"Yosenju\" card in your Pendulum Zone; for the rest of this turn, its Pendulum Scale becomes 11, also you cannot Special Summon monsters, except \"Yosenju\" monsters (even if this card leaves the field). During your End Phase: Return this card to the hand. You can only use each Pendulum Effect of \"Mayosenju Hitot\" once per turn.\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

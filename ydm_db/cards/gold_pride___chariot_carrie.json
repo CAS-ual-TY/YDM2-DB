@@ -1,0 +1,20 @@
+{
+  "id": 65892585,
+  "name": "Gold Pride - Chariot Carrie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 3 monsters\nYou can detach 1 material from this card; add 1 \"Gold Pride\" Spell from your Deck to your hand, then if your LP are lower than your opponent's, you can send 1 \"Gold Pride\" monster from your Deck to the GY. You can only use the previous effect of \"Gold Pride - Chariot Carrie\" once per turn. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Captain Carrie\" from your Deck or GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/65892585.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1900,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2700,
+  "rank": 3
+}

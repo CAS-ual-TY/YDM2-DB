@@ -1,0 +1,23 @@
+{
+  "id": 1528054,
+  "name": "Silhouhatte Rabbit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Effect Monsters\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Silhouhatte Rabbit\" once per turn. If this card is Link Summoned: You can Set 1 Continuous Trap from your Deck with an effect that Special Summons itself as a monster, also this card cannot be used as Link Material this turn. If a card in the Spell & Trap Zone is Special Summoned to the Monster Zone (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/1528054.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Illusion",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

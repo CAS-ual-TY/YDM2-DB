@@ -1,0 +1,24 @@
+{
+  "id": 69385019,
+  "name": "Mermail King - Neptabyss",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ monsters, including a Fish, Sea Serpent, or Aqua monster\nYour opponent cannot target WATER monsters this card points to with card effects. You can only use each of the following effects of \"Mermail King - Neptabyss\" once per turn. If a WATER monster(s) is sent to the GY to activate a card or effect (except during the Damage Step): You can take 1 \"Abyss-\" Equip Spell from your Deck or GY and either add it to your hand or equip it to this card. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 \"Atlantean\" or \"Mermail\" monster from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69385019.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2400,
+  "species": "Sea\u00a0Serpent",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom",
+    "Bottom-Left"
+  ]
+}

@@ -3,7 +3,7 @@
   "name": "Number C101: Silent Honor DARK",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 5 monsters\nOnce per turn: You can target 1 Special Summoned monster your opponent controls; attach it to this card as a face-up Xyz Material. When this card is destroyed and sent to the Graveyard while it has Xyz Material: You can Special Summon this card from your Graveyard, then gain LP equal to the original ATK of this card. \"Number 101: Silent Honor ARK\" must be in your Graveyard to activate and to resolve this effect. If this card is Special Summoned this way, it cannot attack for the rest of this turn.",
+  "text": "3 Level 5 monsters\nOnce per turn: You can target 1 Special Summoned monster your opponent controls; attach it to this card as material. When this card is destroyed and sent to the GY while it has material: You can Special Summon this card from your GY, then gain LP equal to the original ATK of this card. \"Number 101: Silent Honor ARK\" must be in your GY to activate and to resolve this effect. If this card is Special Summoned this way, it cannot attack for the rest of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12744567.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 2800,
   "species": "Aqua",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1500,
   "rank": 5
 }

@@ -1,0 +1,21 @@
+{
+  "id": 1295442,
+  "name": "Icejade Creation Aegirocassis",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While this card is equipped to a monster, the equipped monster gains 400 ATK/DEF for each banished monster. You can only use 1 of the following effects of \"Icejade Creation Aegirocassis\" per turn, and only once that turn. If this card is in your hand or GY (except during the Damage Step) (Quick Effect): You can target 1 \"Icejade\" monster you control; equip this card to that monster you control. While this card is equipped to a monster: You can Special Summon this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/1295442.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": true
+}

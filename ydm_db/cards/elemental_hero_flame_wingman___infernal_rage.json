@@ -1,0 +1,21 @@
+{
+  "id": 93347961,
+  "name": "Elemental HERO Flame Wingman - Infernal Rage",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 \"Elemental HERO\" monsters with different Attributes\nMust be Fusion Summoned. If this card is Special Summoned: You can add 1 card with \"Favorite\" in its name from your Deck or GY to your hand. You can Tribute this card that was Fusion Summoned using a Normal Monster(s) as material; Special Summon 1 Level 7 or lower \"Elemental HERO\" monster from your Deck or Extra Deck that cannot be Normal Summoned/Set, ignoring its Summoning conditions. You can only use each effect of \"Elemental HERO Flame Wingman - Infernal Rage\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/93347961.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1200,
+  "level": 8,
+  "is_tuner": false
+}

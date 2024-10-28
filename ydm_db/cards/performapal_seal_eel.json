@@ -11,14 +11,14 @@
   "attribute": "WATER",
   "atk": 100,
   "species": "Fish",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 face-up monster your opponent controls; that face-up monster has its effects negated until the end of this turn (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3,
   "def": 100,
   "level": 1,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can target 1 face-up monster your opponent controls; that face-up monster has its effects negated until the end of this turn (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "is_tuner": false
 }

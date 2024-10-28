@@ -1,0 +1,20 @@
+{
+  "id": 58858807,
+  "name": "Tellarknight Constellar Caduceus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 4 monsters\nIf this card is Xyz Summoned: You can target 1 \"tellarknight\" and/or 1 \"Constellar\" card in your GY; add them to your hand. You can banish 1 \"tellarknight\" or 1 \"Constellar\" monster from your hand or Deck, and detach 1 material from this card; this effect becomes that banished monster's effect that activates when it is Normal Summoned. You can only use each effect of \"Tellarknight Constellar Caduceus\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/58858807.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1650,
+  "rank": 4
+}

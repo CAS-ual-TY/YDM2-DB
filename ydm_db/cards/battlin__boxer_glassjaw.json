@@ -3,7 +3,7 @@
   "name": "Battlin' Boxer Glassjaw",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is targeted for an attack: Destroy this card. When this card is sent to the Graveyard by a card effect: You can target 1 \"Battlin' Boxer\" monster in your Graveyard, except \"Battlin' Boxer Glassjaw\"; add that target to your hand.",
+  "text": "If this card is targeted for an attack: Destroy this card. When this card is sent to the GY by card effect: You can target 1 \"Battlin' Boxer\" monster in your GY, except \"Battlin' Boxer Glassjaw\"; add it to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5361647.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 2000,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

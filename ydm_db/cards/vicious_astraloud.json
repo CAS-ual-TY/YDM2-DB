@@ -1,0 +1,21 @@
+{
+  "id": 65815684,
+  "name": "Vicious Astraloud",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Visas Starfrost\" + 1 monster with 1500 ATK/2100 DEF\nMust be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY. Cannot be destroyed by battle. If this card is Special Summoned: You can target 1 other monster on the field; destroy it, and if you do, this card gains ATK equal to half of that monster's original ATK or DEF (whichever is higher).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/65815684.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
+}

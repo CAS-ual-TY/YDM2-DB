@@ -1,0 +1,21 @@
+{
+  "id": 47921178,
+  "name": "Battlin' Boxer Chief Second",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase, you can Normal Summon 1 \"Battlin' Boxer\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When an opponent's monster declares an attack, while you control a Warrior or FIRE monster: You can Special Summon this card from your hand, and if you do, negate that attack, then banish 1 monster on the field until the End Phase. You can only use this effect of \"Battlin' Boxer Chief Second\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47921178.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

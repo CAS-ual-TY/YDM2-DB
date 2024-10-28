@@ -1,0 +1,21 @@
+{
+  "id": 19096726,
+  "name": "Tri-Brigade Mercourier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent activates a monster effect, while you control a Fusion Monster that mentions \"Fallen of Albaz\" as material (Quick Effect): You can send this card from your hand or face-up field to the GY; negate that effect. If this card is banished: You can add from your Deck to your hand, 1 \"Fallen of Albaz\", or 1 monster that mentions it, except \"Tri-Brigade Mercourier\". You can only use each effect of \"Tri-Brigade Mercourier\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/19096726.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

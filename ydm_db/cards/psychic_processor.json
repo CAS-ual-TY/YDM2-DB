@@ -1,0 +1,21 @@
+{
+  "id": 70843274,
+  "name": "Psychic Processor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can banish this card you control; Special Summon up to 2 Machine, Psychic, and/or Cyberse monsters from your hand, and they can attack directly this turn. During the Standby Phase of the next turn after this card was banished: You can add this banished card to your hand. You can only use each effect of \"Psychic Processor\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70843274.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3355732,
+  "name": "Icejade Kosmochlor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up card is in a Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Icejade Kosmochlor\" once per turn this way. While \"Icejade Cenote Enion Cradle\" is on the field, monsters your opponent controls can only activate their effects the turn they are Summoned. If your \"Icejade\" monster battles an opponent's monster, that opponent's monster loses 1000 ATK during that damage calculation only.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3355732.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}

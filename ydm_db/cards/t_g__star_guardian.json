@@ -3,7 +3,7 @@
   "name": "T.G. Star Guardian",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner \"T.G.\" monsters\nOnce per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of \"T.G. Star Guardian\" once per turn.\n? If this card is Special Summoned: You can target 1 \"T.G.\" monster in your GY; add it to your hand.\n? During your Main Phase: You can Special Summon 1 \"T.G.\" monster from your hand.",
+  "text": "1 Tuner + 1+ non-Tuner \"T.G.\" monsters\nOnce per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of \"T.G. Star Guardian\" once per turn.\n\u25cf If this card is Special Summoned: You can target 1 \"T.G.\" monster in your GY; add it to your hand.\n\u25cf During your Main Phase: You can Special Summon 1 \"T.G.\" monster from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99937842.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 100,
   "species": "Warrior",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2200,
   "level": 5,
   "is_tuner": true

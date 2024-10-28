@@ -1,0 +1,21 @@
+{
+  "id": 81563416,
+  "name": "Fairy of the Fountain",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This fairy protects a fountain from any who seek to muddy its waters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81563416.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

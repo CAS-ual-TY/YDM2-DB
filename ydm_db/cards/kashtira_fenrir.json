@@ -1,0 +1,21 @@
+{
+  "id": 32909498,
+  "name": "Kashtira Fenrir",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Kashtira Fenrir\" once per turn. During your Main Phase: You can add 1 \"Kashtira\" monster from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can target 1 face-up card your opponent controls; banish it, face-down.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32909498.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
+}

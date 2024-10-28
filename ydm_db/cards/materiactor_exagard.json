@@ -1,0 +1,20 @@
+{
+  "id": 72409226,
+  "name": "Materiactor Exagard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 3 monsters\nYou can detach 1 material from this card; from your Deck, either Special Summon 1 \"Materiactor\" monster, or add 1 \"Materiactor\" Spell/Trap to your hand. If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can add up to 2 cards attached to this card to your hand, including a \"Materiactor\" card, then, if you have a Normal Monster in your GY, you can return 1 card on the field to the hand. You can only use each effect of \"Materiactor Exarept\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/72409226.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2000,
+  "rank": 3
+}

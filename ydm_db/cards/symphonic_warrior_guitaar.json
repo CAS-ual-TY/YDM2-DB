@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 1500,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\". You can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
   "def": 100,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "You can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\". You can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.\n",
-  "pendulum_scale_left_blue": 7,
-  "pendulum_scale_right_red": 7
+  "is_tuner": false
 }

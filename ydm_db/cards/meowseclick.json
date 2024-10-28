@@ -1,0 +1,21 @@
+{
+  "id": 34198387,
+  "name": "Meowseclick",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a Field Spell Card is activated: You can Special Summon this card from your hand, then, if face-up cards are in both Field Zones, this card cannot be destroyed by battle or card effects this turn. You can only use this effect of \"Meowseclick\" once per turn. During your turn, the effects of the face-up card in your opponent's Field Zone are negated. During your opponent's turn, the effects of the face-up card in your Field Zone are negated.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/34198387.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1400,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

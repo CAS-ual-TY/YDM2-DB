@@ -1,0 +1,21 @@
+{
+  "id": 15464375,
+  "name": "Adularia of the June Moon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a face-up card in your Spell & Trap Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Adularia of the June Moon\" once per turn this way. Gains 600 ATK/DEF for each face-up Spell/Trap on the field. You can send 2 face-up cards from your Spell & Trap Zone to the GY; send 1 Level 4 or lower monster from your Deck to the GY. You can only use this effect of \"Adularia of the June Moon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/15464375.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 47404795,
+  "name": "Abyss Actor - Super Producer",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters, including a Fiend monster\nDuring the Main Phase (Quick Effect): You can target 1 face-up card you control; destroy it, then you can apply 1 of these effects.\n\u25cf Place 1 \"Abyss Playhouse - Fantastic Theater\" from your Deck, face-up in your Field Zone.\n\u25cf Place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone.\nYou can only use this effect of \"Abyss Actor - Super Producer\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47404795.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

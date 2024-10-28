@@ -1,0 +1,21 @@
+{
+  "id": 60823690,
+  "name": "Shinobaron Shade Peacock",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Shinobird's Calling\". This card's name becomes \"Shinobaron Peacock\" while in the hand or on the field. You can Tribute this Ritual Summoned card; add 1 Spirit monster and 1 Ritual Spell from your Deck to your hand. You can only use this effect of \"Shinobaron Shade Peacock\" once per turn. Once per turn, during the Standby Phase of the next turn after this card was banished: Special Summon this banished card. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return this card to the hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60823690.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Winged Beast",
+  "ability": "Spirit",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

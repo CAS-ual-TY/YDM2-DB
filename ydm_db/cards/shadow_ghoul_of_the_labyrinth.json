@@ -1,0 +1,21 @@
+{
+  "id": 62411811,
+  "name": "Shadow Ghoul of the Labyrinth",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can discard this card; add 1 \"Labyrinth Wall\" card from your Deck to your hand. At the start of the Damage Step, if your opponent's monster battles, while you control a \"Labyrinth Wall\" card: You can banish this card from your GY; destroy that opponent's monster. You can only use each effect of \"Shadow Ghoul of the Labyrinth\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/62411811.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
+}

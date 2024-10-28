@@ -3,7 +3,7 @@
   "name": "Wandering King Wildwind",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Fiend-Type Tuner with 1500 or less ATK, you can Special Summon this card (from your hand). If you attempt this, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 Fiend-Type Tuner with 1500 or less ATK from your Deck to your hand.",
+  "text": "If you control a Fiend Tuner with 1500 or less ATK, you can Special Summon this card (from your hand). If Summoned this way, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 Fiend Tuner with 1500 or less ATK from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52589809.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1700,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 4,
   "is_tuner": false

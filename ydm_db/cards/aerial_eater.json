@@ -1,0 +1,21 @@
+{
+  "id": 28143384,
+  "name": "Aerial Eater",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Fiend monsters with the same Attribute\nIf this card is Fusion Summoned: You can send 1 Fiend monster from your Deck to the GY. If this card is in your GY: You can banish 2 Level 6 or higher Fiend monsters with the same Attribute as each other from your GY, except \"Aerial Eater\"; Special Summon this card. You can only use each effect of \"Aerial Eater\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/28143384.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2100,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2600,
+  "level": 6,
+  "is_tuner": false
+}

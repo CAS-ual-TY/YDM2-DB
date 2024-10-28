@@ -3,7 +3,7 @@
   "name": "Superdimensional Robot Galaxy Destroyer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 10 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; destroy all Spell and Trap Cards your opponent controls. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.",
+  "text": "3 Level 10 monsters\nOnce per turn: You can detach 1 material from this card; destroy all Spells/Traps your opponent controls. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66523544.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 5000,
   "species": "Machine",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2000,
   "rank": 10
 }

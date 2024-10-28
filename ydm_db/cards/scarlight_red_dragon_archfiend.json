@@ -3,7 +3,7 @@
   "name": "Scarlight Red Dragon Archfiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nThis card's name becomes \"Red Dragon Archfiend\" while it is on the field or in the GY. Once per turn: You can destroy as many Special Summoned Effect Monsters on the field as possible with ATK less than or equal to this card's (other than this card), then inflict 500 damage to your opponent for each monster destroyed.",
+  "text": "1 Tuner + 1+ non-Tuner monsters\nThis card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. Once per turn: You can destroy as many other Special Summoned Effect Monsters on the field as possible with ATK less than or equal to this card's, then inflict 500 damage to your opponent for each monster destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80666118.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 3000,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2500,
   "level": 8,
   "is_tuner": false

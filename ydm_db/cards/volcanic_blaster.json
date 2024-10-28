@@ -3,7 +3,7 @@
   "name": "Volcanic Blaster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed and sent to the Graveyard by battle, you can place 1 \"Volcanic\" monster in your Deck on top of your Deck.",
+  "text": "When this card is destroyed by battle and sent to the GY: You can place 1 \"Volcanic\" monster from your Deck on top of your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81020140.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 1200,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 3,
   "is_tuner": false

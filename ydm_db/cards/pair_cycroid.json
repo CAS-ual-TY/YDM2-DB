@@ -3,7 +3,7 @@
   "name": "Pair Cycroid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Machine-Type monsters with the same name\nThis card can attack your opponent directly.",
+  "text": "2 Machine monsters with the same name\nThis card can attack directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16114248.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1600,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1200,
   "level": 5,
   "is_tuner": false

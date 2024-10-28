@@ -1,0 +1,24 @@
+{
+  "id": 28406301,
+  "name": "D/D Gryphon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a \"D/D\" monster: You can Special Summon this card from your hand in Defense Position. If this card is Pendulum Summoned: You can discard 1 \"D/D\" or \"Dark Contract\" card; draw 1 card. If this card is Special Summoned from the GY: You can add 1 \"D/D\" card from your Deck to your hand, except \"D/D Gryphon\". You can only use each effect of \"D/D Gryphon\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/28406301.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "You can target 1 Fiend monster you control; it gains 500 ATK (until the end of this turn) for each \"Dark Contract\" Spell/Trap with different names currently on your field or in your GY, then destroy this card. You can only use this effect of \"D/D Gryphon\" once per turn.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

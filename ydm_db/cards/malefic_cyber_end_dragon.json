@@ -3,7 +3,7 @@
   "name": "Malefic Cyber End Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 \"Cyber End Dragon\" from your Extra Deck. There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Cyber End Dragon\" from your Extra Deck. There can only be 1 \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell on the field, destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1710476.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 4000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2800,
   "level": 10,
   "is_tuner": false

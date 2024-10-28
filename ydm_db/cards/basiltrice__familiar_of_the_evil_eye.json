@@ -1,0 +1,21 @@
+{
+  "id": 65351555,
+  "name": "Basiltrice, Familiar of the Evil Eye",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control an \"Evil Eye\" monster and this card is in your hand or GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. During your opponent's turn, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 \"Evil Eye\" Link Monster using monsters you control as material. When you do, you can also use \"Evil Eye\" Equip Spells you control as \"Evil Eye\" monsters. You can only use each effect of \"Basiltrice, Familiar of the Evil Eye\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/65351555.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
+}

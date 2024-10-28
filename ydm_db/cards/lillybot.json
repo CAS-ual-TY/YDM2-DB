@@ -3,7 +3,7 @@
   "name": "Lillybot",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned or flipped face-up: You can target 1 \"Orbital 7\" in your Graveyard; Special Summon that target in face-up Attack Position or face-down Defense Position. Once per turn: You can Tribute any number of Machine-Type monsters; Special Summon an equal number of \"Photon\" and/or \"Galaxy\" monsters from your hand.",
+  "text": "When this card is Normal Summoned or flipped face-up: You can target 1 \"Orbital 7\" in your GY; Special Summon that target in face-up Attack Position or face-down Defense Position. Once per turn: You can Tribute any number of Machine monsters; Special Summon an equal number of \"Photon\" and/or \"Galaxy\" monsters from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68812773.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 500,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 4,
   "is_tuner": false

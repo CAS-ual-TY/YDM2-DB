@@ -3,7 +3,7 @@
   "name": "Flower Cardian Willow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While you control a Level 10 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. Once per turn: You can target 1 \"Flower Cardian\" monster in your Graveyard; shuffle it into your Deck, then draw 1 card.",
+  "text": "While you control a Level 10 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. Once per turn: You can target 1 \"Flower Cardian\" monster in your GY; shuffle it into your Deck, then draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54135423.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 100,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 11,
   "is_tuner": false

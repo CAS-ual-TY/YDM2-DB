@@ -1,0 +1,21 @@
+{
+  "id": 10807219,
+  "name": "Newbee!",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have a monster with 0 ATK/DEF in your GY, you can Special Summon this card (from your hand). You can only Special Summon \"Newbee!\" once per turn this way. If this card is Special Summoned from the hand: You can apply these effects in sequence.\n\u25cf Add 1 LIGHT Insect monster from your GY to your hand, except \"Newbee!\".\n\u25cf Place 1 of your Traps that is banished or in your GY on either the top or bottom of the Deck.\nYou can only use this effect of \"Newbee!\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10807219.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

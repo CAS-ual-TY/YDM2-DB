@@ -1,0 +1,21 @@
+{
+  "id": 23093373,
+  "name": "Selettrice Vaalmonica",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While you control a monster, except \"Selettrice Vaalmonica\", your opponent's monsters cannot target this card for attacks. You can only use each of the following effects of \"Selettrice Vaalmonica\" once per turn. If this card is Normal or Pendulum Summoned: You can add 1 \"Vaalmonica\" card from your Deck to your hand, except \"Selettrice Vaalmonica\". If this card is sent to the GY and you have 2 \"Vaalmonica\" cards in your Pendulum Zones: You can add this card to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23093373.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

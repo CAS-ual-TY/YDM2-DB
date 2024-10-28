@@ -1,0 +1,21 @@
+{
+  "id": 37243151,
+  "name": "Weather Control",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This creature controls weather and is often the cause of mountain storms.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37243151.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

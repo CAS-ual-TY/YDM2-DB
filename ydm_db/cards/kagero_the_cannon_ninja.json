@@ -1,0 +1,21 @@
+{
+  "id": 20065259,
+  "name": "Kagero the Cannon Ninja",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal Summoned, Special Summoned, or flipped face-up: You can Special Summon 1 \"Ninja\" monster from your hand or GY in face-down Defense Position, except \"Kagero the Cannon Ninja\". When your opponent activates a card or effect that targets exactly 1 \"Ninja\" card or exactly 1 face-down Defense Position monster you control, while this card is in your GY (Quick Effect): You can Special Summon this card in face-down Defense Position, and if you do, return that targeted card to the hand. You can only use each effect of \"Kagero the Cannon Ninja\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/20065259.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

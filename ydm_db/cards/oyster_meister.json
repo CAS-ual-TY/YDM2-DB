@@ -3,7 +3,7 @@
   "name": "Oyster Meister",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent from the field to the Graveyard, except when destroyed by battle: Special Summon 1 \"Oyster Token\" (Fish-Type/WATER/Level 1/ATK 0/DEF 0).",
+  "text": "If this card is sent from the field to the GY, except when destroyed by battle: Special Summon 1 \"Oyster Token\" (Fish/WATER/Level 1/ATK 0/DEF 0).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83239739.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1600,
   "species": "Fish",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 3,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Number 74: Master of Blades",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 7 monsters\nDuring either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card, then you can destroy 1 card on the field.",
+  "text": "2 Level 7 monsters\nWhen a card or effect is activated that targets this face-up card (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card, then you can destroy 1 card on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16037007.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 2700,
   "species": "Psychic",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 2100,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2300,
   "rank": 7
 }

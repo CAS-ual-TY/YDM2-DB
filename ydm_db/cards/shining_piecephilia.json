@@ -1,0 +1,21 @@
+{
+  "id": 49776811,
+  "name": "Shining Piecephilia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can place 1 Piece Counter on this card (max. 4), then you can apply the following effect, based on the number of Piece Counters on it.\n\u25cf 1: Place 1 monster from your Deck on top of your Deck.\n\u25cf 2: Draw 1 card.\n\u25cf 3: Add 1 monster from your Deck to your hand.\n\u25cf 4: Add 1 card from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/49776811.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 700,
+  "species": "Rock",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

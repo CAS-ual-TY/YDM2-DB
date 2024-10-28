@@ -11,14 +11,14 @@
   "attribute": "FIRE",
   "atk": 2100,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": false,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 2200,
   "level": 6,
-  "is_tuner": false,
-  "pendulum_text": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

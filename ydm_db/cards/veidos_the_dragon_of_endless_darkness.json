@@ -1,0 +1,21 @@
+{
+  "id": 8540986,
+  "name": "Veidos the Dragon of Endless Darkness",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Veidos the Eruption Dragon of Extinction\" + 2+ Level 9 or lower Pyro monsters\nCannot be destroyed by card effects, also your opponent cannot target it with monster effects. If this card is Fusion Summoned: You can destroy all Spells and Traps your opponent controls. When your opponent activates a card or effect on the field (Quick Effect): You can send 1 face-up \"Ashened\" card you control to the GY; destroy that card. You can only use this effect of \"Veidos the Dragon of Endless Darkness\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/8540986.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 1700,
+  "level": 10,
+  "is_tuner": false
+}

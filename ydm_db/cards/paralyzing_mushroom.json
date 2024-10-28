@@ -1,0 +1,21 @@
+{
+  "id": 22712877,
+  "name": "Paralyzing Mushroom",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a monster(s) that was originally Thunder is sent from your hand or field to the GY, even during the Damage Step: You can Special Summon this card from your hand. If a Thunder monster's effect is activated in the hand, while this card is in the Monster Zone (except during the Damage Step): You can Special Summon 1 \"Paralyzing Token\" (Thunder/DARK/Level 1/ATK 0/DEF 0). You can only use each effect of \"Paralyzing Mushroom\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/22712877.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

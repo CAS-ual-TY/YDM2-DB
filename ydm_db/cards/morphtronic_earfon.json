@@ -1,0 +1,21 @@
+{
+  "id": 37260946,
+  "name": "Morphtronic Earfon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nWhile this card is an Equip Card, the equipped monster can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of \"Morphtronic Earfon\" once per turn. If this card is Special Summoned: You can target 1 face-up monster on the field; treat it as a Tuner until the end of this turn. You can target 1 Synchro Monster on the field; equip this card from your field or GY to it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37260946.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

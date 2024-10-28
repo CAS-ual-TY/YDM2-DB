@@ -1,0 +1,22 @@
+{
+  "id": 41739381,
+  "name": "Clockwork Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 non-Link Machine monster with 1000 or less original ATK\nIf this card is Link Summoned: You can send 1 face-up Continuous Spell you control to the GY; add 1 \"Clockwork Night\" from your Deck to your hand. You can target 1 Machine monster with 1000 or less ATK in your GY; Tribute 1 other Machine monster, and if you do, Special Summon the targeted monster in Defense Position. You can only use each effect of \"Clockwork Knight\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/41739381.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Left"
+  ]
+}

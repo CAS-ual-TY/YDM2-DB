@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 1600,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
-  "def": 2600,
-  "level": 4,
-  "is_tuner": false,
+  "monster_type": "",
+  "is_pendulum": true,
   "pendulum_text": "",
   "pendulum_scale_left_blue": 5,
-  "pendulum_scale_right_red": 5
+  "pendulum_scale_right_red": 5,
+  "def": 2600,
+  "level": 4,
+  "is_tuner": false
 }

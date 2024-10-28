@@ -1,0 +1,21 @@
+{
+  "id": 67853262,
+  "name": "Magician of Faithfulness",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: You can target 1 Spell in your GY; add it to your hand, then you can Special Summon 1 \"Magician of Faith\" or \"Magician of Faithfulness\" from your Deck in face-down Defense Position. You can only use this effect of \"Magician of Faithfulness\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/67853262.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Spellcaster",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 5,
+  "is_tuner": false
+}

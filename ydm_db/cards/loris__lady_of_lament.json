@@ -1,0 +1,21 @@
+{
+  "id": 50699850,
+  "name": "Loris, Lady of Lament",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can target 3 or 6 of your Normal Traps that are banished and/or in your GY; place them on the bottom of your Deck in any order, then draw 1 card for every 3 cards placed. If another monster(s) is Tributed, or if a Normal Trap(s) is sent to your GY by an opponent's card effect (except during the Damage Step): You can target 1 Normal Trap in your GY; Set it. You can only use each effect of \"Loris, Lady of Lament\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/50699850.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 16240772,
+  "name": "Sinful Spoils of Doom - Rciela",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 Level 7 or higher Spellcaster monster you control; apply the following effects.\n\u25cf While face-up, that monster is unaffected by other monsters' effects this turn, and is sent to the GY during the Standby Phase of the next turn.\n\u25cf All monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, then if their ATK becomes 0 by this effect, destroy them.\nYou can only activate 1 \"Sinful Spoils of Doom - Rciela\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/16240772.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

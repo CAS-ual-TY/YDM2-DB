@@ -1,0 +1,21 @@
+{
+  "id": 55343172,
+  "name": "Legendary Dueling Field",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A field of battle for those who believe in the Decks they've built, those who never turn their backs on any foes, those brave enough to fight to the very end and wage rites deciding winners and losers. It is said that when they unite their hearts with the hearts of their cards through bonds and take a step forward by swearing on their pride and souls, they can carve open a road continuing on to the as-of-yet unfinished future.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/55343172.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3000,
+  "level": 5,
+  "is_tuner": false
+}

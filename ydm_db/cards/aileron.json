@@ -1,0 +1,21 @@
+{
+  "id": 96084564,
+  "name": "Aileron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a \"Sky Striker\" card.)\nA \"Sky Striker Ace\" monster equipped with this card gains 400 ATK. You can only use 1 of the following effects of \"Aileron\" per turn, and only once that turn. During the Main Phase (Quick Effect): You can target 1 \"Sky Striker Ace\" monster you control; equip this card from your hand or field to it. If this card on the field is destroyed: You can send 1 \"Sky Striker\" Spell from your Deck to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/96084564.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

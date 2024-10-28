@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "If a \"Performapal\" monster(s) is Pendulum Summoned to your field: All \"Performapal\" monsters you currently control gain 1000 ATK until the end of this turn (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 800,
   "level": 4,
-  "is_tuner": false,
-  "pendulum_text": "If a \"Performapal\" monster(s) is Pendulum Summoned to your field: All \"Performapal\" monsters you currently control gain 1000 ATK until the end of this turn (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

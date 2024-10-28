@@ -3,7 +3,7 @@
   "name": "ZS - Ascended Sage",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control no cards, you can Special Summon this card (from your hand). A \"Utopia\" Xyz Monster that was Summoned using this card on the field as material gains this effect.\n? If this card is Xyz Summoned: You can add 1 \"Rank-Up-Magic\" Normal Spell from your Deck to your hand.\nYou can only use this effect of \"ZS - Ascended Sage\" once per turn.",
+  "text": "If you control no cards, you can Special Summon this card (from your hand). A \"Utopia\" Xyz Monster that was Summoned using this card on the field as material gains this effect.\n\u25cf If this card is Xyz Summoned: You can add 1 \"Rank-Up-Magic\" Normal Spell from your Deck to your hand.\nYou can only use this effect of \"ZS - Ascended Sage\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/4647954.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 900,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 4,
   "is_tuner": false

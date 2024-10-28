@@ -1,0 +1,21 @@
+{
+  "id": 32281491,
+  "name": "ZS - Ouroboros Sage",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 non-LIGHT \"Number\" monster from your GY, but negate its effects, and if you do, equip both this card and 1 \"Utopia\" monster you control to it, each as an Equip Spell that gives it 1700 ATK, also you can only declare one attack for the rest of this turn. When the monster equipped with this card by this card's effect declares an attack on your opponent's monster: You can double the attacking monster's ATK, but destroy it during the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32281491.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 600,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

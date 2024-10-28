@@ -3,7 +3,7 @@
   "name": "Nimble Momonga",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+  "text": "If this card is destroyed by battle and sent to the GY: Gain 1000 LP, then you can Special Summon any number of \"Nimble Momonga\" from your Deck in face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22567609.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 2,
   "is_tuner": false

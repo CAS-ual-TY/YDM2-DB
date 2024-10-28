@@ -3,7 +3,7 @@
   "name": "Mysterion the Dragon Crown",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Spellcaster monster + 1 Dragon monster\nCannot be used as Fusion Material. Loses 100 ATK for each of your banished cards. If a monster(s) is Special Summoned by its own activated monster effect, or the activated effect of a monster with the same original Type (except during the Damage Step): You can target 1 of those Special Summoned monsters; banish it and all monsters on the field with the same original Type as that monster. You can only use this effect of \"Mysterion the Dragon Crown\" once per turn.",
+  "text": "1 Spellcaster monster + 1 Dragon monster\nCannot be used as Fusion Material. This card loses 100 ATK for each of your banished cards. If a monster uses its activated effect to Special Summon itself, or a monster(s) with its same original Type (except during the Damage Step): You can target 1 of those Special Summoned monsters; banish that monster, also banish all monsters from the field with its same original Type. You can only use this effect of \"Mysterion the Dragon Crown\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13735899.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 3000,
   "species": "Spellcaster",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1500,
   "level": 8,
   "is_tuner": false

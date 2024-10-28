@@ -1,0 +1,21 @@
+{
+  "id": 7225792,
+  "name": "Mon Larvas",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A further step in the evolutionary chain, it is much more powerful than \"Larvas\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/7225792.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1300,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 35057188,
+  "name": "Battlewasp - Grand Partisan the Revolution",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nCannot be destroyed by card effects. Insect Synchro Monsters you control gain 200 ATK for each of your banished Insect monsters. If this card is banished: You can Special Summon it, then you can destroy cards your opponent controls up to the number of your banished Insect monsters, then inflict 500 damage to your opponent for each card destroyed. You can only use this effect of \"Battlewasp - Grand Partisan the Revolution\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/35057188.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 12,
+  "is_tuner": false
+}

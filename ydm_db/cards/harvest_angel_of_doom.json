@@ -1,0 +1,24 @@
+{
+  "id": 31987203,
+  "name": "Harvest Angel of Doom",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Pendulum Summoned: You can add 1 \"Horn of Heaven\" from your Deck to your hand. If this card is Tributed: You can place this card in your Pendulum Zone. You can only use each effect of \"Harvest Angel of Doom\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/31987203.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "During your Main Phase: You can destroy this card, and if you do, add 1 \"Black Horn of Heaven\" from your Deck to your hand. You can only use this effect of \"Harvest Angel of Doom\" once per turn.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

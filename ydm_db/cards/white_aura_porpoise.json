@@ -1,0 +1,21 @@
+{
+  "id": 46956301,
+  "name": "White Aura Porpoise",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 WATER Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can Special Summon 1 Level 4 or lower Fish monster from your hand or GY in Defense Position, then you can Special Summon 1 monster with that same name from your GY. You can only use this effect of \"White Aura Porpoise\" once per turn. If this card in your possession is destroyed by your opponent's card and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/46956301.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1300,
+  "level": 6,
+  "is_tuner": false
+}

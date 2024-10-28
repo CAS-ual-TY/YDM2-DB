@@ -3,7 +3,7 @@
   "name": "Herald of Pure Light",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 2 monsters\nYou can detach 1 Xyz Material from this card, then target 1 monster in your Graveyard; add it to your hand, then shuffle 1 card from your hand into the Deck. You can only use the effect of \"Herald of Pure Light\" once per turn.",
+  "text": "2 Level 2 monsters\nYou can detach 1 material from this card, then target 1 monster in your GY; add it to your hand, then shuffle 1 card from your hand into the Deck. You can only use the effect of \"Herald of Pure Light\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1249315.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 600,
   "species": "Fairy",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1000,
   "rank": 2
 }

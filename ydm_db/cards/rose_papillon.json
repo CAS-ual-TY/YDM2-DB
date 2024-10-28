@@ -1,0 +1,21 @@
+{
+  "id": 8910240,
+  "name": "Rose Papillon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Main Phase, you can Tribute Summon 1 Level 7 or higher monster in Attack Position in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) While you control another Insect monster, this card can attack directly.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/8910240.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1400,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

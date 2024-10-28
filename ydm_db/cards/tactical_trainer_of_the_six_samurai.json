@@ -1,0 +1,21 @@
+{
+  "id": 16968936,
+  "name": "Tactical Trainer of the Six Samurai",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a \"Six Samurai\" monster other than \"Tactical Trainer of the Six Samurai\", you can Special Summon this card (from your hand). You can only Special Summon \"Tactical Trainer of the Six Samurai\" once per turn this way. You can only use each of the following effects of \"Tactical Trainer of the Six Samurai\" once per turn. If this card is sent from the field to the GY: You can add 1 \"Six Strike\" card from your Deck or GY to your hand. A \"Six Samurai\" monster that was Synchro Summoned using this card gains this effect.\n\u25cf Monsters your opponent controls lose 500 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/16968936.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 200,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 2,
+  "is_tuner": true
+}

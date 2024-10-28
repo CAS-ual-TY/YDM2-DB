@@ -1,0 +1,21 @@
+{
+  "id": 39552584,
+  "name": "Grapha, Dragon Overlord of Dark World",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Grapha, Dragon Lord of Dark World\" + 1 DARK monster\nWhen your opponent activates a monster effect, or a Normal Spell/Trap Card, while you have a card(s) in your hand (Quick Effect): You can activate this effect; the activated effect becomes \"Your opponent discards 1 card\". You can only use this effect of \"Grapha, Dragon Overlord of Dark World\" once per turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your \"Grapha, Dragon Lord of Dark World\" that is banished or in your GY, then each player with a hand discards 1 card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/39552584.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3200,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2300,
+  "level": 10,
+  "is_tuner": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 73898890,
+  "name": "Dyna Mondo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters, including a Ritual Monster\nIf this card is Special Summoned: You can target 1 card on the field and 1 Ritual Monster in your GY; shuffle both into the Deck. During your opponent's turn (Quick Effect): You can Tribute this card, then target 1 Ritual Monster in your GY; either add it to your hand or Special Summon it. You can only use each effect of \"Dyna Mondo\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/73898890.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Top",
+    "Bottom"
+  ]
+}

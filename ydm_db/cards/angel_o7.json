@@ -3,7 +3,7 @@
   "name": "Angel O7",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Tribute Summoned, it gains the following effect: ? The effects of Effect Monsters cannot be activated.",
+  "text": "If this card is Tribute Summoned, it gains this effect:\n\u25cf Neither player can activate monster effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56784842.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 7,
   "is_tuner": false

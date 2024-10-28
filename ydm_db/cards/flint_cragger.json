@@ -1,0 +1,21 @@
+{
+  "id": 84778110,
+  "name": "Flint Cragger",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Special Summoned: You can discard 1 card, and if you do, send 1 \"Fossil\" Fusion Monster from your Extra Deck to the GY. You can send this card from the field to the GY; inflict 500 damage to your opponent, then, if \"Fossil Fusion\" is in your GY, you can return to your GY, 1 of your banished cards that is \"Fossil Fusion\" or mentions it. You can only use each effect of \"Flint Cragger\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84778110.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Rock",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

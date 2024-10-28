@@ -1,0 +1,21 @@
+{
+  "id": 99217226,
+  "name": "Paladins of Bonds and Unity",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters with 2500 original ATK/DEF\nWhile you control this Synchro Summoned card, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. While you have 25 or more cards in your GY, this Synchro Summoned card gains 100 ATK/DEF for each card on the field and in the GYs. Once per turn, when a Spell Card is activated and your opponent has 25 or more cards in their GY (Quick Effect): You can negate the activation, and if you do, destroy that card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/99217226.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2900,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2900,
+  "level": 12,
+  "is_tuner": false
+}

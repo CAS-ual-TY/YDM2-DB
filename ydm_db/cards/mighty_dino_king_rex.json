@@ -1,0 +1,21 @@
+{
+  "id": 81743801,
+  "name": "Mighty Dino King Rex",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this attacking card destroys an opponent's monster by battle: It can make a second attack during this Battle Phase. Once per turn, if you control this card that was not Summoned this turn: You can target up to 2 monsters your opponent controls; destroy them.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81743801.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3200,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 9,
+  "is_tuner": false
+}

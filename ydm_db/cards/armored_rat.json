@@ -1,0 +1,21 @@
+{
+  "id": 16246527,
+  "name": "Armored Rat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The fur on this monster rat is tough enough to repel swords.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/16246527.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 950,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
+}

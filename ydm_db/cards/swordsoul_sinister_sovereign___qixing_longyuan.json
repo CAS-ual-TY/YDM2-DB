@@ -1,0 +1,21 @@
+{
+  "id": 47710198,
+  "name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner Wyrm monsters\nIf you Synchro Summon another Wyrm monster, while this monster is on the field: You can draw 1 card. If your opponent Special Summons a monster(s) (except during the Damage Step): You can banish 1 of those monster(s), and if you do, inflict 1200 damage to your opponent. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can banish that card, and if you do, inflict 1200 damage to your opponent. You can only use each effect of \"Swordsoul Sinister Sovereign - Qixing Longyuan\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47710198.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2900,
+  "species": "Wyrm",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2300,
+  "level": 10,
+  "is_tuner": false
+}

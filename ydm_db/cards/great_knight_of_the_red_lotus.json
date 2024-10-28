@@ -1,0 +1,21 @@
+{
+  "id": 51132012,
+  "name": "Great Knight of the Red Lotus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by shuffling up to 3 non-Effect Monsters from your GY into the Deck/Extra Deck. You can only Special Summon \"Great Knight of the Red Lotus\" once per turn this way. If Summoned this way, it gains 800 ATK for each Normal Monster shuffled into the Deck for its Summon. Once per turn: You can target 1 monster on the field and 1 non-Effect Monster in your GY; destroy that monster on the field, and if you do, Special Summon that monster from the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/51132012.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 8,
+  "is_tuner": false
+}

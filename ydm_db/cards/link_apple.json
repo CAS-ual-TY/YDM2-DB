@@ -3,7 +3,7 @@
   "name": "Link Apple",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can reveal this card in your hand; banish 1 random face-down card from your Extra Deck, then, if it is a Link Monster, Special Summon this card. Otherwise, discard this card, and if you do, draw 1 card. You can only use this effect of \"Link Apple\" once per turn.",
+  "text": "You can reveal this card in your hand; banish (face-up) 1 random face-down card from your Extra Deck, then, Special Summon this card if the banished card was a Link Monster. Otherwise, discard this card, and if you do, draw 1 card. You can only use this effect of \"Link Apple\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7925734.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "FIRE",
   "atk": 0,
   "species": "Cyberse",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": false

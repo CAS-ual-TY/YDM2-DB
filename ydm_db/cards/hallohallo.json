@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 800,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": false,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can target 1 face-up monster on the field; roll a six-sided die and that monster's Level becomes the same as the result until the end of this turn.",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 600,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can target 1 face-up monster on the field; roll a six-sided die and that monster's Level becomes the same as the result until the end of this turn.\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": true
 }

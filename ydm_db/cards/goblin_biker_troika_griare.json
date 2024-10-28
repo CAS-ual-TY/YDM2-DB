@@ -1,0 +1,20 @@
+{
+  "id": 44241999,
+  "name": "Goblin Biker Troika Griare",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Level 3 monsters\nWhile 3 or more Xyz Materials are attached to monsters on the field, \"Goblin\" monsters you control can attack directly. Once per turn, if a monster(s) is Normal or Special Summoned, while this card is in the Monster Zone (except during the Damage Step): You can target 1 of those monsters; detach 1 material from a monster on either field, and if you do, change the targeted monster's battle position. Once per turn, when an opponent's monster declares an attack: You can detach 1 material from a monster on either field, and if you do, negate that attack.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44241999.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1700,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 0,
+  "rank": 3
+}

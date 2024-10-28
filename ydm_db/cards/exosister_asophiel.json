@@ -1,0 +1,20 @@
+{
+  "id": 41524885,
+  "name": "Exosister Asophiel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 4 monsters\nCannot be destroyed by the activated effects of monsters Special Summoned from the GY. You can only use each of the following effects of \"Exosister Asophiel\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: Neither player can activate card effects in the GY this turn. You can detach 1 material from this card, then target 1 monster your opponent controls; return it to the hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/41524885.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1800,
+  "rank": 4
+}

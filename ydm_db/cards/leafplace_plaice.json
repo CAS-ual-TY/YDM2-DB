@@ -1,0 +1,21 @@
+{
+  "id": 50599453,
+  "name": "Leafplace Plaice",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gains 200 ATK/DEF for each card in your opponent's GY. During your Standby Phase, if this card is in your hand or GY and your opponent has more cards in their GY than you: You can Special Summon this card. You can only use this effect of \"Leafplace Plaice\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/50599453.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": -1,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": -1,
+  "level": 3,
+  "is_tuner": false
+}

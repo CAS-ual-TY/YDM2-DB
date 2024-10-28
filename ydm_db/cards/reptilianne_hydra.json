@@ -3,7 +3,7 @@
   "name": "Reptilianne Hydra",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Reptilianne\" Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned, destroy all face-up monsters with 0 ATK that your opponent controls, and draw 1 card for each monster destroyed.",
+  "text": "1 \"Reptilianne\" Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: Destroy as many monsters your opponent controls with 0 ATK as possible, and if you do, draw 1 card for each monster destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60634565.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 2100,
   "species": "Reptile",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1500,
   "level": 6,
   "is_tuner": false

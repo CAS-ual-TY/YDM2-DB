@@ -3,7 +3,7 @@
   "name": "Amphibious Bugroth MK-3",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While \"Umi\" is face-up on the field, this card can attack your opponent's Life Points directly.",
+  "text": "As long as \"Umi\" remains face-up on the field, this card can attack your opponent's Life Points directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64342551.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1500,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 4,
   "is_tuner": false

@@ -11,14 +11,14 @@
   "attribute": "DARK",
   "atk": 2300,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can pay 500 LP, then target 1 \"D/D\" monster you control; it gains 500 ATK (even if this card leaves the field). Unless you have a \"D/D\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 5.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8,
   "def": 1500,
   "level": 6,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn: You can pay 500 LP, then target 1 \"D/D\" monster you control; it gains 500 ATK (even if this card leaves the field). Unless you have a \"D/D\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 5.\n",
-  "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8
+  "is_tuner": false
 }

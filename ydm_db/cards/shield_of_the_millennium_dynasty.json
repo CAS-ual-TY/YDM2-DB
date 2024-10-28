@@ -1,0 +1,21 @@
+{
+  "id": 1164211,
+  "name": "Shield of the Millennium Dynasty",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be destroyed by Spell/Trap effects. You can only use each of the following effects of \"Shield of the Millennium Dynasty\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. While this card is a Continuous Spell: You can either pay 2000 LP, or reveal 1 \"Millennium Ankh\" in your hand; Special Summon this card, then you can add 1 \"Millennium Ankh\" from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/1164211.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 3000,
+  "level": 5,
+  "is_tuner": false
+}

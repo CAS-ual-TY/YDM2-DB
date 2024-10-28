@@ -1,9 +1,9 @@
 {
   "id": 54257392,
-  "name": "Live?Twin Ki-sikil Frost",
+  "name": "Live\u2606Twin Ki-sikil Frost",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a \"Lil-la\" Monster Card}monster, you can Special Summon this card (from your hand). You can only Special Summon \"Live?Twin Ki-sikil Frost\" once per turn this way. If your opponent adds a card(s) from the Deck to the hand by a card effect and you control an \"Evil?Twin\" monster: You can banish this card from your GY; draw 1 card. You can only use this effect of \"Live?Twin Ki-sikil Frost\" once per turn.",
+  "text": "If you control a \"Lil-la\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Live\u2606Twin Ki-sikil Frost\" once per turn this way. If a card(s) is added from the Main Deck to your opponent's hand by a card effect (except during the Damage Step), while you control an \"Evil\u2605Twin\" monster: You can banish this card from your GY; draw 1 card. You can only use this effect of \"Live\u2606Twin Ki-sikil Frost\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54257392.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 500,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 2,
   "is_tuner": false

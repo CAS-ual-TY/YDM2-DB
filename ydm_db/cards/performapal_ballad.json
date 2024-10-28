@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 500,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn, at the start of the Damage Step, when your \"Performapal\" monster battles an opponent's face-up monster: You can make that opponent's monster lose 600 ATK (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2,
   "def": 1100,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "Once per turn, at the start of the Damage Step, when your \"Performapal\" monster battles an opponent's face-up monster: You can make that opponent's monster lose 600 ATK (even if this card leaves the field).\n",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2
+  "is_tuner": false
 }

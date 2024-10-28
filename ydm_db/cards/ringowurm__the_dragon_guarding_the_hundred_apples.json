@@ -1,0 +1,21 @@
+{
+  "id": 30765615,
+  "name": "Ringowurm, the Dragon Guarding the Hundred Apples",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up non-Effect Monster is on the field: You can Special Summon this card from your hand. During your Main Phase, if you Synchro Summoned this turn: You can banish this card from your GY; Special Summon 1 \"Hundred Apples Token\" (Wyrm/LIGHT/Level 2/ATK 100/DEF 100). The player who Summoned it can treat it as a Tuner for a Synchro Summon. You can only use each effect of \"Ringowurm, the Dragon Guarding the Hundred Apples\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/30765615.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 100,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 2,
+  "is_tuner": true
+}

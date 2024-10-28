@@ -1,0 +1,21 @@
+{
+  "id": 30676200,
+  "name": "Hero of the Ashened City",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Hero of the Ashened City\" once per turn this way. During the Main Phase (Quick Effect): You can target 1 Pyro monster on the field; destroy it, then if you destroyed \"Veidos the Eruption Dragon of Extinction\" by this effect, you can place 1 \"Obsidim, the Ashened City\" from your Deck face-up in your Field Zone. You can only use this effect of \"Hero of the Ashened City\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/30676200.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
+}

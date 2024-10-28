@@ -1,0 +1,21 @@
+{
+  "id": 41165831,
+  "name": "Unchained Soul of Sharvara",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 Fiend monster or 1 face-down card you control; destroy it, and if you do, Special Summon this card, but while it is face-up in the Monster Zone, you cannot Special Summon monsters, except Fiend monsters. If this card is sent to the GY: You can Set 1 \"Unchained\" Spell/Trap directly from your Deck. You can only use each effect of \"Unchained Soul of Sharvara\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/41165831.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 78362751,
+  "name": "Gunkan Suship Shirauo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a \"Gunkan Suship Shari\", or an Xyz Monster that has \"Gunkan Suship Shari\" as material: You can Special Summon this card from your hand. During your Main Phase: You can Special Summon 1 \"Gunkan\" monster from your hand, except \"Gunkan Suship Shirauo\", then you can take any number of \"Gunkan Suship Shari\" from your Deck or GY and place them on top of your Deck in any order. You can only use each effect of \"Gunkan Suship Shirauo\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/78362751.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 200,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 250,
+  "level": 4,
+  "is_tuner": false
+}

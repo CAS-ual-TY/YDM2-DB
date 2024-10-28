@@ -3,7 +3,7 @@
   "name": "Bujinki Ahashima",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters with the same Level\nCannot be used as Link Material. You can only use each of the following effects of \"Bujinki Ahashima\" once per turn.\n? If this card is Link Summoned: You can Special Summon 2 monsters with the same Level, 1 from your hand and 1 from your GY, but negate their effects, and immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only.\n? If an Xyz Monster this card points to activates an effect by detaching material(s) (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it.",
+  "text": "2 monsters with the same Level\nCannot be used as Link Material. You can only use each of the following effects of \"Bujinki Ahashima\" once per turn.\n\u25cf If this card is Link Summoned: You can Special Summon 2 monsters with the same Level, 1 from your hand and 1 from your GY, but negate their effects, and immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only.\n\u25cf If an Xyz Monster this card points to activates an effect by detaching material(s) (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71095768.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Beast-Warrior",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 2,
   "link_arrows": [
     "Top",

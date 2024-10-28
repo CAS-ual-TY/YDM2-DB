@@ -3,7 +3,7 @@
   "name": "Future Samurai",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n? Once per turn: You can banish 1 monster from your Graveyard to target 1 face-up monster on the field; destroy that target.",
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cf Once per turn: You can banish 1 monster from your Graveyard to target 1 face-up monster on the field; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90642597.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1600,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Gemini",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

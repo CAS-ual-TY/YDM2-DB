@@ -1,0 +1,21 @@
+{
+  "id": 3248469,
+  "name": "Wannabee!",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During the End Phase: You can send this card from your hand or field to the GY; excavate cards from the top of your Deck, equal to the number of your opponent's unused Spell & Trap Zones, and you can Set 1 excavated Trap to your field (but send it to the GY during the next End Phase), also place the rest on the bottom of the Deck in any order. You can only use this effect of \"Wannabee!\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3248469.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

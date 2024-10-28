@@ -1,0 +1,21 @@
+{
+  "id": 2511,
+  "name": "Labrynth Cooclock",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(Quick Effect): You can discard this card; this turn, you can activate 1 Normal Trap Card that was Set this turn, if you control a \"Labrynth\" monster. If a card(s) is sent from your hand to the GY to activate your Normal Trap Card or your \"Labrynth\" card or effect, except \"Labrynth Cooclock\", while this card is in your GY (except during the Damage Step): You can add this card to your hand, or Special Summon it. You can only use each effect of \"Labrynth Cooclock\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/2511.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

@@ -3,7 +3,7 @@
   "name": "Elemental HERO Steam Healer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Elemental HERO Burstinatrix\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the ATK of that destroyed monster in the Graveyard.",
+  "text": "\"Elemental HERO Burstinatrix\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned. If this card destroys a monster by battle and sends it to the GY: Gain LP equal to that monster's original ATK in the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81197327.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 1800,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1000,
   "level": 5,
   "is_tuner": false

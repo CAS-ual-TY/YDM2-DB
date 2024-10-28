@@ -3,7 +3,7 @@
   "name": "Infinitrack Goliath",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 non-Link \"Infinitrack\" monster\nIf this card is sent from the field to the GY: You can target 1 Xyz Monster you control; attach this card to that monster as material. You can only use this effect of \"Infinitrack Goliath\" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.\n? This card cannot be destroyed by card effects.",
+  "text": "1 non-Link \"Infinitrack\" monster\nIf this card is sent from the field to the GY: You can target 1 Xyz Monster you control; attach this card to that monster as material. You can only use this effect of \"Infinitrack Goliath\" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.\n\u25cf This card cannot be destroyed by card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23689428.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Machine",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 1,
   "link_arrows": [
     "Bottom-Right"

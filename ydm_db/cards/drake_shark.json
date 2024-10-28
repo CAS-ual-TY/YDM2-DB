@@ -1,0 +1,21 @@
+{
+  "id": 81096431,
+  "name": "Drake Shark",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A \"Shark Drake\" Xyz Monster that has this card as material gains this effect.\n\u25cf Once per turn: You can detach 2 materials from this card, then target 1 Spell/Trap on the field; attach it to this card as material.\nYou can only use each of the following effects of \"Drake Shark\" once per turn. If this card is added to your hand, except by drawing it: You can Special Summon this card. This card can be treated as 2 materials for the Xyz Summon of a WATER Xyz Monster that requires 3 or more materials.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81096431.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1050,
+  "level": 4,
+  "is_tuner": false
+}

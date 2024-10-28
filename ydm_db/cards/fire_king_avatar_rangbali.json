@@ -1,0 +1,21 @@
+{
+  "id": 38910263,
+  "name": "Fire King Avatar Rangbali",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up \"Fire King\" monster(s) you control is destroyed by card effect (except during the Damage Step): You can Special Summon this card from your hand. When a Spell/Trap Card or effect is activated, while this card is on the field (Quick Effect): You can negate the activation, and if you do, destroy 1 other FIRE monster in your hand or face-up field. You can only use each effect of \"Fire King Avatar Rangbali\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/38910263.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
+}

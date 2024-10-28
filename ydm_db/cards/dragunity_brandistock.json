@@ -3,7 +3,7 @@
   "name": "Dragunity Brandistock",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is equipped to a monster, that monster can attack twice during each Battle Phase.",
+  "text": "While this card is equipped to a monster, that monster can make a second attack during each Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54455664.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 600,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 1,
   "is_tuner": true
